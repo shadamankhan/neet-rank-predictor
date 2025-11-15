@@ -1,0 +1,167 @@
+// frontend/src/App.jsx
+import React, { useState } from "react";
+import axios from "axios";
+
+function likelihoodColor(pct){
+  if(pct >= 80) return {background:'#d4f8d4', color:'#1a7f1a'};
+  if(pct >= 50) return {background:'#fff4cc', color:'#a06d00'};
+  return {background:'#ffdfe0', color:'#9b0b0b'};
+}
+
+function CollegesList({ colleges }) {
+  if (!colleges || colleges.length === 0) {
+    return <p style={{ color: "#666" }}>No colleges suggested for this list.</p>;
+  }
+  return (
+    <div style={{ marginTop: 12 }}>
+      <ul style={{ paddingLeft: 18 }}>
+        {colleges.map((c, i) => (
+          <li key={i} style={{ marginBottom: 12 }}>
+            <div style={{display:'flex', justifyContent:'space-between', alignItems:'center'}}>
+              <div>
+                <strong>{c.college}</strong><br/>
+                <small style={{color:'#555'}}>Rank range: {Number(c.min_rank).toLocaleString()}–{Number(c.max_rank).toLocaleString()}</small>
+              </div>
+              <div style={{display:'flex', alignItems:'center', gap:10}}>
+                <div style={{ padding:'6px 10px', borderRadius:8, fontWeight:700, ...likelihoodColor(c.likelihood) }}>
+                  {c.likelihood}% 
+                </div>
+                <div style={{fontSize:12, color:'#666'}}>{c.reason}</div>
+              </div>
+            </div>
+            <div style={{ marginTop: 6, color:'#333' }}>
+              Fees/yr: ₹{c.fees_per_year ? Number(c.fees_per_year).toLocaleString() : "N/A"} • seats: {c.seats}
+            </div>
+          </li>
+        ))}
+      </ul>
+    </div>
+  );
+}
+
+export default function App(){
+  const [useRank, setUseRank] = useState(false);
+  const [score, setScore] = useState("");
+  const [rankValue, setRankValue] = useState("");
+  const [category, setCategory] = useState("General");
+  const [stateVal, setStateVal] = useState("Default");
+  const [result, setResult] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  async function handlePredict(e){
+    e.preventDefault();
+    setLoading(true);
+    setResult(null);
+    try {
+      const payload = useRank
+        ? { rank: Number(rankValue), category, state: stateVal }
+        : { score: Number(score), category, state: stateVal };
+
+      const res = await axios.post("http://localhost:4000/api/predict", payload, { timeout: 15000 });
+      setResult(res.data);
+    } catch (err) {
+      console.error(err);
+      alert("Prediction failed: " + (err.response?.data?.error || err.message));
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <div style={{ maxWidth: 840, margin: "28px auto", fontFamily: "Inter, Arial, sans-serif", padding: 16 }}>
+      <h1>NEET Rank Predictor</h1>
+
+      <form onSubmit={handlePredict} style={{ marginTop: 8 }}>
+        <label style={{ display:'block', marginBottom: 8 }}>
+          <input type="checkbox" checked={useRank} onChange={() => setUseRank(!useRank)} /> {" "}
+          Enter Rank instead of Score
+        </label>
+
+        {!useRank ? (
+          <div style={{ marginBottom: 8 }}>
+            <label>Score</label><br/>
+            <input type="number" value={score} onChange={e=>setScore(e.target.value)} placeholder="Enter NEET Score" required style={{ padding:8, width:220 }} />
+          </div>
+        ) : (
+          <div style={{ marginBottom: 8 }}>
+            <label>All India Rank</label><br/>
+            <input type="number" value={rankValue} onChange={e=>setRankValue(e.target.value)} placeholder="Enter AIR" required style={{ padding:8, width:220 }} />
+          </div>
+        )}
+
+        <div style={{ marginBottom: 8 }}>
+          <label>Category</label><br/>
+          <select value={category} onChange={e=>setCategory(e.target.value)} style={{ padding:8, width:220 }}>
+            <option>General</option>
+            <option>OBC</option>
+            <option>SC</option>
+            <option>ST</option>
+            <option>EWS</option>
+          </select>
+        </div>
+
+        <div style={{ marginBottom: 12 }}>
+          <label>State (optional)</label><br/>
+          <input value={stateVal} onChange={e=>setStateVal(e.target.value)} placeholder="Default or state name" style={{ padding:8, width:320 }}/>
+        </div>
+
+        <div>
+          <button type="submit" disabled={loading} style={{ padding:'8px 12px' }}>
+            {loading ? "Predicting..." : "Predict"}
+          </button>
+        </div>
+      </form>
+
+      {result && (
+        <div style={{ marginTop: 20, padding: 14, border: "1px solid #eaeaea", borderRadius: 8 }}>
+          <h2>Estimate</h2>
+          <p><strong>Score:</strong> {result.score ?? "—"} &nbsp; <strong>Rank (est):</strong> {result.estimated_rank ? Number(result.estimated_rank).toLocaleString() : "—"}</p>
+          <p><strong>Percentile (raw):</strong> {result.estimated_percentile_raw ?? "—"}</p>
+          <p><strong>Percentile (corrected):</strong> {result.estimated_percentile_corrected ?? "—"}</p>
+
+          <div style={{ marginTop: 8, padding: 10, background:'#f6f9ff', borderRadius:6 }}>
+            <strong>Threshold applied:</strong> {result.thresholdPercentile}% for {result.input?.category} — max allowed rank: {result.thresholdMaxRank ? Number(result.thresholdMaxRank).toLocaleString() : "—"}
+          </div>
+
+          {/* grouped lists */}
+          {(() => {
+            const colleges = result.colleges_suggested || [];
+            const filtered = colleges.filter(c => c.likelihood && c.likelihood > 0);
+
+            const good = filtered.filter(c => c.likelihood >= 80).slice(0,3);
+            const may = filtered.filter(c => c.likelihood >= 50 && c.likelihood < 80).slice(0,3);
+            const tough = filtered.filter(c => c.likelihood < 50).slice(0,3);
+            const nothingToShow = (good.length + may.length + tough.length) === 0;
+
+            return (
+              <div style={{ marginTop: 14 }}>
+                {nothingToShow ? (
+                  <div style={{ padding: 12, background: '#fff7e6', borderRadius: 6 }}>
+                    No colleges matched the category threshold. Try a better score/rank or change category.
+                  </div>
+                ) : (
+                  <>
+                    {good.length > 0 && <>
+                      <h3 style={{ color: '#1a7f1a' }}>Good Chances</h3>
+                      <CollegesList colleges={good} />
+                    </>}
+                    {may.length > 0 && <>
+                      <h3 style={{ color: '#a06d00', marginTop: 14 }}>May Get</h3>
+                      <CollegesList colleges={may} />
+                    </>}
+                    {tough.length > 0 && <>
+                      <h3 style={{ color: '#9b0b0b', marginTop: 14 }}>Tough Chances</h3>
+                      <CollegesList colleges={tough} />
+                    </>}
+                  </>
+                )}
+              </div>
+            );
+          })()}
+
+          <p style={{ color:'#666', marginTop:12 }}>{result.note}</p>
+        </div>
+      )}
+    </div>
+  );
+}

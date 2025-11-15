@@ -1,0 +1,15 @@
+{
+  "categories": {
+    "General": {"mode":"add","value":0},
+    "OBC": {"mode":"add","value":1.5},
+    "SC": {"mode":"add","value":3},
+    "ST": {"mode":"add","value":4},
+    "EWS": {"mode":"add","value":1}
+  },
+  "states": {
+    "Default": {"mode":"add","value":0},
+    "Karnataka": {"mode":"mul","value":0.998},
+    "Uttar Pradesh": {"mode":"mul","value":1.002},
+    "Telangana": {"mode":"mul","value":0.999}
+  }
+}

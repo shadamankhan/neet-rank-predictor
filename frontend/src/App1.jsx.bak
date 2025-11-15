@@ -1,0 +1,210 @@
+// src/App.jsx
+import { useState } from "react";
+import axios from "axios";
+import Auth from "./Auth";
+import { db } from "./firebase";
+import {
+  collection,
+  addDoc,
+  serverTimestamp
+} from "firebase/firestore";
+
+function likelihoodColor(pct){
+  if(pct >= 80) return {background:'#d4f8d4', color:'#1a7f1a'}; // green
+  if(pct >= 50) return {background:'#fff4cc', color:'#a06d00'}; // amber
+  return {background:'#ffdfe0', color:'#9b0b0b'}; // red
+}
+
+function CollegesList({ colleges }) {
+  if (!colleges || colleges.length === 0) {
+    return <p style={{ color: "#666" }}>No colleges suggested for this rank.</p>;
+  }
+  return (
+    <div style={{ marginTop: 12 }}>
+      <h4>Top college matches</h4>
+      <ul style={{ paddingLeft: 18 }}>
+        {colleges.map((c, i) => (
+          <li key={i} style={{ marginBottom: 8 }}>
+  <div style={{display:'flex', justifyContent:'space-between', alignItems:'center'}}>
+    <div>
+      <strong>{c.college}</strong><br/>
+      <small style={{color:'#555'}}>Rank range: {c.min_rank.toLocaleString()}–{c.max_rank.toLocaleString()}</small>
+    </div>
+    <div style={{display:'flex',alignItems:'center',gap:8}}>
+      <div style={{
+        padding:'4px 8px',
+        borderRadius:8,
+        fontWeight:600,
+        ...likelihoodColor(c.likelihood)
+      }}>
+        {c.likelihood}% 
+      </div>
+      <div style={{fontSize:12, color:'#666'}}>{c.reason}</div>
+    </div>
+  </div>
+  <div style={{marginTop:6, color:'#333'}}>
+    Fees/yr: ₹{c.fees_per_year ? Number(c.fees_per_year).toLocaleString() : "N/A"} • seats: {c.seats}
+  </div>
+</li>
+      ))}
+      </ul>
+    </div>
+  );
+}
+
+export default function App() {
+  const [user, setUser] = useState(null);
+  const [score, setScore] = useState("");
+  const [category, setCategory] = useState("General");
+  const [stateVal, setStateVal] = useState("Default");
+  const [result, setResult] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  async function handlePredict(e) {
+    e.preventDefault();
+    setLoading(true);
+    setResult(null);
+    try {
+      const payload = {
+        score: Number(score),
+        category,
+        state: stateVal
+      };
+      const res = await axios.post("http://localhost:4000/api/predict", payload, { timeout: 10000 });
+      setResult(res.data);
+
+      // Save to Firestore if user logged in
+      if (user) {
+        try {
+          await addDoc(collection(db, "predictions"), {
+            uid: user.uid,
+            email: user.email,
+            score: Number(score),
+            category,
+            state: stateVal,
+            estimated_rank: res.data.estimated_rank,
+            estimated_percentile_raw: res.data.estimated_percentile_raw,
+            estimated_percentile_corrected: res.data.estimated_percentile_corrected,
+            createdAt: serverTimestamp()
+          });
+        } catch (saveErr) {
+          console.warn("Failed to save prediction:", saveErr.message || saveErr);
+        }
+      }
+    } catch (err) {
+      console.error(err);
+      alert("Prediction failed: " + (err.response?.data?.error || err.message));
+    } finally {
+      setLoading(false);
+    }
+  }
+
+  return (
+    <div style={{ maxWidth: 800, margin: "30px auto", fontFamily: "Arial, sans-serif", padding: 16 }}>
+      <h1>NEET Rank Predictor 🔥</h1>
+
+      <Auth onUserChange={setUser} />
+
+      <form onSubmit={handlePredict} style={{ marginTop: 12 }}>
+        <div style={{ marginBottom: 8 }}>
+          <label>Score</label><br />
+          <input
+            type="number"
+            placeholder="Enter NEET Score"
+            value={score}
+            onChange={(e) => setScore(e.target.value)}
+            required
+            style={{ width: 200, padding: 6 }}
+          />
+        </div>
+
+        <div style={{ marginBottom: 8 }}>
+          <label>Category</label><br />
+          <select value={category} onChange={(e) => setCategory(e.target.value)} style={{ width: 220, padding: 6 }}>
+            <option>General</option>
+            <option>OBC</option>
+            <option>SC</option>
+            <option>ST</option>
+            <option>EWS</option>
+          </select>
+        </div>
+
+        <div style={{ marginBottom: 8 }}>
+          <label>State (optional)</label><br />
+          <input
+            value={stateVal}
+            onChange={(e) => setStateVal(e.target.value)}
+            style={{ width: 220, padding: 6 }}
+            placeholder="Default or state name"
+          />
+        </div>
+
+        <div>
+          <button type="submit" disabled={loading} style={{ padding: "8px 12px" }}>
+            {loading ? "Predicting..." : "Predict Rank"}
+          </button>
+        </div>
+      </form>
+
+      {result && (
+        <div style={{ marginTop: 20, padding: 14, border: "1px solid #e3e3e3", borderRadius: 6 }}>
+          <h3>Estimate</h3>
+          <p><strong>Score:</strong> {result.score}</p>
+          <p>
+            <strong>Percentile (raw):</strong>{" "}
+            {result.estimated_percentile_raw != null ? result.estimated_percentile_raw : "—"}
+          </p>
+          <p>
+            <strong>Percentile (corrected):</strong>{" "}
+            {result.estimated_percentile_corrected != null ? result.estimated_percentile_corrected : "—"}
+          </p>
+          <p>
+            <strong>Estimated Rank:</strong>{" "}
+            {result.estimated_rank ? Number(result.estimated_rank).toLocaleString() : "—"}
+          </p>
+          <p style={{ color: "#666" }}>{result.note}</p>
+
+         {/* Grouping Colleges by likelihood */}
+{(() => {
+  const colleges = result.colleges_suggested || [];
+
+  const good = colleges.filter(c => c.likelihood >= 80);
+  const may = colleges.filter(c => c.likelihood >= 50 && c.likelihood < 80);
+  const tough = colleges.filter(c => c.likelihood < 50);
+
+  return (
+    <div style={{ marginTop: 12 }}>
+
+      {/* GOOD CHANCES */}
+      {good.length > 0 && (
+        <>
+          <h3 style={{ color: "#1a7f1a" }}>Good Chances</h3>
+          <CollegesList colleges={good} />
+        </>
+      )}
+
+      {/* MAY GET */}
+      {may.length > 0 && (
+        <>
+          <h3 style={{ color: "#a06d00", marginTop: 20 }}>May Get</h3>
+          <CollegesList colleges={may} />
+        </>
+      )}
+
+      {/* TOUGH CHANCES */}
+      {tough.length > 0 && (
+        <>
+          <h3 style={{ color: "#9b0b0b", marginTop: 20 }}>Tough Chances</h3>
+          <CollegesList colleges={tough} />
+        </>
+      )}
+
+    </div>
+  );
+})()}
+
+        </div>
+      )}
+    </div>
+  );
+}
