@@ -1,3 +1,5 @@
+import { getApiBase } from './apiConfig';
+const API_BASE = getApiBase();
 // src/App.jsx
 import React, { useState, useEffect } from "react";
 import axios from "axios";
@@ -73,7 +75,8 @@ export default function App(){
         ? { rank: Number(rankValue), category, state: stateVal }
         : { score: Number(score), category, state: stateVal };
 
-            const API_BASE = "https://neet-predictor-cyqv.onrender.com"; // add once at top
+      const API_BASE = "https://neet-predictor-cyqv.onrender.com"; // add once at top
+const res = await axios.post(API_BASE + "/api/predict", payload, { timeout: 15000 });
       setResult(res.data);
     } catch (err) {
       console.error(err);
@@ -310,3 +313,4 @@ export default function App(){
     </div>
   );
 }
+
