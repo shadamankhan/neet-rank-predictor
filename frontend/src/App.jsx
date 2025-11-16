@@ -1,3 +1,5 @@
+import { getApiBase } from './apiConfig';
+const API_BASE = getApiBase();
 // src/App.jsx
 import React, { useState, useEffect } from "react";
 import axios from "axios";
@@ -311,3 +313,4 @@ const res = await axios.post(API_BASE + "/api/predict", payload, { timeout: 1500
     </div>
   );
 }
+
