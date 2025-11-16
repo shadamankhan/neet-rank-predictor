@@ -73,7 +73,7 @@ export default function App(){
         ? { rank: Number(rankValue), category, state: stateVal }
         : { score: Number(score), category, state: stateVal };
 
-      const res = await axios.post("http://localhost:4000/api/predict", payload, { timeout: 15000 });
+            const API_BASE = "https://neet-predictor-cyqv.onrender.com"; // add once at top
       setResult(res.data);
     } catch (err) {
       console.error(err);
