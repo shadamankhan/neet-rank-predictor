@@ -1,0 +1,5642 @@
+[
+    {
+        "id": 1,
+        "question": "Which nitrogenous base is present only in RNA and absent in DNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Cytosine",
+            "Uracil"
+        ],
+        "answer": 3,
+        "explanation": "Uracil replaces thymine in RNA as per NCERT."
+    },
+    {
+        "id": 2,
+        "question": "Which nitrogenous base is common to both DNA and RNA?",
+        "options": [
+            "Thymine",
+            "Uracil",
+            "Adenine",
+            "Xanthine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine is present in both DNA and RNA."
+    },
+    {
+        "id": 3,
+        "question": "The bond between sugar and nitrogenous base in a nucleotide is",
+        "options": [
+            "Phosphodiester bond",
+            "Hydrogen bond",
+            "Glycosidic bond",
+            "Peptide bond"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogenous base is linked to sugar by a glycosidic bond."
+    },
+    {
+        "id": 4,
+        "question": "The linkage between two nucleotides in a polynucleotide chain is",
+        "options": [
+            "Glycosidic bond",
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Nucleotides are joined by phosphodiester bonds."
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is a purine nitrogenous base?",
+        "options": [
+            "Cytosine",
+            "Thymine",
+            "Adenine",
+            "Uracil"
+        ],
+        "answer": 2,
+        "explanation": "Adenine is a purine base with a double-ring structure."
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is a pyrimidine present in DNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Thymine",
+            "Hypoxanthine"
+        ],
+        "answer": 2,
+        "explanation": "Thymine is a pyrimidine base found in DNA."
+    },
+    {
+        "id": 7,
+        "question": "Which enzyme is responsible for catalysing biochemical reactions?",
+        "options": [
+            "Carbohydrate",
+            "Protein",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 1,
+        "explanation": "Enzymes are proteinaceous in nature as per NCERT."
+    },
+    {
+        "id": 8,
+        "question": "Which property of enzymes allows them to increase reaction rate?",
+        "options": [
+            "Increase temperature compiler",
+            "Lower activation energy",
+            "Shift equilibrium",
+            "Increase substrate concentration"
+        ],
+        "answer": 1,
+        "explanation": "Enzymes lower the activation energy of reactions."
+    },
+    {
+        "id": 9,
+        "question": "Which of the following factors does not affect enzyme activity?",
+        "options": [
+            "Temperature",
+            "pH",
+            "Substrate concentration",
+            "Light intensity"
+        ],
+        "answer": 3,
+        "explanation": "Light intensity does not affect enzyme activity directly."
+    },
+    {
+        "id": 10,
+        "question": "The region of enzyme where substrate binds is called",
+        "options": [
+            "Allosteric site",
+            "Active site",
+            "Inhibitory site",
+            "Regulatory site"
+        ],
+        "answer": 1,
+        "explanation": "Substrate binds at the active site of the enzyme."
+    },
+    {
+        "id": 11,
+        "question": "Which model explains enzyme–substrate interaction as a perfect fit?",
+        "options": [
+            "Induced fit model",
+            "Fluid mosaic model",
+            "Lock and key model",
+            "Template model"
+        ],
+        "answer": 2,
+        "explanation": "Lock and key model explains specific enzyme–substrate interaction."
+    },
+    {
+        "id": 12,
+        "question": "Which biomolecule acts as an immediate source of energy?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 1,
+        "explanation": "Carbohydrates are the immediate source of energy."
+    },
+    {
+        "id": 13,
+        "question": "Which carbohydrate is known as animal starch?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is termed animal starch."
+    },
+    {
+        "id": 14,
+        "question": "Chitin is a polymer of",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "N-acetyl glucosamine",
+            "Galactose"
+        ],
+        "answer": 2,
+        "explanation": "Chitin is composed of N-acetyl glucosamine units."
+    },
+    {
+        "id": 15,
+        "question": "Which polysaccharide is present in the exoskeleton of arthropods?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Glycogen",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Chitin forms the exoskeleton of arthropods."
+    },
+    {
+        "id": 16,
+        "question": "Which statement about lipids is correct?",
+        "options": [
+            "They are polymers",
+            "They are water soluble",
+            "They are non-polar molecules",
+            "They are composed of amino acids"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are non-polar and insoluble in water."
+    },
+    {
+        "id": 17,
+        "question": "Which lipid is a derivative lipid as per NCERT classification?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Cholesterol",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Cholesterol is a derivative lipid."
+    },
+    {
+        "id": 18,
+        "question": "Which of the following is a phospholipid?",
+        "options": [
+            "Glycerol",
+            "Lecithin",
+            "Palmitic acid",
+            "Oleic acid"
+        ],
+        "answer": 1,
+        "explanation": "Lecithin is a common phospholipid."
+    },
+    {
+        "id": 19,
+        "question": "Which biomolecule forms the lipid bilayer of plasma membrane?",
+        "options": [
+            "Triglycerides",
+            "Steroids",
+            "Phospholipids",
+            "Waxes"
+        ],
+        "answer": 2,
+        "explanation": "Phospholipids form the lipid bilayer of membranes."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is not a function of proteins?",
+        "options": [
+            "Catalysis",
+            "Transport",
+            "Energy storage",
+            "Structural support"
+        ],
+        "answer": 2,
+        "explanation": "Energy storage is primarily a function of carbohydrates and lipids."
+    },
+    {
+        "id": 21,
+        "question": "The simplest level of protein organization is",
+        "options": [
+            "Primary structure",
+            "Secondary structure",
+            "Tertiary structure",
+            "Quaternary structure"
+        ],
+        "answer": 0,
+        "explanation": "Primary structure is the linear sequence of amino acids."
+    },
+    {
+        "id": 22,
+        "question": "Which bond stabilizes tertiary structure of proteins?",
+        "options": [
+            "Hydrogen bond only",
+            "Disulfide bond",
+            "Peptide bond",
+            "Glycosidic bond"
+        ],
+        "answer": 1,
+        "explanation": "Disulfide bonds stabilize tertiary protein structure."
+    },
+    {
+        "id": 23,
+        "question": "Which protein hormone is composed of amino acids?",
+        "options": [
+            "Insulin",
+            "Thyroxine",
+            "Adrenaline",
+            "Testosterone"
+        ],
+        "answer": 0,
+        "explanation": "Insulin is a peptide hormone made of amino acids."
+    },
+    {
+        "id": 24,
+        "question": "Which nucleic acid is directly involved in protein synthesis?",
+        "options": [
+            "DNA",
+            "tRNA",
+            "rRNA",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "DNA, tRNA and rRNA all participate in protein synthesis."
+    },
+    {
+        "id": 25,
+        "question": "Which RNA carries amino acids to ribosome?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA transports amino acids to ribosomes."
+    },
+    {
+        "id": 26,
+        "question": "Which RNA forms the structural component of ribosome?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "siRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA forms the structural framework of ribosomes."
+    },
+    {
+        "id": 27,
+        "question": "Which RNA carries genetic information from DNA?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "hnRNA"
+        ],
+        "answer": 0,
+        "explanation": "mRNA carries genetic information from DNA to ribosome."
+    },
+    {
+        "id": 28,
+        "question": "Which of the following is a conjugated protein?",
+        "options": [
+            "Albumin",
+            "Keratin",
+            "Hemoglobin",
+            "Histone"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin is a conjugated protein with heme group."
+    },
+    {
+        "id": 29,
+        "question": "Histones are rich in which amino acids?",
+        "options": [
+            "Acidic amino acids",
+            "Sulphur-containing amino acids",
+            "Basic amino acids",
+            "Aromatic amino acids"
+        ],
+        "answer": 2,
+        "explanation": "Histones are rich in basic amino acids like lysine and arginine."
+    },
+    {
+        "id": 30,
+        "question": "Which polysaccharide is present in fungal cell wall?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Pectin",
+            "Hemicellulose"
+        ],
+        "answer": 1,
+        "explanation": "Chitin is present in fungal cell wall."
+    },
+    {
+        "id": 31,
+        "question": "Which biomolecule shows maximum structural diversity?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Lipids",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Proteins show maximum structural and functional diversity."
+    },
+    {
+        "id": 32,
+        "question": "Which of the following is not a polysaccharide?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Sucrose",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose is a disaccharide."
+    },
+    {
+        "id": 33,
+        "question": "Which carbohydrate has α-1,4 and α-1,6 glycosidic bonds?",
+        "options": [
+            "Cellulose",
+            "Amylose",
+            "Amylopectin",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Amylopectin contains both α-1,4 and α-1,6 bonds."
+    },
+    {
+        "id": 34,
+        "question": "Which statement about cellulose is correct?",
+        "options": [
+            "It is branched",
+            "It has α-1,4 bonds",
+            "It is digestible by humans",
+            "It has β-1,4 bonds"
+        ],
+        "answer": 3,
+        "explanation": "Cellulose contains β-1,4 glycosidic bonds."
+    },
+    {
+        "id": 35,
+        "question": "Which molecule acts as an energy currency of the cell?",
+        "options": [
+            "ADP",
+            "ATP",
+            "AMP",
+            "NADP"
+        ],
+        "answer": 1,
+        "explanation": "ATP is the energy currency of the cell."
+    },
+    {
+        "id": 36,
+        "question": "ATP is a nucleotide composed of",
+        "options": [
+            "Adenine + ribose + phosphate",
+            "Adenine + deoxyribose + phosphate",
+            "Uracil + ribose + phosphate",
+            "Guanine + ribose + phosphate"
+        ],
+        "answer": 0,
+        "explanation": "ATP contains adenine, ribose and phosphate groups."
+    },
+    {
+        "id": 37,
+        "question": "Which biomolecule stores genetic information?",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "DNA stores genetic information."
+    },
+    {
+        "id": 38,
+        "question": "Which type of bond stores energy in ATP?",
+        "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Phosphoanhydride bond",
+            "Glycosidic bond"
+        ],
+        "answer": 2,
+        "explanation": "Energy is stored in phosphoanhydride bonds of ATP."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following is an example of simple lipid?",
+        "options": [
+            "Phospholipid",
+            "Triglyceride",
+            "Glycolipid",
+            "Lipoprotein"
+        ],
+        "answer": 1,
+        "explanation": "Triglycerides are simple lipids."
+    },
+    {
+        "id": 40,
+        "question": "Which of the following is not an enzyme?",
+        "options": [
+            "Trypsin",
+            "Amylase",
+            "Hemoglobin",
+            "Pepsin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin is a transport protein, not an enzyme."
+    },
+    {
+        "id": 41,
+        "question": "Enzymes are highly specific due to",
+        "options": [
+            "Large size",
+            "Active site configuration",
+            "High molecular weight",
+            "Presence of cofactors"
+        ],
+        "answer": 1,
+        "explanation": "Specific active site determines enzyme specificity."
+    },
+    {
+        "id": 42,
+        "question": "Which cofactor is organic in nature?",
+        "options": [
+            "Metal ion",
+            "Coenzyme",
+            "Activator",
+            "Salt"
+        ],
+        "answer": 1,
+        "explanation": "Coenzymes are organic cofactors."
+    },
+    {
+        "id": 43,
+        "question": "Which vitamin acts as a coenzyme?",
+        "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin B complex",
+            "Vitamin D"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin B complex functions as coenzymes."
+    },
+    {
+        "id": 44,
+        "question": "Which enzyme is present in saliva?",
+        "options": [
+            "Pepsin",
+            "Trypsin",
+            "Amylase",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Salivary amylase is present in saliva."
+    },
+    {
+        "id": 45,
+        "question": "Which macromolecule is amphipathic?",
+        "options": [
+            "Protein",
+            "Phospholipid",
+            "Triglyceride",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Phospholipids have both hydrophilic and hydrophobic parts."
+    },
+    {
+        "id": 46,
+        "question": "Which bond is broken during protein digestion?",
+        "options": [
+            "Glycosidic bond",
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 1,
+        "explanation": "Peptide bonds are broken during protein digestion."
+    },
+    {
+        "id": 47,
+        "question": "Which polysaccharide is a homopolymer?",
+        "options": [
+            "Hyaluronic acid",
+            "Heparin",
+            "Cellulose",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is a homopolymer of glucose."
+    },
+    {
+        "id": 48,
+        "question": "Which carbohydrate is a reducing sugar?",
+        "options": [
+            "Sucrose",
+            "Starch",
+            "Glucose",
+            "Cellulose"
+        ],
+        "answer": 2,
+        "explanation": "Glucose has a free aldehyde group."
+    },
+    {
+        "id": 49,
+        "question": "Which of the following is a disaccharide?",
+        "options": [
+            "Glucose",
+            "Sucrose",
+            "Starch",
+            "Cellulose"
+        ],
+        "answer": 1,
+        "explanation": "Sucrose is a disaccharide."
+    },
+    {
+        "id": 50,
+        "question": "Which polysaccharide is branched?",
+        "options": [
+            "Cellulose",
+            "Amylose",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is highly branched."
+    },
+    {
+        "id": 51,
+        "question": "Which lipid is commonly known as animal fat?",
+        "options": [
+            "Phospholipid",
+            "Steroid",
+            "Triglyceride",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Triglycerides constitute animal fats."
+    },
+    {
+        "id": 52,
+        "question": "Which amino acid contains sulphur?",
+        "options": [
+            "Alanine",
+            "Methionine",
+            "Valine",
+            "Glycine"
+        ],
+        "answer": 1,
+        "explanation": "Methionine is a sulphur-containing amino acid."
+    },
+    {
+        "id": 53,
+        "question": "Which amino acid is essential as per NCERT?",
+        "options": [
+            "Glycine",
+            "Alanine",
+            "Valine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Valine is an essential amino acid."
+    },
+    {
+        "id": 54,
+        "question": "Which molecule is the precursor of steroid hormones?",
+        "options": [
+            "Triglyceride",
+            "Cholesterol",
+            "Phospholipid",
+            "Glycolipid"
+        ],
+        "answer": 1,
+        "explanation": "Cholesterol is the precursor of steroid hormones."
+    },
+    {
+        "id": 55,
+        "question": "Which protein is rich in collagen?",
+        "options": [
+            "Muscle",
+            "Bone",
+            "Hair",
+            "Blood"
+        ],
+        "answer": 1,
+        "explanation": "Collagen is abundant in bone connective tissue."
+    },
+    {
+        "id": 56,
+        "question": "Which carbohydrate is present in milk?",
+        "options": [
+            "Sucrose",
+            "Glucose",
+            "Lactose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Lactose is the sugar present in milk."
+    },
+    {
+        "id": 57,
+        "question": "Which biomolecule is not a macromolecule?",
+        "options": [
+            "Protein",
+            "Polysaccharide",
+            "Triglyceride",
+            "Amino acid"
+        ],
+        "answer": 3,
+        "explanation": "Amino acid is a micromolecule."
+    },
+    {
+        "id": 58,
+        "question": "Which term is used for small organic molecules in living systems?",
+        "options": [
+            "Macromolecules",
+            "Micromolecules",
+            "Polymers",
+            "Biopolymers"
+        ],
+        "answer": 1,
+        "explanation": "Small organic molecules are called micromolecules."
+    },
+    {
+        "id": 59,
+        "question": "Which technique is used to study structure of proteins?",
+        "options": [
+            "X-ray crystallography",
+            "Chromatography",
+            "Centrifugation",
+            "Spectrophotometry"
+        ],
+        "answer": 0,
+        "explanation": "X-ray crystallography reveals protein structure."
+    },
+    {
+        "id": 60,
+        "question": "Which carbohydrate is present in plant cell wall along with cellulose?",
+        "options": [
+            "Pectin",
+            "Glycogen",
+            "Chitin",
+            "Starch"
+        ],
+        "answer": 0,
+        "explanation": "Pectin is present along with cellulose in plant cell walls."
+    },
+    {
+        "id": 61,
+        "question": "Which bond is broken during carbohydrate digestion?",
+        "options": [
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Glycosidic bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Glycosidic bonds are broken during carbohydrate digestion."
+    },
+    {
+        "id": 62,
+        "question": "Which biomolecule provides maximum energy per gram?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids provide maximum energy per gram."
+    },
+    {
+        "id": 63,
+        "question": "Which of the following is a basic amino acid?",
+        "options": [
+            "Aspartic acid",
+            "Glutamic acid",
+            "Lysine",
+            "Alanine"
+        ],
+        "answer": 2,
+        "explanation": "Lysine is a basic amino acid."
+    },
+    {
+        "id": 64,
+        "question": "Which nitrogenous base pairs with adenine in DNA?",
+        "options": [
+            "Uracil",
+            "Cytosine",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with thymine in DNA."
+    },
+    {
+        "id": 65,
+        "question": "Which nitrogenous base pairs with adenine in RNA?",
+        "options": [
+            "Thymine",
+            "Cytosine",
+            "Uracil",
+            "Guanine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 66,
+        "question": "Which molecule connects two amino acids?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Phosphodiester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 0,
+        "explanation": "Peptide bond links amino acids."
+    },
+    {
+        "id": 67,
+        "question": "Which polysaccharide is unbranched?",
+        "options": [
+            "Glycogen",
+            "Amylopectin",
+            "Cellulose",
+            "Starch"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is an unbranched polysaccharide."
+    },
+    {
+        "id": 68,
+        "question": "Which biomolecule shows stereoisomerism?",
+        "options": [
+            "Lipids",
+            "Carbohydrates",
+            "Nucleic acids",
+            "Vitamins"
+        ],
+        "answer": 1,
+        "explanation": "Carbohydrates show stereoisomerism."
+    },
+    {
+        "id": 69,
+        "question": "Which carbohydrate is non-reducing?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Maltose",
+            "Sucrose"
+        ],
+        "answer": 3,
+        "explanation": "Sucrose is a non-reducing sugar."
+    },
+    {
+        "id": 70,
+        "question": "Which macromolecule is most abundant in the biosphere?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 1,
+        "explanation": "Carbohydrates are the most abundant biomolecules in the biosphere."
+    },
+    {
+        "id": 71,
+        "question": "Which term is used for biomolecules with molecular weight less than 1000 daltons?",
+        "options": [
+            "Macromolecules",
+            "Micromolecules",
+            "Biopolymers",
+            "Colloids"
+        ],
+        "answer": 1,
+        "explanation": "NCERT classifies small biomolecules as micromolecules."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following is a macromolecule?",
+        "options": [
+            "Glucose",
+            "Amino acid",
+            "Protein",
+            "Fatty acid"
+        ],
+        "answer": 2,
+        "explanation": "Proteins are macromolecules with high molecular weight."
+    },
+    {
+        "id": 73,
+        "question": "Which polysaccharide is composed of glucose units with α-1,4 linkages only?",
+        "options": [
+            "Amylopectin",
+            "Cellulose",
+            "Amylose",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Amylose is an unbranched polymer with α-1,4 linkages."
+    },
+    {
+        "id": 74,
+        "question": "Which of the following is a storage polysaccharide in plants?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Starch",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Starch is the storage polysaccharide in plants."
+    },
+    {
+        "id": 75,
+        "question": "Which monosaccharide forms the backbone of starch, glycogen and cellulose?",
+        "options": [
+            "Fructose",
+            "Glucose",
+            "Galactose",
+            "Ribose"
+        ],
+        "answer": 1,
+        "explanation": "All these polysaccharides are polymers of glucose."
+    },
+    {
+        "id": 76,
+        "question": "Which carbohydrate is a ketose?",
+        "options": [
+            "Glucose",
+            "Galactose",
+            "Fructose",
+            "Ribose"
+        ],
+        "answer": 2,
+        "explanation": "Fructose is a ketohexose."
+    },
+    {
+        "id": 77,
+        "question": "Which carbohydrate is an aldose?",
+        "options": [
+            "Fructose",
+            "Sucrose",
+            "Glucose",
+            "Lactose"
+        ],
+        "answer": 2,
+        "explanation": "Glucose is an aldohexose."
+    },
+    {
+        "id": 78,
+        "question": "Which of the following is a pentose sugar?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Ribose",
+            "Galactose"
+        ],
+        "answer": 2,
+        "explanation": "Ribose is a pentose sugar."
+    },
+    {
+        "id": 79,
+        "question": "Which sugar is present in ATP?",
+        "options": [
+            "Deoxyribose",
+            "Ribose",
+            "Glucose",
+            "Fructose"
+        ],
+        "answer": 1,
+        "explanation": "ATP contains ribose sugar."
+    },
+    {
+        "id": 80,
+        "question": "Which lipid is composed of glycerol and three fatty acids?",
+        "options": [
+            "Phospholipid",
+            "Triglyceride",
+            "Steroid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Triglycerides contain glycerol esterified with three fatty acids."
+    },
+    {
+        "id": 81,
+        "question": "Which fatty acid contains one double bond?",
+        "options": [
+            "Palmitic acid",
+            "Stearic acid",
+            "Oleic acid",
+            "Arachidic acid"
+        ],
+        "answer": 2,
+        "explanation": "Oleic acid is a monounsaturated fatty acid."
+    },
+    {
+        "id": 82,
+        "question": "Which lipid is amphipathic in nature?",
+        "options": [
+            "Triglyceride",
+            "Steroid",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Phospholipids have both hydrophilic and hydrophobic regions."
+    },
+    {
+        "id": 83,
+        "question": "Which of the following is a structural protein?",
+        "options": [
+            "Hemoglobin",
+            "Insulin",
+            "Collagen",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Collagen provides structural support."
+    },
+    {
+        "id": 84,
+        "question": "Which protein is present in hair and nails?",
+        "options": [
+            "Collagen",
+            "Keratin",
+            "Myosin",
+            "Actin"
+        ],
+        "answer": 1,
+        "explanation": "Keratin is found in hair and nails."
+    },
+    {
+        "id": 85,
+        "question": "Which protein shows quaternary structure?",
+        "options": [
+            "Keratin",
+            "Myoglobin",
+            "Hemoglobin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin has quaternary structure."
+    },
+    {
+        "id": 86,
+        "question": "Which interaction is absent in primary structure of protein?",
+        "options": [
+            "Peptide bond",
+            "Sequence of amino acids",
+            "Disulfide bond",
+            "Covalent linkage"
+        ],
+        "answer": 2,
+        "explanation": "Primary structure involves peptide bonds only."
+    },
+    {
+        "id": 87,
+        "question": "Which amino acid is acidic?",
+        "options": [
+            "Lysine",
+            "Arginine",
+            "Aspartic acid",
+            "Valine"
+        ],
+        "answer": 2,
+        "explanation": "Aspartic acid is an acidic amino acid."
+    },
+    {
+        "id": 88,
+        "question": "Which amino acid has an imino group?",
+        "options": [
+            "Glycine",
+            "Proline",
+            "Alanine",
+            "Serine"
+        ],
+        "answer": 1,
+        "explanation": "Proline contains an imino group."
+    },
+    {
+        "id": 89,
+        "question": "Which enzyme catalyses breakdown of starch?",
+        "options": [
+            "Pepsin",
+            "Trypsin",
+            "Amylase",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Amylase hydrolyses starch."
+    },
+    {
+        "id": 90,
+        "question": "Which factor changes the shape of enzyme active site?",
+        "options": [
+            "pH",
+            "Temperature",
+            "Substrate concentration",
+            "pH and temperature"
+        ],
+        "answer": 3,
+        "explanation": "pH and temperature alter enzyme conformation."
+    },
+    {
+        "id": 91,
+        "question": "Which molecule is known as universal energy currency?",
+        "options": [
+            "ADP",
+            "ATP",
+            "GTP",
+            "AMP"
+        ],
+        "answer": 1,
+        "explanation": "ATP is the universal energy currency."
+    },
+    {
+        "id": 92,
+        "question": "Which nucleotide is present in RNA but absent in DNA?",
+        "options": [
+            "AMP",
+            "GMP",
+            "UMP",
+            "TMP"
+        ],
+        "answer": 2,
+        "explanation": "Uracil-containing nucleotide is present only in RNA."
+    },
+    {
+        "id": 93,
+        "question": "Which nitrogenous base is a purine?",
+        "options": [
+            "Cytosine",
+            "Uracil",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": 3,
+        "explanation": "Guanine is a purine base."
+    },
+    {
+        "id": 94,
+        "question": "Which base pairing is correct in DNA?",
+        "options": [
+            "A–C",
+            "G–T",
+            "A–T",
+            "C–A"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with thymine in DNA."
+    },
+    {
+        "id": 95,
+        "question": "Which base pairing is correct in RNA?",
+        "options": [
+            "A–T",
+            "G–C",
+            "A–U",
+            "C–U"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 96,
+        "question": "Which bond links nucleotides in DNA?",
+        "options": [
+            "Hydrogen bond",
+            "Glycosidic bond",
+            "Peptide bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 3,
+        "explanation": "Nucleotides are linked by phosphodiester bonds."
+    },
+    {
+        "id": 97,
+        "question": "Which biomolecule acts as template for synthesis of RNA?",
+        "options": [
+            "Protein",
+            "DNA",
+            "rRNA",
+            "tRNA"
+        ],
+        "answer": 1,
+        "explanation": "DNA serves as template for RNA synthesis."
+    },
+    {
+        "id": 98,
+        "question": "Which RNA contains codons?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA carries codons."
+    },
+    {
+        "id": 99,
+        "question": "Which RNA contains anticodons?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA contains anticodons."
+    },
+    {
+        "id": 100,
+        "question": "Which biomolecule shows highest molecular diversity?",
+        "options": [
+            "Lipids",
+            "Proteins",
+            "Carbohydrates",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Proteins show maximum diversity."
+    },
+    {
+        "id": 101,
+        "question": "Which carbohydrate is non-reducing?",
+        "options": [
+            "Glucose",
+            "Maltose",
+            "Lactose",
+            "Sucrose"
+        ],
+        "answer": 3,
+        "explanation": "Sucrose is a non-reducing sugar."
+    },
+    {
+        "id": 102,
+        "question": "Which carbohydrate gives positive iodine test?",
+        "options": [
+            "Cellulose",
+            "Glucose",
+            "Starch",
+            "Sucrose"
+        ],
+        "answer": 2,
+        "explanation": "Starch gives blue colour with iodine."
+    },
+    {
+        "id": 103,
+        "question": "Which polysaccharide is absent in animals?",
+        "options": [
+            "Glycogen",
+            "Chitin",
+            "Cellulose",
+            "Both chitin and cellulose"
+        ],
+        "answer": 3,
+        "explanation": "Animals lack both chitin and cellulose."
+    },
+    {
+        "id": 104,
+        "question": "Which lipid is present in plant cuticle?",
+        "options": [
+            "Triglyceride",
+            "Wax",
+            "Phospholipid",
+            "Steroid"
+        ],
+        "answer": 1,
+        "explanation": "Waxes occur in plant cuticle."
+    },
+    {
+        "id": 105,
+        "question": "Which protein is enzymatic in nature?",
+        "options": [
+            "Keratin",
+            "Collagen",
+            "Amylase",
+            "Hemoglobin"
+        ],
+        "answer": 2,
+        "explanation": "Amylase is an enzyme."
+    },
+    {
+        "id": 106,
+        "question": "Which molecule stabilizes alpha helix of protein?",
+        "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Disulfide bond",
+            "Ionic bond"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen bonds stabilize alpha helix."
+    },
+    {
+        "id": 107,
+        "question": "Which structure of protein is lost during denaturation?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Secondary and tertiary"
+        ],
+        "answer": 3,
+        "explanation": "Denaturation disrupts secondary and tertiary structures."
+    },
+    {
+        "id": 108,
+        "question": "Which molecule acts as coenzyme?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B complex",
+            "Vitamin D",
+            "Vitamin E"
+        ],
+        "answer": 1,
+        "explanation": "Vitamin B complex functions as coenzymes."
+    },
+    {
+        "id": 109,
+        "question": "Which enzyme works best at acidic pH?",
+        "options": [
+            "Trypsin",
+            "Amylase",
+            "Pepsin",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Pepsin functions optimally in acidic pH."
+    },
+    {
+        "id": 110,
+        "question": "Which carbohydrate is called fruit sugar?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 1,
+        "explanation": "Fructose is known as fruit sugar."
+    },
+    {
+        "id": 111,
+        "question": "Which polysaccharide is a heteropolymer?",
+        "options": [
+            "Cellulose",
+            "Glycogen",
+            "Hyaluronic acid",
+            "Amylose"
+        ],
+        "answer": 2,
+        "explanation": "Hyaluronic acid is a heteropolysaccharide."
+    },
+    {
+        "id": 112,
+        "question": "Which molecule forms ester linkage in lipids?",
+        "options": [
+            "Amino acid",
+            "Fatty acid",
+            "Nitrogenous base",
+            "Sugar"
+        ],
+        "answer": 1,
+        "explanation": "Fatty acids form ester bonds with glycerol."
+    },
+    {
+        "id": 113,
+        "question": "Which protein transports oxygen?",
+        "options": [
+            "Albumin",
+            "Keratin",
+            "Hemoglobin",
+            "Myosin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin transports oxygen."
+    },
+    {
+        "id": 114,
+        "question": "Which polysaccharide is present in bacterial cell wall?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Peptidoglycan",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Peptidoglycan is present in bacterial cell wall."
+    },
+    {
+        "id": 115,
+        "question": "Which biomolecule is least abundant in living cells?",
+        "options": [
+            "Water",
+            "Proteins",
+            "Nucleic acids",
+            "Carbohydrates"
+        ],
+        "answer": 2,
+        "explanation": "Nucleic acids are least abundant."
+    },
+    {
+        "id": 116,
+        "question": "Which sugar is non-reducing due to absence of free aldehyde or keto group?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose lacks free reducing group."
+    },
+    {
+        "id": 117,
+        "question": "Which lipid is precursor of vitamin D?",
+        "options": [
+            "Cholesterol",
+            "Triglyceride",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 0,
+        "explanation": "Cholesterol is precursor of vitamin D."
+    },
+    {
+        "id": 118,
+        "question": "Which carbohydrate is present in fungal cell wall?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Pectin",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Chitin is present in fungal cell wall."
+    },
+    {
+        "id": 119,
+        "question": "Which amino acid is non-essential?",
+        "options": [
+            "Valine",
+            "Leucine",
+            "Glycine",
+            "Isoleucine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine is a non-essential amino acid."
+    },
+    {
+        "id": 120,
+        "question": "Which bond links sugar and phosphate in nucleic acid backbone?",
+        "options": [
+            "Glycosidic bond",
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Sugar-phosphate backbone is linked by phosphodiester bonds."
+    },
+    {
+        "id": 121,
+        "question": "Which biomolecule shows catalytic activity?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "DNA"
+        ],
+        "answer": 0,
+        "explanation": "Proteins act as enzymes."
+    },
+    {
+        "id": 122,
+        "question": "Which RNA is synthesized as a precursor?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "hnRNA"
+        ],
+        "answer": 3,
+        "explanation": "hnRNA is precursor of mRNA."
+    },
+    {
+        "id": 123,
+        "question": "Which carbohydrate is structural in plants?",
+        "options": [
+            "Starch",
+            "Glycogen",
+            "Cellulose",
+            "Sucrose"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose provides structural support."
+    },
+    {
+        "id": 124,
+        "question": "Which enzyme digests proteins?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Pepsin",
+            "Maltase"
+        ],
+        "answer": 2,
+        "explanation": "Pepsin digests proteins."
+    },
+    {
+        "id": 125,
+        "question": "Which lipid is stored as fat in animals?",
+        "options": [
+            "Phospholipid",
+            "Steroid",
+            "Triglyceride",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Triglycerides are stored as fat."
+    },
+    {
+        "id": 126,
+        "question": "Which bond is formed during dehydration synthesis of carbohydrates?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Phosphodiester bond",
+            "Ester bond"
+        ],
+        "answer": 1,
+        "explanation": "Monosaccharides join via glycosidic bonds."
+    },
+    {
+        "id": 127,
+        "question": "Which carbohydrate is a disaccharide?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Maltose",
+            "Starch"
+        ],
+        "answer": 2,
+        "explanation": "Maltose is a disaccharide."
+    },
+    {
+        "id": 128,
+        "question": "Which polysaccharide is most branched?",
+        "options": [
+            "Amylose",
+            "Cellulose",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is highly branched."
+    },
+    {
+        "id": 129,
+        "question": "Which biomolecule is not polymeric?",
+        "options": [
+            "Protein",
+            "Polysaccharide",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are not true polymers."
+    },
+    {
+        "id": 130,
+        "question": "Which enzyme specificity model suggests conformational change?",
+        "options": [
+            "Lock and key",
+            "Induced fit",
+            "Template",
+            "Fluid mosaic"
+        ],
+        "answer": 1,
+        "explanation": "Induced fit model explains conformational change."
+    },
+    {
+        "id": 131,
+        "question": "Which carbohydrate is composed of glucose and fructose?",
+        "options": [
+            "Maltose",
+            "Sucrose",
+            "Lactose",
+            "Cellobiose"
+        ],
+        "answer": 1,
+        "explanation": "Sucrose contains glucose and fructose."
+    },
+    {
+        "id": 132,
+        "question": "Which carbohydrate is composed of glucose and galactose?",
+        "options": [
+            "Maltose",
+            "Sucrose",
+            "Lactose",
+            "Cellobiose"
+        ],
+        "answer": 2,
+        "explanation": "Lactose is composed of glucose and galactose."
+    },
+    {
+        "id": 133,
+        "question": "Which protein binds DNA?",
+        "options": [
+            "Actin",
+            "Histone",
+            "Myosin",
+            "Keratin"
+        ],
+        "answer": 1,
+        "explanation": "Histones bind DNA."
+    },
+    {
+        "id": 134,
+        "question": "Which amino acid is aromatic?",
+        "options": [
+            "Alanine",
+            "Phenylalanine",
+            "Valine",
+            "Glycine"
+        ],
+        "answer": 1,
+        "explanation": "Phenylalanine is an aromatic amino acid."
+    },
+    {
+        "id": 135,
+        "question": "Which molecule is richest source of energy?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids yield maximum energy."
+    },
+    {
+        "id": 136,
+        "question": "Which nucleic acid is double stranded?",
+        "options": [
+            "DNA",
+            "RNA",
+            "tRNA",
+            "mRNA"
+        ],
+        "answer": 0,
+        "explanation": "DNA is double stranded."
+    },
+    {
+        "id": 137,
+        "question": "Which biomolecule has phosphoanhydride bonds?",
+        "options": [
+            "DNA",
+            "ATP",
+            "Protein",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "ATP contains phosphoanhydride bonds."
+    },
+    {
+        "id": 138,
+        "question": "Which lipid is derived from cholesterol?",
+        "options": [
+            "Vitamin D",
+            "Triglyceride",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 0,
+        "explanation": "Vitamin D is derived from cholesterol."
+    },
+    {
+        "id": 139,
+        "question": "Which carbohydrate is structural in arthropods?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Starch",
+            "Glycogen"
+        ],
+        "answer": 1,
+        "explanation": "Chitin forms arthropod exoskeleton."
+    },
+    {
+        "id": 140,
+        "question": "Which enzyme converts proteins into peptides?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Pepsin",
+            "Maltase"
+        ],
+        "answer": 2,
+        "explanation": "Pepsin breaks proteins into peptides."
+    },
+    {
+        "id": 141,
+        "question": "Which bond is broken during lipid digestion?",
+        "options": [
+            "Peptide bond",
+            "Ester bond",
+            "Glycosidic bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 1,
+        "explanation": "Ester bonds are hydrolysed."
+    },
+    {
+        "id": 142,
+        "question": "Which carbohydrate is storage in fungi?",
+        "options": [
+            "Starch",
+            "Glycogen",
+            "Cellulose",
+            "Inulin"
+        ],
+        "answer": 1,
+        "explanation": "Fungi store food as glycogen."
+    },
+    {
+        "id": 143,
+        "question": "Which biomolecule is most abundant in cell after water?",
+        "options": [
+            "Protein",
+            "Lipid",
+            "Carbohydrate",
+            "Nucleic acid"
+        ],
+        "answer": 0,
+        "explanation": "Proteins are most abundant after water."
+    },
+    {
+        "id": 144,
+        "question": "Which sugar is reducing?",
+        "options": [
+            "Sucrose",
+            "Glucose",
+            "Cellulose",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Glucose is a reducing sugar."
+    },
+    {
+        "id": 145,
+        "question": "Which enzyme acts on fats?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "Maltase"
+        ],
+        "answer": 2,
+        "explanation": "Lipase digests fats."
+    },
+    {
+        "id": 146,
+        "question": "Which molecule has anticodon loop?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA contains anticodon loop."
+    },
+    {
+        "id": 147,
+        "question": "Which carbohydrate is present in seeds as reserve food?",
+        "options": [
+            "Cellulose",
+            "Glycogen",
+            "Starch",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Starch is reserve food in seeds."
+    },
+    {
+        "id": 148,
+        "question": "Which amino acid is basic?",
+        "options": [
+            "Aspartic acid",
+            "Glutamic acid",
+            "Lysine",
+            "Alanine"
+        ],
+        "answer": 2,
+        "explanation": "Lysine is a basic amino acid."
+    },
+    {
+        "id": 149,
+        "question": "Which lipid is part of cell membrane?",
+        "options": [
+            "Triglyceride",
+            "Wax",
+            "Phospholipid",
+            "Fatty acid"
+        ],
+        "answer": 2,
+        "explanation": "Phospholipids form membrane bilayer."
+    },
+    {
+        "id": 150,
+        "question": "Which carbohydrate gives blue-black colour with iodine?",
+        "options": [
+            "Glucose",
+            "Cellulose",
+            "Starch",
+            "Sucrose"
+        ],
+        "answer": 2,
+        "explanation": "Starch reacts with iodine."
+    },
+    {
+        "id": 151,
+        "question": "Which bond joins amino acids?",
+        "options": [
+            "Glycosidic",
+            "Ester",
+            "Peptide",
+            "Hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Amino acids are linked by peptide bonds."
+    },
+    {
+        "id": 152,
+        "question": "Which biomolecule has double helical structure?",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Polysaccharide"
+        ],
+        "answer": 2,
+        "explanation": "DNA has double helix structure."
+    },
+    {
+        "id": 153,
+        "question": "Which carbohydrate is polymer of N-acetyl glucosamine?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Glycogen",
+            "Pectin"
+        ],
+        "answer": 1,
+        "explanation": "Chitin is polymer of N-acetyl glucosamine."
+    },
+    {
+        "id": 154,
+        "question": "Which protein is contractile?",
+        "options": [
+            "Keratin",
+            "Myosin",
+            "Collagen",
+            "Albumin"
+        ],
+        "answer": 1,
+        "explanation": "Myosin is a contractile protein."
+    },
+    {
+        "id": 155,
+        "question": "Which molecule carries genetic code to ribosome?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA carries genetic code."
+    },
+    {
+        "id": 156,
+        "question": "Which enzyme shows absolute specificity?",
+        "options": [
+            "Amylase",
+            "Urease",
+            "Lipase",
+            "Pepsin"
+        ],
+        "answer": 1,
+        "explanation": "Urease acts only on urea."
+    },
+    {
+        "id": 157,
+        "question": "Which molecule has phosphodiester linkage?",
+        "options": [
+            "Protein",
+            "DNA",
+            "Lipid",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "DNA has phosphodiester bonds."
+    },
+    {
+        "id": 158,
+        "question": "Which carbohydrate is present in honey?",
+        "options": [
+            "Fructose",
+            "Lactose",
+            "Maltose",
+            "Cellulose"
+        ],
+        "answer": 0,
+        "explanation": "Honey is rich in fructose."
+    },
+    {
+        "id": 159,
+        "question": "Which amino acid has smallest side chain?",
+        "options": [
+            "Alanine",
+            "Glycine",
+            "Valine",
+            "Leucine"
+        ],
+        "answer": 1,
+        "explanation": "Glycine has smallest side chain."
+    },
+    {
+        "id": 160,
+        "question": "Which lipid is not saponifiable?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Steroid",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Steroids are non-saponifiable lipids."
+    },
+    {
+        "id": 161,
+        "question": "Which carbohydrate is composed of glucose units joined by β-1,4 bonds?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Amylose"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose has β-1,4 glycosidic bonds."
+    },
+    {
+        "id": 162,
+        "question": "Which enzyme hydrolyses sucrose?",
+        "options": [
+            "Amylase",
+            "Maltase",
+            "Invertase",
+            "Lactase"
+        ],
+        "answer": 2,
+        "explanation": "Invertase hydrolyses sucrose."
+    },
+    {
+        "id": 163,
+        "question": "Which biomolecule is present in ribosomes?",
+        "options": [
+            "DNA",
+            "Protein only",
+            "rRNA and protein",
+            "tRNA"
+        ],
+        "answer": 2,
+        "explanation": "Ribosomes contain rRNA and proteins."
+    },
+    {
+        "id": 164,
+        "question": "Which carbohydrate is structural in plant middle lamella?",
+        "options": [
+            "Cellulose",
+            "Pectin",
+            "Hemicellulose",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Pectin is present in middle lamella."
+    },
+    {
+        "id": 165,
+        "question": "Which amino acid is essential?",
+        "options": [
+            "Glycine",
+            "Alanine",
+            "Valine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Valine is an essential amino acid."
+    },
+    {
+        "id": 166,
+        "question": "Which bond holds base pairs in DNA?",
+        "options": [
+            "Covalent bond",
+            "Peptide bond",
+            "Hydrogen bond",
+            "Ionic bond"
+        ],
+        "answer": 2,
+        "explanation": "Base pairs are held by hydrogen bonds."
+    },
+    {
+        "id": 167,
+        "question": "Which biomolecule shows maximum polymorphism?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 0,
+        "explanation": "Proteins show maximum polymorphism."
+    },
+    {
+        "id": 168,
+        "question": "Which carbohydrate is a polymer of fructose?",
+        "options": [
+            "Starch",
+            "Inulin",
+            "Cellulose",
+            "Glycogen"
+        ],
+        "answer": 1,
+        "explanation": "Inulin is a fructan."
+    },
+    {
+        "id": 169,
+        "question": "Which molecule acts as information molecule?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "DNA",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "DNA stores genetic information."
+    },
+    {
+        "id": 170,
+        "question": "Which biomolecule category includes enzymes?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Enzymes are proteins."
+    },
+    {
+        "id": 171,
+        "question": "Which class of biomolecules are not true polymers according to NCERT?",
+        "options": [
+            "Proteins",
+            "Polysaccharides",
+            "Nucleic acids",
+            "Lipids"
+        ],
+        "answer": 3,
+        "explanation": "Lipids are not true polymers as they are not formed by repetitive monomer units."
+    },
+    {
+        "id": 172,
+        "question": "Which polysaccharide is composed of repeating units of glucose and fructose?",
+        "options": [
+            "Inulin",
+            "Sucrose",
+            "Lactose",
+            "Cellulose"
+        ],
+        "answer": 0,
+        "explanation": "Inulin is a polymer of fructose units as stated in NCERT."
+    },
+    {
+        "id": 173,
+        "question": "Which of the following biomolecules has a definite molecular weight?",
+        "options": [
+            "Protein",
+            "Polysaccharide",
+            "Lipid",
+            "Micromolecule"
+        ],
+        "answer": 3,
+        "explanation": "Micromolecules have a fixed and definite molecular weight."
+    },
+    {
+        "id": 174,
+        "question": "Which analytical technique is used to separate amino acids?",
+        "options": [
+            "Electrophoresis",
+            "Chromatography",
+            "Centrifugation",
+            "Ultrafiltration"
+        ],
+        "answer": 1,
+        "explanation": "Chromatography is used for separation of amino acids."
+    },
+    {
+        "id": 175,
+        "question": "Which polysaccharide is absent in the cell wall of plants?",
+        "options": [
+            "Cellulose",
+            "Hemicellulose",
+            "Pectin",
+            "Chitin"
+        ],
+        "answer": 3,
+        "explanation": "Chitin is not present in plant cell walls."
+    },
+    {
+        "id": 176,
+        "question": "Which amino acid is sulfur-containing?",
+        "options": [
+            "Alanine",
+            "Cysteine",
+            "Valine",
+            "Proline"
+        ],
+        "answer": 1,
+        "explanation": "Cysteine contains sulphur in its side chain."
+    },
+    {
+        "id": 177,
+        "question": "Which of the following is an example of derived lipid?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Cholesterol",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Cholesterol is classified as a derived lipid."
+    },
+    {
+        "id": 178,
+        "question": "Which carbohydrate is present in middle lamella of plant cell wall?",
+        "options": [
+            "Cellulose",
+            "Hemicellulose",
+            "Pectin",
+            "Lignin"
+        ],
+        "answer": 2,
+        "explanation": "Pectin is a major component of middle lamella."
+    },
+    {
+        "id": 179,
+        "question": "Which protein is fibrous in nature?",
+        "options": [
+            "Albumin",
+            "Insulin",
+            "Keratin",
+            "Hemoglobin"
+        ],
+        "answer": 2,
+        "explanation": "Keratin is a fibrous protein."
+    },
+    {
+        "id": 180,
+        "question": "Which level of protein structure is stabilized by hydrogen bonds?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": 1,
+        "explanation": "Secondary structure is stabilized by hydrogen bonds."
+    },
+    {
+        "id": 181,
+        "question": "Which molecule acts as a coenzyme in many metabolic reactions?",
+        "options": [
+            "Vitamin A",
+            "Vitamin B complex",
+            "Vitamin D",
+            "Vitamin E"
+        ],
+        "answer": 1,
+        "explanation": "Vitamins of B-complex act as coenzymes."
+    },
+    {
+        "id": 182,
+        "question": "Which enzyme catalyses the hydrolysis of fats?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "Maltase"
+        ],
+        "answer": 2,
+        "explanation": "Lipase hydrolyses fats."
+    },
+    {
+        "id": 183,
+        "question": "Which biomolecule is most abundant in a living cell after water?",
+        "options": [
+            "Carbohydrate",
+            "Lipid",
+            "Protein",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Proteins are the most abundant biomolecules after water."
+    },
+    {
+        "id": 184,
+        "question": "Which carbohydrate is called animal starch?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Glycogen",
+            "Inulin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is termed animal starch."
+    },
+    {
+        "id": 185,
+        "question": "Which nitrogenous base is absent in RNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Thymine",
+            "Cytosine"
+        ],
+        "answer": 2,
+        "explanation": "Thymine is absent in RNA."
+    },
+    {
+        "id": 186,
+        "question": "Which bond connects nitrogenous base to pentose sugar?",
+        "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Glycosidic bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogenous base is linked to sugar by glycosidic bond."
+    },
+    {
+        "id": 187,
+        "question": "Which biomolecule contains phosphoanhydride bonds?",
+        "options": [
+            "DNA",
+            "RNA",
+            "ATP",
+            "Protein"
+        ],
+        "answer": 2,
+        "explanation": "ATP contains high-energy phosphoanhydride bonds."
+    },
+    {
+        "id": 188,
+        "question": "Which enzyme shows absolute specificity?",
+        "options": [
+            "Amylase",
+            "Urease",
+            "Trypsin",
+            "Pepsin"
+        ],
+        "answer": 1,
+        "explanation": "Urease acts only on urea."
+    },
+    {
+        "id": 189,
+        "question": "Which polysaccharide is present in fungal cell wall?",
+        "options": [
+            "Cellulose",
+            "Pectin",
+            "Chitin",
+            "Hemicellulose"
+        ],
+        "answer": 2,
+        "explanation": "Chitin is present in fungal cell walls."
+    },
+    {
+        "id": 190,
+        "question": "Which amino acid is optically inactive?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Glycine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine lacks chiral carbon and is optically inactive."
+    },
+    {
+        "id": 191,
+        "question": "Which lipid is a component of cell membrane?",
+        "options": [
+            "Triglyceride",
+            "Wax",
+            "Phospholipid",
+            "Neutral fat"
+        ],
+        "answer": 2,
+        "explanation": "Phospholipids form the basic structure of membranes."
+    },
+    {
+        "id": 192,
+        "question": "Which polysaccharide is unbranched?",
+        "options": [
+            "Glycogen",
+            "Amylopectin",
+            "Cellulose",
+            "Starch"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is an unbranched polymer of glucose."
+    },
+    {
+        "id": 193,
+        "question": "Which carbohydrate gives blue colour with iodine?",
+        "options": [
+            "Glucose",
+            "Cellulose",
+            "Starch",
+            "Sucrose"
+        ],
+        "answer": 2,
+        "explanation": "Starch gives blue colour with iodine."
+    },
+    {
+        "id": 194,
+        "question": "Which biomolecule functions as genetic material in most organisms?",
+        "options": [
+            "RNA",
+            "Protein",
+            "DNA",
+            "Polysaccharide"
+        ],
+        "answer": 2,
+        "explanation": "DNA is genetic material in most organisms."
+    },
+    {
+        "id": 195,
+        "question": "Which RNA carries amino acids to ribosome?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA carries amino acids to ribosome."
+    },
+    {
+        "id": 196,
+        "question": "Which carbohydrate is a reducing sugar?",
+        "options": [
+            "Sucrose",
+            "Starch",
+            "Cellulose",
+            "Glucose"
+        ],
+        "answer": 3,
+        "explanation": "Glucose has a free aldehyde group."
+    },
+    {
+        "id": 197,
+        "question": "Which protein binds DNA in chromatin?",
+        "options": [
+            "Keratin",
+            "Actin",
+            "Histone",
+            "Myosin"
+        ],
+        "answer": 2,
+        "explanation": "Histones bind DNA to form chromatin."
+    },
+    {
+        "id": 198,
+        "question": "Which carbohydrate is present in milk?",
+        "options": [
+            "Sucrose",
+            "Maltose",
+            "Lactose",
+            "Fructose"
+        ],
+        "answer": 2,
+        "explanation": "Lactose is milk sugar."
+    },
+    {
+        "id": 199,
+        "question": "Which amino acid is aromatic?",
+        "options": [
+            "Glycine",
+            "Phenylalanine",
+            "Alanine",
+            "Valine"
+        ],
+        "answer": 1,
+        "explanation": "Phenylalanine contains aromatic ring."
+    },
+    {
+        "id": 200,
+        "question": "Which lipid is non-saponifiable?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Steroid",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Steroids are non-saponifiable lipids."
+    },
+    {
+        "id": 201,
+        "question": "Which enzyme catalyses breakdown of sucrose?",
+        "options": [
+            "Amylase",
+            "Maltase",
+            "Invertase",
+            "Lactase"
+        ],
+        "answer": 2,
+        "explanation": "Invertase hydrolyses sucrose."
+    },
+    {
+        "id": 202,
+        "question": "Which carbohydrate is storage form in fungi?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Inulin"
+        ],
+        "answer": 2,
+        "explanation": "Fungi store food as glycogen."
+    },
+    {
+        "id": 203,
+        "question": "Which protein shows quaternary structure?",
+        "options": [
+            "Myoglobin",
+            "Keratin",
+            "Hemoglobin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin has quaternary structure."
+    },
+    {
+        "id": 204,
+        "question": "Which bond holds complementary bases together in DNA?",
+        "options": [
+            "Covalent bond",
+            "Peptide bond",
+            "Hydrogen bond",
+            "Ionic bond"
+        ],
+        "answer": 2,
+        "explanation": "Complementary bases are held by hydrogen bonds."
+    },
+    {
+        "id": 205,
+        "question": "Which biomolecule shows maximum functional diversity?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Lipids",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Proteins show maximum functional diversity."
+    },
+    {
+        "id": 206,
+        "question": "Which carbohydrate is a disaccharide?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Maltose",
+            "Starch"
+        ],
+        "answer": 2,
+        "explanation": "Maltose is a disaccharide."
+    },
+    {
+        "id": 207,
+        "question": "Which amino acid is essential?",
+        "options": [
+            "Glycine",
+            "Alanine",
+            "Valine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Valine is an essential amino acid."
+    },
+    {
+        "id": 208,
+        "question": "Which lipid is precursor of vitamin D?",
+        "options": [
+            "Triglyceride",
+            "Cholesterol",
+            "Wax",
+            "Phospholipid"
+        ],
+        "answer": 1,
+        "explanation": "Vitamin D is synthesized from cholesterol."
+    },
+    {
+        "id": 209,
+        "question": "Which polysaccharide is heteropolymer?",
+        "options": [
+            "Cellulose",
+            "Glycogen",
+            "Hyaluronic acid",
+            "Amylose"
+        ],
+        "answer": 2,
+        "explanation": "Hyaluronic acid is a heteropolysaccharide."
+    },
+    {
+        "id": 210,
+        "question": "Which RNA is synthesized as a precursor molecule?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "hnRNA"
+        ],
+        "answer": 3,
+        "explanation": "hnRNA is the precursor of mRNA."
+    },
+    {
+        "id": 211,
+        "question": "Which carbohydrate is non-reducing?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose lacks free aldehyde or keto group."
+    },
+    {
+        "id": 212,
+        "question": "Which enzyme digests proteins in stomach?",
+        "options": [
+            "Trypsin",
+            "Pepsin",
+            "Lipase",
+            "Amylase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsin digests proteins in acidic medium."
+    },
+    {
+        "id": 213,
+        "question": "Which carbohydrate is present in honey in large amount?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 1,
+        "explanation": "Honey is rich in fructose."
+    },
+    {
+        "id": 214,
+        "question": "Which amino acid has imino group?",
+        "options": [
+            "Glycine",
+            "Alanine",
+            "Proline",
+            "Valine"
+        ],
+        "answer": 2,
+        "explanation": "Proline contains an imino group."
+    },
+    {
+        "id": 215,
+        "question": "Which bond links amino acids in a polypeptide?",
+        "options": [
+            "Glycosidic",
+            "Peptide",
+            "Phosphodiester",
+            "Ester"
+        ],
+        "answer": 1,
+        "explanation": "Amino acids are linked by peptide bonds."
+    },
+    {
+        "id": 216,
+        "question": "Which carbohydrate is polymer of fructose?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Inulin",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Inulin is a fructan."
+    },
+    {
+        "id": 217,
+        "question": "Which biomolecule category includes enzymes?",
+        "options": [
+            "Lipids",
+            "Proteins",
+            "Carbohydrates",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Enzymes are proteins."
+    },
+    {
+        "id": 218,
+        "question": "Which carbohydrate is present in arthropod exoskeleton?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Pectin",
+            "Glycogen"
+        ],
+        "answer": 1,
+        "explanation": "Chitin forms exoskeleton of arthropods."
+    },
+    {
+        "id": 219,
+        "question": "Which protein is contractile?",
+        "options": [
+            "Collagen",
+            "Keratin",
+            "Myosin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Myosin is a contractile protein."
+    },
+    {
+        "id": 220,
+        "question": "Which carbohydrate is reserve food in plants?",
+        "options": [
+            "Cellulose",
+            "Glycogen",
+            "Starch",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Starch is reserve food in plants."
+    },
+    {
+        "id": 221,
+        "question": "Which nucleic acid is single stranded?",
+        "options": [
+            "DNA",
+            "RNA",
+            "Chromatin",
+            "Plasmid"
+        ],
+        "answer": 1,
+        "explanation": "RNA is single stranded."
+    },
+    {
+        "id": 222,
+        "question": "Which molecule has anticodon loop?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA has anticodon loop."
+    },
+    {
+        "id": 223,
+        "question": "Which lipid occurs in plant cuticle?",
+        "options": [
+            "Triglyceride",
+            "Steroid",
+            "Wax",
+            "Phospholipid"
+        ],
+        "answer": 2,
+        "explanation": "Wax is present in plant cuticle."
+    },
+    {
+        "id": 224,
+        "question": "Which enzyme specificity depends on exact fit?",
+        "options": [
+            "Induced fit model",
+            "Lock and key model",
+            "Fluid mosaic model",
+            "Template model"
+        ],
+        "answer": 1,
+        "explanation": "Lock and key model assumes exact fit."
+    },
+    {
+        "id": 225,
+        "question": "Which amino acid is basic?",
+        "options": [
+            "Aspartic acid",
+            "Glutamic acid",
+            "Lysine",
+            "Alanine"
+        ],
+        "answer": 2,
+        "explanation": "Lysine is a basic amino acid."
+    },
+    {
+        "id": 226,
+        "question": "Which carbohydrate is present in bacterial cell wall?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Peptidoglycan",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Peptidoglycan forms bacterial cell wall."
+    },
+    {
+        "id": 227,
+        "question": "Which protein transports oxygen in blood?",
+        "options": [
+            "Albumin",
+            "Myoglobin",
+            "Hemoglobin",
+            "Keratin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin transports oxygen."
+    },
+    {
+        "id": 228,
+        "question": "Which carbohydrate is a homopolymer?",
+        "options": [
+            "Hyaluronic acid",
+            "Heparin",
+            "Cellulose",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is a homopolymer of glucose."
+    },
+    {
+        "id": 229,
+        "question": "Which lipid stores maximum energy?",
+        "options": [
+            "Phospholipid",
+            "Triglyceride",
+            "Steroid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Triglycerides store maximum energy."
+    },
+    {
+        "id": 230,
+        "question": "Which bond is broken during carbohydrate digestion?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Phosphodiester bond",
+            "Ester bond"
+        ],
+        "answer": 1,
+        "explanation": "Glycosidic bonds are broken."
+    },
+    {
+        "id": 231,
+        "question": "Which protein is structural component of connective tissue?",
+        "options": [
+            "Keratin",
+            "Myosin",
+            "Collagen",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Collagen is major connective tissue protein."
+    },
+    {
+        "id": 232,
+        "question": "Which biomolecule has definite sequence?",
+        "options": [
+            "Lipid",
+            "Protein",
+            "Polysaccharide",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Proteins have definite amino acid sequence."
+    },
+    {
+        "id": 233,
+        "question": "Which RNA forms structural part of ribosome?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA forms ribosomal structure."
+    },
+    {
+        "id": 234,
+        "question": "Which carbohydrate is structural in plants?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Sucrose"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose provides rigidity to plant cells."
+    },
+    {
+        "id": 235,
+        "question": "Which amino acid is smallest?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Glycine",
+            "Leucine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine has smallest side chain."
+    },
+    {
+        "id": 236,
+        "question": "Which enzyme works optimally in acidic medium?",
+        "options": [
+            "Trypsin",
+            "Pepsin",
+            "Amylase",
+            "Lipase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsin works in acidic pH."
+    },
+    {
+        "id": 237,
+        "question": "Which carbohydrate is composed of glucose and galactose?",
+        "options": [
+            "Sucrose",
+            "Maltose",
+            "Lactose",
+            "Cellobiose"
+        ],
+        "answer": 2,
+        "explanation": "Lactose consists of glucose and galactose."
+    },
+    {
+        "id": 238,
+        "question": "Which molecule carries genetic information from DNA to ribosome?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA carries genetic information."
+    },
+    {
+        "id": 239,
+        "question": "Which lipid is precursor of steroid hormones?",
+        "options": [
+            "Triglyceride",
+            "Cholesterol",
+            "Wax",
+            "Phospholipid"
+        ],
+        "answer": 1,
+        "explanation": "Steroid hormones are derived from cholesterol."
+    },
+    {
+        "id": 240,
+        "question": "Which polysaccharide shows maximum branching?",
+        "options": [
+            "Amylose",
+            "Cellulose",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is highly branched."
+    },
+    {
+        "id": 241,
+        "question": "Which bond joins sugar-phosphate backbone?",
+        "options": [
+            "Glycosidic bond",
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Phosphodiester bonds form sugar-phosphate backbone."
+    },
+    {
+        "id": 242,
+        "question": "Which biomolecule acts as energy currency?",
+        "options": [
+            "ADP",
+            "ATP",
+            "AMP",
+            "NAD"
+        ],
+        "answer": 1,
+        "explanation": "ATP is the energy currency of cell."
+    },
+    {
+        "id": 243,
+        "question": "Which carbohydrate is absent in animals?",
+        "options": [
+            "Glycogen",
+            "Cellulose",
+            "Starch",
+            "Both cellulose and starch"
+        ],
+        "answer": 3,
+        "explanation": "Animals lack cellulose and starch."
+    },
+    {
+        "id": 244,
+        "question": "Which protein is involved in blood clotting?",
+        "options": [
+            "Albumin",
+            "Fibrinogen",
+            "Keratin",
+            "Myosin"
+        ],
+        "answer": 1,
+        "explanation": "Fibrinogen plays role in clotting."
+    },
+    {
+        "id": 245,
+        "question": "Which carbohydrate is a ketose?",
+        "options": [
+            "Glucose",
+            "Galactose",
+            "Fructose",
+            "Ribose"
+        ],
+        "answer": 2,
+        "explanation": "Fructose is a ketohexose."
+    },
+    {
+        "id": 246,
+        "question": "Which enzyme catalyses peptide bond formation?",
+        "options": [
+            "Pepsin",
+            "Ribosome",
+            "Trypsin",
+            "Amylase"
+        ],
+        "answer": 1,
+        "explanation": "Ribosome catalyses peptide bond formation."
+    },
+    {
+        "id": 247,
+        "question": "Which lipid is part of myelin sheath?",
+        "options": [
+            "Triglyceride",
+            "Steroid",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Myelin sheath is rich in phospholipids."
+    },
+    {
+        "id": 248,
+        "question": "Which carbohydrate is polymer of glucose with beta linkage?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Amylose"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose has beta-1,4 linkage."
+    },
+    {
+        "id": 249,
+        "question": "Which amino acid is essential?",
+        "options": [
+            "Serine",
+            "Glycine",
+            "Valine",
+            "Alanine"
+        ],
+        "answer": 2,
+        "explanation": "Valine is essential amino acid."
+    },
+    {
+        "id": 250,
+        "question": "Which biomolecule is least abundant in cell?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Nucleic acid",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "Nucleic acids are least abundant."
+    },
+    {
+        "id": 251,
+        "question": "Which carbohydrate gives positive Benedict's test?",
+        "options": [
+            "Sucrose",
+            "Glucose",
+            "Starch",
+            "Cellulose"
+        ],
+        "answer": 1,
+        "explanation": "Glucose is reducing sugar."
+    },
+    {
+        "id": 252,
+        "question": "Which lipid is present in eukaryotic membrane?",
+        "options": [
+            "Triglyceride",
+            "Cholesterol",
+            "Wax",
+            "Neutral fat"
+        ],
+        "answer": 1,
+        "explanation": "Cholesterol is present in eukaryotic membranes."
+    },
+    {
+        "id": 253,
+        "question": "Which enzyme requires metal ion as cofactor?",
+        "options": [
+            "Amylase",
+            "Carbonic anhydrase",
+            "Pepsin",
+            "Lipase"
+        ],
+        "answer": 1,
+        "explanation": "Carbonic anhydrase requires Zn2+."
+    },
+    {
+        "id": 254,
+        "question": "Which carbohydrate is present in seeds?",
+        "options": [
+            "Cellulose",
+            "Glycogen",
+            "Starch",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Starch is reserve food in seeds."
+    },
+    {
+        "id": 255,
+        "question": "Which bond stabilizes tertiary protein structure?",
+        "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Disulfide bond",
+            "Glycosidic bond"
+        ],
+        "answer": 2,
+        "explanation": "Disulfide bonds stabilize tertiary structure."
+    },
+    {
+        "id": 256,
+        "question": "Which carbohydrate is non-reducing due to absence of free carbonyl group?",
+        "options": [
+            "Glucose",
+            "Maltose",
+            "Sucrose",
+            "Lactose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose lacks free carbonyl group."
+    },
+    {
+        "id": 257,
+        "question": "Which biomolecule is amphipathic?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Starch",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "Phospholipids have hydrophilic and hydrophobic ends."
+    },
+    {
+        "id": 258,
+        "question": "Which RNA contains codons?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA contains codons."
+    },
+    {
+        "id": 259,
+        "question": "Which carbohydrate is polymer of glucose and fructose?",
+        "options": [
+            "Inulin",
+            "Sucrose",
+            "Cellulose",
+            "Glycogen"
+        ],
+        "answer": 0,
+        "explanation": "Inulin is polymer of fructose units."
+    },
+    {
+        "id": 260,
+        "question": "Which protein hormone is peptide in nature?",
+        "options": [
+            "Thyroxine",
+            "Adrenaline",
+            "Insulin",
+            "Testosterone"
+        ],
+        "answer": 2,
+        "explanation": "Insulin is a peptide hormone."
+    },
+    {
+        "id": 261,
+        "question": "Which carbohydrate is present in plant cell wall?",
+        "options": [
+            "Cellulose",
+            "Glycogen",
+            "Chitin",
+            "Inulin"
+        ],
+        "answer": 0,
+        "explanation": "Cellulose is major component of plant cell wall."
+    },
+    {
+        "id": 262,
+        "question": "Which enzyme catalyses breakdown of proteins into amino acids?",
+        "options": [
+            "Pepsin",
+            "Trypsin",
+            "Protease",
+            "Amylase"
+        ],
+        "answer": 2,
+        "explanation": "Proteases hydrolyse proteins."
+    },
+    {
+        "id": 263,
+        "question": "Which biomolecule shows maximum stereoisomerism?",
+        "options": [
+            "Lipids",
+            "Carbohydrates",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Carbohydrates show stereoisomerism."
+    },
+    {
+        "id": 264,
+        "question": "Which amino acid contains sulphur besides cysteine?",
+        "options": [
+            "Methionine",
+            "Valine",
+            "Proline",
+            "Alanine"
+        ],
+        "answer": 0,
+        "explanation": "Methionine is sulphur-containing amino acid."
+    },
+    {
+        "id": 265,
+        "question": "Which carbohydrate is a polymer of glucose with alpha linkage?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Starch",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Starch has alpha glycosidic linkages."
+    },
+    {
+        "id": 266,
+        "question": "Which RNA is most abundant in cell?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA is most abundant RNA."
+    },
+    {
+        "id": 267,
+        "question": "Which lipid is part of hormone structure?",
+        "options": [
+            "Triglyceride",
+            "Steroid",
+            "Wax",
+            "Phospholipid"
+        ],
+        "answer": 1,
+        "explanation": "Steroid hormones are lipids."
+    },
+    {
+        "id": 268,
+        "question": "Which carbohydrate gives negative Benedict's test?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose is non-reducing sugar."
+    },
+    {
+        "id": 269,
+        "question": "Which protein is involved in muscle contraction?",
+        "options": [
+            "Keratin",
+            "Collagen",
+            "Myosin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Myosin participates in muscle contraction."
+    },
+    {
+        "id": 270,
+        "question": "Which biomolecule acts as informational macromolecule?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "DNA",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "DNA stores and transmits genetic information."
+    },
+    {
+        "id": 271,
+        "question": "Which biomolecule category includes molecules with definite molecular weight as per NCERT?",
+        "options": [
+            "Macromolecules",
+            "Biopolymers",
+            "Micromolecules",
+            "Colloids"
+        ],
+        "answer": 2,
+        "explanation": "Micromolecules have definite molecular weight according to NCERT."
+    },
+    {
+        "id": 272,
+        "question": "Which of the following is a micromolecule?",
+        "options": [
+            "Protein",
+            "DNA",
+            "Starch",
+            "Glucose"
+        ],
+        "answer": 3,
+        "explanation": "Glucose is a micromolecule with low molecular weight."
+    },
+    {
+        "id": 273,
+        "question": "Which polysaccharide is a homopolymer of fructose?",
+        "options": [
+            "Starch",
+            "Inulin",
+            "Glycogen",
+            "Cellulose"
+        ],
+        "answer": 1,
+        "explanation": "Inulin is a fructan composed of fructose units."
+    },
+    {
+        "id": 274,
+        "question": "Which carbohydrate is structural in plant cell wall?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Inulin"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose provides rigidity to plant cell walls."
+    },
+    {
+        "id": 275,
+        "question": "Which polysaccharide cements adjacent plant cells?",
+        "options": [
+            "Cellulose",
+            "Hemicellulose",
+            "Pectin",
+            "Lignin"
+        ],
+        "answer": 2,
+        "explanation": "Pectin is present in middle lamella and cements cells."
+    },
+    {
+        "id": 276,
+        "question": "Which carbohydrate is reserve food in plants?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 1,
+        "explanation": "Starch is stored as reserve food in plants."
+    },
+    {
+        "id": 277,
+        "question": "Which polysaccharide is absent in animals?",
+        "options": [
+            "Glycogen",
+            "Cellulose",
+            "Starch",
+            "Both cellulose and starch"
+        ],
+        "answer": 3,
+        "explanation": "Animals do not synthesize cellulose or starch."
+    },
+    {
+        "id": 278,
+        "question": "Which carbohydrate is storage form in fungi?",
+        "options": [
+            "Starch",
+            "Glycogen",
+            "Inulin",
+            "Cellulose"
+        ],
+        "answer": 1,
+        "explanation": "Fungi store food as glycogen."
+    },
+    {
+        "id": 279,
+        "question": "Which polysaccharide is present in arthropod exoskeleton?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Pectin",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Chitin forms exoskeleton of arthropods."
+    },
+    {
+        "id": 280,
+        "question": "Which carbohydrate is composed of N-acetyl glucosamine units?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Glycogen",
+            "Pectin"
+        ],
+        "answer": 1,
+        "explanation": "Chitin is polymer of N-acetyl glucosamine."
+    },
+    {
+        "id": 281,
+        "question": "Which polysaccharide shows maximum branching?",
+        "options": [
+            "Amylose",
+            "Cellulose",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is highly branched."
+    },
+    {
+        "id": 282,
+        "question": "Which carbohydrate contains only alpha-1,4 glycosidic bonds?",
+        "options": [
+            "Amylose",
+            "Amylopectin",
+            "Glycogen",
+            "Cellulose"
+        ],
+        "answer": 0,
+        "explanation": "Amylose is unbranched with alpha-1,4 bonds."
+    },
+    {
+        "id": 283,
+        "question": "Which carbohydrate contains both alpha-1,4 and alpha-1,6 bonds?",
+        "options": [
+            "Cellulose",
+            "Amylose",
+            "Amylopectin",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Amylopectin contains alpha-1,4 and alpha-1,6 bonds."
+    },
+    {
+        "id": 284,
+        "question": "Which carbohydrate is a non-reducing sugar?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose has no free aldehyde or keto group."
+    },
+    {
+        "id": 285,
+        "question": "Which carbohydrate gives blue-black colour with iodine?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Sucrose",
+            "Glucose"
+        ],
+        "answer": 1,
+        "explanation": "Starch gives blue-black colour with iodine."
+    },
+    {
+        "id": 286,
+        "question": "Which sugar is called fruit sugar?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Galactose"
+        ],
+        "answer": 1,
+        "explanation": "Fructose is commonly called fruit sugar."
+    },
+    {
+        "id": 287,
+        "question": "Which carbohydrate is present in milk?",
+        "options": [
+            "Sucrose",
+            "Maltose",
+            "Lactose",
+            "Glucose"
+        ],
+        "answer": 2,
+        "explanation": "Lactose is the sugar present in milk."
+    },
+    {
+        "id": 288,
+        "question": "Which disaccharide is composed of glucose and galactose?",
+        "options": [
+            "Sucrose",
+            "Maltose",
+            "Lactose",
+            "Cellobiose"
+        ],
+        "answer": 2,
+        "explanation": "Lactose consists of glucose and galactose."
+    },
+    {
+        "id": 289,
+        "question": "Which disaccharide is composed of glucose and fructose?",
+        "options": [
+            "Maltose",
+            "Lactose",
+            "Sucrose",
+            "Cellobiose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose is composed of glucose and fructose."
+    },
+    {
+        "id": 290,
+        "question": "Which monosaccharide is an aldohexose?",
+        "options": [
+            "Fructose",
+            "Glucose",
+            "Ribose",
+            "Xylose"
+        ],
+        "answer": 1,
+        "explanation": "Glucose is an aldohexose."
+    },
+    {
+        "id": 291,
+        "question": "Which monosaccharide is a ketohexose?",
+        "options": [
+            "Glucose",
+            "Galactose",
+            "Fructose",
+            "Ribose"
+        ],
+        "answer": 2,
+        "explanation": "Fructose is a ketohexose."
+    },
+    {
+        "id": 292,
+        "question": "Which sugar is present in RNA?",
+        "options": [
+            "Deoxyribose",
+            "Ribose",
+            "Glucose",
+            "Fructose"
+        ],
+        "answer": 1,
+        "explanation": "RNA contains ribose sugar."
+    },
+    {
+        "id": 293,
+        "question": "Which sugar is present in DNA?",
+        "options": [
+            "Ribose",
+            "Glucose",
+            "Deoxyribose",
+            "Galactose"
+        ],
+        "answer": 2,
+        "explanation": "DNA contains deoxyribose sugar."
+    },
+    {
+        "id": 294,
+        "question": "Which biomolecule forms ester bonds with fatty acids?",
+        "options": [
+            "Amino acid",
+            "Glycerol",
+            "Nitrogenous base",
+            "Pentose sugar"
+        ],
+        "answer": 1,
+        "explanation": "Glycerol forms ester bonds with fatty acids."
+    },
+    {
+        "id": 295,
+        "question": "Which lipid is composed of glycerol and three fatty acids?",
+        "options": [
+            "Phospholipid",
+            "Triglyceride",
+            "Steroid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Triglycerides contain glycerol and three fatty acids."
+    },
+    {
+        "id": 296,
+        "question": "Which lipid is amphipathic in nature?",
+        "options": [
+            "Triglyceride",
+            "Wax",
+            "Steroid",
+            "Phospholipid"
+        ],
+        "answer": 3,
+        "explanation": "Phospholipids have hydrophilic head and hydrophobic tail."
+    },
+    {
+        "id": 297,
+        "question": "Which lipid is present in plant cuticle?",
+        "options": [
+            "Phospholipid",
+            "Steroid",
+            "Wax",
+            "Triglyceride"
+        ],
+        "answer": 2,
+        "explanation": "Waxes occur in plant cuticle."
+    },
+    {
+        "id": 298,
+        "question": "Which lipid is a precursor of steroid hormones?",
+        "options": [
+            "Triglyceride",
+            "Cholesterol",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Steroid hormones are synthesized from cholesterol."
+    },
+    {
+        "id": 299,
+        "question": "Which lipid is non-saponifiable?",
+        "options": [
+            "Triglyceride",
+            "Wax",
+            "Phospholipid",
+            "Steroid"
+        ],
+        "answer": 3,
+        "explanation": "Steroids are non-saponifiable lipids."
+    },
+    {
+        "id": 300,
+        "question": "Which biomolecule yields maximum energy per gram?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids yield maximum energy per gram."
+    },
+    {
+        "id": 301,
+        "question": "Which amino acid lacks chiral carbon?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Glycine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine lacks asymmetric carbon."
+    },
+    {
+        "id": 302,
+        "question": "Which amino acid is imino acid?",
+        "options": [
+            "Alanine",
+            "Proline",
+            "Glycine",
+            "Valine"
+        ],
+        "answer": 1,
+        "explanation": "Proline contains imino group."
+    },
+    {
+        "id": 303,
+        "question": "Which amino acid is sulphur-containing?",
+        "options": [
+            "Valine",
+            "Methionine",
+            "Alanine",
+            "Proline"
+        ],
+        "answer": 1,
+        "explanation": "Methionine contains sulphur."
+    },
+    {
+        "id": 304,
+        "question": "Which amino acid is essential?",
+        "options": [
+            "Glycine",
+            "Alanine",
+            "Valine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Valine is an essential amino acid."
+    },
+    {
+        "id": 305,
+        "question": "Which amino acid is basic?",
+        "options": [
+            "Aspartic acid",
+            "Glutamic acid",
+            "Lysine",
+            "Alanine"
+        ],
+        "answer": 2,
+        "explanation": "Lysine is a basic amino acid."
+    },
+    {
+        "id": 306,
+        "question": "Which bond links amino acids in proteins?",
+        "options": [
+            "Glycosidic bond",
+            "Peptide bond",
+            "Ester bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 1,
+        "explanation": "Amino acids are joined by peptide bonds."
+    },
+    {
+        "id": 307,
+        "question": "Which protein structure level represents amino acid sequence?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": 0,
+        "explanation": "Primary structure is linear amino acid sequence."
+    },
+    {
+        "id": 308,
+        "question": "Which interaction stabilizes alpha-helix?",
+        "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Disulfide bond",
+            "Ionic bond"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen bonds stabilize alpha-helix."
+    },
+    {
+        "id": 309,
+        "question": "Which protein shows quaternary structure?",
+        "options": [
+            "Keratin",
+            "Myoglobin",
+            "Hemoglobin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin has quaternary structure."
+    },
+    {
+        "id": 310,
+        "question": "Denaturation of proteins results in loss of",
+        "options": [
+            "Primary structure",
+            "Peptide bonds",
+            "Biological activity",
+            "Amino acids"
+        ],
+        "answer": 2,
+        "explanation": "Denaturation destroys biological activity."
+    },
+    {
+        "id": 311,
+        "question": "Which protein is fibrous?",
+        "options": [
+            "Hemoglobin",
+            "Insulin",
+            "Keratin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Keratin is fibrous protein."
+    },
+    {
+        "id": 312,
+        "question": "Which protein transports oxygen in blood?",
+        "options": [
+            "Myosin",
+            "Albumin",
+            "Hemoglobin",
+            "Keratin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin transports oxygen."
+    },
+    {
+        "id": 313,
+        "question": "Which protein is rich in connective tissues?",
+        "options": [
+            "Keratin",
+            "Collagen",
+            "Myosin",
+            "Albumin"
+        ],
+        "answer": 1,
+        "explanation": "Collagen is abundant in connective tissues."
+    },
+    {
+        "id": 314,
+        "question": "Which protein binds DNA?",
+        "options": [
+            "Actin",
+            "Myosin",
+            "Histone",
+            "Keratin"
+        ],
+        "answer": 2,
+        "explanation": "Histones bind DNA."
+    },
+    {
+        "id": 315,
+        "question": "Which biomolecule acts as enzyme?",
+        "options": [
+            "Carbohydrate",
+            "Protein",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 1,
+        "explanation": "Enzymes are proteinaceous."
+    },
+    {
+        "id": 316,
+        "question": "Which enzyme model assumes rigid active site?",
+        "options": [
+            "Induced fit",
+            "Lock and key",
+            "Template model",
+            "Fluid mosaic"
+        ],
+        "answer": 1,
+        "explanation": "Lock and key model assumes rigid active site."
+    },
+    {
+        "id": 317,
+        "question": "Which enzyme model explains conformational change?",
+        "options": [
+            "Lock and key",
+            "Induced fit",
+            "Template",
+            "Fluid mosaic"
+        ],
+        "answer": 1,
+        "explanation": "Induced fit model explains shape change."
+    },
+    {
+        "id": 318,
+        "question": "Which factor does not affect enzyme activity?",
+        "options": [
+            "Temperature",
+            "pH",
+            "Substrate concentration",
+            "Light intensity"
+        ],
+        "answer": 3,
+        "explanation": "Light intensity does not affect enzyme activity."
+    },
+    {
+        "id": 319,
+        "question": "Which enzyme works best in acidic pH?",
+        "options": [
+            "Trypsin",
+            "Amylase",
+            "Pepsin",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Pepsin works in acidic medium."
+    },
+    {
+        "id": 320,
+        "question": "Which cofactor is organic in nature?",
+        "options": [
+            "Metal ion",
+            "Coenzyme",
+            "Activator",
+            "Salt"
+        ],
+        "answer": 1,
+        "explanation": "Coenzymes are organic cofactors."
+    },
+    {
+        "id": 321,
+        "question": "Which vitamin acts as coenzyme?",
+        "options": [
+            "Vitamin A",
+            "Vitamin D",
+            "Vitamin B complex",
+            "Vitamin E"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin B complex acts as coenzyme."
+    },
+    {
+        "id": 322,
+        "question": "Which biomolecule stores genetic information?",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Carbohydrate"
+        ],
+        "answer": 2,
+        "explanation": "DNA stores genetic information."
+    },
+    {
+        "id": 323,
+        "question": "Which nitrogenous base is absent in DNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Uracil",
+            "Cytosine"
+        ],
+        "answer": 2,
+        "explanation": "Uracil is absent in DNA."
+    },
+    {
+        "id": 324,
+        "question": "Which nitrogenous base is absent in RNA?",
+        "options": [
+            "Adenine",
+            "Thymine",
+            "Guanine",
+            "Cytosine"
+        ],
+        "answer": 1,
+        "explanation": "Thymine is absent in RNA."
+    },
+    {
+        "id": 325,
+        "question": "Which bond links nucleotides in polynucleotide chain?",
+        "options": [
+            "Glycosidic bond",
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Nucleotides are linked by phosphodiester bonds."
+    },
+    {
+        "id": 326,
+        "question": "Which bond holds complementary bases together?",
+        "options": [
+            "Covalent bond",
+            "Hydrogen bond",
+            "Ionic bond",
+            "Peptide bond"
+        ],
+        "answer": 1,
+        "explanation": "Complementary bases are held by hydrogen bonds."
+    },
+    {
+        "id": 327,
+        "question": "Which nucleic acid is double stranded?",
+        "options": [
+            "DNA",
+            "RNA",
+            "tRNA",
+            "mRNA"
+        ],
+        "answer": 0,
+        "explanation": "DNA is double stranded."
+    },
+    {
+        "id": 328,
+        "question": "Which RNA carries amino acids?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA carries amino acids."
+    },
+    {
+        "id": 329,
+        "question": "Which RNA forms structural part of ribosome?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA forms ribosomal structure."
+    },
+    {
+        "id": 330,
+        "question": "Which RNA carries genetic code?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA carries genetic code."
+    },
+    {
+        "id": 331,
+        "question": "Which RNA is precursor of mRNA?",
+        "options": [
+            "snRNA",
+            "tRNA",
+            "hnRNA",
+            "rRNA"
+        ],
+        "answer": 2,
+        "explanation": "hnRNA is precursor of mRNA."
+    },
+    {
+        "id": 332,
+        "question": "Which biomolecule contains phosphoanhydride bonds?",
+        "options": [
+            "DNA",
+            "ATP",
+            "Protein",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "ATP contains phosphoanhydride bonds."
+    },
+    {
+        "id": 333,
+        "question": "Which molecule is energy currency of cell?",
+        "options": [
+            "ADP",
+            "ATP",
+            "AMP",
+            "NAD"
+        ],
+        "answer": 1,
+        "explanation": "ATP is energy currency of cell."
+    },
+    {
+        "id": 334,
+        "question": "Which biomolecule shows maximum diversity?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Proteins show maximum diversity."
+    },
+    {
+        "id": 335,
+        "question": "Which biomolecule is most abundant after water?",
+        "options": [
+            "Lipids",
+            "Proteins",
+            "Carbohydrates",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Proteins are most abundant after water."
+    },
+    {
+        "id": 336,
+        "question": "Which biomolecule is least abundant in cell?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 3,
+        "explanation": "Nucleic acids are least abundant."
+    },
+    {
+        "id": 337,
+        "question": "Which bond is broken during carbohydrate digestion?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 1,
+        "explanation": "Glycosidic bonds are broken."
+    },
+    {
+        "id": 338,
+        "question": "Which bond is broken during protein digestion?",
+        "options": [
+            "Hydrogen bond",
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond"
+        ],
+        "answer": 1,
+        "explanation": "Peptide bonds are hydrolysed."
+    },
+    {
+        "id": 339,
+        "question": "Which bond is broken during lipid digestion?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Ester bonds are broken."
+    },
+    {
+        "id": 340,
+        "question": "Which enzyme digests starch?",
+        "options": [
+            "Lipase",
+            "Pepsin",
+            "Amylase",
+            "Trypsin"
+        ],
+        "answer": 2,
+        "explanation": "Amylase digests starch."
+    },
+    {
+        "id": 341,
+        "question": "Which enzyme digests proteins in stomach?",
+        "options": [
+            "Trypsin",
+            "Pepsin",
+            "Lipase",
+            "Amylase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsin digests proteins in stomach."
+    },
+    {
+        "id": 342,
+        "question": "Which enzyme digests fats?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "Maltase"
+        ],
+        "answer": 2,
+        "explanation": "Lipase digests fats."
+    },
+    {
+        "id": 343,
+        "question": "Which enzyme shows absolute specificity?",
+        "options": [
+            "Amylase",
+            "Pepsin",
+            "Urease",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Urease acts only on urea."
+    },
+    {
+        "id": 344,
+        "question": "Which enzyme requires Zn2+ as cofactor?",
+        "options": [
+            "Amylase",
+            "Carbonic anhydrase",
+            "Pepsin",
+            "Trypsin"
+        ],
+        "answer": 1,
+        "explanation": "Carbonic anhydrase requires zinc."
+    },
+    {
+        "id": 345,
+        "question": "Which protein hormone is peptide in nature?",
+        "options": [
+            "Thyroxine",
+            "Adrenaline",
+            "Insulin",
+            "Testosterone"
+        ],
+        "answer": 2,
+        "explanation": "Insulin is a peptide hormone."
+    },
+    {
+        "id": 346,
+        "question": "Which lipid is part of myelin sheath?",
+        "options": [
+            "Triglyceride",
+            "Wax",
+            "Phospholipid",
+            "Cellulose"
+        ],
+        "answer": 2,
+        "explanation": "Myelin sheath is rich in phospholipids."
+    },
+    {
+        "id": 347,
+        "question": "Which carbohydrate gives positive Benedict test?",
+        "options": [
+            "Sucrose",
+            "Starch",
+            "Glucose",
+            "Cellulose"
+        ],
+        "answer": 2,
+        "explanation": "Glucose is reducing sugar."
+    },
+    {
+        "id": 348,
+        "question": "Which carbohydrate gives negative Benedict test?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose is non-reducing sugar."
+    },
+    {
+        "id": 349,
+        "question": "Which carbohydrate is polymer of glucose with beta linkage?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Amylose"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose has beta-1,4 linkage."
+    },
+    {
+        "id": 350,
+        "question": "Which carbohydrate is polymer of glucose with alpha linkage?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Chitin",
+            "Pectin"
+        ],
+        "answer": 1,
+        "explanation": "Starch has alpha glycosidic linkage."
+    },
+    {
+        "id": 351,
+        "question": "Which carbohydrate is present in bacterial cell wall?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Peptidoglycan",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Peptidoglycan forms bacterial cell wall."
+    },
+    {
+        "id": 352,
+        "question": "Which carbohydrate is heteropolysaccharide?",
+        "options": [
+            "Cellulose",
+            "Amylose",
+            "Hyaluronic acid",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Hyaluronic acid is heteropolysaccharide."
+    },
+    {
+        "id": 353,
+        "question": "Which protein is contractile?",
+        "options": [
+            "Keratin",
+            "Collagen",
+            "Myosin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Myosin is contractile protein."
+    },
+    {
+        "id": 354,
+        "question": "Which protein is involved in blood clotting?",
+        "options": [
+            "Albumin",
+            "Fibrinogen",
+            "Keratin",
+            "Myosin"
+        ],
+        "answer": 1,
+        "explanation": "Fibrinogen is involved in clotting."
+    },
+    {
+        "id": 355,
+        "question": "Which protein shows conjugated nature?",
+        "options": [
+            "Albumin",
+            "Keratin",
+            "Hemoglobin",
+            "Collagen"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin is a conjugated protein."
+    },
+    {
+        "id": 356,
+        "question": "Which biomolecule is informational macromolecule?",
+        "options": [
+            "Protein",
+            "DNA",
+            "Carbohydrate",
+            "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "DNA stores genetic information."
+    },
+    {
+        "id": 357,
+        "question": "Which bond links sugar and nitrogenous base?",
+        "options": [
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Glycosidic bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Sugar and base are linked by glycosidic bond."
+    },
+    {
+        "id": 358,
+        "question": "Which nitrogenous bases are purines?",
+        "options": [
+            "Adenine and Guanine",
+            "Cytosine and Thymine",
+            "Thymine and Uracil",
+            "Cytosine and Uracil"
+        ],
+        "answer": 0,
+        "explanation": "Adenine and guanine are purines."
+    },
+    {
+        "id": 359,
+        "question": "Which nitrogenous bases are pyrimidines?",
+        "options": [
+            "Adenine and Guanine",
+            "Cytosine and Thymine",
+            "Adenine and Cytosine",
+            "Guanine and Thymine"
+        ],
+        "answer": 1,
+        "explanation": "Cytosine and thymine are pyrimidines."
+    },
+    {
+        "id": 360,
+        "question": "Which base pairs with adenine in DNA?",
+        "options": [
+            "Uracil",
+            "Cytosine",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with thymine in DNA."
+    },
+    {
+        "id": 361,
+        "question": "Which base pairs with adenine in RNA?",
+        "options": [
+            "Thymine",
+            "Cytosine",
+            "Uracil",
+            "Guanine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 362,
+        "question": "Which RNA contains anticodon?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA contains anticodon."
+    },
+    {
+        "id": 363,
+        "question": "Which RNA is most abundant in cell?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA is most abundant."
+    },
+    {
+        "id": 364,
+        "question": "Which biomolecule shows stereoisomerism?",
+        "options": [
+            "Proteins",
+            "Carbohydrates",
+            "Lipids",
+            "Nucleic acids"
+        ],
+        "answer": 1,
+        "explanation": "Carbohydrates show stereoisomerism."
+    },
+    {
+        "id": 365,
+        "question": "Which amino acid is smallest?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Glycine",
+            "Leucine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine is smallest amino acid."
+    },
+    {
+        "id": 366,
+        "question": "Which biomolecule is not a true polymer?",
+        "options": [
+            "Protein",
+            "Polysaccharide",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are not true polymers."
+    },
+    {
+        "id": 367,
+        "question": "Which carbohydrate is present in honey in highest amount?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 1,
+        "explanation": "Honey contains high fructose."
+    },
+    {
+        "id": 368,
+        "question": "Which protein is transport protein?",
+        "options": [
+            "Keratin",
+            "Hemoglobin",
+            "Collagen",
+            "Actin"
+        ],
+        "answer": 1,
+        "explanation": "Hemoglobin transports oxygen."
+    },
+    {
+        "id": 369,
+        "question": "Which carbohydrate is reserve food in animals?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Animals store glycogen."
+    },
+    {
+        "id": 370,
+        "question": "Which biomolecule category includes ATP?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Nucleic acid",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "ATP is a nucleotide, part of nucleic acids."
+    },
+    {
+        "id": 371,
+        "question": "Which biomolecules are insoluble in water but soluble in organic solvents?",
+        "options": [
+            "Proteins",
+            "Carbohydrates",
+            "Lipids",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are hydrophobic and dissolve in organic solvents."
+    },
+    {
+        "id": 372,
+        "question": "Which lipid class includes fats and oils?",
+        "options": [
+            "Phospholipids",
+            "Steroids",
+            "Simple lipids",
+            "Derived lipids"
+        ],
+        "answer": 2,
+        "explanation": "Fats and oils are classified as simple lipids."
+    },
+    {
+        "id": 373,
+        "question": "Which lipid is formed by esterification of glycerol with fatty acids?",
+        "options": [
+            "Steroid",
+            "Triglyceride",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Triglycerides are esters of glycerol and fatty acids."
+    },
+    {
+        "id": 374,
+        "question": "Which lipid contains phosphate group in its structure?",
+        "options": [
+            "Triglyceride",
+            "Steroid",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 2,
+        "explanation": "Phospholipids contain a phosphate group."
+    },
+    {
+        "id": 375,
+        "question": "Which lipid is abundant in nervous tissue and cell membranes?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Wax",
+            "Neutral fat"
+        ],
+        "answer": 1,
+        "explanation": "Phospholipids are major components of membranes and nervous tissue."
+    },
+    {
+        "id": 376,
+        "question": "Which lipid forms protective coating on plant surfaces?",
+        "options": [
+            "Phospholipid",
+            "Wax",
+            "Steroid",
+            "Triglyceride"
+        ],
+        "answer": 1,
+        "explanation": "Waxes form protective coatings on plant surfaces."
+    },
+    {
+        "id": 377,
+        "question": "Which lipid is a precursor of bile acids and steroid hormones?",
+        "options": [
+            "Triglyceride",
+            "Cholesterol",
+            "Phospholipid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Cholesterol is precursor of bile acids and steroid hormones."
+    },
+    {
+        "id": 378,
+        "question": "Which lipid is absent in prokaryotic cell membranes?",
+        "options": [
+            "Phospholipid",
+            "Triglyceride",
+            "Steroid",
+            "Fatty acid"
+        ],
+        "answer": 2,
+        "explanation": "Steroids like cholesterol are absent in prokaryotic membranes."
+    },
+    {
+        "id": 379,
+        "question": "Which biomolecule has highest calorific value per gram?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids yield maximum energy per gram."
+    },
+    {
+        "id": 380,
+        "question": "Which fatty acid contains no double bond?",
+        "options": [
+            "Oleic acid",
+            "Linoleic acid",
+            "Palmitic acid",
+            "Arachidonic acid"
+        ],
+        "answer": 2,
+        "explanation": "Palmitic acid is a saturated fatty acid."
+    },
+    {
+        "id": 381,
+        "question": "Which fatty acid contains one double bond?",
+        "options": [
+            "Stearic acid",
+            "Oleic acid",
+            "Palmitic acid",
+            "Arachidic acid"
+        ],
+        "answer": 1,
+        "explanation": "Oleic acid is monounsaturated."
+    },
+    {
+        "id": 382,
+        "question": "Which biomolecule category shows amphipathic nature?",
+        "options": [
+            "Triglycerides",
+            "Proteins",
+            "Phospholipids",
+            "Polysaccharides"
+        ],
+        "answer": 2,
+        "explanation": "Phospholipids have hydrophilic and hydrophobic regions."
+    },
+    {
+        "id": 383,
+        "question": "Which amino acid contains sulphur atom?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Methionine",
+            "Proline"
+        ],
+        "answer": 2,
+        "explanation": "Methionine is a sulphur-containing amino acid."
+    },
+    {
+        "id": 384,
+        "question": "Which amino acid is optically inactive?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Glycine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine lacks chiral carbon."
+    },
+    {
+        "id": 385,
+        "question": "Which amino acid contains an imino group?",
+        "options": [
+            "Alanine",
+            "Proline",
+            "Glycine",
+            "Valine"
+        ],
+        "answer": 1,
+        "explanation": "Proline contains an imino group."
+    },
+    {
+        "id": 386,
+        "question": "Which amino acid is essential in human diet?",
+        "options": [
+            "Glycine",
+            "Alanine",
+            "Valine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Valine is an essential amino acid."
+    },
+    {
+        "id": 387,
+        "question": "Which amino acid is basic in nature?",
+        "options": [
+            "Aspartic acid",
+            "Glutamic acid",
+            "Lysine",
+            "Alanine"
+        ],
+        "answer": 2,
+        "explanation": "Lysine is a basic amino acid."
+    },
+    {
+        "id": 388,
+        "question": "Which bond links two amino acids in a polypeptide chain?",
+        "options": [
+            "Glycosidic bond",
+            "Ester bond",
+            "Peptide bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Amino acids are joined by peptide bonds."
+    },
+    {
+        "id": 389,
+        "question": "Which level of protein structure is the linear sequence of amino acids?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": 0,
+        "explanation": "Primary structure represents amino acid sequence."
+    },
+    {
+        "id": 390,
+        "question": "Which level of protein structure is stabilized mainly by hydrogen bonds?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": 1,
+        "explanation": "Secondary structure is stabilized by hydrogen bonds."
+    },
+    {
+        "id": 391,
+        "question": "Which bond stabilizes tertiary structure of proteins?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Disulfide bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 2,
+        "explanation": "Disulfide bonds stabilize tertiary structure."
+    },
+    {
+        "id": 392,
+        "question": "Which protein exhibits quaternary structure?",
+        "options": [
+            "Keratin",
+            "Myoglobin",
+            "Hemoglobin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin has quaternary structure."
+    },
+    {
+        "id": 393,
+        "question": "Denaturation of protein primarily affects which structure?",
+        "options": [
+            "Primary only",
+            "Secondary and tertiary",
+            "Primary only",
+            "Peptide bonds"
+        ],
+        "answer": 1,
+        "explanation": "Denaturation disrupts secondary and tertiary structures."
+    },
+    {
+        "id": 394,
+        "question": "Which protein is fibrous in nature?",
+        "options": [
+            "Albumin",
+            "Hemoglobin",
+            "Keratin",
+            "Insulin"
+        ],
+        "answer": 2,
+        "explanation": "Keratin is a fibrous protein."
+    },
+    {
+        "id": 395,
+        "question": "Which protein provides tensile strength to connective tissue?",
+        "options": [
+            "Keratin",
+            "Collagen",
+            "Myosin",
+            "Actin"
+        ],
+        "answer": 1,
+        "explanation": "Collagen provides tensile strength."
+    },
+    {
+        "id": 396,
+        "question": "Which protein transports oxygen in blood?",
+        "options": [
+            "Albumin",
+            "Myosin",
+            "Hemoglobin",
+            "Keratin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin transports oxygen."
+    },
+    {
+        "id": 397,
+        "question": "Which protein is contractile in nature?",
+        "options": [
+            "Collagen",
+            "Keratin",
+            "Myosin",
+            "Albumin"
+        ],
+        "answer": 2,
+        "explanation": "Myosin is a contractile protein."
+    },
+    {
+        "id": 398,
+        "question": "Which protein binds DNA in chromatin?",
+        "options": [
+            "Actin",
+            "Keratin",
+            "Histone",
+            "Myosin"
+        ],
+        "answer": 2,
+        "explanation": "Histones bind DNA in chromatin."
+    },
+    {
+        "id": 399,
+        "question": "Which proteins are enzymatic in nature?",
+        "options": [
+            "Fibrous proteins",
+            "Structural proteins",
+            "Globular proteins",
+            "Conjugated proteins"
+        ],
+        "answer": 2,
+        "explanation": "Most enzymes are globular proteins."
+    },
+    {
+        "id": 400,
+        "question": "Which biomolecules act as biological catalysts?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Enzymes are proteinaceous catalysts."
+    },
+    {
+        "id": 401,
+        "question": "Which enzyme model assumes rigid active site?",
+        "options": [
+            "Induced fit model",
+            "Lock and key model",
+            "Fluid mosaic model",
+            "Template model"
+        ],
+        "answer": 1,
+        "explanation": "Lock and key model assumes rigid active site."
+    },
+    {
+        "id": 402,
+        "question": "Which enzyme model explains conformational change during substrate binding?",
+        "options": [
+            "Lock and key model",
+            "Induced fit model",
+            "Template model",
+            "Fluid mosaic model"
+        ],
+        "answer": 1,
+        "explanation": "Induced fit model explains conformational change."
+    },
+    {
+        "id": 403,
+        "question": "Which factor does not directly affect enzyme activity?",
+        "options": [
+            "Temperature",
+            "pH",
+            "Substrate concentration",
+            "Light intensity"
+        ],
+        "answer": 3,
+        "explanation": "Light intensity does not affect enzyme activity."
+    },
+    {
+        "id": 404,
+        "question": "Which enzyme shows maximum activity at acidic pH?",
+        "options": [
+            "Trypsin",
+            "Amylase",
+            "Pepsin",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Pepsin functions optimally in acidic pH."
+    },
+    {
+        "id": 405,
+        "question": "Which enzyme shows absolute specificity?",
+        "options": [
+            "Amylase",
+            "Pepsin",
+            "Urease",
+            "Trypsin"
+        ],
+        "answer": 2,
+        "explanation": "Urease acts only on urea."
+    },
+    {
+        "id": 406,
+        "question": "Which cofactor is organic in nature?",
+        "options": [
+            "Metal ion",
+            "Activator",
+            "Coenzyme",
+            "Salt"
+        ],
+        "answer": 2,
+        "explanation": "Coenzymes are organic cofactors."
+    },
+    {
+        "id": 407,
+        "question": "Which vitamin functions as coenzyme?",
+        "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin B complex",
+            "Vitamin D"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin B complex acts as coenzyme."
+    },
+    {
+        "id": 408,
+        "question": "Which enzyme requires Zn2+ as cofactor?",
+        "options": [
+            "Amylase",
+            "Carbonic anhydrase",
+            "Pepsin",
+            "Trypsin"
+        ],
+        "answer": 1,
+        "explanation": "Carbonic anhydrase requires zinc."
+    },
+    {
+        "id": 409,
+        "question": "Which biomolecule stores genetic information?",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Carbohydrate"
+        ],
+        "answer": 2,
+        "explanation": "DNA stores genetic information."
+    },
+    {
+        "id": 410,
+        "question": "Which nitrogenous base is present only in RNA?",
+        "options": [
+            "Thymine",
+            "Uracil",
+            "Cytosine",
+            "Adenine"
+        ],
+        "answer": 1,
+        "explanation": "Uracil is present only in RNA."
+    },
+    {
+        "id": 411,
+        "question": "Which nitrogenous base is absent in DNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Uracil",
+            "Cytosine"
+        ],
+        "answer": 2,
+        "explanation": "Uracil is absent in DNA."
+    },
+    {
+        "id": 412,
+        "question": "Which bond links nitrogenous base to sugar in nucleotide?",
+        "options": [
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Glycosidic bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Base is linked to sugar by glycosidic bond."
+    },
+    {
+        "id": 413,
+        "question": "Which bond links nucleotides in a polynucleotide chain?",
+        "options": [
+            "Hydrogen bond",
+            "Peptide bond",
+            "Phosphodiester bond",
+            "Glycosidic bond"
+        ],
+        "answer": 2,
+        "explanation": "Phosphodiester bonds link nucleotides."
+    },
+    {
+        "id": 414,
+        "question": "Which bond holds complementary bases in DNA?",
+        "options": [
+            "Covalent bond",
+            "Hydrogen bond",
+            "Ionic bond",
+            "Peptide bond"
+        ],
+        "answer": 1,
+        "explanation": "Complementary bases are held by hydrogen bonds."
+    },
+    {
+        "id": 415,
+        "question": "Which nucleic acid is double stranded?",
+        "options": [
+            "DNA",
+            "RNA",
+            "tRNA",
+            "mRNA"
+        ],
+        "answer": 0,
+        "explanation": "DNA is double stranded."
+    },
+    {
+        "id": 416,
+        "question": "Which nucleic acid is single stranded?",
+        "options": [
+            "DNA",
+            "RNA",
+            "Chromatin",
+            "Plasmid"
+        ],
+        "answer": 1,
+        "explanation": "RNA is single stranded."
+    },
+    {
+        "id": 417,
+        "question": "Which RNA carries genetic code from DNA to ribosome?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA carries genetic code."
+    },
+    {
+        "id": 418,
+        "question": "Which RNA contains anticodon?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "hnRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA contains anticodon."
+    },
+    {
+        "id": 419,
+        "question": "Which RNA forms structural component of ribosome?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA forms ribosomal structure."
+    },
+    {
+        "id": 420,
+        "question": "Which RNA is synthesized as a precursor molecule?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "hnRNA"
+        ],
+        "answer": 3,
+        "explanation": "hnRNA is precursor of mRNA."
+    },
+    {
+        "id": 421,
+        "question": "Which biomolecule contains phosphoanhydride bonds?",
+        "options": [
+            "DNA",
+            "RNA",
+            "ATP",
+            "Protein"
+        ],
+        "answer": 2,
+        "explanation": "ATP contains phosphoanhydride bonds."
+    },
+    {
+        "id": 422,
+        "question": "Which molecule is called energy currency of the cell?",
+        "options": [
+            "ADP",
+            "ATP",
+            "AMP",
+            "NAD"
+        ],
+        "answer": 1,
+        "explanation": "ATP is the energy currency of the cell."
+    },
+    {
+        "id": 423,
+        "question": "Which biomolecule shows maximum structural diversity?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Proteins show maximum diversity."
+    },
+    {
+        "id": 424,
+        "question": "Which biomolecule is most abundant in cell after water?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Proteins are most abundant after water."
+    },
+    {
+        "id": 425,
+        "question": "Which biomolecule is least abundant in cell?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 3,
+        "explanation": "Nucleic acids are least abundant."
+    },
+    {
+        "id": 426,
+        "question": "Which bond is broken during carbohydrate digestion?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 1,
+        "explanation": "Glycosidic bonds are broken."
+    },
+    {
+        "id": 427,
+        "question": "Which bond is broken during protein digestion?",
+        "options": [
+            "Hydrogen bond",
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond"
+        ],
+        "answer": 1,
+        "explanation": "Peptide bonds are hydrolysed."
+    },
+    {
+        "id": 428,
+        "question": "Which bond is broken during lipid digestion?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond",
+            "Hydrogen bond"
+        ],
+        "answer": 2,
+        "explanation": "Ester bonds are broken during lipid digestion."
+    },
+    {
+        "id": 429,
+        "question": "Which enzyme digests starch?",
+        "options": [
+            "Pepsin",
+            "Trypsin",
+            "Amylase",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Amylase digests starch."
+    },
+    {
+        "id": 430,
+        "question": "Which enzyme digests proteins in stomach?",
+        "options": [
+            "Trypsin",
+            "Pepsin",
+            "Amylase",
+            "Lipase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsin digests proteins in stomach."
+    },
+    {
+        "id": 431,
+        "question": "Which enzyme digests fats?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "Maltase"
+        ],
+        "answer": 2,
+        "explanation": "Lipase digests fats."
+    },
+    {
+        "id": 432,
+        "question": "Which carbohydrate is reducing sugar?",
+        "options": [
+            "Sucrose",
+            "Cellulose",
+            "Starch",
+            "Glucose"
+        ],
+        "answer": 3,
+        "explanation": "Glucose is a reducing sugar."
+    },
+    {
+        "id": 433,
+        "question": "Which carbohydrate is non-reducing?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose is non-reducing sugar."
+    },
+    {
+        "id": 434,
+        "question": "Which carbohydrate gives blue-black colour with iodine?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Sucrose",
+            "Glucose"
+        ],
+        "answer": 1,
+        "explanation": "Starch gives blue-black colour with iodine."
+    },
+    {
+        "id": 435,
+        "question": "Which carbohydrate is storage form in animals?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Inulin"
+        ],
+        "answer": 2,
+        "explanation": "Animals store glycogen."
+    },
+    {
+        "id": 436,
+        "question": "Which carbohydrate is structural in plants?",
+        "options": [
+            "Starch",
+            "Glycogen",
+            "Cellulose",
+            "Sucrose"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is structural carbohydrate in plants."
+    },
+    {
+        "id": 437,
+        "question": "Which carbohydrate is structural in fungi?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Pectin",
+            "Starch"
+        ],
+        "answer": 1,
+        "explanation": "Chitin is present in fungal cell walls."
+    },
+    {
+        "id": 438,
+        "question": "Which carbohydrate is present in bacterial cell wall?",
+        "options": [
+            "Cellulose",
+            "Chitin",
+            "Peptidoglycan",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Peptidoglycan is present in bacterial cell wall."
+    },
+    {
+        "id": 439,
+        "question": "Which carbohydrate is heteropolysaccharide?",
+        "options": [
+            "Cellulose",
+            "Amylose",
+            "Hyaluronic acid",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Hyaluronic acid is heteropolysaccharide."
+    },
+    {
+        "id": 440,
+        "question": "Which carbohydrate is homopolymer?",
+        "options": [
+            "Hyaluronic acid",
+            "Heparin",
+            "Cellulose",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is homopolymer of glucose."
+    },
+    {
+        "id": 441,
+        "question": "Which carbohydrate is polymer of fructose?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Inulin",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Inulin is a fructan."
+    },
+    {
+        "id": 442,
+        "question": "Which biomolecule acts as informational macromolecule?",
+        "options": [
+            "Protein",
+            "DNA",
+            "Carbohydrate",
+            "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "DNA is informational macromolecule."
+    },
+    {
+        "id": 443,
+        "question": "Which biomolecule shows stereoisomerism?",
+        "options": [
+            "Lipids",
+            "Proteins",
+            "Carbohydrates",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Carbohydrates show stereoisomerism."
+    },
+    {
+        "id": 444,
+        "question": "Which amino acid is smallest?",
+        "options": [
+            "Alanine",
+            "Valine",
+            "Glycine",
+            "Leucine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine is smallest amino acid."
+    },
+    {
+        "id": 445,
+        "question": "Which biomolecule is not a true polymer?",
+        "options": [
+            "Protein",
+            "Polysaccharide",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are not true polymers."
+    },
+    {
+        "id": 446,
+        "question": "Which carbohydrate is present in honey in highest amount?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 1,
+        "explanation": "Honey contains high fructose."
+    },
+    {
+        "id": 447,
+        "question": "Which protein is transport protein?",
+        "options": [
+            "Keratin",
+            "Collagen",
+            "Hemoglobin",
+            "Actin"
+        ],
+        "answer": 2,
+        "explanation": "Hemoglobin transports oxygen."
+    },
+    {
+        "id": 448,
+        "question": "Which protein is involved in blood clotting?",
+        "options": [
+            "Albumin",
+            "Fibrinogen",
+            "Keratin",
+            "Myosin"
+        ],
+        "answer": 1,
+        "explanation": "Fibrinogen is involved in clotting."
+    },
+    {
+        "id": 449,
+        "question": "Which carbohydrate is reserve food in plants?",
+        "options": [
+            "Cellulose",
+            "Starch",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 1,
+        "explanation": "Starch is reserve food in plants."
+    },
+    {
+        "id": 450,
+        "question": "Which carbohydrate is reserve food in fungi?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Inulin"
+        ],
+        "answer": 2,
+        "explanation": "Fungi store glycogen."
+    },
+    {
+        "id": 451,
+        "question": "Which carbohydrate is absent in animals?",
+        "options": [
+            "Glycogen",
+            "Starch",
+            "Cellulose",
+            "Both starch and cellulose"
+        ],
+        "answer": 3,
+        "explanation": "Animals lack starch and cellulose."
+    },
+    {
+        "id": 452,
+        "question": "Which biomolecule category includes ATP?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Nucleic acid",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "ATP is a nucleotide."
+    },
+    {
+        "id": 453,
+        "question": "Which sugar is present in ATP?",
+        "options": [
+            "Deoxyribose",
+            "Ribose",
+            "Glucose",
+            "Fructose"
+        ],
+        "answer": 1,
+        "explanation": "ATP contains ribose sugar."
+    },
+    {
+        "id": 454,
+        "question": "Which nitrogenous base is purine?",
+        "options": [
+            "Cytosine",
+            "Uracil",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": 3,
+        "explanation": "Guanine is a purine base."
+    },
+    {
+        "id": 455,
+        "question": "Which nitrogenous bases are pyrimidines?",
+        "options": [
+            "Adenine and guanine",
+            "Cytosine and thymine",
+            "Adenine and cytosine",
+            "Guanine and thymine"
+        ],
+        "answer": 1,
+        "explanation": "Cytosine and thymine are pyrimidines."
+    },
+    {
+        "id": 456,
+        "question": "Which base pairs with adenine in DNA?",
+        "options": [
+            "Uracil",
+            "Cytosine",
+            "Thymine",
+            "Guanine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with thymine in DNA."
+    },
+    {
+        "id": 457,
+        "question": "Which base pairs with adenine in RNA?",
+        "options": [
+            "Thymine",
+            "Cytosine",
+            "Uracil",
+            "Guanine"
+        ],
+        "answer": 2,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 458,
+        "question": "Which RNA carries amino acids to ribosome?",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "tRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "tRNA carries amino acids."
+    },
+    {
+        "id": 459,
+        "question": "Which RNA contains codons?",
+        "options": [
+            "tRNA",
+            "rRNA",
+            "mRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "mRNA contains codons."
+    },
+    {
+        "id": 460,
+        "question": "Which RNA is most abundant in cell?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "snRNA"
+        ],
+        "answer": 2,
+        "explanation": "rRNA is most abundant RNA."
+    },
+    {
+        "id": 461,
+        "question": "Which biomolecule has definite sequence of monomers?",
+        "options": [
+            "Lipid",
+            "Protein",
+            "Polysaccharide",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Proteins have definite amino acid sequence."
+    },
+    {
+        "id": 462,
+        "question": "Which biomolecule shows maximum polymorphism?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Proteins show maximum polymorphism."
+    },
+    {
+        "id": 463,
+        "question": "Which biomolecule is present in ribosomes?",
+        "options": [
+            "DNA",
+            "Protein only",
+            "rRNA and protein",
+            "tRNA"
+        ],
+        "answer": 2,
+        "explanation": "Ribosomes consist of rRNA and proteins."
+    },
+    {
+        "id": 464,
+        "question": "Which enzyme catalyses peptide bond formation during translation?",
+        "options": [
+            "Pepsin",
+            "Trypsin",
+            "Ribosome",
+            "Amylase"
+        ],
+        "answer": 2,
+        "explanation": "Ribosome catalyses peptide bond formation."
+    },
+    {
+        "id": 465,
+        "question": "Which biomolecule is informational and catalytic both?",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Carbohydrate"
+        ],
+        "answer": 1,
+        "explanation": "RNA can act as informational and catalytic molecule."
+    },
+    {
+        "id": 466,
+        "question": "Which biomolecule is richest source of energy?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are richest source of energy."
+    },
+    {
+        "id": 467,
+        "question": "Which carbohydrate gives negative iodine test?",
+        "options": [
+            "Starch",
+            "Amylose",
+            "Cellulose",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose does not react with iodine."
+    },
+    {
+        "id": 468,
+        "question": "Which carbohydrate gives positive Benedict test?",
+        "options": [
+            "Sucrose",
+            "Cellulose",
+            "Starch",
+            "Glucose"
+        ],
+        "answer": 3,
+        "explanation": "Glucose is a reducing sugar."
+    },
+    {
+        "id": 469,
+        "question": "Which carbohydrate is composed of glucose units with beta-1,4 linkages?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Amylose"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose has beta-1,4 glycosidic bonds."
+    },
+    {
+        "id": 470,
+        "question": "Which biomolecule category includes enzymes, antibodies and hormones?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Enzymes, antibodies and many hormones are proteins."
+    }
+]

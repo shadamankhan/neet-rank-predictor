@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "The de Broglie wavelength of a particle increases when its:",
+        "options": [
+            "Mass increases",
+            "Velocity increases",
+            "Momentum decreases",
+            "Kinetic energy increases"
+        ],
+        "answer": 2,
+        "explanation": "λ = h/p, so wavelength increases when momentum decreases."
+    },
+    {
+        "id": 2,
+        "question": "For a reaction with activation energy 50 kJ mol−1, the rate increases most significantly with:",
+        "options": [
+            "Decrease in temperature",
+            "Addition of catalyst",
+            "Increase in pressure",
+            "Increase in concentration"
+        ],
+        "answer": 1,
+        "explanation": "Catalyst lowers activation energy, greatly increasing rate."
+    },
+    {
+        "id": 3,
+        "question": "The number of nodal planes in a 3p orbital is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "Number of angular nodes = l = 1 for p-orbital."
+    },
+    {
+        "id": 4,
+        "question": "The pH of a solution having [H+] = 3.16 × 10−5 M is:",
+        "options": [
+            "4.5",
+            "5.0",
+            "3.5",
+            "4.0"
+        ],
+        "answer": 0,
+        "explanation": "pH = −log(3.16×10−5) ≈ 4.5."
+    },
+    {
+        "id": 5,
+        "question": "Which colligative property is most suitable for determination of molar mass?",
+        "options": [
+            "Relative lowering of vapour pressure",
+            "Elevation of boiling point",
+            "Depression of freezing point",
+            "Osmotic pressure"
+        ],
+        "answer": 3,
+        "explanation": "Osmotic pressure is measurable at room temperature and highly sensitive."
+    },
+    {
+        "id": 6,
+        "question": "The correct order of atomic radii is:",
+        "options": [
+            "Na > Mg > Al",
+            "Al > Mg > Na",
+            "Mg > Na > Al",
+            "Na > Al > Mg"
+        ],
+        "answer": 0,
+        "explanation": "Atomic radius decreases across a period."
+    },
+    {
+        "id": 7,
+        "question": "The hybridization of central atom in XeF2 is:",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "dsp3"
+        ],
+        "answer": 0,
+        "explanation": "Two bond pairs and three lone pairs give linear shape with sp hybridization."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following complexes is diamagnetic?",
+        "options": [
+            "[Fe(H2O)6]2+",
+            "[CoF6]3−",
+            "[Ni(CN)4]2−",
+            "[MnCl6]4−"
+        ],
+        "answer": 2,
+        "explanation": "[Ni(CN)4]2− has paired electrons due to strong field CN− ligands."
+    },
+    {
+        "id": 9,
+        "question": "The unit of Gibbs free energy is:",
+        "options": [
+            "J",
+            "J mol−1",
+            "J K−1",
+            "J mol−1 K−1"
+        ],
+        "answer": 1,
+        "explanation": "Gibbs free energy is energy per mole."
+    },
+    {
+        "id": 10,
+        "question": "Which reagent is used to reduce nitrobenzene to aniline?",
+        "options": [
+            "KMnO4",
+            "Sn/HCl",
+            "NaOH",
+            "HNO3"
+        ],
+        "answer": 1,
+        "explanation": "Sn/HCl reduces nitro group to amine."
+    },
+    {
+        "id": 11,
+        "question": "The total number of sigma bonds in cyclohexane is:",
+        "options": [
+            "12",
+            "18",
+            "24",
+            "30"
+        ],
+        "answer": 1,
+        "explanation": "Cyclohexane has 6 C-C and 12 C-H σ bonds = 18."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following shows maximum ionic character?",
+        "options": [
+            "LiCl",
+            "NaCl",
+            "KCl",
+            "CsCl"
+        ],
+        "answer": 3,
+        "explanation": "Larger cation has lower polarizing power, increasing ionic character."
+    },
+    {
+        "id": 13,
+        "question": "The oxidation state of Mn in KMnO4 is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+7"
+        ],
+        "answer": 3,
+        "explanation": "Mn shows +7 oxidation state in permanganate."
+    },
+    {
+        "id": 14,
+        "question": "The bond angle in CO2 molecule is:",
+        "options": [
+            "109.5°",
+            "120°",
+            "180°",
+            "104.5°"
+        ],
+        "answer": 2,
+        "explanation": "CO2 is linear with 180° bond angle."
+    },
+    {
+        "id": 15,
+        "question": "Which gas has maximum compressibility factor deviation?",
+        "options": [
+            "He",
+            "H2",
+            "CO2",
+            "N2"
+        ],
+        "answer": 2,
+        "explanation": "CO2 shows strong intermolecular attractions."
+    },
+    {
+        "id": 16,
+        "question": "The number of moles present in 11.2 L of a gas at STP is:",
+        "options": [
+            "0.25",
+            "0.5",
+            "1",
+            "2"
+        ],
+        "answer": 1,
+        "explanation": "22.4 L = 1 mol, so 11.2 L = 0.5 mol."
+    },
+    {
+        "id": 17,
+        "question": "Which of the following is strongest acid?",
+        "options": [
+            "CH3COOH",
+            "CCl3COOH",
+            "HCOOH",
+            "C6H5COOH"
+        ],
+        "answer": 1,
+        "explanation": "Electron withdrawing Cl atoms increase acidity."
+    },
+    {
+        "id": 18,
+        "question": "The coordination number of central metal in [Fe(C2O4)3]3− is:",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "Each oxalate is bidentate, total coordination number is 6."
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is an extensive property?",
+        "options": [
+            "Density",
+            "Temperature",
+            "Pressure",
+            "Volume"
+        ],
+        "answer": 3,
+        "explanation": "Volume depends on amount of substance."
+    },
+    {
+        "id": 20,
+        "question": "The rate constant of a first order reaction has units of:",
+        "options": [
+            "mol L−1 s−1",
+            "s−1",
+            "L mol−1 s−1",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "First order rate constant has units of time−1."
+    },
+    {
+        "id": 21,
+        "question": "Which compound acts as both oxidizing and reducing agent?",
+        "options": [
+            "KMnO4",
+            "H2O2",
+            "O3",
+            "F2"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen peroxide can act as oxidizing and reducing agent."
+    },
+    {
+        "id": 22,
+        "question": "The correct increasing order of bond dissociation energy is:",
+        "options": [
+            "I2 < Br2 < Cl2 < F2",
+            "F2 < Cl2 < Br2 < I2",
+            "Cl2 < Br2 < I2 < F2",
+            "Br2 < I2 < Cl2 < F2"
+        ],
+        "answer": 0,
+        "explanation": "Bond strength increases from I2 to Cl2, F2 is exception but still weakest overall order given."
+    },
+    {
+        "id": 23,
+        "question": "Which oxide is acidic in nature?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SO3"
+        ],
+        "answer": 3,
+        "explanation": "SO3 forms sulfuric acid with water."
+    },
+    {
+        "id": 24,
+        "question": "The geometry of [Pt(NH3)2Cl2] is:",
+        "options": [
+            "Tetrahedral",
+            "Square planar",
+            "Octahedral",
+            "Trigonal planar"
+        ],
+        "answer": 1,
+        "explanation": "Pt(II) complexes are generally square planar."
+    },
+    {
+        "id": 25,
+        "question": "Which hydrocarbon undergoes addition reaction most readily?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Alkynes have higher unsaturation and react readily."
+    },
+    {
+        "id": 26,
+        "question": "The value of equilibrium constant K for a reaction with ΔG° = 0 is:",
+        "options": [
+            "0",
+            "1",
+            "∞",
+            "Depends on temperature"
+        ],
+        "answer": 1,
+        "explanation": "ΔG° = −RT lnK, so ΔG° = 0 gives K = 1."
+    },
+    {
+        "id": 27,
+        "question": "Which element shows maximum first ionization enthalpy?",
+        "options": [
+            "B",
+            "C",
+            "N",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen has stable half-filled p-orbitals."
+    },
+    {
+        "id": 28,
+        "question": "The shape of NH4+ ion is:",
+        "options": [
+            "Trigonal pyramidal",
+            "Tetrahedral",
+            "Square planar",
+            "Linear"
+        ],
+        "answer": 1,
+        "explanation": "Four bond pairs and no lone pair give tetrahedral geometry."
+    },
+    {
+        "id": 29,
+        "question": "Which of the following is strongest ligand?",
+        "options": [
+            "F−",
+            "H2O",
+            "NH3",
+            "CN−"
+        ],
+        "answer": 3,
+        "explanation": "CN− is a strong field ligand."
+    },
+    {
+        "id": 30,
+        "question": "The unit of molality is:",
+        "options": [
+            "mol L−1",
+            "mol kg−1",
+            "kg mol−1",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "Molality is moles of solute per kg of solvent."
+    },
+    {
+        "id": 31,
+        "question": "Which compound gives positive Fehling test?",
+        "options": [
+            "Benzaldehyde",
+            "Acetone",
+            "Formaldehyde",
+            "Benzophenone"
+        ],
+        "answer": 2,
+        "explanation": "Aliphatic aldehydes give Fehling test."
+    },
+    {
+        "id": 32,
+        "question": "The maximum oxidation state shown by chromium is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Chromium shows +6 in dichromate."
+    },
+    {
+        "id": 33,
+        "question": "Which of the following has highest melting point?",
+        "options": [
+            "NaCl",
+            "MgO",
+            "AlCl3",
+            "KCl"
+        ],
+        "answer": 1,
+        "explanation": "MgO has high lattice energy due to +2 and −2 charges."
+    },
+    {
+        "id": 34,
+        "question": "The number of unpaired electrons in Fe2+ ion is:",
+        "options": [
+            "2",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "Fe2+ (d6) has 4 unpaired electrons in high-spin state."
+    },
+    {
+        "id": 35,
+        "question": "Which of the following is a greenhouse gas?",
+        "options": [
+            "N2",
+            "O2",
+            "CH4",
+            "He"
+        ],
+        "answer": 2,
+        "explanation": "Methane absorbs infrared radiation."
+    },
+    {
+        "id": 36,
+        "question": "The reagent used to identify double bond is:",
+        "options": [
+            "FeCl3",
+            "Br2/CCl4",
+            "NaOH",
+            "Tollen’s reagent"
+        ],
+        "answer": 1,
+        "explanation": "Bromine decolorizes in presence of unsaturation."
+    },
+    {
+        "id": 37,
+        "question": "Which salt shows acidic nature in aqueous solution?",
+        "options": [
+            "Na2CO3",
+            "NH4Cl",
+            "NaCl",
+            "KNO3"
+        ],
+        "answer": 1,
+        "explanation": "NH4Cl is salt of weak base and strong acid."
+    },
+    {
+        "id": 38,
+        "question": "The standard state pressure is:",
+        "options": [
+            "1 atm",
+            "1 bar",
+            "760 mm Hg",
+            "10 atm"
+        ],
+        "answer": 1,
+        "explanation": "Standard state pressure is defined as 1 bar."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following is not a buffer solution?",
+        "options": [
+            "CH3COOH + CH3COONa",
+            "NH4OH + NH4Cl",
+            "HCl + NaCl",
+            "H2CO3 + NaHCO3"
+        ],
+        "answer": 2,
+        "explanation": "Strong acid and its salt do not form buffer."
+    },
+    {
+        "id": 40,
+        "question": "The correct order of basicity in gas phase is:",
+        "options": [
+            "NH3 > PH3 > AsH3",
+            "PH3 > AsH3 > NH3",
+            "AsH3 > PH3 > NH3",
+            "NH3 > AsH3 > PH3"
+        ],
+        "answer": 0,
+        "explanation": "Basicity decreases down the group."
+    },
+    {
+        "id": 41,
+        "question": "The number of π bonds in benzene is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "Benzene has three π bonds."
+    },
+    {
+        "id": 42,
+        "question": "Which metal is extracted by carbon reduction?",
+        "options": [
+            "Al",
+            "Na",
+            "Fe",
+            "Mg"
+        ],
+        "answer": 2,
+        "explanation": "Iron is extracted in blast furnace using carbon."
+    },
+    {
+        "id": 43,
+        "question": "The unit of rate of reaction is:",
+        "options": [
+            "mol L−1",
+            "mol L−1 s−1",
+            "s−1",
+            "L mol−1 s−1"
+        ],
+        "answer": 1,
+        "explanation": "Rate is change in concentration per unit time."
+    },
+    {
+        "id": 44,
+        "question": "Which compound exhibits tautomerism?",
+        "options": [
+            "Ethanol",
+            "Acetaldehyde",
+            "Ethane",
+            "Chloroform"
+        ],
+        "answer": 1,
+        "explanation": "Aldehydes show keto-enol tautomerism."
+    },
+    {
+        "id": 45,
+        "question": "The correct order of electron gain enthalpy is:",
+        "options": [
+            "Cl > F > Br > I",
+            "F > Cl > Br > I",
+            "Br > I > Cl > F",
+            "I > Br > Cl > F"
+        ],
+        "answer": 0,
+        "explanation": "Chlorine has highest electron gain enthalpy."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is diamagnetic?",
+        "options": [
+            "O2",
+            "NO",
+            "CO",
+            "NO2"
+        ],
+        "answer": 2,
+        "explanation": "CO has all electrons paired."
+    },
+    {
+        "id": 47,
+        "question": "The coordination number of Ag in [Ag(NH3)2]+ is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "Two ammonia ligands coordinate with Ag+."
+    },
+    {
+        "id": 48,
+        "question": "Which law explains lowering of vapour pressure?",
+        "options": [
+            "Dalton’s law",
+            "Raoult’s law",
+            "Henry’s law",
+            "Boyle’s law"
+        ],
+        "answer": 1,
+        "explanation": "Raoult’s law relates vapour pressure to mole fraction."
+    },
+    {
+        "id": 49,
+        "question": "The correct order of reactivity of alkyl halides in SN2 reaction is:",
+        "options": [
+            "3° > 2° > 1°",
+            "1° > 2° > 3°",
+            "2° > 1° > 3°",
+            "3° > 1° > 2°"
+        ],
+        "answer": 1,
+        "explanation": "Less steric hindrance favors SN2."
+    },
+    {
+        "id": 50,
+        "question": "The enthalpy change of an endothermic reaction is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "Heat is absorbed, so ΔH is positive."
+    }
+]

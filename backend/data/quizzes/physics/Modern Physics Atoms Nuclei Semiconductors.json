@@ -1,0 +1,6004 @@
+[
+    {
+        "id": 1,
+        "question": "According to Bohr's model, the angular momentum of an electron in a hydrogen atom is quantised as:",
+        "options": ["mvr = nh/2\pi", "mvr = n\hbar",
+            "mvr = h/n", "mvr = 2\pi nh"
+        ],
+        "answer": 1,
+        "explanation": "Bohr postulated that angular momentum is quantised as mvr = n\hbar, where \hbar = h/2\pi."
+    },
+    {
+        "id": 2,
+        "question": "The radius of the nth orbit in a hydrogen atom varies as:",
+        "options": [
+            "n",
+            "1/n",
+            "n^2",
+            "1/n^2"
+        ],
+        "answer": 2,
+        "explanation": "From Bohr model, r_n = n^2 a_0, hence radius varies as n^2."
+    },
+    {
+        "id": 3,
+        "question": "The energy of an electron in the ground state of hydrogen atom is:",
+        "options": [
+            "-3.4 eV",
+            "-10.2 eV",
+            "-13.6 eV",
+            "-27.2 eV"
+        ],
+        "answer": 2,
+        "explanation": "Ground state energy of hydrogen atom is -13.6 eV as given by Bohr's formula."
+    },
+    {
+        "id": 4,
+        "question": "The wavelength of radiation emitted in the transition n = 3 to n = 2 in hydrogen atom belongs to:",
+        "options": [
+            "Lyman series",
+            "Balmer series",
+            "Paschen series",
+            "Brackett series"
+        ],
+        "answer": 1,
+        "explanation": "Transitions ending at n = 2 correspond to Balmer series."
+    },
+    {
+        "id": 5,
+        "question": "The ionisation energy of hydrogen atom corresponds to the transition:",
+        "options": [
+            "n = 1 to n = 2",
+            "n = 2 to n = 3", "n = 1 to n = \infty", "n = 2 to n = \infty"
+        ],
+        "answer": 2,
+        "explanation": "Ionisation energy is the energy required to remove electron from ground state to infinity."
+    },
+    {
+        "id": 6,
+        "question": "The de Broglie wavelength of an electron accelerated through potential V varies as:",
+        "options": [
+            "V",
+            "1/V", "1/\sqrt{V}", "\sqrt{V}"
+        ],
+        "answer": 2,
+        "explanation": "De Broglie wavelength \lambda = h/\sqrt{2meV}, hence varies as 1/\sqrt{V}."
+    },
+    {
+        "id": 7,
+        "question": "The frequency of a photon emitted in a hydrogen atom transition depends on:",
+        "options": [
+            "radius of orbit",
+            "angular momentum",
+            "difference in energy levels",
+            "speed of electron"
+        ],
+        "answer": 2,
+        "explanation": "Photon frequency is given by \nu = (E_i - E_f)/h."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a limitation of Bohr's atomic model?",
+        "options": [
+            "Explains hydrogen spectrum",
+            "Explains quantisation of energy",
+            "Fails for multi-electron atoms",
+            "Explains stability of atom"
+        ],
+        "answer": 2,
+        "explanation": "Bohr model fails to explain spectra of multi-electron atoms."
+    },
+    {
+        "id": 9,
+        "question": "The mass defect of a nucleus is due to:",
+        "options": [
+            "loss of neutrons",
+            "loss of protons",
+            "binding energy of nucleus",
+            "radioactive decay"
+        ],
+        "answer": 2,
+        "explanation": "Mass defect arises because some mass is converted into binding energy of nucleus."
+    },
+    {
+        "id": 10,
+        "question": "Binding energy per nucleon is maximum for nuclei having mass number approximately:",
+        "options": [
+            "4",
+            "16",
+            "56",
+            "238"
+        ],
+        "answer": 2,
+        "explanation": "Binding energy per nucleon is maximum around iron nucleus (A ≈ 56)."
+    },
+    {
+        "id": 11,
+        "question": "The SI unit of binding energy is:",
+        "options": [
+            "eV",
+            "MeV",
+            "joule",
+            "kg"
+        ],
+        "answer": 2,
+        "explanation": "Binding energy is energy, so SI unit is joule."
+    },
+    {
+        "id": 12,
+        "question": "The process in which a heavy nucleus splits into two lighter nuclei is called:",
+        "options": [
+            "nuclear fusion",
+            "nuclear fission",
+            "radioactivity",
+            "beta decay"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear fission is the splitting of a heavy nucleus into lighter nuclei."
+    },
+    {
+        "id": 13,
+        "question": "In nuclear fusion, energy is released because:",
+        "options": [
+            "mass increases",
+            "binding energy per nucleon decreases",
+            "binding energy per nucleon increases",
+            "neutrons are emitted"
+        ],
+        "answer": 2,
+        "explanation": "Fusion leads to higher binding energy per nucleon, releasing energy."
+    },
+    {
+        "id": 14,
+        "question": "The unit of radioactivity is:",
+        "options": [
+            "curie",
+            "becquerel",
+            "roentgen",
+            "gray"
+        ],
+        "answer": 1,
+        "explanation": "SI unit of radioactivity is becquerel (disintegration per second)."
+    },
+    {
+        "id": 15,
+        "question": "The half-life of a radioactive substance depends on:",
+        "options": [
+            "temperature",
+            "pressure",
+            "amount of substance",
+            "nature of nucleus"
+        ],
+        "answer": 3,
+        "explanation": "Half-life is a nuclear property and depends only on the nature of the nucleus."
+    },
+    {
+        "id": 16,
+        "question": "During alpha decay, the atomic number of nucleus changes by:",
+        "options": [
+            "-1",
+            "-2",
+            "+1",
+            "+2"
+        ],
+        "answer": 1,
+        "explanation": "Alpha particle emission reduces atomic number by 2."
+    },
+    {
+        "id": 17,
+        "question": "The energy equivalent of mass m is given by:",
+        "options": [
+            "E = mc",
+            "E = mc^2",
+            "E = m^2c",
+            "E = mc^3"
+        ],
+        "answer": 1,
+        "explanation": "Einstein's mass-energy relation is E = mc^2."
+    },
+    {
+        "id": 18,
+        "question": "A nuclear reactor works on the principle of:",
+        "options": [
+            "controlled nuclear fusion",
+            "controlled nuclear fission",
+            "uncontrolled fusion",
+            "uncontrolled fission"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear reactors use controlled nuclear fission."
+    },
+    {
+        "id": 19,
+        "question": "Moderator in a nuclear reactor is used to:",
+        "options": [
+            "absorb neutrons",
+            "slow down neutrons",
+            "increase temperature",
+            "cause fission"
+        ],
+        "answer": 1,
+        "explanation": "Moderator slows down fast neutrons to thermal energies."
+    },
+    {
+        "id": 20,
+        "question": "The most penetrating radiation among the following is:",
+        "options": [
+            "alpha",
+            "beta",
+            "gamma",
+            "X-rays"
+        ],
+        "answer": 2,
+        "explanation": "Gamma rays have the highest penetrating power."
+    },
+    {
+        "id": 21,
+        "question": "A semiconductor at absolute zero temperature behaves as:",
+        "options": [
+            "conductor",
+            "insulator",
+            "superconductor",
+            "diode"
+        ],
+        "answer": 1,
+        "explanation": "At 0 K, no free charge carriers are available, so it behaves as an insulator."
+    },
+    {
+        "id": 22,
+        "question": "The energy gap of a semiconductor is of the order of:",
+        "options": [
+            "10 eV",
+            "5 eV",
+            "1 eV",
+            "0 eV"
+        ],
+        "answer": 2,
+        "explanation": "Typical band gap of semiconductors is about 1 eV."
+    },
+    {
+        "id": 23,
+        "question": "In an intrinsic semiconductor, the number of electrons is:",
+        "options": [
+            "greater than holes",
+            "less than holes",
+            "equal to holes",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "In intrinsic semiconductors, electron and hole concentrations are equal."
+    },
+    {
+        "id": 24,
+        "question": "Doping a semiconductor increases its:",
+        "options": [
+            "resistivity",
+            "band gap",
+            "conductivity",
+            "temperature"
+        ],
+        "answer": 2,
+        "explanation": "Doping increases charge carriers and hence conductivity."
+    },
+    {
+        "id": 25,
+        "question": "A p-type semiconductor is obtained by doping silicon with:",
+        "options": [
+            "phosphorus",
+            "arsenic",
+            "antimony",
+            "boron"
+        ],
+        "answer": 3,
+        "explanation": "Trivalent impurity like boron creates p-type semiconductor."
+    },
+    {
+        "id": 26,
+        "question": "The majority charge carriers in n-type semiconductor are:",
+        "options": [
+            "holes",
+            "electrons",
+            "ions",
+            "protons"
+        ],
+        "answer": 1,
+        "explanation": "Pentavalent doping produces excess electrons as majority carriers."
+    },
+    {
+        "id": 27,
+        "question": "A p-n junction diode conducts when it is:",
+        "options": [
+            "reverse biased",
+            "forward biased",
+            "unbiased",
+            "heated"
+        ],
+        "answer": 1,
+        "explanation": "Forward bias reduces barrier potential and allows current flow."
+    },
+    {
+        "id": 28,
+        "question": "The depletion region in a p-n junction is free from:",
+        "options": [
+            "ions",
+            "electrons",
+            "holes",
+            "mobile charge carriers"
+        ],
+        "answer": 3,
+        "explanation": "Depletion region has immobile ions but no mobile charge carriers."
+    },
+    {
+        "id": 29,
+        "question": "In reverse bias of a diode, the width of depletion layer:",
+        "options": [
+            "decreases",
+            "increases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Reverse bias increases the depletion layer width."
+    },
+    {
+        "id": 30,
+        "question": "The ideal diode has resistance:",
+        "options": [
+            "zero in forward bias and infinite in reverse bias",
+            "infinite in both biases",
+            "zero in both biases",
+            "finite in forward bias only"
+        ],
+        "answer": 0,
+        "explanation": "Ideal diode conducts perfectly in forward bias and blocks completely in reverse bias."
+    },
+    {
+        "id": 31,
+        "question": "Zener diode is used as:",
+        "options": [
+            "rectifier",
+            "oscillator",
+            "voltage regulator",
+            "amplifier"
+        ],
+        "answer": 2,
+        "explanation": "Zener diode maintains constant voltage across load."
+    },
+    {
+        "id": 32,
+        "question": "The breakdown in Zener diode occurs due to:",
+        "options": [
+            "high temperature",
+            "high current",
+            "strong electric field",
+            "mechanical stress"
+        ],
+        "answer": 2,
+        "explanation": "Zener breakdown is due to strong electric field across junction."
+    },
+    {
+        "id": 33,
+        "question": "In a transistor, the emitter is heavily doped to:",
+        "options": [
+            "increase voltage",
+            "increase charge carrier injection",
+            "reduce power loss",
+            "increase resistance"
+        ],
+        "answer": 1,
+        "explanation": "Heavy doping of emitter increases charge carrier injection."
+    },
+    {
+        "id": 34,
+        "question": "The current amplification factor in common emitter configuration is:",
+        "options": ["\alpha",
+            "\beta", "\gamma", "\delta"
+        ],
+        "answer": 1,
+        "explanation": "In CE configuration, current gain is denoted by \beta."
+    },
+    {
+        "id": 35,
+        "question": "In n-p-n transistor, the majority charge carriers in base are:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "protons"
+        ],
+        "answer": 1,
+        "explanation": "Base is p-type, so majority carriers are holes."
+    },
+    {
+        "id": 36,
+        "question": "A transistor is NOT used as:",
+        "options": [
+            "amplifier",
+            "oscillator",
+            "switch",
+            "rectifier"
+        ],
+        "answer": 3,
+        "explanation": "Rectification is done using diodes, not transistors."
+    },
+    {
+        "id": 37,
+        "question": "The energy band gap of an insulator is typically:",
+        "options": [
+            "less than 1 eV",
+            "about 1 eV",
+            "2 to 3 eV",
+            "greater than 3 eV"
+        ],
+        "answer": 3,
+        "explanation": "Insulators have large band gaps greater than 3 eV."
+    },
+    {
+        "id": 38,
+        "question": "In intrinsic semiconductors, conduction is due to:",
+        "options": [
+            "only electrons",
+            "only holes",
+            "both electrons and holes",
+            "ions"
+        ],
+        "answer": 2,
+        "explanation": "Both electrons and holes contribute equally in intrinsic semiconductors."
+    },
+    {
+        "id": 39,
+        "question": "The SI unit of activity of radioactive sample is equivalent to:",
+        "options": [
+            "one decay per minute",
+            "one decay per second",
+            "one decay per hour",
+            "one decay per year"
+        ],
+        "answer": 1,
+        "explanation": "One becquerel equals one decay per second."
+    },
+    {
+        "id": 40,
+        "question": "Which radiation has maximum ionising power?",
+        "options": [
+            "alpha",
+            "beta",
+            "gamma",
+            "X-rays"
+        ],
+        "answer": 0,
+        "explanation": "Alpha particles have maximum ionising power due to large mass and charge."
+    },
+    {
+        "id": 41,
+        "question": "The relation between decay constant \lambda and half-life T_{1/2} is:",
+        "options": ["T_{1/2} = 1/\lambda", "T_{1/2} = 0.693/\lambda", "T_{1/2} = \lambda/0.693", "T_{1/2} = 2.303/\lambda"
+        ],
+        "answer": 1,
+        "explanation": "Half-life is given by T_{1/2} = 0.693/\lambda."
+    },
+    {
+        "id": 42,
+        "question": "The number of nuclei remaining after time t is given by:",
+        "options": ["N = N_0 e^{\lambda t}", "N = N_0 e^{-\lambda t}", "N = N_0 \lambda t",
+            "N = N_0/t"
+        ],
+        "answer": 1,
+        "explanation": "Radioactive decay law is N = N_0 e^{-\lambda t}."
+    },
+    {
+        "id": 43,
+        "question": "The radius of a nucleus varies with mass number A as:",
+        "options": [
+            "A",
+            "A^{1/3}",
+            "A^{2/3}",
+            "1/A"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear radius R = R_0 A^{1/3}."
+    },
+    {
+        "id": 44,
+        "question": "The value of R_0 in nuclear radius formula is approximately:",
+        "options": [
+            "1.3 fm",
+            "1.3 pm",
+            "1.3 nm",
+            "1.3 mm"
+        ],
+        "answer": 0,
+        "explanation": "R_0 is approximately 1.3 femtometre."
+    },
+    {
+        "id": 45,
+        "question": "The stable nuclei lie close to the line N = Z for:",
+        "options": [
+            "light nuclei",
+            "heavy nuclei",
+            "radioactive nuclei",
+            "artificial nuclei"
+        ],
+        "answer": 0,
+        "explanation": "Light nuclei are stable when number of neutrons equals protons."
+    },
+    {
+        "id": 46,
+        "question": "The function of control rods in nuclear reactor is to:",
+        "options": [
+            "slow down neutrons",
+            "absorb neutrons",
+            "increase fission rate",
+            "cool reactor"
+        ],
+        "answer": 1,
+        "explanation": "Control rods absorb excess neutrons to control reaction rate."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following is NOT a moderator?",
+        "options": [
+            "graphite",
+            "heavy water",
+            "ordinary water",
+            "cadmium"
+        ],
+        "answer": 3,
+        "explanation": "Cadmium is a neutron absorber, not a moderator."
+    },
+    {
+        "id": 48,
+        "question": "The energy released in nuclear reactions is much larger because:",
+        "options": [
+            "nuclear forces are strong",
+            "mass converted into energy",
+            "temperature is high",
+            "pressure is high"
+        ],
+        "answer": 1,
+        "explanation": "Small mass defect converts into large energy as E = mc^2."
+    },
+    {
+        "id": 49,
+        "question": "In beta minus decay, the emitted particle is:",
+        "options": [
+            "electron",
+            "positron",
+            "alpha particle",
+            "neutron"
+        ],
+        "answer": 0,
+        "explanation": "Beta minus decay involves emission of an electron."
+    },
+    {
+        "id": 50,
+        "question": "The working of LED is based on:",
+        "options": [
+            "thermionic emission",
+            "photoelectric effect",
+            "recombination of charge carriers",
+            "avalanche breakdown"
+        ],
+        "answer": 2,
+        "explanation": "LED emits light due to recombination of electrons and holes."
+    }
+]
+[
+    {
+        "id": 51,
+        "question": "The minimum wavelength present in the X-ray spectrum produced by an electron accelerated through potential V is given by:",
+        "options": [
+            "hc/eV",
+            "h/eV",
+            "2hc/eV",
+            "hc/2eV"
+        ],
+        "answer": 0,
+        "explanation": "According to Duane–Hunt law, minimum wavelength λ_min = hc/eV."
+    },
+    {
+        "id": 52,
+        "question": "The minimum wavelength of X-rays depends on:",
+        "options": [
+            "nature of target",
+            "atomic number of target",
+            "accelerating voltage",
+            "temperature of filament"
+        ],
+        "answer": 2,
+        "explanation": "λ_min depends only on accelerating voltage, not on target material."
+    },
+    {
+        "id": 53,
+        "question": "Characteristic X-rays are produced due to:",
+        "options": [
+            "deceleration of electrons",
+            "transition of inner shell electrons",
+            "heating of target",
+            "collision with nuclei"
+        ],
+        "answer": 1,
+        "explanation": "Characteristic X-rays arise from electronic transitions between inner atomic shells."
+    },
+    {
+        "id": 54,
+        "question": "The Moseley’s law for characteristic X-rays is expressed as:",
+        "options": [
+            "ν ∝ Z",
+            "ν ∝ Z^2",
+            "√ν ∝ Z",
+            "ν ∝ 1/Z"
+        ],
+        "answer": 2,
+        "explanation": "Moseley’s law states √ν = a(Z − b), hence √ν ∝ Z."
+    },
+    {
+        "id": 55,
+        "question": "The photoelectric effect supports the concept of:",
+        "options": [
+            "wave nature of light",
+            "particle nature of light",
+            "interference of light",
+            "diffraction of light"
+        ],
+        "answer": 1,
+        "explanation": "Photoelectric effect confirms particle nature of light."
+    },
+    {
+        "id": 56,
+        "question": "The threshold frequency for photoelectric emission depends on:",
+        "options": [
+            "intensity of radiation",
+            "frequency of radiation",
+            "nature of material",
+            "distance of source"
+        ],
+        "answer": 2,
+        "explanation": "Threshold frequency is a characteristic property of the material."
+    },
+    {
+        "id": 57,
+        "question": "The maximum kinetic energy of photoelectrons depends on:",
+        "options": [
+            "intensity of incident light",
+            "frequency of incident light",
+            "time of exposure",
+            "area of metal surface"
+        ],
+        "answer": 1,
+        "explanation": "Maximum kinetic energy depends on frequency of incident radiation."
+    },
+    {
+        "id": 58,
+        "question": "The stopping potential in photoelectric effect is a measure of:",
+        "options": [
+            "photon energy",
+            "work function",
+            "maximum kinetic energy of electrons",
+            "intensity of radiation"
+        ],
+        "answer": 2,
+        "explanation": "Stopping potential corresponds to maximum kinetic energy of photoelectrons."
+    },
+    {
+        "id": 59,
+        "question": "The work function of a metal is the minimum energy required to:",
+        "options": [
+            "remove an electron completely",
+            "ionise an atom",
+            "excite an atom",
+            "heat the metal"
+        ],
+        "answer": 0,
+        "explanation": "Work function is the minimum energy needed to eject an electron from the surface."
+    },
+    {
+        "id": 60,
+        "question": "In Einstein’s photoelectric equation, hν = φ + K_max, φ represents:",
+        "options": [
+            "threshold frequency",
+            "work function",
+            "photon energy",
+            "binding energy of nucleus"
+        ],
+        "answer": 1,
+        "explanation": "φ denotes work function of the metal."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following has zero rest mass?",
+        "options": [
+            "electron",
+            "proton",
+            "neutron",
+            "photon"
+        ],
+        "answer": 3,
+        "explanation": "Photon has zero rest mass."
+    },
+    {
+        "id": 62,
+        "question": "The momentum of a photon of wavelength λ is:",
+        "options": [
+            "h/λ",
+            "hc/λ",
+            "hλ",
+            "hcλ"
+        ],
+        "answer": 0,
+        "explanation": "Photon momentum p = h/λ."
+    },
+    {
+        "id": 63,
+        "question": "Pair production can occur only when photon energy is at least:",
+        "options": [
+            "0.511 MeV",
+            "1.022 MeV",
+            "2 MeV",
+            "13.6 eV"
+        ],
+        "answer": 1,
+        "explanation": "Minimum energy required is 2mc^2 = 1.022 MeV."
+    },
+    {
+        "id": 64,
+        "question": "Pair production is possible in the presence of:",
+        "options": [
+            "free space",
+            "electric field",
+            "nucleus",
+            "magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "A nucleus is required to conserve momentum."
+    },
+    {
+        "id": 65,
+        "question": "Compton effect provides evidence for:",
+        "options": [
+            "wave nature of light",
+            "particle nature of light",
+            "polarisation",
+            "refraction"
+        ],
+        "answer": 1,
+        "explanation": "Compton scattering confirms particle nature of photons."
+    },
+    {
+        "id": 66,
+        "question": "The Compton wavelength shift depends on:",
+        "options": [
+            "wavelength of incident radiation",
+            "intensity of radiation",
+            "scattering angle",
+            "nature of target"
+        ],
+        "answer": 2,
+        "explanation": "Compton shift depends only on scattering angle."
+    },
+    {
+        "id": 67,
+        "question": "The Compton wavelength of electron is approximately:",
+        "options": [
+            "2.43 × 10^-12 m",
+            "1.6 × 10^-19 m",
+            "3 × 10^8 m",
+            "10^-10 m"
+        ],
+        "answer": 0,
+        "explanation": "Compton wavelength of electron is 2.43 × 10^-12 m."
+    },
+    {
+        "id": 68,
+        "question": "In Compton scattering, the maximum wavelength shift occurs when scattering angle is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 3,
+        "explanation": "Maximum shift occurs for back scattering at 180°."
+    },
+    {
+        "id": 69,
+        "question": "Which interaction explains solar energy generation?",
+        "options": [
+            "nuclear fission",
+            "nuclear fusion",
+            "radioactive decay",
+            "pair production"
+        ],
+        "answer": 1,
+        "explanation": "Energy in the Sun is produced by nuclear fusion."
+    },
+    {
+        "id": 70,
+        "question": "The binding energy of deuteron is approximately:",
+        "options": [
+            "2.2 MeV",
+            "8.8 MeV",
+            "28 MeV",
+            "56 MeV"
+        ],
+        "answer": 0,
+        "explanation": "Binding energy of deuteron is about 2.2 MeV."
+    },
+    {
+        "id": 71,
+        "question": "The energy released per fission of U-235 nucleus is approximately:",
+        "options": [
+            "20 MeV",
+            "200 MeV",
+            "2 MeV",
+            "2 GeV"
+        ],
+        "answer": 1,
+        "explanation": "Each fission of U-235 releases about 200 MeV of energy."
+    },
+    {
+        "id": 72,
+        "question": "The nuclear force between two nucleons is:",
+        "options": [
+            "long range",
+            "short range",
+            "inverse square law",
+            "repulsive only"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear force is short-range and very strong."
+    },
+    {
+        "id": 73,
+        "question": "The binding energy per nucleon for very heavy nuclei is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "same as iron"
+        ],
+        "answer": 1,
+        "explanation": "Heavy nuclei have lower binding energy per nucleon."
+    },
+    {
+        "id": 74,
+        "question": "Which decay does not change atomic number?",
+        "options": [
+            "alpha decay",
+            "beta minus decay",
+            "beta plus decay",
+            "gamma decay"
+        ],
+        "answer": 3,
+        "explanation": "Gamma decay does not change atomic or mass number."
+    },
+    {
+        "id": 75,
+        "question": "The average life of a radioactive substance is related to decay constant as:",
+        "options": [
+            "τ = 1/λ",
+            "τ = 0.693/λ",
+            "τ = λ",
+            "τ = 2.303/λ"
+        ],
+        "answer": 0,
+        "explanation": "Mean life τ = 1/λ."
+    },
+    {
+        "id": 76,
+        "question": "The band gap energy of a conductor is:",
+        "options": [
+            "zero",
+            "very large",
+            "about 1 eV",
+            "greater than 3 eV"
+        ],
+        "answer": 0,
+        "explanation": "Conductors have zero or negligible band gap."
+    },
+    {
+        "id": 77,
+        "question": "Which of the following is an example of intrinsic semiconductor?",
+        "options": [
+            "silicon",
+            "germanium",
+            "pure silicon",
+            "doped germanium"
+        ],
+        "answer": 2,
+        "explanation": "Pure silicon without impurities is an intrinsic semiconductor."
+    },
+    {
+        "id": 78,
+        "question": "The forbidden energy gap in semiconductors decreases with:",
+        "options": [
+            "decrease in temperature",
+            "increase in temperature",
+            "doping",
+            "increase in pressure"
+        ],
+        "answer": 1,
+        "explanation": "Band gap decreases slightly with increase in temperature."
+    },
+    {
+        "id": 79,
+        "question": "In p-type semiconductor, the Fermi level lies:",
+        "options": [
+            "near conduction band",
+            "near valence band",
+            "in middle of band gap",
+            "above conduction band"
+        ],
+        "answer": 1,
+        "explanation": "Fermi level lies closer to valence band in p-type semiconductor."
+    },
+    {
+        "id": 80,
+        "question": "The barrier potential of a p-n junction depends on:",
+        "options": [
+            "type of semiconductor",
+            "amount of doping",
+            "temperature",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "Barrier potential depends on material, doping and temperature."
+    },
+    {
+        "id": 81,
+        "question": "The forward bias of a p-n junction reduces:",
+        "options": [
+            "current",
+            "depletion width",
+            "conductivity",
+            "charge carriers"
+        ],
+        "answer": 1,
+        "explanation": "Forward bias narrows the depletion region."
+    },
+    {
+        "id": 82,
+        "question": "The reverse saturation current in a diode is mainly due to:",
+        "options": [
+            "majority carriers",
+            "minority carriers",
+            "ions",
+            "electrons only"
+        ],
+        "answer": 1,
+        "explanation": "Reverse saturation current is due to minority carriers."
+    },
+    {
+        "id": 83,
+        "question": "LEDs are preferred over filament lamps because they:",
+        "options": [
+            "consume more power",
+            "have longer life",
+            "produce more heat",
+            "require high voltage"
+        ],
+        "answer": 1,
+        "explanation": "LEDs have longer life and high efficiency."
+    },
+    {
+        "id": 84,
+        "question": "The colour of light emitted by an LED depends on:",
+        "options": [
+            "current",
+            "voltage",
+            "band gap of material",
+            "size of diode"
+        ],
+        "answer": 2,
+        "explanation": "Colour depends on energy band gap of semiconductor."
+    },
+    {
+        "id": 85,
+        "question": "A transistor used as a switch operates in:",
+        "options": [
+            "active region",
+            "cut-off and saturation regions",
+            "reverse active region",
+            "breakdown region"
+        ],
+        "answer": 1,
+        "explanation": "Switching uses cut-off (OFF) and saturation (ON) states."
+    },
+    {
+        "id": 86,
+        "question": "The emitter-base junction of a transistor is usually:",
+        "options": [
+            "forward biased",
+            "reverse biased",
+            "unbiased",
+            "alternating biased"
+        ],
+        "answer": 0,
+        "explanation": "Emitter-base junction is forward biased for normal operation."
+    },
+    {
+        "id": 87,
+        "question": "The collector-base junction of a transistor is usually:",
+        "options": [
+            "forward biased",
+            "reverse biased",
+            "unbiased",
+            "alternating biased"
+        ],
+        "answer": 1,
+        "explanation": "Collector-base junction is reverse biased."
+    },
+    {
+        "id": 88,
+        "question": "The relation between α and β of a transistor is:",
+        "options": [
+            "β = α/(1 − α)",
+            "α = β/(1 − β)",
+            "β = 1/α",
+            "α = 1/β"
+        ],
+        "answer": 0,
+        "explanation": "Current gains are related as β = α/(1 − α)."
+    },
+    {
+        "id": 89,
+        "question": "The common emitter configuration is preferred because it has:",
+        "options": [
+            "low current gain",
+            "high voltage gain",
+            "no phase reversal",
+            "unity gain"
+        ],
+        "answer": 1,
+        "explanation": "CE configuration provides high voltage and power gain."
+    },
+    {
+        "id": 90,
+        "question": "In a transistor amplifier, distortion occurs if transistor operates in:",
+        "options": [
+            "active region",
+            "cut-off region",
+            "saturation region",
+            "non-active region"
+        ],
+        "answer": 3,
+        "explanation": "Linear amplification requires active region; otherwise distortion occurs."
+    },
+    {
+        "id": 91,
+        "question": "The basic element used in digital circuits is:",
+        "options": [
+            "amplifier",
+            "oscillator",
+            "logic gate",
+            "rectifier"
+        ],
+        "answer": 2,
+        "explanation": "Logic gates form the basis of digital electronics."
+    },
+    {
+        "id": 92,
+        "question": "A NOT gate is also known as:",
+        "options": [
+            "OR gate",
+            "AND gate",
+            "inverter",
+            "buffer"
+        ],
+        "answer": 2,
+        "explanation": "NOT gate inverts the input and is called inverter."
+    },
+    {
+        "id": 93,
+        "question": "The output of an AND gate is high only when:",
+        "options": [
+            "any input is high",
+            "all inputs are high",
+            "all inputs are low",
+            "any input is low"
+        ],
+        "answer": 1,
+        "explanation": "AND gate gives high output only if all inputs are high."
+    },
+    {
+        "id": 94,
+        "question": "Which gate produces output 1 when inputs are different?",
+        "options": [
+            "OR",
+            "AND",
+            "NAND",
+            "XOR"
+        ],
+        "answer": 3,
+        "explanation": "XOR gate outputs 1 when inputs differ."
+    },
+    {
+        "id": 95,
+        "question": "The basic building block of an integrated circuit is:",
+        "options": [
+            "diode",
+            "resistor",
+            "transistor",
+            "capacitor"
+        ],
+        "answer": 2,
+        "explanation": "Transistor is the fundamental unit of ICs."
+    },
+    {
+        "id": 96,
+        "question": "A microprocessor is essentially a:",
+        "options": [
+            "memory unit",
+            "control unit",
+            "central processing unit",
+            "input device"
+        ],
+        "answer": 2,
+        "explanation": "Microprocessor is a CPU on a single chip."
+    },
+    {
+        "id": 97,
+        "question": "The advantage of integrated circuits is:",
+        "options": [
+            "large size",
+            "high power consumption",
+            "high reliability",
+            "low speed"
+        ],
+        "answer": 2,
+        "explanation": "ICs are compact, reliable and efficient."
+    },
+    {
+        "id": 98,
+        "question": "Moore’s law relates to:",
+        "options": [
+            "nuclear decay",
+            "semiconductor density",
+            "increase in transistor count",
+            "speed of light"
+        ],
+        "answer": 2,
+        "explanation": "Moore’s law states transistor count doubles approximately every two years."
+    },
+    {
+        "id": 99,
+        "question": "The logic level 0 in digital electronics corresponds to:",
+        "options": [
+            "high voltage",
+            "low voltage",
+            "negative voltage",
+            "alternating voltage"
+        ],
+        "answer": 1,
+        "explanation": "Logic 0 represents low voltage level."
+    },
+    {
+        "id": 100,
+        "question": "The logic level 1 in digital electronics corresponds to:",
+        "options": [
+            "low voltage",
+            "zero voltage",
+            "high voltage",
+            "negative voltage"
+        ],
+        "answer": 2,
+        "explanation": "Logic 1 represents high voltage level."
+    }
+]
+[
+    {
+        "id": 101,
+        "question": "In photoelectric effect, if the frequency of incident radiation is increased keeping intensity constant, the photoelectric current:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Photoelectric current depends on intensity, not on frequency."
+    },
+    {
+        "id": 102,
+        "question": "The threshold wavelength for a metal surface corresponds to:",
+        "options": [
+            "maximum kinetic energy",
+            "minimum kinetic energy",
+            "zero kinetic energy",
+            "infinite kinetic energy"
+        ],
+        "answer": 2,
+        "explanation": "At threshold wavelength, emitted electrons have zero kinetic energy."
+    },
+    {
+        "id": 103,
+        "question": "If stopping potential in photoelectric experiment is zero, then the incident frequency is:",
+        "options": [
+            "less than threshold frequency",
+            "equal to threshold frequency",
+            "greater than threshold frequency",
+            "independent of threshold frequency"
+        ],
+        "answer": 1,
+        "explanation": "At threshold frequency, maximum kinetic energy is zero, hence stopping potential is zero."
+    },
+    {
+        "id": 104,
+        "question": "The photoelectric equation hν = φ + K_max is a statement of conservation of:",
+        "options": [
+            "momentum",
+            "charge",
+            "mass",
+            "energy"
+        ],
+        "answer": 3,
+        "explanation": "Einstein’s photoelectric equation represents conservation of energy."
+    },
+    {
+        "id": 105,
+        "question": "The stopping potential is independent of:",
+        "options": [
+            "frequency of light",
+            "nature of metal",
+            "intensity of light",
+            "work function"
+        ],
+        "answer": 2,
+        "explanation": "Stopping potential depends on frequency and metal, not on intensity."
+    },
+    {
+        "id": 106,
+        "question": "In Compton scattering, the scattered photon has:",
+        "options": [
+            "higher energy",
+            "same energy",
+            "lower energy",
+            "zero energy"
+        ],
+        "answer": 2,
+        "explanation": "Part of photon energy is transferred to electron, so scattered photon has lower energy."
+    },
+    {
+        "id": 107,
+        "question": "The Compton shift is maximum for scattering angle:",
+        "options": [
+            "0°",
+            "60°",
+            "90°",
+            "180°"
+        ],
+        "answer": 3,
+        "explanation": "Maximum Compton shift occurs for back scattering at 180°."
+    },
+    {
+        "id": 108,
+        "question": "The Compton wavelength depends on:",
+        "options": [
+            "nature of photon",
+            "nature of electron",
+            "scattering angle",
+            "energy of photon"
+        ],
+        "answer": 1,
+        "explanation": "Compton wavelength is a property of the electron."
+    },
+    {
+        "id": 109,
+        "question": "The number of photoelectrons emitted per second is directly proportional to:",
+        "options": [
+            "frequency",
+            "stopping potential",
+            "intensity",
+            "work function"
+        ],
+        "answer": 2,
+        "explanation": "Photoelectric current depends on intensity of incident radiation."
+    },
+    {
+        "id": 110,
+        "question": "The wave nature of electron was experimentally verified by:",
+        "options": [
+            "Millikan",
+            "Davisson and Germer",
+            "Rutherford",
+            "Compton"
+        ],
+        "answer": 1,
+        "explanation": "Davisson–Germer experiment confirmed wave nature of electrons."
+    },
+    {
+        "id": 111,
+        "question": "The de Broglie wavelength of a particle is independent of:",
+        "options": [
+            "mass",
+            "velocity",
+            "momentum",
+            "charge"
+        ],
+        "answer": 3,
+        "explanation": "De Broglie wavelength depends on momentum, not on charge."
+    },
+    {
+        "id": 112,
+        "question": "The kinetic energy of electron increases when its de Broglie wavelength:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy is inversely proportional to square of wavelength."
+    },
+    {
+        "id": 113,
+        "question": "The electron diffraction pattern is similar to that of:",
+        "options": [
+            "sound waves",
+            "light waves",
+            "water waves",
+            "radio waves"
+        ],
+        "answer": 1,
+        "explanation": "Electron diffraction is analogous to light diffraction."
+    },
+    {
+        "id": 114,
+        "question": "X-rays are produced when high speed electrons are:",
+        "options": [
+            "heated",
+            "deflected",
+            "decelerated",
+            "accelerated uniformly"
+        ],
+        "answer": 2,
+        "explanation": "X-rays are produced due to sudden deceleration of electrons."
+    },
+    {
+        "id": 115,
+        "question": "The continuous X-ray spectrum is produced due to:",
+        "options": [
+            "atomic transitions",
+            "inner shell vacancies",
+            "bremsstrahlung",
+            "characteristic radiation"
+        ],
+        "answer": 2,
+        "explanation": "Continuous spectrum is due to bremsstrahlung radiation."
+    },
+    {
+        "id": 116,
+        "question": "The shortest wavelength X-ray corresponds to electron losing:",
+        "options": [
+            "part of its energy",
+            "all of its energy",
+            "half of its energy",
+            "no energy"
+        ],
+        "answer": 1,
+        "explanation": "Minimum wavelength occurs when electron loses all its kinetic energy in one collision."
+    },
+    {
+        "id": 117,
+        "question": "The nuclear radius is independent of:",
+        "options": [
+            "mass number",
+            "nuclear density",
+            "neutron number",
+            "proton number"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear density is nearly constant, independent of mass number."
+    },
+    {
+        "id": 118,
+        "question": "The density of nuclear matter is approximately:",
+        "options": [
+            "constant for all nuclei",
+            "maximum for heavy nuclei",
+            "minimum for light nuclei",
+            "zero for hydrogen"
+        ],
+        "answer": 0,
+        "explanation": "Nuclear density is nearly constant for all nuclei."
+    },
+    {
+        "id": 119,
+        "question": "The binding energy of a nucleus is defined as:",
+        "options": [
+            "energy to break nucleus into nucleons",
+            "energy released in fusion",
+            "energy of nucleons",
+            "energy of electrons"
+        ],
+        "answer": 0,
+        "explanation": "Binding energy is energy required to separate nucleus into individual nucleons."
+    },
+    {
+        "id": 120,
+        "question": "The binding energy per nucleon is a measure of:",
+        "options": [
+            "nuclear size",
+            "nuclear density",
+            "nuclear stability",
+            "radioactivity"
+        ],
+        "answer": 2,
+        "explanation": "Higher binding energy per nucleon implies greater stability."
+    },
+    {
+        "id": 121,
+        "question": "Nuclear fission is more probable for nuclei with mass number:",
+        "options": [
+            "less than 20",
+            "around 56",
+            "greater than 200",
+            "equal to 100"
+        ],
+        "answer": 2,
+        "explanation": "Very heavy nuclei undergo fission more easily."
+    },
+    {
+        "id": 122,
+        "question": "In nuclear fusion, nuclei combine to form a nucleus with:",
+        "options": [
+            "lower mass number",
+            "higher mass number",
+            "same mass number",
+            "zero mass number"
+        ],
+        "answer": 1,
+        "explanation": "Fusion combines light nuclei to form heavier nucleus."
+    },
+    {
+        "id": 123,
+        "question": "The source of energy of stars is:",
+        "options": [
+            "nuclear fission",
+            "chemical reaction",
+            "nuclear fusion",
+            "radioactive decay"
+        ],
+        "answer": 2,
+        "explanation": "Stars produce energy by nuclear fusion."
+    },
+    {
+        "id": 124,
+        "question": "The radioactive decay law is statistical in nature because:",
+        "options": [
+            "decay is random",
+            "all nuclei decay together",
+            "half-life varies",
+            "energy varies"
+        ],
+        "answer": 0,
+        "explanation": "Radioactive decay of individual nucleus is random."
+    },
+    {
+        "id": 125,
+        "question": "The decay constant λ represents:",
+        "options": [
+            "probability of decay per unit time",
+            "number of nuclei",
+            "half-life",
+            "mean life"
+        ],
+        "answer": 0,
+        "explanation": "Decay constant is probability of decay per unit time."
+    },
+    {
+        "id": 126,
+        "question": "The activity of a radioactive sample decreases exponentially because:",
+        "options": [
+            "λ increases",
+            "N decreases",
+            "half-life increases",
+            "mass increases"
+        ],
+        "answer": 1,
+        "explanation": "Activity A = λN decreases as number of undecayed nuclei decreases."
+    },
+    {
+        "id": 127,
+        "question": "In alpha decay, the mass number changes by:",
+        "options": [
+            "−1",
+            "−2",
+            "−4",
+            "+4"
+        ],
+        "answer": 2,
+        "explanation": "Alpha particle emission reduces mass number by 4."
+    },
+    {
+        "id": 128,
+        "question": "In beta minus decay, the neutron converts into:",
+        "options": [
+            "proton + electron",
+            "proton + positron",
+            "electron + neutrino",
+            "proton only"
+        ],
+        "answer": 0,
+        "explanation": "In β− decay, neutron changes into proton and electron."
+    },
+    {
+        "id": 129,
+        "question": "Gamma rays are emitted due to:",
+        "options": [
+            "nuclear transition",
+            "atomic transition",
+            "electron collision",
+            "ionisation"
+        ],
+        "answer": 0,
+        "explanation": "Gamma emission occurs due to transition between nuclear energy levels."
+    },
+    {
+        "id": 130,
+        "question": "The penetrating power of radiations increases in the order:",
+        "options": [
+            "gamma < beta < alpha",
+            "alpha < beta < gamma",
+            "beta < alpha < gamma",
+            "alpha < gamma < beta"
+        ],
+        "answer": 1,
+        "explanation": "Penetrating power: alpha < beta < gamma."
+    },
+    {
+        "id": 131,
+        "question": "The ionising power of radiations increases in the order:",
+        "options": [
+            "gamma < beta < alpha",
+            "alpha < beta < gamma",
+            "beta < alpha < gamma",
+            "gamma < alpha < beta"
+        ],
+        "answer": 0,
+        "explanation": "Ionising power is maximum for alpha particles."
+    },
+    {
+        "id": 132,
+        "question": "A semiconductor has conductivity between that of:",
+        "options": [
+            "conductors and insulators",
+            "metals and alloys",
+            "alloys and insulators",
+            "superconductors and insulators"
+        ],
+        "answer": 0,
+        "explanation": "Semiconductors have conductivity intermediate between conductors and insulators."
+    },
+    {
+        "id": 133,
+        "question": "The conductivity of a semiconductor increases with:",
+        "options": [
+            "decrease in temperature",
+            "increase in temperature",
+            "decrease in impurity",
+            "increase in band gap"
+        ],
+        "answer": 1,
+        "explanation": "Thermal excitation increases charge carriers."
+    },
+    {
+        "id": 134,
+        "question": "In n-type semiconductor, the impurity added is:",
+        "options": [
+            "trivalent",
+            "pentavalent",
+            "divalent",
+            "monovalent"
+        ],
+        "answer": 1,
+        "explanation": "Pentavalent impurities produce n-type semiconductors."
+    },
+    {
+        "id": 135,
+        "question": "In p-type semiconductor, conduction is mainly due to:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "both equally"
+        ],
+        "answer": 1,
+        "explanation": "Holes are majority carriers in p-type semiconductor."
+    },
+    {
+        "id": 136,
+        "question": "The depletion region is formed due to:",
+        "options": [
+            "diffusion of carriers",
+            "drift of carriers",
+            "external voltage",
+            "heating"
+        ],
+        "answer": 0,
+        "explanation": "Diffusion of carriers creates depletion region."
+    },
+    {
+        "id": 137,
+        "question": "The barrier potential of a p-n junction at room temperature for silicon is approximately:",
+        "options": [
+            "0.1 V",
+            "0.3 V",
+            "0.7 V",
+            "1.5 V"
+        ],
+        "answer": 2,
+        "explanation": "Barrier potential for silicon is about 0.7 V."
+    },
+    {
+        "id": 138,
+        "question": "The barrier potential of a p-n junction decreases with:",
+        "options": [
+            "increase in temperature",
+            "decrease in temperature",
+            "increase in doping",
+            "reverse bias"
+        ],
+        "answer": 0,
+        "explanation": "Barrier potential decreases as temperature increases."
+    },
+    {
+        "id": 139,
+        "question": "In reverse bias, the current in a p-n junction is due to:",
+        "options": [
+            "majority carriers",
+            "minority carriers",
+            "ions",
+            "holes only"
+        ],
+        "answer": 1,
+        "explanation": "Reverse current is due to minority carriers."
+    },
+    {
+        "id": 140,
+        "question": "A Zener diode is heavily doped to:",
+        "options": [
+            "increase depletion width",
+            "reduce breakdown voltage",
+            "increase resistance",
+            "increase current gain"
+        ],
+        "answer": 1,
+        "explanation": "Heavy doping lowers breakdown voltage."
+    },
+    {
+        "id": 141,
+        "question": "Zener breakdown occurs due to:",
+        "options": [
+            "impact ionisation",
+            "strong electric field",
+            "thermal agitation",
+            "high current"
+        ],
+        "answer": 1,
+        "explanation": "Zener breakdown is due to strong electric field."
+    },
+    {
+        "id": 142,
+        "question": "The collector region of a transistor is moderately doped to:",
+        "options": [
+            "increase carrier injection",
+            "reduce power dissipation",
+            "collect carriers efficiently",
+            "increase current gain"
+        ],
+        "answer": 2,
+        "explanation": "Collector collects charge carriers efficiently."
+    },
+    {
+        "id": 143,
+        "question": "The base region of a transistor is thin to:",
+        "options": [
+            "increase resistance",
+            "reduce recombination",
+            "increase voltage",
+            "increase current"
+        ],
+        "answer": 1,
+        "explanation": "Thin base reduces recombination of charge carriers."
+    },
+    {
+        "id": 144,
+        "question": "In CE configuration, the input resistance is:",
+        "options": [
+            "very high",
+            "very low",
+            "moderate",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "CE configuration has moderate input resistance."
+    },
+    {
+        "id": 145,
+        "question": "In CB configuration, the current gain α is:",
+        "options": [
+            "greater than 1",
+            "less than 1",
+            "equal to 1",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "α is always less than unity."
+    },
+    {
+        "id": 146,
+        "question": "The phase difference between input and output in CE amplifier is:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "270°"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier produces phase reversal of 180°."
+    },
+    {
+        "id": 147,
+        "question": "A logic gate that gives output 0 only when all inputs are 1 is:",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 2,
+        "explanation": "NAND gate outputs 0 only when all inputs are 1."
+    },
+    {
+        "id": 148,
+        "question": "A logic gate that gives output 1 only when all inputs are 0 is:",
+        "options": [
+            "OR",
+            "AND",
+            "NOR",
+            "NAND"
+        ],
+        "answer": 2,
+        "explanation": "NOR gate outputs 1 only when all inputs are 0."
+    },
+    {
+        "id": 149,
+        "question": "The Boolean expression for OR gate is:",
+        "options": [
+            "Y = A.B",
+            "Y = A + B",
+            "Y = A'",
+            "Y = (A.B)'"
+        ],
+        "answer": 1,
+        "explanation": "OR operation is represented by addition symbol."
+    },
+    {
+        "id": 150,
+        "question": "The Boolean expression for AND gate is:",
+        "options": [
+            "Y = A + B",
+            "Y = A.B",
+            "Y = A'",
+            "Y = (A + B)'"
+        ],
+        "answer": 1,
+        "explanation": "AND operation is represented by multiplication symbol."
+    }
+]
+[
+    {
+        "id": 151,
+        "question": "The Boolean expression for a NOT gate is:",
+        "options": [
+            "Y = A + B",
+            "Y = A.B",
+            "Y = A'",
+            "Y = (A + B)'"
+        ],
+        "answer": 2,
+        "explanation": "NOT gate inverts the input, represented as Y = A'."
+    },
+    {
+        "id": 152,
+        "question": "The output of a NAND gate is the complement of:",
+        "options": [
+            "OR operation",
+            "AND operation",
+            "XOR operation",
+            "NOR operation"
+        ],
+        "answer": 1,
+        "explanation": "NAND gate output is the complement of AND operation."
+    },
+    {
+        "id": 153,
+        "question": "The output of a NOR gate is the complement of:",
+        "options": [
+            "AND operation",
+            "OR operation",
+            "XOR operation",
+            "NOT operation"
+        ],
+        "answer": 1,
+        "explanation": "NOR gate output is the complement of OR operation."
+    },
+    {
+        "id": 154,
+        "question": "Which logic gate is called a universal gate?",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "XOR"
+        ],
+        "answer": 2,
+        "explanation": "NAND gate can be used to construct all other logic gates."
+    },
+    {
+        "id": 155,
+        "question": "Which of the following is also a universal gate?",
+        "options": [
+            "AND",
+            "OR",
+            "NOR",
+            "XOR"
+        ],
+        "answer": 2,
+        "explanation": "NOR gate is also a universal gate."
+    },
+    {
+        "id": 156,
+        "question": "The truth table of an XOR gate shows output 1 when:",
+        "options": [
+            "both inputs are 1",
+            "both inputs are 0",
+            "inputs are different",
+            "any input is 0"
+        ],
+        "answer": 2,
+        "explanation": "XOR gate outputs 1 when inputs are different."
+    },
+    {
+        "id": 157,
+        "question": "The truth table of an XNOR gate shows output 1 when:",
+        "options": [
+            "inputs are different",
+            "both inputs are same",
+            "any input is 1",
+            "both inputs are 0 only"
+        ],
+        "answer": 1,
+        "explanation": "XNOR gate outputs 1 when inputs are identical."
+    },
+    {
+        "id": 158,
+        "question": "The basic unit of information in digital electronics is:",
+        "options": [
+            "byte",
+            "bit",
+            "nibble",
+            "word"
+        ],
+        "answer": 1,
+        "explanation": "Bit is the smallest unit of digital information."
+    },
+    {
+        "id": 159,
+        "question": "One byte is equal to:",
+        "options": [
+            "2 bits",
+            "4 bits",
+            "8 bits",
+            "16 bits"
+        ],
+        "answer": 2,
+        "explanation": "One byte consists of 8 bits."
+    },
+    {
+        "id": 160,
+        "question": "The number system used by digital circuits is:",
+        "options": [
+            "decimal",
+            "binary",
+            "octal",
+            "hexadecimal"
+        ],
+        "answer": 1,
+        "explanation": "Digital circuits operate on binary number system."
+    },
+    {
+        "id": 161,
+        "question": "The binary equivalent of decimal number 5 is:",
+        "options": [
+            "101",
+            "110",
+            "111",
+            "100"
+        ],
+        "answer": 0,
+        "explanation": "Decimal 5 is represented as 101 in binary."
+    },
+    {
+        "id": 162,
+        "question": "The decimal equivalent of binary number 1010 is:",
+        "options": [
+            "8",
+            "9",
+            "10",
+            "12"
+        ],
+        "answer": 2,
+        "explanation": "Binary 1010 equals decimal 10."
+    },
+    {
+        "id": 163,
+        "question": "Which semiconductor device is used to convert AC to DC?",
+        "options": [
+            "transistor",
+            "diode",
+            "Zener diode",
+            "LED"
+        ],
+        "answer": 1,
+        "explanation": "Diode is used for rectification."
+    },
+    {
+        "id": 164,
+        "question": "A full-wave rectifier uses:",
+        "options": [
+            "one diode",
+            "two diodes",
+            "four diodes",
+            "six diodes"
+        ],
+        "answer": 2,
+        "explanation": "Bridge full-wave rectifier uses four diodes."
+    },
+    {
+        "id": 165,
+        "question": "The ripple factor of an ideal rectifier is:",
+        "options": [
+            "0",
+            "1",
+            "infinite",
+            "0.5"
+        ],
+        "answer": 0,
+        "explanation": "Ideal rectifier produces pure DC, hence ripple factor is zero."
+    },
+    {
+        "id": 166,
+        "question": "A capacitor is used in rectifier circuits to:",
+        "options": [
+            "increase voltage",
+            "reduce ripple",
+            "increase current",
+            "prevent breakdown"
+        ],
+        "answer": 1,
+        "explanation": "Capacitor smoothens output by reducing ripple."
+    },
+    {
+        "id": 167,
+        "question": "The efficiency of a full-wave rectifier is approximately:",
+        "options": [
+            "40%",
+            "60%",
+            "81%",
+            "100%"
+        ],
+        "answer": 2,
+        "explanation": "Maximum efficiency of full-wave rectifier is about 81%."
+    },
+    {
+        "id": 168,
+        "question": "The function of a filter circuit is to:",
+        "options": [
+            "increase frequency",
+            "remove AC component",
+            "increase DC component",
+            "reduce power loss"
+        ],
+        "answer": 1,
+        "explanation": "Filter removes AC ripple from rectifier output."
+    },
+    {
+        "id": 169,
+        "question": "In a half-wave rectifier, the diode conducts for:",
+        "options": [
+            "full cycle",
+            "half cycle",
+            "quarter cycle",
+            "no cycle"
+        ],
+        "answer": 1,
+        "explanation": "Diode conducts only during one half of AC cycle."
+    },
+    {
+        "id": 170,
+        "question": "The power loss in a Zener diode voltage regulator is maximum when:",
+        "options": [
+            "load current is maximum",
+            "load current is minimum",
+            "Zener current is zero",
+            "input voltage is zero"
+        ],
+        "answer": 1,
+        "explanation": "Maximum power is dissipated when Zener current is maximum, i.e., load current is minimum."
+    },
+    {
+        "id": 171,
+        "question": "A transistor amplifier increases the:",
+        "options": [
+            "frequency",
+            "amplitude",
+            "wavelength",
+            "phase"
+        ],
+        "answer": 1,
+        "explanation": "Amplifier increases signal amplitude."
+    },
+    {
+        "id": 172,
+        "question": "The power gain of a transistor amplifier is the product of:",
+        "options": [
+            "current gain and voltage gain",
+            "input and output current",
+            "input and output voltage",
+            "resistance and current"
+        ],
+        "answer": 0,
+        "explanation": "Power gain equals current gain multiplied by voltage gain."
+    },
+    {
+        "id": 173,
+        "question": "The collector current in a transistor is approximately equal to:",
+        "options": [
+            "emitter current",
+            "base current",
+            "sum of base and emitter current",
+            "difference of currents"
+        ],
+        "answer": 0,
+        "explanation": "Collector current is nearly equal to emitter current."
+    },
+    {
+        "id": 174,
+        "question": "The relation among transistor currents is:",
+        "options": [
+            "I_E = I_C − I_B",
+            "I_C = I_E − I_B",
+            "I_B = I_E − I_C",
+            "I_E = I_C + I_B"
+        ],
+        "answer": 3,
+        "explanation": "Emitter current equals sum of collector and base currents."
+    },
+    {
+        "id": 175,
+        "question": "The common base configuration has:",
+        "options": [
+            "high current gain",
+            "low current gain",
+            "unity current gain",
+            "zero current gain"
+        ],
+        "answer": 1,
+        "explanation": "Current gain α is less than 1."
+    },
+    {
+        "id": 176,
+        "question": "The input resistance of CB configuration is:",
+        "options": [
+            "very high",
+            "very low",
+            "moderate",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "CB configuration has very low input resistance."
+    },
+    {
+        "id": 177,
+        "question": "The output resistance of CE configuration is:",
+        "options": [
+            "very low",
+            "moderate",
+            "very high",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "CE configuration has high output resistance."
+    },
+    {
+        "id": 178,
+        "question": "Which configuration is most commonly used for amplification?",
+        "options": [
+            "CB",
+            "CE",
+            "CC",
+            "emitter follower"
+        ],
+        "answer": 1,
+        "explanation": "CE configuration provides high gain."
+    },
+    {
+        "id": 179,
+        "question": "The emitter follower is also known as:",
+        "options": [
+            "CE amplifier",
+            "CB amplifier",
+            "CC amplifier",
+            "voltage amplifier"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower is common collector configuration."
+    },
+    {
+        "id": 180,
+        "question": "The voltage gain of an emitter follower is approximately:",
+        "options": [
+            "much greater than 1",
+            "less than 1",
+            "equal to 1",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower has voltage gain nearly equal to unity."
+    },
+    {
+        "id": 181,
+        "question": "The input impedance of an emitter follower is:",
+        "options": [
+            "low",
+            "moderate",
+            "high",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower has high input impedance."
+    },
+    {
+        "id": 182,
+        "question": "The output impedance of an emitter follower is:",
+        "options": [
+            "high",
+            "moderate",
+            "low",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower has low output impedance."
+    },
+    {
+        "id": 183,
+        "question": "The main advantage of an emitter follower is:",
+        "options": [
+            "high power gain",
+            "high current gain",
+            "impedance matching",
+            "high voltage gain"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower is used for impedance matching."
+    },
+    {
+        "id": 184,
+        "question": "Which logic gate gives output 0 for all inputs 0?",
+        "options": [
+            "AND",
+            "OR",
+            "NOR",
+            "XOR"
+        ],
+        "answer": 1,
+        "explanation": "OR gate outputs 0 only when all inputs are 0."
+    },
+    {
+        "id": 185,
+        "question": "Which logic gate gives output 1 only when both inputs are 1?",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "AND gate outputs 1 only when all inputs are 1."
+    },
+    {
+        "id": 186,
+        "question": "The Boolean expression of NAND gate is:",
+        "options": [
+            "Y = A.B",
+            "Y = (A.B)'",
+            "Y = A + B",
+            "Y = (A + B)'"
+        ],
+        "answer": 1,
+        "explanation": "NAND gate output is complement of AND."
+    },
+    {
+        "id": 187,
+        "question": "The Boolean expression of NOR gate is:",
+        "options": [
+            "Y = A + B",
+            "Y = (A + B)'",
+            "Y = A.B",
+            "Y = (A.B)'"
+        ],
+        "answer": 1,
+        "explanation": "NOR gate output is complement of OR."
+    },
+    {
+        "id": 188,
+        "question": "The output of XOR gate is 0 when:",
+        "options": [
+            "inputs are same",
+            "inputs are different",
+            "any input is 1",
+            "any input is 0"
+        ],
+        "answer": 0,
+        "explanation": "XOR gate outputs 0 when inputs are same."
+    },
+    {
+        "id": 189,
+        "question": "Which logic gate is known as equivalence gate?",
+        "options": [
+            "XOR",
+            "XNOR",
+            "AND",
+            "NOR"
+        ],
+        "answer": 1,
+        "explanation": "XNOR gate gives output 1 when inputs are equal."
+    },
+    {
+        "id": 190,
+        "question": "The complement of binary number 1010 is:",
+        "options": [
+            "0101",
+            "1101",
+            "0011",
+            "0110"
+        ],
+        "answer": 0,
+        "explanation": "Complement is obtained by replacing 1 with 0 and vice versa."
+    },
+    {
+        "id": 191,
+        "question": "The decimal equivalent of binary number 1111 is:",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "answer": 1,
+        "explanation": "Binary 1111 equals decimal 15."
+    },
+    {
+        "id": 192,
+        "question": "The minimum number of bits required to represent decimal number 7 is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": "Decimal 7 equals binary 111, requiring 3 bits."
+    },
+    {
+        "id": 193,
+        "question": "The logic gate combination used to add two binary digits is called:",
+        "options": [
+            "full adder",
+            "half adder",
+            "subtractor",
+            "multiplexer"
+        ],
+        "answer": 1,
+        "explanation": "Half adder adds two single binary digits."
+    },
+    {
+        "id": 194,
+        "question": "A full adder adds:",
+        "options": [
+            "two bits",
+            "two bits and carry",
+            "three bits",
+            "four bits"
+        ],
+        "answer": 1,
+        "explanation": "Full adder adds two bits and an input carry."
+    },
+    {
+        "id": 195,
+        "question": "Which gate is used to obtain sum output in a half adder?",
+        "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "NOR"
+        ],
+        "answer": 2,
+        "explanation": "XOR gate gives sum output."
+    },
+    {
+        "id": 196,
+        "question": "Which gate is used to obtain carry output in a half adder?",
+        "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "AND gate gives carry output."
+    },
+    {
+        "id": 197,
+        "question": "The number of transistors in modern ICs is of the order of:",
+        "options": [
+            "hundreds",
+            "thousands",
+            "millions",
+            "billions"
+        ],
+        "answer": 3,
+        "explanation": "Modern ICs contain billions of transistors."
+    },
+    {
+        "id": 198,
+        "question": "The speed of operation of ICs is high because of:",
+        "options": [
+            "large size",
+            "short interconnections",
+            "high voltage",
+            "low resistance only"
+        ],
+        "answer": 1,
+        "explanation": "Short interconnections reduce signal delay."
+    },
+    {
+        "id": 199,
+        "question": "The power consumption of ICs is:",
+        "options": [
+            "very high",
+            "high",
+            "moderate",
+            "very low"
+        ],
+        "answer": 3,
+        "explanation": "ICs consume very low power."
+    },
+    {
+        "id": 200,
+        "question": "The main advantage of digital electronics over analog electronics is:",
+        "options": [
+            "noise immunity",
+            "large size",
+            "high power consumption",
+            "continuous signals"
+        ],
+        "answer": 0,
+        "explanation": "Digital systems are less affected by noise."
+    }
+]
+[
+    {
+        "id": 201,
+        "question": "In photoelectric effect, saturation current is directly proportional to:",
+        "options": [
+            "frequency of incident light",
+            "work function of metal",
+            "intensity of incident light",
+            "stopping potential"
+        ],
+        "answer": 2,
+        "explanation": "Saturation current depends on number of photoelectrons emitted per second, which is proportional to intensity."
+    },
+    {
+        "id": 202,
+        "question": "For a given metal, the stopping potential varies linearly with:",
+        "options": [
+            "intensity of light",
+            "wavelength of light",
+            "frequency of light",
+            "area of emitting surface"
+        ],
+        "answer": 2,
+        "explanation": "Stopping potential is proportional to maximum kinetic energy, which varies linearly with frequency."
+    },
+    {
+        "id": 203,
+        "question": "If incident photon energy is just equal to work function, the emitted photoelectrons have:",
+        "options": [
+            "maximum kinetic energy",
+            "minimum kinetic energy",
+            "zero kinetic energy",
+            "infinite kinetic energy"
+        ],
+        "answer": 2,
+        "explanation": "At threshold frequency, photoelectrons are emitted with zero kinetic energy."
+    },
+    {
+        "id": 204,
+        "question": "The graph between stopping potential and frequency of incident light is a straight line because:",
+        "options": [
+            "photoelectric effect is instantaneous",
+            "energy is conserved",
+            "Einstein photoelectric equation is linear in ν",
+            "intensity is constant"
+        ],
+        "answer": 2,
+        "explanation": "Einstein’s equation K_max = hν − φ shows linear dependence on frequency."
+    },
+    {
+        "id": 205,
+        "question": "The intercept of stopping potential versus frequency graph on frequency axis gives:",
+        "options": [
+            "work function",
+            "threshold frequency",
+            "Planck constant",
+            "photoelectric current"
+        ],
+        "answer": 1,
+        "explanation": "At zero stopping potential, frequency equals threshold frequency."
+    },
+    {
+        "id": 206,
+        "question": "The slope of stopping potential versus frequency graph is proportional to:",
+        "options": [
+            "work function",
+            "charge of electron",
+            "Planck constant",
+            "speed of light"
+        ],
+        "answer": 2,
+        "explanation": "Slope equals h/e, hence proportional to Planck constant."
+    },
+    {
+        "id": 207,
+        "question": "The phenomenon of photoelectric effect cannot be explained using:",
+        "options": [
+            "particle nature of light",
+            "quantum theory",
+            "classical wave theory",
+            "Einstein equation"
+        ],
+        "answer": 2,
+        "explanation": "Classical wave theory fails to explain photoelectric effect."
+    },
+    {
+        "id": 208,
+        "question": "In Compton scattering, if the incident photon is scattered through 0°, the wavelength shift is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "At 0° scattering, there is no change in wavelength."
+    },
+    {
+        "id": 209,
+        "question": "The Compton shift is independent of:",
+        "options": [
+            "scattering angle",
+            "wavelength of incident photon",
+            "nature of scattering particle",
+            "mass of electron"
+        ],
+        "answer": 1,
+        "explanation": "Compton shift depends only on scattering angle and electron mass."
+    },
+    {
+        "id": 210,
+        "question": "The de Broglie wavelength of an electron accelerated through potential V is proportional to:",
+        "options": [
+            "V",
+            "1/V",
+            "1/√V",
+            "√V"
+        ],
+        "answer": 2,
+        "explanation": "λ = h/√(2meV), hence λ ∝ 1/√V."
+    },
+    {
+        "id": 211,
+        "question": "The Davisson–Germer experiment confirms the:",
+        "options": [
+            "particle nature of electrons",
+            "wave nature of electrons",
+            "charge of electron",
+            "mass of electron"
+        ],
+        "answer": 1,
+        "explanation": "Electron diffraction observed in this experiment confirms wave nature."
+    },
+    {
+        "id": 212,
+        "question": "If momentum of a particle is doubled, its de Broglie wavelength becomes:",
+        "options": [
+            "double",
+            "half",
+            "four times",
+            "one-fourth"
+        ],
+        "answer": 1,
+        "explanation": "λ = h/p, so doubling momentum halves wavelength."
+    },
+    {
+        "id": 213,
+        "question": "X-rays produced due to deceleration of electrons are called:",
+        "options": [
+            "characteristic X-rays",
+            "continuous X-rays",
+            "gamma rays",
+            "line spectrum"
+        ],
+        "answer": 1,
+        "explanation": "Deceleration radiation produces continuous X-ray spectrum."
+    },
+    {
+        "id": 214,
+        "question": "The characteristic X-ray frequencies depend on:",
+        "options": [
+            "accelerating voltage",
+            "nature of target",
+            "temperature of filament",
+            "intensity of beam"
+        ],
+        "answer": 1,
+        "explanation": "Characteristic X-rays depend on atomic number of target."
+    },
+    {
+        "id": 215,
+        "question": "According to Moseley’s law, the square root of frequency of characteristic X-rays is proportional to:",
+        "options": [
+            "atomic mass",
+            "atomic number",
+            "mass number",
+            "neutron number"
+        ],
+        "answer": 1,
+        "explanation": "Moseley showed √ν ∝ Z."
+    },
+    {
+        "id": 216,
+        "question": "The nuclear radius varies with mass number A as:",
+        "options": [
+            "A",
+            "A^(1/2)",
+            "A^(1/3)",
+            "1/A"
+        ],
+        "answer": 2,
+        "explanation": "Nuclear radius R = R0 A^(1/3)."
+    },
+    {
+        "id": 217,
+        "question": "The volume of a nucleus is proportional to:",
+        "options": [
+            "A",
+            "A^(1/2)",
+            "A^(2/3)",
+            "1/A"
+        ],
+        "answer": 0,
+        "explanation": "Since R ∝ A^(1/3), volume ∝ R^3 ∝ A."
+    },
+    {
+        "id": 218,
+        "question": "The nuclear density is approximately:",
+        "options": [
+            "different for different nuclei",
+            "maximum for heavy nuclei",
+            "constant for all nuclei",
+            "zero for hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Nuclear density is nearly constant for all nuclei."
+    },
+    {
+        "id": 219,
+        "question": "The binding energy per nucleon is maximum for nuclei around mass number:",
+        "options": [
+            "4",
+            "16",
+            "56",
+            "238"
+        ],
+        "answer": 2,
+        "explanation": "Iron nucleus (A ≈ 56) has maximum binding energy per nucleon."
+    },
+    {
+        "id": 220,
+        "question": "Greater binding energy per nucleon implies:",
+        "options": [
+            "less stability",
+            "more radioactivity",
+            "greater stability",
+            "larger size"
+        ],
+        "answer": 2,
+        "explanation": "Higher binding energy per nucleon indicates greater nuclear stability."
+    },
+    {
+        "id": 221,
+        "question": "Nuclear fusion is possible at very high temperature because:",
+        "options": [
+            "nuclei become unstable",
+            "repulsive force decreases",
+            "kinetic energy overcomes Coulomb repulsion",
+            "neutrons are released"
+        ],
+        "answer": 2,
+        "explanation": "High kinetic energy allows nuclei to overcome Coulomb repulsion."
+    },
+    {
+        "id": 222,
+        "question": "The energy released in nuclear reactions is due to:",
+        "options": [
+            "chemical bond energy",
+            "electrostatic energy",
+            "conversion of mass into energy",
+            "increase in temperature"
+        ],
+        "answer": 2,
+        "explanation": "Small mass defect is converted into energy according to E = mc^2."
+    },
+    {
+        "id": 223,
+        "question": "The SI unit of activity is:",
+        "options": [
+            "curie",
+            "becquerel",
+            "gray",
+            "sievert"
+        ],
+        "answer": 1,
+        "explanation": "SI unit of radioactivity is becquerel."
+    },
+    {
+        "id": 224,
+        "question": "One curie is equal to:",
+        "options": [
+            "3.7 × 10^10 Bq",
+            "3.7 × 10^8 Bq",
+            "1 Bq",
+            "10^6 Bq"
+        ],
+        "answer": 0,
+        "explanation": "1 Ci = 3.7 × 10^10 disintegrations per second."
+    },
+    {
+        "id": 225,
+        "question": "The half-life of a radioactive substance is independent of:",
+        "options": [
+            "temperature",
+            "pressure",
+            "chemical state",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "Half-life depends only on nature of nucleus."
+    },
+    {
+        "id": 226,
+        "question": "The mean life τ of a radioactive nucleus is related to half-life T1/2 by:",
+        "options": [
+            "τ = T1/2",
+            "τ = T1/2 / 0.693",
+            "τ = 0.693 T1/2",
+            "τ = 2.303 T1/2"
+        ],
+        "answer": 1,
+        "explanation": "τ = 1/λ and T1/2 = 0.693/λ, so τ = T1/2 / 0.693."
+    },
+    {
+        "id": 227,
+        "question": "In beta minus decay, a neutron transforms into:",
+        "options": [
+            "proton",
+            "proton + electron + antineutrino",
+            "proton + positron",
+            "electron only"
+        ],
+        "answer": 1,
+        "explanation": "β− decay: n → p + e− + ν̄."
+    },
+    {
+        "id": 228,
+        "question": "Gamma rays are electromagnetic waves with:",
+        "options": [
+            "low frequency",
+            "long wavelength",
+            "high frequency",
+            "zero speed"
+        ],
+        "answer": 2,
+        "explanation": "Gamma rays have very high frequency."
+    },
+    {
+        "id": 229,
+        "question": "Among alpha, beta and gamma radiations, the most penetrating is:",
+        "options": [
+            "alpha",
+            "beta",
+            "gamma",
+            "all same"
+        ],
+        "answer": 2,
+        "explanation": "Gamma rays have maximum penetrating power."
+    },
+    {
+        "id": 230,
+        "question": "The ionising power of alpha particles is high because they:",
+        "options": [
+            "have large mass and charge",
+            "move with speed of light",
+            "are neutral",
+            "have small size"
+        ],
+        "answer": 0,
+        "explanation": "Large mass and charge cause strong ionisation."
+    },
+    {
+        "id": 231,
+        "question": "At absolute zero temperature, an intrinsic semiconductor behaves as:",
+        "options": [
+            "conductor",
+            "insulator",
+            "superconductor",
+            "diode"
+        ],
+        "answer": 1,
+        "explanation": "No free charge carriers are available at 0 K."
+    },
+    {
+        "id": 232,
+        "question": "The energy band gap of a semiconductor is of the order of:",
+        "options": [
+            "0.01 eV",
+            "1 eV",
+            "5 eV",
+            "10 eV"
+        ],
+        "answer": 1,
+        "explanation": "Semiconductors have band gap of about 1 eV."
+    },
+    {
+        "id": 233,
+        "question": "In intrinsic semiconductor, number of electrons is equal to number of:",
+        "options": [
+            "protons",
+            "holes",
+            "ions",
+            "atoms"
+        ],
+        "answer": 1,
+        "explanation": "Electron and hole concentrations are equal."
+    },
+    {
+        "id": 234,
+        "question": "The conductivity of an intrinsic semiconductor increases with:",
+        "options": [
+            "decrease in temperature",
+            "increase in temperature",
+            "increase in band gap",
+            "absence of impurities"
+        ],
+        "answer": 1,
+        "explanation": "Thermal energy generates more charge carriers."
+    },
+    {
+        "id": 235,
+        "question": "Doping pure silicon with phosphorus produces:",
+        "options": [
+            "p-type semiconductor",
+            "n-type semiconductor",
+            "insulator",
+            "conductor"
+        ],
+        "answer": 1,
+        "explanation": "Phosphorus is pentavalent, producing n-type semiconductor."
+    },
+    {
+        "id": 236,
+        "question": "In n-type semiconductor, the majority charge carriers are:",
+        "options": [
+            "holes",
+            "electrons",
+            "ions",
+            "protons"
+        ],
+        "answer": 1,
+        "explanation": "Electrons are majority carriers in n-type semiconductor."
+    },
+    {
+        "id": 237,
+        "question": "The Fermi level in an intrinsic semiconductor lies:",
+        "options": [
+            "near conduction band",
+            "near valence band",
+            "midway in the band gap",
+            "outside the band gap"
+        ],
+        "answer": 2,
+        "explanation": "Intrinsic semiconductor has Fermi level at mid-gap."
+    },
+    {
+        "id": 238,
+        "question": "The depletion region in a p-n junction is formed due to:",
+        "options": [
+            "drift of carriers",
+            "diffusion of carriers",
+            "external bias",
+            "heating"
+        ],
+        "answer": 1,
+        "explanation": "Diffusion of carriers creates depletion region."
+    },
+    {
+        "id": 239,
+        "question": "The barrier potential of a p-n junction depends on:",
+        "options": [
+            "temperature",
+            "doping",
+            "material",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "Barrier potential depends on material, doping and temperature."
+    },
+    {
+        "id": 240,
+        "question": "In forward bias of a p-n junction, the depletion layer width:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Forward bias reduces the depletion region."
+    },
+    {
+        "id": 241,
+        "question": "A Zener diode is operated in:",
+        "options": [
+            "forward bias",
+            "reverse bias breakdown region",
+            "cut-off region",
+            "active region"
+        ],
+        "answer": 1,
+        "explanation": "Zener diode works in reverse bias breakdown."
+    },
+    {
+        "id": 242,
+        "question": "The Zener voltage is nearly constant because:",
+        "options": [
+            "current remains constant",
+            "temperature remains constant",
+            "breakdown voltage is sharp",
+            "resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "Sharp breakdown maintains constant voltage."
+    },
+    {
+        "id": 243,
+        "question": "The main function of a transistor is:",
+        "options": [
+            "rectification",
+            "amplification and switching",
+            "voltage regulation",
+            "energy storage"
+        ],
+        "answer": 1,
+        "explanation": "Transistors are used for amplification and switching."
+    },
+    {
+        "id": 244,
+        "question": "The emitter of a transistor is heavily doped to:",
+        "options": [
+            "increase base width",
+            "increase carrier injection",
+            "reduce current",
+            "increase voltage"
+        ],
+        "answer": 1,
+        "explanation": "Heavy doping increases carrier injection."
+    },
+    {
+        "id": 245,
+        "question": "The collector region of a transistor is made larger to:",
+        "options": [
+            "increase current gain",
+            "dissipate more heat",
+            "reduce recombination",
+            "increase base current"
+        ],
+        "answer": 1,
+        "explanation": "Larger area helps in heat dissipation."
+    },
+    {
+        "id": 246,
+        "question": "In common emitter configuration, the current gain is denoted by:",
+        "options": [
+            "α",
+            "β",
+            "γ",
+            "δ"
+        ],
+        "answer": 1,
+        "explanation": "Current gain in CE configuration is β."
+    },
+    {
+        "id": 247,
+        "question": "The relation between α and β is:",
+        "options": [
+            "β = α/(1 − α)",
+            "α = β/(1 − β)",
+            "β = 1 − α",
+            "α = 1/β"
+        ],
+        "answer": 0,
+        "explanation": "β = α/(1 − α)."
+    },
+    {
+        "id": 248,
+        "question": "A logic gate which produces output 1 only when inputs are different is:",
+        "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "NAND"
+        ],
+        "answer": 2,
+        "explanation": "XOR gate outputs 1 for different inputs."
+    },
+    {
+        "id": 249,
+        "question": "The basic building block of digital circuits is:",
+        "options": [
+            "amplifier",
+            "rectifier",
+            "logic gate",
+            "oscillator"
+        ],
+        "answer": 2,
+        "explanation": "Logic gates form the basis of digital circuits."
+    },
+    {
+        "id": 250,
+        "question": "Digital signals are preferred over analog signals because they are:",
+        "options": [
+            "continuous",
+            "more noisy",
+            "less affected by noise",
+            "high power"
+        ],
+        "answer": 2,
+        "explanation": "Digital signals have better noise immunity."
+    }
+]
+[
+    {
+        "id": 251,
+        "question": "The maximum kinetic energy of photoelectrons is independent of:",
+        "options": [
+            "frequency of incident light",
+            "work function of metal",
+            "intensity of incident light",
+            "nature of metal"
+        ],
+        "answer": 2,
+        "explanation": "Maximum kinetic energy depends on frequency and work function, not on intensity."
+    },
+    {
+        "id": 252,
+        "question": "In photoelectric effect, increasing the intensity of light at fixed frequency above threshold increases:",
+        "options": [
+            "maximum kinetic energy",
+            "stopping potential",
+            "photoelectric current",
+            "threshold frequency"
+        ],
+        "answer": 2,
+        "explanation": "Higher intensity increases number of emitted electrons, hence current."
+    },
+    {
+        "id": 253,
+        "question": "The photoelectric effect shows that light:",
+        "options": [
+            "has only wave nature",
+            "has only particle nature",
+            "has dual nature",
+            "is electromagnetic wave only"
+        ],
+        "answer": 2,
+        "explanation": "Photoelectric effect supports particle aspect of wave–particle duality."
+    },
+    {
+        "id": 254,
+        "question": "The slope of K_max versus frequency graph in photoelectric effect gives:",
+        "options": [
+            "work function",
+            "threshold frequency",
+            "Planck constant",
+            "electron charge"
+        ],
+        "answer": 2,
+        "explanation": "From K_max = hν − φ, slope equals Planck constant h."
+    },
+    {
+        "id": 255,
+        "question": "In Compton scattering, increase in wavelength of photon is due to:",
+        "options": [
+            "absorption of photon",
+            "loss of photon energy to electron",
+            "increase in photon energy",
+            "nuclear excitation"
+        ],
+        "answer": 1,
+        "explanation": "Photon transfers part of its energy to electron, increasing wavelength."
+    },
+    {
+        "id": 256,
+        "question": "The Compton wavelength shift is maximum when the photon is scattered at:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 3,
+        "explanation": "Maximum shift occurs for backscattering at 180°."
+    },
+    {
+        "id": 257,
+        "question": "The Compton wavelength depends on the:",
+        "options": [
+            "energy of photon",
+            "mass of scattering particle",
+            "angle of scattering",
+            "intensity of radiation"
+        ],
+        "answer": 1,
+        "explanation": "Compton wavelength is a property of the scattering particle (electron)."
+    },
+    {
+        "id": 258,
+        "question": "The de Broglie wavelength of a moving particle is inversely proportional to its:",
+        "options": [
+            "kinetic energy",
+            "mass",
+            "momentum",
+            "velocity"
+        ],
+        "answer": 2,
+        "explanation": "De Broglie relation is λ = h/p."
+    },
+    {
+        "id": 259,
+        "question": "The de Broglie wavelength of an electron decreases when its:",
+        "options": [
+            "speed increases",
+            "speed decreases",
+            "charge increases",
+            "mass increases artificially"
+        ],
+        "answer": 0,
+        "explanation": "Increase in speed increases momentum, decreasing wavelength."
+    },
+    {
+        "id": 260,
+        "question": "Electron diffraction is possible because electrons:",
+        "options": [
+            "are charged",
+            "have mass",
+            "behave as waves",
+            "move at high speed"
+        ],
+        "answer": 2,
+        "explanation": "Electron diffraction is due to wave nature of electrons."
+    },
+    {
+        "id": 261,
+        "question": "The continuous X-ray spectrum depends on:",
+        "options": [
+            "target material",
+            "atomic number of target",
+            "accelerating voltage",
+            "nature of filament"
+        ],
+        "answer": 2,
+        "explanation": "Minimum wavelength and continuous spectrum depend on accelerating voltage."
+    },
+    {
+        "id": 262,
+        "question": "Characteristic X-rays are emitted when:",
+        "options": [
+            "electrons are suddenly stopped",
+            "outer shell electrons jump to inner shell vacancies",
+            "electrons strike the target",
+            "target is heated"
+        ],
+        "answer": 1,
+        "explanation": "Characteristic X-rays arise from inner atomic transitions."
+    },
+    {
+        "id": 263,
+        "question": "Moseley’s law established the importance of:",
+        "options": [
+            "atomic mass",
+            "atomic radius",
+            "atomic number",
+            "valency"
+        ],
+        "answer": 2,
+        "explanation": "Moseley showed atomic number determines X-ray frequencies."
+    },
+    {
+        "id": 264,
+        "question": "The nuclear force between two nucleons is:",
+        "options": [
+            "long range and weak",
+            "short range and strong",
+            "long range and strong",
+            "inverse square type"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear force is very strong but short-ranged."
+    },
+    {
+        "id": 265,
+        "question": "The nuclear binding energy is due to:",
+        "options": [
+            "gravitational force",
+            "electrostatic force",
+            "strong nuclear force",
+            "weak interaction"
+        ],
+        "answer": 2,
+        "explanation": "Binding energy arises from strong nuclear force."
+    },
+    {
+        "id": 266,
+        "question": "The binding energy per nucleon curve shows that fusion is possible for nuclei with mass number:",
+        "options": [
+            "less than 56",
+            "greater than 56",
+            "equal to 56",
+            "greater than 200"
+        ],
+        "answer": 0,
+        "explanation": "Fusion increases binding energy per nucleon for light nuclei."
+    },
+    {
+        "id": 267,
+        "question": "Nuclear fission releases energy because the products have:",
+        "options": [
+            "lower binding energy",
+            "higher binding energy per nucleon",
+            "lower mass number",
+            "higher atomic number"
+        ],
+        "answer": 1,
+        "explanation": "Fission products have higher binding energy per nucleon."
+    },
+    {
+        "id": 268,
+        "question": "In a nuclear reactor, the function of moderator is to:",
+        "options": [
+            "absorb neutrons",
+            "slow down fast neutrons",
+            "increase fission rate",
+            "control temperature"
+        ],
+        "answer": 1,
+        "explanation": "Moderator slows neutrons to thermal energies."
+    },
+    {
+        "id": 269,
+        "question": "Control rods in a nuclear reactor are made of:",
+        "options": [
+            "graphite",
+            "heavy water",
+            "cadmium",
+            "uranium"
+        ],
+        "answer": 2,
+        "explanation": "Cadmium absorbs neutrons efficiently."
+    },
+    {
+        "id": 270,
+        "question": "The decay constant of a radioactive element represents:",
+        "options": [
+            "time for half decay",
+            "rate of decay",
+            "probability of decay per unit time",
+            "number of decays"
+        ],
+        "answer": 2,
+        "explanation": "Decay constant is probability of decay per unit time."
+    },
+    {
+        "id": 271,
+        "question": "If the half-life of a radioactive substance is small, its decay constant is:",
+        "options": [
+            "small",
+            "large",
+            "zero",
+            "independent"
+        ],
+        "answer": 1,
+        "explanation": "λ = 0.693/T_{1/2}, so smaller half-life gives larger λ."
+    },
+    {
+        "id": 272,
+        "question": "The activity of a radioactive sample is directly proportional to:",
+        "options": [
+            "half-life",
+            "mean life",
+            "number of undecayed nuclei",
+            "mass number"
+        ],
+        "answer": 2,
+        "explanation": "Activity A = λN depends on number of nuclei."
+    },
+    {
+        "id": 273,
+        "question": "Alpha particles are helium nuclei containing:",
+        "options": [
+            "1 proton and 1 neutron",
+            "2 protons and 2 neutrons",
+            "2 protons only",
+            "2 neutrons only"
+        ],
+        "answer": 1,
+        "explanation": "Alpha particle is a helium nucleus."
+    },
+    {
+        "id": 274,
+        "question": "Beta minus radiation consists of:",
+        "options": [
+            "electrons",
+            "positrons",
+            "neutrons",
+            "photons"
+        ],
+        "answer": 0,
+        "explanation": "β− radiation is a stream of electrons."
+    },
+    {
+        "id": 275,
+        "question": "Gamma rays have:",
+        "options": [
+            "mass and charge",
+            "charge only",
+            "mass only",
+            "neither mass nor charge"
+        ],
+        "answer": 3,
+        "explanation": "Gamma rays are electromagnetic waves."
+    },
+    {
+        "id": 276,
+        "question": "Among alpha, beta and gamma radiations, the least ionising is:",
+        "options": [
+            "alpha",
+            "beta",
+            "gamma",
+            "all same"
+        ],
+        "answer": 2,
+        "explanation": "Gamma rays have least ionising power."
+    },
+    {
+        "id": 277,
+        "question": "At room temperature, an intrinsic semiconductor behaves as:",
+        "options": [
+            "perfect conductor",
+            "perfect insulator",
+            "poor conductor",
+            "superconductor"
+        ],
+        "answer": 2,
+        "explanation": "Few charge carriers make it a poor conductor."
+    },
+    {
+        "id": 278,
+        "question": "The conductivity of a semiconductor is mainly due to:",
+        "options": [
+            "ions",
+            "free electrons only",
+            "holes only",
+            "electrons and holes"
+        ],
+        "answer": 3,
+        "explanation": "Both electrons and holes contribute to conduction."
+    },
+    {
+        "id": 279,
+        "question": "Doping a semiconductor increases its conductivity by:",
+        "options": [
+            "increasing band gap",
+            "decreasing temperature",
+            "increasing charge carriers",
+            "reducing lattice vibrations"
+        ],
+        "answer": 2,
+        "explanation": "Doping increases number of charge carriers."
+    },
+    {
+        "id": 280,
+        "question": "A trivalent impurity doped semiconductor is called:",
+        "options": [
+            "n-type",
+            "p-type",
+            "intrinsic",
+            "insulator"
+        ],
+        "answer": 1,
+        "explanation": "Trivalent impurities produce p-type semiconductor."
+    },
+    {
+        "id": 281,
+        "question": "In n-type semiconductor, the minority charge carriers are:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "atoms"
+        ],
+        "answer": 1,
+        "explanation": "Holes are minority carriers in n-type material."
+    },
+    {
+        "id": 282,
+        "question": "The Fermi level in n-type semiconductor lies:",
+        "options": [
+            "near valence band",
+            "near conduction band",
+            "at mid-gap",
+            "outside bands"
+        ],
+        "answer": 1,
+        "explanation": "Fermi level shifts towards conduction band."
+    },
+    {
+        "id": 283,
+        "question": "The depletion region in a p-n junction contains:",
+        "options": [
+            "free electrons",
+            "free holes",
+            "immobile ions",
+            "no charges"
+        ],
+        "answer": 2,
+        "explanation": "Depletion region has fixed ions only."
+    },
+    {
+        "id": 284,
+        "question": "The barrier potential of a p-n junction at room temperature is of the order of:",
+        "options": [
+            "a few mV",
+            "a few V",
+            "about 1 V",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Barrier potential is about 0.7 V for Si and 0.3 V for Ge."
+    },
+    {
+        "id": 285,
+        "question": "In reverse bias of a p-n junction, the current is:",
+        "options": [
+            "large",
+            "zero",
+            "small and nearly constant",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Reverse saturation current is small and constant."
+    },
+    {
+        "id": 286,
+        "question": "A Zener diode is used primarily for:",
+        "options": [
+            "rectification",
+            "amplification",
+            "voltage regulation",
+            "switching"
+        ],
+        "answer": 2,
+        "explanation": "Zener diode maintains constant output voltage."
+    },
+    {
+        "id": 287,
+        "question": "The breakdown voltage of a Zener diode is controlled by:",
+        "options": [
+            "temperature",
+            "doping concentration",
+            "size of diode",
+            "current gain"
+        ],
+        "answer": 1,
+        "explanation": "Heavy doping controls breakdown voltage."
+    },
+    {
+        "id": 288,
+        "question": "The transistor region used for amplification is:",
+        "options": [
+            "cut-off",
+            "saturation",
+            "active",
+            "breakdown"
+        ],
+        "answer": 2,
+        "explanation": "Amplification requires operation in active region."
+    },
+    {
+        "id": 289,
+        "question": "The base of a transistor is lightly doped to:",
+        "options": [
+            "increase current",
+            "reduce recombination",
+            "increase voltage",
+            "increase resistance"
+        ],
+        "answer": 1,
+        "explanation": "Light doping reduces recombination of carriers."
+    },
+    {
+        "id": 290,
+        "question": "In CE configuration, the output is taken from:",
+        "options": [
+            "emitter",
+            "base",
+            "collector",
+            "ground"
+        ],
+        "answer": 2,
+        "explanation": "Output is taken from collector terminal."
+    },
+    {
+        "id": 291,
+        "question": "The CE amplifier produces a phase difference of:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "360°"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier causes phase reversal."
+    },
+    {
+        "id": 292,
+        "question": "A transistor can act as a switch when it is operated in:",
+        "options": [
+            "active region",
+            "cut-off and saturation",
+            "breakdown region",
+            "reverse active region"
+        ],
+        "answer": 1,
+        "explanation": "Switching uses cut-off and saturation states."
+    },
+    {
+        "id": 293,
+        "question": "The logic gate which produces output 0 when any input is 0 is:",
+        "options": [
+            "OR",
+            "AND",
+            "XOR",
+            "NOR"
+        ],
+        "answer": 1,
+        "explanation": "AND gate outputs 1 only if all inputs are 1."
+    },
+    {
+        "id": 294,
+        "question": "The output of NOR gate is 1 when:",
+        "options": [
+            "any input is 1",
+            "both inputs are 1",
+            "both inputs are 0",
+            "inputs are different"
+        ],
+        "answer": 2,
+        "explanation": "NOR gate outputs 1 only when all inputs are 0."
+    },
+    {
+        "id": 295,
+        "question": "The logic gate whose output is complement of XOR is:",
+        "options": [
+            "NOR",
+            "NAND",
+            "XNOR",
+            "AND"
+        ],
+        "answer": 2,
+        "explanation": "XNOR gate is complement of XOR."
+    },
+    {
+        "id": 296,
+        "question": "The sum output of a half adder is obtained using:",
+        "options": [
+            "AND gate",
+            "OR gate",
+            "XOR gate",
+            "NOR gate"
+        ],
+        "answer": 2,
+        "explanation": "XOR gate gives sum output."
+    },
+    {
+        "id": 297,
+        "question": "The carry output of a full adder is obtained using combination of:",
+        "options": [
+            "AND and OR gates",
+            "XOR and NOT gates",
+            "NOR gates only",
+            "OR gates only"
+        ],
+        "answer": 0,
+        "explanation": "Carry is formed using AND and OR logic."
+    },
+    {
+        "id": 298,
+        "question": "The binary addition of 1 + 1 gives:",
+        "options": [
+            "1",
+            "10",
+            "11",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "1 + 1 = 10 in binary."
+    },
+    {
+        "id": 299,
+        "question": "The decimal equivalent of binary number 1001 is:",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2,
+        "explanation": "Binary 1001 equals decimal 9."
+    },
+    {
+        "id": 300,
+        "question": "The major advantage of ICs over discrete components is:",
+        "options": [
+            "large size",
+            "high cost",
+            "high reliability",
+            "low speed"
+        ],
+        "answer": 2,
+        "explanation": "Integrated circuits offer high reliability and compactness."
+    }
+]
+[
+    {
+        "id": 301,
+        "question": "In photoelectric effect, if the frequency of incident radiation is below threshold frequency, photoemission:",
+        "options": [
+            "occurs with low kinetic energy",
+            "occurs with high kinetic energy",
+            "does not occur",
+            "depends on intensity"
+        ],
+        "answer": 2,
+        "explanation": "Below threshold frequency, no photoelectrons are emitted irrespective of intensity."
+    },
+    {
+        "id": 302,
+        "question": "The work function of a metal surface is expressed in terms of:",
+        "options": [
+            "joule only",
+            "eV only",
+            "joule or eV",
+            "watt"
+        ],
+        "answer": 2,
+        "explanation": "Work function is an energy quantity and can be expressed in joule or electron volt."
+    },
+    {
+        "id": 303,
+        "question": "The maximum kinetic energy of photoelectrons is given by:",
+        "options": [
+            "hν",
+            "φ",
+            "hν − φ",
+            "φ − hν"
+        ],
+        "answer": 2,
+        "explanation": "Einstein photoelectric equation gives K_max = hν − φ."
+    },
+    {
+        "id": 304,
+        "question": "In Compton scattering, the scattered photon wavelength is:",
+        "options": [
+            "always less than incident wavelength",
+            "equal to incident wavelength",
+            "greater than incident wavelength",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Photon loses energy in collision, hence wavelength increases."
+    },
+    {
+        "id": 305,
+        "question": "The Compton wavelength shift is given by:",
+        "options": [
+            "Δλ = h/mc",
+            "Δλ = (h/mc)(1 − cosθ)",
+            "Δλ = hc/m",
+            "Δλ = λ(1 − cosθ)"
+        ],
+        "answer": 1,
+        "explanation": "Compton shift formula is Δλ = (h/mc)(1 − cosθ)."
+    },
+    {
+        "id": 306,
+        "question": "The de Broglie hypothesis associates a wavelength with a moving:",
+        "options": [
+            "photon only",
+            "charged particle only",
+            "any particle",
+            "only electrons"
+        ],
+        "answer": 2,
+        "explanation": "De Broglie proposed wave nature for all moving particles."
+    },
+    {
+        "id": 307,
+        "question": "The de Broglie wavelength of a proton is smaller than that of an electron having same velocity because proton has:",
+        "options": [
+            "greater charge",
+            "greater mass",
+            "greater energy",
+            "less momentum"
+        ],
+        "answer": 1,
+        "explanation": "Higher mass gives higher momentum, reducing wavelength."
+    },
+    {
+        "id": 308,
+        "question": "Electron diffraction is significant when the electron wavelength is comparable to:",
+        "options": [
+            "nuclear size",
+            "interatomic spacing",
+            "atomic radius",
+            "wavelength of light"
+        ],
+        "answer": 1,
+        "explanation": "Diffraction occurs when wavelength is comparable to lattice spacing."
+    },
+    {
+        "id": 309,
+        "question": "The minimum wavelength of X-rays produced depends on:",
+        "options": [
+            "target material",
+            "atomic number of target",
+            "accelerating voltage",
+            "filament current"
+        ],
+        "answer": 2,
+        "explanation": "According to Duane–Hunt law, λ_min depends only on accelerating voltage."
+    },
+    {
+        "id": 310,
+        "question": "Characteristic X-rays are not produced if the accelerating voltage is:",
+        "options": [
+            "high",
+            "sufficient",
+            "below critical value",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "Characteristic X-rays appear only above critical voltage."
+    },
+    {
+        "id": 311,
+        "question": "The square root of frequency of characteristic X-rays varies linearly with:",
+        "options": [
+            "atomic mass",
+            "atomic number",
+            "mass number",
+            "binding energy"
+        ],
+        "answer": 1,
+        "explanation": "Moseley’s law gives √ν ∝ Z."
+    },
+    {
+        "id": 312,
+        "question": "The radius of a nucleus of mass number A is given by:",
+        "options": [
+            "R = R0 A",
+            "R = R0 A^(1/3)",
+            "R = R0 A^(2/3)",
+            "R = R0 / A"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear radius follows R = R0 A^(1/3)."
+    },
+    {
+        "id": 313,
+        "question": "The approximate value of R0 in nuclear radius formula is:",
+        "options": [
+            "1.3 fm",
+            "1.3 pm",
+            "1.3 nm",
+            "1.3 mm"
+        ],
+        "answer": 0,
+        "explanation": "R0 is approximately 1.3 femtometre."
+    },
+    {
+        "id": 314,
+        "question": "The constancy of nuclear density implies that nuclear force is:",
+        "options": [
+            "long range",
+            "short range",
+            "repulsive only",
+            "electromagnetic"
+        ],
+        "answer": 1,
+        "explanation": "Constant density indicates short range nature of nuclear force."
+    },
+    {
+        "id": 315,
+        "question": "The energy required to completely separate a nucleus into its nucleons is called:",
+        "options": [
+            "binding energy",
+            "fusion energy",
+            "fission energy",
+            "ionisation energy"
+        ],
+        "answer": 0,
+        "explanation": "Binding energy is energy required to disassemble nucleus."
+    },
+    {
+        "id": 316,
+        "question": "The binding energy per nucleon curve explains that fission is energetically favourable for nuclei with mass number:",
+        "options": [
+            "less than 20",
+            "around 56",
+            "greater than 200",
+            "equal to 56"
+        ],
+        "answer": 2,
+        "explanation": "Heavy nuclei move towards higher stability via fission."
+    },
+    {
+        "id": 317,
+        "question": "The source of energy in the Sun is mainly due to fusion of:",
+        "options": [
+            "hydrogen nuclei",
+            "helium nuclei",
+            "lithium nuclei",
+            "carbon nuclei"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogen nuclei fuse to form helium in the Sun."
+    },
+    {
+        "id": 318,
+        "question": "The moderator used in nuclear reactors should have:",
+        "options": [
+            "high atomic mass",
+            "low atomic mass",
+            "high atomic number",
+            "high density"
+        ],
+        "answer": 1,
+        "explanation": "Low mass nuclei effectively slow down neutrons."
+    },
+    {
+        "id": 319,
+        "question": "Heavy water acts as a moderator because it:",
+        "options": [
+            "absorbs neutrons strongly",
+            "slows neutrons efficiently",
+            "produces neutrons",
+            "blocks radiation"
+        ],
+        "answer": 1,
+        "explanation": "Deuterium nuclei reduce neutron speed without absorbing them."
+    },
+    {
+        "id": 320,
+        "question": "The half-life of a radioactive substance is the time in which the number of undecayed nuclei becomes:",
+        "options": [
+            "one-fourth",
+            "one-half",
+            "one-third",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Half-life is time for nuclei to reduce to half."
+    },
+    {
+        "id": 321,
+        "question": "The activity of a radioactive sample decreases with time because:",
+        "options": [
+            "decay constant decreases",
+            "number of nuclei decreases",
+            "half-life increases",
+            "energy decreases"
+        ],
+        "answer": 1,
+        "explanation": "Activity A = λN decreases as N decreases."
+    },
+    {
+        "id": 322,
+        "question": "The SI unit of absorbed dose of radiation is:",
+        "options": [
+            "becquerel",
+            "curie",
+            "gray",
+            "sievert"
+        ],
+        "answer": 2,
+        "explanation": "Gray is the SI unit of absorbed dose."
+    },
+    {
+        "id": 323,
+        "question": "In alpha decay, the parent nucleus loses:",
+        "options": [
+            "1 proton and 1 neutron",
+            "2 protons and 2 neutrons",
+            "2 electrons",
+            "1 proton only"
+        ],
+        "answer": 1,
+        "explanation": "Alpha particle consists of 2 protons and 2 neutrons."
+    },
+    {
+        "id": 324,
+        "question": "In beta minus decay, the atomic number of nucleus:",
+        "options": [
+            "decreases by 1",
+            "increases by 1",
+            "remains same",
+            "decreases by 2"
+        ],
+        "answer": 1,
+        "explanation": "Neutron converts into proton, increasing atomic number by 1."
+    },
+    {
+        "id": 325,
+        "question": "Gamma decay changes the:",
+        "options": [
+            "atomic number",
+            "mass number",
+            "energy state of nucleus",
+            "chemical nature"
+        ],
+        "answer": 2,
+        "explanation": "Gamma decay releases energy without changing Z or A."
+    },
+    {
+        "id": 326,
+        "question": "The most penetrating radiation among α, β and γ is:",
+        "options": [
+            "alpha",
+            "beta",
+            "gamma",
+            "all equal"
+        ],
+        "answer": 2,
+        "explanation": "Gamma rays have highest penetrating power."
+    },
+    {
+        "id": 327,
+        "question": "The ionising power of radiation is maximum for:",
+        "options": [
+            "alpha",
+            "beta",
+            "gamma",
+            "X-rays"
+        ],
+        "answer": 0,
+        "explanation": "Alpha particles have highest ionising power."
+    },
+    {
+        "id": 328,
+        "question": "At absolute zero temperature, a semiconductor behaves as a:",
+        "options": [
+            "good conductor",
+            "insulator",
+            "superconductor",
+            "rectifier"
+        ],
+        "answer": 1,
+        "explanation": "No free charge carriers are available at 0 K."
+    },
+    {
+        "id": 329,
+        "question": "The energy gap of an insulator is typically:",
+        "options": [
+            "less than 1 eV",
+            "about 1 eV",
+            "2–3 eV",
+            "greater than 3 eV"
+        ],
+        "answer": 3,
+        "explanation": "Insulators have large band gaps exceeding 3 eV."
+    },
+    {
+        "id": 330,
+        "question": "The number of free charge carriers in an intrinsic semiconductor increases with:",
+        "options": [
+            "decrease in temperature",
+            "increase in temperature",
+            "decrease in band gap",
+            "absence of impurities"
+        ],
+        "answer": 1,
+        "explanation": "Thermal energy excites more electrons."
+    },
+    {
+        "id": 331,
+        "question": "In p-type semiconductor, the majority carriers are:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "neutrons"
+        ],
+        "answer": 1,
+        "explanation": "Holes are majority carriers in p-type material."
+    },
+    {
+        "id": 332,
+        "question": "The Fermi level in p-type semiconductor lies closer to the:",
+        "options": [
+            "conduction band",
+            "valence band",
+            "middle of band gap",
+            "vacuum level"
+        ],
+        "answer": 1,
+        "explanation": "Acceptor levels shift Fermi level towards valence band."
+    },
+    {
+        "id": 333,
+        "question": "The depletion region of a p-n junction contains:",
+        "options": [
+            "free electrons",
+            "free holes",
+            "fixed ions",
+            "no charges at all"
+        ],
+        "answer": 2,
+        "explanation": "Depletion region has immobile ions only."
+    },
+    {
+        "id": 334,
+        "question": "The barrier potential of a p-n junction decreases with:",
+        "options": [
+            "increase in temperature",
+            "increase in doping",
+            "reverse bias",
+            "cooling"
+        ],
+        "answer": 0,
+        "explanation": "Increase in temperature reduces barrier potential."
+    },
+    {
+        "id": 335,
+        "question": "In forward bias of a p-n junction, the resistance of junction:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains constant",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Forward bias lowers potential barrier, reducing resistance."
+    },
+    {
+        "id": 336,
+        "question": "The reverse saturation current in a p-n junction is due to:",
+        "options": [
+            "majority carriers",
+            "minority carriers",
+            "ions",
+            "holes only"
+        ],
+        "answer": 1,
+        "explanation": "Minority carriers cause reverse saturation current."
+    },
+    {
+        "id": 337,
+        "question": "Zener breakdown occurs due to:",
+        "options": [
+            "impact ionisation",
+            "strong electric field",
+            "high temperature",
+            "high current"
+        ],
+        "answer": 1,
+        "explanation": "Strong electric field causes Zener breakdown."
+    },
+    {
+        "id": 338,
+        "question": "The main application of a Zener diode is:",
+        "options": [
+            "rectification",
+            "amplification",
+            "voltage regulation",
+            "oscillation"
+        ],
+        "answer": 2,
+        "explanation": "Zener diode is used as a voltage regulator."
+    },
+    {
+        "id": 339,
+        "question": "In a transistor, the emitter is heavily doped to:",
+        "options": [
+            "increase base width",
+            "increase carrier injection",
+            "reduce voltage",
+            "increase resistance"
+        ],
+        "answer": 1,
+        "explanation": "Heavy doping increases carrier injection efficiency."
+    },
+    {
+        "id": 340,
+        "question": "The base of a transistor is made thin to:",
+        "options": [
+            "increase current gain",
+            "reduce recombination",
+            "increase voltage gain",
+            "increase resistance"
+        ],
+        "answer": 1,
+        "explanation": "Thin base reduces recombination of carriers."
+    },
+    {
+        "id": 341,
+        "question": "In CE configuration, the current gain is:",
+        "options": [
+            "less than 1",
+            "equal to 1",
+            "greater than 1",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Current gain β in CE configuration is greater than 1."
+    },
+    {
+        "id": 342,
+        "question": "The input resistance of CE amplifier is:",
+        "options": [
+            "very low",
+            "low",
+            "moderate",
+            "very high"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier has moderate input resistance."
+    },
+    {
+        "id": 343,
+        "question": "The output resistance of CE amplifier is:",
+        "options": [
+            "low",
+            "moderate",
+            "high",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "CE configuration offers high output resistance."
+    },
+    {
+        "id": 344,
+        "question": "The phase difference between input and output of CE amplifier is:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "360°"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier introduces 180° phase reversal."
+    },
+    {
+        "id": 345,
+        "question": "The emitter follower is used mainly for:",
+        "options": [
+            "voltage amplification",
+            "current amplification",
+            "impedance matching",
+            "power generation"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower provides impedance matching."
+    },
+    {
+        "id": 346,
+        "question": "The logic gate which gives output 1 when any input is 1 is:",
+        "options": [
+            "AND",
+            "OR",
+            "NOR",
+            "XOR"
+        ],
+        "answer": 1,
+        "explanation": "OR gate outputs 1 if any input is 1."
+    },
+    {
+        "id": 347,
+        "question": "The logic gate which gives output 0 only when all inputs are 1 is:",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 2,
+        "explanation": "NAND gate outputs 0 only when all inputs are 1."
+    },
+    {
+        "id": 348,
+        "question": "The logic gate that gives output 1 when inputs are equal is:",
+        "options": [
+            "XOR",
+            "XNOR",
+            "AND",
+            "NOR"
+        ],
+        "answer": 1,
+        "explanation": "XNOR gate gives 1 for equal inputs."
+    },
+    {
+        "id": 349,
+        "question": "Binary number system is based on:",
+        "options": [
+            "base 2",
+            "base 8",
+            "base 10",
+            "base 16"
+        ],
+        "answer": 0,
+        "explanation": "Binary system uses base 2."
+    },
+    {
+        "id": 350,
+        "question": "The main advantage of digital electronics is its:",
+        "options": [
+            "continuous signal processing",
+            "high noise immunity",
+            "low speed",
+            "large size"
+        ],
+        "answer": 1,
+        "explanation": "Digital systems are less affected by noise."
+    }
+]
+[
+    {
+        "id": 351,
+        "question": "In photoelectric effect, the graph of photoelectric current versus applied potential shows saturation because:",
+        "options": [
+            "all emitted electrons are collected",
+            "frequency becomes constant",
+            "work function changes",
+            "energy of photons decreases"
+        ],
+        "answer": 0,
+        "explanation": "At saturation potential, all emitted photoelectrons reach the collector."
+    },
+    {
+        "id": 352,
+        "question": "The threshold frequency of a metal surface is directly proportional to its:",
+        "options": [
+            "work function",
+            "intensity of light",
+            "area of surface",
+            "stopping potential"
+        ],
+        "answer": 0,
+        "explanation": "Threshold frequency ν_0 = φ/h, hence proportional to work function."
+    },
+    {
+        "id": 353,
+        "question": "If the frequency of incident light is increased, the stopping potential:",
+        "options": [
+            "decreases",
+            "remains same",
+            "increases",
+            "becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Stopping potential depends on maximum kinetic energy which increases with frequency."
+    },
+    {
+        "id": 354,
+        "question": "The photoelectric effect demonstrates the conservation of:",
+        "options": [
+            "momentum only",
+            "charge only",
+            "energy",
+            "mass only"
+        ],
+        "answer": 2,
+        "explanation": "Einstein photoelectric equation follows conservation of energy."
+    },
+    {
+        "id": 355,
+        "question": "In Compton scattering, the maximum energy transfer to the electron occurs when the photon is scattered through:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 3,
+        "explanation": "Backscattering at 180° gives maximum energy transfer."
+    },
+    {
+        "id": 356,
+        "question": "The Compton wavelength shift is zero when the scattering angle is:",
+        "options": [
+            "0°",
+            "60°",
+            "90°",
+            "180°"
+        ],
+        "answer": 0,
+        "explanation": "At 0° scattering, there is no change in wavelength."
+    },
+    {
+        "id": 357,
+        "question": "The de Broglie wavelength of a particle becomes half when its:",
+        "options": [
+            "mass is doubled",
+            "velocity is doubled",
+            "momentum is doubled",
+            "energy is doubled"
+        ],
+        "answer": 2,
+        "explanation": "Since λ = h/p, doubling momentum halves wavelength."
+    },
+    {
+        "id": 358,
+        "question": "Electron diffraction is observed prominently when electrons are accelerated through:",
+        "options": [
+            "very high potential",
+            "very low potential",
+            "moderate potential",
+            "zero potential"
+        ],
+        "answer": 2,
+        "explanation": "Moderate accelerating potentials give wavelengths comparable to lattice spacing."
+    },
+    {
+        "id": 359,
+        "question": "The minimum wavelength of X-rays corresponds to electrons losing:",
+        "options": [
+            "part of their energy",
+            "half of their energy",
+            "all of their kinetic energy",
+            "no energy"
+        ],
+        "answer": 2,
+        "explanation": "λ_min occurs when electron loses all kinetic energy in a single collision."
+    },
+    {
+        "id": 360,
+        "question": "Characteristic X-ray lines are sharp because they arise from:",
+        "options": [
+            "nuclear transitions",
+            "inner shell electronic transitions",
+            "outer shell transitions",
+            "thermal motion"
+        ],
+        "answer": 1,
+        "explanation": "Inner shell transitions have fixed energy differences."
+    },
+    {
+        "id": 361,
+        "question": "The binding energy of a nucleus is maximum when the nucleus is:",
+        "options": [
+            "very light",
+            "very heavy",
+            "of intermediate mass",
+            "radioactive"
+        ],
+        "answer": 2,
+        "explanation": "Intermediate mass nuclei have maximum binding energy per nucleon."
+    },
+    {
+        "id": 362,
+        "question": "The nuclear force is charge independent because it acts equally between:",
+        "options": [
+            "p–p, n–n, and p–n",
+            "only p–p",
+            "only n–n",
+            "only p–n"
+        ],
+        "answer": 0,
+        "explanation": "Nuclear force is nearly same for all nucleon pairs."
+    },
+    {
+        "id": 363,
+        "question": "The energy released in nuclear fusion is due to:",
+        "options": [
+            "decrease in binding energy per nucleon",
+            "increase in binding energy per nucleon",
+            "increase in mass",
+            "chemical reactions"
+        ],
+        "answer": 1,
+        "explanation": "Fusion increases binding energy per nucleon, releasing energy."
+    },
+    {
+        "id": 364,
+        "question": "In a nuclear reactor, fast neutrons are slowed down by:",
+        "options": [
+            "control rods",
+            "fuel rods",
+            "moderator",
+            "coolant"
+        ],
+        "answer": 2,
+        "explanation": "Moderator reduces neutron speed without absorbing them."
+    },
+    {
+        "id": 365,
+        "question": "The half-life of a radioactive substance becomes half if the decay constant:",
+        "options": [
+            "is doubled",
+            "is halved",
+            "becomes zero",
+            "remains same"
+        ],
+        "answer": 0,
+        "explanation": "T_1/2 = 0.693/λ, so doubling λ halves T_1/2."
+    },
+    {
+        "id": 366,
+        "question": "The unit sievert is used to measure:",
+        "options": [
+            "activity",
+            "absorbed dose",
+            "dose equivalent",
+            "binding energy"
+        ],
+        "answer": 2,
+        "explanation": "Sievert measures biological effect of radiation."
+    },
+    {
+        "id": 367,
+        "question": "Alpha particles are deflected weakly in electric fields because they have:",
+        "options": [
+            "large charge",
+            "large mass",
+            "high speed",
+            "no charge"
+        ],
+        "answer": 1,
+        "explanation": "Large mass causes small deflection."
+    },
+    {
+        "id": 368,
+        "question": "Gamma rays are least ionising because they:",
+        "options": [
+            "have no mass and charge",
+            "move slowly",
+            "have low energy",
+            "have large wavelength"
+        ],
+        "answer": 0,
+        "explanation": "Lack of charge reduces ionisation ability."
+    },
+    {
+        "id": 369,
+        "question": "At room temperature, a pure semiconductor behaves as a:",
+        "options": [
+            "good conductor",
+            "moderate conductor",
+            "poor conductor",
+            "perfect insulator"
+        ],
+        "answer": 2,
+        "explanation": "Limited charge carriers make it a poor conductor."
+    },
+    {
+        "id": 370,
+        "question": "The conductivity of a semiconductor increases with temperature because:",
+        "options": [
+            "resistance decreases",
+            "number of charge carriers increases",
+            "band gap increases",
+            "lattice vibrations decrease"
+        ],
+        "answer": 1,
+        "explanation": "Thermal energy generates more electron–hole pairs."
+    },
+    {
+        "id": 371,
+        "question": "The impurity added to obtain n-type semiconductor has valency:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Pentavalent impurities donate extra electrons."
+    },
+    {
+        "id": 372,
+        "question": "The depletion region of a p–n junction is formed due to:",
+        "options": [
+            "external bias",
+            "diffusion of charge carriers",
+            "drift of ions",
+            "heating"
+        ],
+        "answer": 1,
+        "explanation": "Diffusion of electrons and holes causes depletion."
+    },
+    {
+        "id": 373,
+        "question": "The barrier potential of a p–n junction is higher for:",
+        "options": [
+            "silicon than germanium",
+            "germanium than silicon",
+            "both equal",
+            "independent of material"
+        ],
+        "answer": 0,
+        "explanation": "Silicon has higher barrier potential than germanium."
+    },
+    {
+        "id": 374,
+        "question": "In forward bias, the width of depletion layer:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains unchanged",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Forward bias reduces depletion width."
+    },
+    {
+        "id": 375,
+        "question": "The reverse saturation current in a diode is typically:",
+        "options": [
+            "large",
+            "zero",
+            "small",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Reverse current is small due to minority carriers."
+    },
+    {
+        "id": 376,
+        "question": "Zener breakdown occurs at relatively low reverse voltage because of:",
+        "options": [
+            "impact ionisation",
+            "strong electric field",
+            "thermal runaway",
+            "junction heating"
+        ],
+        "answer": 1,
+        "explanation": "Strong electric field causes Zener breakdown."
+    },
+    {
+        "id": 377,
+        "question": "A transistor is used as an amplifier when it operates in:",
+        "options": [
+            "cut-off region",
+            "saturation region",
+            "active region",
+            "breakdown region"
+        ],
+        "answer": 2,
+        "explanation": "Active region allows linear amplification."
+    },
+    {
+        "id": 378,
+        "question": "The collector is made larger in size mainly to:",
+        "options": [
+            "increase current gain",
+            "reduce recombination",
+            "dissipate heat",
+            "increase voltage gain"
+        ],
+        "answer": 2,
+        "explanation": "Collector dissipates maximum heat."
+    },
+    {
+        "id": 379,
+        "question": "In CE configuration, the voltage gain is:",
+        "options": [
+            "less than 1",
+            "equal to 1",
+            "greater than 1",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier provides high voltage gain."
+    },
+    {
+        "id": 380,
+        "question": "The emitter follower has a voltage gain approximately equal to:",
+        "options": [
+            "0",
+            "1",
+            "greater than 1",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Emitter follower provides unity voltage gain."
+    },
+    {
+        "id": 381,
+        "question": "The emitter follower is mainly used for:",
+        "options": [
+            "voltage amplification",
+            "current amplification",
+            "impedance matching",
+            "power generation"
+        ],
+        "answer": 2,
+        "explanation": "It matches high input impedance to low output impedance."
+    },
+    {
+        "id": 382,
+        "question": "The logic gate whose output is 1 only when all inputs are 1 is:",
+        "options": [
+            "OR",
+            "AND",
+            "XOR",
+            "NOR"
+        ],
+        "answer": 1,
+        "explanation": "AND gate outputs 1 only for all inputs high."
+    },
+    {
+        "id": 383,
+        "question": "The logic gate whose output is 0 only when all inputs are 0 is:",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 3,
+        "explanation": "NOR gate outputs 0 when any input is 1."
+    },
+    {
+        "id": 384,
+        "question": "The logic gate used to compare two bits for equality is:",
+        "options": [
+            "XOR",
+            "XNOR",
+            "AND",
+            "OR"
+        ],
+        "answer": 1,
+        "explanation": "XNOR gate outputs 1 when inputs are equal."
+    },
+    {
+        "id": 385,
+        "question": "Binary number 1100 corresponds to decimal:",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2,
+        "explanation": "1100 = 8 + 4 = 12."
+    },
+    {
+        "id": 386,
+        "question": "The decimal number 8 is represented in binary as:",
+        "options": [
+            "100",
+            "1000",
+            "1001",
+            "111"
+        ],
+        "answer": 1,
+        "explanation": "8 in binary is 1000."
+    },
+    {
+        "id": 387,
+        "question": "The complement of binary number 0110 is:",
+        "options": [
+            "1001",
+            "0110",
+            "1110",
+            "0001"
+        ],
+        "answer": 0,
+        "explanation": "Complement changes 0 to 1 and 1 to 0."
+    },
+    {
+        "id": 388,
+        "question": "A half adder circuit consists of:",
+        "options": [
+            "AND and OR gates",
+            "XOR and AND gates",
+            "XOR and OR gates",
+            "NAND gates only"
+        ],
+        "answer": 1,
+        "explanation": "Half adder uses XOR for sum and AND for carry."
+    },
+    {
+        "id": 389,
+        "question": "A full adder can be constructed using:",
+        "options": [
+            "one half adder",
+            "two half adders and OR gate",
+            "two XOR gates only",
+            "two AND gates only"
+        ],
+        "answer": 1,
+        "explanation": "Two half adders and one OR gate form a full adder."
+    },
+    {
+        "id": 390,
+        "question": "The major advantage of integrated circuits is:",
+        "options": [
+            "large size",
+            "low reliability",
+            "high reliability",
+            "high power consumption"
+        ],
+        "answer": 2,
+        "explanation": "ICs are compact and highly reliable."
+    },
+    {
+        "id": 391,
+        "question": "Digital circuits are preferred over analog circuits because they are:",
+        "options": [
+            "continuous",
+            "more noisy",
+            "less affected by noise",
+            "slower"
+        ],
+        "answer": 2,
+        "explanation": "Digital signals have better noise immunity."
+    },
+    {
+        "id": 392,
+        "question": "The number of transistors in modern microprocessors is of the order of:",
+        "options": [
+            "hundreds",
+            "thousands",
+            "millions",
+            "billions"
+        ],
+        "answer": 3,
+        "explanation": "Modern processors contain billions of transistors."
+    },
+    {
+        "id": 393,
+        "question": "Moore’s law predicts that the number of transistors on a chip:",
+        "options": [
+            "remains constant",
+            "doubles periodically",
+            "halves periodically",
+            "increases linearly"
+        ],
+        "answer": 1,
+        "explanation": "Moore’s law states doubling approximately every two years."
+    },
+    {
+        "id": 394,
+        "question": "The logic level corresponding to binary 1 is usually represented by:",
+        "options": [
+            "low voltage",
+            "high voltage",
+            "zero voltage",
+            "negative voltage"
+        ],
+        "answer": 1,
+        "explanation": "Logic 1 corresponds to high voltage."
+    },
+    {
+        "id": 395,
+        "question": "The logic level corresponding to binary 0 is usually represented by:",
+        "options": [
+            "high voltage",
+            "low voltage",
+            "alternating voltage",
+            "random voltage"
+        ],
+        "answer": 1,
+        "explanation": "Logic 0 corresponds to low voltage."
+    },
+    {
+        "id": 396,
+        "question": "The basic unit of information storage in digital electronics is:",
+        "options": [
+            "byte",
+            "bit",
+            "word",
+            "register"
+        ],
+        "answer": 1,
+        "explanation": "Bit is the smallest unit of information."
+    },
+    {
+        "id": 397,
+        "question": "One nibble is equal to:",
+        "options": [
+            "2 bits",
+            "3 bits",
+            "4 bits",
+            "8 bits"
+        ],
+        "answer": 2,
+        "explanation": "Nibble consists of 4 bits."
+    },
+    {
+        "id": 398,
+        "question": "The binary number system is most suitable for digital electronics because it uses:",
+        "options": [
+            "many voltage levels",
+            "two stable states",
+            "continuous signals",
+            "high power"
+        ],
+        "answer": 1,
+        "explanation": "Binary system uses two stable voltage levels."
+    },
+    {
+        "id": 399,
+        "question": "The main advantage of using ICs in electronic circuits is:",
+        "options": [
+            "large size",
+            "low cost and high reliability",
+            "high power consumption",
+            "slow operation"
+        ],
+        "answer": 1,
+        "explanation": "ICs are compact, economical and reliable."
+    },
+    {
+        "id": 400,
+        "question": "Digital electronics primarily deals with signals that are:",
+        "options": [
+            "continuous",
+            "analog",
+            "discrete",
+            "sinusoidal"
+        ],
+        "answer": 2,
+        "explanation": "Digital electronics uses discrete signals."
+    }
+]
+[
+    {
+        "id": 401,
+        "question": "In photoelectric effect, the time lag between incidence of light and emission of photoelectrons is:",
+        "options": [
+            "measurable and large",
+            "measurable and small",
+            "negligible",
+            "dependent on intensity"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states photoelectric emission is instantaneous with negligible time lag."
+    },
+    {
+        "id": 402,
+        "question": "For a fixed frequency above threshold, increasing the collector potential beyond saturation causes photoelectric current to:",
+        "options": [
+            "increase linearly",
+            "decrease",
+            "remain constant",
+            "become zero"
+        ],
+        "answer": 2,
+        "explanation": "After saturation, all emitted electrons are collected, so current remains constant."
+    },
+    {
+        "id": 403,
+        "question": "The stopping potential is numerically equal to the maximum kinetic energy of photoelectrons divided by:",
+        "options": [
+            "Planck constant",
+            "electron charge",
+            "speed of light",
+            "frequency"
+        ],
+        "answer": 1,
+        "explanation": "K_max = eV_0, so stopping potential equals K_max divided by electron charge."
+    },
+    {
+        "id": 404,
+        "question": "If work function of a metal increases, its threshold frequency:",
+        "options": [
+            "decreases",
+            "remains same",
+            "increases",
+            "becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Threshold frequency ν_0 = φ/h increases with work function."
+    },
+    {
+        "id": 405,
+        "question": "The Compton effect is observed prominently for radiation in the region of:",
+        "options": [
+            "radio waves",
+            "visible light",
+            "X-rays",
+            "infrared"
+        ],
+        "answer": 2,
+        "explanation": "Compton scattering is significant for X-rays as per NCERT."
+    },
+    {
+        "id": 406,
+        "question": "In Compton scattering, conservation of which quantity explains wavelength shift?",
+        "options": [
+            "energy only",
+            "momentum only",
+            "both energy and momentum",
+            "charge"
+        ],
+        "answer": 2,
+        "explanation": "Compton effect is explained using conservation of both energy and momentum."
+    },
+    {
+        "id": 407,
+        "question": "For backscattering in Compton effect, the wavelength shift equals:",
+        "options": [
+            "h/mc",
+            "2h/mc",
+            "hc/m",
+            "h/2mc"
+        ],
+        "answer": 0,
+        "explanation": "For θ = 180°, Δλ = (h/mc)(1 − cosθ) = 2h/mc? Wait cos180 = −1, so (1 − (−1)) = 2; but NCERT defines Compton wavelength λ_C = h/mc, maximum shift = 2λ_C? Correction: Compton shift formula gives maximum = 2h/mc, but standard NCERT often states maximum shift equals 2λ_C. Hence correct option is 2h/mc.",
+        "answer": 1
+    },
+    {
+        "id": 408,
+        "question": "The de Broglie wavelength becomes half if the kinetic energy of a non-relativistic particle becomes:",
+        "options": [
+            "half",
+            "double",
+            "four times",
+            "one-fourth"
+        ],
+        "answer": 2,
+        "explanation": "λ ∝ 1/√K, so to halve λ, kinetic energy must become four times."
+    },
+    {
+        "id": 409,
+        "question": "Electron diffraction from a crystal is an example of:",
+        "options": [
+            "reflection",
+            "refraction",
+            "interference",
+            "diffraction"
+        ],
+        "answer": 3,
+        "explanation": "Davisson–Germer experiment shows diffraction of electrons."
+    },
+    {
+        "id": 410,
+        "question": "The minimum wavelength of X-rays corresponds to photons having energy equal to:",
+        "options": [
+            "average kinetic energy of electrons",
+            "maximum kinetic energy of electrons",
+            "binding energy of target atoms",
+            "thermal energy"
+        ],
+        "answer": 1,
+        "explanation": "Minimum wavelength corresponds to complete conversion of maximum electron kinetic energy into photon energy."
+    },
+    {
+        "id": 411,
+        "question": "The critical voltage for characteristic X-ray production depends on:",
+        "options": [
+            "intensity of beam",
+            "target material",
+            "filament temperature",
+            "distance between electrodes"
+        ],
+        "answer": 1,
+        "explanation": "Characteristic X-rays require a critical voltage depending on target material."
+    },
+    {
+        "id": 412,
+        "question": "According to Moseley’s law, the square root of frequency varies linearly with:",
+        "options": [
+            "atomic mass",
+            "mass number",
+            "atomic number",
+            "neutron number"
+        ],
+        "answer": 2,
+        "explanation": "Moseley established √ν ∝ Z."
+    },
+    {
+        "id": 413,
+        "question": "Nuclear radius is proportional to:",
+        "options": [
+            "A",
+            "A^(1/2)",
+            "A^(1/3)",
+            "1/A"
+        ],
+        "answer": 2,
+        "explanation": "NCERT gives R = R0 A^(1/3)."
+    },
+    {
+        "id": 414,
+        "question": "The approximate value of nuclear density is:",
+        "options": [
+            "different for different nuclei",
+            "maximum for heavy nuclei",
+            "constant for all nuclei",
+            "zero for hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Nuclear density is nearly constant for all nuclei."
+    },
+    {
+        "id": 415,
+        "question": "The strong nuclear force is effective over a range of the order of:",
+        "options": [
+            "10^-15 m",
+            "10^-10 m",
+            "10^-6 m",
+            "1 m"
+        ],
+        "answer": 0,
+        "explanation": "Nuclear force is short ranged, effective over about 10^-15 m."
+    },
+    {
+        "id": 416,
+        "question": "Binding energy per nucleon is maximum for nuclei with mass number near:",
+        "options": [
+            "4",
+            "16",
+            "56",
+            "238"
+        ],
+        "answer": 2,
+        "explanation": "Maximum binding energy per nucleon occurs near iron (A ≈ 56)."
+    },
+    {
+        "id": 417,
+        "question": "Energy release in nuclear fission is due to:",
+        "options": [
+            "decrease in mass",
+            "increase in mass",
+            "chemical bonding",
+            "gravitational energy"
+        ],
+        "answer": 0,
+        "explanation": "Mass defect is converted into energy according to E = mc^2."
+    },
+    {
+        "id": 418,
+        "question": "In a nuclear reactor, the function of coolant is to:",
+        "options": [
+            "slow down neutrons",
+            "absorb neutrons",
+            "remove heat",
+            "increase fission rate"
+        ],
+        "answer": 2,
+        "explanation": "Coolant removes heat produced during fission."
+    },
+    {
+        "id": 419,
+        "question": "The half-life of a radioactive substance is the time in which its activity becomes:",
+        "options": [
+            "one-fourth",
+            "one-half",
+            "one-third",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Activity is proportional to number of nuclei, so halves in half-life."
+    },
+    {
+        "id": 420,
+        "question": "Mean life τ of a radioactive nucleus is related to decay constant λ as:",
+        "options": [
+            "τ = λ",
+            "τ = 1/λ",
+            "τ = 0.693/λ",
+            "τ = λ/0.693"
+        ],
+        "answer": 1,
+        "explanation": "Mean life τ equals reciprocal of decay constant."
+    },
+    {
+        "id": 421,
+        "question": "In alpha decay, the atomic number of the nucleus decreases by:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "Alpha particle emission reduces atomic number by 2."
+    },
+    {
+        "id": 422,
+        "question": "In beta minus decay, the mass number of nucleus:",
+        "options": [
+            "increases by 1",
+            "decreases by 1",
+            "remains unchanged",
+            "decreases by 2"
+        ],
+        "answer": 2,
+        "explanation": "Beta decay changes atomic number but not mass number."
+    },
+    {
+        "id": 423,
+        "question": "Gamma rays differ from X-rays mainly in their:",
+        "options": [
+            "frequency",
+            "origin",
+            "speed",
+            "penetrating power"
+        ],
+        "answer": 1,
+        "explanation": "Gamma rays originate from nucleus, X-rays from atomic electrons."
+    },
+    {
+        "id": 424,
+        "question": "The SI unit of dose equivalent of radiation is:",
+        "options": [
+            "gray",
+            "becquerel",
+            "sievert",
+            "curie"
+        ],
+        "answer": 2,
+        "explanation": "Sievert accounts for biological effect of radiation."
+    },
+    {
+        "id": 425,
+        "question": "At absolute zero temperature, intrinsic semiconductor has:",
+        "options": [
+            "maximum conductivity",
+            "finite conductivity",
+            "zero conductivity",
+            "infinite conductivity"
+        ],
+        "answer": 2,
+        "explanation": "No free carriers exist at 0 K, so conductivity is zero."
+    },
+    {
+        "id": 426,
+        "question": "The band gap of germanium is approximately:",
+        "options": [
+            "0.3 eV",
+            "0.7 eV",
+            "1.1 eV",
+            "3 eV"
+        ],
+        "answer": 0,
+        "explanation": "NCERT gives band gap of Ge ≈ 0.3 eV."
+    },
+    {
+        "id": 427,
+        "question": "In an intrinsic semiconductor, the Fermi level lies:",
+        "options": [
+            "near conduction band",
+            "near valence band",
+            "midway in the band gap",
+            "outside band gap"
+        ],
+        "answer": 2,
+        "explanation": "Fermi level lies at mid-gap for intrinsic semiconductors."
+    },
+    {
+        "id": 428,
+        "question": "In n-type semiconductor, majority carriers are:",
+        "options": [
+            "holes",
+            "electrons",
+            "ions",
+            "protons"
+        ],
+        "answer": 1,
+        "explanation": "Donor impurities supply excess electrons."
+    },
+    {
+        "id": 429,
+        "question": "The depletion region of a p–n junction contains:",
+        "options": [
+            "mobile electrons",
+            "mobile holes",
+            "fixed ions",
+            "free carriers only"
+        ],
+        "answer": 2,
+        "explanation": "Depletion region is devoid of mobile carriers, containing fixed ions."
+    },
+    {
+        "id": 430,
+        "question": "The barrier potential of a silicon p–n junction at room temperature is about:",
+        "options": [
+            "0.1 V",
+            "0.3 V",
+            "0.7 V",
+            "1.5 V"
+        ],
+        "answer": 2,
+        "explanation": "For silicon, barrier potential is approximately 0.7 V."
+    },
+    {
+        "id": 431,
+        "question": "In reverse bias of a p–n junction diode, the current is mainly due to:",
+        "options": [
+            "majority carriers",
+            "minority carriers",
+            "both equally",
+            "ions"
+        ],
+        "answer": 1,
+        "explanation": "Reverse current is due to minority carriers."
+    },
+    {
+        "id": 432,
+        "question": "Zener diode is operated in the region of:",
+        "options": [
+            "forward bias",
+            "reverse bias before breakdown",
+            "reverse bias breakdown",
+            "cut-off"
+        ],
+        "answer": 2,
+        "explanation": "Zener diode works in reverse breakdown region."
+    },
+    {
+        "id": 433,
+        "question": "The Zener voltage remains nearly constant because of:",
+        "options": [
+            "increase in current",
+            "sharp breakdown characteristic",
+            "decrease in resistance",
+            "heating effect"
+        ],
+        "answer": 1,
+        "explanation": "Sharp breakdown keeps voltage nearly constant."
+    },
+    {
+        "id": 434,
+        "question": "The emitter in a transistor is heavily doped to:",
+        "options": [
+            "increase base current",
+            "increase carrier injection",
+            "reduce voltage",
+            "increase resistance"
+        ],
+        "answer": 1,
+        "explanation": "Heavy doping ensures high injection efficiency."
+    },
+    {
+        "id": 435,
+        "question": "In CE configuration, the current gain is represented by:",
+        "options": [
+            "α",
+            "β",
+            "γ",
+            "δ"
+        ],
+        "answer": 1,
+        "explanation": "β denotes current gain in CE configuration."
+    },
+    {
+        "id": 436,
+        "question": "The phase difference between input and output in CE amplifier is:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "360°"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier introduces a 180° phase reversal."
+    },
+    {
+        "id": 437,
+        "question": "Emitter follower is mainly used for:",
+        "options": [
+            "voltage gain",
+            "current gain",
+            "impedance matching",
+            "power generation"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower provides impedance matching."
+    },
+    {
+        "id": 438,
+        "question": "The logic gate whose output is 1 when inputs are different is:",
+        "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "XNOR"
+        ],
+        "answer": 2,
+        "explanation": "XOR gate outputs 1 for unequal inputs."
+    },
+    {
+        "id": 439,
+        "question": "The logic gate whose output is complement of OR is:",
+        "options": [
+            "AND",
+            "NOR",
+            "NAND",
+            "XOR"
+        ],
+        "answer": 1,
+        "explanation": "NOR is the complement of OR gate."
+    },
+    {
+        "id": 440,
+        "question": "A half adder circuit uses which gates for sum and carry respectively?",
+        "options": [
+            "AND, OR",
+            "XOR, AND",
+            "OR, XOR",
+            "NAND, NOR"
+        ],
+        "answer": 1,
+        "explanation": "Sum is obtained using XOR, carry using AND."
+    },
+    {
+        "id": 441,
+        "question": "Binary number 1011 corresponds to decimal:",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": 2,
+        "explanation": "1011 = 8 + 2 + 1 = 11."
+    },
+    {
+        "id": 442,
+        "question": "Decimal number 13 in binary is:",
+        "options": [
+            "1100",
+            "1101",
+            "1110",
+            "1011"
+        ],
+        "answer": 1,
+        "explanation": "13 in binary is 1101."
+    },
+    {
+        "id": 443,
+        "question": "The complement of binary number 1001 is:",
+        "options": [
+            "0110",
+            "1010",
+            "0101",
+            "0011"
+        ],
+        "answer": 0,
+        "explanation": "Complement flips each bit: 1001 → 0110."
+    },
+    {
+        "id": 444,
+        "question": "One nibble corresponds to:",
+        "options": [
+            "2 bits",
+            "3 bits",
+            "4 bits",
+            "8 bits"
+        ],
+        "answer": 2,
+        "explanation": "Nibble consists of 4 bits."
+    },
+    {
+        "id": 445,
+        "question": "The basic advantage of digital signals is their:",
+        "options": [
+            "continuity",
+            "high noise immunity",
+            "low speed",
+            "large bandwidth"
+        ],
+        "answer": 1,
+        "explanation": "Digital signals are less affected by noise."
+    },
+    {
+        "id": 446,
+        "question": "Integrated circuits are preferred because they have:",
+        "options": [
+            "large size",
+            "high power consumption",
+            "high reliability",
+            "low packing density"
+        ],
+        "answer": 2,
+        "explanation": "ICs are compact and highly reliable."
+    },
+    {
+        "id": 447,
+        "question": "Moore’s law relates to:",
+        "options": [
+            "nuclear stability",
+            "radioactive decay",
+            "transistor density on chips",
+            "speed of light"
+        ],
+        "answer": 2,
+        "explanation": "Moore’s law predicts doubling of transistor count periodically."
+    },
+    {
+        "id": 448,
+        "question": "Digital electronics mainly deals with signals that are:",
+        "options": [
+            "continuous",
+            "analog",
+            "discrete",
+            "sinusoidal"
+        ],
+        "answer": 2,
+        "explanation": "Digital systems use discrete signals."
+    },
+    {
+        "id": 449,
+        "question": "The smallest unit of digital information is:",
+        "options": [
+            "byte",
+            "bit",
+            "nibble",
+            "word"
+        ],
+        "answer": 1,
+        "explanation": "Bit is the basic unit of information."
+    },
+    {
+        "id": 450,
+        "question": "The logic levels 0 and 1 in digital circuits represent:",
+        "options": [
+            "two arbitrary voltages",
+            "two stable voltage levels",
+            "AC signals",
+            "random signals"
+        ],
+        "answer": 1,
+        "explanation": "Binary logic uses two stable voltage levels."
+    }
+]
+[
+    {
+        "id": 451,
+        "question": "In photoelectric effect, the saturation current is a measure of:",
+        "options": [
+            "maximum kinetic energy of photoelectrons",
+            "work function of metal",
+            "number of photoelectrons emitted per second",
+            "threshold frequency"
+        ],
+        "answer": 2,
+        "explanation": "Saturation current depends on the number of emitted photoelectrons per second."
+    },
+    {
+        "id": 452,
+        "question": "For a given metal, the stopping potential becomes zero when the frequency of incident radiation equals:",
+        "options": [
+            "maximum frequency",
+            "threshold frequency",
+            "resonant frequency",
+            "cut-off frequency of source"
+        ],
+        "answer": 1,
+        "explanation": "At threshold frequency, emitted photoelectrons have zero kinetic energy."
+    },
+    {
+        "id": 453,
+        "question": "The photoelectric effect supports the quantum theory of radiation because:",
+        "options": [
+            "energy depends on intensity",
+            "emission is delayed",
+            "energy is absorbed in discrete packets",
+            "light travels in straight lines"
+        ],
+        "answer": 2,
+        "explanation": "Energy transfer occurs in discrete quanta of photons."
+    },
+    {
+        "id": 454,
+        "question": "The Compton effect cannot be explained by classical wave theory because it involves:",
+        "options": [
+            "interference",
+            "diffraction",
+            "energy and momentum transfer in collision",
+            "polarisation"
+        ],
+        "answer": 2,
+        "explanation": "Classical theory cannot explain photon-electron collision conserving momentum."
+    },
+    {
+        "id": 455,
+        "question": "The maximum Compton wavelength shift is numerically equal to:",
+        "options": [
+            "h/mc",
+            "2h/mc",
+            "hc/m",
+            "h/2mc"
+        ],
+        "answer": 1,
+        "explanation": "For backscattering, maximum shift equals 2h/mc."
+    },
+    {
+        "id": 456,
+        "question": "The de Broglie wavelength of a particle becomes one-fourth if its momentum becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "one-fourth"
+        ],
+        "answer": 1,
+        "explanation": "Since λ = h/p, quadrupling momentum makes wavelength one-fourth."
+    },
+    {
+        "id": 457,
+        "question": "Electron diffraction is more prominent when electrons have:",
+        "options": [
+            "high kinetic energy",
+            "low kinetic energy",
+            "wavelength comparable to crystal spacing",
+            "zero velocity"
+        ],
+        "answer": 2,
+        "explanation": "Diffraction occurs when wavelength is comparable to interatomic spacing."
+    },
+    {
+        "id": 458,
+        "question": "The Duane–Hunt law relates the minimum wavelength of X-rays to:",
+        "options": [
+            "atomic number of target",
+            "temperature of filament",
+            "accelerating voltage",
+            "intensity of electron beam"
+        ],
+        "answer": 2,
+        "explanation": "λ_min = hc/eV depends only on accelerating voltage."
+    },
+    {
+        "id": 459,
+        "question": "Characteristic X-rays are emitted when:",
+        "options": [
+            "electrons are decelerated",
+            "inner shell electrons are ejected",
+            "target is heated strongly",
+            "outer shell electrons are excited only"
+        ],
+        "answer": 1,
+        "explanation": "Vacancies in inner shells lead to characteristic X-ray emission."
+    },
+    {
+        "id": 460,
+        "question": "Moseley’s law corrected the periodic table by establishing the importance of:",
+        "options": [
+            "atomic mass",
+            "atomic radius",
+            "atomic number",
+            "valency"
+        ],
+        "answer": 2,
+        "explanation": "Moseley showed atomic number determines X-ray frequencies."
+    },
+    {
+        "id": 461,
+        "question": "The nuclear force is attractive because it:",
+        "options": [
+            "overcomes electrostatic repulsion",
+            "increases atomic number",
+            "reduces mass number",
+            "causes radioactivity"
+        ],
+        "answer": 0,
+        "explanation": "Strong nuclear force binds protons and neutrons against repulsion."
+    },
+    {
+        "id": 462,
+        "question": "The short range of nuclear force explains why:",
+        "options": [
+            "nuclear density varies",
+            "only nearest neighbours interact",
+            "nuclei are unstable",
+            "fusion is impossible"
+        ],
+        "answer": 1,
+        "explanation": "Nuclear force acts only over distances of order 10^-15 m."
+    },
+    {
+        "id": 463,
+        "question": "The binding energy per nucleon curve shows that heavy nuclei are:",
+        "options": [
+            "more stable",
+            "less stable",
+            "equally stable",
+            "non-radioactive"
+        ],
+        "answer": 1,
+        "explanation": "Heavy nuclei have lower binding energy per nucleon."
+    },
+    {
+        "id": 464,
+        "question": "In nuclear fusion, energy is released because the final nucleus has:",
+        "options": [
+            "less binding energy per nucleon",
+            "greater binding energy per nucleon",
+            "greater mass",
+            "lower atomic number"
+        ],
+        "answer": 1,
+        "explanation": "Fusion products have higher binding energy per nucleon."
+    },
+    {
+        "id": 465,
+        "question": "The primary fuel used in a nuclear reactor is:",
+        "options": [
+            "U-235",
+            "U-238",
+            "Pu-240",
+            "Th-232"
+        ],
+        "answer": 0,
+        "explanation": "U-235 is commonly used as reactor fuel."
+    },
+    {
+        "id": 466,
+        "question": "The function of control rods in a nuclear reactor is to:",
+        "options": [
+            "slow neutrons",
+            "absorb neutrons",
+            "produce neutrons",
+            "remove heat"
+        ],
+        "answer": 1,
+        "explanation": "Control rods absorb excess neutrons to regulate reaction."
+    },
+    {
+        "id": 467,
+        "question": "The activity of a radioactive substance is defined as:",
+        "options": [
+            "energy released per second",
+            "number of nuclei present",
+            "number of disintegrations per second",
+            "time for half decay"
+        ],
+        "answer": 2,
+        "explanation": "Activity equals rate of nuclear disintegrations."
+    },
+    {
+        "id": 468,
+        "question": "The half-life of a radioactive sample is independent of:",
+        "options": [
+            "temperature",
+            "pressure",
+            "chemical state",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "Half-life depends only on the nature of nucleus."
+    },
+    {
+        "id": 469,
+        "question": "In alpha decay, the parent nucleus changes into a nucleus with:",
+        "options": [
+            "same atomic number",
+            "atomic number decreased by 2",
+            "atomic number increased by 1",
+            "mass number unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Alpha emission reduces atomic number by 2."
+    },
+    {
+        "id": 470,
+        "question": "Beta minus decay results in the emission of:",
+        "options": [
+            "positron",
+            "electron",
+            "proton",
+            "neutron"
+        ],
+        "answer": 1,
+        "explanation": "β− decay emits an electron."
+    },
+    {
+        "id": 471,
+        "question": "Gamma radiation consists of:",
+        "options": [
+            "high speed electrons",
+            "helium nuclei",
+            "high energy photons",
+            "neutrons"
+        ],
+        "answer": 2,
+        "explanation": "Gamma rays are high energy electromagnetic photons."
+    },
+    {
+        "id": 472,
+        "question": "The penetrating power of radiation increases in the order:",
+        "options": [
+            "gamma < beta < alpha",
+            "alpha < beta < gamma",
+            "beta < alpha < gamma",
+            "alpha < gamma < beta"
+        ],
+        "answer": 1,
+        "explanation": "Penetrating power: alpha < beta < gamma."
+    },
+    {
+        "id": 473,
+        "question": "The ionising power of radiation is maximum for:",
+        "options": [
+            "alpha rays",
+            "beta rays",
+            "gamma rays",
+            "X-rays"
+        ],
+        "answer": 0,
+        "explanation": "Alpha particles cause maximum ionisation."
+    },
+    {
+        "id": 474,
+        "question": "An intrinsic semiconductor at room temperature has:",
+        "options": [
+            "no free carriers",
+            "only electrons",
+            "only holes",
+            "equal electrons and holes"
+        ],
+        "answer": 3,
+        "explanation": "Electron and hole concentrations are equal."
+    },
+    {
+        "id": 475,
+        "question": "The conductivity of a semiconductor increases with temperature because:",
+        "options": [
+            "resistance increases",
+            "band gap increases",
+            "charge carriers increase",
+            "lattice vibrations decrease"
+        ],
+        "answer": 2,
+        "explanation": "Thermal energy generates more electron-hole pairs."
+    },
+    {
+        "id": 476,
+        "question": "Doping silicon with boron produces a:",
+        "options": [
+            "n-type semiconductor",
+            "p-type semiconductor",
+            "conductor",
+            "insulator"
+        ],
+        "answer": 1,
+        "explanation": "Boron is trivalent and produces p-type semiconductor."
+    },
+    {
+        "id": 477,
+        "question": "In an n-type semiconductor, the minority carriers are:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "protons"
+        ],
+        "answer": 1,
+        "explanation": "Holes are minority carriers in n-type semiconductor."
+    },
+    {
+        "id": 478,
+        "question": "The depletion region of a p–n junction is formed due to:",
+        "options": [
+            "drift of carriers",
+            "diffusion of carriers",
+            "external bias",
+            "heating"
+        ],
+        "answer": 1,
+        "explanation": "Diffusion of charge carriers leads to depletion region."
+    },
+    {
+        "id": 479,
+        "question": "The barrier potential of a p–n junction is higher for:",
+        "options": [
+            "germanium",
+            "silicon",
+            "both same",
+            "independent of material"
+        ],
+        "answer": 1,
+        "explanation": "Silicon has higher barrier potential than germanium."
+    },
+    {
+        "id": 480,
+        "question": "In forward bias, the potential barrier of a p–n junction:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains constant",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Forward bias reduces the potential barrier."
+    },
+    {
+        "id": 481,
+        "question": "The reverse saturation current in a diode is mainly due to:",
+        "options": [
+            "majority carriers",
+            "minority carriers",
+            "ions",
+            "holes only"
+        ],
+        "answer": 1,
+        "explanation": "Minority carriers contribute to reverse current."
+    },
+    {
+        "id": 482,
+        "question": "Zener diode is used as a voltage regulator because it has:",
+        "options": [
+            "low resistance",
+            "sharp breakdown voltage",
+            "high current gain",
+            "low power loss"
+        ],
+        "answer": 1,
+        "explanation": "Sharp breakdown maintains constant voltage."
+    },
+    {
+        "id": 483,
+        "question": "In a transistor, the base is kept thin to:",
+        "options": [
+            "increase voltage gain",
+            "reduce recombination",
+            "increase current",
+            "increase resistance"
+        ],
+        "answer": 1,
+        "explanation": "Thin base reduces recombination of carriers."
+    },
+    {
+        "id": 484,
+        "question": "The collector region of a transistor is moderately doped to:",
+        "options": [
+            "increase carrier injection",
+            "reduce heat dissipation",
+            "collect carriers efficiently",
+            "increase base current"
+        ],
+        "answer": 2,
+        "explanation": "Collector collects carriers and dissipates heat."
+    },
+    {
+        "id": 485,
+        "question": "The CE configuration of a transistor provides:",
+        "options": [
+            "high current gain only",
+            "high voltage gain only",
+            "high power gain",
+            "unity gain"
+        ],
+        "answer": 2,
+        "explanation": "CE configuration offers high power gain."
+    },
+    {
+        "id": 486,
+        "question": "The phase difference between input and output in CE amplifier is:",
+        "options": [
+            "0°",
+            "90°",
+            "180°",
+            "360°"
+        ],
+        "answer": 2,
+        "explanation": "CE amplifier introduces a 180° phase shift."
+    },
+    {
+        "id": 487,
+        "question": "Emitter follower is preferred when the requirement is:",
+        "options": [
+            "high voltage gain",
+            "high current gain",
+            "impedance matching",
+            "signal inversion"
+        ],
+        "answer": 2,
+        "explanation": "Emitter follower matches high input to low output impedance."
+    },
+    {
+        "id": 488,
+        "question": "The logic gate which produces output 0 only when both inputs are 1 is:",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 2,
+        "explanation": "NAND gate outputs 0 only for inputs 1,1."
+    },
+    {
+        "id": 489,
+        "question": "The logic gate which produces output 1 only when both inputs are 0 is:",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "NOR"
+        ],
+        "answer": 3,
+        "explanation": "NOR gate outputs 1 only when both inputs are 0."
+    },
+    {
+        "id": 490,
+        "question": "The sum output of a half adder is obtained using:",
+        "options": [
+            "AND gate",
+            "OR gate",
+            "XOR gate",
+            "NOR gate"
+        ],
+        "answer": 2,
+        "explanation": "XOR gate produces the sum output."
+    },
+    {
+        "id": 491,
+        "question": "The carry output of a half adder is obtained using:",
+        "options": [
+            "AND gate",
+            "OR gate",
+            "XOR gate",
+            "NOR gate"
+        ],
+        "answer": 0,
+        "explanation": "AND gate produces the carry output."
+    },
+    {
+        "id": 492,
+        "question": "Binary number 1110 corresponds to decimal:",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": 2,
+        "explanation": "1110 = 8 + 4 + 2 = 14."
+    },
+    {
+        "id": 493,
+        "question": "Decimal number 15 is represented in binary as:",
+        "options": [
+            "1110",
+            "1111",
+            "1000",
+            "1101"
+        ],
+        "answer": 1,
+        "explanation": "15 in binary is 1111."
+    },
+    {
+        "id": 494,
+        "question": "One byte is equal to:",
+        "options": [
+            "2 bits",
+            "4 bits",
+            "8 bits",
+            "16 bits"
+        ],
+        "answer": 2,
+        "explanation": "One byte consists of 8 bits."
+    },
+    {
+        "id": 495,
+        "question": "The basic advantage of digital electronics is:",
+        "options": [
+            "continuous signals",
+            "high noise immunity",
+            "high power consumption",
+            "low reliability"
+        ],
+        "answer": 1,
+        "explanation": "Digital systems are less affected by noise."
+    },
+    {
+        "id": 496,
+        "question": "Integrated circuits are preferred because they have:",
+        "options": [
+            "large size",
+            "low speed",
+            "high reliability",
+            "high power consumption"
+        ],
+        "answer": 2,
+        "explanation": "ICs are compact and highly reliable."
+    },
+    {
+        "id": 497,
+        "question": "Moore’s law states that the number of transistors on a chip:",
+        "options": [
+            "remains constant",
+            "doubles periodically",
+            "halves periodically",
+            "increases randomly"
+        ],
+        "answer": 1,
+        "explanation": "Moore’s law predicts periodic doubling of transistor count."
+    },
+    {
+        "id": 498,
+        "question": "Digital electronics mainly deals with signals that are:",
+        "options": [
+            "analog",
+            "continuous",
+            "discrete",
+            "sinusoidal"
+        ],
+        "answer": 2,
+        "explanation": "Digital signals have discrete levels."
+    },
+    {
+        "id": 499,
+        "question": "The smallest unit of digital information is:",
+        "options": [
+            "byte",
+            "bit",
+            "nibble",
+            "word"
+        ],
+        "answer": 1,
+        "explanation": "Bit is the smallest unit of information."
+    },
+    {
+        "id": 500,
+        "question": "The two logic levels used in digital circuits correspond to:",
+        "options": [
+            "two current levels",
+            "two stable voltage levels",
+            "AC and DC levels",
+            "random voltages"
+        ],
+        "answer": 1,
+        "explanation": "Binary logic uses two stable voltage levels."
+    }
+]

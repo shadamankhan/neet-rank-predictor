@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "The de Broglie wavelength of a particle increases when its:",
+        "options": [
+            "Velocity increases",
+            "Mass increases",
+            "Momentum decreases",
+            "Kinetic energy increases"
+        ],
+        "answer": 2,
+        "explanation": "λ = h/p, so wavelength increases when momentum decreases."
+    },
+    {
+        "id": 2,
+        "question": "For a zero order reaction, the half-life is proportional to:",
+        "options": [
+            "Initial concentration",
+            "Inverse of initial concentration",
+            "Rate constant only",
+            "Square of concentration"
+        ],
+        "answer": 0,
+        "explanation": "For zero order reaction, t1/2 = [A]0 / (2k), so it is proportional to initial concentration."
+    },
+    {
+        "id": 3,
+        "question": "The maximum number of electrons that can have n = 5 is:",
+        "options": [
+            "25",
+            "50",
+            "10",
+            "32"
+        ],
+        "answer": 1,
+        "explanation": "Maximum electrons = 2n^2 = 2×25 = 50."
+    },
+    {
+        "id": 4,
+        "question": "The pH of a 1×10−4 M HCl solution is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2,
+        "explanation": "For strong acid, [H+] = 10−4 M, so pH = 4."
+    },
+    {
+        "id": 5,
+        "question": "Which colligative property is used to determine molar mass of proteins?",
+        "options": [
+            "Elevation of boiling point",
+            "Depression of freezing point",
+            "Osmotic pressure",
+            "Relative lowering of vapour pressure"
+        ],
+        "answer": 2,
+        "explanation": "Osmotic pressure is suitable for very high molar mass substances."
+    },
+    {
+        "id": 6,
+        "question": "The correct order of increasing electronegativity is:",
+        "options": [
+            "Si < P < S < Cl",
+            "Cl < S < P < Si",
+            "P < Si < S < Cl",
+            "Si < S < P < Cl"
+        ],
+        "answer": 0,
+        "explanation": "Electronegativity increases across the period."
+    },
+    {
+        "id": 7,
+        "question": "The hybridization of central atom in XeF6 is:",
+        "options": [
+            "sp3d",
+            "sp3d2",
+            "sp3d3",
+            "d2sp3"
+        ],
+        "answer": 2,
+        "explanation": "XeF6 has 6 bond pairs and 1 lone pair, requiring sp3d3 hybridization."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following complexes is paramagnetic?",
+        "options": [
+            "[Ni(CN)4]2−",
+            "[Zn(NH3)4]2+",
+            "[Fe(H2O)6]3+",
+            "[Pt(NH3)2Cl2]"
+        ],
+        "answer": 2,
+        "explanation": "Fe3+ with weak field ligands has unpaired electrons."
+    },
+    {
+        "id": 9,
+        "question": "The unit of entropy is:",
+        "options": [
+            "J",
+            "J mol−1",
+            "J K−1",
+            "J mol−1 K−1"
+        ],
+        "answer": 3,
+        "explanation": "Entropy is expressed as J mol−1 K−1."
+    },
+    {
+        "id": 10,
+        "question": "Which reagent selectively oxidizes primary alcohol to aldehyde?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "PCC",
+            "HNO3"
+        ],
+        "answer": 2,
+        "explanation": "PCC is a mild oxidizing agent that stops at aldehyde stage."
+    },
+    {
+        "id": 11,
+        "question": "The total number of sigma bonds in ethane is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 1,
+        "explanation": "Ethane has one C-C and six C-H sigma bonds, total 7."
+    },
+    {
+        "id": 12,
+        "question": "Which compound has maximum covalent character?",
+        "options": [
+            "NaCl",
+            "MgCl2",
+            "AlCl3",
+            "KCl"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has high polarizing power leading to covalent character."
+    },
+    {
+        "id": 13,
+        "question": "The oxidation state of manganese in KMnO4 is:",
+        "options": [
+            "+5",
+            "+6",
+            "+7",
+            "+4"
+        ],
+        "answer": 2,
+        "explanation": "Mn shows +7 oxidation state in permanganate."
+    },
+    {
+        "id": 14,
+        "question": "The bond angle in NH4+ ion is:",
+        "options": [
+            "104.5°",
+            "107°",
+            "109.5°",
+            "120°"
+        ],
+        "answer": 2,
+        "explanation": "NH4+ has tetrahedral geometry with 109.5° bond angle."
+    },
+    {
+        "id": 15,
+        "question": "Which gas shows minimum deviation from ideal behavior?",
+        "options": [
+            "NH3",
+            "CO2",
+            "H2",
+            "SO2"
+        ],
+        "answer": 2,
+        "explanation": "H2 has negligible intermolecular attractions."
+    },
+    {
+        "id": 16,
+        "question": "The molarity of a solution containing 4 g NaOH in 500 mL solution is:",
+        "options": [
+            "0.1 M",
+            "0.2 M",
+            "0.4 M",
+            "0.5 M"
+        ],
+        "answer": 1,
+        "explanation": "Moles = 4/40 = 0.1; M = 0.1/0.5 = 0.2 M."
+    },
+    {
+        "id": 17,
+        "question": "Which amine is least basic in aqueous solution?",
+        "options": [
+            "NH3",
+            "CH3NH2",
+            "(CH3)2NH",
+            "(CH3)3N"
+        ],
+        "answer": 3,
+        "explanation": "Tertiary amines are poorly solvated in water."
+    },
+    {
+        "id": 18,
+        "question": "The coordination number of Ni in [Ni(CO)4] is:",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": 1,
+        "explanation": "Four CO ligands coordinate to Ni."
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is an intensive property?",
+        "options": [
+            "Mass",
+            "Volume",
+            "Entropy",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Temperature is independent of amount of substance."
+    },
+    {
+        "id": 20,
+        "question": "The rate constant of a reaction depends on:",
+        "options": [
+            "Initial concentration",
+            "Time",
+            "Temperature",
+            "Pressure only"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant is temperature dependent."
+    },
+    {
+        "id": 21,
+        "question": "Which compound is used as an antacid?",
+        "options": [
+            "NaCl",
+            "Mg(OH)2",
+            "NH4Cl",
+            "HCl"
+        ],
+        "answer": 1,
+        "explanation": "Magnesium hydroxide neutralizes excess stomach acid."
+    },
+    {
+        "id": 22,
+        "question": "The total number of valence electrons in SO4^2− ion is:",
+        "options": [
+            "24",
+            "30",
+            "32",
+            "34"
+        ],
+        "answer": 2,
+        "explanation": "S = 6, O4 = 24, charge = 2, total = 32."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following is the strongest oxidizing agent?",
+        "options": [
+            "Cl2",
+            "KMnO4",
+            "O3",
+            "F2"
+        ],
+        "answer": 3,
+        "explanation": "Fluorine has the highest standard reduction potential."
+    },
+    {
+        "id": 24,
+        "question": "The time required for 75% completion of a first order reaction is:",
+        "options": [
+            "t1/2",
+            "2t1/2",
+            "3t1/2",
+            "4t1/2"
+        ],
+        "answer": 1,
+        "explanation": "75% completion corresponds to two half-lives."
+    },
+    {
+        "id": 25,
+        "question": "Which of the following is an example of heterogeneous catalysis?",
+        "options": [
+            "H+ in ester hydrolysis",
+            "Ni in hydrogenation",
+            "I− in H2O2 decomposition",
+            "NO in SO2 oxidation"
+        ],
+        "answer": 1,
+        "explanation": "Nickel is solid while reactants are gaseous."
+    },
+    {
+        "id": 26,
+        "question": "The correct increasing order of bond length is:",
+        "options": [
+            "C≡C < C=C < C-C",
+            "C-C < C=C < C≡C",
+            "C=C < C≡C < C-C",
+            "C≡C < C-C < C=C"
+        ],
+        "answer": 0,
+        "explanation": "Bond length decreases with increasing bond order."
+    },
+    {
+        "id": 27,
+        "question": "Which molecule has zero dipole moment?",
+        "options": [
+            "NH3",
+            "H2O",
+            "CO2",
+            "SO2"
+        ],
+        "answer": 2,
+        "explanation": "CO2 is linear and symmetrical."
+    },
+    {
+        "id": 28,
+        "question": "A buffer solution is most effective when:",
+        "options": [
+            "pH = 7",
+            "pH = pKa",
+            "Only salt is present",
+            "Only acid is present"
+        ],
+        "answer": 1,
+        "explanation": "Maximum buffering capacity occurs at pH = pKa."
+    },
+    {
+        "id": 29,
+        "question": "Which of the following is a non-electrolyte?",
+        "options": [
+            "NaCl",
+            "KOH",
+            "HCl",
+            "Glucose"
+        ],
+        "answer": 3,
+        "explanation": "Glucose does not ionize in water."
+    },
+    {
+        "id": 30,
+        "question": "The IUPAC name of CH3-CH2-OH is:",
+        "options": [
+            "Methanol",
+            "Ethanol",
+            "Propanol",
+            "Ethanal"
+        ],
+        "answer": 1,
+        "explanation": "CH3CH2OH is ethanol."
+    },
+    {
+        "id": 31,
+        "question": "Which halogen has maximum bond dissociation energy?",
+        "options": [
+            "F2",
+            "Cl2",
+            "Br2",
+            "I2"
+        ],
+        "answer": 1,
+        "explanation": "Cl-Cl bond has the highest bond dissociation energy."
+    },
+    {
+        "id": 32,
+        "question": "The geometry of BrF3 is:",
+        "options": [
+            "Trigonal planar",
+            "T-shaped",
+            "Linear",
+            "Tetrahedral"
+        ],
+        "answer": 1,
+        "explanation": "BrF3 has three bond pairs and two lone pairs giving T-shape."
+    },
+    {
+        "id": 33,
+        "question": "Which of the following is a state function?",
+        "options": [
+            "Work",
+            "Heat",
+            "Entropy",
+            "Path"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 34,
+        "question": "The number of π bonds in ethene is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "Ethene contains one π bond."
+    },
+    {
+        "id": 35,
+        "question": "Which compound shows geometrical isomerism?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "But-2-ene",
+            "Methane"
+        ],
+        "answer": 2,
+        "explanation": "But-2-ene shows cis-trans isomerism."
+    },
+    {
+        "id": 36,
+        "question": "The SI unit of molar conductivity is:",
+        "options": [
+            "S m−1",
+            "S m2 mol−1",
+            "Ω m",
+            "Ω−1 m"
+        ],
+        "answer": 1,
+        "explanation": "Molar conductivity is expressed as S m2 mol−1."
+    },
+    {
+        "id": 37,
+        "question": "Which metal is extracted by electrolytic reduction?",
+        "options": [
+            "Fe",
+            "Cu",
+            "Al",
+            "Zn"
+        ],
+        "answer": 2,
+        "explanation": "Aluminium is extracted by electrolysis."
+    },
+    {
+        "id": 38,
+        "question": "The rate law for a first order reaction is:",
+        "options": [
+            "Rate = k",
+            "Rate = k[A]",
+            "Rate = k[A]^2",
+            "Rate = k/[A]"
+        ],
+        "answer": 1,
+        "explanation": "Rate is directly proportional to concentration."
+    },
+    {
+        "id": 39,
+        "question": "Which acid is weakest in aqueous solution?",
+        "options": [
+            "HF",
+            "HCl",
+            "HBr",
+            "HI"
+        ],
+        "answer": 0,
+        "explanation": "HF is weakest due to strong H-F bond."
+    },
+    {
+        "id": 40,
+        "question": "The oxidation state of carbon in CH4 is:",
+        "options": [
+            "−4",
+            "+4",
+            "0",
+            "+2"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogen is +1, so carbon is −4."
+    },
+    {
+        "id": 41,
+        "question": "Which compound gives positive Tollens test?",
+        "options": [
+            "Acetone",
+            "Formaldehyde",
+            "Benzophenone",
+            "Acetic acid"
+        ],
+        "answer": 1,
+        "explanation": "Aldehydes give Tollens test."
+    },
+    {
+        "id": 42,
+        "question": "The standard enthalpy of formation of P4(s) is:",
+        "options": [
+            "0",
+            "+30 kJ mol−1",
+            "−30 kJ mol−1",
+            "−393 kJ mol−1"
+        ],
+        "answer": 0,
+        "explanation": "Elements in their standard state have zero enthalpy of formation."
+    },
+    {
+        "id": 43,
+        "question": "Which ion has maximum hydration enthalpy?",
+        "options": [
+            "Li+",
+            "Na+",
+            "K+",
+            "Cs+"
+        ],
+        "answer": 0,
+        "explanation": "Smaller ionic radius results in higher hydration enthalpy."
+    },
+    {
+        "id": 44,
+        "question": "The reagent used to convert alcohol into alkene is:",
+        "options": [
+            "NaBH4",
+            "PCC",
+            "Conc. H2SO4",
+            "KMnO4"
+        ],
+        "answer": 2,
+        "explanation": "Concentrated sulfuric acid causes dehydration."
+    },
+    {
+        "id": 45,
+        "question": "Which ion is diamagnetic?",
+        "options": [
+            "Fe3+",
+            "Mn2+",
+            "Zn2+",
+            "Cu2+"
+        ],
+        "answer": 2,
+        "explanation": "Zn2+ has completely filled d orbitals."
+    },
+    {
+        "id": 46,
+        "question": "The correct order of thermal stability of carbonates is:",
+        "options": [
+            "Li2CO3 < Na2CO3 < K2CO3",
+            "K2CO3 < Na2CO3 < Li2CO3",
+            "Na2CO3 < K2CO3 < Li2CO3",
+            "Li2CO3 < K2CO3 < Na2CO3"
+        ],
+        "answer": 0,
+        "explanation": "Thermal stability increases down the group."
+    },
+    {
+        "id": 47,
+        "question": "Which ligand is bidentate?",
+        "options": [
+            "NH3",
+            "H2O",
+            "en",
+            "Cl−"
+        ],
+        "answer": 2,
+        "explanation": "Ethylenediamine donates two lone pairs."
+    },
+    {
+        "id": 48,
+        "question": "The value of gas constant R in L atm mol−1 K−1 is:",
+        "options": [
+            "8.314",
+            "1.987",
+            "0.0821",
+            "2.303"
+        ],
+        "answer": 2,
+        "explanation": "R = 0.0821 L atm mol−1 K−1."
+    },
+    {
+        "id": 49,
+        "question": "Which acid is strongest in aqueous solution?",
+        "options": [
+            "HNO3",
+            "H2SO4",
+            "HClO4",
+            "CH3COOH"
+        ],
+        "answer": 2,
+        "explanation": "Perchloric acid is the strongest."
+    },
+    {
+        "id": 50,
+        "question": "The enthalpy change for an exothermic reaction is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on catalyst"
+        ],
+        "answer": 1,
+        "explanation": "Exothermic reactions release heat, so ΔH is negative."
+    }
+]

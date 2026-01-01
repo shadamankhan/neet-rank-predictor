@@ -1,0 +1,32 @@
+// backend/src/index.js
+const express = require('express');
+const bodyParser = require('body-parser');
+const path = require('path');
+const cors = require('cors');
+const adminRoutes = require('./routes/admin');
+const predictRoutes = require('./routes/predict');
+const { loadAllDistributionsOnStartup, startWatcher } = require('./predictCache');
+
+const app = express();
+app.use(cors({ origin: 'http://localhost:5173' }));
+app.use(bodyParser.json({ limit: '1mb' }));
+app.use(bodyParser.urlencoded({ extended: true }));
+
+// Routes
+app.use('/admin', adminRoutes);
+app.use('/api/predict', predictRoutes);
+
+// health
+app.get('/_health', (req, res) => res.json({ ok: true, time: new Date().toISOString() }));
+
+// serve data directory for debugging (OPTIONAL, disable in prod)
+// app.use('/data', express.static(path.join(__dirname, '..', 'data')));
+
+const PORT = process.env.PORT || 5000;
+(async () => {
+  await loadAllDistributionsOnStartup();
+  try { startWatcher(); } catch(e) { /* watcher optional */ }
+  app.listen(PORT, () => {
+    console.log(`Server listening on ${PORT}`);
+  });
+})();

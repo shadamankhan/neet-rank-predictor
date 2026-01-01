@@ -1,9 +1,9 @@
-// src/firebase.js
+﻿// src/firebase.js
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// 👇 Replace with your Firebase config
+// ðŸ‘‡ Replace with your Firebase config
 const firebaseConfig = {
   apiKey: "AIzaSyBIzvz7gPV5rxsIaV-m-NpEkhMN3f1yvv8",
   authDomain: "neet-rank-predictor-2b483.firebaseapp.com",
@@ -16,3 +16,4 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
 export const db = getFirestore(app);
+

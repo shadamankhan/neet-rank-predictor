@@ -1,0 +1,171 @@
+﻿// frontend/src/components/AdminPanel.jsx
+import React, { useEffect, useState } from "react";
+import { getAuth, onAuthStateChanged } from "firebase/auth";
+import AdminExportButton from "./AdminExportButton";
+
+/**
+ * AdminPanel with debug helpers.
+ * - Shows user claims
+ * - Download Predictions CSV (normal)
+ * - Debug Export: Logs ID token, makes request to /api/admin/export and prints response details
+ *
+ * Replace your existing AdminPanel.jsx with this file while debugging.
+ * Remove debug button before production.
+ */
+
+export default function AdminPanel() {
+  const [user, setUser] = useState(null);
+  const [isAdminClaim, setIsAdminClaim] = useState(false);
+  const [loadingAuth, setLoadingAuth] = useState(true);
+  const [debugOutput, setDebugOutput] = useState(""); // visible debug log for quick reads
+  const [runningDebug, setRunningDebug] = useState(false);
+
+  useEffect(() => {
+    const auth = getAuth();
+    const unsub = onAuthStateChanged(auth, async (u) => {
+      setLoadingAuth(false);
+      if (!u) {
+        setUser(null);
+        setIsAdminClaim(false);
+        return;
+      }
+      setUser({
+        uid: u.uid,
+        displayName: u.displayName,
+        email: u.email
+      });
+
+      try {
+        const idTokenResult = await u.getIdTokenResult(/* forceRefresh */ false);
+        const claims = idTokenResult.claims || {};
+        setIsAdminClaim(Boolean(claims.isAdmin));
+        console.log("idTokenResult.claims ->", claims);
+      } catch (err) {
+        console.warn("Failed to read token claims", err);
+        setIsAdminClaim(false);
+      }
+    });
+    return () => unsub();
+  }, []);
+
+  // Debug helper: logs token details and fetch response; writes to console and to small UI area
+  const runDebugExport = async () => {
+    setDebugOutput("");
+    setRunningDebug(true);
+    try {
+      const auth = getAuth();
+      const u = auth.currentUser;
+      if (!u) {
+        console.error("Not signed in");
+        setDebugOutput((s) => s + "Not signed in\n");
+        setRunningDebug(false);
+        return;
+      }
+
+      // Force-refresh token so claims are fresh
+      const idToken = await u.getIdToken(true);
+      console.log("DEBUG: ID token (first 80 chars):", idToken.slice(0, 80));
+      setDebugOutput((s) => s + `ID token (prefix): ${idToken.slice(0,80)}...\n`);
+
+      // Make the fetch to /api/admin/export
+      const url = "/api/admin/export";
+      setDebugOutput((s) => s + `Requesting ${url}\n`);
+      const resp = await fetch(url, {
+        method: "GET",
+        headers: {
+          Authorization: `Bearer ${idToken}`
+        }
+      });
+
+      setDebugOutput((s) => s + `Response status: ${resp.status} ${resp.statusText}\n`);
+      console.log("DEBUG: response status", resp.status, resp.statusText);
+
+      const ct = resp.headers.get("content-type") || "";
+      setDebugOutput((s) => s + `Content-Type: ${ct}\n`);
+      console.log("DEBUG: content-type", ct);
+
+      // If JSON, parse as json; otherwise print the first chunk of text
+      try {
+        const j = await resp.json();
+        console.log("DEBUG: response JSON:", j);
+        setDebugOutput((s) => s + `Response JSON: ${JSON.stringify(j)}\n`);
+      } catch (e) {
+        // non-json â€” get text up to some length
+        const t = await resp.text();
+        console.log("DEBUG: response text (first 1000 chars):", t.slice(0, 1000));
+        setDebugOutput((s) => s + `Response text (snippet): ${t.slice(0, 1000)}\n`);
+      }
+    } catch (err) {
+      console.error("Debug export failed:", err);
+      setDebugOutput((s) => s + `Debug export failed: ${err.message || err}\n`);
+    } finally {
+      setRunningDebug(false);
+    }
+  };
+
+  return (
+    <div style={{ padding: 24, maxWidth: 980, margin: "0 auto" }}>
+      <h1 style={{ marginBottom: 8 }}>Admin Panel</h1>
+
+      {loadingAuth ? (
+        <div>Checking authenticationâ€¦</div>
+      ) : !user ? (
+        <div>
+          <p>You are not signed in.</p>
+          <p>Please sign in with a Google account that has admin privileges.</p>
+        </div>
+      ) : !isAdminClaim ? (
+        <div>
+          <p>
+            Signed in as <strong>{user.email}</strong> but <strong>not an admin</strong>.
+          </p>
+          <p>Contact a project owner to request admin access (server enforces isAdmin).</p>
+        </div>
+      ) : (
+        <>
+          <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: 18 }}>
+            <div>
+              <div style={{ fontSize: 14, color: "#666" }}>Signed in as</div>
+              <div style={{ fontWeight: 700 }}>{user.displayName || user.email}</div>
+              <div style={{ color: "#444", marginTop: 6 }}>UID: {user.uid}</div>
+            </div>
+
+            <div style={{ display: "flex", gap: 12 }}>
+              <AdminExportButton />
+              <button
+                onClick={runDebugExport}
+                disabled={runningDebug}
+                style={{
+                  padding: "8px 14px",
+                  borderRadius: 8,
+                  border: "1px solid #ddd",
+                  background: runningDebug ? "#f3f3f3" : "#ff6b6b",
+                  color: "#fff",
+                  cursor: runningDebug ? "not-allowed" : "pointer"
+                }}
+              >
+                {runningDebug ? "Running debugâ€¦" : "Debug Export (logs token & response)"}
+              </button>
+            </div>
+          </div>
+
+          <section style={{ padding: 18, borderRadius: 8, background: "#fafafa", border: "1px solid #eee", marginBottom: 18 }}>
+            <h3 style={{ marginTop: 0 }}>Admin actions</h3>
+            <ul>
+              <li>Download full predictions CSV (uses backend /api/admin/export)</li>
+              <li>Additional admin tools can appear here (filters, analytics, manual edits)</li>
+            </ul>
+          </section>
+
+          <section style={{ padding: 12, borderRadius: 8, background: "#fff", border: "1px solid #eee" }}>
+            <h4>Debug output</h4>
+            <pre style={{ whiteSpace: "pre-wrap", maxHeight: 240, overflow: "auto", margin: 0 }}>
+              {debugOutput || "No debug output yet. Click Debug Export to run the test."}
+            </pre>
+          </section>
+        </>
+      )}
+    </div>
+  );
+}
+

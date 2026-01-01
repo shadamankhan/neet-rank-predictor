@@ -1,0 +1,60 @@
+/* ===== THEME 1: CLASSIC MEDICAL (DEFAULT) ===== */
+:root,
+:root[data-theme="classic"] {
+    --bg-main: #ffffff;
+    --bg-card: #f8fafc;
+    --text-primary: #0f172a;
+    --text-secondary: #475569;
+
+    --primary: #0a3d62;
+    --secondary: #2ecc71;
+    --border: #e5e7eb;
+    --danger: #dc2626;
+
+    --bg-glass: rgba(255, 255, 255, 0.8);
+}
+
+/* ===== THEME 2: NIGHT STUDY ===== */
+:root[data-theme="night"] {
+    --bg-main: #0f172a;
+    --bg-card: #1e293b;
+    --text-primary: #e5e7eb;
+    --text-secondary: #94a3b8;
+
+    --primary: #38bdf8;
+    --secondary: #22c55e;
+    --border: #334155;
+    --danger: #f87171;
+
+    --bg-glass: rgba(30, 41, 59, 0.8);
+}
+
+/* ===== THEME 3: PARENT FRIENDLY ===== */
+:root[data-theme="parent"] {
+    --bg-main: #fff7ed;
+    --bg-card: #ffffff;
+    --text-primary: #1e3a8a;
+    --text-secondary: #475569;
+
+    --primary: #1e40af;
+    --secondary: #16a34a;
+    --border: #d6d3d1;
+    --danger: #b91c1c;
+
+    --bg-glass: rgba(255, 255, 255, 0.9);
+}
+
+/* ===== THEME 4: FOCUS MODE ===== */
+:root[data-theme="focus"] {
+    --bg-main: #fafafa;
+    --bg-card: #ffffff;
+    --text-primary: #111827;
+    --text-secondary: #6b7280;
+
+    --primary: #000000;
+    --secondary: #6b7280;
+    --border: #e5e7eb;
+    --danger: #991b1b;
+
+    --bg-glass: rgba(255, 255, 255, 0.95);
+}

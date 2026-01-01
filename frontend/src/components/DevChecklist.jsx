@@ -1,0 +1,466 @@
+// frontend/src/components/DevChecklist.jsx
+import React, { useEffect, useMemo, useState } from "react";
+
+/**
+ * DevChecklist
+ * - Single-file checklist for tracking project development status
+ * - Stores data in localStorage under key "dev-checklist-v1"
+ * - Features:
+ *   - Grouped tasks (Backend, Frontend, DevOps, Tests)
+ *   - Check/uncheck to mark done
+ *   - Short comment per item
+ *   - "How to do it" expandable guidance per item (editable)
+ *   - Progress bar + percent + counts
+ *   - Export / Import JSON, Reset
+ *
+ * Copy to: frontend/src/components/DevChecklist.jsx
+ * Add route to /checklist in your router.
+ */
+
+const STORAGE_KEY = "dev-checklist-v1";
+
+const DEFAULT_ITEMS = [
+  // Backend
+  {
+    id: "backend-server",
+    group: "Backend",
+    title: "Canonical server (src/server.js) - single entrypoint",
+    done: false,
+    comment: "",
+    how: "Keep one server entry point at backend/src/server.js. Remove or rename any old server files. Start with: node src/server.js"
+  },
+  {
+    id: "backend-admin-auth",
+    group: "Backend",
+    title: "Admin auth middleware (verify token + isAdmin)",
+    done: true,
+    comment: "",
+    how: "Use firebase-admin verifyIdToken and require custom claim isAdmin:true. See src/middleware/adminAuth.js"
+  },
+  {
+    id: "backend-admin-export",
+    group: "Backend",
+    title: "CSV export: /api/admin/export (streaming, batched)",
+    done: true,
+    comment: "",
+    how: "Mount router at app.use('/api/admin', adminAuth, adminExportRouter). Stream batched queries ordered by __name__."
+  },
+  {
+    id: "backend-firestore",
+    group: "Backend",
+    title: "Firestore write/read - predictions collection",
+    done: true,
+    comment: "",
+    how: "Ensure predictions collection structure and createdAt timestamp (Firestore Timestamp). Index where needed for queries."
+  },
+  {
+    id: "backend-security",
+    group: "Backend",
+    title: "Firestore indexes & security rules",
+    done: false,
+    comment: "",
+    how: "Create needed composite indexes. Write rules to protect sensitive reads/writes; admin SDK still required for admin routes."
+  },
+
+  // Frontend
+  {
+    id: "frontend-auth",
+    group: "Frontend",
+    title: "Firebase Auth (Google Sign-In) working",
+    done: true,
+    comment: "",
+    how: "Initialize firebase in frontend firebase.js, call getAuth(), use onAuthStateChanged for user state."
+  },
+  {
+    id: "frontend-admin-ui",
+    group: "Frontend",
+    title: "Admin Panel with CSV export button",
+    done: true,
+    comment: "",
+    how: "AdminPanel.jsx should check token claims (getIdTokenResult) and show AdminExportButton that calls /api/admin/export."
+  },
+  {
+    id: "frontend-protected-routes",
+    group: "Frontend",
+    title: "ProtectedRoute + /login page",
+    done: true,
+    comment: "",
+    how: "ProtectedRoute waits for onAuthStateChanged and redirects to /login if not signed in."
+  },
+  {
+    id: "frontend-history",
+    group: "Frontend",
+    title: "PredictionHistory: show user's saved predictions",
+    done: true,
+    comment: "",
+    how: "Query predictions where userId == current uid, order by timestamp desc."
+  },
+  {
+    id: "frontend-loading-ux",
+    group: "Frontend",
+    title: "Loading & skeleton states",
+    done: false,
+    comment: "",
+    how: "Add skeleton elements and disabled states for long-running calls (export, predict)."
+  },
+
+  // DevOps / Dev environment
+  {
+    id: "dev-vite-config",
+    group: "DevOps",
+    title: "Vite configured (proxy /api only, hmr working)",
+    done: true,
+    comment: "",
+    how: "Remove proxy for /admin. Keep /api -> backend proxy. Set server.hmr host/port if using WSL/Docker."
+  },
+  {
+    id: "dev-single-process",
+    group: "DevOps",
+    title: "Single backend process & clear start command",
+    done: false,
+    comment: "",
+    how: "Ensure only src/server.js is used locally; document start steps in README. Consider pm2 config for production."
+  },
+  {
+    id: "dev-docker",
+    group: "DevOps",
+    title: "Docker + nginx config (optional)",
+    done: false,
+    comment: "",
+    how: "Create Dockerfile for backend & frontend build and nginx reverse-proxy for production routing. Provide env var docs."
+  },
+
+  // Tests & CI
+  {
+    id: "tests-jest",
+    group: "Tests",
+    title: "Add Jest + supertest for backend routes",
+    done: false,
+    comment: "",
+    how: "Write tests for /api/predict and /api/admin/export (mock firebase-admin). Use supertest to assert status & headers."
+  },
+  {
+    id: "tests-e2e",
+    group: "Tests",
+    title: "E2E smoke tests for the full flow",
+    done: false,
+    comment: "",
+    how: "Use Playwright or Cypress to sign-in, run a prediction, save it, and verify CSV export (or mock)."
+  }
+];
+
+function uid() {
+  return Math.random().toString(36).slice(2, 9);
+}
+
+function loadFromStorage() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return null;
+    return JSON.parse(raw);
+  } catch (e) {
+    console.warn("Failed to parse storage", e);
+    return null;
+  }
+}
+
+function saveToStorage(state) {
+  try {
+    localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  } catch (e) {
+    console.warn("Failed to save storage", e);
+  }
+}
+
+export default function DevChecklist() {
+  const [items, setItems] = useState(() => {
+    const s = loadFromStorage();
+    if (s && Array.isArray(s.items)) return s.items;
+    // create initial items copy with stable ids
+    return DEFAULT_ITEMS.map((it) => ({ ...it, id: it.id || `it-${uid()}` }));
+  });
+  const [filter, setFilter] = useState("All");
+  const [search, setSearch] = useState("");
+  const [selected, setSelected] = useState(null); // id of selected item for quick edit
+  const [exporting, setExporting] = useState(false);
+
+  useEffect(() => {
+    saveToStorage({ items });
+  }, [items]);
+
+  const stats = useMemo(() => {
+    const total = items.length;
+    const done = items.filter((it) => it.done).length;
+    const percent = Math.round((done / total) * 100) || 0;
+    const groups = {};
+    for (const it of items) {
+      groups[it.group] = groups[it.group] || { total: 0, done: 0 };
+      groups[it.group].total++;
+      if (it.done) groups[it.group].done++;
+    }
+    return { total, done, percent, groups };
+  }, [items]);
+
+  const groupsList = Array.from(new Set(items.map((it) => it.group)));
+
+  function toggleDone(id) {
+    setItems((prev) => prev.map((it) => (it.id === id ? { ...it, done: !it.done } : it)));
+  }
+
+  function updateItem(id, patch) {
+    setItems((prev) => prev.map((it) => (it.id === id ? { ...it, ...patch } : it)));
+  }
+
+  function addComment(id, text) {
+    updateItem(id, { comment: text });
+  }
+
+  function addHowTo(id, text) {
+    updateItem(id, { how: text });
+  }
+
+  function addItem() {
+    const newItem = {
+      id: `it-${uid()}`,
+      group: "Unsorted",
+      title: "New task",
+      done: false,
+      comment: "",
+      how: "Describe how to do this task..."
+    };
+    setItems((p) => [newItem, ...p]);
+    setSelected(newItem.id);
+  }
+
+  function removeItem(id) {
+    if (!confirm("Remove this task?")) return;
+    setItems((prev) => prev.filter((it) => it.id !== id));
+  }
+
+  function resetAll() {
+    if (!confirm("Reset checklist to default? This will overwrite local changes.")) return;
+    setItems(DEFAULT_ITEMS.map((it) => ({ ...it, id: it.id || `it-${uid()}` })));
+  }
+
+  async function exportJson() {
+    setExporting(true);
+    try {
+      const blob = new Blob([JSON.stringify({ items }, null, 2)], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = `dev-checklist-${new Date().toISOString().slice(0, 19)}.json`;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    } finally {
+      setExporting(false);
+    }
+  }
+
+  function importJsonFile(file) {
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      try {
+        const j = JSON.parse(e.target.result);
+        if (!j || !Array.isArray(j.items) && !Array.isArray(j)) {
+          alert("Invalid file format. Expecting { items: [...] } or an array.");
+          return;
+        }
+        const loaded = Array.isArray(j) ? j : j.items;
+        // ensure stable ids
+        const normalized = loaded.map((it) => ({ ...it, id: it.id || `it-${uid()}` }));
+        setItems(normalized);
+        alert("Checklist imported.");
+      } catch (err) {
+        alert("Failed to import JSON: " + (err.message || err));
+      }
+    };
+    reader.readAsText(file);
+  }
+
+  const visible = items.filter((it) => {
+    if (filter !== "All" && it.group !== filter) return false;
+    if (!search) return true;
+    const s = search.toLowerCase();
+    return (it.title || "").toLowerCase().includes(s) || (it.comment || "").toLowerCase().includes(s) || (it.how || "").toLowerCase().includes(s);
+  });
+
+  return (
+    <div style={{ padding: 20, maxWidth: 980, margin: "0 auto", fontFamily: "system-ui, Roboto, Arial" }}>
+      <header style={{ display: "flex", justifyContent: "space-between", alignItems: "flex-start", gap: 12 }}>
+        <div>
+          <h1 style={{ margin: 0 }}>Project Checklist — NEET Rank Predictor</h1>
+          <div style={{ color: "#666", marginTop: 6 }}>
+            Track progress, add comments, view how-to guidance, export/import status.
+          </div>
+        </div>
+
+        <div style={{ textAlign: "right" }}>
+          <div style={{ marginBottom: 8 }}>Progress</div>
+          <div style={{ width: 220, background: "#eee", borderRadius: 8, overflow: "hidden", height: 12 }}>
+            <div style={{ width: `${stats.percent}%`, height: "100%", background: "#16a34a" }} />
+          </div>
+          <div style={{ marginTop: 6, fontWeight: 600 }}>{stats.percent}% — {stats.done}/{stats.total} done</div>
+        </div>
+      </header>
+
+      <section style={{ marginTop: 18, display: "flex", gap: 12, alignItems: "center", flexWrap: "wrap" }}>
+        <button onClick={addItem} style={buttonStyle}>+ Add task</button>
+        <button onClick={exportJson} style={buttonStyle} disabled={exporting}>{exporting ? "Exporting…" : "Export JSON"}</button>
+        <label style={{ display: "inline-block", cursor: "pointer", ...buttonLabelStyle }}>
+          Import JSON
+          <input
+            type="file"
+            accept="application/json"
+            style={{ display: "none" }}
+            onChange={(e) => {
+              if (e.target.files && e.target.files[0]) importJsonFile(e.target.files[0]);
+              e.target.value = "";
+            }}
+          />
+        </label>
+        <button onClick={resetAll} style={buttonStyle}>Reset to defaults</button>
+
+        <div style={{ marginLeft: "auto", display: "flex", gap: 8, alignItems: "center" }}>
+          <div style={{ color: "#333", fontSize: 13, fontWeight: 600 }}>Filter</div>
+          <select value={filter} onChange={(e) => setFilter(e.target.value)} style={{ padding: "6px 8px", borderRadius: 6 }}>
+            <option>All</option>
+            {groupsList.map((g) => <option key={g}>{g}</option>)}
+          </select>
+
+          <input
+            placeholder="Search tasks..."
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            style={{ padding: "6px 8px", borderRadius: 6, marginLeft: 8 }}
+          />
+        </div>
+      </section>
+
+      <main style={{ marginTop: 18 }}>
+        <div style={{ display: "grid", gridTemplateColumns: "1fr 340px", gap: 14 }}>
+          <div>
+            {visible.map((it) => (
+              <div key={it.id} style={{ padding: 12, borderRadius: 8, border: "1px solid #eee", marginBottom: 10, background: it.done ? "#f7fff7" : "#fff" }}>
+                <div style={{ display: "flex", alignItems: "center", gap: 12 }}>
+                  <input type="checkbox" checked={it.done} onChange={() => toggleDone(it.id)} />
+                  <div style={{ flex: 1 }}>
+                    <div style={{ fontWeight: 700 }}>{it.title}</div>
+                    <div style={{ color: "#666", fontSize: 13 }}>{it.group}</div>
+                  </div>
+
+                  <div style={{ display: "flex", gap: 8 }}>
+                    <button onClick={() => setSelected(it.id)} style={smallButtonStyle}>Edit</button>
+                    <button onClick={() => removeItem(it.id)} style={{ ...smallButtonStyle, background: "#fff", border: "1px solid #eee", color: "#c00" }}>Remove</button>
+                  </div>
+                </div>
+
+                <div style={{ marginTop: 8 }}>
+                  <div style={{ color: "#444", fontSize: 13 }}>{it.comment || <span style={{ color: "#bbb" }}>No comment — click Edit to add notes.</span>}</div>
+                </div>
+              </div>
+            ))}
+
+            {visible.length === 0 && <div style={{ padding: 20, color: "#666" }}>No tasks match the filter/search.</div>}
+          </div>
+
+          <aside style={{ position: "relative" }}>
+            <div style={{ padding: 12, borderRadius: 8, border: "1px solid #eee", background: "#fff" }}>
+              <h3 style={{ marginTop: 0 }}>Details</h3>
+
+              {selected ? (
+                (() => {
+                  const it = items.find((x) => x.id === selected);
+                  if (!it) return <div>Item not found.</div>;
+                  return (
+                    <div>
+                      <div style={{ fontWeight: 800 }}>{it.title}</div>
+                      <div style={{ color: "#666", marginBottom: 10 }}>{it.group}</div>
+
+                      <div style={{ marginTop: 8 }}>
+                        <div style={{ fontSize: 13, marginBottom: 6 }}>Short comment</div>
+                        <textarea
+                          value={it.comment}
+                          onChange={(e) => addComment(it.id, e.target.value)}
+                          rows={3}
+                          style={{ width: "100%", padding: 8, borderRadius: 6 }}
+                        />
+                      </div>
+
+                      <div style={{ marginTop: 8 }}>
+                        <div style={{ fontSize: 13, marginBottom: 6 }}>How to do it</div>
+                        <textarea
+                          value={it.how}
+                          onChange={(e) => addHowTo(it.id, e.target.value)}
+                          rows={8}
+                          style={{ width: "100%", padding: 8, borderRadius: 6 }}
+                        />
+                      </div>
+
+                      <div style={{ display: "flex", gap: 8, marginTop: 10 }}>
+                        <button onClick={() => updateItem(it.id, { done: true })} style={buttonStyle}>Mark done</button>
+                        <button onClick={() => updateItem(it.id, { done: false })} style={{ ...buttonStyle, background: "#fff", border: "1px solid #ddd", color: "#333" }}>Mark not done</button>
+                        <button onClick={() => setSelected(null)} style={{ ...buttonStyle, background: "#fff", border: "1px solid #ddd" }}>Close</button>
+                      </div>
+                    </div>
+                  );
+                })()
+              ) : (
+                <div style={{ color: "#666" }}>
+                  Select a task (click Edit) to view/edit comments and "how to do it" notes.
+                </div>
+              )}
+            </div>
+
+            <div style={{ marginTop: 12, padding: 12, borderRadius: 8, border: "1px solid #eee", background: "#fff" }}>
+              <h4 style={{ marginTop: 0 }}>Quick stats</h4>
+              <div style={{ fontSize: 13 }}>
+                {Object.entries(stats.groups).map(([g, s]) => (
+                  <div key={g} style={{ marginBottom: 6 }}>
+                    <strong>{g}</strong>: {s.done}/{s.total} done
+                  </div>
+                ))}
+              </div>
+              <div style={{ marginTop: 10 }}>
+                <small style={{ color: "#777" }}>Tip: export JSON to share progress or import it later.</small>
+              </div>
+            </div>
+          </aside>
+        </div>
+      </main>
+
+      <footer style={{ marginTop: 18, color: "#666" }}>
+        <div>Use this checklist to track daily progress. Items and notes are saved in your browser's localStorage.</div>
+      </footer>
+    </div>
+  );
+}
+
+/* small style helpers */
+const buttonStyle = {
+  padding: "8px 12px",
+  borderRadius: 8,
+  border: "none",
+  background: "#111",
+  color: "#fff",
+  cursor: "pointer"
+};
+
+const smallButtonStyle = {
+  padding: "6px 8px",
+  borderRadius: 6,
+  border: "none",
+  background: "#f3f3f3",
+  cursor: "pointer"
+};
+
+const buttonLabelStyle = {
+  display: "inline-block",
+  padding: "8px 12px",
+  borderRadius: 8,
+  background: "#fff",
+  border: "1px solid #ddd",
+  cursor: "pointer"
+};

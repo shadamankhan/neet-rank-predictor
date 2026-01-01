@@ -1,0 +1,299 @@
+.mcq-test-container {
+    display: flex;
+    height: calc(100vh - 85px);
+    margin-top: 85px;
+    overflow: hidden;
+    background: #f8fafc;
+    position: relative;
+    z-index: 0;
+}
+
+.pdf-panel {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    border-right: 1px solid #cbd5e1;
+}
+
+.panel-header {
+    padding: 0.5rem 1rem;
+    background: white;
+    border-bottom: 1px solid #e2e8f0;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    height: 60px;
+}
+
+/* ... keep previous styles ... */
+/* Add new styles for Interactive Mode */
+
+.content-frame-wrapper {
+    flex: 1;
+    background: #f1f5f9;
+    overflow-y: auto;
+    /* Scrollable for text content */
+}
+
+.interactive-mode {
+    padding: 2rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.interactive-q-card {
+    background: white;
+    padding: 1.5rem;
+    border-radius: 12px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+    border: 1px solid #e2e8f0;
+}
+
+.q-text {
+    display: flex;
+    gap: 1rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: #1e293b;
+    margin-bottom: 1.5rem;
+}
+
+.q-idx {
+    color: #64748b;
+    font-weight: 700;
+}
+
+.q-options {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+}
+
+.q-option {
+    display: flex;
+    gap: 0.75rem;
+    padding: 0.75rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    background: #f8fafc;
+    align-items: center;
+}
+
+.opt-label {
+    width: 28px;
+    height: 28px;
+    background: white;
+    border: 1px solid #cbd5e1;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    font-size: 0.8rem;
+    color: #64748b;
+}
+
+.q-solution {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background: #f0fdf4;
+    border: 1px solid #bbf7d0;
+    border-radius: 8px;
+    color: #166534;
+}
+
+.view-toggles {
+    margin-left: auto;
+    display: flex;
+    gap: 0.5rem;
+    background: #f1f5f9;
+    padding: 0.25rem;
+    border-radius: 6px;
+}
+
+.toggle-btn {
+    border: none;
+    background: transparent;
+    padding: 0.4rem 0.8rem;
+    border-radius: 4px;
+    cursor: pointer;
+    color: #64748b;
+    font-weight: 500;
+}
+
+.toggle-btn.active {
+    background: white;
+    color: #2563eb;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.back-btn {
+    background: transparent;
+    border: 1px solid #cbd5e1;
+    padding: 0.25rem 0.75rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.panel-header h2 {
+    font-size: 1rem;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 300px;
+    color: #334155;
+}
+
+
+/* Right OMR Panel (Keep existing) */
+.omr-panel {
+    width: 350px;
+    min-width: 300px;
+    display: flex;
+    flex-direction: column;
+    background: white;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.05);
+}
+
+.omr-header {
+    padding: 1rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.config-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-weight: 500;
+    color: #334155;
+}
+
+.config-row input {
+    width: 70px;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 1rem;
+}
+
+.questions-list {
+    flex: 1;
+    overflow-y: auto;
+    padding: 1rem;
+}
+
+.question-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0.75rem;
+    gap: 0.5rem;
+}
+
+.q-num {
+    width: 30px;
+    font-weight: 600;
+    color: #64748b;
+    text-align: right;
+    margin-right: 0.5rem;
+}
+
+.options-group {
+    display: flex;
+    gap: 0.5rem;
+}
+
+.omr-circle {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 1px solid #cbd5e1;
+    background: white;
+    color: #64748b;
+    font-size: 0.85rem;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.2s;
+}
+
+.omr-circle:hover:not(.disabled) {
+    background: #f1f5f9;
+    border-color: #94a3b8;
+}
+
+.omr-circle.selected {
+    background: #3b82f6;
+    color: white;
+    border-color: #3b82f6;
+}
+
+.omr-circle.disabled {
+    cursor: default;
+    opacity: 0.8;
+}
+
+.omr-footer {
+    padding: 1rem;
+    border-top: 1px solid #e2e8f0;
+    background: #f8fafc;
+}
+
+.submit-test-btn {
+    width: 100%;
+    padding: 0.75rem;
+    background: #10b981;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.submit-test-btn:hover {
+    background: #059669;
+}
+
+.results-summary {
+    text-align: center;
+}
+
+.results-summary h4 {
+    color: #10b981;
+    margin: 0 0 0.5rem 0;
+}
+
+.results-summary .note {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin: 0.5rem 0 1rem 0;
+}
+
+.reset-btn {
+    background: white;
+    border: 1px solid #cbd5e1;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+    color: #475569;
+}
+
+@media (max-width: 768px) {
+    .mcq-test-container {
+        flex-direction: column;
+        height: auto;
+        overflow: visible;
+    }
+
+    .pdf-panel {
+        height: 60vh;
+    }
+
+    .omr-panel {
+        width: 100%;
+        height: 40vh;
+    }
+}

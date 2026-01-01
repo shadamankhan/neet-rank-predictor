@@ -1,0 +1,28 @@
+﻿// frontend/src/firebase.js
+import { initializeApp } from "firebase/app";
+import { getAuth } from "firebase/auth";
+
+// Firebase config from Vite environment variables
+const firebaseConfig = {
+  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  authDomain: import.meta.env.VITE_FIREBASE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_FIREBASE_PROJECT_ID,
+  appId: import.meta.env.VITE_FIREBASE_APP_ID,
+};
+
+// Initialize Firebase app
+export const firebaseApp = initializeApp(firebaseConfig);
+
+// Initialize Auth
+export const appAuth = getAuth(firebaseApp);
+
+// Export for normal frontend use
+export const auth = appAuth;
+
+// 🔥 Expose auth + app globally for debugging in browser console
+// (You can remove these later if you want)
+window.firebaseApp = firebaseApp;
+window.appAuth = appAuth;
+
+export default firebaseApp;
+

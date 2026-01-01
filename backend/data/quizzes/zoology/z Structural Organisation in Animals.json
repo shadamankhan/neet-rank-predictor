@@ -1,0 +1,5294 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is a defining characteristic of epithelial tissue as per NCERT?",
+        "options": [
+            "Cells are loosely packed with abundant matrix",
+            "Cells show intercellular junctions and rest on a basement membrane",
+            "Cells are multinucleate and striated",
+            "Cells possess long processes for conduction"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states epithelial cells are closely packed, show junctions and rest on a basement membrane."
+    },
+    {
+        "id": 2,
+        "question": "Simple squamous epithelium is mainly involved in:",
+        "options": [
+            "Protection",
+            "Absorption and diffusion",
+            "Secretion of mucus",
+            "Mechanical support"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions simple squamous epithelium facilitates diffusion and filtration."
+    },
+    {
+        "id": 3,
+        "question": "The epithelial tissue lining the alveoli of lungs is:",
+        "options": [
+            "Stratified squamous epithelium",
+            "Cuboidal epithelium",
+            "Simple squamous epithelium",
+            "Columnar epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli require rapid diffusion, hence lined by simple squamous epithelium."
+    },
+    {
+        "id": 4,
+        "question": "Which epithelial tissue is found lining the ducts of salivary glands?",
+        "options": [
+            "Simple squamous epithelium",
+            "Stratified cuboidal epithelium",
+            "Ciliated epithelium",
+            "Pseudostratified epithelium"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states stratified cuboidal epithelium lines ducts of glands."
+    },
+    {
+        "id": 5,
+        "question": "Ciliated epithelium is mainly involved in:",
+        "options": [
+            "Protection from abrasion",
+            "Secretion of enzymes",
+            "Movement of materials over epithelial surface",
+            "Diffusion of gases"
+        ],
+        "answer": 2,
+        "explanation": "Cilia help move substances like mucus or ovum as per NCERT."
+    },
+    {
+        "id": 6,
+        "question": "Which tissue connects muscles to bones?",
+        "options": [
+            "Ligament",
+            "Cartilage",
+            "Tendon",
+            "Areolar tissue"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines tendon as dense regular connective tissue connecting muscle to bone."
+    },
+    {
+        "id": 7,
+        "question": "Ligaments connect:",
+        "options": [
+            "Muscle to muscle",
+            "Bone to muscle",
+            "Bone to bone",
+            "Cartilage to bone"
+        ],
+        "answer": 2,
+        "explanation": "Ligaments connect bones and are rich in elastic fibres."
+    },
+    {
+        "id": 8,
+        "question": "Which connective tissue has a fluid matrix?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Blood",
+            "Areolar tissue"
+        ],
+        "answer": 2,
+        "explanation": "Blood has plasma as its fluid matrix according to NCERT."
+    },
+    {
+        "id": 9,
+        "question": "Plasma proteins include all except:",
+        "options": [
+            "Albumins",
+            "Globulins",
+            "Fibrinogen",
+            "Keratin"
+        ],
+        "answer": 3,
+        "explanation": "Keratin is a structural protein, not a plasma protein."
+    },
+    {
+        "id": 10,
+        "question": "Which blood cells lack nucleus in humans?",
+        "options": [
+            "Neutrophils",
+            "Lymphocytes",
+            "Erythrocytes",
+            "Monocytes"
+        ],
+        "answer": 2,
+        "explanation": "Mature human RBCs are enucleated as per NCERT."
+    },
+    {
+        "id": 11,
+        "question": "The lifespan of human erythrocytes is approximately:",
+        "options": [
+            "30 days",
+            "60 days",
+            "90 days",
+            "120 days"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states the lifespan of RBCs is about 120 days."
+    },
+    {
+        "id": 12,
+        "question": "Which leucocytes are involved in antibody production?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Lymphocytes",
+            "Eosinophils"
+        ],
+        "answer": 2,
+        "explanation": "B-lymphocytes are responsible for antibody production."
+    },
+    {
+        "id": 13,
+        "question": "Which muscle tissue is involuntary and striated?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle shows striations but is involuntary."
+    },
+    {
+        "id": 14,
+        "question": "Intercalated discs are a feature of:",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Myoepithelial cells"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes intercalated discs in cardiac muscle."
+    },
+    {
+        "id": 15,
+        "question": "Which muscle fibres are spindle-shaped?",
+        "options": [
+            "Skeletal muscle fibres",
+            "Cardiac muscle fibres",
+            "Smooth muscle fibres",
+            "Striated muscle fibres"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscle cells are spindle-shaped and uninucleate."
+    },
+    {
+        "id": 16,
+        "question": "Neuron is the structural and functional unit of:",
+        "options": [
+            "Muscular system",
+            "Endocrine system",
+            "Nervous system",
+            "Circulatory system"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines neuron as the unit of nervous tissue."
+    },
+    {
+        "id": 17,
+        "question": "Which part of neuron receives impulses?",
+        "options": [
+            "Axon",
+            "Axon terminal",
+            "Dendrite",
+            "Myelin sheath"
+        ],
+        "answer": 2,
+        "explanation": "Dendrites receive signals from adjacent neurons."
+    },
+    {
+        "id": 18,
+        "question": "Which layer of alimentary canal is responsible for peristalsis?",
+        "options": [
+            "Serosa",
+            "Mucosa",
+            "Submucosa",
+            "Muscularis"
+        ],
+        "answer": 3,
+        "explanation": "Muscularis with circular and longitudinal muscles enables peristalsis."
+    },
+    {
+        "id": 19,
+        "question": "The innermost layer of alimentary canal is:",
+        "options": [
+            "Serosa",
+            "Muscularis",
+            "Submucosa",
+            "Mucosa"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states mucosa is the innermost layer."
+    },
+    {
+        "id": 20,
+        "question": "Which part of stomach secretes hydrochloric acid?",
+        "options": [
+            "Goblet cells",
+            "Chief cells",
+            "Parietal cells",
+            "Enteroendocrine cells"
+        ],
+        "answer": 2,
+        "explanation": "Parietal cells secrete HCl as per NCERT."
+    },
+    {
+        "id": 21,
+        "question": "Pepsinogen is secreted by:",
+        "options": [
+            "Parietal cells",
+            "Chief cells",
+            "Goblet cells",
+            "Pancreatic acini"
+        ],
+        "answer": 1,
+        "explanation": "Chief cells of gastric glands secrete pepsinogen."
+    },
+    {
+        "id": 22,
+        "question": "Which structure increases surface area for absorption in small intestine?",
+        "options": [
+            "Rugae",
+            "Villi",
+            "Haustra",
+            "Plicae circulares of stomach"
+        ],
+        "answer": 1,
+        "explanation": "Villi increase surface area as stated in NCERT."
+    },
+    {
+        "id": 23,
+        "question": "Which cells of intestine secrete mucus?",
+        "options": [
+            "Paneth cells",
+            "Enterocytes",
+            "Goblet cells",
+            "Chief cells"
+        ],
+        "answer": 2,
+        "explanation": "Goblet cells secrete mucus in intestinal epithelium."
+    },
+    {
+        "id": 24,
+        "question": "Liver lobules are separated by:",
+        "options": [
+            "Central vein",
+            "Portal vein",
+            "Connective tissue septa",
+            "Bile canaliculi"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states lobules are separated by connective tissue."
+    },
+    {
+        "id": 25,
+        "question": "The functional unit of kidney is:",
+        "options": [
+            "Neuron",
+            "Nephron",
+            "Lobule",
+            "Alveolus"
+        ],
+        "answer": 1,
+        "explanation": "Nephron is the structural and functional unit of kidney."
+    },
+    {
+        "id": 26,
+        "question": "Bowman's capsule encloses:",
+        "options": [
+            "Henle's loop",
+            "Collecting duct",
+            "Glomerulus",
+            "Proximal tubule"
+        ],
+        "answer": 2,
+        "explanation": "Bowman's capsule surrounds the glomerulus."
+    },
+    {
+        "id": 27,
+        "question": "Which part of nephron is U-shaped?",
+        "options": [
+            "Proximal convoluted tubule",
+            "Distal convoluted tubule",
+            "Collecting duct",
+            "Loop of Henle"
+        ],
+        "answer": 3,
+        "explanation": "Loop of Henle is U-shaped."
+    },
+    {
+        "id": 28,
+        "question": "Malpighian corpuscle consists of:",
+        "options": [
+            "Bowman's capsule and collecting duct",
+            "Glomerulus and Henle's loop",
+            "Glomerulus and Bowman's capsule",
+            "PCT and DCT"
+        ],
+        "answer": 2,
+        "explanation": "Malpighian corpuscle includes glomerulus and Bowman's capsule."
+    },
+    {
+        "id": 29,
+        "question": "Which hormone regulates water reabsorption in kidney?",
+        "options": [
+            "Aldosterone",
+            "ADH",
+            "Renin",
+            "ANF"
+        ],
+        "answer": 1,
+        "explanation": "ADH increases water reabsorption as per NCERT."
+    },
+    {
+        "id": 30,
+        "question": "The urinary bladder is lined by:",
+        "options": [
+            "Simple squamous epithelium",
+            "Transitional epithelium",
+            "Cuboidal epithelium",
+            "Stratified squamous epithelium"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions transitional epithelium in urinary bladder."
+    },
+    {
+        "id": 31,
+        "question": "Which cartilage is present in tracheal rings?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Tracheal rings are made of hyaline cartilage."
+    },
+    {
+        "id": 32,
+        "question": "Osteocytes are found in:",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Blood",
+            "Areolar tissue"
+        ],
+        "answer": 1,
+        "explanation": "Osteocytes are mature bone cells."
+    },
+    {
+        "id": 33,
+        "question": "Haversian system is characteristic of:",
+        "options": [
+            "Cartilage",
+            "Spongy bone",
+            "Compact bone",
+            "Fibrous tissue"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes Haversian system in compact bone."
+    },
+    {
+        "id": 34,
+        "question": "Which tissue provides mechanical support and binds organs?",
+        "options": [
+            "Epithelial tissue",
+            "Muscular tissue",
+            "Connective tissue",
+            "Nervous tissue"
+        ],
+        "answer": 2,
+        "explanation": "Connective tissue binds and supports organs."
+    },
+    {
+        "id": 35,
+        "question": "Areolar tissue is an example of:",
+        "options": [
+            "Dense connective tissue",
+            "Specialised connective tissue",
+            "Loose connective tissue",
+            "Muscular tissue"
+        ],
+        "answer": 2,
+        "explanation": "NCERT classifies areolar tissue as loose connective tissue."
+    },
+    {
+        "id": 36,
+        "question": "Which cells are involved in inflammatory responses?",
+        "options": [
+            "RBCs",
+            "Mast cells",
+            "Plasma cells",
+            "Chondrocytes"
+        ],
+        "answer": 1,
+        "explanation": "Mast cells release histamine and are involved in inflammation."
+    },
+    {
+        "id": 37,
+        "question": "Plasma cells are derived from:",
+        "options": [
+            "Monocytes",
+            "Basophils",
+            "B-lymphocytes",
+            "T-lymphocytes"
+        ],
+        "answer": 2,
+        "explanation": "Plasma cells are differentiated B-lymphocytes."
+    },
+    {
+        "id": 38,
+        "question": "Which component of blood helps in clotting?",
+        "options": [
+            "Albumin",
+            "Globulin",
+            "Fibrinogen",
+            "Heparin"
+        ],
+        "answer": 2,
+        "explanation": "Fibrinogen is essential for blood clotting."
+    },
+    {
+        "id": 39,
+        "question": "Which muscle shows fatigue most rapidly?",
+        "options": [
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles fatigue rapidly as per NCERT."
+    },
+    {
+        "id": 40,
+        "question": "Myofibrils are composed of:",
+        "options": [
+            "Actin and tubulin",
+            "Myosin and keratin",
+            "Actin and myosin",
+            "Collagen and elastin"
+        ],
+        "answer": 2,
+        "explanation": "Myofibrils contain actin and myosin filaments."
+    }
+]
+[
+    {
+        "id": 101,
+        "question": "The epithelial tissue that forms the lining of kidney tubules is:",
+        "options": [
+            "Simple squamous epithelium",
+            "Simple cuboidal epithelium",
+            "Stratified squamous epithelium",
+            "Ciliated epithelium"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states kidney tubules are lined by simple cuboidal epithelium."
+    },
+    {
+        "id": 102,
+        "question": "Which junction prevents leakage of substances across epithelial cells?",
+        "options": [
+            "Adhering junction",
+            "Gap junction",
+            "Tight junction",
+            "Desmosome"
+        ],
+        "answer": 2,
+        "explanation": "Tight junctions form a barrier to prevent leakage as per NCERT."
+    },
+    {
+        "id": 103,
+        "question": "Which epithelium appears stratified due to nuclei at different levels but is actually single layered?",
+        "options": [
+            "Stratified squamous epithelium",
+            "Pseudostratified epithelium",
+            "Cuboidal epithelium",
+            "Transitional epithelium"
+        ],
+        "answer": 1,
+        "explanation": "Pseudostratified epithelium appears multilayered but all cells rest on basement membrane."
+    },
+    {
+        "id": 104,
+        "question": "Which connective tissue acts as packing tissue between organs?",
+        "options": [
+            "Dense regular tissue",
+            "Adipose tissue",
+            "Areolar tissue",
+            "Cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue fills spaces and supports internal organs."
+    },
+    {
+        "id": 105,
+        "question": "Adipose tissue is mainly involved in:",
+        "options": [
+            "Defense",
+            "Conduction of impulses",
+            "Storage of fat",
+            "Mechanical support"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states adipose tissue stores fat."
+    },
+    {
+        "id": 106,
+        "question": "Which cells of connective tissue secrete antibodies?",
+        "options": [
+            "Mast cells",
+            "Plasma cells",
+            "Fibroblasts",
+            "Macrophages"
+        ],
+        "answer": 1,
+        "explanation": "Plasma cells produce antibodies according to NCERT."
+    },
+    {
+        "id": 107,
+        "question": "Fibroblasts are primarily responsible for the synthesis of:",
+        "options": [
+            "Antibodies",
+            "Histamine",
+            "Fibres and matrix",
+            "Hormones"
+        ],
+        "answer": 2,
+        "explanation": "Fibroblasts synthesize fibres and extracellular matrix."
+    },
+    {
+        "id": 108,
+        "question": "Which connective tissue has chondrocytes embedded in matrix?",
+        "options": [
+            "Bone",
+            "Cartilage",
+            "Blood",
+            "Areolar tissue"
+        ],
+        "answer": 1,
+        "explanation": "Cartilage contains chondrocytes in lacunae."
+    },
+    {
+        "id": 109,
+        "question": "The matrix of bone is rich in:",
+        "options": [
+            "Calcium salts and collagen fibres",
+            "Elastin fibres only",
+            "Chitin",
+            "Keratin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions bone matrix contains calcium salts and collagen fibres."
+    },
+    {
+        "id": 110,
+        "question": "Which blood cells are amoeboid and phagocytic?",
+        "options": [
+            "Erythrocytes",
+            "Basophils",
+            "Neutrophils",
+            "Platelets"
+        ],
+        "answer": 2,
+        "explanation": "Neutrophils show amoeboid movement and phagocytosis."
+    },
+    {
+        "id": 111,
+        "question": "Which leucocytes increase in allergic reactions?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Monocytes",
+            "Lymphocytes"
+        ],
+        "answer": 1,
+        "explanation": "Basophils release histamine and are associated with allergies."
+    },
+    {
+        "id": 112,
+        "question": "Which blood component releases heparin?",
+        "options": [
+            "Platelets",
+            "Basophils",
+            "Erythrocytes",
+            "Plasma cells"
+        ],
+        "answer": 1,
+        "explanation": "Basophils secrete heparin as per NCERT."
+    },
+    {
+        "id": 113,
+        "question": "Which element is essential for haemoglobin synthesis?",
+        "options": [
+            "Calcium",
+            "Iron",
+            "Iodine",
+            "Sodium"
+        ],
+        "answer": 1,
+        "explanation": "Iron is required for haemoglobin formation."
+    },
+    {
+        "id": 114,
+        "question": "Blood platelets are also called:",
+        "options": [
+            "Leucocytes",
+            "Thrombocytes",
+            "Erythrocytes",
+            "Granulocytes"
+        ],
+        "answer": 1,
+        "explanation": "Platelets are known as thrombocytes."
+    },
+    {
+        "id": 115,
+        "question": "Which muscle lacks striations?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles are non-striated."
+    },
+    {
+        "id": 116,
+        "question": "Smooth muscles are commonly found in:",
+        "options": [
+            "Biceps",
+            "Heart wall",
+            "Alimentary canal",
+            "Diaphragm"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles are present in walls of visceral organs."
+    },
+    {
+        "id": 117,
+        "question": "Which muscle fibres are branched?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle fibres are branched."
+    },
+    {
+        "id": 118,
+        "question": "Which structure maintains rhythmic contraction of heart?",
+        "options": [
+            "Sarcomere",
+            "Intercalated discs",
+            "Z line",
+            "H zone"
+        ],
+        "answer": 1,
+        "explanation": "Intercalated discs allow coordinated contraction."
+    },
+    {
+        "id": 119,
+        "question": "Which part of neuron conducts impulses away from cell body?",
+        "options": [
+            "Dendrite",
+            "Cyton",
+            "Axon",
+            "Nissl body"
+        ],
+        "answer": 2,
+        "explanation": "Axon conducts nerve impulses away from cyton."
+    },
+    {
+        "id": 120,
+        "question": "Myelin sheath is produced by:",
+        "options": [
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia",
+            "Neurons"
+        ],
+        "answer": 1,
+        "explanation": "Oligodendrocytes form myelin sheath in CNS."
+    },
+    {
+        "id": 121,
+        "question": "Which layer of alimentary canal contains glands?",
+        "options": [
+            "Serosa",
+            "Muscularis",
+            "Submucosa",
+            "Mucosa"
+        ],
+        "answer": 3,
+        "explanation": "Mucosa contains glands, epithelium and muscularis mucosa."
+    },
+    {
+        "id": 122,
+        "question": "Which part of alimentary canal shows maximum absorption?",
+        "options": [
+            "Stomach",
+            "Large intestine",
+            "Small intestine",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Small intestine is the major site of absorption."
+    },
+    {
+        "id": 123,
+        "question": "Which structure connects liver to small intestine?",
+        "options": [
+            "Pancreatic duct",
+            "Bile duct",
+            "Hepatic vein",
+            "Portal vein"
+        ],
+        "answer": 1,
+        "explanation": "Bile duct carries bile from liver to intestine."
+    },
+    {
+        "id": 124,
+        "question": "Kupffer cells are found in:",
+        "options": [
+            "Kidney",
+            "Pancreas",
+            "Liver",
+            "Spleen"
+        ],
+        "answer": 2,
+        "explanation": "Kupffer cells are macrophages of liver."
+    },
+    {
+        "id": 125,
+        "question": "Which cells of pancreas secrete digestive enzymes?",
+        "options": [
+            "Islets of Langerhans",
+            "Alpha cells",
+            "Beta cells",
+            "Acinar cells"
+        ],
+        "answer": 3,
+        "explanation": "Acinar cells of pancreas secrete enzymes."
+    },
+    {
+        "id": 126,
+        "question": "Which part of nephron is mainly involved in selective reabsorption?",
+        "options": [
+            "Glomerulus",
+            "Proximal convoluted tubule",
+            "Loop of Henle",
+            "Collecting duct"
+        ],
+        "answer": 1,
+        "explanation": "PCT shows maximum reabsorption."
+    },
+    {
+        "id": 127,
+        "question": "Which structure carries urine from kidney to bladder?",
+        "options": [
+            "Urethra",
+            "Ureter",
+            "Collecting duct",
+            "Renal artery"
+        ],
+        "answer": 1,
+        "explanation": "Ureter transports urine to urinary bladder."
+    },
+    {
+        "id": 128,
+        "question": "Which epithelium allows stretching of urinary bladder?",
+        "options": [
+            "Cuboidal",
+            "Simple squamous",
+            "Transitional",
+            "Columnar"
+        ],
+        "answer": 2,
+        "explanation": "Transitional epithelium allows stretching."
+    },
+    {
+        "id": 129,
+        "question": "Which cartilage is present in intervertebral discs?",
+        "options": [
+            "Hyaline cartilage",
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Fibrocartilage is found in intervertebral discs."
+    },
+    {
+        "id": 130,
+        "question": "Spongy bone is characterized by:",
+        "options": [
+            "Haversian system",
+            "Compact matrix",
+            "Trabeculae with marrow spaces",
+            "Absence of blood vessels"
+        ],
+        "answer": 2,
+        "explanation": "Spongy bone has trabeculae and marrow spaces."
+    },
+    {
+        "id": 131,
+        "question": "Which connective tissue has highest regenerative capacity?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Blood",
+            "Dense connective tissue"
+        ],
+        "answer": 2,
+        "explanation": "Blood cells are continuously regenerated."
+    },
+    {
+        "id": 132,
+        "question": "Which muscle is under voluntary control?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are voluntary."
+    },
+    {
+        "id": 133,
+        "question": "Sarcomere extends between:",
+        "options": [
+            "Two H zones",
+            "Two M lines",
+            "Two Z lines",
+            "Two I bands"
+        ],
+        "answer": 2,
+        "explanation": "Sarcomere lies between two Z lines."
+    },
+    {
+        "id": 134,
+        "question": "Which protein is responsible for muscle contraction?",
+        "options": [
+            "Collagen",
+            "Keratin",
+            "Actin and myosin",
+            "Elastin"
+        ],
+        "answer": 2,
+        "explanation": "Actin and myosin interact during contraction."
+    },
+    {
+        "id": 135,
+        "question": "Nissl bodies are found in:",
+        "options": [
+            "Axon",
+            "Dendrite",
+            "Cyton",
+            "Axon terminal"
+        ],
+        "answer": 2,
+        "explanation": "Nissl bodies occur in cyton."
+    },
+    {
+        "id": 136,
+        "question": "Which cells act as phagocytes in nervous tissue?",
+        "options": [
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia",
+            "Neurons"
+        ],
+        "answer": 2,
+        "explanation": "Microglia are phagocytic cells."
+    },
+    {
+        "id": 137,
+        "question": "Which layer of alimentary canal is absent in oesophagus?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 3,
+        "explanation": "Oesophagus lacks serosa."
+    },
+    {
+        "id": 138,
+        "question": "Which part of stomach stores food temporarily?",
+        "options": [
+            "Fundus",
+            "Cardiac region",
+            "Pyloric region",
+            "Antrum"
+        ],
+        "answer": 0,
+        "explanation": "Fundus stores undigested food."
+    },
+    {
+        "id": 139,
+        "question": "Which secretion protects stomach lining?",
+        "options": [
+            "Pepsin",
+            "Mucus",
+            "HCl",
+            "Intrinsic factor"
+        ],
+        "answer": 1,
+        "explanation": "Mucus protects stomach lining from acid."
+    },
+    {
+        "id": 140,
+        "question": "Which structure connects nephron to renal pelvis?",
+        "options": [
+            "Henle's loop",
+            "Collecting duct",
+            "Ureter",
+            "DCT"
+        ],
+        "answer": 1,
+        "explanation": "Collecting ducts open into renal pelvis."
+    },
+    {
+        "id": 141,
+        "question": "Which component of blood transports oxygen?",
+        "options": [
+            "Plasma",
+            "Platelets",
+            "Haemoglobin",
+            "Globulins"
+        ],
+        "answer": 2,
+        "explanation": "Haemoglobin carries oxygen."
+    },
+    {
+        "id": 142,
+        "question": "Which leucocyte is largest in size?",
+        "options": [
+            "Neutrophil",
+            "Basophil",
+            "Monocyte",
+            "Lymphocyte"
+        ],
+        "answer": 2,
+        "explanation": "Monocytes are the largest WBCs."
+    },
+    {
+        "id": 143,
+        "question": "Which tissue provides elasticity to organs like lungs?",
+        "options": [
+            "Dense regular tissue",
+            "Elastic connective tissue",
+            "Cartilage",
+            "Bone"
+        ],
+        "answer": 1,
+        "explanation": "Elastic connective tissue provides elasticity."
+    },
+    {
+        "id": 144,
+        "question": "Which muscle shows continuous rhythmic contraction?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle contracts rhythmically."
+    },
+    {
+        "id": 145,
+        "question": "Which epithelial tissue lines buccal cavity?",
+        "options": [
+            "Simple squamous",
+            "Stratified squamous",
+            "Cuboidal",
+            "Ciliated"
+        ],
+        "answer": 1,
+        "explanation": "Buccal cavity is lined by stratified squamous epithelium."
+    },
+    {
+        "id": 146,
+        "question": "Which junction allows communication between cells?",
+        "options": [
+            "Tight junction",
+            "Adhering junction",
+            "Gap junction",
+            "Desmosome"
+        ],
+        "answer": 2,
+        "explanation": "Gap junctions allow passage of ions and molecules."
+    },
+    {
+        "id": 147,
+        "question": "Which cells remove foreign particles in blood?",
+        "options": [
+            "Erythrocytes",
+            "Basophils",
+            "Monocytes",
+            "Platelets"
+        ],
+        "answer": 2,
+        "explanation": "Monocytes are phagocytic."
+    },
+    {
+        "id": 148,
+        "question": "Which tissue shows maximum contractility?",
+        "options": [
+            "Nervous",
+            "Muscular",
+            "Epithelial",
+            "Connective"
+        ],
+        "answer": 1,
+        "explanation": "Muscular tissue is specialized for contraction."
+    },
+    {
+        "id": 149,
+        "question": "Which region of nephron is absent in cortical nephrons?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Long loop of Henle",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "Cortical nephrons have short loops of Henle."
+    },
+    {
+        "id": 150,
+        "question": "Which blood protein maintains osmotic balance?",
+        "options": [
+            "Globulin",
+            "Fibrinogen",
+            "Albumin",
+            "Heparin"
+        ],
+        "answer": 2,
+        "explanation": "Albumin maintains osmotic pressure."
+    }
+]
+```json
+[
+    {
+        "id": 151,
+        "question": "Which epithelial tissue lines the ducts of sweat glands according to NCERT?",
+        "options": [
+            "Simple cuboidal epithelium",
+            "Stratified cuboidal epithelium",
+            "Stratified squamous epithelium",
+            "Simple columnar epithelium"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that ducts of sweat glands are lined by stratified cuboidal epithelium."
+    },
+    {
+        "id": 152,
+        "question": "The basement membrane of epithelial tissue is secreted by:",
+        "options": [
+            "Connective tissue cells only",
+            "Epithelial cells only",
+            "Both epithelial and connective tissue cells",
+            "Fibroblasts exclusively"
+        ],
+        "answer": 2,
+        "explanation": "Basement membrane is formed by joint activity of epithelial cells and connective tissue."
+    },
+    {
+        "id": 153,
+        "question": "Which connective tissue acts as a shock absorber in the body?",
+        "options": [
+            "Areolar tissue",
+            "Dense regular tissue",
+            "Adipose tissue",
+            "Reticular tissue"
+        ],
+        "answer": 2,
+        "explanation": "Adipose tissue cushions organs and acts as shock absorber."
+    },
+    {
+        "id": 154,
+        "question": "Which connective tissue contains mast cells?",
+        "options": [
+            "Blood",
+            "Cartilage",
+            "Areolar tissue",
+            "Bone"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue contains mast cells that release histamine and heparin."
+    },
+    {
+        "id": 155,
+        "question": "Which plasma protein plays a major role in maintaining blood osmotic pressure?",
+        "options": [
+            "Globulin",
+            "Albumin",
+            "Fibrinogen",
+            "Heparin"
+        ],
+        "answer": 1,
+        "explanation": "Albumin maintains colloidal osmotic pressure of blood."
+    },
+    {
+        "id": 156,
+        "question": "Which leucocytes are agranulocytes?",
+        "options": [
+            "Neutrophils and eosinophils",
+            "Basophils and neutrophils",
+            "Monocytes and lymphocytes",
+            "Eosinophils and basophils"
+        ],
+        "answer": 2,
+        "explanation": "Monocytes and lymphocytes lack granules and are agranulocytes."
+    },
+    {
+        "id": 157,
+        "question": "The average diameter of human erythrocytes is approximately:",
+        "options": [
+            "2–3 µm",
+            "4–5 µm",
+            "7–8 µm",
+            "10–12 µm"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states human RBCs have a diameter of about 7–8 µm."
+    },
+    {
+        "id": 158,
+        "question": "Which blood cells are involved in allergic reactions?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Monocytes",
+            "Lymphocytes"
+        ],
+        "answer": 1,
+        "explanation": "Basophils release histamine and are involved in allergic responses."
+    },
+    {
+        "id": 159,
+        "question": "Which muscle fibres show cross striations and voluntary control?",
+        "options": [
+            "Smooth muscle fibres",
+            "Cardiac muscle fibres",
+            "Skeletal muscle fibres",
+            "Visceral muscle fibres"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are striated and voluntary."
+    },
+    {
+        "id": 160,
+        "question": "Which muscle fibres are uninucleate and spindle-shaped?",
+        "options": [
+            "Skeletal muscle fibres",
+            "Cardiac muscle fibres",
+            "Smooth muscle fibres",
+            "Striated muscle fibres"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscle fibres are spindle-shaped and uninucleate."
+    },
+    {
+        "id": 161,
+        "question": "The functional unit of a myofibril is:",
+        "options": [
+            "Myosin filament",
+            "Actin filament",
+            "Sarcomere",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "Sarcomere is the structural and functional unit of myofibril."
+    },
+    {
+        "id": 162,
+        "question": "Which band of sarcomere remains unchanged during muscle contraction?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "Length of A band remains constant during contraction."
+    },
+    {
+        "id": 163,
+        "question": "Which part of neuron is devoid of Nissl bodies?",
+        "options": [
+            "Cyton",
+            "Dendrites",
+            "Axon",
+            "Axon hillock"
+        ],
+        "answer": 2,
+        "explanation": "Axon lacks Nissl bodies as per NCERT."
+    },
+    {
+        "id": 164,
+        "question": "Which neuroglial cells form myelin sheath in CNS?",
+        "options": [
+            "Schwann cells",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia"
+        ],
+        "answer": 2,
+        "explanation": "Oligodendrocytes form myelin sheath in CNS."
+    },
+    {
+        "id": 165,
+        "question": "Which layer of alimentary canal consists of epithelial lining, lamina propria and muscularis mucosa?",
+        "options": [
+            "Submucosa",
+            "Muscularis",
+            "Mucosa",
+            "Serosa"
+        ],
+        "answer": 2,
+        "explanation": "Mucosa includes epithelium, lamina propria and muscularis mucosa."
+    },
+    {
+        "id": 166,
+        "question": "Which part of alimentary canal does not secrete digestive enzymes?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Duodenum"
+        ],
+        "answer": 2,
+        "explanation": "Large intestine does not secrete digestive enzymes."
+    },
+    {
+        "id": 167,
+        "question": "Which cells of gastric glands secrete pepsinogen?",
+        "options": [
+            "Parietal cells",
+            "Chief cells",
+            "Goblet cells",
+            "Mucous neck cells"
+        ],
+        "answer": 1,
+        "explanation": "Chief cells secrete pepsinogen."
+    },
+    {
+        "id": 168,
+        "question": "Which part of stomach connects to oesophagus?",
+        "options": [
+            "Pyloric region",
+            "Fundus",
+            "Cardiac region",
+            "Body"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac region connects stomach to oesophagus."
+    },
+    {
+        "id": 169,
+        "question": "Which structure of small intestine secretes intestinal juice?",
+        "options": [
+            "Brunner's glands",
+            "Crypts of Lieberkühn",
+            "Villi",
+            "Plicae circulares"
+        ],
+        "answer": 1,
+        "explanation": "Crypts of Lieberkühn secrete intestinal juice."
+    },
+    {
+        "id": 170,
+        "question": "Which cells of liver act as phagocytes?",
+        "options": [
+            "Hepatocytes",
+            "Kupffer cells",
+            "Endothelial cells",
+            "Bile duct cells"
+        ],
+        "answer": 1,
+        "explanation": "Kupffer cells are phagocytic cells of liver."
+    },
+    {
+        "id": 171,
+        "question": "Which region of nephron is absent in medullary nephrons?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Short loop of Henle",
+            "Renal corpuscle"
+        ],
+        "answer": 2,
+        "explanation": "Medullary nephrons have long loops, not short loops."
+    },
+    {
+        "id": 172,
+        "question": "Which epithelium lines Bowman's capsule?",
+        "options": [
+            "Simple squamous epithelium",
+            "Simple cuboidal epithelium",
+            "Stratified squamous epithelium",
+            "Columnar epithelium"
+        ],
+        "answer": 0,
+        "explanation": "Bowman's capsule is lined by simple squamous epithelium."
+    },
+    {
+        "id": 173,
+        "question": "Which part of nephron shows maximum reabsorption of filtrate?",
+        "options": [
+            "DCT",
+            "Loop of Henle",
+            "PCT",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "PCT reabsorbs maximum filtrate."
+    },
+    {
+        "id": 174,
+        "question": "Which cartilage forms the C-shaped rings of trachea?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Tracheal rings are composed of hyaline cartilage."
+    },
+    {
+        "id": 175,
+        "question": "Which bone cells are involved in bone resorption?",
+        "options": [
+            "Osteocytes",
+            "Osteoblasts",
+            "Osteoclasts",
+            "Chondrocytes"
+        ],
+        "answer": 2,
+        "explanation": "Osteoclasts resorb bone matrix."
+    },
+    {
+        "id": 176,
+        "question": "Haversian system is absent in:",
+        "options": [
+            "Compact bone",
+            "Long bones",
+            "Spongy bone",
+            "Cortical bone"
+        ],
+        "answer": 2,
+        "explanation": "Spongy bone lacks Haversian system."
+    },
+    {
+        "id": 177,
+        "question": "Which connective tissue has reticular fibres forming network?",
+        "options": [
+            "Areolar tissue",
+            "Dense connective tissue",
+            "Reticular tissue",
+            "Adipose tissue"
+        ],
+        "answer": 2,
+        "explanation": "Reticular tissue contains network of reticular fibres."
+    },
+    {
+        "id": 178,
+        "question": "Which muscle type shows branching fibres with single nucleus?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle fibres are branched and usually uninucleate."
+    },
+    {
+        "id": 179,
+        "question": "Which protein complex regulates actin-myosin interaction?",
+        "options": [
+            "Troponin–tropomyosin complex",
+            "Myosin head",
+            "Actinin complex",
+            "Titin complex"
+        ],
+        "answer": 0,
+        "explanation": "Troponin–tropomyosin complex regulates actin-myosin interaction."
+    },
+    {
+        "id": 180,
+        "question": "Which ion initiates muscle contraction by binding to troponin?",
+        "options": [
+            "Na+",
+            "K+",
+            "Ca2+",
+            "Cl−"
+        ],
+        "answer": 2,
+        "explanation": "Calcium ions bind to troponin to initiate contraction."
+    },
+    {
+        "id": 181,
+        "question": "Which glial cells provide structural support to neurons?",
+        "options": [
+            "Microglia",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 1,
+        "explanation": "Astrocytes provide structural and metabolic support."
+    },
+    {
+        "id": 182,
+        "question": "Which layer of alimentary canal is responsible for peristaltic movement?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 2,
+        "explanation": "Muscularis layer produces peristalsis."
+    },
+    {
+        "id": 183,
+        "question": "Which structure prevents regurgitation of food from stomach?",
+        "options": [
+            "Pyloric sphincter",
+            "Cardiac sphincter",
+            "Ileocecal valve",
+            "Anal sphincter"
+        ],
+        "answer": 1,
+        "explanation": "Cardiac sphincter prevents reflux into oesophagus."
+    },
+    {
+        "id": 184,
+        "question": "Which secretion emulsifies fats?",
+        "options": [
+            "Pancreatic juice",
+            "Bile",
+            "Intestinal juice",
+            "Gastric juice"
+        ],
+        "answer": 1,
+        "explanation": "Bile emulsifies fats as per NCERT."
+    },
+    {
+        "id": 185,
+        "question": "Which structure connects distal convoluted tubule to renal pelvis?",
+        "options": [
+            "Loop of Henle",
+            "Collecting duct",
+            "Ureter",
+            "Bowman's capsule"
+        ],
+        "answer": 1,
+        "explanation": "Collecting ducts drain into renal pelvis."
+    },
+    {
+        "id": 186,
+        "question": "Which epithelium lines urinary bladder?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Transitional",
+            "Stratified squamous"
+        ],
+        "answer": 2,
+        "explanation": "Urinary bladder is lined by transitional epithelium."
+    },
+    {
+        "id": 187,
+        "question": "Which hormone increases water permeability of collecting duct?",
+        "options": [
+            "ANF",
+            "Aldosterone",
+            "ADH",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "ADH increases water permeability of collecting duct."
+    },
+    {
+        "id": 188,
+        "question": "Which cartilage is present in epiglottis?",
+        "options": [
+            "Hyaline cartilage",
+            "Fibrocartilage",
+            "Elastic cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Epiglottis contains elastic cartilage."
+    },
+    {
+        "id": 189,
+        "question": "Which connective tissue connects bone to bone?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Areolar tissue",
+            "Dense irregular tissue"
+        ],
+        "answer": 1,
+        "explanation": "Ligaments connect bones to bones."
+    },
+    {
+        "id": 190,
+        "question": "Which muscle maintains posture and body balance?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles maintain posture."
+    },
+    {
+        "id": 191,
+        "question": "Which band of sarcomere contains Z line?",
+        "options": [
+            "A band",
+            "H zone",
+            "I band",
+            "M line"
+        ],
+        "answer": 2,
+        "explanation": "Z line lies in the center of I band."
+    },
+    {
+        "id": 192,
+        "question": "Which part of neuron initiates action potential?",
+        "options": [
+            "Dendrite",
+            "Cyton",
+            "Axon hillock",
+            "Axon terminal"
+        ],
+        "answer": 2,
+        "explanation": "Action potential is initiated at axon hillock."
+    },
+    {
+        "id": 193,
+        "question": "Which layer of alimentary canal contains Meissner's plexus?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 1,
+        "explanation": "Meissner's plexus is located in submucosa."
+    },
+    {
+        "id": 194,
+        "question": "Which part of alimentary canal shows haustra?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Haustra are present in large intestine."
+    },
+    {
+        "id": 195,
+        "question": "Which secretion neutralizes acidic chyme in duodenum?",
+        "options": [
+            "Gastric juice",
+            "Pancreatic juice",
+            "Saliva",
+            "Intestinal juice"
+        ],
+        "answer": 1,
+        "explanation": "Pancreatic juice neutralizes acidic chyme."
+    },
+    {
+        "id": 196,
+        "question": "Which part of nephron maintains osmotic gradient in kidney?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Loop of Henle",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "Loop of Henle maintains osmotic gradient."
+    },
+    {
+        "id": 197,
+        "question": "Which epithelium lines fallopian tube?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Ciliated columnar",
+            "Transitional"
+        ],
+        "answer": 2,
+        "explanation": "Fallopian tube is lined by ciliated columnar epithelium."
+    },
+    {
+        "id": 198,
+        "question": "Which blood component transports nutrients, hormones and wastes?",
+        "options": [
+            "RBCs",
+            "WBCs",
+            "Platelets",
+            "Plasma"
+        ],
+        "answer": 3,
+        "explanation": "Plasma transports nutrients, hormones and wastes."
+    },
+    {
+        "id": 199,
+        "question": "Which connective tissue is avascular?",
+        "options": [
+            "Bone",
+            "Cartilage",
+            "Blood",
+            "Areolar tissue"
+        ],
+        "answer": 1,
+        "explanation": "Cartilage lacks blood supply."
+    },
+    {
+        "id": 200,
+        "question": "Which tissue is specialized for rapid transmission of electrical impulses?",
+        "options": [
+            "Muscular tissue",
+            "Connective tissue",
+            "Epithelial tissue",
+            "Nervous tissue"
+        ],
+        "answer": 3,
+        "explanation": "Nervous tissue conducts electrical impulses rapidly."
+    }
+]
+```
+[
+    {
+        "id": 201,
+        "question": "Which epithelial tissue is specialized for absorption due to presence of microvilli?",
+        "options": [
+            "Simple squamous epithelium",
+            "Stratified squamous epithelium",
+            "Simple columnar epithelium",
+            "Transitional epithelium"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states simple columnar epithelium of intestine bears microvilli for absorption."
+    },
+    {
+        "id": 202,
+        "question": "Basement membrane is composed mainly of:",
+        "options": [
+            "Elastic fibres",
+            "Collagen fibres and glycoproteins",
+            "Chitin",
+            "Keratin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions basement membrane contains collagen fibres and glycoproteins."
+    },
+    {
+        "id": 203,
+        "question": "Which epithelial tissue is found lining blood vessels?",
+        "options": [
+            "Cuboidal epithelium",
+            "Stratified squamous epithelium",
+            "Simple squamous epithelium",
+            "Ciliated epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Blood vessels are lined by simple squamous epithelium (endothelium)."
+    },
+    {
+        "id": 204,
+        "question": "The connective tissue that stores fat beneath the skin is:",
+        "options": [
+            "Areolar tissue",
+            "Adipose tissue",
+            "Dense regular tissue",
+            "Cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Adipose tissue stores fat under skin as per NCERT."
+    },
+    {
+        "id": 205,
+        "question": "Which fibres provide elasticity to connective tissues?",
+        "options": [
+            "Collagen fibres",
+            "Reticular fibres",
+            "Elastic fibres",
+            "Keratin fibres"
+        ],
+        "answer": 2,
+        "explanation": "Elastic fibres provide elasticity according to NCERT."
+    },
+    {
+        "id": 206,
+        "question": "Which connective tissue is highly vascular?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Dense connective tissue",
+            "Adipose tissue"
+        ],
+        "answer": 1,
+        "explanation": "Bone is highly vascularized as stated in NCERT."
+    },
+    {
+        "id": 207,
+        "question": "Which cells of blood are involved in clot formation?",
+        "options": [
+            "Erythrocytes",
+            "Leucocytes",
+            "Platelets",
+            "Plasma cells"
+        ],
+        "answer": 2,
+        "explanation": "Platelets help in blood clotting."
+    },
+    {
+        "id": 208,
+        "question": "Which leucocyte differentiates into macrophages in tissues?",
+        "options": [
+            "Basophil",
+            "Eosinophil",
+            "Monocyte",
+            "Lymphocyte"
+        ],
+        "answer": 2,
+        "explanation": "Monocytes differentiate into macrophages."
+    },
+    {
+        "id": 209,
+        "question": "Which blood cells are involved in parasitic infections?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Eosinophils",
+            "Monocytes"
+        ],
+        "answer": 2,
+        "explanation": "Eosinophils are associated with parasitic infections."
+    },
+    {
+        "id": 210,
+        "question": "Which plasma protein is converted into fibrin during clotting?",
+        "options": [
+            "Albumin",
+            "Globulin",
+            "Fibrinogen",
+            "Prothrombin"
+        ],
+        "answer": 2,
+        "explanation": "Fibrinogen is converted to fibrin during clotting."
+    },
+    {
+        "id": 211,
+        "question": "Which muscle fibres are multinucleated?",
+        "options": [
+            "Smooth muscle fibres",
+            "Cardiac muscle fibres",
+            "Skeletal muscle fibres",
+            "Visceral muscle fibres"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscle fibres are multinucleate."
+    },
+    {
+        "id": 212,
+        "question": "Which muscle tissue lacks intercalated discs?",
+        "options": [
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Both smooth and skeletal muscle"
+        ],
+        "answer": 3,
+        "explanation": "Intercalated discs are present only in cardiac muscle."
+    },
+    {
+        "id": 213,
+        "question": "Sarcolemma refers to:",
+        "options": [
+            "Cytoplasm of muscle fibre",
+            "Plasma membrane of muscle fibre",
+            "Contractile protein",
+            "Connective tissue sheath"
+        ],
+        "answer": 1,
+        "explanation": "Sarcolemma is the plasma membrane of muscle fibre."
+    },
+    {
+        "id": 214,
+        "question": "Sarcoplasm refers to:",
+        "options": [
+            "Nucleus of muscle cell",
+            "Cytoplasm of muscle fibre",
+            "Muscle sheath",
+            "Contractile filament"
+        ],
+        "answer": 1,
+        "explanation": "Sarcoplasm is the cytoplasm of muscle fibre."
+    },
+    {
+        "id": 215,
+        "question": "Which band of sarcomere contains only actin filaments?",
+        "options": [
+            "A band",
+            "H zone",
+            "I band",
+            "M line"
+        ],
+        "answer": 2,
+        "explanation": "I band contains only actin filaments."
+    },
+    {
+        "id": 216,
+        "question": "Which band shortens during muscle contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "Z line",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band shortens during contraction."
+    },
+    {
+        "id": 217,
+        "question": "Which part of neuron contains Nissl bodies?",
+        "options": [
+            "Axon hillock",
+            "Axon",
+            "Cyton",
+            "Axon terminal"
+        ],
+        "answer": 2,
+        "explanation": "Nissl bodies are present in cyton."
+    },
+    {
+        "id": 218,
+        "question": "Which glial cells provide structural support to neurons?",
+        "options": [
+            "Microglia",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 1,
+        "explanation": "Astrocytes provide support to neurons."
+    },
+    {
+        "id": 219,
+        "question": "Which layer of alimentary canal is made of connective tissue?",
+        "options": [
+            "Mucosa",
+            "Muscularis",
+            "Submucosa",
+            "Epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Submucosa is composed of connective tissue."
+    },
+    {
+        "id": 220,
+        "question": "Which part of alimentary canal lacks villi?",
+        "options": [
+            "Duodenum",
+            "Jejunum",
+            "Ileum",
+            "Large intestine"
+        ],
+        "answer": 3,
+        "explanation": "Large intestine lacks villi."
+    },
+    {
+        "id": 221,
+        "question": "Which enzyme is secreted in inactive form in stomach?",
+        "options": [
+            "Pepsin",
+            "Pepsinogen",
+            "Trypsin",
+            "Amylase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsinogen is secreted in inactive form."
+    },
+    {
+        "id": 222,
+        "question": "Which cells secrete intrinsic factor?",
+        "options": [
+            "Chief cells",
+            "Parietal cells",
+            "Goblet cells",
+            "Enterocytes"
+        ],
+        "answer": 1,
+        "explanation": "Parietal cells secrete intrinsic factor."
+    },
+    {
+        "id": 223,
+        "question": "Which structure carries bile from liver?",
+        "options": [
+            "Hepatic artery",
+            "Hepatic vein",
+            "Bile duct",
+            "Portal vein"
+        ],
+        "answer": 2,
+        "explanation": "Bile duct carries bile."
+    },
+    {
+        "id": 224,
+        "question": "Which part of kidney contains renal corpuscles?",
+        "options": [
+            "Medulla",
+            "Pelvis",
+            "Cortex",
+            "Calyx"
+        ],
+        "answer": 2,
+        "explanation": "Renal corpuscles are present in cortex."
+    },
+    {
+        "id": 225,
+        "question": "Which blood vessel brings blood to glomerulus?",
+        "options": [
+            "Efferent arteriole",
+            "Afferent arteriole",
+            "Renal vein",
+            "Renal artery"
+        ],
+        "answer": 1,
+        "explanation": "Afferent arteriole brings blood to glomerulus."
+    },
+    {
+        "id": 226,
+        "question": "Which vessel carries blood away from glomerulus?",
+        "options": [
+            "Renal vein",
+            "Renal artery",
+            "Efferent arteriole",
+            "Afferent arteriole"
+        ],
+        "answer": 2,
+        "explanation": "Efferent arteriole carries blood away."
+    },
+    {
+        "id": 227,
+        "question": "Which process occurs in glomerulus?",
+        "options": [
+            "Selective reabsorption",
+            "Tubular secretion",
+            "Ultrafiltration",
+            "Osmoregulation"
+        ],
+        "answer": 2,
+        "explanation": "Ultrafiltration occurs in glomerulus."
+    },
+    {
+        "id": 228,
+        "question": "Which cartilage provides flexibility to ear pinna?",
+        "options": [
+            "Hyaline cartilage",
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Elastic cartilage is present in ear pinna."
+    },
+    {
+        "id": 229,
+        "question": "Which bone cells are involved in bone formation?",
+        "options": [
+            "Osteocytes",
+            "Osteoclasts",
+            "Osteoblasts",
+            "Chondrocytes"
+        ],
+        "answer": 2,
+        "explanation": "Osteoblasts form bone."
+    },
+    {
+        "id": 230,
+        "question": "Which cells dissolve bone matrix?",
+        "options": [
+            "Osteoblasts",
+            "Osteocytes",
+            "Osteoclasts",
+            "Chondrocytes"
+        ],
+        "answer": 2,
+        "explanation": "Osteoclasts resorb bone."
+    },
+    {
+        "id": 231,
+        "question": "Which connective tissue has least regenerative capacity?",
+        "options": [
+            "Bone",
+            "Blood",
+            "Cartilage",
+            "Areolar tissue"
+        ],
+        "answer": 2,
+        "explanation": "Cartilage has poor regenerative ability."
+    },
+    {
+        "id": 232,
+        "question": "Which muscle is responsible for peristalsis?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Peristalsis is due to smooth muscle."
+    },
+    {
+        "id": 233,
+        "question": "Which protein binds actin filaments to Z line?",
+        "options": [
+            "Myosin",
+            "Troponin",
+            "Tropomyosin",
+            "Alpha-actinin"
+        ],
+        "answer": 3,
+        "explanation": "Alpha-actinin anchors actin to Z line."
+    },
+    {
+        "id": 234,
+        "question": "Which ion is essential for muscle contraction?",
+        "options": [
+            "Na+",
+            "K+",
+            "Ca2+",
+            "Cl-"
+        ],
+        "answer": 2,
+        "explanation": "Calcium ions trigger muscle contraction."
+    },
+    {
+        "id": 235,
+        "question": "Which structure forms synapse?",
+        "options": [
+            "Axon hillock",
+            "Dendrite",
+            "Axon terminal",
+            "Cyton"
+        ],
+        "answer": 2,
+        "explanation": "Synapse is formed at axon terminal."
+    },
+    {
+        "id": 236,
+        "question": "Which glial cells form myelin sheath in PNS?",
+        "options": [
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia",
+            "Schwann cells"
+        ],
+        "answer": 3,
+        "explanation": "Schwann cells form myelin in PNS."
+    },
+    {
+        "id": 237,
+        "question": "Which region of stomach connects to duodenum?",
+        "options": [
+            "Fundus",
+            "Body",
+            "Cardiac region",
+            "Pyloric region"
+        ],
+        "answer": 3,
+        "explanation": "Pyloric region opens into duodenum."
+    },
+    {
+        "id": 238,
+        "question": "Which sphincter guards opening of stomach?",
+        "options": [
+            "Anal sphincter",
+            "Pyloric sphincter",
+            "Ileocecal sphincter",
+            "Cardiac sphincter"
+        ],
+        "answer": 1,
+        "explanation": "Pyloric sphincter guards stomach exit."
+    },
+    {
+        "id": 239,
+        "question": "Which part of nephron opens into collecting duct?",
+        "options": [
+            "PCT",
+            "Loop of Henle",
+            "DCT",
+            "Glomerulus"
+        ],
+        "answer": 2,
+        "explanation": "DCT opens into collecting duct."
+    },
+    {
+        "id": 240,
+        "question": "Which hormone decreases urine output?",
+        "options": [
+            "ANF",
+            "Renin",
+            "ADH",
+            "Aldosterone"
+        ],
+        "answer": 2,
+        "explanation": "ADH reduces urine volume."
+    },
+    {
+        "id": 241,
+        "question": "Which epithelium lines intestine?",
+        "options": [
+            "Stratified squamous",
+            "Simple columnar",
+            "Cuboidal",
+            "Ciliated"
+        ],
+        "answer": 1,
+        "explanation": "Intestine is lined by simple columnar epithelium."
+    },
+    {
+        "id": 242,
+        "question": "Which WBCs lack granules?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Eosinophils",
+            "Lymphocytes"
+        ],
+        "answer": 3,
+        "explanation": "Lymphocytes are agranulocytes."
+    },
+    {
+        "id": 243,
+        "question": "Which blood group antigen is present on RBC membrane?",
+        "options": [
+            "Plasma protein",
+            "Glycoprotein",
+            "Lipid",
+            "Enzyme"
+        ],
+        "answer": 1,
+        "explanation": "Blood group antigens are glycoproteins."
+    },
+    {
+        "id": 244,
+        "question": "Which connective tissue binds skin to muscles?",
+        "options": [
+            "Adipose tissue",
+            "Areolar tissue",
+            "Dense tissue",
+            "Cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Areolar tissue binds skin to muscles."
+    },
+    {
+        "id": 245,
+        "question": "Which muscle has centrally located nucleus?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Both smooth and cardiac muscle"
+        ],
+        "answer": 3,
+        "explanation": "Smooth and cardiac muscles have central nuclei."
+    },
+    {
+        "id": 246,
+        "question": "Which band remains constant during muscle contraction?",
+        "options": [
+            "I band",
+            "A band",
+            "H zone",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "A band length remains constant."
+    },
+    {
+        "id": 247,
+        "question": "Which structure separates adjacent sarcomeres?",
+        "options": [
+            "M line",
+            "I band",
+            "Z line",
+            "H zone"
+        ],
+        "answer": 2,
+        "explanation": "Z line separates sarcomeres."
+    },
+    {
+        "id": 248,
+        "question": "Which part of neuron initiates impulse?",
+        "options": [
+            "Dendrite",
+            "Axon hillock",
+            "Cyton",
+            "Axon terminal"
+        ],
+        "answer": 1,
+        "explanation": "Impulse is initiated at axon hillock."
+    },
+    {
+        "id": 249,
+        "question": "Which region of alimentary canal absorbs water?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Large intestine absorbs water."
+    },
+    {
+        "id": 250,
+        "question": "Which epithelium lines respiratory tract?",
+        "options": [
+            "Simple squamous",
+            "Ciliated columnar",
+            "Cuboidal",
+            "Transitional"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory tract is lined by ciliated columnar epithelium."
+    },
+    {
+        "id": 251,
+        "question": "Which cells of stomach secrete mucus?",
+        "options": [
+            "Chief cells",
+            "Parietal cells",
+            "Goblet cells",
+            "Zymogen cells"
+        ],
+        "answer": 2,
+        "explanation": "Goblet cells secrete mucus."
+    },
+    {
+        "id": 252,
+        "question": "Which part of kidney is funnel-shaped?",
+        "options": [
+            "Cortex",
+            "Medulla",
+            "Pelvis",
+            "Calyx"
+        ],
+        "answer": 2,
+        "explanation": "Renal pelvis is funnel-shaped."
+    },
+    {
+        "id": 253,
+        "question": "Which hormone increases sodium reabsorption in kidney?",
+        "options": [
+            "ADH",
+            "ANF",
+            "Aldosterone",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "Aldosterone increases sodium reabsorption."
+    },
+    {
+        "id": 254,
+        "question": "Which cartilage has perichondrium?",
+        "options": [
+            "Fibrocartilage",
+            "Elastic cartilage",
+            "Calcified cartilage",
+            "All cartilages"
+        ],
+        "answer": 1,
+        "explanation": "Elastic cartilage has perichondrium."
+    },
+    {
+        "id": 255,
+        "question": "Which tissue shows maximum elasticity?",
+        "options": [
+            "Dense regular tissue",
+            "Elastic connective tissue",
+            "Cartilage",
+            "Bone"
+        ],
+        "answer": 1,
+        "explanation": "Elastic connective tissue shows high elasticity."
+    },
+    {
+        "id": 256,
+        "question": "Which muscle contracts slowly and does not fatigue easily?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscle contracts slowly and resists fatigue."
+    },
+    {
+        "id": 257,
+        "question": "Which protein covers actin filament?",
+        "options": [
+            "Myosin",
+            "Troponin",
+            "Tropomyosin",
+            "Actinin"
+        ],
+        "answer": 2,
+        "explanation": "Tropomyosin covers actin filament."
+    },
+    {
+        "id": 258,
+        "question": "Which glial cells remove debris in CNS?",
+        "options": [
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia",
+            "Schwann cells"
+        ],
+        "answer": 2,
+        "explanation": "Microglia act as scavengers."
+    },
+    {
+        "id": 259,
+        "question": "Which part of alimentary canal lacks muscularis mucosa?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Oesophagus"
+        ],
+        "answer": 3,
+        "explanation": "Oesophagus lacks muscularis mucosa."
+    },
+    {
+        "id": 260,
+        "question": "Which secretion emulsifies fats?",
+        "options": [
+            "Pancreatic juice",
+            "Bile",
+            "Gastric juice",
+            "Intestinal juice"
+        ],
+        "answer": 1,
+        "explanation": "Bile emulsifies fats."
+    },
+    {
+        "id": 261,
+        "question": "Which part of nephron maintains osmotic gradient?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Loop of Henle",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "Loop of Henle maintains osmotic gradient."
+    },
+    {
+        "id": 262,
+        "question": "Which epithelium lines renal pelvis?",
+        "options": [
+            "Cuboidal",
+            "Transitional",
+            "Simple squamous",
+            "Columnar"
+        ],
+        "answer": 1,
+        "explanation": "Renal pelvis is lined by transitional epithelium."
+    },
+    {
+        "id": 263,
+        "question": "Which blood cells transport CO2?",
+        "options": [
+            "Platelets",
+            "RBCs",
+            "WBCs",
+            "Plasma cells"
+        ],
+        "answer": 1,
+        "explanation": "RBCs transport carbon dioxide."
+    },
+    {
+        "id": 264,
+        "question": "Which tissue is derived from mesoderm?",
+        "options": [
+            "Epithelial tissue",
+            "Nervous tissue",
+            "Muscular tissue",
+            "Glandular tissue"
+        ],
+        "answer": 2,
+        "explanation": "Muscular tissue is mesodermal in origin."
+    },
+    {
+        "id": 265,
+        "question": "Which muscle forms heart wall?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Heart wall is made of cardiac muscle."
+    },
+    {
+        "id": 266,
+        "question": "Which part of neuron lacks myelin sheath?",
+        "options": [
+            "Axon",
+            "Node of Ranvier",
+            "Cyton",
+            "Dendrite"
+        ],
+        "answer": 1,
+        "explanation": "Myelin sheath is absent at nodes of Ranvier."
+    },
+    {
+        "id": 267,
+        "question": "Which layer of alimentary canal forms outer covering?",
+        "options": [
+            "Mucosa",
+            "Muscularis",
+            "Submucosa",
+            "Serosa"
+        ],
+        "answer": 3,
+        "explanation": "Serosa is the outermost layer."
+    },
+    {
+        "id": 268,
+        "question": "Which enzyme is secreted by pancreas?",
+        "options": [
+            "Pepsin",
+            "Trypsinogen",
+            "Renin",
+            "Maltase"
+        ],
+        "answer": 1,
+        "explanation": "Pancreas secretes trypsinogen."
+    },
+    {
+        "id": 269,
+        "question": "Which structure prevents backflow of urine?",
+        "options": [
+            "Urethra",
+            "Ureterovesical junction",
+            "Collecting duct",
+            "Nephron"
+        ],
+        "answer": 1,
+        "explanation": "Ureterovesical junction prevents backflow."
+    },
+    {
+        "id": 270,
+        "question": "Which cartilage has no perichondrium?",
+        "options": [
+            "Elastic cartilage",
+            "Hyaline cartilage",
+            "Fibrocartilage",
+            "All cartilages"
+        ],
+        "answer": 2,
+        "explanation": "Fibrocartilage lacks perichondrium."
+    },
+    {
+        "id": 271,
+        "question": "Which cells of bone reside in lacunae?",
+        "options": [
+            "Osteoblasts",
+            "Osteoclasts",
+            "Osteocytes",
+            "Chondrocytes"
+        ],
+        "answer": 2,
+        "explanation": "Osteocytes occupy lacunae."
+    },
+    {
+        "id": 272,
+        "question": "Which connective tissue has maximum fibres?",
+        "options": [
+            "Loose connective tissue",
+            "Dense connective tissue",
+            "Blood",
+            "Cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Dense connective tissue has maximum fibres."
+    },
+    {
+        "id": 273,
+        "question": "Which muscle type shows striations but involuntary?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is striated and involuntary."
+    },
+    {
+        "id": 274,
+        "question": "Which protein binds calcium during muscle contraction?",
+        "options": [
+            "Tropomyosin",
+            "Troponin",
+            "Myosin",
+            "Actin"
+        ],
+        "answer": 1,
+        "explanation": "Troponin binds calcium ions."
+    },
+    {
+        "id": 275,
+        "question": "Which cells form blood-brain barrier?",
+        "options": [
+            "Microglia",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 1,
+        "explanation": "Astrocytes help form blood-brain barrier."
+    },
+    {
+        "id": 276,
+        "question": "Which part of alimentary canal has maximum length?",
+        "options": [
+            "Oesophagus",
+            "Stomach",
+            "Small intestine",
+            "Large intestine"
+        ],
+        "answer": 2,
+        "explanation": "Small intestine is the longest part."
+    },
+    {
+        "id": 277,
+        "question": "Which cells secrete bile?",
+        "options": [
+            "Kupffer cells",
+            "Hepatocytes",
+            "Acinar cells",
+            "Islet cells"
+        ],
+        "answer": 1,
+        "explanation": "Hepatocytes secrete bile."
+    },
+    {
+        "id": 278,
+        "question": "Which part of nephron is impermeable to water?",
+        "options": [
+            "Descending limb",
+            "Ascending limb",
+            "PCT",
+            "Collecting duct"
+        ],
+        "answer": 1,
+        "explanation": "Ascending limb is impermeable to water."
+    },
+    {
+        "id": 279,
+        "question": "Which epithelium lines fallopian tube?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Ciliated columnar",
+            "Transitional"
+        ],
+        "answer": 2,
+        "explanation": "Fallopian tube is lined by ciliated epithelium."
+    },
+    {
+        "id": 280,
+        "question": "Which blood cells are formed in red bone marrow?",
+        "options": [
+            "RBCs only",
+            "WBCs only",
+            "Platelets only",
+            "All blood cells"
+        ],
+        "answer": 3,
+        "explanation": "All blood cells are formed in red bone marrow."
+    },
+    {
+        "id": 281,
+        "question": "Which tissue has no blood supply?",
+        "options": [
+            "Bone",
+            "Cartilage",
+            "Blood",
+            "Muscle"
+        ],
+        "answer": 1,
+        "explanation": "Cartilage is avascular."
+    },
+    {
+        "id": 282,
+        "question": "Which muscle attaches to skeleton?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles attach to bones."
+    },
+    {
+        "id": 283,
+        "question": "Which band contains thick filaments only?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "H zone contains only myosin filaments."
+    },
+    {
+        "id": 284,
+        "question": "Which cell organelle is abundant in muscle fibres?",
+        "options": [
+            "Lysosomes",
+            "Mitochondria",
+            "Golgi apparatus",
+            "Ribosomes"
+        ],
+        "answer": 1,
+        "explanation": "Muscle fibres have many mitochondria."
+    },
+    {
+        "id": 285,
+        "question": "Which cells form insulating layer around neurons?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Neurons"
+        ],
+        "answer": 2,
+        "explanation": "Oligodendrocytes form insulating myelin."
+    },
+    {
+        "id": 286,
+        "question": "Which layer of alimentary canal contains nerve plexus?",
+        "options": [
+            "Mucosa",
+            "Muscularis",
+            "Submucosa",
+            "Serosa"
+        ],
+        "answer": 2,
+        "explanation": "Submucosa contains nerve plexus."
+    },
+    {
+        "id": 287,
+        "question": "Which structure increases surface area of intestine?",
+        "options": [
+            "Rugae",
+            "Villi",
+            "Haustra",
+            "Pyloric sphincter"
+        ],
+        "answer": 1,
+        "explanation": "Villi increase surface area."
+    },
+    {
+        "id": 288,
+        "question": "Which part of kidney collects urine from nephrons?",
+        "options": [
+            "Cortex",
+            "Medulla",
+            "Pelvis",
+            "Calyx"
+        ],
+        "answer": 2,
+        "explanation": "Renal pelvis collects urine."
+    },
+    {
+        "id": 289,
+        "question": "Which hormone antagonizes ADH?",
+        "options": [
+            "Renin",
+            "Aldosterone",
+            "ANF",
+            "Angiotensin"
+        ],
+        "answer": 2,
+        "explanation": "ANF antagonizes ADH action."
+    },
+    {
+        "id": 290,
+        "question": "Which cartilage is most abundant in body?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Hyaline cartilage is most abundant."
+    },
+    {
+        "id": 291,
+        "question": "Which connective tissue forms framework of organs?",
+        "options": [
+            "Areolar tissue",
+            "Reticular tissue",
+            "Dense tissue",
+            "Adipose tissue"
+        ],
+        "answer": 1,
+        "explanation": "Reticular tissue forms supporting framework."
+    },
+    {
+        "id": 292,
+        "question": "Which muscle is found in iris of eye?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Iris contains smooth muscle."
+    },
+    {
+        "id": 293,
+        "question": "Which protein forms thick filament?",
+        "options": [
+            "Actin",
+            "Myosin",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "Myosin forms thick filaments."
+    },
+    {
+        "id": 294,
+        "question": "Which cells of nervous tissue are excitable?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Neurons",
+            "Oligodendrocytes"
+        ],
+        "answer": 2,
+        "explanation": "Neurons are excitable cells."
+    },
+    {
+        "id": 295,
+        "question": "Which part of alimentary canal shows rugae?",
+        "options": [
+            "Oesophagus",
+            "Stomach",
+            "Small intestine",
+            "Large intestine"
+        ],
+        "answer": 1,
+        "explanation": "Stomach has rugae."
+    },
+    {
+        "id": 296,
+        "question": "Which secretion neutralizes acidic chyme?",
+        "options": [
+            "Gastric juice",
+            "Pancreatic juice",
+            "Bile",
+            "Saliva"
+        ],
+        "answer": 2,
+        "explanation": "Bile neutralizes acidic chyme."
+    },
+    {
+        "id": 297,
+        "question": "Which part of nephron secretes H+ and K+ ions?",
+        "options": [
+            "PCT",
+            "Loop of Henle",
+            "DCT",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "DCT secretes H+ and K+ ions."
+    },
+    {
+        "id": 298,
+        "question": "Which epithelium lines uterus?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Ciliated columnar",
+            "Transitional"
+        ],
+        "answer": 2,
+        "explanation": "Uterus is lined by ciliated columnar epithelium."
+    },
+    {
+        "id": 299,
+        "question": "Which blood component transports nutrients?",
+        "options": [
+            "RBCs",
+            "WBCs",
+            "Plasma",
+            "Platelets"
+        ],
+        "answer": 2,
+        "explanation": "Plasma transports nutrients."
+    },
+    {
+        "id": 300,
+        "question": "Which tissue is specialized for rapid conduction of impulses?",
+        "options": [
+            "Epithelial tissue",
+            "Connective tissue",
+            "Muscular tissue",
+            "Nervous tissue"
+        ],
+        "answer": 3,
+        "explanation": "Nervous tissue is specialized for impulse conduction."
+    }
+]
+[
+    {
+        "id": 301,
+        "question": "Which epithelial tissue is specialized for secretion and forms glands?",
+        "options": [
+            "Squamous epithelium",
+            "Cuboidal epithelium",
+            "Glandular epithelium",
+            "Ciliated epithelium"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states glandular epithelium is specialized for secretion."
+    },
+    {
+        "id": 302,
+        "question": "Which type of gland releases its secretion directly into the blood?",
+        "options": [
+            "Exocrine gland",
+            "Endocrine gland",
+            "Mixed gland",
+            "Goblet gland"
+        ],
+        "answer": 1,
+        "explanation": "Endocrine glands are ductless and release hormones into blood."
+    },
+    {
+        "id": 303,
+        "question": "Which epithelial modification increases absorptive surface?",
+        "options": [
+            "Cilia",
+            "Flagella",
+            "Microvilli",
+            "Basement membrane"
+        ],
+        "answer": 2,
+        "explanation": "Microvilli increase surface area for absorption."
+    },
+    {
+        "id": 304,
+        "question": "Which connective tissue fibre is most abundant in the body?",
+        "options": [
+            "Elastic fibres",
+            "Reticular fibres",
+            "Collagen fibres",
+            "Keratin fibres"
+        ],
+        "answer": 2,
+        "explanation": "Collagen fibres are the most abundant connective tissue fibres."
+    },
+    {
+        "id": 305,
+        "question": "Which connective tissue provides insulation against heat loss?",
+        "options": [
+            "Areolar tissue",
+            "Adipose tissue",
+            "Dense connective tissue",
+            "Reticular tissue"
+        ],
+        "answer": 1,
+        "explanation": "Adipose tissue stores fat and provides insulation."
+    },
+    {
+        "id": 306,
+        "question": "Which blood cells lack haemoglobin?",
+        "options": [
+            "Erythrocytes",
+            "Neutrophils",
+            "Platelets",
+            "Lymphocytes"
+        ],
+        "answer": 3,
+        "explanation": "Lymphocytes do not contain haemoglobin."
+    },
+    {
+        "id": 307,
+        "question": "Which leucocytes release histamine?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Monocytes",
+            "Lymphocytes"
+        ],
+        "answer": 1,
+        "explanation": "Basophils release histamine during inflammatory responses."
+    },
+    {
+        "id": 308,
+        "question": "Which plasma protein is involved in immunity?",
+        "options": [
+            "Albumin",
+            "Globulin",
+            "Fibrinogen",
+            "Heparin"
+        ],
+        "answer": 1,
+        "explanation": "Globulins include immunoglobulins involved in immunity."
+    },
+    {
+        "id": 309,
+        "question": "Which muscle fibre contains peripheral nuclei?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscle fibres have peripheral nuclei."
+    },
+    {
+        "id": 310,
+        "question": "Which muscle tissue is non-striated and involuntary?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Striated muscle"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscle is non-striated and involuntary."
+    },
+    {
+        "id": 311,
+        "question": "Which structure holds actin and myosin filaments in position?",
+        "options": [
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril",
+            "Endoplasmic reticulum"
+        ],
+        "answer": 2,
+        "explanation": "Myofibrils contain actin and myosin filaments."
+    },
+    {
+        "id": 312,
+        "question": "Which band disappears during muscle contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "H zone",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "H zone disappears during muscle contraction."
+    },
+    {
+        "id": 313,
+        "question": "Which part of neuron contains cell organelles?",
+        "options": [
+            "Axon",
+            "Dendrite",
+            "Cyton",
+            "Axon terminal"
+        ],
+        "answer": 2,
+        "explanation": "Cyton contains nucleus and cell organelles."
+    },
+    {
+        "id": 314,
+        "question": "Which glial cells maintain ionic balance around neurons?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 0,
+        "explanation": "Astrocytes maintain ionic balance and support neurons."
+    },
+    {
+        "id": 315,
+        "question": "Which layer of alimentary canal contains blood vessels and nerves?",
+        "options": [
+            "Mucosa",
+            "Muscularis",
+            "Submucosa",
+            "Serosa"
+        ],
+        "answer": 2,
+        "explanation": "Submucosa contains blood vessels and nerves."
+    },
+    {
+        "id": 316,
+        "question": "Which part of alimentary canal shows finger-like projections?",
+        "options": [
+            "Stomach",
+            "Large intestine",
+            "Small intestine",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Small intestine has finger-like villi."
+    },
+    {
+        "id": 317,
+        "question": "Which enzyme digests proteins in stomach?",
+        "options": [
+            "Trypsin",
+            "Pepsin",
+            "Chymotrypsin",
+            "Amylase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsin digests proteins in stomach."
+    },
+    {
+        "id": 318,
+        "question": "Which secretion activates pepsinogen?",
+        "options": [
+            "Mucus",
+            "Bile",
+            "Hydrochloric acid",
+            "Saliva"
+        ],
+        "answer": 2,
+        "explanation": "HCl converts pepsinogen to pepsin."
+    },
+    {
+        "id": 319,
+        "question": "Which duct carries bile from gall bladder?",
+        "options": [
+            "Pancreatic duct",
+            "Hepatic duct",
+            "Cystic duct",
+            "Common bile duct"
+        ],
+        "answer": 2,
+        "explanation": "Cystic duct carries bile from gall bladder."
+    },
+    {
+        "id": 320,
+        "question": "Which part of kidney regulates concentration of urine?",
+        "options": [
+            "Cortex",
+            "Medulla",
+            "Pelvis",
+            "Calyx"
+        ],
+        "answer": 1,
+        "explanation": "Medulla plays major role in urine concentration."
+    },
+    {
+        "id": 321,
+        "question": "Which structure filters blood in kidney?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Glomerulus",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "Glomerulus filters blood by ultrafiltration."
+    },
+    {
+        "id": 322,
+        "question": "Which epithelium lines ureter?",
+        "options": [
+            "Cuboidal",
+            "Simple squamous",
+            "Transitional",
+            "Columnar"
+        ],
+        "answer": 2,
+        "explanation": "Ureter is lined by transitional epithelium."
+    },
+    {
+        "id": 323,
+        "question": "Which connective tissue forms tendons?",
+        "options": [
+            "Loose connective tissue",
+            "Dense regular connective tissue",
+            "Reticular tissue",
+            "Adipose tissue"
+        ],
+        "answer": 1,
+        "explanation": "Tendons are made of dense regular connective tissue."
+    },
+    {
+        "id": 324,
+        "question": "Which cartilage is present at tip of nose?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Tip of nose contains hyaline cartilage."
+    },
+    {
+        "id": 325,
+        "question": "Which bone tissue is spongy and light?",
+        "options": [
+            "Compact bone",
+            "Cortical bone",
+            "Spongy bone",
+            "Lamellar bone"
+        ],
+        "answer": 2,
+        "explanation": "Spongy bone is light and porous."
+    },
+    {
+        "id": 326,
+        "question": "Which muscle is resistant to fatigue?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle does not fatigue easily."
+    },
+    {
+        "id": 327,
+        "question": "Which protein initiates muscle contraction by binding calcium?",
+        "options": [
+            "Actin",
+            "Myosin",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 2,
+        "explanation": "Troponin binds calcium ions to initiate contraction."
+    },
+    {
+        "id": 328,
+        "question": "Which part of neuron transmits impulse to next neuron?",
+        "options": [
+            "Dendrite",
+            "Cyton",
+            "Axon terminal",
+            "Axon hillock"
+        ],
+        "answer": 2,
+        "explanation": "Axon terminals transmit impulses via synapse."
+    },
+    {
+        "id": 329,
+        "question": "Which cells of nervous tissue act as scavengers?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Neuroglia"
+        ],
+        "answer": 1,
+        "explanation": "Microglia remove debris by phagocytosis."
+    },
+    {
+        "id": 330,
+        "question": "Which layer of alimentary canal shows peristaltic movement?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 2,
+        "explanation": "Muscularis produces peristalsis."
+    },
+    {
+        "id": 331,
+        "question": "Which part of alimentary canal lacks serosa?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Oesophagus",
+            "Large intestine"
+        ],
+        "answer": 2,
+        "explanation": "Oesophagus lacks serosa."
+    },
+    {
+        "id": 332,
+        "question": "Which juice contains enterokinase?",
+        "options": [
+            "Gastric juice",
+            "Pancreatic juice",
+            "Intestinal juice",
+            "Saliva"
+        ],
+        "answer": 2,
+        "explanation": "Enterokinase is present in intestinal juice."
+    },
+    {
+        "id": 333,
+        "question": "Which structure transports urine out of body?",
+        "options": [
+            "Ureter",
+            "Urethra",
+            "Renal pelvis",
+            "Collecting duct"
+        ],
+        "answer": 1,
+        "explanation": "Urethra carries urine outside the body."
+    },
+    {
+        "id": 334,
+        "question": "Which hormone causes vasodilation of afferent arteriole?",
+        "options": [
+            "ADH",
+            "Renin",
+            "ANF",
+            "Aldosterone"
+        ],
+        "answer": 2,
+        "explanation": "ANF causes vasodilation and increases urine output."
+    },
+    {
+        "id": 335,
+        "question": "Which connective tissue forms ligaments?",
+        "options": [
+            "Dense regular connective tissue",
+            "Loose connective tissue",
+            "Reticular tissue",
+            "Adipose tissue"
+        ],
+        "answer": 0,
+        "explanation": "Ligaments are formed of dense regular connective tissue."
+    },
+    {
+        "id": 336,
+        "question": "Which muscle helps in movement of food in gut?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscle produces gut movements."
+    },
+    {
+        "id": 337,
+        "question": "Which part of sarcomere contains M line?",
+        "options": [
+            "I band",
+            "H zone",
+            "Z line",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "M line is present in the center of H zone."
+    },
+    {
+        "id": 338,
+        "question": "Which ions initiate action potential?",
+        "options": [
+            "Calcium ions",
+            "Potassium ions",
+            "Sodium ions",
+            "Chloride ions"
+        ],
+        "answer": 2,
+        "explanation": "Sodium ion influx initiates action potential."
+    },
+    {
+        "id": 339,
+        "question": "Which region of alimentary canal absorbs bile salts?",
+        "options": [
+            "Duodenum",
+            "Jejunum",
+            "Ileum",
+            "Colon"
+        ],
+        "answer": 2,
+        "explanation": "Ileum absorbs bile salts."
+    },
+    {
+        "id": 340,
+        "question": "Which epithelium lines bile duct?",
+        "options": [
+            "Cuboidal epithelium",
+            "Simple squamous epithelium",
+            "Ciliated epithelium",
+            "Transitional epithelium"
+        ],
+        "answer": 0,
+        "explanation": "Bile duct is lined by cuboidal epithelium."
+    },
+    {
+        "id": 341,
+        "question": "Which blood cells release antibodies?",
+        "options": [
+            "Plasma cells",
+            "Monocytes",
+            "Basophils",
+            "Neutrophils"
+        ],
+        "answer": 0,
+        "explanation": "Plasma cells secrete antibodies."
+    },
+    {
+        "id": 342,
+        "question": "Which tissue connects epithelium to underlying structures?",
+        "options": [
+            "Adipose tissue",
+            "Areolar tissue",
+            "Dense connective tissue",
+            "Reticular tissue"
+        ],
+        "answer": 1,
+        "explanation": "Areolar tissue connects epithelium to underlying tissues."
+    },
+    {
+        "id": 343,
+        "question": "Which muscle tissue shows branching fibers?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle fibres are branched."
+    },
+    {
+        "id": 344,
+        "question": "Which band contains both actin and myosin?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band contains overlapping actin and myosin."
+    },
+    {
+        "id": 345,
+        "question": "Which cells of nervous tissue form myelin sheath in CNS?",
+        "options": [
+            "Schwann cells",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia"
+        ],
+        "answer": 2,
+        "explanation": "Oligodendrocytes form myelin sheath in CNS."
+    },
+    {
+        "id": 346,
+        "question": "Which layer of alimentary canal secretes mucus?",
+        "options": [
+            "Muscularis",
+            "Serosa",
+            "Mucosa",
+            "Submucosa"
+        ],
+        "answer": 2,
+        "explanation": "Mucosa contains mucus-secreting cells."
+    },
+    {
+        "id": 347,
+        "question": "Which secretion activates trypsinogen?",
+        "options": [
+            "Bile",
+            "Enterokinase",
+            "Pepsin",
+            "HCl"
+        ],
+        "answer": 1,
+        "explanation": "Enterokinase converts trypsinogen to trypsin."
+    },
+    {
+        "id": 348,
+        "question": "Which structure prevents mixing of blood and filtrate?",
+        "options": [
+            "Glomerulus",
+            "Bowman's capsule",
+            "Filtration membrane",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "Filtration membrane prevents blood cells from entering filtrate."
+    },
+    {
+        "id": 349,
+        "question": "Which cartilage provides support to larynx?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Larynx is supported by hyaline cartilage."
+    },
+    {
+        "id": 350,
+        "question": "Which connective tissue has collagen arranged in parallel bundles?",
+        "options": [
+            "Loose connective tissue",
+            "Dense irregular tissue",
+            "Dense regular tissue",
+            "Reticular tissue"
+        ],
+        "answer": 2,
+        "explanation": "Dense regular connective tissue has parallel collagen fibres."
+    },
+    {
+        "id": 351,
+        "question": "Which muscle controls pupil size?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscles control pupil diameter."
+    },
+    {
+        "id": 352,
+        "question": "Which protein forms thin filament?",
+        "options": [
+            "Myosin",
+            "Actin",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "Actin forms thin filaments."
+    },
+    {
+        "id": 353,
+        "question": "Which structure conducts impulses faster due to saltatory conduction?",
+        "options": [
+            "Non-myelinated axon",
+            "Myelinated axon",
+            "Dendrite",
+            "Cyton"
+        ],
+        "answer": 1,
+        "explanation": "Saltatory conduction occurs in myelinated axons."
+    },
+    {
+        "id": 354,
+        "question": "Which layer of alimentary canal is outermost?",
+        "options": [
+            "Mucosa",
+            "Muscularis",
+            "Submucosa",
+            "Serosa"
+        ],
+        "answer": 3,
+        "explanation": "Serosa is the outermost layer."
+    },
+    {
+        "id": 355,
+        "question": "Which enzyme digests fats?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "Pepsin"
+        ],
+        "answer": 2,
+        "explanation": "Lipase digests fats."
+    },
+    {
+        "id": 356,
+        "question": "Which structure stores urine temporarily?",
+        "options": [
+            "Kidney",
+            "Ureter",
+            "Urinary bladder",
+            "Urethra"
+        ],
+        "answer": 2,
+        "explanation": "Urinary bladder stores urine."
+    },
+    {
+        "id": 357,
+        "question": "Which hormone increases blood volume by sodium retention?",
+        "options": [
+            "ADH",
+            "ANF",
+            "Aldosterone",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "Aldosterone increases sodium and water retention."
+    },
+    {
+        "id": 358,
+        "question": "Which cartilage connects ribs to sternum?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Costal cartilages are hyaline cartilage."
+    },
+    {
+        "id": 359,
+        "question": "Which tissue shows fastest healing?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Blood",
+            "Dense connective tissue"
+        ],
+        "answer": 2,
+        "explanation": "Blood shows fastest regeneration."
+    },
+    {
+        "id": 360,
+        "question": "Which muscle enables voluntary movement?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles enable voluntary movements."
+    },
+    {
+        "id": 361,
+        "question": "Which band shortens most during contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "Z line",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band shortens significantly during contraction."
+    },
+    {
+        "id": 362,
+        "question": "Which cells form nodes of Ranvier?",
+        "options": [
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Schwann cells",
+            "Microglia"
+        ],
+        "answer": 2,
+        "explanation": "Nodes of Ranvier are gaps between Schwann cells."
+    },
+    {
+        "id": 363,
+        "question": "Which part of alimentary canal absorbs maximum nutrients?",
+        "options": [
+            "Stomach",
+            "Duodenum",
+            "Jejunum",
+            "Colon"
+        ],
+        "answer": 2,
+        "explanation": "Jejunum absorbs maximum nutrients."
+    },
+    {
+        "id": 364,
+        "question": "Which secretion protects intestinal mucosa?",
+        "options": [
+            "Bile",
+            "Mucus",
+            "Pancreatic juice",
+            "Saliva"
+        ],
+        "answer": 1,
+        "explanation": "Mucus protects intestinal lining."
+    },
+    {
+        "id": 365,
+        "question": "Which part of nephron reabsorbs glucose?",
+        "options": [
+            "DCT",
+            "PCT",
+            "Loop of Henle",
+            "Collecting duct"
+        ],
+        "answer": 1,
+        "explanation": "PCT reabsorbs glucose."
+    },
+    {
+        "id": 366,
+        "question": "Which epithelium lines gall bladder?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Simple columnar",
+            "Transitional"
+        ],
+        "answer": 2,
+        "explanation": "Gall bladder is lined by simple columnar epithelium."
+    },
+    {
+        "id": 367,
+        "question": "Which blood component transports hormones?",
+        "options": [
+            "RBCs",
+            "Plasma",
+            "Platelets",
+            "WBCs"
+        ],
+        "answer": 1,
+        "explanation": "Hormones are transported by plasma."
+    },
+    {
+        "id": 368,
+        "question": "Which connective tissue provides flexible support?",
+        "options": [
+            "Bone",
+            "Cartilage",
+            "Dense tissue",
+            "Blood"
+        ],
+        "answer": 1,
+        "explanation": "Cartilage provides flexible support."
+    },
+    {
+        "id": 369,
+        "question": "Which muscle has single nucleus?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Both smooth and cardiac muscle"
+        ],
+        "answer": 3,
+        "explanation": "Smooth and cardiac muscles usually have single nucleus."
+    },
+    {
+        "id": 370,
+        "question": "Which protein prevents actin-myosin interaction at rest?",
+        "options": [
+            "Myosin",
+            "Troponin",
+            "Tropomyosin",
+            "Actin"
+        ],
+        "answer": 2,
+        "explanation": "Tropomyosin blocks actin-myosin interaction."
+    },
+    {
+        "id": 371,
+        "question": "Which cells insulate axons in PNS?",
+        "options": [
+            "Oligodendrocytes",
+            "Astrocytes",
+            "Schwann cells",
+            "Microglia"
+        ],
+        "answer": 2,
+        "explanation": "Schwann cells insulate axons in PNS."
+    },
+    {
+        "id": 372,
+        "question": "Which layer of alimentary canal contains lymph vessels?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 1,
+        "explanation": "Submucosa contains lymph vessels."
+    },
+    {
+        "id": 373,
+        "question": "Which enzyme converts maltose into glucose?",
+        "options": [
+            "Sucrase",
+            "Maltase",
+            "Lactase",
+            "Amylase"
+        ],
+        "answer": 1,
+        "explanation": "Maltase converts maltose into glucose."
+    },
+    {
+        "id": 374,
+        "question": "Which part of kidney receives urine first?",
+        "options": [
+            "Pelvis",
+            "Calyx",
+            "Ureter",
+            "Medulla"
+        ],
+        "answer": 1,
+        "explanation": "Calyx receives urine before pelvis."
+    },
+    {
+        "id": 375,
+        "question": "Which hormone reduces blood volume?",
+        "options": [
+            "ADH",
+            "Aldosterone",
+            "ANF",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "ANF reduces blood volume."
+    },
+    {
+        "id": 376,
+        "question": "Which cartilage forms intervertebral discs?",
+        "options": [
+            "Hyaline cartilage",
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral discs are fibrocartilage."
+    },
+    {
+        "id": 377,
+        "question": "Which connective tissue supports lymphoid organs?",
+        "options": [
+            "Areolar tissue",
+            "Reticular tissue",
+            "Dense tissue",
+            "Adipose tissue"
+        ],
+        "answer": 1,
+        "explanation": "Reticular tissue supports lymphoid organs."
+    },
+    {
+        "id": 378,
+        "question": "Which muscle maintains posture?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles maintain posture."
+    },
+    {
+        "id": 379,
+        "question": "Which band widens during muscle relaxation?",
+        "options": [
+            "A band",
+            "I band",
+            "H zone",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band widens during relaxation."
+    },
+    {
+        "id": 380,
+        "question": "Which cells maintain blood-brain barrier?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 0,
+        "explanation": "Astrocytes maintain blood-brain barrier."
+    },
+    {
+        "id": 381,
+        "question": "Which part of alimentary canal absorbs vitamin B12?",
+        "options": [
+            "Duodenum",
+            "Jejunum",
+            "Ileum",
+            "Colon"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin B12 is absorbed in ileum."
+    },
+    {
+        "id": 382,
+        "question": "Which secretion neutralizes gastric acid?",
+        "options": [
+            "Saliva",
+            "Pancreatic juice",
+            "Bile",
+            "Intestinal juice"
+        ],
+        "answer": 2,
+        "explanation": "Bile neutralizes acidic chyme."
+    },
+    {
+        "id": 383,
+        "question": "Which part of nephron regulates acid-base balance?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Loop of Henle",
+            "Bowman's capsule"
+        ],
+        "answer": 1,
+        "explanation": "DCT regulates acid-base balance."
+    },
+    {
+        "id": 384,
+        "question": "Which epithelium lines pancreas ducts?",
+        "options": [
+            "Cuboidal epithelium",
+            "Simple squamous epithelium",
+            "Columnar epithelium",
+            "Ciliated epithelium"
+        ],
+        "answer": 0,
+        "explanation": "Pancreatic ducts are lined by cuboidal epithelium."
+    },
+    {
+        "id": 385,
+        "question": "Which blood cells are nucleated?",
+        "options": [
+            "RBCs",
+            "Platelets",
+            "WBCs",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "WBCs are nucleated."
+    },
+    {
+        "id": 386,
+        "question": "Which connective tissue has macrophages?",
+        "options": [
+            "Bone",
+            "Cartilage",
+            "Areolar tissue",
+            "Blood"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue contains macrophages."
+    },
+    {
+        "id": 387,
+        "question": "Which muscle type shows slow rhythmic contraction?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle shows rhythmic contractions."
+    },
+    {
+        "id": 388,
+        "question": "Which protein links actin filaments to Z line?",
+        "options": [
+            "Myosin",
+            "Troponin",
+            "Alpha-actinin",
+            "Tropomyosin"
+        ],
+        "answer": 2,
+        "explanation": "Alpha-actinin anchors actin to Z line."
+    },
+    {
+        "id": 389,
+        "question": "Which cells remove dead neurons?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 1,
+        "explanation": "Microglia phagocytose dead neurons."
+    },
+    {
+        "id": 390,
+        "question": "Which layer of alimentary canal contains glands?",
+        "options": [
+            "Muscularis",
+            "Submucosa",
+            "Serosa",
+            "Adventitia"
+        ],
+        "answer": 1,
+        "explanation": "Submucosa contains glands."
+    },
+    {
+        "id": 391,
+        "question": "Which enzyme digests starch?",
+        "options": [
+            "Pepsin",
+            "Amylase",
+            "Lipase",
+            "Trypsin"
+        ],
+        "answer": 1,
+        "explanation": "Amylase digests starch."
+    },
+    {
+        "id": 392,
+        "question": "Which structure carries urine from pelvis?",
+        "options": [
+            "Urethra",
+            "Ureter",
+            "Collecting duct",
+            "Calyx"
+        ],
+        "answer": 1,
+        "explanation": "Ureter carries urine from pelvis."
+    },
+    {
+        "id": 393,
+        "question": "Which hormone increases water permeability of collecting duct?",
+        "options": [
+            "ANF",
+            "Aldosterone",
+            "ADH",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "ADH increases water permeability."
+    },
+    {
+        "id": 394,
+        "question": "Which cartilage is present in epiglottis?",
+        "options": [
+            "Hyaline cartilage",
+            "Fibrocartilage",
+            "Elastic cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Epiglottis is made of elastic cartilage."
+    },
+    {
+        "id": 395,
+        "question": "Which connective tissue binds muscle to muscle?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Areolar tissue",
+            "Dense tissue"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue binds muscles together."
+    },
+    {
+        "id": 396,
+        "question": "Which muscle is present in blood vessels?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscles are present in blood vessel walls."
+    },
+    {
+        "id": 397,
+        "question": "Which band contains Z line?",
+        "options": [
+            "I band",
+            "A band",
+            "H zone",
+            "M line"
+        ],
+        "answer": 0,
+        "explanation": "Z line lies in the center of I band."
+    },
+    {
+        "id": 398,
+        "question": "Which glial cells provide nourishment to neurons?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 0,
+        "explanation": "Astrocytes provide nourishment and support."
+    },
+    {
+        "id": 399,
+        "question": "Which part of alimentary canal shows haustra?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Haustra are present in large intestine."
+    },
+    {
+        "id": 400,
+        "question": "Which tissue coordinates and controls body activities?",
+        "options": [
+            "Muscular tissue",
+            "Connective tissue",
+            "Epithelial tissue",
+            "Nervous tissue"
+        ],
+        "answer": 3,
+        "explanation": "Nervous tissue controls and coordinates body functions."
+    }
+]
+[
+    {
+        "id": 401,
+        "question": "Which epithelial tissue forms the lining of sweat glands?",
+        "options": [
+            "Simple squamous epithelium",
+            "Stratified cuboidal epithelium",
+            "Simple columnar epithelium",
+            "Transitional epithelium"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ducts of sweat glands are lined by stratified cuboidal epithelium."
+    },
+    {
+        "id": 402,
+        "question": "Which type of connective tissue fibres provide tensile strength?",
+        "options": [
+            "Elastic fibres",
+            "Reticular fibres",
+            "Collagen fibres",
+            "Keratin fibres"
+        ],
+        "answer": 2,
+        "explanation": "Collagen fibres provide tensile strength to connective tissues."
+    },
+    {
+        "id": 403,
+        "question": "Which connective tissue cells are phagocytic in nature?",
+        "options": [
+            "Fibroblasts",
+            "Mast cells",
+            "Macrophages",
+            "Plasma cells"
+        ],
+        "answer": 2,
+        "explanation": "Macrophages show phagocytic activity as per NCERT."
+    },
+    {
+        "id": 404,
+        "question": "Which blood cells are responsible for blood clot retraction?",
+        "options": [
+            "Erythrocytes",
+            "Neutrophils",
+            "Platelets",
+            "Lymphocytes"
+        ],
+        "answer": 2,
+        "explanation": "Platelets play a role in clot formation and retraction."
+    },
+    {
+        "id": 405,
+        "question": "Which leucocyte has kidney-shaped nucleus?",
+        "options": [
+            "Neutrophil",
+            "Basophil",
+            "Monocyte",
+            "Lymphocyte"
+        ],
+        "answer": 2,
+        "explanation": "Monocytes have kidney-shaped nucleus."
+    },
+    {
+        "id": 406,
+        "question": "Which muscle tissue is characterized by absence of striations and voluntary control?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Visceral striated muscle"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscle is non-striated and involuntary."
+    },
+    {
+        "id": 407,
+        "question": "Which structural unit of muscle fibre repeats along its length?",
+        "options": [
+            "Myofibril",
+            "Sarcomere",
+            "Z line",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "Sarcomere is the repeating structural unit of myofibril."
+    },
+    {
+        "id": 408,
+        "question": "Which protein is present in both thin and thick filaments?",
+        "options": [
+            "Myosin",
+            "Actin",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "Actin forms thin filaments and overlaps with thick filaments in A band."
+    },
+    {
+        "id": 409,
+        "question": "Which region of sarcomere has only myosin filaments?",
+        "options": [
+            "I band",
+            "A band",
+            "H zone",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "H zone contains only myosin filaments."
+    },
+    {
+        "id": 410,
+        "question": "Which neuron part is specialized for reception of impulses?",
+        "options": [
+            "Axon",
+            "Cyton",
+            "Dendrites",
+            "Axon terminal"
+        ],
+        "answer": 2,
+        "explanation": "Dendrites receive nerve impulses."
+    },
+    {
+        "id": 411,
+        "question": "Which neuroglial cells are smallest and phagocytic?",
+        "options": [
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia",
+            "Schwann cells"
+        ],
+        "answer": 2,
+        "explanation": "Microglia are small and phagocytic."
+    },
+    {
+        "id": 412,
+        "question": "Which layer of alimentary canal contains Peyer's patches?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 0,
+        "explanation": "Peyer's patches are lymphoid tissues present in mucosa."
+    },
+    {
+        "id": 413,
+        "question": "Which part of alimentary canal lacks villi but has microvilli?",
+        "options": [
+            "Duodenum",
+            "Jejunum",
+            "Ileum",
+            "Large intestine"
+        ],
+        "answer": 3,
+        "explanation": "Large intestine lacks villi but epithelial cells have microvilli."
+    },
+    {
+        "id": 414,
+        "question": "Which cells of gastric glands secrete mucus?",
+        "options": [
+            "Chief cells",
+            "Parietal cells",
+            "Mucous neck cells",
+            "Enteroendocrine cells"
+        ],
+        "answer": 2,
+        "explanation": "Mucous neck cells secrete mucus in gastric glands."
+    },
+    {
+        "id": 415,
+        "question": "Which secretion of stomach is essential for absorption of vitamin B12?",
+        "options": [
+            "Pepsin",
+            "Mucus",
+            "Intrinsic factor",
+            "Hydrochloric acid"
+        ],
+        "answer": 2,
+        "explanation": "Intrinsic factor is essential for vitamin B12 absorption."
+    },
+    {
+        "id": 416,
+        "question": "Which duct carries bile and pancreatic juice together?",
+        "options": [
+            "Hepatic duct",
+            "Cystic duct",
+            "Pancreatic duct",
+            "Common bile duct"
+        ],
+        "answer": 3,
+        "explanation": "Common bile duct carries bile and joins pancreatic duct."
+    },
+    {
+        "id": 417,
+        "question": "Which region of kidney has pyramids?",
+        "options": [
+            "Cortex",
+            "Medulla",
+            "Pelvis",
+            "Calyx"
+        ],
+        "answer": 1,
+        "explanation": "Renal pyramids are present in medulla."
+    },
+    {
+        "id": 418,
+        "question": "Which structure maintains high pressure in glomerulus?",
+        "options": [
+            "Equal diameter arterioles",
+            "Wide efferent arteriole",
+            "Narrow efferent arteriole",
+            "Thin Bowman's capsule"
+        ],
+        "answer": 2,
+        "explanation": "Narrow efferent arteriole maintains high glomerular pressure."
+    },
+    {
+        "id": 419,
+        "question": "Which part of nephron is lined by simple squamous epithelium?",
+        "options": [
+            "PCT",
+            "DCT",
+            "Bowman's capsule",
+            "Collecting duct"
+        ],
+        "answer": 2,
+        "explanation": "Bowman's capsule is lined by simple squamous epithelium."
+    },
+    {
+        "id": 420,
+        "question": "Which epithelium lines urethra in males?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Columnar and pseudostratified",
+            "Transitional"
+        ],
+        "answer": 2,
+        "explanation": "Male urethra shows columnar and pseudostratified epithelium."
+    },
+    {
+        "id": 421,
+        "question": "Which cartilage is found in bronchi?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Bronchi are supported by hyaline cartilage."
+    },
+    {
+        "id": 422,
+        "question": "Which bone cells secrete organic bone matrix?",
+        "options": [
+            "Osteocytes",
+            "Osteoclasts",
+            "Osteoblasts",
+            "Chondrocytes"
+        ],
+        "answer": 2,
+        "explanation": "Osteoblasts secrete organic bone matrix."
+    },
+    {
+        "id": 423,
+        "question": "Which connective tissue is present between vertebrae?",
+        "options": [
+            "Elastic cartilage",
+            "Hyaline cartilage",
+            "Fibrocartilage",
+            "Dense regular tissue"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral discs are made of fibrocartilage."
+    },
+    {
+        "id": 424,
+        "question": "Which muscle type shows intercalated discs?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Intercalated discs are characteristic of cardiac muscle."
+    },
+    {
+        "id": 425,
+        "question": "Which protein connects thick filaments at M line?",
+        "options": [
+            "Actin",
+            "Myosin",
+            "Myomesin",
+            "Troponin"
+        ],
+        "answer": 2,
+        "explanation": "Myomesin links thick filaments at M line."
+    },
+    {
+        "id": 426,
+        "question": "Which structure conducts impulses fastest?",
+        "options": [
+            "Non-myelinated axon",
+            "Dendrite",
+            "Myelinated axon",
+            "Cyton"
+        ],
+        "answer": 2,
+        "explanation": "Myelinated axons conduct impulses fastest due to saltatory conduction."
+    },
+    {
+        "id": 427,
+        "question": "Which plexus controls gut movement?",
+        "options": [
+            "Cardiac plexus",
+            "Pulmonary plexus",
+            "Myenteric plexus",
+            "Celiac plexus"
+        ],
+        "answer": 2,
+        "explanation": "Myenteric plexus controls peristalsis."
+    },
+    {
+        "id": 428,
+        "question": "Which cells secrete bicarbonate-rich fluid in pancreas?",
+        "options": [
+            "Acinar cells",
+            "Islet cells",
+            "Duct cells",
+            "Alpha cells"
+        ],
+        "answer": 2,
+        "explanation": "Pancreatic duct cells secrete bicarbonate-rich fluid."
+    },
+    {
+        "id": 429,
+        "question": "Which part of small intestine has Brunner's glands?",
+        "options": [
+            "Duodenum",
+            "Jejunum",
+            "Ileum",
+            "Colon"
+        ],
+        "answer": 0,
+        "explanation": "Brunner's glands are present in duodenum."
+    },
+    {
+        "id": 430,
+        "question": "Which region of kidney contains loops of Henle?",
+        "options": [
+            "Cortex",
+            "Medulla",
+            "Pelvis",
+            "Calyx"
+        ],
+        "answer": 1,
+        "explanation": "Loops of Henle extend into medulla."
+    },
+    {
+        "id": 431,
+        "question": "Which hormone causes constriction of efferent arteriole?",
+        "options": [
+            "ADH",
+            "ANF",
+            "Angiotensin II",
+            "Aldosterone"
+        ],
+        "answer": 2,
+        "explanation": "Angiotensin II constricts efferent arteriole."
+    },
+    {
+        "id": 432,
+        "question": "Which epithelium lines vagina?",
+        "options": [
+            "Simple squamous",
+            "Stratified squamous",
+            "Cuboidal",
+            "Columnar"
+        ],
+        "answer": 1,
+        "explanation": "Vagina is lined by stratified squamous epithelium."
+    },
+    {
+        "id": 433,
+        "question": "Which connective tissue supports blood vessel walls?",
+        "options": [
+            "Dense regular tissue",
+            "Elastic connective tissue",
+            "Areolar tissue",
+            "Reticular tissue"
+        ],
+        "answer": 1,
+        "explanation": "Elastic connective tissue supports blood vessel walls."
+    },
+    {
+        "id": 434,
+        "question": "Which muscle is involved in respiration?",
+        "options": [
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm and intercostal muscles are skeletal muscles."
+    },
+    {
+        "id": 435,
+        "question": "Which band corresponds to entire length of myosin filament?",
+        "options": [
+            "I band",
+            "A band",
+            "H zone",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "A band represents full length of myosin filament."
+    },
+    {
+        "id": 436,
+        "question": "Which neuroglial cells are derived from mesoderm?",
+        "options": [
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 1,
+        "explanation": "Microglia are mesodermal in origin."
+    },
+    {
+        "id": 437,
+        "question": "Which layer of alimentary canal is absent in rectum?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 3,
+        "explanation": "Rectum lacks serosa and has adventitia."
+    },
+    {
+        "id": 438,
+        "question": "Which enzyme converts lactose into glucose and galactose?",
+        "options": [
+            "Sucrase",
+            "Maltase",
+            "Lactase",
+            "Amylase"
+        ],
+        "answer": 2,
+        "explanation": "Lactase hydrolyses lactose."
+    },
+    {
+        "id": 439,
+        "question": "Which structure connects kidney to urinary bladder?",
+        "options": [
+            "Urethra",
+            "Ureter",
+            "Collecting duct",
+            "Renal pelvis"
+        ],
+        "answer": 1,
+        "explanation": "Ureter connects kidney to urinary bladder."
+    },
+    {
+        "id": 440,
+        "question": "Which hormone increases GFR?",
+        "options": [
+            "ADH",
+            "Aldosterone",
+            "ANF",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "ANF increases glomerular filtration rate."
+    },
+    {
+        "id": 441,
+        "question": "Which cartilage forms supporting framework of trachea?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Tracheal rings are made of hyaline cartilage."
+    },
+    {
+        "id": 442,
+        "question": "Which connective tissue has parallel collagen bundles and elasticity?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Areolar tissue",
+            "Reticular tissue"
+        ],
+        "answer": 1,
+        "explanation": "Ligaments contain collagen and elastic fibres."
+    },
+    {
+        "id": 443,
+        "question": "Which muscle controls diameter of blood vessels?",
+        "options": [
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Smooth muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles regulate vessel diameter."
+    },
+    {
+        "id": 444,
+        "question": "Which protein anchors myosin filaments to M line?",
+        "options": [
+            "Troponin",
+            "Actinin",
+            "Myomesin",
+            "Titin"
+        ],
+        "answer": 2,
+        "explanation": "Myomesin anchors myosin at M line."
+    },
+    {
+        "id": 445,
+        "question": "Which cells provide metabolic support to neurons?",
+        "options": [
+            "Microglia",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Schwann cells"
+        ],
+        "answer": 1,
+        "explanation": "Astrocytes provide metabolic support."
+    },
+    {
+        "id": 446,
+        "question": "Which layer of alimentary canal contains Meissner's plexus?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 1,
+        "explanation": "Meissner's plexus is present in submucosa."
+    },
+    {
+        "id": 447,
+        "question": "Which secretion prevents self-digestion of stomach?",
+        "options": [
+            "Pepsin",
+            "Mucus",
+            "Intrinsic factor",
+            "HCl"
+        ],
+        "answer": 1,
+        "explanation": "Mucus protects stomach lining."
+    },
+    {
+        "id": 448,
+        "question": "Which part of kidney receives urine from papilla?",
+        "options": [
+            "Cortex",
+            "Pelvis",
+            "Minor calyx",
+            "Major calyx"
+        ],
+        "answer": 2,
+        "explanation": "Urine enters minor calyx from papilla."
+    },
+    {
+        "id": 449,
+        "question": "Which hormone promotes potassium excretion?",
+        "options": [
+            "ADH",
+            "ANF",
+            "Aldosterone",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "Aldosterone promotes potassium excretion."
+    },
+    {
+        "id": 450,
+        "question": "Which epithelium lines anal canal?",
+        "options": [
+            "Simple squamous",
+            "Stratified squamous",
+            "Cuboidal",
+            "Columnar"
+        ],
+        "answer": 1,
+        "explanation": "Anal canal is lined by stratified squamous epithelium."
+    },
+    {
+        "id": 451,
+        "question": "Which connective tissue provides cushioning to organs?",
+        "options": [
+            "Dense connective tissue",
+            "Reticular tissue",
+            "Adipose tissue",
+            "Elastic tissue"
+        ],
+        "answer": 2,
+        "explanation": "Adipose tissue cushions organs."
+    },
+    {
+        "id": 452,
+        "question": "Which muscle type shows autorhythmicity?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle shows autorhythmicity."
+    },
+    {
+        "id": 453,
+        "question": "Which protein connects actin filaments to Z line?",
+        "options": [
+            "Titin",
+            "Myosin",
+            "Alpha-actinin",
+            "Troponin"
+        ],
+        "answer": 2,
+        "explanation": "Alpha-actinin anchors actin at Z line."
+    },
+    {
+        "id": 454,
+        "question": "Which structure ensures unidirectional conduction of impulse?",
+        "options": [
+            "Axon hillock",
+            "Synapse",
+            "Node of Ranvier",
+            "Myelin sheath"
+        ],
+        "answer": 1,
+        "explanation": "Synapse ensures one-way transmission."
+    },
+    {
+        "id": 455,
+        "question": "Which part of alimentary canal absorbs vitamin K?",
+        "options": [
+            "Duodenum",
+            "Jejunum",
+            "Ileum",
+            "Large intestine"
+        ],
+        "answer": 3,
+        "explanation": "Vitamin K is absorbed in large intestine."
+    },
+    {
+        "id": 456,
+        "question": "Which secretion activates pancreatic enzymes?",
+        "options": [
+            "HCl",
+            "Enterokinase",
+            "Bile",
+            "Mucus"
+        ],
+        "answer": 1,
+        "explanation": "Enterokinase activates pancreatic enzymes."
+    },
+    {
+        "id": 457,
+        "question": "Which part of nephron is involved in tubular secretion?",
+        "options": [
+            "Bowman's capsule",
+            "PCT",
+            "DCT",
+            "Loop of Henle"
+        ],
+        "answer": 2,
+        "explanation": "DCT shows tubular secretion."
+    },
+    {
+        "id": 458,
+        "question": "Which epithelium lines vas deferens?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Pseudostratified columnar",
+            "Transitional"
+        ],
+        "answer": 2,
+        "explanation": "Vas deferens is lined by pseudostratified columnar epithelium."
+    },
+    {
+        "id": 459,
+        "question": "Which blood component maintains pH?",
+        "options": [
+            "RBCs",
+            "Platelets",
+            "Plasma proteins",
+            "WBCs"
+        ],
+        "answer": 2,
+        "explanation": "Plasma proteins help maintain blood pH."
+    },
+    {
+        "id": 460,
+        "question": "Which connective tissue is richly supplied with nerves?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Areolar tissue",
+            "Blood"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue is richly innervated."
+    },
+    {
+        "id": 461,
+        "question": "Which muscle causes movement of eyeball?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Extraocular muscles are skeletal muscles."
+    },
+    {
+        "id": 462,
+        "question": "Which band contains only thin filaments?",
+        "options": [
+            "A band",
+            "H zone",
+            "I band",
+            "M line"
+        ],
+        "answer": 2,
+        "explanation": "I band contains only thin filaments."
+    },
+    {
+        "id": 463,
+        "question": "Which cells form insulating sheath around axons in CNS?",
+        "options": [
+            "Schwann cells",
+            "Astrocytes",
+            "Oligodendrocytes",
+            "Microglia"
+        ],
+        "answer": 2,
+        "explanation": "Oligodendrocytes form myelin in CNS."
+    },
+    {
+        "id": 464,
+        "question": "Which layer of alimentary canal contains circular and longitudinal muscles?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 2,
+        "explanation": "Muscularis has circular and longitudinal layers."
+    },
+    {
+        "id": 465,
+        "question": "Which enzyme converts sucrose into glucose and fructose?",
+        "options": [
+            "Maltase",
+            "Lactase",
+            "Sucrase",
+            "Amylase"
+        ],
+        "answer": 2,
+        "explanation": "Sucrase hydrolyses sucrose."
+    },
+    {
+        "id": 466,
+        "question": "Which structure stores urine before excretion?",
+        "options": [
+            "Kidney",
+            "Ureter",
+            "Urinary bladder",
+            "Urethra"
+        ],
+        "answer": 2,
+        "explanation": "Urinary bladder stores urine."
+    },
+    {
+        "id": 467,
+        "question": "Which hormone reduces sodium reabsorption?",
+        "options": [
+            "ADH",
+            "Aldosterone",
+            "ANF",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "ANF reduces sodium reabsorption."
+    },
+    {
+        "id": 468,
+        "question": "Which cartilage forms auditory tube?",
+        "options": [
+            "Hyaline cartilage",
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Auditory tube contains elastic cartilage."
+    },
+    {
+        "id": 469,
+        "question": "Which connective tissue provides binding between organs?",
+        "options": [
+            "Dense regular tissue",
+            "Reticular tissue",
+            "Areolar tissue",
+            "Adipose tissue"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue binds organs."
+    },
+    {
+        "id": 470,
+        "question": "Which muscle maintains tone in visceral organs?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscle maintains visceral tone."
+    },
+    {
+        "id": 471,
+        "question": "Which protein provides elasticity to sarcomere?",
+        "options": [
+            "Myosin",
+            "Actin",
+            "Titin",
+            "Troponin"
+        ],
+        "answer": 2,
+        "explanation": "Titin provides elasticity to sarcomere."
+    },
+    {
+        "id": 472,
+        "question": "Which part of neuron is non-myelinated?",
+        "options": [
+            "Axon",
+            "Dendrite",
+            "Node of Ranvier",
+            "Myelinated segment"
+        ],
+        "answer": 1,
+        "explanation": "Dendrites are non-myelinated."
+    },
+    {
+        "id": 473,
+        "question": "Which part of alimentary canal absorbs maximum water?",
+        "options": [
+            "Small intestine",
+            "Duodenum",
+            "Jejunum",
+            "Large intestine"
+        ],
+        "answer": 3,
+        "explanation": "Large intestine absorbs maximum water."
+    },
+    {
+        "id": 474,
+        "question": "Which secretion emulsifies fats in intestine?",
+        "options": [
+            "Pancreatic juice",
+            "Intestinal juice",
+            "Bile",
+            "Gastric juice"
+        ],
+        "answer": 2,
+        "explanation": "Bile emulsifies fats."
+    },
+    {
+        "id": 475,
+        "question": "Which part of nephron maintains pH of blood?",
+        "options": [
+            "PCT",
+            "Loop of Henle",
+            "DCT",
+            "Bowman's capsule"
+        ],
+        "answer": 2,
+        "explanation": "DCT helps maintain blood pH."
+    },
+    {
+        "id": 476,
+        "question": "Which epithelium lines cervix?",
+        "options": [
+            "Simple squamous",
+            "Stratified squamous",
+            "Cuboidal",
+            "Transitional"
+        ],
+        "answer": 1,
+        "explanation": "Cervix is lined by stratified squamous epithelium."
+    },
+    {
+        "id": 477,
+        "question": "Which blood cells are involved in immune memory?",
+        "options": [
+            "Neutrophils",
+            "Basophils",
+            "Lymphocytes",
+            "Monocytes"
+        ],
+        "answer": 2,
+        "explanation": "Lymphocytes are involved in immune memory."
+    },
+    {
+        "id": 478,
+        "question": "Which connective tissue supports spleen?",
+        "options": [
+            "Dense regular tissue",
+            "Elastic tissue",
+            "Reticular tissue",
+            "Adipose tissue"
+        ],
+        "answer": 2,
+        "explanation": "Reticular tissue supports spleen."
+    },
+    {
+        "id": 479,
+        "question": "Which muscle is present in uterus?",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 1,
+        "explanation": "Uterus contains smooth muscle."
+    },
+    {
+        "id": 480,
+        "question": "Which band narrows during muscle contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "Z line",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band narrows during contraction."
+    },
+    {
+        "id": 481,
+        "question": "Which cells insulate neurons in PNS?",
+        "options": [
+            "Oligodendrocytes",
+            "Astrocytes",
+            "Schwann cells",
+            "Microglia"
+        ],
+        "answer": 2,
+        "explanation": "Schwann cells insulate neurons in PNS."
+    },
+    {
+        "id": 482,
+        "question": "Which layer of alimentary canal secretes digestive enzymes?",
+        "options": [
+            "Mucosa",
+            "Submucosa",
+            "Muscularis",
+            "Serosa"
+        ],
+        "answer": 0,
+        "explanation": "Mucosa contains enzyme-secreting glands."
+    },
+    {
+        "id": 483,
+        "question": "Which enzyme digests proteins in intestine?",
+        "options": [
+            "Pepsin",
+            "Trypsin",
+            "Amylase",
+            "Lipase"
+        ],
+        "answer": 1,
+        "explanation": "Trypsin digests proteins in intestine."
+    },
+    {
+        "id": 484,
+        "question": "Which structure expels urine from body?",
+        "options": [
+            "Ureter",
+            "Urethra",
+            "Bladder",
+            "Pelvis"
+        ],
+        "answer": 1,
+        "explanation": "Urethra expels urine from body."
+    },
+    {
+        "id": 485,
+        "question": "Which hormone promotes water reabsorption?",
+        "options": [
+            "ANF",
+            "Aldosterone",
+            "ADH",
+            "Renin"
+        ],
+        "answer": 2,
+        "explanation": "ADH promotes water reabsorption."
+    },
+    {
+        "id": 486,
+        "question": "Which cartilage supports nasal septum?",
+        "options": [
+            "Elastic cartilage",
+            "Fibrocartilage",
+            "Hyaline cartilage",
+            "Calcified cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Nasal septum is made of hyaline cartilage."
+    },
+    {
+        "id": 487,
+        "question": "Which connective tissue is richly vascular?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Dense tissue",
+            "Reticular tissue"
+        ],
+        "answer": 1,
+        "explanation": "Bone is richly vascular."
+    },
+    {
+        "id": 488,
+        "question": "Which muscle helps in locomotion?",
+        "options": [
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Skeletal muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles enable locomotion."
+    },
+    {
+        "id": 489,
+        "question": "Which protein blocks myosin binding sites on actin?",
+        "options": [
+            "Troponin",
+            "Tropomyosin",
+            "Myosin",
+            "Actinin"
+        ],
+        "answer": 1,
+        "explanation": "Tropomyosin blocks myosin binding sites."
+    },
+    {
+        "id": 490,
+        "question": "Which part of neuron generates action potential?",
+        "options": [
+            "Dendrite",
+            "Cyton",
+            "Axon hillock",
+            "Axon terminal"
+        ],
+        "answer": 2,
+        "explanation": "Action potential is generated at axon hillock."
+    },
+    {
+        "id": 491,
+        "question": "Which part of alimentary canal lacks muscularis mucosa?",
+        "options": [
+            "Stomach",
+            "Small intestine",
+            "Large intestine",
+            "Oesophagus"
+        ],
+        "answer": 3,
+        "explanation": "Oesophagus lacks muscularis mucosa."
+    },
+    {
+        "id": 492,
+        "question": "Which secretion neutralizes stomach acid in duodenum?",
+        "options": [
+            "Gastric juice",
+            "Pancreatic juice",
+            "Saliva",
+            "Intestinal juice"
+        ],
+        "answer": 1,
+        "explanation": "Pancreatic juice neutralizes acidic chyme."
+    },
+    {
+        "id": 493,
+        "question": "Which part of nephron reabsorbs maximum water?",
+        "options": [
+            "PCT",
+            "Loop of Henle",
+            "DCT",
+            "Collecting duct"
+        ],
+        "answer": 0,
+        "explanation": "PCT reabsorbs maximum water."
+    },
+    {
+        "id": 494,
+        "question": "Which epithelium lines respiratory bronchioles?",
+        "options": [
+            "Simple squamous",
+            "Cuboidal",
+            "Ciliated columnar",
+            "Transitional"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles are lined by cuboidal epithelium."
+    },
+    {
+        "id": 495,
+        "question": "Which blood cells are first line of defense?",
+        "options": [
+            "Lymphocytes",
+            "Monocytes",
+            "Neutrophils",
+            "Basophils"
+        ],
+        "answer": 2,
+        "explanation": "Neutrophils act as first line of defense."
+    },
+    {
+        "id": 496,
+        "question": "Which connective tissue has fibroblasts as main cells?",
+        "options": [
+            "Blood",
+            "Cartilage",
+            "Areolar tissue",
+            "Bone"
+        ],
+        "answer": 2,
+        "explanation": "Areolar tissue contains fibroblasts as main cells."
+    },
+    {
+        "id": 497,
+        "question": "Which muscle contracts continuously without fatigue?",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle contracts continuously without fatigue."
+    },
+    {
+        "id": 498,
+        "question": "Which protein stabilizes sarcomere length?",
+        "options": [
+            "Actin",
+            "Myosin",
+            "Titin",
+            "Troponin"
+        ],
+        "answer": 2,
+        "explanation": "Titin stabilizes sarcomere length."
+    },
+    {
+        "id": 499,
+        "question": "Which cells maintain homeostasis in nervous tissue?",
+        "options": [
+            "Neurons",
+            "Astrocytes",
+            "Microglia",
+            "Oligodendrocytes"
+        ],
+        "answer": 1,
+        "explanation": "Astrocytes maintain homeostasis."
+    },
+    {
+        "id": 500,
+        "question": "Which tissue integrates sensory input and motor output?",
+        "options": [
+            "Muscular tissue",
+            "Connective tissue",
+            "Epithelial tissue",
+            "Nervous tissue"
+        ],
+        "answer": 3,
+        "explanation": "Nervous tissue integrates sensory and motor functions."
+    }
+]

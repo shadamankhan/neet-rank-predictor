@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Breathing is defined in NCERT as the process of",
+        "options": [
+            "exchange of gases between blood and tissues",
+            "uptake of oxygen from environment and release of carbon dioxide",
+            "transport of gases by blood",
+            "oxidation of food substances"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines breathing as the exchange of O2 and CO2 between the atmosphere and the body."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is NOT included in respiration as per NCERT?",
+        "options": [
+            "Breathing",
+            "Gas transport",
+            "Cellular oxidation",
+            "Digestion of food"
+        ],
+        "answer": 3,
+        "explanation": "Digestion is not a part of respiration according to NCERT."
+    },
+    {
+        "id": 3,
+        "question": "The site of exchange of gases in humans is",
+        "options": [
+            "bronchioles",
+            "alveoli",
+            "trachea",
+            "bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Alveoli provide a large surface area for diffusion of gases."
+    },
+    {
+        "id": 4,
+        "question": "Which structure prevents collapse of trachea in humans?",
+        "options": [
+            "cartilaginous rings",
+            "smooth muscles",
+            "ciliated epithelium",
+            "elastic fibres"
+        ],
+        "answer": 0,
+        "explanation": "C-shaped cartilaginous rings keep the trachea open."
+    },
+    {
+        "id": 5,
+        "question": "Which cells line the alveoli and facilitate diffusion?",
+        "options": [
+            "squamous epithelial cells",
+            "cuboidal epithelial cells",
+            "columnar epithelial cells",
+            "ciliated cells"
+        ],
+        "answer": 0,
+        "explanation": "Alveoli are lined by thin squamous epithelium to aid diffusion."
+    },
+    {
+        "id": 6,
+        "question": "The total number of alveoli in human lungs is approximately",
+        "options": [
+            "30 million",
+            "300 million",
+            "3 million",
+            "3 billion"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that human lungs contain about 300 million alveoli."
+    },
+    {
+        "id": 7,
+        "question": "The respiratory membrane is formed by",
+        "options": [
+            "alveolar epithelium only",
+            "endothelium of capillaries only",
+            "alveolar epithelium and capillary endothelium",
+            "bronchiolar epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Respiratory membrane consists of alveolar epithelium, basement membrane and capillary endothelium."
+    },
+    {
+        "id": 8,
+        "question": "Which gas has the highest diffusion rate across the respiratory membrane?",
+        "options": [
+            "oxygen",
+            "carbon dioxide",
+            "nitrogen",
+            "carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide diffuses faster due to higher solubility."
+    },
+    {
+        "id": 9,
+        "question": "In human lungs, the alveolar air has",
+        "options": [
+            "higher O2 and lower CO2 than blood",
+            "lower O2 and higher CO2 than blood",
+            "equal O2 and CO2 as blood",
+            "no CO2"
+        ],
+        "answer": 0,
+        "explanation": "Alveolar air is rich in oxygen and poor in carbon dioxide."
+    },
+    {
+        "id": 10,
+        "question": "Which muscle contraction increases thoracic volume during inspiration?",
+        "options": [
+            "diaphragm contraction",
+            "diaphragm relaxation",
+            "internal intercostal contraction",
+            "abdominal muscle contraction"
+        ],
+        "answer": 0,
+        "explanation": "Diaphragm contracts and flattens during inspiration."
+    },
+    {
+        "id": 11,
+        "question": "Expiration during normal breathing is",
+        "options": [
+            "active process",
+            "passive process",
+            "energy consuming",
+            "muscle contraction dependent"
+        ],
+        "answer": 1,
+        "explanation": "Normal expiration is passive due to elastic recoil."
+    },
+    {
+        "id": 12,
+        "question": "Which intercostal muscles are involved in forced expiration?",
+        "options": [
+            "external intercostals",
+            "internal intercostals",
+            "diaphragmatic muscles",
+            "pectoral muscles"
+        ],
+        "answer": 1,
+        "explanation": "Internal intercostal muscles contract during forced expiration."
+    },
+    {
+        "id": 13,
+        "question": "Tidal volume refers to",
+        "options": [
+            "maximum air inhaled",
+            "maximum air exhaled",
+            "air inspired or expired in normal breathing",
+            "air left after forced expiration"
+        ],
+        "answer": 2,
+        "explanation": "Tidal volume is the volume of air exchanged during normal breathing."
+    },
+    {
+        "id": 14,
+        "question": "The tidal volume in a normal adult human is approximately",
+        "options": [
+            "100 mL",
+            "250 mL",
+            "500 mL",
+            "1000 mL"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states tidal volume is about 500 mL."
+    },
+    {
+        "id": 15,
+        "question": "Residual volume is the volume of air",
+        "options": [
+            "exhaled during normal breathing",
+            "remaining after normal expiration",
+            "remaining after forced expiration",
+            "inspired during forced inspiration"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume remains in lungs after forced expiration."
+    },
+    {
+        "id": 16,
+        "question": "Which lung volume prevents lung collapse?",
+        "options": [
+            "tidal volume",
+            "inspiratory reserve volume",
+            "expiratory reserve volume",
+            "residual volume"
+        ],
+        "answer": 3,
+        "explanation": "Residual volume prevents collapse of lungs."
+    },
+    {
+        "id": 17,
+        "question": "Vital capacity includes",
+        "options": [
+            "TV + IRV + ERV",
+            "TV + IRV + RV",
+            "IRV + ERV + RV",
+            "TV + ERV"
+        ],
+        "answer": 0,
+        "explanation": "Vital capacity equals tidal volume + inspiratory reserve volume + expiratory reserve volume."
+    },
+    {
+        "id": 18,
+        "question": "Total lung capacity includes",
+        "options": [
+            "VC + RV",
+            "TV + IRV",
+            "ERV + RV",
+            "IRV + ERV"
+        ],
+        "answer": 0,
+        "explanation": "Total lung capacity equals vital capacity plus residual volume."
+    },
+    {
+        "id": 19,
+        "question": "Which pigment carries oxygen in human blood?",
+        "options": [
+            "myoglobin",
+            "haemoglobin",
+            "cytochrome",
+            "chlorophyll"
+        ],
+        "answer": 1,
+        "explanation": "Haemoglobin is the respiratory pigment in humans."
+    },
+    {
+        "id": 20,
+        "question": "Each haemoglobin molecule can bind with how many oxygen molecules?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "Each haemoglobin molecule binds four oxygen molecules."
+    },
+    {
+        "id": 21,
+        "question": "Oxyhaemoglobin formation is favoured by",
+        "options": [
+            "low pO2 and high pCO2",
+            "high pO2 and low pCO2",
+            "high temperature",
+            "high hydrogen ion concentration"
+        ],
+        "answer": 1,
+        "explanation": "High oxygen tension and low carbon dioxide tension favour oxyhaemoglobin formation."
+    },
+    {
+        "id": 22,
+        "question": "Which factor does NOT affect oxygen dissociation curve?",
+        "options": [
+            "pO2",
+            "pCO2",
+            "temperature",
+            "blood glucose"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose does not influence oxygen dissociation curve."
+    },
+    {
+        "id": 23,
+        "question": "The oxygen dissociation curve of haemoglobin is",
+        "options": [
+            "hyperbolic",
+            "sigmoid",
+            "linear",
+            "exponential"
+        ],
+        "answer": 1,
+        "explanation": "Haemoglobin shows a sigmoid oxygen dissociation curve."
+    },
+    {
+        "id": 24,
+        "question": "Which condition shifts the oxygen dissociation curve to the right?",
+        "options": [
+            "low CO2",
+            "low temperature",
+            "high pH",
+            "high CO2"
+        ],
+        "answer": 3,
+        "explanation": "High CO2 concentration shifts the curve to the right."
+    },
+    {
+        "id": 25,
+        "question": "Carbon dioxide is transported in blood mainly as",
+        "options": [
+            "dissolved CO2",
+            "carbaminohaemoglobin",
+            "bicarbonate ions",
+            "carbonic acid"
+        ],
+        "answer": 2,
+        "explanation": "About 70% of CO2 is transported as bicarbonate ions."
+    },
+    {
+        "id": 26,
+        "question": "Which enzyme catalyzes formation of carbonic acid in RBCs?",
+        "options": [
+            "carbonic anhydrase",
+            "carboxylase",
+            "oxidase",
+            "dehydrogenase"
+        ],
+        "answer": 0,
+        "explanation": "Carbonic anhydrase catalyzes CO2 hydration."
+    },
+    {
+        "id": 27,
+        "question": "Chloride shift occurs in",
+        "options": [
+            "plasma",
+            "alveoli",
+            "RBCs",
+            "lymph"
+        ],
+        "answer": 2,
+        "explanation": "Chloride shift occurs in RBCs during CO2 transport."
+    },
+    {
+        "id": 28,
+        "question": "The Haldane effect relates to",
+        "options": [
+            "oxygen binding to haemoglobin",
+            "CO2 binding in lungs",
+            "CO2 release from blood in lungs",
+            "oxygen release in tissues"
+        ],
+        "answer": 2,
+        "explanation": "Haldane effect facilitates release of CO2 in lungs."
+    },
+    {
+        "id": 29,
+        "question": "The Bohr effect describes",
+        "options": [
+            "effect of CO2 on oxygen binding",
+            "effect of O2 on CO2 transport",
+            "enzyme action",
+            "lung capacity"
+        ],
+        "answer": 0,
+        "explanation": "Bohr effect explains reduced O2 affinity at high CO2 and H+."
+    },
+    {
+        "id": 30,
+        "question": "Which respiratory disorder is caused by inflammation of bronchi?",
+        "options": [
+            "asthma",
+            "emphysema",
+            "bronchitis",
+            "pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Bronchitis is inflammation of bronchi."
+    },
+    {
+        "id": 31,
+        "question": "Which condition is characterized by destruction of alveolar walls?",
+        "options": [
+            "asthma",
+            "bronchitis",
+            "emphysema",
+            "tuberculosis"
+        ],
+        "answer": 2,
+        "explanation": "Emphysema involves destruction of alveoli."
+    },
+    {
+        "id": 32,
+        "question": "Asthma is caused due to",
+        "options": [
+            "allergic reaction causing airway narrowing",
+            "bacterial infection",
+            "alveolar collapse",
+            "smoking"
+        ],
+        "answer": 0,
+        "explanation": "Asthma involves allergic inflammation of airways."
+    },
+    {
+        "id": 33,
+        "question": "Pneumonia affects mainly the",
+        "options": [
+            "bronchi",
+            "alveoli",
+            "trachea",
+            "diaphragm"
+        ],
+        "answer": 1,
+        "explanation": "Pneumonia infects alveoli, filling them with fluid."
+    },
+    {
+        "id": 34,
+        "question": "Which gas binds haemoglobin more strongly than oxygen?",
+        "options": [
+            "CO2",
+            "CO",
+            "N2",
+            "SO2"
+        ],
+        "answer": 1,
+        "explanation": "Carbon monoxide has very high affinity for haemoglobin."
+    },
+    {
+        "id": 35,
+        "question": "Carbaminohaemoglobin is formed by binding of",
+        "options": [
+            "O2 with haemoglobin",
+            "CO2 with haemoglobin",
+            "CO with haemoglobin",
+            "H+ with haemoglobin"
+        ],
+        "answer": 1,
+        "explanation": "CO2 binds with haemoglobin to form carbaminohaemoglobin."
+    },
+    {
+        "id": 36,
+        "question": "Which component of respiratory membrane is thickest?",
+        "options": [
+            "alveolar epithelium",
+            "basement membrane",
+            "capillary endothelium",
+            "plasma membrane"
+        ],
+        "answer": 1,
+        "explanation": "Basement membrane is relatively thicker."
+    },
+    {
+        "id": 37,
+        "question": "Which factor increases rate of diffusion of gases?",
+        "options": [
+            "thicker membrane",
+            "lower surface area",
+            "higher pressure gradient",
+            "lower solubility"
+        ],
+        "answer": 2,
+        "explanation": "Higher pressure gradient increases diffusion rate."
+    },
+    {
+        "id": 38,
+        "question": "In tissues, oxygen is released from haemoglobin mainly due to",
+        "options": [
+            "low pO2",
+            "low temperature",
+            "low CO2",
+            "high pH"
+        ],
+        "answer": 0,
+        "explanation": "Low oxygen tension in tissues promotes O2 release."
+    },
+    {
+        "id": 39,
+        "question": "Which statement about pleural fluid is correct?",
+        "options": [
+            "reduces friction during breathing",
+            "helps diffusion of gases",
+            "prevents infection",
+            "supplies nutrients"
+        ],
+        "answer": 0,
+        "explanation": "Pleural fluid reduces friction between lungs and thoracic wall."
+    },
+    {
+        "id": 40,
+        "question": "The partial pressure of oxygen in atmospheric air is about",
+        "options": [
+            "104 mm Hg",
+            "159 mm Hg",
+            "40 mm Hg",
+            "95 mm Hg"
+        ],
+        "answer": 1,
+        "explanation": "Atmospheric pO2 is approximately 159 mm Hg."
+    },
+    {
+        "id": 41,
+        "question": "The partial pressure of CO2 in venous blood is approximately",
+        "options": [
+            "40 mm Hg",
+            "45 mm Hg",
+            "104 mm Hg",
+            "159 mm Hg"
+        ],
+        "answer": 1,
+        "explanation": "Venous blood pCO2 is about 45 mm Hg."
+    },
+    {
+        "id": 42,
+        "question": "Which lung volume can be measured using spirometer?",
+        "options": [
+            "residual volume",
+            "total lung capacity",
+            "vital capacity",
+            "functional residual capacity"
+        ],
+        "answer": 2,
+        "explanation": "Spirometer measures volumes except residual volume."
+    },
+    {
+        "id": 43,
+        "question": "Which structure separates thoracic and abdominal cavities?",
+        "options": [
+            "rib cage",
+            "sternum",
+            "diaphragm",
+            "intercostal muscles"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm separates thoracic and abdominal cavities."
+    },
+    {
+        "id": 44,
+        "question": "Which blood vessel carries oxygenated blood from lungs to heart?",
+        "options": [
+            "pulmonary artery",
+            "pulmonary vein",
+            "aorta",
+            "vena cava"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary vein carries oxygenated blood to heart."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following is true for diffusion of gases?",
+        "options": [
+            "requires energy",
+            "follows Fick's law",
+            "needs carrier proteins",
+            "is active process"
+        ],
+        "answer": 1,
+        "explanation": "Gas diffusion follows Fick's law."
+    },
+    {
+        "id": 46,
+        "question": "The main stimulus for breathing regulation is",
+        "options": [
+            "oxygen concentration",
+            "carbon dioxide concentration",
+            "blood glucose",
+            "blood pressure"
+        ],
+        "answer": 1,
+        "explanation": "CO2 concentration primarily regulates breathing."
+    },
+    {
+        "id": 47,
+        "question": "Which centre controls respiration rhythm?",
+        "options": [
+            "cerebellum",
+            "medulla oblongata",
+            "hypothalamus",
+            "pons"
+        ],
+        "answer": 1,
+        "explanation": "Medulla oblongata regulates respiratory rhythm."
+    },
+    {
+        "id": 48,
+        "question": "Pneumotaxic centre is located in",
+        "options": [
+            "medulla",
+            "pons",
+            "cerebellum",
+            "midbrain"
+        ],
+        "answer": 1,
+        "explanation": "Pneumotaxic centre is located in pons."
+    },
+    {
+        "id": 49,
+        "question": "Which condition leads to hypoxia?",
+        "options": [
+            "high haemoglobin",
+            "low oxygen availability",
+            "high pO2",
+            "normal respiration"
+        ],
+        "answer": 1,
+        "explanation": "Hypoxia occurs due to inadequate oxygen supply."
+    },
+    {
+        "id": 50,
+        "question": "Which form of hypoxia is caused by reduced haemoglobin?",
+        "options": [
+            "hypoxic hypoxia",
+            "anaemic hypoxia",
+            "stagnant hypoxia",
+            "histotoxic hypoxia"
+        ],
+        "answer": 1,
+        "explanation": "Anaemic hypoxia is due to low haemoglobin."
+    },
+    {
+        "id": 51,
+        "question": "Histotoxic hypoxia occurs due to",
+        "options": [
+            "low oxygen tension",
+            "poor blood flow",
+            "inability of tissues to use oxygen",
+            "low haemoglobin"
+        ],
+        "answer": 2,
+        "explanation": "Tissues cannot utilize oxygen in histotoxic hypoxia."
+    },
+    {
+        "id": 52,
+        "question": "Which gas exchange occurs at tissue level?",
+        "options": [
+            "external respiration",
+            "internal respiration",
+            "breathing",
+            "ventilation"
+        ],
+        "answer": 1,
+        "explanation": "Internal respiration occurs between blood and tissues."
+    },
+    {
+        "id": 53,
+        "question": "Which part of respiratory tract has ciliated epithelium?",
+        "options": [
+            "alveoli",
+            "bronchi",
+            "alveolar sacs",
+            "capillaries"
+        ],
+        "answer": 1,
+        "explanation": "Bronchi are lined with ciliated epithelium."
+    },
+    {
+        "id": 54,
+        "question": "Which lung volume equals ERV + RV?",
+        "options": [
+            "functional residual capacity",
+            "vital capacity",
+            "inspiratory capacity",
+            "total lung capacity"
+        ],
+        "answer": 0,
+        "explanation": "FRC equals ERV plus residual volume."
+    },
+    {
+        "id": 55,
+        "question": "Which lung volume equals TV + IRV?",
+        "options": [
+            "inspiratory capacity",
+            "vital capacity",
+            "functional residual capacity",
+            "total lung capacity"
+        ],
+        "answer": 0,
+        "explanation": "Inspiratory capacity equals TV plus IRV."
+    },
+    {
+        "id": 56,
+        "question": "Which structure branches into bronchi?",
+        "options": [
+            "larynx",
+            "pharynx",
+            "trachea",
+            "bronchioles"
+        ],
+        "answer": 2,
+        "explanation": "Trachea divides into two bronchi."
+    },
+    {
+        "id": 57,
+        "question": "Which statement about alveoli is incorrect?",
+        "options": [
+            "richly supplied with blood capillaries",
+            "thick walls",
+            "large surface area",
+            "moist surface"
+        ],
+        "answer": 1,
+        "explanation": "Alveoli have thin walls, not thick."
+    },
+    {
+        "id": 58,
+        "question": "Which of the following increases CO2 transport as bicarbonate?",
+        "options": [
+            "carbonic anhydrase activity",
+            "low RBC count",
+            "absence of chloride shift",
+            "low CO2"
+        ],
+        "answer": 0,
+        "explanation": "Carbonic anhydrase promotes bicarbonate formation."
+    },
+    {
+        "id": 59,
+        "question": "Which structure prevents food entry into trachea?",
+        "options": [
+            "larynx",
+            "epiglottis",
+            "glottis",
+            "pharynx"
+        ],
+        "answer": 1,
+        "explanation": "Epiglottis covers glottis during swallowing."
+    },
+    {
+        "id": 60,
+        "question": "Which statement about haemoglobin is correct?",
+        "options": [
+            "present in plasma",
+            "contains iron",
+            "binds CO2 irreversibly",
+            "transports nitrogen"
+        ],
+        "answer": 1,
+        "explanation": "Haemoglobin contains iron in heme group."
+    },
+    {
+        "id": 61,
+        "question": "Which factor reduces affinity of haemoglobin for oxygen?",
+        "options": [
+            "high pH",
+            "low CO2",
+            "high temperature",
+            "low H+"
+        ],
+        "answer": 2,
+        "explanation": "High temperature reduces oxygen affinity."
+    },
+    {
+        "id": 62,
+        "question": "Which disorder results from smoking?",
+        "options": [
+            "asthma",
+            "emphysema",
+            "pneumonia",
+            "tuberculosis"
+        ],
+        "answer": 1,
+        "explanation": "Smoking damages alveoli leading to emphysema."
+    },
+    {
+        "id": 63,
+        "question": "Which lung capacity cannot be measured directly?",
+        "options": [
+            "vital capacity",
+            "inspiratory capacity",
+            "residual volume",
+            "expiratory reserve volume"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume cannot be measured by spirometer."
+    },
+    {
+        "id": 64,
+        "question": "Which gas exchange is called external respiration?",
+        "options": [
+            "between blood and tissues",
+            "between alveoli and blood",
+            "cellular oxidation",
+            "breathing movement"
+        ],
+        "answer": 1,
+        "explanation": "External respiration occurs in lungs."
+    },
+    {
+        "id": 65,
+        "question": "Which structure produces voice?",
+        "options": [
+            "pharynx",
+            "larynx",
+            "trachea",
+            "bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Larynx is the voice box."
+    },
+    {
+        "id": 66,
+        "question": "Which blood component buffers pH during CO2 transport?",
+        "options": [
+            "plasma proteins",
+            "haemoglobin",
+            "bicarbonate",
+            "chloride"
+        ],
+        "answer": 1,
+        "explanation": "Haemoglobin acts as a buffer."
+    },
+    {
+        "id": 67,
+        "question": "Which gas has lowest solubility in blood?",
+        "options": [
+            "CO2",
+            "O2",
+            "N2",
+            "CO"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen has very low solubility."
+    },
+    {
+        "id": 68,
+        "question": "Which muscle relaxes during inspiration?",
+        "options": [
+            "diaphragm",
+            "external intercostals",
+            "internal intercostals",
+            "sternocleidomastoid"
+        ],
+        "answer": 2,
+        "explanation": "Internal intercostals relax during inspiration."
+    },
+    {
+        "id": 69,
+        "question": "Which process increases thoracic volume anteroposteriorly?",
+        "options": [
+            "rib elevation",
+            "diaphragm flattening",
+            "rib depression",
+            "abdominal contraction"
+        ],
+        "answer": 0,
+        "explanation": "Rib elevation increases AP diameter."
+    },
+    {
+        "id": 70,
+        "question": "Which of the following is NOT a lung volume?",
+        "options": [
+            "tidal volume",
+            "residual volume",
+            "vital capacity",
+            "cardiac output"
+        ],
+        "answer": 3,
+        "explanation": "Cardiac output is not a lung volume."
+    },
+    {
+        "id": 71,
+        "question": "Which form of hypoxia is due to reduced blood flow?",
+        "options": [
+            "anaemic",
+            "stagnant",
+            "histotoxic",
+            "hypoxic"
+        ],
+        "answer": 1,
+        "explanation": "Stagnant hypoxia occurs due to reduced circulation."
+    },
+    {
+        "id": 72,
+        "question": "Which nerve controls diaphragm?",
+        "options": [
+            "vagus nerve",
+            "phrenic nerve",
+            "intercostal nerve",
+            "sympathetic nerve"
+        ],
+        "answer": 1,
+        "explanation": "Phrenic nerve innervates diaphragm."
+    },
+    {
+        "id": 73,
+        "question": "Which structure is absent in alveoli?",
+        "options": [
+            "blood capillaries",
+            "elastic fibres",
+            "cilia",
+            "moist surface"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli lack cilia."
+    },
+    {
+        "id": 74,
+        "question": "Which statement about diffusion of gases is true?",
+        "options": [
+            "independent of pressure gradient",
+            "faster for CO2",
+            "requires ATP",
+            "slower in alveoli"
+        ],
+        "answer": 1,
+        "explanation": "CO2 diffuses faster due to higher solubility."
+    },
+    {
+        "id": 75,
+        "question": "Which respiratory pigment is present in muscles?",
+        "options": [
+            "haemoglobin",
+            "myoglobin",
+            "cytochrome",
+            "haemocyanin"
+        ],
+        "answer": 1,
+        "explanation": "Myoglobin stores oxygen in muscles."
+    },
+    {
+        "id": 76,
+        "question": "Which factor does NOT influence breathing rate?",
+        "options": [
+            "CO2 level",
+            "H+ concentration",
+            "O2 level",
+            "blood glucose"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose does not regulate breathing."
+    },
+    {
+        "id": 77,
+        "question": "Which gas is exhaled in highest amount?",
+        "options": [
+            "oxygen",
+            "carbon dioxide",
+            "nitrogen",
+            "water vapour"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen is exhaled unchanged in highest amount."
+    },
+    {
+        "id": 78,
+        "question": "Which structure is common passage for food and air?",
+        "options": [
+            "larynx",
+            "pharynx",
+            "trachea",
+            "oesophagus"
+        ],
+        "answer": 1,
+        "explanation": "Pharynx is common passage."
+    },
+    {
+        "id": 79,
+        "question": "Which of the following increases oxygen unloading in tissues?",
+        "options": [
+            "low CO2",
+            "high pH",
+            "high temperature",
+            "low H+"
+        ],
+        "answer": 2,
+        "explanation": "High temperature enhances oxygen release."
+    },
+    {
+        "id": 80,
+        "question": "Which structure connects nasal cavity to larynx?",
+        "options": [
+            "pharynx",
+            "trachea",
+            "bronchi",
+            "oesophagus"
+        ],
+        "answer": 0,
+        "explanation": "Pharynx connects nasal cavity to larynx."
+    },
+    {
+        "id": 81,
+        "question": "Which condition causes wheezing due to airway narrowing?",
+        "options": [
+            "bronchitis",
+            "emphysema",
+            "asthma",
+            "pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Asthma causes airway narrowing and wheezing."
+    },
+    {
+        "id": 82,
+        "question": "Which structure is lined with pseudostratified ciliated epithelium?",
+        "options": [
+            "alveoli",
+            "bronchioles",
+            "trachea",
+            "capillaries"
+        ],
+        "answer": 2,
+        "explanation": "Trachea has pseudostratified ciliated epithelium."
+    },
+    {
+        "id": 83,
+        "question": "Which gas is transported least in dissolved form?",
+        "options": [
+            "CO2",
+            "O2",
+            "N2",
+            "CO"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen is least transported dissolved."
+    },
+    {
+        "id": 84,
+        "question": "Which process removes dust from inhaled air?",
+        "options": [
+            "diffusion",
+            "phagocytosis",
+            "ciliary movement",
+            "osmosis"
+        ],
+        "answer": 2,
+        "explanation": "Cilia trap and move dust particles."
+    },
+    {
+        "id": 85,
+        "question": "Which statement about breathing is correct?",
+        "options": [
+            "active during expiration",
+            "voluntary and involuntary",
+            "controlled only consciously",
+            "independent of brain"
+        ],
+        "answer": 1,
+        "explanation": "Breathing is both voluntary and involuntary."
+    },
+    {
+        "id": 86,
+        "question": "Which gas exchange occurs in alveoli?",
+        "options": [
+            "oxygen uptake and CO2 release",
+            "CO2 uptake and oxygen release",
+            "nitrogen exchange",
+            "water vapour exchange"
+        ],
+        "answer": 0,
+        "explanation": "Alveoli exchange oxygen and carbon dioxide."
+    },
+    {
+        "id": 87,
+        "question": "Which part of lung has maximum surface area?",
+        "options": [
+            "bronchi",
+            "bronchioles",
+            "alveoli",
+            "trachea"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli provide maximum surface area."
+    },
+    {
+        "id": 88,
+        "question": "Which factor reduces diffusion rate?",
+        "options": [
+            "high surface area",
+            "thin membrane",
+            "low pressure gradient",
+            "high solubility"
+        ],
+        "answer": 2,
+        "explanation": "Low pressure gradient reduces diffusion."
+    },
+    {
+        "id": 89,
+        "question": "Which form of CO2 transport involves haemoglobin?",
+        "options": [
+            "bicarbonate",
+            "carbaminohaemoglobin",
+            "dissolved CO2",
+            "carbonic acid"
+        ],
+        "answer": 1,
+        "explanation": "CO2 binds haemoglobin as carbaminohaemoglobin."
+    },
+    {
+        "id": 90,
+        "question": "Which condition fills alveoli with fluid?",
+        "options": [
+            "asthma",
+            "emphysema",
+            "pneumonia",
+            "bronchitis"
+        ],
+        "answer": 2,
+        "explanation": "Pneumonia causes fluid accumulation in alveoli."
+    },
+    {
+        "id": 91,
+        "question": "Which muscle assists forced inspiration?",
+        "options": [
+            "internal intercostals",
+            "abdominal muscles",
+            "sternocleidomastoid",
+            "diaphragm relaxation"
+        ],
+        "answer": 2,
+        "explanation": "Sternocleidomastoid assists forced inspiration."
+    },
+    {
+        "id": 92,
+        "question": "Which statement about lung elasticity is correct?",
+        "options": [
+            "aids inspiration",
+            "prevents expiration",
+            "aids expiration",
+            "has no role"
+        ],
+        "answer": 2,
+        "explanation": "Elastic recoil aids expiration."
+    },
+    {
+        "id": 93,
+        "question": "Which gas regulates breathing most effectively?",
+        "options": [
+            "O2",
+            "CO2",
+            "N2",
+            "CO"
+        ],
+        "answer": 1,
+        "explanation": "CO2 is the primary regulator."
+    },
+    {
+        "id": 94,
+        "question": "Which structure warms inhaled air?",
+        "options": [
+            "alveoli",
+            "bronchi",
+            "nasal cavity",
+            "trachea"
+        ],
+        "answer": 2,
+        "explanation": "Nasal cavity warms and moistens air."
+    },
+    {
+        "id": 95,
+        "question": "Which lung volume is maximum?",
+        "options": [
+            "tidal volume",
+            "vital capacity",
+            "residual volume",
+            "total lung capacity"
+        ],
+        "answer": 3,
+        "explanation": "Total lung capacity is the maximum."
+    },
+    {
+        "id": 96,
+        "question": "Which process occurs without energy expenditure?",
+        "options": [
+            "active transport",
+            "diffusion",
+            "muscle contraction",
+            "forced breathing"
+        ],
+        "answer": 1,
+        "explanation": "Diffusion is passive."
+    },
+    {
+        "id": 97,
+        "question": "Which factor increases oxygen affinity of haemoglobin?",
+        "options": [
+            "high CO2",
+            "low pH",
+            "low temperature",
+            "high H+"
+        ],
+        "answer": 2,
+        "explanation": "Low temperature increases oxygen affinity."
+    },
+    {
+        "id": 98,
+        "question": "Which respiratory disorder involves allergic response?",
+        "options": [
+            "asthma",
+            "emphysema",
+            "pneumonia",
+            "bronchitis"
+        ],
+        "answer": 0,
+        "explanation": "Asthma is an allergic respiratory disorder."
+    },
+    {
+        "id": 99,
+        "question": "Which gas is responsible for asphyxiation when bound to haemoglobin?",
+        "options": [
+            "CO2",
+            "CO",
+            "N2",
+            "O2"
+        ],
+        "answer": 1,
+        "explanation": "Carbon monoxide causes asphyxiation."
+    },
+    {
+        "id": 100,
+        "question": "Which structure marks the beginning of lower respiratory tract?",
+        "options": [
+            "nasal cavity",
+            "pharynx",
+            "larynx",
+            "bronchi"
+        ],
+        "answer": 2,
+        "explanation": "Larynx marks the beginning of lower respiratory tract."
+    },
+    {
+        "id": 101,
+        "question": "Which event occurs first during inspiration in humans?",
+        "options": [
+            "Decrease in intrapulmonary pressure",
+            "Increase in thoracic volume",
+            "Air entry into lungs",
+            "Contraction of abdominal muscles"
+        ],
+        "answer": 1,
+        "explanation": "Increase in thoracic volume due to diaphragm contraction initiates inspiration."
+    },
+    {
+        "id": 102,
+        "question": "In normal breathing, which muscle shows maximum role?",
+        "options": [
+            "Diaphragm",
+            "Internal intercostals",
+            "Abdominal muscles",
+            "Pectoralis major"
+        ],
+        "answer": 0,
+        "explanation": "Diaphragm plays the major role in normal breathing."
+    },
+    {
+        "id": 103,
+        "question": "Which statement about intrapulmonary pressure during inspiration is correct?",
+        "options": [
+            "Equal to atmospheric pressure",
+            "Greater than atmospheric pressure",
+            "Less than atmospheric pressure",
+            "Independent of thoracic volume"
+        ],
+        "answer": 2,
+        "explanation": "Intrapulmonary pressure becomes less than atmospheric pressure during inspiration."
+    },
+    {
+        "id": 104,
+        "question": "Which structure is NOT part of the respiratory membrane?",
+        "options": [
+            "Alveolar epithelium",
+            "Capillary endothelium",
+            "Basement membrane",
+            "Smooth muscle layer"
+        ],
+        "answer": 3,
+        "explanation": "Smooth muscle layer is not part of respiratory membrane."
+    },
+    {
+        "id": 105,
+        "question": "The primary cause of diffusion of gases across respiratory membrane is difference in",
+        "options": [
+            "temperature",
+            "solubility",
+            "partial pressure",
+            "concentration of enzymes"
+        ],
+        "answer": 2,
+        "explanation": "Partial pressure difference drives diffusion."
+    },
+    {
+        "id": 106,
+        "question": "Which blood component carries most of the bicarbonate ions?",
+        "options": [
+            "Plasma",
+            "RBC cytoplasm",
+            "Haemoglobin molecule",
+            "Platelets"
+        ],
+        "answer": 0,
+        "explanation": "Most bicarbonate ions are transported in plasma."
+    },
+    {
+        "id": 107,
+        "question": "Which ion exchange accompanies bicarbonate movement from RBC to plasma?",
+        "options": [
+            "Sodium shift",
+            "Potassium shift",
+            "Chloride shift",
+            "Calcium shift"
+        ],
+        "answer": 2,
+        "explanation": "Chloride ions move into RBCs to maintain charge balance."
+    },
+    {
+        "id": 108,
+        "question": "Which condition decreases oxygen binding capacity of haemoglobin without changing its amount?",
+        "options": [
+            "Anaemia",
+            "Carbon monoxide poisoning",
+            "High altitude",
+            "Blood loss"
+        ],
+        "answer": 1,
+        "explanation": "Carbon monoxide binds haemoglobin and reduces its oxygen carrying capacity."
+    },
+    {
+        "id": 109,
+        "question": "Which of the following shows highest affinity for haemoglobin?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Carbon monoxide",
+            "Nitrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon monoxide binds haemoglobin most strongly."
+    },
+    {
+        "id": 110,
+        "question": "Which condition leads to hypoxic hypoxia?",
+        "options": [
+            "Reduced haemoglobin",
+            "Poor blood flow",
+            "Reduced oxygen availability",
+            "Tissue inability to use oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Hypoxic hypoxia is caused by low oxygen availability."
+    },
+    {
+        "id": 111,
+        "question": "Which structure contains vocal cords?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Vocal cords are present in the larynx."
+    },
+    {
+        "id": 112,
+        "question": "Which statement about external intercostal muscles is correct?",
+        "options": [
+            "Contract during expiration",
+            "Relax during inspiration",
+            "Assist rib elevation",
+            "Reduce thoracic volume"
+        ],
+        "answer": 2,
+        "explanation": "External intercostals elevate ribs during inspiration."
+    },
+    {
+        "id": 113,
+        "question": "Which gas contributes maximum to partial pressure of air but is physiologically inactive?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen forms major component but is physiologically inactive."
+    },
+    {
+        "id": 114,
+        "question": "Which parameter of blood mainly determines oxygen saturation of haemoglobin in lungs?",
+        "options": [
+            "pCO2",
+            "pO2",
+            "pH",
+            "Temperature"
+        ],
+        "answer": 1,
+        "explanation": "High pO2 in lungs determines haemoglobin saturation."
+    },
+    {
+        "id": 115,
+        "question": "Which condition increases affinity of haemoglobin for oxygen?",
+        "options": [
+            "High CO2 concentration",
+            "Low pH",
+            "Low temperature",
+            "High H+ concentration"
+        ],
+        "answer": 2,
+        "explanation": "Low temperature increases oxygen affinity."
+    },
+    {
+        "id": 116,
+        "question": "Which respiratory disorder involves chronic inflammation and mucus secretion?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Bronchitis involves inflammation and mucus production."
+    },
+    {
+        "id": 117,
+        "question": "Which event occurs during expiration?",
+        "options": [
+            "Increase in thoracic volume",
+            "Contraction of diaphragm",
+            "Decrease in lung volume",
+            "Decrease in intrapulmonary pressure"
+        ],
+        "answer": 2,
+        "explanation": "Expiration decreases lung volume."
+    },
+    {
+        "id": 118,
+        "question": "Which lung volume remains constant irrespective of breathing pattern?",
+        "options": [
+            "Tidal volume",
+            "Inspiratory reserve volume",
+            "Residual volume",
+            "Vital capacity"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume remains constant."
+    },
+    {
+        "id": 119,
+        "question": "Which structure filters dust from inhaled air?",
+        "options": [
+            "Alveoli",
+            "Nasal hairs",
+            "Bronchioles",
+            "Diaphragm"
+        ],
+        "answer": 1,
+        "explanation": "Nasal hairs trap large dust particles."
+    },
+    {
+        "id": 120,
+        "question": "Which process converts bicarbonate back to CO2 in lungs?",
+        "options": [
+            "Hydration",
+            "Dehydration",
+            "Oxidation",
+            "Reduction"
+        ],
+        "answer": 1,
+        "explanation": "Bicarbonate is converted back to CO2 by dehydration reaction."
+    },
+    {
+        "id": 121,
+        "question": "Which factor does NOT favor oxygen release in tissues?",
+        "options": [
+            "High CO2",
+            "Low pH",
+            "Low temperature",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "Low temperature favors oxygen binding, not release."
+    },
+    {
+        "id": 122,
+        "question": "Which blood vessel shows lowest pO2?",
+        "options": [
+            "Pulmonary vein",
+            "Pulmonary artery",
+            "Aorta",
+            "Systemic artery"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary artery carries deoxygenated blood."
+    },
+    {
+        "id": 123,
+        "question": "Which structure lacks cartilage support?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Larynx"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles lack cartilaginous support."
+    },
+    {
+        "id": 124,
+        "question": "Which component maintains shape of alveoli?",
+        "options": [
+            "Cartilage",
+            "Elastic fibres",
+            "Smooth muscles",
+            "Cilia"
+        ],
+        "answer": 1,
+        "explanation": "Elastic fibres help maintain alveolar structure."
+    },
+    {
+        "id": 125,
+        "question": "Which event increases diffusion rate of oxygen?",
+        "options": [
+            "Thickened respiratory membrane",
+            "Reduced surface area",
+            "Increased partial pressure gradient",
+            "Low solubility"
+        ],
+        "answer": 2,
+        "explanation": "Higher partial pressure gradient increases diffusion."
+    },
+    {
+        "id": 126,
+        "question": "Which gas is transported largely in dissolved form?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 0,
+        "explanation": "A small but significant fraction of oxygen is transported dissolved."
+    },
+    {
+        "id": 127,
+        "question": "Which condition leads to destruction of respiratory surface area?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Emphysema destroys alveolar walls."
+    },
+    {
+        "id": 128,
+        "question": "Which factor is detected by chemoreceptors in medulla?",
+        "options": [
+            "Oxygen concentration",
+            "Carbon dioxide and hydrogen ions",
+            "Blood glucose",
+            "Blood pressure"
+        ],
+        "answer": 1,
+        "explanation": "Medullary chemoreceptors respond to CO2 and H+."
+    },
+    {
+        "id": 129,
+        "question": "Which lung capacity equals IC + ERV?",
+        "options": [
+            "Vital capacity",
+            "Total lung capacity",
+            "Functional residual capacity",
+            "Residual volume"
+        ],
+        "answer": 0,
+        "explanation": "Vital capacity equals IC plus ERV."
+    },
+    {
+        "id": 130,
+        "question": "Which structure prevents alveoli from collapsing due to surface tension?",
+        "options": [
+            "Cartilage",
+            "Surfactant",
+            "Pleural fluid",
+            "Elastic fibres"
+        ],
+        "answer": 1,
+        "explanation": "Surfactant reduces surface tension."
+    },
+    {
+        "id": 131,
+        "question": "Which cells secrete pulmonary surfactant?",
+        "options": [
+            "Type I alveolar cells",
+            "Type II alveolar cells",
+            "Macrophages",
+            "Endothelial cells"
+        ],
+        "answer": 1,
+        "explanation": "Type II pneumocytes secrete surfactant."
+    },
+    {
+        "id": 132,
+        "question": "Which component removes pathogens in alveoli?",
+        "options": [
+            "Cilia",
+            "Goblet cells",
+            "Macrophages",
+            "Basement membrane"
+        ],
+        "answer": 2,
+        "explanation": "Alveolar macrophages remove pathogens."
+    },
+    {
+        "id": 133,
+        "question": "Which condition causes bluish discoloration due to lack of oxygen?",
+        "options": [
+            "Anaemia",
+            "Cyanosis",
+            "Hypoxia",
+            "Apnea"
+        ],
+        "answer": 1,
+        "explanation": "Cyanosis results from reduced oxygenation."
+    },
+    {
+        "id": 134,
+        "question": "Which gas exchange occurs due to simple diffusion?",
+        "options": [
+            "Oxygen and carbon dioxide",
+            "Nitrogen and oxygen",
+            "Carbon monoxide only",
+            "All gases equally"
+        ],
+        "answer": 0,
+        "explanation": "Oxygen and CO2 exchange by simple diffusion."
+    },
+    {
+        "id": 135,
+        "question": "Which structure increases thoracic volume vertically?",
+        "options": [
+            "Ribs",
+            "Sternum",
+            "Diaphragm",
+            "Intercostal muscles"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm contraction increases vertical diameter."
+    },
+    {
+        "id": 136,
+        "question": "Which factor shifts oxygen dissociation curve to left?",
+        "options": [
+            "High CO2",
+            "High temperature",
+            "High pH",
+            "High H+"
+        ],
+        "answer": 2,
+        "explanation": "High pH shifts curve to left."
+    },
+    {
+        "id": 137,
+        "question": "Which form of hypoxia is caused by poisoning with cyanide?",
+        "options": [
+            "Hypoxic",
+            "Anaemic",
+            "Stagnant",
+            "Histotoxic"
+        ],
+        "answer": 3,
+        "explanation": "Cyanide causes histotoxic hypoxia."
+    },
+    {
+        "id": 138,
+        "question": "Which gas determines respiratory rate most strongly?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "CO2 strongly regulates breathing rate."
+    },
+    {
+        "id": 139,
+        "question": "Which lung volume is the sum of RV and ERV?",
+        "options": [
+            "Vital capacity",
+            "Inspiratory capacity",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 2,
+        "explanation": "FRC equals RV plus ERV."
+    },
+    {
+        "id": 140,
+        "question": "Which structure connects larynx to bronchi?",
+        "options": [
+            "Pharynx",
+            "Trachea",
+            "Bronchioles",
+            "Alveoli"
+        ],
+        "answer": 1,
+        "explanation": "Trachea connects larynx to bronchi."
+    },
+    {
+        "id": 141,
+        "question": "Which blood parameter increases during hyperventilation?",
+        "options": [
+            "pCO2",
+            "H+ concentration",
+            "Blood pH",
+            "Bicarbonate"
+        ],
+        "answer": 2,
+        "explanation": "Hyperventilation reduces CO2 and increases pH."
+    },
+    {
+        "id": 142,
+        "question": "Which structure ensures frictionless lung movement?",
+        "options": [
+            "Alveoli",
+            "Pleura",
+            "Surfactant",
+            "Elastic fibres"
+        ],
+        "answer": 1,
+        "explanation": "Pleura and pleural fluid reduce friction."
+    },
+    {
+        "id": 143,
+        "question": "Which condition results from prolonged oxygen deficiency?",
+        "options": [
+            "Apnea",
+            "Asphyxia",
+            "Cyanosis",
+            "Hypoxia"
+        ],
+        "answer": 3,
+        "explanation": "Hypoxia results from inadequate oxygen supply."
+    },
+    {
+        "id": 144,
+        "question": "Which structure branches repeatedly to form respiratory tree?",
+        "options": [
+            "Bronchi",
+            "Bronchioles",
+            "Trachea",
+            "Larynx"
+        ],
+        "answer": 1,
+        "explanation": "Bronchioles form extensive branching."
+    },
+    {
+        "id": 145,
+        "question": "Which statement about haemoglobin is incorrect?",
+        "options": [
+            "Tetrameric protein",
+            "Contains iron",
+            "Irreversibly binds oxygen",
+            "Present in RBCs"
+        ],
+        "answer": 2,
+        "explanation": "Haemoglobin binds oxygen reversibly."
+    },
+    {
+        "id": 146,
+        "question": "Which gas causes cherry red appearance in poisoning?",
+        "options": [
+            "CO2",
+            "CO",
+            "NO2",
+            "SO2"
+        ],
+        "answer": 1,
+        "explanation": "Carbon monoxide causes cherry red coloration."
+    },
+    {
+        "id": 147,
+        "question": "Which structure marks the end of conducting part?",
+        "options": [
+            "Bronchi",
+            "Bronchioles",
+            "Terminal bronchioles",
+            "Alveoli"
+        ],
+        "answer": 2,
+        "explanation": "Terminal bronchioles end conducting zone."
+    },
+    {
+        "id": 148,
+        "question": "Which part constitutes respiratory zone?",
+        "options": [
+            "Bronchi",
+            "Terminal bronchioles",
+            "Alveoli",
+            "Trachea"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli form respiratory zone."
+    },
+    {
+        "id": 149,
+        "question": "Which condition decreases effective respiratory surface?",
+        "options": [
+            "Pulmonary edema",
+            "High altitude",
+            "Anaemia",
+            "Hyperventilation"
+        ],
+        "answer": 0,
+        "explanation": "Fluid accumulation reduces surface area."
+    },
+    {
+        "id": 150,
+        "question": "Which nerve damage stops breathing immediately?",
+        "options": [
+            "Vagus nerve",
+            "Phrenic nerve",
+            "Sympathetic nerve",
+            "Intercostal nerve"
+        ],
+        "answer": 1,
+        "explanation": "Phrenic nerve controls diaphragm."
+    },
+    {
+        "id": 151,
+        "question": "Which factor increases carbon dioxide release in lungs?",
+        "options": [
+            "High pO2",
+            "Low pO2",
+            "High temperature",
+            "Low pH"
+        ],
+        "answer": 0,
+        "explanation": "High pO2 promotes CO2 release (Haldane effect)."
+    },
+    {
+        "id": 152,
+        "question": "Which component maintains pH of blood during respiration?",
+        "options": [
+            "Plasma proteins",
+            "Haemoglobin",
+            "Chloride ions",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Haemoglobin acts as a buffer."
+    },
+    {
+        "id": 153,
+        "question": "Which lung volume equals TLC minus VC?",
+        "options": [
+            "ERV",
+            "IRV",
+            "RV",
+            "TV"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume equals TLC minus VC."
+    },
+    {
+        "id": 154,
+        "question": "Which structure traps microbes in inhaled air?",
+        "options": [
+            "Nasal mucus",
+            "Alveoli",
+            "Diaphragm",
+            "RBCs"
+        ],
+        "answer": 0,
+        "explanation": "Nasal mucus traps microbes."
+    },
+    {
+        "id": 155,
+        "question": "Which event decreases intrapulmonary pressure?",
+        "options": [
+            "Thoracic volume decrease",
+            "Diaphragm relaxation",
+            "Thoracic volume increase",
+            "Elastic recoil"
+        ],
+        "answer": 2,
+        "explanation": "Increase in thoracic volume lowers pressure."
+    },
+    {
+        "id": 156,
+        "question": "Which factor has least effect on oxygen dissociation curve?",
+        "options": [
+            "pO2",
+            "pCO2",
+            "Temperature",
+            "Blood glucose"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose has no effect."
+    },
+    {
+        "id": 157,
+        "question": "Which gas exchange occurs in systemic capillaries?",
+        "options": [
+            "External respiration",
+            "Internal respiration",
+            "Ventilation",
+            "Breathing"
+        ],
+        "answer": 1,
+        "explanation": "Internal respiration occurs in tissues."
+    },
+    {
+        "id": 158,
+        "question": "Which structure gives rigidity to trachea?",
+        "options": [
+            "Smooth muscle",
+            "Cartilage",
+            "Elastic fibres",
+            "Cilia"
+        ],
+        "answer": 1,
+        "explanation": "C-shaped cartilaginous rings support trachea."
+    },
+    {
+        "id": 159,
+        "question": "Which lung disorder reduces elasticity?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Pneumonia",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema reduces lung elasticity."
+    },
+    {
+        "id": 160,
+        "question": "Which factor favors carbaminohaemoglobin formation in tissues?",
+        "options": [
+            "Low pCO2",
+            "High pCO2",
+            "High pO2",
+            "Low temperature"
+        ],
+        "answer": 1,
+        "explanation": "High CO2 favors carbaminohaemoglobin formation."
+    },
+    {
+        "id": 161,
+        "question": "Which structure carries sound vibrations?",
+        "options": [
+            "Epiglottis",
+            "Vocal cords",
+            "Bronchi",
+            "Alveoli"
+        ],
+        "answer": 1,
+        "explanation": "Vocal cords vibrate to produce sound."
+    },
+    {
+        "id": 162,
+        "question": "Which lung volume equals VC plus RV?",
+        "options": [
+            "Inspiratory capacity",
+            "Total lung capacity",
+            "Functional residual capacity",
+            "Expiratory capacity"
+        ],
+        "answer": 1,
+        "explanation": "TLC equals VC plus RV."
+    },
+    {
+        "id": 163,
+        "question": "Which gas causes immediate unconsciousness at high concentration?",
+        "options": [
+            "CO2",
+            "CO",
+            "N2",
+            "O2"
+        ],
+        "answer": 1,
+        "explanation": "Carbon monoxide causes rapid hypoxia."
+    },
+    {
+        "id": 164,
+        "question": "Which structure lines bronchioles?",
+        "options": [
+            "Ciliated epithelium",
+            "Squamous epithelium",
+            "Cuboidal epithelium",
+            "Stratified epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles are lined by cuboidal epithelium."
+    },
+    {
+        "id": 165,
+        "question": "Which factor reduces carbon dioxide solubility?",
+        "options": [
+            "High temperature",
+            "Low temperature",
+            "High pressure",
+            "High hydration"
+        ],
+        "answer": 0,
+        "explanation": "High temperature reduces gas solubility."
+    },
+    {
+        "id": 166,
+        "question": "Which part of respiratory tract lacks glands?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Nasal cavity"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles lack glands."
+    },
+    {
+        "id": 167,
+        "question": "Which condition causes fluid accumulation in lungs?",
+        "options": [
+            "Emphysema",
+            "Pulmonary edema",
+            "Asthma",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary edema fills alveoli with fluid."
+    },
+    {
+        "id": 168,
+        "question": "Which blood parameter decreases during hypoventilation?",
+        "options": [
+            "pCO2",
+            "Blood pH",
+            "H+ concentration",
+            "Bicarbonate"
+        ],
+        "answer": 1,
+        "explanation": "Hypoventilation increases CO2 and lowers pH."
+    },
+    {
+        "id": 169,
+        "question": "Which event marks end of expiration?",
+        "options": [
+            "Minimum thoracic volume",
+            "Maximum lung volume",
+            "Minimum intrapulmonary pressure",
+            "Diaphragm contraction"
+        ],
+        "answer": 0,
+        "explanation": "Expiration ends at minimum thoracic volume."
+    },
+    {
+        "id": 170,
+        "question": "Which condition reduces oxygen carrying capacity without affecting pO2?",
+        "options": [
+            "Anaemia",
+            "Hypoxic hypoxia",
+            "High altitude",
+            "Hyperventilation"
+        ],
+        "answer": 0,
+        "explanation": "Anaemia reduces haemoglobin concentration."
+    },
+    {
+        "id": 171,
+        "question": "Which structure connects bronchioles to alveoli?",
+        "options": [
+            "Terminal bronchioles",
+            "Respiratory bronchioles",
+            "Trachea",
+            "Primary bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles lead to alveoli."
+    },
+    {
+        "id": 172,
+        "question": "Which statement about surfactant is correct?",
+        "options": [
+            "Increases surface tension",
+            "Produced by macrophages",
+            "Prevents alveolar collapse",
+            "Absent in newborns normally"
+        ],
+        "answer": 2,
+        "explanation": "Surfactant prevents alveolar collapse."
+    },
+    {
+        "id": 173,
+        "question": "Which factor promotes oxygen binding in lungs?",
+        "options": [
+            "High CO2",
+            "Low pH",
+            "Low pO2",
+            "High pO2"
+        ],
+        "answer": 3,
+        "explanation": "High pO2 promotes oxygen binding."
+    },
+    {
+        "id": 174,
+        "question": "Which disorder is characterized by difficulty in breathing due to allergy?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Pneumonia",
+            "Emphysema"
+        ],
+        "answer": 0,
+        "explanation": "Asthma is allergic in nature."
+    },
+    {
+        "id": 175,
+        "question": "Which lung volume equals TV plus ERV?",
+        "options": [
+            "Expiratory capacity",
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Functional residual capacity"
+        ],
+        "answer": 0,
+        "explanation": "Expiratory capacity equals TV plus ERV."
+    },
+    {
+        "id": 176,
+        "question": "Which structure prevents backflow of food into nasal cavity?",
+        "options": [
+            "Epiglottis",
+            "Soft palate",
+            "Glottis",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Soft palate prevents nasal entry of food."
+    },
+    {
+        "id": 177,
+        "question": "Which factor does NOT affect diffusion of gases?",
+        "options": [
+            "Surface area",
+            "Thickness of membrane",
+            "Pressure gradient",
+            "Presence of enzymes"
+        ],
+        "answer": 3,
+        "explanation": "Enzymes do not affect diffusion."
+    },
+    {
+        "id": 178,
+        "question": "Which lung disorder is caused by smoking-induced damage?",
+        "options": [
+            "Asthma",
+            "Pneumonia",
+            "Emphysema",
+            "Tuberculosis"
+        ],
+        "answer": 2,
+        "explanation": "Smoking leads to emphysema."
+    },
+    {
+        "id": 179,
+        "question": "Which structure is common pathway for air and food?",
+        "options": [
+            "Larynx",
+            "Pharynx",
+            "Trachea",
+            "Oesophagus"
+        ],
+        "answer": 1,
+        "explanation": "Pharynx is common passage."
+    },
+    {
+        "id": 180,
+        "question": "Which factor causes leftward shift of oxygen dissociation curve?",
+        "options": [
+            "High CO2",
+            "High temperature",
+            "High pH",
+            "Low pO2"
+        ],
+        "answer": 2,
+        "explanation": "High pH shifts curve left."
+    },
+    {
+        "id": 181,
+        "question": "Which process increases breathing rate during exercise?",
+        "options": [
+            "Decrease in CO2",
+            "Increase in CO2",
+            "Increase in pH",
+            "Decrease in H+"
+        ],
+        "answer": 1,
+        "explanation": "Increased CO2 stimulates respiration."
+    },
+    {
+        "id": 182,
+        "question": "Which lung capacity cannot be measured by spirometer?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Residual volume",
+            "Expiratory reserve volume"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume cannot be measured."
+    },
+    {
+        "id": 183,
+        "question": "Which condition causes inability of tissues to utilize oxygen?",
+        "options": [
+            "Anaemia",
+            "Hypoxic hypoxia",
+            "Histotoxic hypoxia",
+            "Stagnant hypoxia"
+        ],
+        "answer": 2,
+        "explanation": "Histotoxic hypoxia prevents oxygen utilization."
+    },
+    {
+        "id": 184,
+        "question": "Which structure warms and moistens air?",
+        "options": [
+            "Nasal cavity",
+            "Trachea",
+            "Bronchioles",
+            "Alveoli"
+        ],
+        "answer": 0,
+        "explanation": "Nasal cavity conditions inhaled air."
+    },
+    {
+        "id": 185,
+        "question": "Which event occurs during forced expiration?",
+        "options": [
+            "Diaphragm contraction",
+            "External intercostal contraction",
+            "Internal intercostal contraction",
+            "Thoracic volume increase"
+        ],
+        "answer": 2,
+        "explanation": "Internal intercostals contract in forced expiration."
+    },
+    {
+        "id": 186,
+        "question": "Which structure contains elastic cartilage?",
+        "options": [
+            "Trachea",
+            "Larynx",
+            "Bronchi",
+            "Bronchioles"
+        ],
+        "answer": 1,
+        "explanation": "Larynx contains elastic cartilage."
+    },
+    {
+        "id": 187,
+        "question": "Which condition results from accumulation of CO2 in blood?",
+        "options": [
+            "Hypoxia",
+            "Hypercapnia",
+            "Cyanosis",
+            "Apnea"
+        ],
+        "answer": 1,
+        "explanation": "Hypercapnia is excess CO2 in blood."
+    },
+    {
+        "id": 188,
+        "question": "Which factor increases oxygen unloading in active tissues?",
+        "options": [
+            "Low CO2",
+            "Low temperature",
+            "High pH",
+            "High temperature"
+        ],
+        "answer": 3,
+        "explanation": "High temperature promotes oxygen release."
+    },
+    {
+        "id": 189,
+        "question": "Which blood vessel carries blood with highest pCO2?",
+        "options": [
+            "Pulmonary vein",
+            "Aorta",
+            "Pulmonary artery",
+            "Systemic artery"
+        ],
+        "answer": 2,
+        "explanation": "Pulmonary artery carries deoxygenated blood."
+    },
+    {
+        "id": 190,
+        "question": "Which structure marks the start of respiratory zone?",
+        "options": [
+            "Terminal bronchiole",
+            "Respiratory bronchiole",
+            "Alveolar duct",
+            "Alveolus"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles mark respiratory zone."
+    },
+    {
+        "id": 191,
+        "question": "Which statement about breathing is correct?",
+        "options": [
+            "Always voluntary",
+            "Always involuntary",
+            "Controlled by brainstem",
+            "Independent of CO2"
+        ],
+        "answer": 2,
+        "explanation": "Breathing is regulated by brainstem centers."
+    },
+    {
+        "id": 192,
+        "question": "Which factor reduces oxygen solubility in blood?",
+        "options": [
+            "Low temperature",
+            "High temperature",
+            "High pressure",
+            "High pO2"
+        ],
+        "answer": 1,
+        "explanation": "High temperature reduces solubility."
+    },
+    {
+        "id": 193,
+        "question": "Which lung disorder is characterized by narrowed airways?",
+        "options": [
+            "Emphysema",
+            "Asthma",
+            "Pneumonia",
+            "Pulmonary edema"
+        ],
+        "answer": 1,
+        "explanation": "Asthma causes airway narrowing."
+    },
+    {
+        "id": 194,
+        "question": "Which structure separates nasal cavity from oral cavity?",
+        "options": [
+            "Epiglottis",
+            "Soft palate",
+            "Hard palate",
+            "Uvula"
+        ],
+        "answer": 2,
+        "explanation": "Hard palate separates nasal and oral cavities."
+    },
+    {
+        "id": 195,
+        "question": "Which gas has highest solubility in blood?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Carbon monoxide"
+        ],
+        "answer": 2,
+        "explanation": "CO2 has highest solubility."
+    },
+    {
+        "id": 196,
+        "question": "Which factor stimulates peripheral chemoreceptors?",
+        "options": [
+            "High pO2",
+            "Low pO2",
+            "Low CO2",
+            "High pH"
+        ],
+        "answer": 1,
+        "explanation": "Peripheral chemoreceptors respond to low pO2."
+    },
+    {
+        "id": 197,
+        "question": "Which structure lacks blood supply?",
+        "options": [
+            "Alveoli",
+            "Trachea",
+            "Bronchioles",
+            "Respiratory membrane"
+        ],
+        "answer": 3,
+        "explanation": "Respiratory membrane itself lacks blood vessels."
+    },
+    {
+        "id": 198,
+        "question": "Which process removes CO2 from blood in lungs?",
+        "options": [
+            "Bohr effect",
+            "Haldane effect",
+            "Chloride shift",
+            "Diffusion alone"
+        ],
+        "answer": 1,
+        "explanation": "Haldane effect promotes CO2 release."
+    },
+    {
+        "id": 199,
+        "question": "Which condition reduces lung compliance?",
+        "options": [
+            "Emphysema",
+            "Pulmonary fibrosis",
+            "Asthma",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Fibrosis reduces lung compliance."
+    },
+    {
+        "id": 200,
+        "question": "Which statement about alveoli is correct?",
+        "options": [
+            "Poor blood supply",
+            "Thick epithelial lining",
+            "Large surface area",
+            "Presence of cilia"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli provide large surface area for gas exchange."
+    },
+    {
+        "id": 201,
+        "question": "Which change directly causes air to enter lungs during inspiration?",
+        "options": [
+            "Increase in intrapulmonary pressure",
+            "Decrease in intrapulmonary pressure",
+            "Increase in atmospheric pressure",
+            "Decrease in lung elasticity"
+        ],
+        "answer": 1,
+        "explanation": "Air enters lungs when intrapulmonary pressure becomes lower than atmospheric pressure."
+    },
+    {
+        "id": 202,
+        "question": "Which muscle is mainly responsible for increase in thoracic volume during quiet breathing?",
+        "options": [
+            "Internal intercostal muscle",
+            "External intercostal muscle",
+            "Abdominal muscle",
+            "Pharyngeal muscle"
+        ],
+        "answer": 1,
+        "explanation": "External intercostal muscles elevate ribs during quiet inspiration."
+    },
+    {
+        "id": 203,
+        "question": "Which statement regarding expiration during normal breathing is correct?",
+        "options": [
+            "It is an active process",
+            "It requires ATP",
+            "It occurs due to elastic recoil",
+            "It involves contraction of diaphragm"
+        ],
+        "answer": 2,
+        "explanation": "Normal expiration occurs passively due to elastic recoil of lungs."
+    },
+    {
+        "id": 204,
+        "question": "Which lung volume is present even after maximum forced expiration?",
+        "options": [
+            "Tidal volume",
+            "Expiratory reserve volume",
+            "Inspiratory reserve volume",
+            "Residual volume"
+        ],
+        "answer": 3,
+        "explanation": "Residual volume remains after maximum forced expiration."
+    },
+    {
+        "id": 205,
+        "question": "Which statement about residual volume is correct?",
+        "options": [
+            "Can be measured by spirometer",
+            "Prevents lung collapse",
+            "Equals ERV + TV",
+            "Absent in newborns"
+        ],
+        "answer": 1,
+        "explanation": "Residual volume prevents collapse of lungs."
+    },
+    {
+        "id": 206,
+        "question": "Which lung capacity represents maximum air that can be exhaled after a maximum inspiration?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Total lung capacity",
+            "Functional residual capacity"
+        ],
+        "answer": 1,
+        "explanation": "Vital capacity is the maximum air expelled after maximum inspiration."
+    },
+    {
+        "id": 207,
+        "question": "Which gas shows maximum partial pressure in atmospheric air?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen constitutes the largest fraction of atmospheric air."
+    },
+    {
+        "id": 208,
+        "question": "Which of the following has the lowest partial pressure in alveolar air?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Water vapour"
+        ],
+        "answer": 1,
+        "explanation": "Alveolar air has relatively low pCO2."
+    },
+    {
+        "id": 209,
+        "question": "Which factor increases rate of diffusion of gases across alveoli?",
+        "options": [
+            "Thick respiratory membrane",
+            "Reduced surface area",
+            "High solubility of gas",
+            "Low partial pressure gradient"
+        ],
+        "answer": 2,
+        "explanation": "Higher solubility increases diffusion rate."
+    },
+    {
+        "id": 210,
+        "question": "Which component of respiratory membrane offers maximum resistance to diffusion?",
+        "options": [
+            "Alveolar epithelium",
+            "Capillary endothelium",
+            "Basement membrane",
+            "Plasma membrane"
+        ],
+        "answer": 2,
+        "explanation": "Basement membrane is relatively thicker."
+    },
+    {
+        "id": 211,
+        "question": "Which blood parameter primarily affects unloading of oxygen in tissues?",
+        "options": [
+            "High pO2",
+            "Low pCO2",
+            "High H+ concentration",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "High H+ concentration favors oxygen release (Bohr effect)."
+    },
+    {
+        "id": 212,
+        "question": "Which curve explains oxygen binding behavior of haemoglobin?",
+        "options": [
+            "Linear curve",
+            "Hyperbolic curve",
+            "Sigmoid curve",
+            "Exponential curve"
+        ],
+        "answer": 2,
+        "explanation": "Haemoglobin shows a sigmoid oxygen dissociation curve."
+    },
+    {
+        "id": 213,
+        "question": "Which condition shifts oxygen dissociation curve to the right?",
+        "options": [
+            "High pH",
+            "Low CO2",
+            "High temperature",
+            "Low H+"
+        ],
+        "answer": 2,
+        "explanation": "High temperature decreases oxygen affinity."
+    },
+    {
+        "id": 214,
+        "question": "Which form of carbon dioxide transport contributes maximum to total CO2 transport?",
+        "options": [
+            "Dissolved CO2",
+            "Carbaminohaemoglobin",
+            "Bicarbonate ions",
+            "Carbonic acid"
+        ],
+        "answer": 2,
+        "explanation": "Most CO2 is transported as bicarbonate ions."
+    },
+    {
+        "id": 215,
+        "question": "Which enzyme is abundant in RBCs and aids CO2 transport?",
+        "options": [
+            "Carbonic anhydrase",
+            "Carboxylase",
+            "Catalase",
+            "Oxidase"
+        ],
+        "answer": 0,
+        "explanation": "Carbonic anhydrase catalyzes hydration of CO2."
+    },
+    {
+        "id": 216,
+        "question": "Which ion moves into RBCs during chloride shift?",
+        "options": [
+            "Bicarbonate",
+            "Chloride",
+            "Sodium",
+            "Potassium"
+        ],
+        "answer": 1,
+        "explanation": "Chloride ions enter RBCs during chloride shift."
+    },
+    {
+        "id": 217,
+        "question": "Which event occurs in lungs due to Haldane effect?",
+        "options": [
+            "Oxygen unloading",
+            "Carbon dioxide release",
+            "Increased bicarbonate formation",
+            "Decreased pH"
+        ],
+        "answer": 1,
+        "explanation": "Haldane effect facilitates CO2 release in lungs."
+    },
+    {
+        "id": 218,
+        "question": "Which factor reduces affinity of haemoglobin for oxygen in tissues?",
+        "options": [
+            "High pO2",
+            "Low CO2",
+            "High pCO2",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "High pCO2 reduces oxygen affinity."
+    },
+    {
+        "id": 219,
+        "question": "Which form of hypoxia occurs due to reduced blood flow?",
+        "options": [
+            "Hypoxic hypoxia",
+            "Anaemic hypoxia",
+            "Stagnant hypoxia",
+            "Histotoxic hypoxia"
+        ],
+        "answer": 2,
+        "explanation": "Stagnant hypoxia results from reduced blood flow."
+    },
+    {
+        "id": 220,
+        "question": "Which hypoxia occurs when tissues cannot utilize oxygen?",
+        "options": [
+            "Hypoxic",
+            "Anaemic",
+            "Stagnant",
+            "Histotoxic"
+        ],
+        "answer": 3,
+        "explanation": "Histotoxic hypoxia prevents oxygen utilization."
+    },
+    {
+        "id": 221,
+        "question": "Which structure is lined by simple squamous epithelium?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Alveoli"
+        ],
+        "answer": 3,
+        "explanation": "Alveoli are lined by thin squamous epithelium."
+    },
+    {
+        "id": 222,
+        "question": "Which structure lacks cartilage and glands?",
+        "options": [
+            "Bronchi",
+            "Trachea",
+            "Bronchioles",
+            "Larynx"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles lack cartilage and glands."
+    },
+    {
+        "id": 223,
+        "question": "Which lung disorder involves inflammation of bronchi?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 1,
+        "explanation": "Bronchitis involves inflammation of bronchi."
+    },
+    {
+        "id": 224,
+        "question": "Which disorder results from destruction of alveolar walls?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Tuberculosis"
+        ],
+        "answer": 2,
+        "explanation": "Emphysema destroys alveolar walls."
+    },
+    {
+        "id": 225,
+        "question": "Which respiratory disorder is caused by allergic reaction?",
+        "options": [
+            "Pneumonia",
+            "Emphysema",
+            "Asthma",
+            "Bronchitis"
+        ],
+        "answer": 2,
+        "explanation": "Asthma is allergic in nature."
+    },
+    {
+        "id": 226,
+        "question": "Which condition involves fluid accumulation in alveoli?",
+        "options": [
+            "Asthma",
+            "Pulmonary edema",
+            "Emphysema",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary edema fills alveoli with fluid."
+    },
+    {
+        "id": 227,
+        "question": "Which structure is responsible for warming and humidifying air?",
+        "options": [
+            "Pharynx",
+            "Nasal cavity",
+            "Trachea",
+            "Bronchioles"
+        ],
+        "answer": 1,
+        "explanation": "Nasal cavity warms and moistens air."
+    },
+    {
+        "id": 228,
+        "question": "Which part of respiratory tract produces sound?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Larynx contains vocal cords."
+    },
+    {
+        "id": 229,
+        "question": "Which nerve innervates diaphragm?",
+        "options": [
+            "Vagus nerve",
+            "Phrenic nerve",
+            "Intercostal nerve",
+            "Sympathetic nerve"
+        ],
+        "answer": 1,
+        "explanation": "Phrenic nerve controls diaphragm."
+    },
+    {
+        "id": 230,
+        "question": "Which breathing center is located in medulla oblongata?",
+        "options": [
+            "Pneumotaxic center",
+            "Apneustic center",
+            "Respiratory rhythm center",
+            "Chemoreceptor center"
+        ],
+        "answer": 2,
+        "explanation": "Respiratory rhythm center lies in medulla."
+    },
+    {
+        "id": 231,
+        "question": "Which center in pons regulates duration of inspiration?",
+        "options": [
+            "Apneustic center",
+            "Pneumotaxic center",
+            "Respiratory rhythm center",
+            "Chemosensitive area"
+        ],
+        "answer": 1,
+        "explanation": "Pneumotaxic center regulates inspiration duration."
+    },
+    {
+        "id": 232,
+        "question": "Which stimulus is most effective in regulating respiration?",
+        "options": [
+            "Oxygen concentration",
+            "Carbon dioxide concentration",
+            "Nitrogen concentration",
+            "Blood glucose"
+        ],
+        "answer": 1,
+        "explanation": "CO2 concentration mainly regulates respiration."
+    },
+    {
+        "id": 233,
+        "question": "Which chemoreceptors respond to changes in blood pH?",
+        "options": [
+            "Peripheral only",
+            "Central only",
+            "Both central and peripheral",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Both central and peripheral chemoreceptors detect pH changes."
+    },
+    {
+        "id": 234,
+        "question": "Which condition leads to cyanosis?",
+        "options": [
+            "Low haemoglobin",
+            "Reduced oxygenation of blood",
+            "Low blood pressure",
+            "High blood glucose"
+        ],
+        "answer": 1,
+        "explanation": "Cyanosis occurs due to reduced oxygenation."
+    },
+    {
+        "id": 235,
+        "question": "Which gas causes cherry red coloration of blood?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Carbon monoxide",
+            "Nitrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon monoxide forms carboxyhaemoglobin."
+    },
+    {
+        "id": 236,
+        "question": "Which lung volume cannot be measured directly?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Residual volume",
+            "Expiratory reserve volume"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume cannot be measured by spirometer."
+    },
+    {
+        "id": 237,
+        "question": "Which structure separates thoracic cavity from abdominal cavity?",
+        "options": [
+            "Sternum",
+            "Rib cage",
+            "Diaphragm",
+            "Pleura"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm separates thoracic and abdominal cavities."
+    },
+    {
+        "id": 238,
+        "question": "Which structure reduces friction between lungs and thoracic wall?",
+        "options": [
+            "Surfactant",
+            "Pleural fluid",
+            "Elastic fibres",
+            "Cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Pleural fluid reduces friction."
+    },
+    {
+        "id": 239,
+        "question": "Which substance reduces surface tension in alveoli?",
+        "options": [
+            "Mucus",
+            "Surfactant",
+            "Pleural fluid",
+            "Plasma proteins"
+        ],
+        "answer": 1,
+        "explanation": "Surfactant lowers surface tension."
+    },
+    {
+        "id": 240,
+        "question": "Which alveolar cells secrete surfactant?",
+        "options": [
+            "Type I pneumocytes",
+            "Type II pneumocytes",
+            "Macrophages",
+            "Endothelial cells"
+        ],
+        "answer": 1,
+        "explanation": "Type II alveolar cells secrete surfactant."
+    },
+    {
+        "id": 241,
+        "question": "Which cells remove dust and microbes from alveoli?",
+        "options": [
+            "Goblet cells",
+            "Ciliated cells",
+            "Macrophages",
+            "Endothelial cells"
+        ],
+        "answer": 2,
+        "explanation": "Alveolar macrophages phagocytose particles."
+    },
+    {
+        "id": 242,
+        "question": "Which structure marks the end of conducting zone?",
+        "options": [
+            "Bronchi",
+            "Terminal bronchioles",
+            "Respiratory bronchioles",
+            "Alveolar ducts"
+        ],
+        "answer": 1,
+        "explanation": "Terminal bronchioles end conducting zone."
+    },
+    {
+        "id": 243,
+        "question": "Which structure marks beginning of respiratory zone?",
+        "options": [
+            "Terminal bronchiole",
+            "Respiratory bronchiole",
+            "Bronchiole",
+            "Trachea"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles begin respiratory zone."
+    },
+    {
+        "id": 244,
+        "question": "Which lung structure provides maximum surface area for gas exchange?",
+        "options": [
+            "Bronchi",
+            "Bronchioles",
+            "Alveoli",
+            "Trachea"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli provide large surface area."
+    },
+    {
+        "id": 245,
+        "question": "Which factor decreases diffusion rate of gases?",
+        "options": [
+            "Large surface area",
+            "Thin membrane",
+            "Low pressure gradient",
+            "High solubility"
+        ],
+        "answer": 2,
+        "explanation": "Low pressure gradient slows diffusion."
+    },
+    {
+        "id": 246,
+        "question": "Which gas diffuses faster across respiratory membrane?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "CO2 diffuses faster due to higher solubility."
+    },
+    {
+        "id": 247,
+        "question": "Which blood vessel carries oxygenated blood from lungs?",
+        "options": [
+            "Pulmonary artery",
+            "Pulmonary vein",
+            "Aorta",
+            "Vena cava"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary vein carries oxygenated blood."
+    },
+    {
+        "id": 248,
+        "question": "Which blood vessel has lowest oxygen content?",
+        "options": [
+            "Pulmonary vein",
+            "Aorta",
+            "Pulmonary artery",
+            "Systemic artery"
+        ],
+        "answer": 2,
+        "explanation": "Pulmonary artery carries deoxygenated blood."
+    },
+    {
+        "id": 249,
+        "question": "Which factor increases oxygen release in active muscles?",
+        "options": [
+            "Low CO2",
+            "High pH",
+            "High temperature",
+            "Low H+"
+        ],
+        "answer": 2,
+        "explanation": "High temperature promotes oxygen unloading."
+    },
+    {
+        "id": 250,
+        "question": "Which form of hypoxia occurs at high altitude?",
+        "options": [
+            "Anaemic",
+            "Stagnant",
+            "Hypoxic",
+            "Histotoxic"
+        ],
+        "answer": 2,
+        "explanation": "Low oxygen availability causes hypoxic hypoxia."
+    },
+    {
+        "id": 251,
+        "question": "Which condition reduces oxygen carrying capacity of blood?",
+        "options": [
+            "Anaemia",
+            "Hyperventilation",
+            "High altitude",
+            "Exercise"
+        ],
+        "answer": 0,
+        "explanation": "Anaemia reduces haemoglobin content."
+    },
+    {
+        "id": 252,
+        "question": "Which structure prevents food from entering trachea?",
+        "options": [
+            "Glottis",
+            "Epiglottis",
+            "Soft palate",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Epiglottis covers glottis during swallowing."
+    },
+    {
+        "id": 253,
+        "question": "Which gas is present in highest concentration in expired air?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen remains unchanged during respiration."
+    },
+    {
+        "id": 254,
+        "question": "Which event occurs during forced inspiration?",
+        "options": [
+            "Diaphragm relaxation",
+            "Internal intercostal contraction",
+            "External intercostal contraction",
+            "Thoracic volume decrease"
+        ],
+        "answer": 2,
+        "explanation": "External intercostals contract during forced inspiration."
+    },
+    {
+        "id": 255,
+        "question": "Which muscle aids forced expiration?",
+        "options": [
+            "External intercostal",
+            "Internal intercostal",
+            "Diaphragm",
+            "Scalene"
+        ],
+        "answer": 1,
+        "explanation": "Internal intercostals help in forced expiration."
+    },
+    {
+        "id": 256,
+        "question": "Which parameter increases during hypoventilation?",
+        "options": [
+            "Blood pH",
+            "pCO2",
+            "pO2",
+            "Oxygen saturation"
+        ],
+        "answer": 1,
+        "explanation": "Hypoventilation increases CO2 level."
+    },
+    {
+        "id": 257,
+        "question": "Which condition results from excess CO2 in blood?",
+        "options": [
+            "Hypoxia",
+            "Hypercapnia",
+            "Cyanosis",
+            "Apnea"
+        ],
+        "answer": 1,
+        "explanation": "Hypercapnia means increased CO2."
+    },
+    {
+        "id": 258,
+        "question": "Which structure connects nasal cavity to larynx?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Pharynx",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Pharynx connects nasal cavity to larynx."
+    },
+    {
+        "id": 259,
+        "question": "Which lung disorder reduces lung elasticity?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Emphysema reduces elasticity."
+    },
+    {
+        "id": 260,
+        "question": "Which structure supports trachea and prevents collapse?",
+        "options": [
+            "Elastic fibres",
+            "Smooth muscles",
+            "Cartilaginous rings",
+            "Pleura"
+        ],
+        "answer": 2,
+        "explanation": "C-shaped cartilage rings support trachea."
+    },
+    {
+        "id": 261,
+        "question": "Which factor causes leftward shift of oxygen dissociation curve?",
+        "options": [
+            "High CO2",
+            "Low pH",
+            "Low temperature",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "Low temperature increases oxygen affinity."
+    },
+    {
+        "id": 262,
+        "question": "Which respiratory pigment stores oxygen in muscles?",
+        "options": [
+            "Haemoglobin",
+            "Myoglobin",
+            "Cytochrome",
+            "Haemocyanin"
+        ],
+        "answer": 1,
+        "explanation": "Myoglobin stores oxygen in muscles."
+    },
+    {
+        "id": 263,
+        "question": "Which gas exchange occurs between blood and tissues?",
+        "options": [
+            "Breathing",
+            "Ventilation",
+            "External respiration",
+            "Internal respiration"
+        ],
+        "answer": 3,
+        "explanation": "Internal respiration occurs at tissue level."
+    },
+    {
+        "id": 264,
+        "question": "Which lung volume equals TV + IRV?",
+        "options": [
+            "Vital capacity",
+            "Inspiratory capacity",
+            "Expiratory capacity",
+            "Functional residual capacity"
+        ],
+        "answer": 1,
+        "explanation": "Inspiratory capacity equals TV plus IRV."
+    },
+    {
+        "id": 265,
+        "question": "Which lung volume equals ERV + RV?",
+        "options": [
+            "Vital capacity",
+            "Inspiratory capacity",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 2,
+        "explanation": "FRC equals ERV plus RV."
+    },
+    {
+        "id": 266,
+        "question": "Which lung capacity equals VC + RV?",
+        "options": [
+            "Inspiratory capacity",
+            "Total lung capacity",
+            "Functional residual capacity",
+            "Expiratory capacity"
+        ],
+        "answer": 1,
+        "explanation": "TLC equals VC plus RV."
+    },
+    {
+        "id": 267,
+        "question": "Which gas has highest solubility in blood?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Carbon monoxide"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide is highly soluble."
+    },
+    {
+        "id": 268,
+        "question": "Which structure lacks cilia?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Alveoli"
+        ],
+        "answer": 3,
+        "explanation": "Alveoli do not have cilia."
+    },
+    {
+        "id": 269,
+        "question": "Which structure filters large dust particles?",
+        "options": [
+            "Alveoli",
+            "Bronchioles",
+            "Nasal hairs",
+            "Pleura"
+        ],
+        "answer": 2,
+        "explanation": "Nasal hairs trap dust."
+    },
+    {
+        "id": 270,
+        "question": "Which condition leads to wheezing sound?",
+        "options": [
+            "Pneumonia",
+            "Emphysema",
+            "Asthma",
+            "Pulmonary edema"
+        ],
+        "answer": 2,
+        "explanation": "Asthma causes airway narrowing and wheezing."
+    },
+    {
+        "id": 271,
+        "question": "Which structure maintains patency of airways?",
+        "options": [
+            "Cartilage",
+            "Surfactant",
+            "Pleural fluid",
+            "Elastic fibres"
+        ],
+        "answer": 0,
+        "explanation": "Cartilage keeps airways open."
+    },
+    {
+        "id": 272,
+        "question": "Which part of respiratory tract has pseudostratified ciliated epithelium?",
+        "options": [
+            "Alveoli",
+            "Trachea",
+            "Bronchioles",
+            "Alveolar ducts"
+        ],
+        "answer": 1,
+        "explanation": "Trachea has pseudostratified ciliated epithelium."
+    },
+    {
+        "id": 273,
+        "question": "Which factor does NOT influence breathing rate?",
+        "options": [
+            "CO2 level",
+            "Blood pH",
+            "O2 level",
+            "Blood glucose"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose does not regulate breathing."
+    },
+    {
+        "id": 274,
+        "question": "Which event reduces intrapulmonary pressure?",
+        "options": [
+            "Diaphragm relaxation",
+            "Thoracic volume increase",
+            "Thoracic volume decrease",
+            "Elastic recoil"
+        ],
+        "answer": 1,
+        "explanation": "Increase in thoracic volume lowers pressure."
+    },
+    {
+        "id": 275,
+        "question": "Which lung disorder is characterized by infection of alveoli?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Pneumonia",
+            "Emphysema"
+        ],
+        "answer": 2,
+        "explanation": "Pneumonia infects alveoli."
+    },
+    {
+        "id": 276,
+        "question": "Which process removes CO2 from blood in alveoli?",
+        "options": [
+            "Bohr effect",
+            "Haldane effect",
+            "Chloride shift",
+            "Hydration"
+        ],
+        "answer": 1,
+        "explanation": "Haldane effect promotes CO2 release."
+    },
+    {
+        "id": 277,
+        "question": "Which structure allows maximum diffusion efficiency?",
+        "options": [
+            "Thick membrane",
+            "Low surface area",
+            "Thin respiratory membrane",
+            "Low solubility"
+        ],
+        "answer": 2,
+        "explanation": "Thin membrane enhances diffusion."
+    },
+    {
+        "id": 278,
+        "question": "Which structure carries sound vibrations for speech?",
+        "options": [
+            "Epiglottis",
+            "Vocal cords",
+            "Bronchi",
+            "Trachea"
+        ],
+        "answer": 1,
+        "explanation": "Vocal cords vibrate to produce sound."
+    },
+    {
+        "id": 279,
+        "question": "Which lung volume equals TV + ERV?",
+        "options": [
+            "Expiratory capacity",
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Residual volume"
+        ],
+        "answer": 0,
+        "explanation": "Expiratory capacity equals TV plus ERV."
+    },
+    {
+        "id": 280,
+        "question": "Which blood component acts as major buffer during respiration?",
+        "options": [
+            "Plasma proteins",
+            "Haemoglobin",
+            "Bicarbonate ions",
+            "Chloride ions"
+        ],
+        "answer": 1,
+        "explanation": "Haemoglobin buffers H+ ions."
+    },
+    {
+        "id": 281,
+        "question": "Which condition leads to asphyxia?",
+        "options": [
+            "Anaemia",
+            "Oxygen deprivation",
+            "High CO2",
+            "High pH"
+        ],
+        "answer": 1,
+        "explanation": "Asphyxia results from oxygen deprivation."
+    },
+    {
+        "id": 282,
+        "question": "Which factor enhances carbaminohaemoglobin formation?",
+        "options": [
+            "High pO2",
+            "Low pCO2",
+            "High pCO2",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "High CO2 promotes carbaminohaemoglobin formation."
+    },
+    {
+        "id": 283,
+        "question": "Which structure lacks blood vessels?",
+        "options": [
+            "Alveoli",
+            "Respiratory membrane",
+            "Trachea",
+            "Bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory membrane itself has no blood vessels."
+    },
+    {
+        "id": 284,
+        "question": "Which condition decreases lung compliance?",
+        "options": [
+            "Emphysema",
+            "Pulmonary fibrosis",
+            "Asthma",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Fibrosis stiffens lungs."
+    },
+    {
+        "id": 285,
+        "question": "Which factor stimulates peripheral chemoreceptors?",
+        "options": [
+            "High pO2",
+            "Low pO2",
+            "High pH",
+            "Low CO2"
+        ],
+        "answer": 1,
+        "explanation": "Peripheral chemoreceptors respond to low pO2."
+    },
+    {
+        "id": 286,
+        "question": "Which structure separates nasal cavity from oral cavity?",
+        "options": [
+            "Soft palate",
+            "Epiglottis",
+            "Hard palate",
+            "Uvula"
+        ],
+        "answer": 2,
+        "explanation": "Hard palate separates nasal and oral cavities."
+    },
+    {
+        "id": 287,
+        "question": "Which gas exchange occurs in lungs?",
+        "options": [
+            "Internal respiration",
+            "Cellular respiration",
+            "External respiration",
+            "Ventilation"
+        ],
+        "answer": 2,
+        "explanation": "External respiration occurs in lungs."
+    },
+    {
+        "id": 288,
+        "question": "Which lung disorder is associated with mucus hypersecretion?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 1,
+        "explanation": "Bronchitis involves excess mucus secretion."
+    },
+    {
+        "id": 289,
+        "question": "Which parameter increases during hyperventilation?",
+        "options": [
+            "pCO2",
+            "H+ concentration",
+            "Blood pH",
+            "Bicarbonate"
+        ],
+        "answer": 2,
+        "explanation": "Hyperventilation reduces CO2 and increases pH."
+    },
+    {
+        "id": 290,
+        "question": "Which structure allows passage of air but not food?",
+        "options": [
+            "Pharynx",
+            "Trachea",
+            "Oesophagus",
+            "Larynx"
+        ],
+        "answer": 3,
+        "explanation": "Larynx allows air passage only."
+    },
+    {
+        "id": 291,
+        "question": "Which factor reduces oxygen affinity of haemoglobin?",
+        "options": [
+            "High pH",
+            "Low temperature",
+            "High CO2",
+            "Low H+"
+        ],
+        "answer": 2,
+        "explanation": "High CO2 reduces oxygen affinity."
+    },
+    {
+        "id": 292,
+        "question": "Which lung volume is maximum in humans?",
+        "options": [
+            "Vital capacity",
+            "Inspiratory capacity",
+            "Total lung capacity",
+            "Residual volume"
+        ],
+        "answer": 2,
+        "explanation": "Total lung capacity is maximum."
+    },
+    {
+        "id": 293,
+        "question": "Which structure connects bronchioles to alveolar ducts?",
+        "options": [
+            "Terminal bronchiole",
+            "Respiratory bronchiole",
+            "Trachea",
+            "Primary bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles connect to alveolar ducts."
+    },
+    {
+        "id": 294,
+        "question": "Which factor does NOT affect oxygen dissociation curve?",
+        "options": [
+            "pO2",
+            "pCO2",
+            "Temperature",
+            "Blood glucose"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose has no effect."
+    },
+    {
+        "id": 295,
+        "question": "Which condition leads to difficulty in expiration?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Pneumonia",
+            "Pulmonary edema"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema makes expiration difficult."
+    },
+    {
+        "id": 296,
+        "question": "Which gas transport form involves haemoglobin directly?",
+        "options": [
+            "Bicarbonate",
+            "Dissolved CO2",
+            "Carbaminohaemoglobin",
+            "Carbonic acid"
+        ],
+        "answer": 2,
+        "explanation": "Carbaminohaemoglobin involves haemoglobin."
+    },
+    {
+        "id": 297,
+        "question": "Which structure lines bronchi?",
+        "options": [
+            "Cuboidal epithelium",
+            "Stratified epithelium",
+            "Pseudostratified ciliated epithelium",
+            "Simple squamous epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Bronchi have pseudostratified ciliated epithelium."
+    },
+    {
+        "id": 298,
+        "question": "Which event increases thoracic volume dorsoventrally?",
+        "options": [
+            "Diaphragm contraction",
+            "Rib elevation",
+            "Rib depression",
+            "Abdominal contraction"
+        ],
+        "answer": 1,
+        "explanation": "Rib elevation increases dorsoventral diameter."
+    },
+    {
+        "id": 299,
+        "question": "Which factor promotes oxygen loading in alveoli?",
+        "options": [
+            "Low pO2",
+            "High pCO2",
+            "High pO2",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "High pO2 favors oxygen binding."
+    },
+    {
+        "id": 300,
+        "question": "Which structure is common passage for air and food?",
+        "options": [
+            "Larynx",
+            "Pharynx",
+            "Trachea",
+            "Oesophagus"
+        ],
+        "answer": 1,
+        "explanation": "Pharynx is common to respiratory and digestive pathways."
+    },
+    {
+        "id": 301,
+        "question": "Which immediate change occurs in intrathoracic pressure during inspiration?",
+        "options": [
+            "Increase above atmospheric pressure",
+            "Decrease below atmospheric pressure",
+            "Becomes zero",
+            "Remains unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Increase in thoracic volume during inspiration lowers intrathoracic pressure below atmospheric pressure."
+    },
+    {
+        "id": 302,
+        "question": "Which structure ensures that alveoli do not collapse after expiration?",
+        "options": [
+            "Pleural fluid",
+            "Surfactant",
+            "Elastic cartilage",
+            "Ciliated epithelium"
+        ],
+        "answer": 1,
+        "explanation": "Surfactant reduces surface tension and prevents alveolar collapse."
+    },
+    {
+        "id": 303,
+        "question": "Which statement regarding alveolar surface is correct as per NCERT?",
+        "options": [
+            "Dry to allow faster diffusion",
+            "Moist to facilitate gas exchange",
+            "Ciliated to remove dust",
+            "Thick to prevent rupture"
+        ],
+        "answer": 1,
+        "explanation": "Alveoli have a moist surface to allow gases to dissolve and diffuse."
+    },
+    {
+        "id": 304,
+        "question": "Which gas shows the steepest diffusion gradient across respiratory membrane?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 0,
+        "explanation": "Oxygen has a steep diffusion gradient from alveoli to blood."
+    },
+    {
+        "id": 305,
+        "question": "Which statement about carbon dioxide transport is correct?",
+        "options": [
+            "Maximum transported bound to haemoglobin",
+            "Transported mainly as carbonic acid",
+            "Transported mainly as bicarbonate ions",
+            "Transported only in dissolved form"
+        ],
+        "answer": 2,
+        "explanation": "Most CO2 is transported as bicarbonate ions in plasma."
+    },
+    {
+        "id": 306,
+        "question": "Which reaction is catalysed by carbonic anhydrase in RBCs?",
+        "options": [
+            "CO2 + O2 → CO3",
+            "CO2 + H2O → H2CO3",
+            "H2CO3 → CO2 + O2",
+            "CO2 + Hb → HbCO2"
+        ],
+        "answer": 1,
+        "explanation": "Carbonic anhydrase catalyses hydration of CO2 to carbonic acid."
+    },
+    {
+        "id": 307,
+        "question": "Which process maintains electrical neutrality during bicarbonate transport?",
+        "options": [
+            "Sodium shift",
+            "Potassium shift",
+            "Chloride shift",
+            "Calcium shift"
+        ],
+        "answer": 2,
+        "explanation": "Chloride shift maintains electrical neutrality in RBCs."
+    },
+    {
+        "id": 308,
+        "question": "Which condition causes decreased oxygen affinity of haemoglobin at tissues?",
+        "options": [
+            "High pH",
+            "Low pCO2",
+            "High temperature",
+            "Low H+ concentration"
+        ],
+        "answer": 2,
+        "explanation": "High temperature promotes oxygen unloading in tissues."
+    },
+    {
+        "id": 309,
+        "question": "Which feature of haemoglobin explains its cooperative binding?",
+        "options": [
+            "Monomeric nature",
+            "Tetrameric structure",
+            "Iron oxidation",
+            "Presence in plasma"
+        ],
+        "answer": 1,
+        "explanation": "Tetrameric structure causes cooperative binding producing sigmoid curve."
+    },
+    {
+        "id": 310,
+        "question": "Which factor shifts oxygen dissociation curve to the right during exercise?",
+        "options": [
+            "Decreased CO2",
+            "Decreased temperature",
+            "Increased H+ concentration",
+            "Increased pH"
+        ],
+        "answer": 2,
+        "explanation": "High H+ concentration during exercise shifts curve to the right."
+    },
+    {
+        "id": 311,
+        "question": "Which form of hypoxia occurs due to decreased haemoglobin content?",
+        "options": [
+            "Hypoxic hypoxia",
+            "Anaemic hypoxia",
+            "Stagnant hypoxia",
+            "Histotoxic hypoxia"
+        ],
+        "answer": 1,
+        "explanation": "Anaemic hypoxia results from reduced haemoglobin."
+    },
+    {
+        "id": 312,
+        "question": "Which condition leads to hypoxia despite normal oxygen availability?",
+        "options": [
+            "High altitude",
+            "Anaemia",
+            "Cyanide poisoning",
+            "Hypoventilation"
+        ],
+        "answer": 2,
+        "explanation": "Cyanide causes histotoxic hypoxia by blocking cellular respiration."
+    },
+    {
+        "id": 313,
+        "question": "Which statement regarding bronchial tree is correct?",
+        "options": [
+            "Cartilage increases towards alveoli",
+            "Smooth muscle increases towards alveoli",
+            "Glands increase towards alveoli",
+            "Cilia are present in alveoli"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscle increases while cartilage decreases towards alveoli."
+    },
+    {
+        "id": 314,
+        "question": "Which epithelial lining is present in bronchioles?",
+        "options": [
+            "Stratified squamous epithelium",
+            "Simple cuboidal epithelium",
+            "Pseudostratified epithelium",
+            "Simple columnar epithelium"
+        ],
+        "answer": 1,
+        "explanation": "Bronchioles are lined by simple cuboidal epithelium."
+    },
+    {
+        "id": 315,
+        "question": "Which condition is characterized by increased airway resistance?",
+        "options": [
+            "Emphysema",
+            "Asthma",
+            "Pulmonary fibrosis",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Asthma causes airway narrowing increasing resistance."
+    },
+    {
+        "id": 316,
+        "question": "Which lung disorder leads to barrel-shaped chest?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Emphysema leads to barrel-shaped chest due to air trapping."
+    },
+    {
+        "id": 317,
+        "question": "Which condition decreases lung compliance most?",
+        "options": [
+            "Emphysema",
+            "Pulmonary fibrosis",
+            "Asthma",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary fibrosis stiffens lungs reducing compliance."
+    },
+    {
+        "id": 318,
+        "question": "Which structure allows frictionless movement of lungs?",
+        "options": [
+            "Surfactant",
+            "Pleural fluid",
+            "Elastic fibres",
+            "Mucus"
+        ],
+        "answer": 1,
+        "explanation": "Pleural fluid reduces friction between lungs and thoracic wall."
+    },
+    {
+        "id": 319,
+        "question": "Which lung volume remains unchanged even during vigorous exercise?",
+        "options": [
+            "Tidal volume",
+            "Inspiratory reserve volume",
+            "Residual volume",
+            "Vital capacity"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume remains constant."
+    },
+    {
+        "id": 320,
+        "question": "Which lung capacity best reflects respiratory efficiency?",
+        "options": [
+            "Residual volume",
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Functional residual capacity"
+        ],
+        "answer": 2,
+        "explanation": "Vital capacity reflects efficiency of respiratory system."
+    },
+    {
+        "id": 321,
+        "question": "Which blood vessel shows highest pO2?",
+        "options": [
+            "Pulmonary artery",
+            "Pulmonary vein",
+            "Vena cava",
+            "Systemic vein"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary vein carries oxygenated blood from lungs."
+    },
+    {
+        "id": 322,
+        "question": "Which blood vessel shows highest pCO2?",
+        "options": [
+            "Pulmonary vein",
+            "Aorta",
+            "Pulmonary artery",
+            "Systemic artery"
+        ],
+        "answer": 2,
+        "explanation": "Pulmonary artery carries deoxygenated blood with high CO2."
+    },
+    {
+        "id": 323,
+        "question": "Which factor stimulates medullary respiratory center?",
+        "options": [
+            "Decrease in CO2",
+            "Increase in CO2",
+            "Increase in O2",
+            "Decrease in H+"
+        ],
+        "answer": 1,
+        "explanation": "Rise in CO2 stimulates respiratory rhythm center."
+    },
+    {
+        "id": 324,
+        "question": "Which chemoreceptors detect changes in arterial pO2?",
+        "options": [
+            "Central chemoreceptors",
+            "Peripheral chemoreceptors",
+            "Pulmonary receptors",
+            "Stretch receptors"
+        ],
+        "answer": 1,
+        "explanation": "Peripheral chemoreceptors detect arterial oxygen levels."
+    },
+    {
+        "id": 325,
+        "question": "Which condition results in increased breathing rate without oxygen deficiency?",
+        "options": [
+            "Anaemia",
+            "Hyperventilation",
+            "Emphysema",
+            "Pulmonary edema"
+        ],
+        "answer": 1,
+        "explanation": "Hyperventilation increases breathing rate without oxygen lack."
+    },
+    {
+        "id": 326,
+        "question": "Which change occurs during hyperventilation?",
+        "options": [
+            "Increase in pCO2",
+            "Decrease in blood pH",
+            "Decrease in pCO2",
+            "Increase in H+"
+        ],
+        "answer": 2,
+        "explanation": "Hyperventilation lowers blood CO2 level."
+    },
+    {
+        "id": 327,
+        "question": "Which condition causes respiratory acidosis?",
+        "options": [
+            "Hyperventilation",
+            "Hypoventilation",
+            "High altitude",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Hypoventilation increases CO2 causing respiratory acidosis."
+    },
+    {
+        "id": 328,
+        "question": "Which condition results in respiratory alkalosis?",
+        "options": [
+            "Hypoventilation",
+            "Anaemia",
+            "Hyperventilation",
+            "Pulmonary edema"
+        ],
+        "answer": 2,
+        "explanation": "Hyperventilation decreases CO2 leading to alkalosis."
+    },
+    {
+        "id": 329,
+        "question": "Which structure contains elastic cartilage among respiratory organs?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Larynx",
+            "Bronchioles"
+        ],
+        "answer": 2,
+        "explanation": "Larynx contains elastic cartilage."
+    },
+    {
+        "id": 330,
+        "question": "Which structure marks the beginning of lower respiratory tract?",
+        "options": [
+            "Nasal cavity",
+            "Pharynx",
+            "Larynx",
+            "Trachea"
+        ],
+        "answer": 2,
+        "explanation": "Larynx marks beginning of lower respiratory tract."
+    },
+    {
+        "id": 331,
+        "question": "Which respiratory disorder involves infection of alveoli?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Pneumonia",
+            "Emphysema"
+        ],
+        "answer": 2,
+        "explanation": "Pneumonia infects alveoli."
+    },
+    {
+        "id": 332,
+        "question": "Which disorder is associated with excess mucus secretion?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pulmonary fibrosis"
+        ],
+        "answer": 1,
+        "explanation": "Bronchitis involves excessive mucus production."
+    },
+    {
+        "id": 333,
+        "question": "Which condition causes bluish discoloration of skin and lips?",
+        "options": [
+            "Hypoxia",
+            "Cyanosis",
+            "Anaemia",
+            "Asphyxia"
+        ],
+        "answer": 1,
+        "explanation": "Cyanosis causes bluish discoloration due to low oxygen."
+    },
+    {
+        "id": 334,
+        "question": "Which condition refers to oxygen deprivation leading to unconsciousness?",
+        "options": [
+            "Cyanosis",
+            "Hypoxia",
+            "Asphyxia",
+            "Apnea"
+        ],
+        "answer": 2,
+        "explanation": "Asphyxia is severe oxygen deprivation."
+    },
+    {
+        "id": 335,
+        "question": "Which gas poisoning forms carboxyhaemoglobin?",
+        "options": [
+            "Carbon dioxide",
+            "Carbon monoxide",
+            "Nitrogen dioxide",
+            "Sulphur dioxide"
+        ],
+        "answer": 1,
+        "explanation": "Carbon monoxide forms carboxyhaemoglobin."
+    },
+    {
+        "id": 336,
+        "question": "Which statement about nitrogen in respiration is correct?",
+        "options": [
+            "Actively exchanged in lungs",
+            "Used in cellular respiration",
+            "Physiologically inactive",
+            "Transported by haemoglobin"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen is physiologically inactive."
+    },
+    {
+        "id": 337,
+        "question": "Which gas has highest solubility in blood?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Carbon monoxide"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide is highly soluble."
+    },
+    {
+        "id": 338,
+        "question": "Which property of respiratory membrane increases diffusion efficiency?",
+        "options": [
+            "Thickness",
+            "Low surface area",
+            "High permeability",
+            "Dry surface"
+        ],
+        "answer": 2,
+        "explanation": "High permeability and thin membrane enhance diffusion."
+    },
+    {
+        "id": 339,
+        "question": "Which event occurs first during expiration?",
+        "options": [
+            "Air leaves lungs",
+            "Intrapulmonary pressure increases",
+            "Thoracic volume decreases",
+            "Diaphragm relaxes"
+        ],
+        "answer": 3,
+        "explanation": "Relaxation of diaphragm initiates expiration."
+    },
+    {
+        "id": 340,
+        "question": "Which muscle contracts during forced expiration?",
+        "options": [
+            "External intercostals",
+            "Diaphragm",
+            "Internal intercostals",
+            "Phrenic muscles"
+        ],
+        "answer": 2,
+        "explanation": "Internal intercostals contract during forced expiration."
+    },
+    {
+        "id": 341,
+        "question": "Which structure prevents entry of food into respiratory tract?",
+        "options": [
+            "Glottis",
+            "Epiglottis",
+            "Soft palate",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Epiglottis prevents food entry into trachea."
+    },
+    {
+        "id": 342,
+        "question": "Which structure is common passage for air and food?",
+        "options": [
+            "Larynx",
+            "Trachea",
+            "Pharynx",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Pharynx serves as common passage."
+    },
+    {
+        "id": 343,
+        "question": "Which lung volume equals TV + ERV?",
+        "options": [
+            "Expiratory capacity",
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Residual volume"
+        ],
+        "answer": 0,
+        "explanation": "Expiratory capacity equals tidal volume plus ERV."
+    },
+    {
+        "id": 344,
+        "question": "Which lung volume equals TV + IRV?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 0,
+        "explanation": "Inspiratory capacity equals TV plus IRV."
+    },
+    {
+        "id": 345,
+        "question": "Which lung volume equals ERV + RV?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Functional residual capacity",
+            "Expiratory capacity"
+        ],
+        "answer": 2,
+        "explanation": "Functional residual capacity equals ERV plus RV."
+    },
+    {
+        "id": 346,
+        "question": "Which lung capacity equals VC + RV?",
+        "options": [
+            "Inspiratory capacity",
+            "Total lung capacity",
+            "Functional residual capacity",
+            "Expiratory capacity"
+        ],
+        "answer": 1,
+        "explanation": "Total lung capacity equals VC plus RV."
+    },
+    {
+        "id": 347,
+        "question": "Which structure marks end of conducting zone?",
+        "options": [
+            "Bronchi",
+            "Terminal bronchioles",
+            "Respiratory bronchioles",
+            "Alveolar ducts"
+        ],
+        "answer": 1,
+        "explanation": "Terminal bronchioles end conducting zone."
+    },
+    {
+        "id": 348,
+        "question": "Which structure marks beginning of respiratory zone?",
+        "options": [
+            "Terminal bronchiole",
+            "Respiratory bronchiole",
+            "Alveolus",
+            "Alveolar sac"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles begin respiratory zone."
+    },
+    {
+        "id": 349,
+        "question": "Which structure lacks blood vessels?",
+        "options": [
+            "Alveoli",
+            "Trachea",
+            "Bronchi",
+            "Respiratory membrane"
+        ],
+        "answer": 3,
+        "explanation": "Respiratory membrane itself lacks blood vessels."
+    },
+    {
+        "id": 350,
+        "question": "Which condition reduces effective respiratory surface area?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Anaemia",
+            "Hyperventilation"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema destroys alveolar walls."
+    },
+    {
+        "id": 351,
+        "question": "Which factor enhances oxygen unloading in tissues?",
+        "options": [
+            "Low temperature",
+            "Low CO2",
+            "High pH",
+            "High H+"
+        ],
+        "answer": 3,
+        "explanation": "High H+ concentration favors oxygen release."
+    },
+    {
+        "id": 352,
+        "question": "Which factor enhances oxygen loading in lungs?",
+        "options": [
+            "Low pO2",
+            "High pCO2",
+            "High pO2",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "High pO2 in alveoli favors oxygen loading."
+    },
+    {
+        "id": 353,
+        "question": "Which respiratory pigment is present in muscle fibres?",
+        "options": [
+            "Haemoglobin",
+            "Myoglobin",
+            "Cytochrome",
+            "Haemocyanin"
+        ],
+        "answer": 1,
+        "explanation": "Myoglobin stores oxygen in muscles."
+    },
+    {
+        "id": 354,
+        "question": "Which statement about myoglobin is correct?",
+        "options": [
+            "Lower oxygen affinity than haemoglobin",
+            "Higher oxygen affinity than haemoglobin",
+            "Transports CO2",
+            "Present in plasma"
+        ],
+        "answer": 1,
+        "explanation": "Myoglobin has higher oxygen affinity."
+    },
+    {
+        "id": 355,
+        "question": "Which gas exchange occurs between alveoli and blood?",
+        "options": [
+            "Internal respiration",
+            "Cellular respiration",
+            "External respiration",
+            "Ventilation"
+        ],
+        "answer": 2,
+        "explanation": "External respiration occurs in lungs."
+    },
+    {
+        "id": 356,
+        "question": "Which gas exchange occurs between blood and tissues?",
+        "options": [
+            "Breathing",
+            "Ventilation",
+            "External respiration",
+            "Internal respiration"
+        ],
+        "answer": 3,
+        "explanation": "Internal respiration occurs at tissues."
+    },
+    {
+        "id": 357,
+        "question": "Which disorder causes difficulty in expiration due to air trapping?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema causes air trapping."
+    },
+    {
+        "id": 358,
+        "question": "Which disorder causes wheezing sound during breathing?",
+        "options": [
+            "Pneumonia",
+            "Pulmonary edema",
+            "Asthma",
+            "Emphysema"
+        ],
+        "answer": 2,
+        "explanation": "Asthma causes wheezing due to airway narrowing."
+    },
+    {
+        "id": 359,
+        "question": "Which disorder involves inflammation of bronchioles?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pulmonary fibrosis"
+        ],
+        "answer": 0,
+        "explanation": "Asthma involves inflammation of bronchioles."
+    },
+    {
+        "id": 360,
+        "question": "Which condition results from excess mucus blocking airways?",
+        "options": [
+            "Emphysema",
+            "Bronchitis",
+            "Asthma",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Bronchitis causes mucus accumulation."
+    },
+    {
+        "id": 361,
+        "question": "Which structure warms, moistens and filters air?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Nasal cavity",
+            "Trachea"
+        ],
+        "answer": 2,
+        "explanation": "Nasal cavity conditions incoming air."
+    },
+    {
+        "id": 362,
+        "question": "Which structure produces voice?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Larynx contains vocal cords."
+    },
+    {
+        "id": 363,
+        "question": "Which muscle flattens during inspiration?",
+        "options": [
+            "Internal intercostal",
+            "External intercostal",
+            "Diaphragm",
+            "Abdominal muscle"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm flattens during inspiration."
+    },
+    {
+        "id": 364,
+        "question": "Which muscle elevates ribs during inspiration?",
+        "options": [
+            "Internal intercostals",
+            "External intercostals",
+            "Abdominal muscles",
+            "Diaphragm"
+        ],
+        "answer": 1,
+        "explanation": "External intercostals elevate ribs."
+    },
+    {
+        "id": 365,
+        "question": "Which condition decreases blood pH due to CO2 retention?",
+        "options": [
+            "Respiratory alkalosis",
+            "Metabolic alkalosis",
+            "Respiratory acidosis",
+            "Metabolic acidosis"
+        ],
+        "answer": 2,
+        "explanation": "CO2 retention causes respiratory acidosis."
+    },
+    {
+        "id": 366,
+        "question": "Which condition increases blood pH due to excessive CO2 loss?",
+        "options": [
+            "Respiratory acidosis",
+            "Metabolic acidosis",
+            "Respiratory alkalosis",
+            "Metabolic alkalosis"
+        ],
+        "answer": 2,
+        "explanation": "Excess CO2 loss causes respiratory alkalosis."
+    },
+    {
+        "id": 367,
+        "question": "Which structure detects stretch of lungs to prevent overinflation?",
+        "options": [
+            "Peripheral chemoreceptors",
+            "Central chemoreceptors",
+            "Stretch receptors",
+            "Baroreceptors"
+        ],
+        "answer": 2,
+        "explanation": "Stretch receptors prevent overinflation."
+    },
+    {
+        "id": 368,
+        "question": "Which reflex limits duration of inspiration?",
+        "options": [
+            "Hering-Breuer reflex",
+            "Cough reflex",
+            "Sneezing reflex",
+            "Gag reflex"
+        ],
+        "answer": 0,
+        "explanation": "Hering-Breuer reflex prevents overinflation."
+    },
+    {
+        "id": 369,
+        "question": "Which structure forms respiratory membrane along with alveolar epithelium?",
+        "options": [
+            "Pleural membrane",
+            "Basement membrane and capillary endothelium",
+            "Smooth muscle",
+            "Cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory membrane includes alveolar epithelium, basement membrane and capillary endothelium."
+    },
+    {
+        "id": 370,
+        "question": "Which factor does NOT affect rate of diffusion of gases?",
+        "options": [
+            "Surface area",
+            "Thickness of membrane",
+            "Pressure gradient",
+            "Blood glucose level"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose does not affect diffusion."
+    },
+    {
+        "id": 371,
+        "question": "Which condition is associated with low haemoglobin saturation?",
+        "options": [
+            "Anaemia",
+            "High altitude",
+            "Hypoxia",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All listed conditions reduce haemoglobin saturation."
+    },
+    {
+        "id": 372,
+        "question": "Which structure prevents nasal regurgitation of food?",
+        "options": [
+            "Epiglottis",
+            "Soft palate",
+            "Hard palate",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Soft palate prevents food entry into nasal cavity."
+    },
+    {
+        "id": 373,
+        "question": "Which gas diffuses faster due to higher solubility?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "CO2 diffuses faster due to high solubility."
+    },
+    {
+        "id": 374,
+        "question": "Which lung volume shows greatest variation during exercise?",
+        "options": [
+            "Residual volume",
+            "Tidal volume",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 1,
+        "explanation": "Tidal volume increases significantly during exercise."
+    },
+    {
+        "id": 375,
+        "question": "Which respiratory disorder is caused by long-term smoking?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Pneumonia",
+            "Tuberculosis"
+        ],
+        "answer": 1,
+        "explanation": "Smoking causes emphysema."
+    },
+    {
+        "id": 376,
+        "question": "Which structure marks the junction of nasal cavity and pharynx?",
+        "options": [
+            "Choanae",
+            "Glottis",
+            "Epiglottis",
+            "Uvula"
+        ],
+        "answer": 0,
+        "explanation": "Choanae connect nasal cavity to pharynx."
+    },
+    {
+        "id": 377,
+        "question": "Which part of respiratory tract lacks cartilage completely?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Larynx"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles lack cartilage."
+    },
+    {
+        "id": 378,
+        "question": "Which gas is mainly responsible for regulation of breathing?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "CO2 is main regulator of respiration."
+    },
+    {
+        "id": 379,
+        "question": "Which condition results from deficiency of surfactant in premature infants?",
+        "options": [
+            "Asthma",
+            "Respiratory distress syndrome",
+            "Emphysema",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Surfactant deficiency causes respiratory distress syndrome."
+    },
+    {
+        "id": 380,
+        "question": "Which structure produces pulmonary surfactant?",
+        "options": [
+            "Type I alveolar cells",
+            "Type II alveolar cells",
+            "Macrophages",
+            "Endothelial cells"
+        ],
+        "answer": 1,
+        "explanation": "Type II pneumocytes secrete surfactant."
+    },
+    {
+        "id": 381,
+        "question": "Which structure removes foreign particles in alveoli?",
+        "options": [
+            "Ciliated epithelium",
+            "Goblet cells",
+            "Macrophages",
+            "Basement membrane"
+        ],
+        "answer": 2,
+        "explanation": "Alveolar macrophages remove particles."
+    },
+    {
+        "id": 382,
+        "question": "Which statement about respiratory membrane thickness is correct?",
+        "options": [
+            "Too thick to allow diffusion",
+            "Very thin to allow diffusion",
+            "Variable thickness",
+            "Impermeable to gases"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory membrane is very thin."
+    },
+    {
+        "id": 383,
+        "question": "Which condition reduces diffusion efficiency by thickening respiratory membrane?",
+        "options": [
+            "Emphysema",
+            "Pulmonary fibrosis",
+            "Asthma",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Fibrosis thickens respiratory membrane."
+    },
+    {
+        "id": 384,
+        "question": "Which event occurs during quiet expiration?",
+        "options": [
+            "Diaphragm contraction",
+            "Rib elevation",
+            "Elastic recoil of lungs",
+            "Abdominal muscle contraction"
+        ],
+        "answer": 2,
+        "explanation": "Elastic recoil causes quiet expiration."
+    },
+    {
+        "id": 385,
+        "question": "Which lung volume is always present in lungs?",
+        "options": [
+            "Tidal volume",
+            "Inspiratory reserve volume",
+            "Residual volume",
+            "Vital capacity"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume is always present."
+    },
+    {
+        "id": 386,
+        "question": "Which structure forms the roof of oral cavity?",
+        "options": [
+            "Soft palate",
+            "Hard palate",
+            "Epiglottis",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Hard palate forms roof of oral cavity."
+    },
+    {
+        "id": 387,
+        "question": "Which structure marks opening of larynx?",
+        "options": [
+            "Choanae",
+            "Glottis",
+            "Epiglottis",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Glottis is opening of larynx."
+    },
+    {
+        "id": 388,
+        "question": "Which structure covers glottis during swallowing?",
+        "options": [
+            "Uvula",
+            "Soft palate",
+            "Epiglottis",
+            "Hard palate"
+        ],
+        "answer": 2,
+        "explanation": "Epiglottis covers glottis."
+    },
+    {
+        "id": 389,
+        "question": "Which structure increases dorsoventral diameter of thorax?",
+        "options": [
+            "Diaphragm",
+            "Rib elevation",
+            "Rib depression",
+            "Abdominal muscles"
+        ],
+        "answer": 1,
+        "explanation": "Rib elevation increases dorsoventral diameter."
+    },
+    {
+        "id": 390,
+        "question": "Which lung disorder causes shortness of breath due to airway obstruction?",
+        "options": [
+            "Asthma",
+            "Anaemia",
+            "High altitude sickness",
+            "Cyanide poisoning"
+        ],
+        "answer": 0,
+        "explanation": "Asthma causes airway obstruction."
+    },
+    {
+        "id": 391,
+        "question": "Which condition decreases oxygen carrying capacity without affecting pO2?",
+        "options": [
+            "Anaemia",
+            "High altitude",
+            "Hyperventilation",
+            "Hypoventilation"
+        ],
+        "answer": 0,
+        "explanation": "Anaemia reduces haemoglobin content."
+    },
+    {
+        "id": 392,
+        "question": "Which condition decreases pO2 in arterial blood?",
+        "options": [
+            "Anaemia",
+            "High altitude",
+            "Histotoxic hypoxia",
+            "Hyperventilation"
+        ],
+        "answer": 1,
+        "explanation": "High altitude reduces oxygen availability."
+    },
+    {
+        "id": 393,
+        "question": "Which condition increases pCO2 in blood?",
+        "options": [
+            "Hyperventilation",
+            "Hypoventilation",
+            "High altitude",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Hypoventilation increases CO2."
+    },
+    {
+        "id": 394,
+        "question": "Which lung disorder causes destruction of alveolar septa?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema destroys alveolar septa."
+    },
+    {
+        "id": 395,
+        "question": "Which condition reduces oxygen utilization at cellular level?",
+        "options": [
+            "Hypoxic hypoxia",
+            "Anaemic hypoxia",
+            "Stagnant hypoxia",
+            "Histotoxic hypoxia"
+        ],
+        "answer": 3,
+        "explanation": "Histotoxic hypoxia blocks cellular oxygen use."
+    },
+    {
+        "id": 396,
+        "question": "Which respiratory parameter is mainly sensed by central chemoreceptors?",
+        "options": [
+            "Blood pO2",
+            "Blood pCO2",
+            "Blood glucose",
+            "Blood pressure"
+        ],
+        "answer": 1,
+        "explanation": "Central chemoreceptors respond to CO2."
+    },
+    {
+        "id": 397,
+        "question": "Which structure connects larynx to bronchi?",
+        "options": [
+            "Pharynx",
+            "Trachea",
+            "Bronchioles",
+            "Oesophagus"
+        ],
+        "answer": 1,
+        "explanation": "Trachea connects larynx to bronchi."
+    },
+    {
+        "id": 398,
+        "question": "Which structure contains C-shaped cartilage rings?",
+        "options": [
+            "Bronchioles",
+            "Larynx",
+            "Trachea",
+            "Alveoli"
+        ],
+        "answer": 2,
+        "explanation": "Trachea has C-shaped cartilaginous rings."
+    },
+    {
+        "id": 399,
+        "question": "Which respiratory disorder involves hypersensitivity to allergens?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 0,
+        "explanation": "Asthma is allergic in nature."
+    },
+    {
+        "id": 400,
+        "question": "Which statement about breathing is correct as per NCERT?",
+        "options": [
+            "Always voluntary",
+            "Always involuntary",
+            "Partly voluntary and partly involuntary",
+            "Independent of brain centers"
+        ],
+        "answer": 2,
+        "explanation": "Breathing is both voluntary and involuntary."
+    },
+    {
+        "id": 401,
+        "question": "Which immediate change in thoracic cavity initiates inspiration?",
+        "options": [
+            "Decrease in thoracic volume",
+            "Increase in thoracic volume",
+            "Increase in intrapulmonary pressure",
+            "Decrease in atmospheric pressure"
+        ],
+        "answer": 1,
+        "explanation": "Increase in thoracic volume initiates inspiration by lowering intrapulmonary pressure."
+    },
+    {
+        "id": 402,
+        "question": "Which structure contributes most to vertical expansion of thoracic cavity?",
+        "options": [
+            "External intercostal muscles",
+            "Internal intercostal muscles",
+            "Diaphragm",
+            "Abdominal muscles"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm contraction increases vertical diameter of thorax."
+    },
+    {
+        "id": 403,
+        "question": "Which lung volume increases the most during physical exercise?",
+        "options": [
+            "Residual volume",
+            "Tidal volume",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 1,
+        "explanation": "Tidal volume increases significantly during exercise."
+    },
+    {
+        "id": 404,
+        "question": "Which statement regarding expiration during normal breathing is correct?",
+        "options": [
+            "Requires energy",
+            "Active process",
+            "Passive process",
+            "Caused by muscle contraction"
+        ],
+        "answer": 2,
+        "explanation": "Normal expiration is passive due to elastic recoil."
+    },
+    {
+        "id": 405,
+        "question": "Which lung volume remains unchanged irrespective of respiratory demand?",
+        "options": [
+            "Tidal volume",
+            "Inspiratory reserve volume",
+            "Residual volume",
+            "Vital capacity"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume remains constant."
+    },
+    {
+        "id": 406,
+        "question": "Which lung capacity represents maximum volume of air lungs can hold?",
+        "options": [
+            "Vital capacity",
+            "Inspiratory capacity",
+            "Total lung capacity",
+            "Functional residual capacity"
+        ],
+        "answer": 2,
+        "explanation": "Total lung capacity is the maximum lung volume."
+    },
+    {
+        "id": 407,
+        "question": "Which statement about alveoli is correct?",
+        "options": [
+            "Poor blood supply",
+            "Thick epithelial lining",
+            "Large surface area",
+            "Presence of cartilage"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli provide large surface area for gas exchange."
+    },
+    {
+        "id": 408,
+        "question": "Which property of alveoli facilitates rapid diffusion of gases?",
+        "options": [
+            "Dry surface",
+            "Thick walls",
+            "Moist surface",
+            "Presence of cilia"
+        ],
+        "answer": 2,
+        "explanation": "Moist surface allows gases to dissolve and diffuse."
+    },
+    {
+        "id": 409,
+        "question": "Which component of respiratory membrane is thickest?",
+        "options": [
+            "Alveolar epithelium",
+            "Capillary endothelium",
+            "Basement membrane",
+            "Plasma membrane"
+        ],
+        "answer": 2,
+        "explanation": "Basement membrane is relatively thicker."
+    },
+    {
+        "id": 410,
+        "question": "Which factor is most important for diffusion of gases?",
+        "options": [
+            "Temperature difference",
+            "Partial pressure gradient",
+            "Blood flow velocity",
+            "Membrane elasticity"
+        ],
+        "answer": 1,
+        "explanation": "Partial pressure gradient drives diffusion."
+    },
+    {
+        "id": 411,
+        "question": "Which gas diffuses faster across respiratory membrane?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide diffuses faster due to higher solubility."
+    },
+    {
+        "id": 412,
+        "question": "Which form accounts for maximum transport of carbon dioxide in blood?",
+        "options": [
+            "Dissolved CO2",
+            "Carbaminohaemoglobin",
+            "Bicarbonate ions",
+            "Carbonic acid"
+        ],
+        "answer": 2,
+        "explanation": "Most CO2 is transported as bicarbonate ions."
+    },
+    {
+        "id": 413,
+        "question": "Which enzyme catalyses hydration of carbon dioxide inside RBCs?",
+        "options": [
+            "Oxidase",
+            "Catalase",
+            "Carbonic anhydrase",
+            "Dehydrogenase"
+        ],
+        "answer": 2,
+        "explanation": "Carbonic anhydrase catalyses CO2 hydration."
+    },
+    {
+        "id": 414,
+        "question": "Which ion moves out of RBCs during bicarbonate formation?",
+        "options": [
+            "Chloride",
+            "Sodium",
+            "Bicarbonate",
+            "Potassium"
+        ],
+        "answer": 2,
+        "explanation": "Bicarbonate ions diffuse out of RBCs into plasma."
+    },
+    {
+        "id": 415,
+        "question": "Which process maintains electrical neutrality during CO2 transport?",
+        "options": [
+            "Sodium shift",
+            "Potassium shift",
+            "Chloride shift",
+            "Calcium shift"
+        ],
+        "answer": 2,
+        "explanation": "Chloride shift maintains electrical balance."
+    },
+    {
+        "id": 416,
+        "question": "Which effect facilitates release of carbon dioxide in lungs?",
+        "options": [
+            "Bohr effect",
+            "Haldane effect",
+            "Chloride shift",
+            "Buffer action"
+        ],
+        "answer": 1,
+        "explanation": "Haldane effect promotes CO2 release in lungs."
+    },
+    {
+        "id": 417,
+        "question": "Which condition reduces affinity of haemoglobin for oxygen?",
+        "options": [
+            "High pH",
+            "Low temperature",
+            "High pCO2",
+            "Low H+"
+        ],
+        "answer": 2,
+        "explanation": "High pCO2 reduces oxygen affinity."
+    },
+    {
+        "id": 418,
+        "question": "Which curve represents oxygen binding with haemoglobin?",
+        "options": [
+            "Straight line",
+            "Hyperbolic curve",
+            "Sigmoid curve",
+            "Parabolic curve"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen dissociation curve is sigmoid."
+    },
+    {
+        "id": 419,
+        "question": "Which factor shifts oxygen dissociation curve to the left?",
+        "options": [
+            "High CO2",
+            "High temperature",
+            "High pH",
+            "High H+"
+        ],
+        "answer": 2,
+        "explanation": "High pH increases oxygen affinity."
+    },
+    {
+        "id": 420,
+        "question": "Which hypoxia occurs due to reduced haemoglobin content?",
+        "options": [
+            "Hypoxic hypoxia",
+            "Anaemic hypoxia",
+            "Stagnant hypoxia",
+            "Histotoxic hypoxia"
+        ],
+        "answer": 1,
+        "explanation": "Anaemic hypoxia results from reduced haemoglobin."
+    },
+    {
+        "id": 421,
+        "question": "Which hypoxia is caused by reduced blood flow?",
+        "options": [
+            "Hypoxic",
+            "Anaemic",
+            "Stagnant",
+            "Histotoxic"
+        ],
+        "answer": 2,
+        "explanation": "Stagnant hypoxia is due to poor blood flow."
+    },
+    {
+        "id": 422,
+        "question": "Which hypoxia occurs when tissues cannot utilize oxygen?",
+        "options": [
+            "Hypoxic",
+            "Anaemic",
+            "Stagnant",
+            "Histotoxic"
+        ],
+        "answer": 3,
+        "explanation": "Histotoxic hypoxia prevents cellular oxygen utilization."
+    },
+    {
+        "id": 423,
+        "question": "Which epithelial lining is present in alveoli?",
+        "options": [
+            "Stratified squamous epithelium",
+            "Simple cuboidal epithelium",
+            "Simple squamous epithelium",
+            "Pseudostratified epithelium"
+        ],
+        "answer": 2,
+        "explanation": "Alveoli are lined by simple squamous epithelium."
+    },
+    {
+        "id": 424,
+        "question": "Which part of respiratory tract lacks cartilage completely?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Larynx"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles lack cartilage."
+    },
+    {
+        "id": 425,
+        "question": "Which respiratory disorder involves destruction of alveolar walls?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 2,
+        "explanation": "Emphysema destroys alveolar walls."
+    },
+    {
+        "id": 426,
+        "question": "Which respiratory disorder is associated with allergic reaction?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pneumonia"
+        ],
+        "answer": 0,
+        "explanation": "Asthma is allergic in nature."
+    },
+    {
+        "id": 427,
+        "question": "Which condition causes fluid accumulation in alveoli?",
+        "options": [
+            "Asthma",
+            "Pulmonary edema",
+            "Emphysema",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary edema fills alveoli with fluid."
+    },
+    {
+        "id": 428,
+        "question": "Which structure produces sound?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Bronchi"
+        ],
+        "answer": 1,
+        "explanation": "Larynx contains vocal cords."
+    },
+    {
+        "id": 429,
+        "question": "Which nerve innervates diaphragm?",
+        "options": [
+            "Vagus nerve",
+            "Phrenic nerve",
+            "Intercostal nerve",
+            "Sympathetic nerve"
+        ],
+        "answer": 1,
+        "explanation": "Phrenic nerve controls diaphragm."
+    },
+    {
+        "id": 430,
+        "question": "Which respiratory center is located in medulla oblongata?",
+        "options": [
+            "Pneumotaxic center",
+            "Apneustic center",
+            "Respiratory rhythm center",
+            "Chemoreceptor center"
+        ],
+        "answer": 2,
+        "explanation": "Respiratory rhythm center is in medulla."
+    },
+    {
+        "id": 431,
+        "question": "Which center in pons regulates duration of inspiration?",
+        "options": [
+            "Apneustic center",
+            "Pneumotaxic center",
+            "Chemosensitive area",
+            "Respiratory rhythm center"
+        ],
+        "answer": 1,
+        "explanation": "Pneumotaxic center regulates inspiration duration."
+    },
+    {
+        "id": 432,
+        "question": "Which stimulus is most effective in regulating breathing?",
+        "options": [
+            "Oxygen concentration",
+            "Carbon dioxide concentration",
+            "Nitrogen concentration",
+            "Blood glucose"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide is the main regulator."
+    },
+    {
+        "id": 433,
+        "question": "Which chemoreceptors respond primarily to low pO2?",
+        "options": [
+            "Central chemoreceptors",
+            "Peripheral chemoreceptors",
+            "Pulmonary stretch receptors",
+            "Baroreceptors"
+        ],
+        "answer": 1,
+        "explanation": "Peripheral chemoreceptors respond to low pO2."
+    },
+    {
+        "id": 434,
+        "question": "Which condition causes bluish discoloration of skin?",
+        "options": [
+            "Anaemia",
+            "Cyanosis",
+            "Asphyxia",
+            "Hypoventilation"
+        ],
+        "answer": 1,
+        "explanation": "Cyanosis causes bluish discoloration."
+    },
+    {
+        "id": 435,
+        "question": "Which gas binds haemoglobin with highest affinity?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Carbon monoxide",
+            "Nitrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon monoxide binds haemoglobin strongly."
+    },
+    {
+        "id": 436,
+        "question": "Which condition is characterized by oxygen deprivation leading to unconsciousness?",
+        "options": [
+            "Hypoxia",
+            "Cyanosis",
+            "Asphyxia",
+            "Apnea"
+        ],
+        "answer": 2,
+        "explanation": "Asphyxia is severe oxygen deprivation."
+    },
+    {
+        "id": 437,
+        "question": "Which gas is physiologically inactive in respiration?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen is physiologically inactive."
+    },
+    {
+        "id": 438,
+        "question": "Which property of respiratory membrane maximizes diffusion efficiency?",
+        "options": [
+            "Large thickness",
+            "Low permeability",
+            "Thin structure",
+            "Dry surface"
+        ],
+        "answer": 2,
+        "explanation": "Thin respiratory membrane enhances diffusion."
+    },
+    {
+        "id": 439,
+        "question": "Which event initiates expiration?",
+        "options": [
+            "Rib elevation",
+            "Diaphragm contraction",
+            "Diaphragm relaxation",
+            "External intercostal contraction"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm relaxation initiates expiration."
+    },
+    {
+        "id": 440,
+        "question": "Which muscle contracts during forced expiration?",
+        "options": [
+            "External intercostals",
+            "Diaphragm",
+            "Internal intercostals",
+            "Scalene muscles"
+        ],
+        "answer": 2,
+        "explanation": "Internal intercostals contract during forced expiration."
+    },
+    {
+        "id": 441,
+        "question": "Which structure prevents food entry into trachea?",
+        "options": [
+            "Glottis",
+            "Epiglottis",
+            "Uvula",
+            "Soft palate"
+        ],
+        "answer": 1,
+        "explanation": "Epiglottis covers glottis during swallowing."
+    },
+    {
+        "id": 442,
+        "question": "Which structure serves as common passage for air and food?",
+        "options": [
+            "Larynx",
+            "Trachea",
+            "Pharynx",
+            "Oesophagus"
+        ],
+        "answer": 2,
+        "explanation": "Pharynx is common passage."
+    },
+    {
+        "id": 443,
+        "question": "Which lung volume equals tidal volume plus expiratory reserve volume?",
+        "options": [
+            "Expiratory capacity",
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Residual volume"
+        ],
+        "answer": 0,
+        "explanation": "Expiratory capacity equals TV plus ERV."
+    },
+    {
+        "id": 444,
+        "question": "Which lung volume equals tidal volume plus inspiratory reserve volume?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 0,
+        "explanation": "Inspiratory capacity equals TV plus IRV."
+    },
+    {
+        "id": 445,
+        "question": "Which lung volume equals expiratory reserve volume plus residual volume?",
+        "options": [
+            "Inspiratory capacity",
+            "Vital capacity",
+            "Functional residual capacity",
+            "Expiratory capacity"
+        ],
+        "answer": 2,
+        "explanation": "Functional residual capacity equals ERV plus RV."
+    },
+    {
+        "id": 446,
+        "question": "Which lung capacity equals vital capacity plus residual volume?",
+        "options": [
+            "Inspiratory capacity",
+            "Total lung capacity",
+            "Functional residual capacity",
+            "Expiratory capacity"
+        ],
+        "answer": 1,
+        "explanation": "Total lung capacity equals VC plus RV."
+    },
+    {
+        "id": 447,
+        "question": "Which structure marks end of conducting zone?",
+        "options": [
+            "Bronchi",
+            "Terminal bronchioles",
+            "Respiratory bronchioles",
+            "Alveoli"
+        ],
+        "answer": 1,
+        "explanation": "Terminal bronchioles end conducting zone."
+    },
+    {
+        "id": 448,
+        "question": "Which structure marks beginning of respiratory zone?",
+        "options": [
+            "Terminal bronchiole",
+            "Respiratory bronchiole",
+            "Bronchiole",
+            "Trachea"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory bronchioles mark respiratory zone."
+    },
+    {
+        "id": 449,
+        "question": "Which condition reduces effective respiratory surface area?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Anaemia",
+            "Hyperventilation"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema destroys alveolar walls."
+    },
+    {
+        "id": 450,
+        "question": "Which factor enhances oxygen unloading in tissues?",
+        "options": [
+            "Low CO2",
+            "Low temperature",
+            "High pH",
+            "High H+"
+        ],
+        "answer": 3,
+        "explanation": "High H+ concentration promotes oxygen release."
+    },
+    {
+        "id": 451,
+        "question": "Which factor enhances oxygen loading in lungs?",
+        "options": [
+            "Low pO2",
+            "High pCO2",
+            "High pO2",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "High pO2 favors oxygen binding."
+    },
+    {
+        "id": 452,
+        "question": "Which respiratory pigment stores oxygen in muscles?",
+        "options": [
+            "Haemoglobin",
+            "Myoglobin",
+            "Cytochrome",
+            "Haemocyanin"
+        ],
+        "answer": 1,
+        "explanation": "Myoglobin stores oxygen in muscle fibers."
+    },
+    {
+        "id": 453,
+        "question": "Which statement about myoglobin is correct?",
+        "options": [
+            "Lower oxygen affinity than haemoglobin",
+            "Higher oxygen affinity than haemoglobin",
+            "Transports carbon dioxide",
+            "Present in plasma"
+        ],
+        "answer": 1,
+        "explanation": "Myoglobin has higher oxygen affinity."
+    },
+    {
+        "id": 454,
+        "question": "Which gas exchange occurs between alveoli and blood?",
+        "options": [
+            "Internal respiration",
+            "External respiration",
+            "Ventilation",
+            "Cellular respiration"
+        ],
+        "answer": 1,
+        "explanation": "External respiration occurs in lungs."
+    },
+    {
+        "id": 455,
+        "question": "Which gas exchange occurs between blood and tissues?",
+        "options": [
+            "Breathing",
+            "Ventilation",
+            "External respiration",
+            "Internal respiration"
+        ],
+        "answer": 3,
+        "explanation": "Internal respiration occurs at tissues."
+    },
+    {
+        "id": 456,
+        "question": "Which disorder causes difficulty in expiration due to air trapping?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema causes air trapping."
+    },
+    {
+        "id": 457,
+        "question": "Which disorder produces wheezing sound during breathing?",
+        "options": [
+            "Pneumonia",
+            "Pulmonary edema",
+            "Asthma",
+            "Emphysema"
+        ],
+        "answer": 2,
+        "explanation": "Asthma causes wheezing due to airway narrowing."
+    },
+    {
+        "id": 458,
+        "question": "Which disorder involves inflammation of bronchioles?",
+        "options": [
+            "Asthma",
+            "Bronchitis",
+            "Emphysema",
+            "Pulmonary fibrosis"
+        ],
+        "answer": 0,
+        "explanation": "Asthma involves inflammation of bronchioles."
+    },
+    {
+        "id": 459,
+        "question": "Which condition is associated with excess mucus blocking airways?",
+        "options": [
+            "Emphysema",
+            "Bronchitis",
+            "Asthma",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Bronchitis involves mucus accumulation."
+    },
+    {
+        "id": 460,
+        "question": "Which structure warms, moistens and filters inhaled air?",
+        "options": [
+            "Pharynx",
+            "Larynx",
+            "Nasal cavity",
+            "Trachea"
+        ],
+        "answer": 2,
+        "explanation": "Nasal cavity conditions inhaled air."
+    },
+    {
+        "id": 461,
+        "question": "Which muscle flattens during inspiration?",
+        "options": [
+            "Internal intercostals",
+            "External intercostals",
+            "Diaphragm",
+            "Abdominal muscles"
+        ],
+        "answer": 2,
+        "explanation": "Diaphragm flattens during inspiration."
+    },
+    {
+        "id": 462,
+        "question": "Which muscle elevates ribs during inspiration?",
+        "options": [
+            "Internal intercostals",
+            "External intercostals",
+            "Abdominal muscles",
+            "Diaphragm"
+        ],
+        "answer": 1,
+        "explanation": "External intercostals elevate ribs."
+    },
+    {
+        "id": 463,
+        "question": "Which condition results from CO2 retention leading to low blood pH?",
+        "options": [
+            "Respiratory alkalosis",
+            "Respiratory acidosis",
+            "Metabolic alkalosis",
+            "Metabolic acidosis"
+        ],
+        "answer": 1,
+        "explanation": "CO2 retention causes respiratory acidosis."
+    },
+    {
+        "id": 464,
+        "question": "Which condition results from excessive loss of CO2?",
+        "options": [
+            "Respiratory acidosis",
+            "Metabolic acidosis",
+            "Respiratory alkalosis",
+            "Metabolic alkalosis"
+        ],
+        "answer": 2,
+        "explanation": "Excess CO2 loss causes respiratory alkalosis."
+    },
+    {
+        "id": 465,
+        "question": "Which receptors prevent overinflation of lungs?",
+        "options": [
+            "Chemoreceptors",
+            "Baroreceptors",
+            "Stretch receptors",
+            "Thermoreceptors"
+        ],
+        "answer": 2,
+        "explanation": "Stretch receptors prevent overinflation."
+    },
+    {
+        "id": 466,
+        "question": "Which reflex limits duration of inspiration?",
+        "options": [
+            "Cough reflex",
+            "Sneezing reflex",
+            "Hering-Breuer reflex",
+            "Gag reflex"
+        ],
+        "answer": 2,
+        "explanation": "Hering-Breuer reflex limits inspiration."
+    },
+    {
+        "id": 467,
+        "question": "Which structure along with alveolar epithelium forms respiratory membrane?",
+        "options": [
+            "Pleural membrane",
+            "Basement membrane and capillary endothelium",
+            "Smooth muscle",
+            "Elastic fibres"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory membrane includes alveolar epithelium, basement membrane and capillary endothelium."
+    },
+    {
+        "id": 468,
+        "question": "Which factor does NOT affect rate of diffusion of gases?",
+        "options": [
+            "Surface area",
+            "Thickness of membrane",
+            "Pressure gradient",
+            "Blood glucose level"
+        ],
+        "answer": 3,
+        "explanation": "Blood glucose does not affect diffusion."
+    },
+    {
+        "id": 469,
+        "question": "Which condition is associated with low haemoglobin saturation?",
+        "options": [
+            "Anaemia",
+            "High altitude",
+            "Hypoxia",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All listed conditions reduce haemoglobin saturation."
+    },
+    {
+        "id": 470,
+        "question": "Which structure prevents nasal regurgitation of food?",
+        "options": [
+            "Epiglottis",
+            "Soft palate",
+            "Hard palate",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Soft palate prevents nasal regurgitation."
+    },
+    {
+        "id": 471,
+        "question": "Which gas diffuses faster due to higher solubility?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide diffuses faster."
+    },
+    {
+        "id": 472,
+        "question": "Which lung volume shows maximum variation during exercise?",
+        "options": [
+            "Residual volume",
+            "Tidal volume",
+            "Functional residual capacity",
+            "Total lung capacity"
+        ],
+        "answer": 1,
+        "explanation": "Tidal volume varies most."
+    },
+    {
+        "id": 473,
+        "question": "Which respiratory disorder is strongly associated with smoking?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Pneumonia",
+            "Tuberculosis"
+        ],
+        "answer": 1,
+        "explanation": "Smoking commonly causes emphysema."
+    },
+    {
+        "id": 474,
+        "question": "Which structure connects nasal cavity to pharynx?",
+        "options": [
+            "Choanae",
+            "Glottis",
+            "Epiglottis",
+            "Uvula"
+        ],
+        "answer": 0,
+        "explanation": "Choanae connect nasal cavity to pharynx."
+    },
+    {
+        "id": 475,
+        "question": "Which part of respiratory tract completely lacks cartilage?",
+        "options": [
+            "Trachea",
+            "Bronchi",
+            "Bronchioles",
+            "Larynx"
+        ],
+        "answer": 2,
+        "explanation": "Bronchioles lack cartilage."
+    },
+    {
+        "id": 476,
+        "question": "Which gas is main regulator of respiration?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Carbon monoxide"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide mainly regulates respiration."
+    },
+    {
+        "id": 477,
+        "question": "Which condition occurs due to surfactant deficiency in premature infants?",
+        "options": [
+            "Asthma",
+            "Respiratory distress syndrome",
+            "Emphysema",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Surfactant deficiency causes respiratory distress syndrome."
+    },
+    {
+        "id": 478,
+        "question": "Which alveolar cells secrete pulmonary surfactant?",
+        "options": [
+            "Type I pneumocytes",
+            "Type II pneumocytes",
+            "Macrophages",
+            "Endothelial cells"
+        ],
+        "answer": 1,
+        "explanation": "Type II pneumocytes secrete surfactant."
+    },
+    {
+        "id": 479,
+        "question": "Which cells remove foreign particles from alveoli?",
+        "options": [
+            "Goblet cells",
+            "Ciliated cells",
+            "Macrophages",
+            "Basement membrane"
+        ],
+        "answer": 2,
+        "explanation": "Alveolar macrophages remove foreign particles."
+    },
+    {
+        "id": 480,
+        "question": "Which statement about respiratory membrane thickness is correct?",
+        "options": [
+            "Too thick for diffusion",
+            "Very thin for diffusion",
+            "Variable thickness",
+            "Impermeable to gases"
+        ],
+        "answer": 1,
+        "explanation": "Respiratory membrane is very thin."
+    },
+    {
+        "id": 481,
+        "question": "Which condition reduces diffusion efficiency by thickening respiratory membrane?",
+        "options": [
+            "Emphysema",
+            "Pulmonary fibrosis",
+            "Asthma",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary fibrosis thickens respiratory membrane."
+    },
+    {
+        "id": 482,
+        "question": "Which event occurs during quiet expiration?",
+        "options": [
+            "Diaphragm contraction",
+            "Rib elevation",
+            "Elastic recoil of lungs",
+            "Abdominal muscle contraction"
+        ],
+        "answer": 2,
+        "explanation": "Elastic recoil causes quiet expiration."
+    },
+    {
+        "id": 483,
+        "question": "Which lung volume is always present in lungs?",
+        "options": [
+            "Tidal volume",
+            "Inspiratory reserve volume",
+            "Residual volume",
+            "Vital capacity"
+        ],
+        "answer": 2,
+        "explanation": "Residual volume is always present."
+    },
+    {
+        "id": 484,
+        "question": "Which structure forms roof of oral cavity?",
+        "options": [
+            "Soft palate",
+            "Hard palate",
+            "Epiglottis",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Hard palate forms roof of oral cavity."
+    },
+    {
+        "id": 485,
+        "question": "Which structure marks opening of larynx?",
+        "options": [
+            "Choanae",
+            "Glottis",
+            "Epiglottis",
+            "Uvula"
+        ],
+        "answer": 1,
+        "explanation": "Glottis is opening of larynx."
+    },
+    {
+        "id": 486,
+        "question": "Which structure covers glottis during swallowing?",
+        "options": [
+            "Soft palate",
+            "Uvula",
+            "Epiglottis",
+            "Hard palate"
+        ],
+        "answer": 2,
+        "explanation": "Epiglottis covers glottis."
+    },
+    {
+        "id": 487,
+        "question": "Which movement increases dorsoventral diameter of thorax?",
+        "options": [
+            "Diaphragm contraction",
+            "Rib elevation",
+            "Rib depression",
+            "Abdominal muscle contraction"
+        ],
+        "answer": 1,
+        "explanation": "Rib elevation increases dorsoventral diameter."
+    },
+    {
+        "id": 488,
+        "question": "Which disorder causes shortness of breath due to airway obstruction?",
+        "options": [
+            "Asthma",
+            "Anaemia",
+            "High altitude sickness",
+            "Cyanide poisoning"
+        ],
+        "answer": 0,
+        "explanation": "Asthma causes airway obstruction."
+    },
+    {
+        "id": 489,
+        "question": "Which condition decreases oxygen carrying capacity without affecting pO2?",
+        "options": [
+            "Anaemia",
+            "High altitude",
+            "Hyperventilation",
+            "Hypoventilation"
+        ],
+        "answer": 0,
+        "explanation": "Anaemia reduces haemoglobin content."
+    },
+    {
+        "id": 490,
+        "question": "Which condition decreases pO2 in arterial blood?",
+        "options": [
+            "Anaemia",
+            "High altitude",
+            "Histotoxic hypoxia",
+            "Hyperventilation"
+        ],
+        "answer": 1,
+        "explanation": "High altitude lowers arterial pO2."
+    },
+    {
+        "id": 491,
+        "question": "Which condition increases pCO2 in blood?",
+        "options": [
+            "Hyperventilation",
+            "Hypoventilation",
+            "High altitude",
+            "Anaemia"
+        ],
+        "answer": 1,
+        "explanation": "Hypoventilation increases CO2."
+    },
+    {
+        "id": 492,
+        "question": "Which lung disorder causes destruction of alveolar septa?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 1,
+        "explanation": "Emphysema destroys alveolar septa."
+    },
+    {
+        "id": 493,
+        "question": "Which hypoxia reduces oxygen utilization at cellular level?",
+        "options": [
+            "Hypoxic hypoxia",
+            "Anaemic hypoxia",
+            "Stagnant hypoxia",
+            "Histotoxic hypoxia"
+        ],
+        "answer": 3,
+        "explanation": "Histotoxic hypoxia blocks cellular respiration."
+    },
+    {
+        "id": 494,
+        "question": "Which respiratory parameter is mainly sensed by central chemoreceptors?",
+        "options": [
+            "Blood pO2",
+            "Blood pCO2",
+            "Blood glucose",
+            "Blood pressure"
+        ],
+        "answer": 1,
+        "explanation": "Central chemoreceptors respond to CO2."
+    },
+    {
+        "id": 495,
+        "question": "Which structure connects larynx to bronchi?",
+        "options": [
+            "Pharynx",
+            "Trachea",
+            "Bronchioles",
+            "Oesophagus"
+        ],
+        "answer": 1,
+        "explanation": "Trachea connects larynx to bronchi."
+    },
+    {
+        "id": 496,
+        "question": "Which structure contains C-shaped cartilaginous rings?",
+        "options": [
+            "Bronchioles",
+            "Larynx",
+            "Trachea",
+            "Alveoli"
+        ],
+        "answer": 2,
+        "explanation": "Trachea has C-shaped cartilaginous rings."
+    },
+    {
+        "id": 497,
+        "question": "Which respiratory disorder involves hypersensitivity to allergens?",
+        "options": [
+            "Asthma",
+            "Emphysema",
+            "Bronchitis",
+            "Pneumonia"
+        ],
+        "answer": 0,
+        "explanation": "Asthma involves hypersensitivity."
+    },
+    {
+        "id": 498,
+        "question": "Which statement about nitrogen in respiration is correct?",
+        "options": [
+            "Actively exchanged",
+            "Transported by haemoglobin",
+            "Physiologically inactive",
+            "Used in cellular respiration"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen is physiologically inactive."
+    },
+    {
+        "id": 499,
+        "question": "Which lung disorder decreases diffusion by thickening alveolar walls?",
+        "options": [
+            "Emphysema",
+            "Pulmonary fibrosis",
+            "Asthma",
+            "Bronchitis"
+        ],
+        "answer": 1,
+        "explanation": "Pulmonary fibrosis thickens alveolar walls."
+    },
+    {
+        "id": 500,
+        "question": "Which statement about breathing control is correct?",
+        "options": [
+            "Controlled only voluntarily",
+            "Controlled only involuntarily",
+            "Controlled by brainstem centers",
+            "Independent of CO2 levels"
+        ],
+        "answer": 2,
+        "explanation": "Breathing is regulated by brainstem centers."
+    }
+]

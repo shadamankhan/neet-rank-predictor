@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic aid provides information about species through preserved plant specimens mounted on sheets?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Museum",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium consists of preserved plant specimens mounted on sheets."
+    },
+    {
+        "id": 2,
+        "question": "Which group of algae possesses chlorophyll a and b and stores food as starch?",
+        "options": [
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Chlorophyceae",
+            "Cyanophyceae"
+        ],
+        "answer": 2,
+        "explanation": "Chlorophyceae have chlorophyll a and b and store starch."
+    },
+    {
+        "id": 3,
+        "question": "Archegonia are absent in:",
+        "options": [
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms",
+            "Angiosperms"
+        ],
+        "answer": 3,
+        "explanation": "Angiosperms lack archegonia."
+    },
+    {
+        "id": 4,
+        "question": "Which floral part develops into fruit after fertilisation?",
+        "options": [
+            "Ovule",
+            "Ovary",
+            "Thalamus",
+            "Calyx"
+        ],
+        "answer": 1,
+        "explanation": "Ovary develops into fruit after fertilisation."
+    },
+    {
+        "id": 5,
+        "question": "In dicot stem, vascular bundles are:",
+        "options": [
+            "Scattered",
+            "Radial",
+            "Conjoint and open",
+            "Conjoint and closed"
+        ],
+        "answer": 2,
+        "explanation": "Dicot stems have conjoint, collateral and open vascular bundles."
+    },
+    {
+        "id": 6,
+        "question": "Which cell organelle is involved in protein synthesis?",
+        "options": [
+            "Golgi apparatus",
+            "Ribosome",
+            "Lysosome",
+            "Peroxisome"
+        ],
+        "answer": 1,
+        "explanation": "Ribosomes are sites of protein synthesis."
+    },
+    {
+        "id": 7,
+        "question": "Which polysaccharide is a major component of plant cell wall?",
+        "options": [
+            "Starch",
+            "Glycogen",
+            "Cellulose",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose forms the main structural component of plant cell wall."
+    },
+    {
+        "id": 8,
+        "question": "Which stage of cell cycle is the longest?",
+        "options": [
+            "G1 phase",
+            "S phase",
+            "G2 phase",
+            "M phase"
+        ],
+        "answer": 0,
+        "explanation": "G1 phase is the longest phase of the cell cycle."
+    },
+    {
+        "id": 9,
+        "question": "Movement of molecules from higher to lower concentration without energy is:",
+        "options": [
+            "Active transport",
+            "Mass flow",
+            "Diffusion",
+            "Osmosis"
+        ],
+        "answer": 2,
+        "explanation": "Diffusion occurs along concentration gradient without energy."
+    },
+    {
+        "id": 10,
+        "question": "Which element is essential for opening and closing of stomata?",
+        "options": [
+            "Calcium",
+            "Potassium",
+            "Magnesium",
+            "Iron"
+        ],
+        "answer": 1,
+        "explanation": "Potassium ions regulate stomatal movement."
+    },
+    {
+        "id": 11,
+        "question": "Which compound acts as primary CO₂ acceptor in C3 plants?",
+        "options": [
+            "Oxaloacetic acid",
+            "Phosphoenol pyruvate",
+            "Ribulose bisphosphate",
+            "Malic acid"
+        ],
+        "answer": 2,
+        "explanation": "RuBP is the primary CO₂ acceptor in C3 pathway."
+    },
+    {
+        "id": 12,
+        "question": "Glycolysis occurs in:",
+        "options": [
+            "Mitochondrial matrix",
+            "Cytoplasm",
+            "Chloroplast",
+            "Peroxisome"
+        ],
+        "answer": 1,
+        "explanation": "Glycolysis takes place in cytoplasm."
+    },
+    {
+        "id": 13,
+        "question": "Which plant hormone is responsible for apical dominance?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "Auxin produced at apical bud maintains apical dominance."
+    },
+    {
+        "id": 14,
+        "question": "Syngamy refers to:",
+        "options": [
+            "Fusion of polar nuclei",
+            "Fusion of gametes",
+            "Fusion of endosperm nuclei",
+            "Fusion of antipodals"
+        ],
+        "answer": 1,
+        "explanation": "Syngamy is fusion of male and female gametes."
+    },
+    {
+        "id": 15,
+        "question": "Which crop variety was developed by hybridisation?",
+        "options": [
+            "Sharbati Sonora",
+            "Pusa Gaurav",
+            "Kalyan Sona",
+            "IR-8"
+        ],
+        "answer": 2,
+        "explanation": "Kalyan Sona is a hybrid wheat variety."
+    },
+    {
+        "id": 16,
+        "question": "Which bacterium is used as biofertiliser in rice fields?",
+        "options": [
+            "Rhizobium",
+            "Azospirillum",
+            "Anabaena",
+            "Nitrosomonas"
+        ],
+        "answer": 2,
+        "explanation": "Anabaena fixes nitrogen in rice fields."
+    },
+    {
+        "id": 17,
+        "question": "Plasmid used as vector should have:",
+        "options": [
+            "Multiple origins of replication",
+            "Selectable marker",
+            "Large size",
+            "No restriction sites"
+        ],
+        "answer": 1,
+        "explanation": "Selectable marker helps identify transformants."
+    },
+    {
+        "id": 18,
+        "question": "Carrying capacity of environment is represented by:",
+        "options": [
+            "K",
+            "r",
+            "N",
+            "t"
+        ],
+        "answer": 0,
+        "explanation": "K denotes carrying capacity."
+    },
+    {
+        "id": 19,
+        "question": "Which component returns nutrients to the soil?",
+        "options": [
+            "Producers",
+            "Consumers",
+            "Decomposers",
+            "Herbivores"
+        ],
+        "answer": 2,
+        "explanation": "Decomposers recycle nutrients back to soil."
+    },
+    {
+        "id": 20,
+        "question": "The number of species on Earth is estimated to be about:",
+        "options": [
+            "1.5 million",
+            "3 million",
+            "7 million",
+            "10 million"
+        ],
+        "answer": 2,
+        "explanation": "NCERT estimates about 7 million species."
+    },
+    {
+        "id": 21,
+        "question": "Which pollutant causes eutrophication?",
+        "options": [
+            "Carbon monoxide",
+            "Nitrates and phosphates",
+            "Sulphur dioxide",
+            "Methane"
+        ],
+        "answer": 1,
+        "explanation": "Excess nitrates and phosphates cause eutrophication."
+    },
+    {
+        "id": 22,
+        "question": "Which category includes closely related genera?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Family includes related genera."
+    },
+    {
+        "id": 23,
+        "question": "Reserve food in brown algae is:",
+        "options": [
+            "Starch",
+            "Floridean starch",
+            "Laminarin and mannitol",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Brown algae store laminarin and mannitol."
+    },
+    {
+        "id": 24,
+        "question": "Which tissue transports organic food?",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Cambium",
+            "Cortex"
+        ],
+        "answer": 1,
+        "explanation": "Phloem transports organic food."
+    },
+    {
+        "id": 25,
+        "question": "Cristae increase surface area for:",
+        "options": [
+            "Photosynthesis",
+            "Protein synthesis",
+            "Respiration",
+            "Digestion"
+        ],
+        "answer": 2,
+        "explanation": "Cristae increase surface area for respiration."
+    },
+    {
+        "id": 26,
+        "question": "Which bond links monosaccharides?",
+        "options": [
+            "Peptide bond",
+            "Glycosidic bond",
+            "Ester bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 1,
+        "explanation": "Monosaccharides are linked by glycosidic bonds."
+    },
+    {
+        "id": 27,
+        "question": "Which substage of prophase I shows synapsis?",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 1,
+        "explanation": "Synapsis occurs during zygotene."
+    },
+    {
+        "id": 28,
+        "question": "Mass flow hypothesis explains transport through:",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Cambium",
+            "Cortex"
+        ],
+        "answer": 1,
+        "explanation": "Mass flow hypothesis explains phloem transport."
+    },
+    {
+        "id": 29,
+        "question": "Which element is required for synthesis of chlorophyll?",
+        "options": [
+            "Nitrogen",
+            "Magnesium",
+            "Iron",
+            "Potassium"
+        ],
+        "answer": 2,
+        "explanation": "Iron is required for chlorophyll synthesis."
+    },
+    {
+        "id": 30,
+        "question": "Photorespiration occurs in:",
+        "options": [
+            "C3 plants only",
+            "C4 plants only",
+            "CAM plants only",
+            "All plants"
+        ],
+        "answer": 0,
+        "explanation": "Photorespiration occurs in C3 plants."
+    },
+    {
+        "id": 31,
+        "question": "Which respiratory pathway is common to aerobic and anaerobic respiration?",
+        "options": [
+            "Krebs cycle",
+            "Electron transport chain",
+            "Glycolysis",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Glycolysis occurs in both pathways."
+    },
+    {
+        "id": 32,
+        "question": "Which hormone promotes fruit ripening?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "Ethylene promotes fruit ripening."
+    },
+    {
+        "id": 33,
+        "question": "Embryo sac is formed from:",
+        "options": [
+            "Megaspore",
+            "Microspore",
+            "Zygote",
+            "Ovule wall"
+        ],
+        "answer": 0,
+        "explanation": "Embryo sac develops from megaspore."
+    },
+    {
+        "id": 34,
+        "question": "Which breeding method maintains heterozygosity?",
+        "options": [
+            "Inbreeding",
+            "Pureline selection",
+            "Outbreeding",
+            "Selfing"
+        ],
+        "answer": 2,
+        "explanation": "Outbreeding maintains heterozygosity."
+    },
+    {
+        "id": 35,
+        "question": "Which microbe produces streptokinase?",
+        "options": [
+            "Streptococcus",
+            "Aspergillus",
+            "Penicillium",
+            "Rhizopus"
+        ],
+        "answer": 0,
+        "explanation": "Streptokinase is produced by Streptococcus."
+    },
+    {
+        "id": 36,
+        "question": "cDNA is synthesised using:",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesises cDNA."
+    },
+    {
+        "id": 37,
+        "question": "Population interaction where both species benefit is:",
+        "options": [
+            "Commensalism",
+            "Parasitism",
+            "Mutualism",
+            "Amensalism"
+        ],
+        "answer": 2,
+        "explanation": "Mutualism benefits both species."
+    },
+    {
+        "id": 38,
+        "question": "Secondary productivity refers to:",
+        "options": [
+            "Plant biomass production",
+            "Consumer biomass production",
+            "Decomposer activity",
+            "Energy flow"
+        ],
+        "answer": 1,
+        "explanation": "Secondary productivity is biomass production by consumers."
+    },
+    {
+        "id": 39,
+        "question": "In situ conservation includes:",
+        "options": [
+            "Seed banks",
+            "Botanical gardens",
+            "Wildlife sanctuaries",
+            "Gene banks"
+        ],
+        "answer": 2,
+        "explanation": "Wildlife sanctuaries conserve species in natural habitat."
+    },
+    {
+        "id": 40,
+        "question": "Which gas is responsible for ozone depletion?",
+        "options": [
+            "CO₂",
+            "CH₄",
+            "CFCs",
+            "SO₂"
+        ],
+        "answer": 2,
+        "explanation": "CFCs cause ozone depletion."
+    },
+    {
+        "id": 41,
+        "question": "Classification based on evolutionary relationships is called:",
+        "options": [
+            "Artificial system",
+            "Natural system",
+            "Phylogenetic system",
+            "Numerical system"
+        ],
+        "answer": 2,
+        "explanation": "Phylogenetic system considers evolutionary relationships."
+    },
+    {
+        "id": 42,
+        "question": "Which algae shows alternation of generations?",
+        "options": [
+            "Ulothrix",
+            "Spirogyra",
+            "Ectocarpus",
+            "Chlamydomonas"
+        ],
+        "answer": 2,
+        "explanation": "Ectocarpus shows alternation of generations."
+    },
+    {
+        "id": 43,
+        "question": "Pericycle is involved in formation of:",
+        "options": [
+            "Lateral roots",
+            "Primary xylem",
+            "Cortex",
+            "Pith"
+        ],
+        "answer": 0,
+        "explanation": "Pericycle gives rise to lateral roots."
+    },
+    {
+        "id": 44,
+        "question": "Which plastid is colourless?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Leucoplast",
+            "Gerontoplast"
+        ],
+        "answer": 2,
+        "explanation": "Leucoplasts are colourless plastids."
+    },
+    {
+        "id": 45,
+        "question": "Which biomolecule has the highest energy content?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Lipids",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Lipids yield maximum energy."
+    },
+    {
+        "id": 46,
+        "question": "Which phase ends with cytokinesis?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 3,
+        "explanation": "Cytokinesis follows telophase."
+    },
+    {
+        "id": 47,
+        "question": "Root pressure is significant in:",
+        "options": [
+            "Tall trees",
+            "Transpiring plants",
+            "Herbaceous plants",
+            "Desert plants"
+        ],
+        "answer": 2,
+        "explanation": "Root pressure is significant in herbaceous plants."
+    },
+    {
+        "id": 48,
+        "question": "Which deficiency causes delayed flowering?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium",
+            "Calcium"
+        ],
+        "answer": 1,
+        "explanation": "Phosphorus deficiency delays flowering."
+    },
+    {
+        "id": 49,
+        "question": "CAM plants open stomata during:",
+        "options": [
+            "Day",
+            "Night",
+            "Evening",
+            "Morning"
+        ],
+        "answer": 1,
+        "explanation": "CAM plants open stomata at night."
+    },
+    {
+        "id": 50,
+        "question": "Which structure guides pollen tube entry?",
+        "options": [
+            "Antipodal cells",
+            "Synergids",
+            "Nucellus",
+            "Integuments"
+        ],
+        "answer": 1,
+        "explanation": "Synergids guide pollen tube entry."
+    }
+]

@@ -1,0 +1,1207 @@
+[
+    {
+        "id": 1,
+        "question": "Which functional group is present in aldehydes?",
+        "options": [
+            "$–CHO$",
+            "$–COOH$",
+            "$–CO–$",
+            "$–OH$"
+        ],
+        "answer": 0,
+        "explanation": "Aldehydes contain the $–CHO$ functional group."
+    },
+    {
+        "id": 2,
+        "question": "The IUPAC suffix for ketones is:",
+        "options": [
+            "$–al$",
+            "$–one$",
+            "$–oic\\ acid$",
+            "$–ol$"
+        ],
+        "answer": 1,
+        "explanation": "Ketones are named using the suffix $–one$."
+    },
+    {
+        "id": 3,
+        "question": "Which reagent differentiates aldehydes from ketones?",
+        "options": [
+            "Tollens’ reagent",
+            "Lucas reagent",
+            "Bromine water",
+            "FeCl3"
+        ],
+        "answer": 0,
+        "explanation": "Tollens’ reagent gives a silver mirror with aldehydes only."
+    },
+    {
+        "id": 4,
+        "question": "Cannizzaro reaction occurs for aldehydes that have:",
+        "options": [
+            "No α-hydrogen",
+            "At least one α-hydrogen",
+            "Conjugated double bond",
+            "Aromatic ring"
+        ],
+        "answer": 0,
+        "explanation": "Cannizzaro reaction happens in aldehydes lacking α-hydrogen."
+    },
+    {
+        "id": 5,
+        "question": "Which test gives positive with methyl ketones forming yellow precipitate?",
+        "options": [
+            "Tollens’ test",
+            "Fehling’s test",
+            "Iodoform test",
+            "Schiff’s reagent"
+        ],
+        "answer": 2,
+        "explanation": "Iodoform test is positive for methyl ketones."
+    },
+    {
+        "id": 6,
+        "question": "Which reagent oxidizes primary alcohols to carboxylic acids?",
+        "options": [
+            "PCC",
+            "KMnO4",
+            "NaBH4",
+            "LiAlH4"
+        ],
+        "answer": 1,
+        "explanation": "KMnO4 oxidizes primary alcohols directly to acids."
+    },
+    {
+        "id": 7,
+        "question": "The product of $$C_6H_5COOH + SOCl_2$$ is:",
+        "options": [
+            "Acid chloride",
+            "Alcohol",
+            "Ester",
+            "Ketone"
+        ],
+        "answer": 0,
+        "explanation": "SOCl2 converts carboxylic acids to acid chlorides."
+    },
+    {
+        "id": 8,
+        "question": "Which reagent reduces carboxylic acid to primary alcohol?",
+        "options": [
+            "NaBH4",
+            "LiAlH4",
+            "PCC",
+            "Zn-HCl"
+        ],
+        "answer": 1,
+        "explanation": "LiAlH4 reduces acids to primary alcohols."
+    },
+    {
+        "id": 9,
+        "question": "Identify the product of $$CH_3CHO + HCN$$:",
+        "options": [
+            "Cyanohydrin",
+            "Alcohol",
+            "Carboxylic acid",
+            "Alkane"
+        ],
+        "answer": 0,
+        "explanation": "HCN adds to carbonyl giving cyanohydrin."
+    },
+    {
+        "id": 10,
+        "question": "Which mechanism best describes $$RCHO + NaOH \\rightarrow$ products?",
+        "options": [
+            "Aldol condensation",
+            "Cannizzaro",
+            "Esterification",
+            "Reduction"
+        ],
+        "answer": 1,
+        "explanation": "In absence of α-H, aldehydes undergo Cannizzaro."
+    },
+    {
+        "id": 11,
+        "question": "Carboxylic acids have higher boiling points than alcohols because of:",
+        "options": [
+            "Hydrogen bonding dimer formation",
+            "Lower molecular weight",
+            "Dipole moment only",
+            "No hydrogen bonding"
+        ],
+        "answer": 0,
+        "explanation": "Carboxylic acids form H-bonded dimers, increasing boiling point."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following is a product of aldol condensation?",
+        "options": [
+            "$RCH=CHCOR'$",
+            "Alcohol",
+            "Carboxylic acid",
+            "Ester"
+        ],
+        "answer": 0,
+        "explanation": "Aldol condensation forms α,β-unsaturated carbonyl compounds."
+    },
+    {
+        "id": 13,
+        "question": "The Rosenmund reduction converts acid chlorides to:",
+        "options": [
+            "Aldehydes",
+            "Alcohols",
+            "Carboxylic acids",
+            "Ketones"
+        ],
+        "answer": 0,
+        "explanation": "Acid chlorides reduced with H2/Pd-BaSO4 give aldehydes."
+    },
+    {
+        "id": 14,
+        "question": "Which reagent selectively reduces aldehydes but not ketones?",
+        "options": [
+            "NaBH4",
+            "LiAlH4",
+            "H2/Pd",
+            "Zn-Cu"
+        ],
+        "answer": 0,
+        "explanation": "NaBH4 reduces aldehydes faster than ketones."
+    },
+    {
+        "id": 15,
+        "question": "Arrange in decreasing reactivity towards nucleophilic addition:",
+        "options": [
+            "Aldehyde > Ketone > Ester",
+            "Ketone > Aldehyde > Ester",
+            "Ester > Aldehyde > Ketone",
+            "Ketone > Ester > Aldehyde"
+        ],
+        "answer": 0,
+        "explanation": "Aldehydes are more reactive due to sterics and electronics."
+    },
+    {
+        "id": 16,
+        "question": "The product of $$CH_3COCH_3 \\xrightarrow{Zn(Hg)/HCl}$$ is:",
+        "options": [
+            "Propane",
+            "Propanone",
+            "Isopropanol",
+            "No reaction"
+        ],
+        "answer": 0,
+        "explanation": "Clemmensen reduction yields alkanes from ketones."
+    },
+    {
+        "id": 17,
+        "question": "Which test gives red precipitate for aldehydes?",
+        "options": [
+            "Tollens’ test",
+            "Fehling’s test",
+            "Bromine water",
+            "Iodoform test"
+        ],
+        "answer": 1,
+        "explanation": "Fehling’s reagent gives red Cu2O with aldehydes."
+    },
+    {
+        "id": 18,
+        "question": "The Perkin reaction forms:",
+        "options": [
+            "α,β-unsaturated acid",
+            "Alcohol",
+            "Ketone",
+            "Ester"
+        ],
+        "answer": 0,
+        "explanation": "Perkin synthesis gives α,β-unsaturated carboxylic acids."
+    },
+    {
+        "id": 19,
+        "question": "Hell-Volhard-Zelinsky reaction brominates:",
+        "options": [
+            "Carboxylic acids at α-position",
+            "Ketones",
+            "Alcohols",
+            "Esters"
+        ],
+        "answer": 0,
+        "explanation": "HVZ brominates α-carbon of acids."
+    },
+    {
+        "id": 20,
+        "question": "Carboxylic acid reacts with $$C_2H_5OH$$ in presence of acid to give:",
+        "options": [
+            "Ester",
+            "Alcohol",
+            "Ketone",
+            "Ether"
+        ],
+        "answer": 0,
+        "explanation": "Fischer esterification forms esters."
+    },
+
+        {
+            "id": 21,
+            "question": "In the Cannizzaro reaction, $$2RCHO \\xrightarrow{conc.\\ NaOH} RCOO^- + RCH_2OH$$. Which condition is necessary for this reaction?",
+            "options": [
+                "Aldehydes with no α-hydrogen",
+                "Strong acid medium",
+                "Presence of oxidizing agent",
+                "Presence of catalyst"
+            ],
+            "answer": 0,
+            "explanation": "Cannizzaro occurs only with aldehydes that do not have α-hydrogens."
+        },
+        {
+            "id": 22,
+            "question": "The product of aldol condensation between acetaldehyde and benzaldehyde is:",
+            "options": [
+                "α,β-unsaturated aldehyde",
+                "Alcohol",
+                "Carboxylic acid",
+                "Ketone"
+            ],
+            "answer": 0,
+            "explanation": "Cross-aldol condensation gives α,β-unsaturated carbonyl compound."
+        },
+        {
+            "id": 23,
+            "question": "Which reagent converts acid chloride into an aldehyde?",
+            "options": [
+                "Rosenmund reduction",
+                "Clemmensen reduction",
+                "Wolff–Kishner reduction",
+                "Cannizzaro"
+            ],
+            "answer": 0,
+            "explanation": "Rosenmund reduction (H2/Pd-BaSO4) converts acid chloride to aldehyde."
+        },
+        {
+            "id": 24,
+            "question": "The iodoform test is positive for which of the following?",
+            "options": [
+                "Methanal",
+                "Propanal",
+                "Propanone",
+                "Benzaldehyde"
+            ],
+            "answer": 2,
+            "explanation": "Methyl ketones give positive iodoform test."
+        },
+        {
+            "id": 25,
+            "question": "Which of the following is more acidic?",
+            "options": [
+                "Methanol",
+                "Acetic acid",
+                "Ethanal",
+                "Acetone"
+            ],
+            "answer": 1,
+            "explanation": "Carboxylic acids are stronger acids due to resonance stabilization."
+        },
+        {
+            "id": 26,
+            "question": "During wolf-Kishner reduction, a carbonyl group is converted into:",
+            "options": [
+                "Alkane",
+                "Alcohol",
+                "Aldehyde",
+                "Acid"
+            ],
+            "answer": 0,
+            "explanation": "Wolff–Kishner reduces carbonyls to alkanes under basic high-temp conditions."
+        },
+        {
+            "id": 27,
+            "question": "Which reagent distinguishes aldehydes from ketones by giving a silver mirror?",
+            "options": [
+                "Tollens’ reagent",
+                "2,4-DNPH",
+                "Schiff’s reagent",
+                "Bromine water"
+            ],
+            "answer": 0,
+            "explanation": "Tollens’ reagent gives silver mirror with aldehydes only."
+        },
+        {
+            "id": 28,
+            "question": "Benzoic acid reacts with $$SOCl_2$$ to form:",
+            "options": [
+                "Benzoyl chloride",
+                "Benzyl chloride",
+                "Phenol",
+                "Toluene"
+            ],
+            "answer": 0,
+            "explanation": "$SOCl_2$ converts a carboxylic acid to its acid chloride."
+        },
+        {
+            "id": 29,
+            "question": "Which reagent will reduce aldehydes and ketones to alcohols selectively?",
+            "options": [
+                "NaBH_4",
+                "Pd/H_2",
+                "KMnO_4",
+                "CrO_3"
+            ],
+            "answer": 0,
+            "explanation": "Sodium borohydride selectively reduces carbonyls to alcohols."
+        },
+        {
+            "id": 30,
+            "question": "What product is formed when acetone is reacted with $$H_2/Pd\\,BaSO_4$$ (Rosenmund conditions)?",
+            "options": [
+                "2-propanol",
+                "Isopropyl alcohol",
+                "Propane",
+                "Hexane"
+            ],
+            "answer": 2,
+            "explanation": "Under Rosenmund conditions, ketones can be reduced to alkanes."
+        },
+        {
+            "id": 31,
+            "question": "Which of the following undergoes Cannizzaro reaction?",
+            "options": [
+                "Formaldehyde",
+                "Acetaldehyde",
+                "Acetone",
+                "Propanoic acid"
+            ],
+            "answer": 0,
+            "explanation": "Formaldehyde has no α-hydrogen and undergoes Cannizzaro."
+        },
+        {
+            "id": 32,
+            "question": "What is the major product of Perkin reaction?",
+            "options": [
+                "α,β-unsaturated acid",
+                "Ketone",
+                "Alcohol",
+                "Ester"
+            ],
+            "answer": 0,
+            "explanation": "Perkin reaction produces α,β-unsaturated carboxylic acids."
+        },
+        {
+            "id": 33,
+            "question": "Which of the following carbonyl compounds gives a yellow precipitate with 2,4-DNPH?",
+            "options": [
+                "Aldehydes",
+                "Ketones",
+                "Both aldehydes and ketones",
+                "Carboxylic acids"
+            ],
+            "answer": 2,
+            "explanation": "Both aldehydes and ketones form 2,4-DNPH adducts."
+        },
+        {
+            "id": 34,
+            "question": "In the Hell–Volhard–Zelinsky reaction, a carboxylic acid is α-brominated using:",
+            "options": [
+                "Br_2/P",
+                "Br_2/FeBr_3",
+                "NBS",
+                "HBr/Peroxide"
+            ],
+            "answer": 0,
+            "explanation": "The HVZ reaction uses Br2 and P to α-brominate acids."
+        },
+        {
+            "id": 35,
+            "question": "Which of the following is not a product of the aldol condensation of ethanal?",
+            "options": [
+                "But-2-enal",
+                "Butanal",
+                "2-methylpropanal",
+                "Crotonaldehyde"
+            ],
+            "answer": 2,
+            "explanation": "Aldol from ethanal gives crotonaldehyde not branched aldehydes."
+        },
+        {
+            "id": 36,
+            "question": "The major product when $$PhCHO$$ (benzaldehyde) reacts with hot $$NaOH$$ and $$CH_3CHO$$ is:",
+            "options": [
+                "Benzyl alcohol",
+                "α,β-Unsaturated aldehyde",
+                "Benzoic acid",
+                "Alcohol only"
+            ],
+            "answer": 1,
+            "explanation": "Cross-aldol condensation yields α,β-unsaturated aldehyde."
+        },
+        {
+            "id": 37,
+            "question": "Which compound will liberate CO_2 with $$NaHCO_3$$?",
+            "options": [
+                "Ethanol",
+                "Phenol",
+                "Benzoic acid",
+                "Acetone"
+            ],
+            "answer": 2,
+            "explanation": "Carboxylic acids react with bicarbonates to produce CO2."
+        },
+        {
+            "id": 38,
+            "question": "The compound $$CH_3COCH_3$$ on oxidation gives:",
+            "options": [
+                "Propionic acid",
+                "Acetic acid",
+                "Methanoic acid",
+                "Mixture of acids"
+            ],
+            "answer": 3,
+            "explanation": "Ketone oxidation produces a mixture of acids depending on cleavage."
+        }
+    ,
+        {
+            "id": 39,
+            "question": "When a mixture of benzaldehyde and formaldehyde is heated with aqueous NaOH, the products are:",
+            "options": [
+                "Sodium formate + benzyl alcohol",
+                "Sodium benzoate + methanol",
+                "Methanol + benzyl alcohol",
+                "Sodium formate + sodium benzoate"
+            ],
+            "answer": 0,
+            "explanation": "Benzaldehyde (no α-H) and formaldehyde undergo crossed Cannizzaro, forming sodium formate and benzyl alcohol (Cannizzaro reaction)."
+        },
+        {
+            "id": 40,
+            "question": "Which of the following hydrogens is most acidic?",
+            "options": [
+                "Hydrogen in hexane-2,4-dione",
+                "Hydrogen in hexane-2,3-dione",
+                "Hydrogen in hexane-2,5-dione",
+                "Hydrogen in hexane-3-one"
+            ],
+            "answer": 0,
+            "explanation": "Hydrogens in β-diketones (e.g., hexane-2,4-dione) are most acidic due to resonance stabilization."
+        },
+        {
+            "id": 41,
+            "question": "The carbonyl group in ketones is attached to:",
+            "options": [
+                "Two carbon atoms",
+                "One carbon and one hydrogen",
+                "Two hydrogens",
+                "None of the above"
+            ],
+            "answer": 0,
+            "explanation": "Ketones have the carbonyl carbon bonded to two carbon atoms."
+        },
+        {
+            "id": 42,
+            "question": "Which reagent cannot produce aldehydes directly?",
+            "options": [
+                "Oxidation of primary alcohols",
+                "Dehydrogenation of secondary alcohols",
+                "Ozonolysis of alkenes",
+                "Hydration of alkynes"
+            ],
+            "answer": 1,
+            "explanation": "Secondary alcohols give ketones on dehydrogenation, not aldehydes."
+        },
+        {
+            "id": 43,
+            "question": "Which of the following does *NOT* undergo Cannizzaro reaction?",
+            "options": [
+                "Formaldehyde",
+                "Benzaldehyde",
+                "Acetaldehyde",
+                "p-Nitrobenzaldehyde"
+            ],
+            "answer": 2,
+            "explanation": "Acetaldehyde has α-H so undergoes aldol rather than Cannizzaro."
+        },
+        {
+            "id": 44,
+            "question": "Which test distinguishes aldehydes from ketones by giving a silver mirror?",
+            "options": [
+                "Tollens’ test",
+                "2,4-DNPH test",
+                "Iodoform test",
+                "Schiff’s reagent"
+            ],
+            "answer": 0,
+            "explanation": "Tollens’ reagent gives silver mirror with aldehydes only."
+        },
+        {
+            "id": 45,
+            "question": "Arrange these in increasing order of acidity: $$CH_3OH, HCOOH, CH_3COOH$$",
+            "options": [
+                "$CH_3OH < CH_3COOH < HCOOH$",
+                "$CH_3COOH < HCOOH < CH_3OH$",
+                "$HCOOH < CH_3COOH < CH_3OH$",
+                "$CH_3OH < HCOOH < CH_3COOH$"
+            ],
+            "answer": 0,
+            "explanation": "Formic acid (HCOOH) > acetic acid (CH_3COOH) > alcohol (CH_3OH) in acidity due to resonance stabilization."
+        },
+        {
+            "id": 46,
+            "question": "During oxidation of ketone $$CH_3COCH_3$$ with a strong oxidant, the products are:",
+            "options": [
+                "Acetic acid only",
+                "Mixture of acids",
+                "Propionic acid",
+                "No reaction"
+            ],
+            "answer": 1,
+            "explanation": "Oxidation cleaves ketones yielding a mixture of acids depending on substituents."
+        },
+        {
+            "id": 47,
+            "question": "Which of the following compounds will liberate CO_2 with $$NaHCO_3$$?",
+            "options": [
+                "Ethanol",
+                "Phenol",
+                "Benzoic acid",
+                "Acetone"
+            ],
+            "answer": 2,
+            "explanation": "Carboxylic acids react with bicarbonates to produce CO2."
+        },
+        {
+            "id": 48,
+            "question": "What is the name of the reaction: $$RCOCl + H_2/Pd-BaSO_4 \\rightarrow RCHO$$?",
+            "options": [
+                "Rosenmund reduction",
+                "Wolff–Kishner reduction",
+                "Clemmensen reduction",
+                "Cannizzaro reaction"
+            ],
+            "answer": 0,
+            "explanation": "Rosenmund reduction selectively forms aldehydes from acid chlorides."
+        },
+        {
+            "id": 49,
+            "question": "Which reagent gives positive iodoform test?",
+            "options": [
+                "Propanone",
+                "Benzaldehyde",
+                "Formaldehyde",
+                "Benzoic acid"
+            ],
+            "answer": 0,
+            "explanation": "Methyl ketones like propanone give positive iodoform test."
+        },
+        {
+            "id": 50,
+            "question": "Which compound forms a 2,4-DNPH derivative?",
+            "options": [
+                "Aldehydes",
+                "Ketones",
+                "Both aldehydes and ketones",
+                "Carboxylic acids"
+            ],
+            "answer": 2,
+            "explanation": "Both aldehydes and ketones form colored 2,4-DNPH derivatives."
+        },
+        {
+            "id": 51,
+            "question": "In the Hell–Volhard–Zelinsky reaction, an α-brominated acid is formed using:",
+            "options": [
+                "Br2/P",
+                "Br2/FeBr3",
+                "NBS/light",
+                "HBr/Peroxide"
+            ],
+            "answer": 0,
+            "explanation": "Br2 with phosphorus brominates the α-position of acids."
+        },
+        {
+            "id": 52,
+            "question": "Which of the following compounds can undergo aldol condensation?",
+            "options": [
+                "Acetaldehyde",
+                "Benzaldehyde",
+                "Formic acid",
+                "Acetic acid"
+            ],
+            "answer": 0,
+            "explanation": "Aldol requires α-hydrogen, present in acetaldehyde."
+        },
+        {
+            "id": 53,
+            "question": "Which of these is a nucleophilic addition reaction?",
+            "options": [
+                "HCN addition to $$RCHO$$",
+                "Aldol condensation",
+                "Cannizzaro reaction",
+                "All of the above"
+            ],
+            "answer": 3,
+            "explanation": "Carbonyl additions including HCN, aldol, and Cannizzaro are nucleophilic."
+        },
+        {
+            "id": 54,
+            "question": "Choose the correct product: $$CH_3CH_2CHO + NaOH \\rightarrow$$",
+            "options": [
+                "Aldol product",
+                "Alcohol",
+                "Carboxylic acid",
+                "No reaction"
+            ],
+            "answer": 0,
+            "explanation": "Ethanal undergoes aldol condensation in base with α-H."
+        },
+        {
+            "id": 55,
+            "question": "Which reagent can oxidize benzaldehyde to benzoic acid?",
+            "options": [
+                "Tollens’ reagent",
+                "KMnO4",
+                "Fehling’s solution",
+                "Both A and B"
+            ],
+            "answer": 3,
+            "explanation": "Both Tollens’ and KMnO4 oxidize aldehydes to acids."
+        },
+        {
+            "id": 56,
+            "question": "Which compound has the lowest boiling point?",
+            "options": [
+                "Ethanol",
+                "Acetic acid",
+                "Propanoic acid",
+                "Ethanal"
+            ],
+            "answer": 3,
+            "explanation": "Aldehydes generally have lower bp than acids/alcohols due to weaker H-bonding."
+        },
+        {
+            "id": 57,
+            "question": "Wolff–Kishner reduction uses which conditions?",
+            "options": [
+                "H2/Pd",
+                "NH2NH2/KOH, heat",
+                "Zn(Hg)/HCl",
+                "NaBH4"
+            ],
+            "answer": 1,
+            "explanation": "Wolff–Kishner uses hydrazine and base to reduce carbonyls to alkanes."
+        },
+        {
+            "id": 58,
+            "question": "Which test distinguishes ketones like acetone from aldehydes?",
+            "options": [
+                "Tollens’ test",
+                "Bromine water test",
+                "Iodoform test",
+                "FeCl3 test"
+            ],
+            "answer": 2,
+            "explanation": "Iodoform test is positive for acetone but negative for most aldehydes without methyl group."
+        },
+        {
+            "id": 59,
+            "question": "In the Perkin reaction, the base present is usually:",
+            "options": [
+                "NaOH",
+                "NaOAc",
+                "KCN",
+                "LiAlH4"
+            ],
+            "answer": 1,
+            "explanation": "Perkin uses sodium acetate with acid chlorides and base."
+        },
+        {
+            "id": 60,
+            "question": "Which of the following does *not* show positive Tollens’ test?",
+            "options": [
+                "Formaldehyde",
+                "Benzaldehyde",
+                "Acetaldehyde",
+                "Acetone"
+            ],
+            "answer": 3,
+            "explanation": "Ketones do not give Tollens’ silver mirror."
+        }
+    ,
+        {
+            "id": 61,
+            "question": "Which reagent is used to prepare benzaldehyde from benzoyl chloride?",
+            "options": [
+                "Rosenmund reduction",
+                "Clemmensen reduction",
+                "Cannizzaro reaction",
+                "Aldol condensation"
+            ],
+            "answer": 0,
+            "explanation": "Rosenmund reduction (H2/Pd-BaSO4) converts acid chlorides to aldehydes."
+        },
+        {
+            "id": 62,
+            "question": "What is the major product when $$CH_3COCH_3$$ undergoes Wolff–Kishner reduction?",
+            "options": [
+                "2-Propanol",
+                "Propane",
+                "Propene",
+                "No reaction"
+            ],
+            "answer": 1,
+            "explanation": "Wolff–Kishner reduces ketones to alkanes."
+        },
+        {
+            "id": 63,
+            "question": "Which of the following gives a yellow precipitate with 2,4-DNPH?",
+            "options": [
+                "Aldehydes",
+                "Ketones",
+                "Both aldehydes and ketones",
+                "Carboxylic acids"
+            ],
+            "answer": 2,
+            "explanation": "Both aldehydes and ketones form 2,4-DNPH derivatives."
+        },
+        {
+            "id": 64,
+            "question": "Which acid yields CO2 on treatment with $$NaHCO_3$$?",
+            "options": [
+                "Ethanol",
+                "Phenol",
+                "Benzoic acid",
+                "Acetone"
+            ],
+            "answer": 2,
+            "explanation": "Carboxylic acids react with sodium bicarbonate to release CO2."
+        },
+        {
+            "id": 65,
+            "question": "During aldol condensation, two molecules of aldehyde form:",
+            "options": [
+                "Alcohol only",
+                "Carboxylic acid",
+                "α,β-Unsaturated aldehyde",
+                "Ketone"
+            ],
+            "answer": 2,
+            "explanation": "Aldol condensation yields an α,β-unsaturated carbonyl product."
+        },
+        {
+            "id": 66,
+            "question": "Which test can distinguish ketones from aldehydes?",
+            "options": [
+                "Tollens’ test",
+                "Iodoform test",
+                "Fehling’s test",
+                "Both A & C"
+            ],
+            "answer": 1,
+            "explanation": "Iodoform is positive for methyl ketones but negative for most aldehydes."
+        },
+        {
+            "id": 67,
+            "question": "In the Hell–Volhard–Zelinsky reaction, a carboxylic acid is:",
+            "options": [
+                "α-brominated",
+                "β-brominated",
+                "Aromatic substituted",
+                "Not reactive"
+            ],
+            "answer": 0,
+            "explanation": "In HVZ, acids are brominated at the α-position."
+        },
+        {
+            "id": 68,
+            "question": "Which of the following possesses the highest boiling point?",
+            "options": [
+                "Ethanal",
+                "Ethanol",
+                "Acetic acid",
+                "Ethyl ether"
+            ],
+            "answer": 2,
+            "explanation": "Carboxylic acids form hydrogen-bonded dimers, raising bp."
+        },
+        {
+            "id": 69,
+            "question": "Which of these is not formed from oxidation of $$CH_3COCH_3$$?",
+            "options": [
+                "Acetic acid",
+                "Methanoic acid",
+                "Propionic acid",
+                "Mixture of acids"
+            ],
+            "answer": 2,
+            "explanation": "Ketone cleavage generally yields a mixture but not propionic acid alone."
+        },
+        {
+            "id": 70,
+            "question": "The reaction of benzaldehyde with $$NaOH$$ and formaldehyde gives:",
+            "options": [
+                "Benzyl alcohol",
+                "Sodium formate + benzyl alcohol",
+                "Sodium benzoate",
+                "No reaction"
+            ],
+            "answer": 1,
+            "explanation": "Cross-Cannizzaro between benzaldehyde and formaldehyde yields sodium formate and benzyl alcohol."
+        },
+        {
+            "id": 71,
+            "question": "Which of the following cannot form an aldol product?",
+            "options": [
+                "Acetaldehyde",
+                "Benzaldehyde",
+                "Acetone",
+                "Formaldehyde"
+            ],
+            "answer": 3,
+            "explanation": "Formaldehyde has no α-H, so it cannot form an aldol."
+        },
+        {
+            "id": 72,
+            "question": "The Perkin reaction is used for the preparation of:",
+            "options": [
+                "Ketones",
+                "Aldehydes",
+                "α,β-Unsaturated acids",
+                "Alcohols"
+            ],
+            "answer": 2,
+            "explanation": "Perkin yields α,β-unsaturated carboxylic acids."
+        },
+        {
+            "id": 73,
+            "question": "Which reagent will oxidize benzaldehyde to benzoic acid?",
+            "options": [
+                "Tollens’ reagent",
+                "Fehling’s solution",
+                "KMnO4",
+                "All of the above"
+            ],
+            "answer": 3,
+            "explanation": "All listed can oxidize aldehydes to acids."
+        },
+        {
+            "id": 74,
+            "question": "Which functional derivative traps carbonyls as alcohol derivatives?",
+            "options": [
+                "Schiff’s reagent",
+                "2,4-DNPH",
+                "HCN",
+                "Lucas reagent"
+            ],
+            "answer": 2,
+            "explanation": "HCN forms cyanohydrins with carbonyls."
+        },
+        {
+            "id": 75,
+            "question": "Which of the following increases acidity of carboxylic acids?",
+            "options": [
+                "Electron-withdrawing groups",
+                "Electron-donating groups",
+                "Alkyl groups",
+                "None"
+            ],
+            "answer": 0,
+            "explanation": "EWG stabilize carboxylate, increasing acidity."
+        },
+        {
+            "id": 76,
+            "question": "Which reagent reduces carboxylic acid to alcohol?",
+            "options": [
+                "NaBH4",
+                "LiAlH4",
+                "PCC",
+                "PBr3"
+            ],
+            "answer": 1,
+            "explanation": "LiAlH4 reduces acids to alcohols."
+        },
+        {
+            "id": 77,
+            "question": "Which compound gives a positive iodoform test?",
+            "options": [
+                "Ethanal",
+                "Propanone",
+                "Ethanol",
+                "All of the above"
+            ],
+            "answer": 3,
+            "explanation": "Methyl ketones and ethanol give positive iodoform."
+        },
+        {
+            "id": 78,
+            "question": "Which carbonyl compound is most reactive towards nucleophilic addition?",
+            "options": [
+                "Aldehydes",
+                "Ketones",
+                "Esters",
+                "Amides"
+            ],
+            "answer": 0,
+            "explanation": "Aldehydes are less sterically hindered and more reactive."
+        },
+        {
+            "id": 79,
+            "question": "Which reagent will convert carboxylic acid to acid chloride?",
+            "options": [
+                "PCl5",
+                "SOCl2",
+                "PCl3",
+                "All of the above"
+            ],
+            "answer": 3,
+            "explanation": "All listed reagents convert acids to acid chlorides."
+        },
+        {
+            "id": 80,
+            "question": "Which of the following processes does NOT involve carbonyl formation?",
+            "options": [
+                "Oxidation of primary alcohols",
+                "Dehydrogenation of secondary alcohols",
+                "Hydration of alkenes",
+                "Ozonolysis of alkenes"
+            ],
+            "answer": 2,
+            "explanation": "Hydration of alkenes doesn’t form carbonyl group."
+        },
+        {
+            "id": 81,
+            "question": "Which carbonyl test shows a silver mirror?",
+            "options": [
+                "Tollens’ test",
+                "Iodoform test",
+                "Bromine water",
+                "Lucas test"
+            ],
+            "answer": 0,
+            "explanation": "Tollens’ reagent detects aldehydes by silver mirror."
+        },
+        {
+            "id": 82,
+            "question": "What is the product of esterification of acetic acid with ethanol?",
+            "options": [
+                "Ethyl acetate",
+                "Methyl acetate",
+                "Ethyl alcohol",
+                "Acetic aldehyde"
+            ],
+            "answer": 0,
+            "explanation": "Fischer esterification yields ethyl acetate."
+        },
+        {
+            "id": 83,
+            "question": "Which compound is formed by base-catalysed dehydration of ethanol?",
+            "options": [
+                "Ethene",
+                "Ethane",
+                "Ethanol",
+                "Diethyl ether"
+            ],
+            "answer": 0,
+            "explanation": "Base catalysed dehydration forms ethene."
+        },
+        {
+            "id": 84,
+            "question": "Which reagent would oxidize a primary alcohol to an aldehyde but not to an acid?",
+            "options": [
+                "Chromic acid",
+                "PCC",
+                "KMnO4",
+                "Conc. HNO3"
+            ],
+            "answer": 1,
+            "explanation": "PCC stops oxidation at aldehyde stage."
+        },
+        {
+            "id": 85,
+            "question": "What is the product of the Perkin reaction between benzaldehyde and an acid chloride?",
+            "options": [
+                "Cinnamic acid",
+                "Benzoic acid",
+                "Benzaldehyde",
+                "Benzyl alcohol"
+            ],
+            "answer": 0,
+            "explanation": "Perkin with benzaldehyde gives cinnamic acid."
+        },
+        {
+            "id": 86,
+            "question": "Which of the following compounds does not react with Tollens’ reagent?",
+            "options": [
+                "Benzaldehyde",
+                "Ethanal",
+                "Acetone",
+                "Formaldehyde"
+            ],
+            "answer": 2,
+            "explanation": "Ketones do not give a silver mirror."
+        },
+        {
+            "id": 87,
+            "question": "Which of the following functional groups is most reactive in nucleophilic addition?",
+            "options": [
+                "Aldehyde",
+                "Ketone",
+                "Ester",
+                "Amide"
+            ],
+            "answer": 0,
+            "explanation": "Aldehydes are most reactive toward nucleophilic addition."
+        },
+        {
+            "id": 88,
+            "question": "Which reagent converts carboxylic acid into an ester?",
+            "options": [
+                "NaOH",
+                "H2SO4 + Alcohol",
+                "LiAlH4",
+                "Heat alone"
+            ],
+            "answer": 1,
+            "explanation": "Fischer esterification uses acid and alcohol."
+        },
+        {
+            "id": 89,
+            "question": "What is the product when propanal reacts with HCN?",
+            "options": [
+                "Alcohol",
+                "Cyanohydrin",
+                "Carboxylic acid",
+                "Alkane"
+            ],
+            "answer": 1,
+            "explanation": "HCN adds across carbonyl to form cyanohydrin."
+        },
+        {
+            "id": 90,
+            "question": "Which reagent forms an acetal from an aldehyde?",
+            "options": [
+                "Alcohol + acid",
+                "NaOH",
+                "LiAlH4",
+                "Tollens’ reagent"
+            ],
+            "answer": 0,
+            "explanation": "Acetal formation requires alcohol in acidic conditions."
+        },
+        {
+            "id": 91,
+            "question": "Which reaction involves nucleophilic attack at the carbonyl carbon?",
+            "options": [
+                "Addition of CN⁻",
+                "Cannizzaro",
+                "Aldol",
+                "All of the above"
+            ],
+            "answer": 3,
+            "explanation": "All involve nucleophilic addition to carbonyl."
+        },
+        {
+            "id": 92,
+            "question": "What is the major product of oxidation of ethanol with PCC?",
+            "options": [
+                "Ethanoic acid",
+                "Ethanol",
+                "Ethanal",
+                "Ethane"
+            ],
+            "answer": 2,
+            "explanation": "PCC oxidizes ethanol to ethanal."
+        },
+        {
+            "id": 93,
+            "question": "In which reaction sequence is ethanal converted to ethanoic acid?",
+            "options": [
+                "NaBH4 then KMnO4",
+                "PCC then H2O",
+                "KMnO4 oxidation",
+                "LiAlH4"
+            ],
+            "answer": 2,
+            "explanation": "KMnO4 oxidizes aldehydes to acids."
+        },
+        {
+            "id": 94,
+            "question": "Which test is used to identify aldehydes and ketones forming derivatives?",
+            "options": [
+                "2,4-DNPH",
+                "Lucas reagent",
+                "FeCl3",
+                "Bromine water"
+            ],
+            "answer": 0,
+            "explanation": "2,4-DNPH forms derivatives with carbonyls."
+        },
+        {
+            "id": 95,
+            "question": "What happens when benzaldehyde reacts with excess $$NaOH$$?",
+            "options": [
+                "Aldol condensation",
+                "Cannizzaro reaction",
+                "No reaction",
+                "Reduction"
+            ],
+            "answer": 1,
+            "explanation": "Benzaldehyde undergoes Cannizzaro in base."
+        },
+        {
+            "id": 96,
+            "question": "Which of the following is a derivative of carboxylic acid?",
+            "options": [
+                "Acid chloride",
+                "Ester",
+                "Amide",
+                "All of the above"
+            ],
+            "answer": 3,
+            "explanation": "All are carboxylic acid derivatives."
+        },
+        {
+            "id": 97,
+            "question": "Which of the following organic compounds can be prepared by partial reduction of acid chloride?",
+            "options": [
+                "Aldehyde",
+                "Ketone",
+                "Alcohol",
+                "Carboxylic acid"
+            ],
+            "answer": 0,
+            "explanation": "Partial reduction of acid chloride yields aldehyde."
+        },
+        {
+            "id": 98,
+            "question": "What is the product of ester hydrolysis in acidic medium?",
+            "options": [
+                "Alcohol + acid",
+                "Ketone + water",
+                "Ether + water",
+                "Alcohol only"
+            ],
+            "answer": 0,
+            "explanation": "Acid hydrolysis of esters yields alcohol and acid."
+        },
+        {
+            "id": 99,
+            "question": "Which compound forms a Schiff’s base with primary amines?",
+            "options": [
+                "Aldehydes",
+                "Ketones",
+                "Both aldehydes and ketones",
+                "Carboxylic acids"
+            ],
+            "answer": 2,
+            "explanation": "Carbonyls form Schiff’s bases with amines."
+        },
+        {
+            "id": 100,
+            "question": "Which reaction converts ketones to alkenes via α-elimination?",
+            "options": [
+                "Aldol condensation",
+                "Cannizzaro",
+                "Wittig reaction",
+                "Fischer esterification"
+            ],
+            "answer": 2,
+            "explanation": "Wittig converts carbonyls to alkenes."
+        }
+    ]
+    
+]

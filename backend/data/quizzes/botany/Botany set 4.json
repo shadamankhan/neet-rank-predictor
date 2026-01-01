@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic aid uses a contrasting pair of characters to identify organisms?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Key",
+            "Flora"
+        ],
+        "answer": 2,
+        "explanation": "Keys are based on contrasting characters for identification."
+    },
+    {
+        "id": 2,
+        "question": "Which class of algae has chlorophyll a, c and fucoxanthin?",
+        "options": [
+            "Chlorophyceae",
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Cyanophyceae"
+        ],
+        "answer": 2,
+        "explanation": "Brown algae contain chlorophyll a, c and fucoxanthin."
+    },
+    {
+        "id": 3,
+        "question": "Seeds are absent in:",
+        "options": [
+            "Gymnosperms",
+            "Angiosperms",
+            "Pteridophytes",
+            "Bryophytes"
+        ],
+        "answer": 3,
+        "explanation": "Bryophytes are seedless plants."
+    },
+    {
+        "id": 4,
+        "question": "Which part of flower is responsible for protection in bud stage?",
+        "options": [
+            "Petals",
+            "Sepals",
+            "Stamens",
+            "Carpels"
+        ],
+        "answer": 1,
+        "explanation": "Sepals protect the flower in bud stage."
+    },
+    {
+        "id": 5,
+        "question": "Endarch condition of xylem is found in:",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Seed"
+        ],
+        "answer": 1,
+        "explanation": "In stem, protoxylem lies towards pith showing endarch condition."
+    },
+    {
+        "id": 6,
+        "question": "Which plastid stores starch?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Amyloplast",
+            "Elaioplast"
+        ],
+        "answer": 2,
+        "explanation": "Amyloplast stores starch."
+    },
+    {
+        "id": 7,
+        "question": "Which level of protein structure is stabilised by peptide bonds?",
+        "options": [
+            "Primary",
+            "Secondary",
+            "Tertiary",
+            "Quaternary"
+        ],
+        "answer": 0,
+        "explanation": "Primary structure is maintained by peptide bonds."
+    },
+    {
+        "id": 8,
+        "question": "DNA replication occurs during:",
+        "options": [
+            "G1 phase",
+            "S phase",
+            "G2 phase",
+            "M phase"
+        ],
+        "answer": 1,
+        "explanation": "DNA replication takes place in S phase."
+    },
+    {
+        "id": 9,
+        "question": "Movement of ions against concentration gradient requires:",
+        "options": [
+            "ATP",
+            "Diffusion",
+            "Osmosis",
+            "Mass flow"
+        ],
+        "answer": 0,
+        "explanation": "Active transport requires ATP."
+    },
+    {
+        "id": 10,
+        "question": "Which nutrient is required for synthesis of ATP?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium",
+            "Iron"
+        ],
+        "answer": 1,
+        "explanation": "Phosphorus is a component of ATP."
+    },
+    {
+        "id": 11,
+        "question": "Photolysis of water occurs at:",
+        "options": [
+            "Photosystem I",
+            "Photosystem II",
+            "Cytochrome complex",
+            "ATP synthase"
+        ],
+        "answer": 1,
+        "explanation": "Photolysis occurs at Photosystem II."
+    },
+    {
+        "id": 12,
+        "question": "Which molecule is the first stable product of C3 cycle?",
+        "options": [
+            "RuBP",
+            "Oxaloacetic acid",
+            "3-phosphoglyceric acid",
+            "Malic acid"
+        ],
+        "answer": 2,
+        "explanation": "3-PGA is the first stable product of C3 cycle."
+    },
+    {
+        "id": 13,
+        "question": "Which step of respiration releases maximum energy?",
+        "options": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transport chain",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Maximum ATP is generated in electron transport chain."
+    },
+    {
+        "id": 14,
+        "question": "Which hormone inhibits plant growth?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "Abscisic acid is a growth inhibitor."
+    },
+    {
+        "id": 15,
+        "question": "Triple fusion results in formation of:",
+        "options": [
+            "Zygote",
+            "Embryo",
+            "Endosperm",
+            "Synergids"
+        ],
+        "answer": 2,
+        "explanation": "Triple fusion forms endosperm."
+    },
+    {
+        "id": 16,
+        "question": "Which breeding method exploits hybrid vigour?",
+        "options": [
+            "Inbreeding",
+            "Pureline selection",
+            "Hybridisation",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Hybridisation utilises heterosis."
+    },
+    {
+        "id": 17,
+        "question": "Which microbe is used for production of antibiotics?",
+        "options": [
+            "Rhizobium",
+            "Penicillium",
+            "Methanobacterium",
+            "Azotobacter"
+        ],
+        "answer": 1,
+        "explanation": "Penicillium produces antibiotics."
+    },
+    {
+        "id": 18,
+        "question": "Which enzyme cuts DNA at specific sites?",
+        "options": [
+            "Ligase",
+            "Polymerase",
+            "Restriction endonuclease",
+            "Reverse transcriptase"
+        ],
+        "answer": 2,
+        "explanation": "Restriction endonucleases cut DNA at specific sequences."
+    },
+    {
+        "id": 19,
+        "question": "Logistic growth curve is:",
+        "options": [
+            "J-shaped",
+            "S-shaped",
+            "Linear",
+            "Exponential"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth shows an S-shaped curve."
+    },
+    {
+        "id": 20,
+        "question": "Which ecosystem has lowest primary productivity?",
+        "options": [
+            "Coral reef",
+            "Grassland",
+            "Forest",
+            "Desert"
+        ],
+        "answer": 3,
+        "explanation": "Deserts have lowest productivity."
+    },
+    {
+        "id": 21,
+        "question": "Ex situ conservation includes:",
+        "options": [
+            "National parks",
+            "Wildlife sanctuaries",
+            "Seed banks",
+            "Biosphere reserves"
+        ],
+        "answer": 2,
+        "explanation": "Seed banks are examples of ex situ conservation."
+    },
+    {
+        "id": 22,
+        "question": "Which gas causes greenhouse effect?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide is a greenhouse gas."
+    },
+    {
+        "id": 23,
+        "question": "Five kingdom classification was proposed by:",
+        "options": [
+            "Linnaeus",
+            "Whittaker",
+            "Haeckel",
+            "Mayr"
+        ],
+        "answer": 1,
+        "explanation": "Whittaker proposed five kingdom classification."
+    },
+    {
+        "id": 24,
+        "question": "Reserve food in red algae is:",
+        "options": [
+            "Starch",
+            "Laminarin",
+            "Floridean starch",
+            "Glycogen"
+        ],
+        "answer": 2,
+        "explanation": "Red algae store floridean starch."
+    },
+    {
+        "id": 25,
+        "question": "Which tissue is responsible for secondary growth in roots?",
+        "options": [
+            "Apical meristem",
+            "Intercalary meristem",
+            "Vascular cambium",
+            "Protoderm"
+        ],
+        "answer": 2,
+        "explanation": "Vascular cambium causes secondary growth."
+    },
+    {
+        "id": 26,
+        "question": "Which cell organelle modifies proteins?",
+        "options": [
+            "Ribosome",
+            "Golgi apparatus",
+            "Lysosome",
+            "Peroxisome"
+        ],
+        "answer": 1,
+        "explanation": "Golgi apparatus modifies proteins."
+    },
+    {
+        "id": 27,
+        "question": "Which lipid forms plasma membrane?",
+        "options": [
+            "Triglyceride",
+            "Phospholipid",
+            "Steroid",
+            "Wax"
+        ],
+        "answer": 1,
+        "explanation": "Phospholipids form the basic structure of plasma membrane."
+    },
+    {
+        "id": 28,
+        "question": "Crossing over results in:",
+        "options": [
+            "Reduction in chromosome number",
+            "Formation of chiasmata",
+            "Increase in variability",
+            "Synapsis"
+        ],
+        "answer": 2,
+        "explanation": "Crossing over increases genetic variability."
+    },
+    {
+        "id": 29,
+        "question": "Transpiration occurs mainly through:",
+        "options": [
+            "Cuticle",
+            "Lenticels",
+            "Stomata",
+            "Root hairs"
+        ],
+        "answer": 2,
+        "explanation": "Most transpiration occurs through stomata."
+    },
+    {
+        "id": 30,
+        "question": "Which deficiency causes necrosis of leaf margins?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium",
+            "Magnesium"
+        ],
+        "answer": 2,
+        "explanation": "Potassium deficiency causes necrosis of leaf margins."
+    },
+    {
+        "id": 31,
+        "question": "Which pigment participates directly in light reaction?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a is the primary pigment."
+    },
+    {
+        "id": 32,
+        "question": "Which respiratory substrate gives RQ equal to 1?",
+        "options": [
+            "Fats",
+            "Proteins",
+            "Carbohydrates",
+            "Organic acids"
+        ],
+        "answer": 2,
+        "explanation": "Carbohydrates have RQ of 1."
+    },
+    {
+        "id": 33,
+        "question": "Which hormone breaks seed dormancy?",
+        "options": [
+            "ABA",
+            "Auxin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "Gibberellins help in breaking seed dormancy."
+    },
+    {
+        "id": 34,
+        "question": "Polyembryony refers to:",
+        "options": [
+            "Multiple embryos in one seed",
+            "Multiple ovules in ovary",
+            "Multiple pollen grains",
+            "Multiple seeds in fruit"
+        ],
+        "answer": 0,
+        "explanation": "Polyembryony is presence of more than one embryo in a seed."
+    },
+    {
+        "id": 35,
+        "question": "Which breeding method uses radiation?",
+        "options": [
+            "Hybridisation",
+            "Mutation breeding",
+            "Inbreeding",
+            "Outbreeding"
+        ],
+        "answer": 1,
+        "explanation": "Mutation breeding uses radiation."
+    },
+    {
+        "id": 36,
+        "question": "Which microbe is used in production of vinegar?",
+        "options": [
+            "Saccharomyces",
+            "Acetobacter",
+            "Lactobacillus",
+            "Rhizopus"
+        ],
+        "answer": 1,
+        "explanation": "Acetobacter produces acetic acid."
+    },
+    {
+        "id": 37,
+        "question": "Which vector is commonly used in plants?",
+        "options": [
+            "pBR322",
+            "Ti plasmid",
+            "λ phage",
+            "Cosmid"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid is used as plant vector."
+    },
+    {
+        "id": 38,
+        "question": "Natality increases population by:",
+        "options": [
+            "Deaths",
+            "Immigration",
+            "Births",
+            "Emigration"
+        ],
+        "answer": 2,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 39,
+        "question": "Energy flow in ecosystem is:",
+        "options": [
+            "Cyclic",
+            "Bidirectional",
+            "Unidirectional",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Energy flow is unidirectional."
+    },
+    {
+        "id": 40,
+        "question": "IUCN Red List provides information about:",
+        "options": [
+            "Climate change",
+            "Pollution",
+            "Threatened species",
+            "Ecosystem services"
+        ],
+        "answer": 2,
+        "explanation": "IUCN Red List lists threatened species."
+    },
+    {
+        "id": 41,
+        "question": "Which compound causes biomagnification?",
+        "options": [
+            "Biodegradable wastes",
+            "Heavy metals",
+            "Nitrates",
+            "Carbon dioxide"
+        ],
+        "answer": 1,
+        "explanation": "Heavy metals undergo biomagnification."
+    },
+    {
+        "id": 42,
+        "question": "System of classification based on overall similarities is:",
+        "options": [
+            "Artificial",
+            "Natural",
+            "Phylogenetic",
+            "Numerical"
+        ],
+        "answer": 1,
+        "explanation": "Natural system uses overall similarities."
+    },
+    {
+        "id": 43,
+        "question": "Which algae is used in agar production?",
+        "options": [
+            "Gelidium",
+            "Chlorella",
+            "Ulothrix",
+            "Sargassum"
+        ],
+        "answer": 0,
+        "explanation": "Gelidium is source of agar."
+    },
+    {
+        "id": 44,
+        "question": "Which tissue lies between xylem and phloem in dicot stem?",
+        "options": [
+            "Pericycle",
+            "Cambium",
+            "Cortex",
+            "Pith"
+        ],
+        "answer": 1,
+        "explanation": "Cambium lies between xylem and phloem."
+    },
+    {
+        "id": 45,
+        "question": "Which plastid stores oils?",
+        "options": [
+            "Amyloplast",
+            "Proteinoplast",
+            "Elaioplast",
+            "Chloroplast"
+        ],
+        "answer": 2,
+        "explanation": "Elaioplast stores oils."
+    },
+    {
+        "id": 46,
+        "question": "Which nitrogenous base is absent in RNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Thymine",
+            "Cytosine"
+        ],
+        "answer": 2,
+        "explanation": "RNA contains uracil instead of thymine."
+    },
+    {
+        "id": 47,
+        "question": "Separation of homologous chromosomes occurs in:",
+        "options": [
+            "Meiosis I",
+            "Meiosis II",
+            "Mitosis",
+            "Cytokinesis"
+        ],
+        "answer": 0,
+        "explanation": "Homologous chromosomes separate in meiosis I."
+    },
+    {
+        "id": 48,
+        "question": "Guttation occurs due to:",
+        "options": [
+            "Transpiration pull",
+            "Root pressure",
+            "Diffusion",
+            "Active transport"
+        ],
+        "answer": 1,
+        "explanation": "Guttation is caused by root pressure."
+    },
+    {
+        "id": 49,
+        "question": "Which element is part of nitrogenase enzyme?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Magnesium"
+        ],
+        "answer": 0,
+        "explanation": "Nitrogenase contains iron."
+    },
+    {
+        "id": 50,
+        "question": "Which protocol aims to reduce greenhouse gas emissions?",
+        "options": [
+            "Montreal Protocol",
+            "Kyoto Protocol",
+            "Ramsar Convention",
+            "Stockholm Convention"
+        ],
+        "answer": 1,
+        "explanation": "Kyoto Protocol aims to reduce greenhouse gas emissions."
+    }
+]

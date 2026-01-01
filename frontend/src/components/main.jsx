@@ -1,0 +1,35 @@
+// frontend/src/components/main.jsx
+import React from "react";
+import { createRoot } from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+import Predictor from "../pages/Predictor";
+import DevChecklist from "./components/DevChecklist";
+import AdminPanel from "./AdminPanel";
+import Login from "./Login";
+import ProtectedRoute from "../routes/ProtectedRoute";
+
+// Ensure Firebase initializes before any auth calls
+import "../firebase";
+
+createRoot(document.getElementById("root")).render(
+  <BrowserRouter>
+    <Routes>
+      <Route path="/" element={<Predictor />} />
+      <Route path="/predict" element={<Predictor />} />
+      <Route path="/checklist" element={<DevChecklist />} />   
+      {/* Public sign-in page */}
+      <Route path="/login" element={<Login />} />
+
+      {/* Admin panel protected by client-side guard; server still enforces isAdmin */}
+      <Route
+        path="/admin"
+        element={
+          <ProtectedRoute>
+            <AdminPanel />
+          </ProtectedRoute>
+        }
+      />
+    </Routes>
+  </BrowserRouter>
+);

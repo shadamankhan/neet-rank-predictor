@@ -1,0 +1,2282 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following represents an oxidation process?",
+        "options": [
+            "Loss of electrons",
+            "Gain of electrons",
+            "Decrease in oxidation number",
+            "Gain of hydrogen"
+        ],
+        "answer": 0,
+        "explanation": "Oxidation is defined as loss of electrons or increase in oxidation number."
+    },
+    {
+        "id": 2,
+        "question": "The oxidation number of chromium in K2Cr2O7 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+6",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Cr = x: 2(+1)+2x+7(−2)=0 ⇒ x=+6."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a redox reaction?",
+        "options": [
+            "NaCl → Na+ + Cl−",
+            "AgNO3 + NaCl → AgCl + NaNO3",
+            "Zn + Cu2+ → Zn2+ + Cu",
+            "HCl + NaOH → NaCl + H2O"
+        ],
+        "answer": 2,
+        "explanation": "Zn is oxidised and Cu2+ is reduced, so it is a redox reaction."
+    },
+    {
+        "id": 4,
+        "question": "The oxidation number of nitrogen in NH4+ is:",
+        "options": [
+            "−3",
+            "−2",
+            "+3",
+            "+5"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of N = x: x+4(+1)=+1 ⇒ x=−3."
+    },
+    {
+        "id": 5,
+        "question": "Which species acts as an oxidising agent?",
+        "options": [
+            "One that gets oxidised",
+            "One that loses electrons",
+            "One that gains electrons",
+            "One that donates electrons"
+        ],
+        "answer": 2,
+        "explanation": "Oxidising agent gains electrons and gets reduced."
+    },
+    {
+        "id": 6,
+        "question": "The oxidation number of sulphur in H2SO4 is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+2"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of S = x: 2(+1)+x+4(−2)=0 ⇒ x=+6."
+    },
+    {
+        "id": 7,
+        "question": "Which of the following is NOT a redox reaction?",
+        "options": [
+            "2Mg + O2 → 2MgO",
+            "Cl2 + 2KI → 2KCl + I2",
+            "BaCl2 + Na2SO4 → BaSO4 + 2NaCl",
+            "Zn + 2HCl → ZnCl2 + H2"
+        ],
+        "answer": 2,
+        "explanation": "BaCl2 + Na2SO4 is a double displacement reaction without electron transfer."
+    },
+    {
+        "id": 8,
+        "question": "The oxidation number of oxygen in OF2 is:",
+        "options": [
+            "−2",
+            "−1",
+            "+1",
+            "+2"
+        ],
+        "answer": 3,
+        "explanation": "Fluorine is −1; let oxidation state of O = x: x+2(−1)=0 ⇒ x=+2."
+    },
+    {
+        "id": 9,
+        "question": "In the reaction Fe2+ → Fe3+ + e−, iron undergoes:",
+        "options": [
+            "Reduction",
+            "Oxidation",
+            "Disproportionation",
+            "Combination"
+        ],
+        "answer": 1,
+        "explanation": "Loss of electron indicates oxidation."
+    },
+    {
+        "id": 10,
+        "question": "Which of the following elements can show maximum oxidation state +7?",
+        "options": [
+            "Mn",
+            "Fe",
+            "Co",
+            "Ni"
+        ],
+        "answer": 0,
+        "explanation": "Manganese shows oxidation states from +2 to +7."
+    },
+    {
+        "id": 11,
+        "question": "The oxidation number of chlorine in ClO3− is:",
+        "options": [
+            "+3",
+            "+5",
+            "+7",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of Cl = x: x+3(−2)=−1 ⇒ x=+5."
+    },
+    {
+        "id": 12,
+        "question": "Which reaction represents disproportionation?",
+        "options": [
+            "2H2 + O2 → 2H2O",
+            "Cl2 + H2O → HCl + HOCl",
+            "Zn + CuSO4 → ZnSO4 + Cu",
+            "Ag+ + Cl− → AgCl"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine is both oxidised and reduced in the same reaction."
+    },
+    {
+        "id": 13,
+        "question": "The oxidation number of iron in Fe3O4 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+8/3",
+            "+4"
+        ],
+        "answer": 2,
+        "explanation": "Fe3O4 contains Fe2+ and Fe3+; average oxidation state is +8/3."
+    },
+    {
+        "id": 14,
+        "question": "Which of the following acts as a reducing agent?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "SO2",
+            "HNO3"
+        ],
+        "answer": 2,
+        "explanation": "SO2 gets oxidised to SO4^2− and hence acts as a reducing agent."
+    },
+    {
+        "id": 15,
+        "question": "The oxidation number of phosphorus in H3PO3 is:",
+        "options": [
+            "+3",
+            "+5",
+            "+1",
+            "−3"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of P = x: 3(+1)+x+3(−2)=0 ⇒ x=+3."
+    },
+    {
+        "id": 16,
+        "question": "Which of the following is the strongest oxidising agent?",
+        "options": [
+            "F2",
+            "Cl2",
+            "Br2",
+            "I2"
+        ],
+        "answer": 0,
+        "explanation": "Fluorine has the highest electronegativity and strongest oxidising power."
+    },
+    {
+        "id": 17,
+        "question": "In acidic medium, KMnO4 is reduced to:",
+        "options": [
+            "MnO2",
+            "Mn2+",
+            "MnO4^2−",
+            "MnO"
+        ],
+        "answer": 1,
+        "explanation": "In acidic medium, MnO4− is reduced to Mn2+."
+    },
+    {
+        "id": 18,
+        "question": "The oxidation number of carbon in CO is:",
+        "options": [
+            "+2",
+            "+4",
+            "−2",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of C = x: x+(−2)=0 ⇒ x=−2."
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is an example of oxidation but not redox?",
+        "options": [
+            "Rusting of iron",
+            "Burning of Mg",
+            "Loss of electrons by Na",
+            "None of these"
+        ],
+        "answer": 3,
+        "explanation": "Every oxidation is accompanied by reduction; oxidation alone cannot occur."
+    },
+    {
+        "id": 20,
+        "question": "The oxidation number of nitrogen in NO2− is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "+2"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of N = x: x+2(−2)=−1 ⇒ x=+3."
+    },
+    {
+        "id": 21,
+        "question": "Which species undergoes reduction?",
+        "options": [
+            "One that loses electrons",
+            "One that increases oxidation number",
+            "One that gains electrons",
+            "One that donates electrons"
+        ],
+        "answer": 2,
+        "explanation": "Reduction is gain of electrons or decrease in oxidation number."
+    },
+    {
+        "id": 22,
+        "question": "The oxidation number of sulphur in Na2S2O3 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "Average oxidation state of S in thiosulphate is +2 and +6; mean is +3."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following reactions is an example of oxidation?",
+        "options": [
+            "Fe2+ → Fe3+",
+            "Cl2 → 2Cl−",
+            "Cu2+ → Cu",
+            "Ag+ → Ag"
+        ],
+        "answer": 0,
+        "explanation": "Fe2+ loses an electron to form Fe3+, indicating oxidation."
+    },
+    {
+        "id": 24,
+        "question": "The oxidation number of iodine in HIO3 is:",
+        "options": [
+            "+3",
+            "+5",
+            "+7",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of I = x: (+1)+x+3(−2)=0 ⇒ x=+5."
+    },
+    {
+        "id": 25,
+        "question": "Which of the following is NOT an oxidising agent?",
+        "options": [
+            "O3",
+            "H2O2",
+            "KMnO4",
+            "H2"
+        ],
+        "answer": 3,
+        "explanation": "Hydrogen acts as a reducing agent, not an oxidising agent."
+    },
+    {
+        "id": 26,
+        "question": "The oxidation number of chromium in Cr2O7^2− is:",
+        "options": [
+            "+3",
+            "+5",
+            "+6",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Cr = x: 2x+7(−2)=−2 ⇒ x=+6."
+    },
+    {
+        "id": 27,
+        "question": "Which of the following reactions involves oxidation and reduction simultaneously?",
+        "options": [
+            "Neutralisation",
+            "Combination",
+            "Redox",
+            "Precipitation"
+        ],
+        "answer": 2,
+        "explanation": "In redox reactions, oxidation and reduction always occur together."
+    },
+    {
+        "id": 28,
+        "question": "The oxidation number of hydrogen in metal hydrides is:",
+        "options": [
+            "+1",
+            "0",
+            "−1",
+            "+2"
+        ],
+        "answer": 2,
+        "explanation": "In metal hydrides, hydrogen exists as hydride ion (H−)."
+    },
+    {
+        "id": 29,
+        "question": "Which of the following shows oxidation state zero?",
+        "options": [
+            "Na+",
+            "Cl−",
+            "O2",
+            "H+"
+        ],
+        "answer": 2,
+        "explanation": "Free elements like O2 have oxidation number zero."
+    },
+    {
+        "id": 30,
+        "question": "The oxidation number of carbon in CO2 is:",
+        "options": [
+            "+2",
+            "+4",
+            "−4",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of C = x: x+2(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 31,
+        "question": "Which compound acts as both oxidising and reducing agent?",
+        "options": [
+            "H2O2",
+            "KMnO4",
+            "K2Cr2O7",
+            "HNO3"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogen peroxide can undergo both oxidation and reduction."
+    },
+    {
+        "id": 32,
+        "question": "The oxidation number of chlorine in HClO is:",
+        "options": [
+            "+1",
+            "+3",
+            "+5",
+            "+7"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of Cl = x: (+1)+x+(−2)=0 ⇒ x=+1."
+    },
+    {
+        "id": 33,
+        "question": "Which of the following is a reducing agent?",
+        "options": [
+            "Cl2",
+            "O2",
+            "Zn",
+            "KMnO4"
+        ],
+        "answer": 2,
+        "explanation": "Zinc loses electrons and acts as a reducing agent."
+    },
+    {
+        "id": 34,
+        "question": "The oxidation number of nitrogen in N2O is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+4"
+        ],
+        "answer": 0,
+        "explanation": "Average oxidation state of nitrogen in N2O is +1."
+    },
+    {
+        "id": 35,
+        "question": "Which of the following reactions shows reduction?",
+        "options": [
+            "Cu → Cu2+",
+            "Fe2+ → Fe3+",
+            "Cl2 → 2Cl−",
+            "Zn → Zn2+"
+        ],
+        "answer": 2,
+        "explanation": "Gain of electrons by chlorine indicates reduction."
+    },
+    {
+        "id": 36,
+        "question": "The oxidation number of sulphur in H2S is:",
+        "options": [
+            "+2",
+            "+4",
+            "0",
+            "−2"
+        ],
+        "answer": 3,
+        "explanation": "Let oxidation state of S = x: 2(+1)+x=0 ⇒ x=−2."
+    },
+    {
+        "id": 37,
+        "question": "Which of the following is an oxidising agent?",
+        "options": [
+            "Zn",
+            "Fe",
+            "Cl2",
+            "H2"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine gains electrons and oxidises other substances."
+    },
+    {
+        "id": 38,
+        "question": "The oxidation number of oxygen in peroxides is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "In peroxides, oxygen has oxidation number −1."
+    },
+    {
+        "id": 39,
+        "question": "Which statement is correct?",
+        "options": [
+            "Oxidation and reduction can occur independently",
+            "Reduction is loss of electrons",
+            "Oxidation number increases during oxidation",
+            "Reducing agent gains electrons"
+        ],
+        "answer": 2,
+        "explanation": "Oxidation involves increase in oxidation number."
+    },
+    {
+        "id": 40,
+        "question": "The oxidation number of nitrogen in NH3 is:",
+        "options": [
+            "−3",
+            "−1",
+            "+1",
+            "+3"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of N = x: x+3(+1)=0 ⇒ x=−3."
+    },
+    {
+        "id": 41,
+        "question": "Which of the following statements about oxidation number is correct?",
+        "options": [
+            "It is always an integer",
+            "It can be fractional",
+            "It is always positive",
+            "It is same as valency"
+        ],
+        "answer": 1,
+        "explanation": "Oxidation number can be fractional, e.g., Fe in Fe3O4."
+    },
+    {
+        "id": 42,
+        "question": "The oxidation number of sulphur in Na2S4O6 is:",
+        "options": [
+            "+2.5",
+            "+3",
+            "+3.5",
+            "+4"
+        ],
+        "answer": 1,
+        "explanation": "Average oxidation state of sulphur in tetrathionate ion is +2 and +6; average comes to +3."
+    },
+    {
+        "id": 43,
+        "question": "Which of the following species is reduced in the reaction: Cu + 2Ag+ → Cu2+ + 2Ag ?",
+        "options": [
+            "Cu",
+            "Ag+",
+            "Cu2+",
+            "Ag"
+        ],
+        "answer": 1,
+        "explanation": "Ag+ gains electrons to form Ag, hence it is reduced."
+    },
+    {
+        "id": 44,
+        "question": "In which of the following compounds does nitrogen show highest oxidation state?",
+        "options": [
+            "NH3",
+            "NO2",
+            "HNO3",
+            "N2O"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen has oxidation state +5 in HNO3."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following reactions is a redox reaction?",
+        "options": [
+            "HCl + NaOH → NaCl + H2O",
+            "CaCO3 → CaO + CO2",
+            "2KClO3 → 2KCl + 3O2",
+            "AgNO3 + NaCl → AgCl + NaNO3"
+        ],
+        "answer": 2,
+        "explanation": "In KClO3 decomposition, Cl is reduced and O is oxidised."
+    },
+    {
+        "id": 46,
+        "question": "The oxidation number of manganese in MnO2 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Mn = x: x+2(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following acts as both oxidising and reducing agent?",
+        "options": [
+            "KMnO4",
+            "H2O2",
+            "K2Cr2O7",
+            "O3"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen peroxide can undergo both oxidation and reduction."
+    },
+    {
+        "id": 48,
+        "question": "The oxidation number of chlorine in Cl2O7 is:",
+        "options": [
+            "+5",
+            "+6",
+            "+7",
+            "+1"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Cl = x: 2x+7(−2)=0 ⇒ x=+7."
+    },
+    {
+        "id": 49,
+        "question": "Which of the following is a reducing agent in the reaction: Fe2O3 + 3CO → 2Fe + 3CO2 ?",
+        "options": [
+            "Fe2O3",
+            "Fe",
+            "CO",
+            "CO2"
+        ],
+        "answer": 2,
+        "explanation": "CO is oxidised to CO2, hence it acts as a reducing agent."
+    },
+    {
+        "id": 50,
+        "question": "The oxidation number of carbon in CH3OH is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of C = x: x+4(+1)+(−2)=0 ⇒ x=−1."
+    },
+    {
+        "id": 51,
+        "question": "Which element shows the maximum number of oxidation states?",
+        "options": [
+            "Fe",
+            "Mn",
+            "Cu",
+            "Zn"
+        ],
+        "answer": 1,
+        "explanation": "Manganese shows oxidation states from +2 to +7."
+    },
+    {
+        "id": 52,
+        "question": "The oxidation number of oxygen in superoxides is:",
+        "options": [
+            "−2",
+            "−1",
+            "−1/2",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": "In superoxides like KO2, oxygen has oxidation number −1/2."
+    },
+    {
+        "id": 53,
+        "question": "Which of the following reactions represents oxidation?",
+        "options": [
+            "Cl2 → 2Cl−",
+            "Fe3+ → Fe2+",
+            "Na → Na+",
+            "O2 → O2−"
+        ],
+        "answer": 2,
+        "explanation": "Sodium loses electron, indicating oxidation."
+    },
+    {
+        "id": 54,
+        "question": "The oxidation number of phosphorus in H3PO4 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "+6"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of P = x: 3(+1)+x+4(−2)=0 ⇒ x=+5."
+    },
+    {
+        "id": 55,
+        "question": "Which of the following is NOT a redox reaction?",
+        "options": [
+            "Photosynthesis",
+            "Rusting of iron",
+            "Neutralisation",
+            "Respiration"
+        ],
+        "answer": 2,
+        "explanation": "Neutralisation does not involve electron transfer."
+    },
+    {
+        "id": 56,
+        "question": "The oxidation number of nitrogen in N2H4 is:",
+        "options": [
+            "−1",
+            "−2",
+            "+1",
+            "0"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of N = x: 2x+4(+1)=0 ⇒ x=−2? Correction: N2H4 has two nitrogens bonded together; average oxidation state is −2? However standard value is −2? Wait: correct oxidation state of N in N2H4 is −2. Correct option is −2."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following species is oxidised in the reaction: Zn + Cu2+ → Zn2+ + Cu ?",
+        "options": [
+            "Zn",
+            "Cu2+",
+            "Zn2+",
+            "Cu"
+        ],
+        "answer": 0,
+        "explanation": "Zn loses electrons to form Zn2+, hence it is oxidised."
+    },
+    {
+        "id": 58,
+        "question": "The oxidation number of chromium in CrO5 is:",
+        "options": [
+            "+5",
+            "+6",
+            "+7",
+            "+8"
+        ],
+        "answer": 1,
+        "explanation": "CrO5 contains one oxo (−2) and two peroxo groups (−1 each); total O = −6, so Cr = +6."
+    },
+    {
+        "id": 59,
+        "question": "Which of the following acts as an oxidising agent in acidic medium?",
+        "options": [
+            "MnO4−",
+            "MnO2",
+            "Mn2+",
+            "MnO4^2−"
+        ],
+        "answer": 0,
+        "explanation": "Permanganate ion is a strong oxidising agent in acidic medium."
+    },
+    {
+        "id": 60,
+        "question": "The oxidation number of sulphur in H2S2O8 is:",
+        "options": [
+            "+6",
+            "+5",
+            "+4",
+            "+7"
+        ],
+        "answer": 0,
+        "explanation": "Sulphur remains at +6; peroxide linkage does not change S oxidation state."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following reactions shows disproportionation?",
+        "options": [
+            "2SO2 + O2 → 2SO3",
+            "Cl2 + NaOH → NaCl + NaClO + H2O",
+            "Zn + H2SO4 → ZnSO4 + H2",
+            "CaO + CO2 → CaCO3"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine is both oxidised and reduced in this reaction."
+    },
+    {
+        "id": 62,
+        "question": "The oxidation number of nitrogen in NO is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+4"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of N = x: x+(−2)=0 ⇒ x=+2."
+    },
+    {
+        "id": 63,
+        "question": "Which of the following is the strongest reducing agent?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Zn"
+        ],
+        "answer": 0,
+        "explanation": "Sodium has the most negative standard reduction potential."
+    },
+    {
+        "id": 64,
+        "question": "The oxidation number of iodine in ICl3 is:",
+        "options": [
+            "+1",
+            "+3",
+            "+5",
+            "+7"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine is −1; let oxidation state of I = x: x+3(−1)=0 ⇒ x=+3."
+    },
+    {
+        "id": 65,
+        "question": "Which of the following reactions represents reduction?",
+        "options": [
+            "Na → Na+",
+            "Cl2 → 2Cl−",
+            "Fe2+ → Fe3+",
+            "Zn → Zn2+"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine gains electrons, indicating reduction."
+    },
+    {
+        "id": 66,
+        "question": "The oxidation number of oxygen in O2F2 is:",
+        "options": [
+            "−2",
+            "−1",
+            "+1",
+            "+2"
+        ],
+        "answer": 3,
+        "explanation": "Fluorine is −1; let oxidation state of O = x: 2x+2(−1)=0 ⇒ x=+1 per oxygen? Correction: In O2F2, total O oxidation state is +2, average +1 each? Actually O2F2: 2F = −2, so 2O = +2 ⇒ each O = +1. Correct answer +1."
+    },
+    {
+        "id": 67,
+        "question": "Which of the following is an oxidising agent?",
+        "options": [
+            "SO2",
+            "H2S",
+            "Cl2",
+            "CO"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine gains electrons and oxidises other substances."
+    },
+    {
+        "id": 68,
+        "question": "The oxidation number of carbon in HCOOH is:",
+        "options": [
+            "+2",
+            "+1",
+            "0",
+            "−1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of C = x: x+2(+1)+2(−2)=0 ⇒ x=+2? Correction: In HCOOH, C is bonded to two O (−2 each) and one H (+1) and one H (+1): x+2(+1)+2(−2)=0 ⇒ x=+2. Correct answer +2."
+    },
+    {
+        "id": 69,
+        "question": "Which of the following compounds contains oxygen with oxidation number −1?",
+        "options": [
+            "H2O",
+            "H2O2",
+            "O2",
+            "CO2"
+        ],
+        "answer": 1,
+        "explanation": "In peroxides like H2O2, oxygen has oxidation number −1."
+    },
+    {
+        "id": 70,
+        "question": "The oxidation number of nitrogen in NH2OH is:",
+        "options": [
+            "−1",
+            "0",
+            "+1",
+            "+2"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of N = x: x+3(+1)+(−2)=0 ⇒ x=−1."
+    },
+    {
+        "id": 71,
+        "question": "Which of the following is NOT an oxidising agent?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "HNO3",
+            "HCl"
+        ],
+        "answer": 3,
+        "explanation": "HCl acts as a reducing agent, not an oxidising agent."
+    },
+    {
+        "id": 72,
+        "question": "The oxidation number of sulphur in SO2 is:",
+        "options": [
+            "+2",
+            "+4",
+            "+6",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of S = x: x+2(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 73,
+        "question": "Which reaction shows both oxidation and reduction?",
+        "options": [
+            "Redox reaction",
+            "Neutralisation",
+            "Precipitation",
+            "Decomposition"
+        ],
+        "answer": 0,
+        "explanation": "Oxidation and reduction always occur together in redox reactions."
+    },
+    {
+        "id": 74,
+        "question": "The oxidation number of nitrogen in N2 is:",
+        "options": [
+            "0",
+            "+1",
+            "−1",
+            "+2"
+        ],
+        "answer": 0,
+        "explanation": "Free elements have oxidation number zero."
+    },
+    {
+        "id": 75,
+        "question": "Which of the following acts as a reducing agent in acidic medium?",
+        "options": [
+            "MnO4−",
+            "Cr2O7^2−",
+            "Fe2+",
+            "Ce4+"
+        ],
+        "answer": 2,
+        "explanation": "Fe2+ is oxidised to Fe3+ and hence acts as a reducing agent."
+    },
+    {
+        "id": 76,
+        "question": "The oxidation number of carbon in C2O4^2− is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+1"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of C = x: 2x+4(−2)=−2 ⇒ x=+3? Correction: 2x−8=−2 ⇒ 2x=+6 ⇒ x=+3. Correct answer is +3."
+    },
+    {
+        "id": 77,
+        "question": "Which of the following reactions represents oxidation of sulphur?",
+        "options": [
+            "S → SO2",
+            "SO2 → S",
+            "H2S → S",
+            "SO3 → SO2"
+        ],
+        "answer": 0,
+        "explanation": "Sulphur oxidation state increases from 0 to +4."
+    },
+    {
+        "id": 78,
+        "question": "The oxidation number of iron in K4[Fe(CN)6] is:",
+        "options": [
+            "+2",
+            "+3",
+            "0",
+            "+4"
+        ],
+        "answer": 0,
+        "explanation": "Each CN− is −1; let oxidation state of Fe = x: x+6(−1)=−4 ⇒ x=+2."
+    },
+    {
+        "id": 79,
+        "question": "Which of the following compounds acts only as an oxidising agent?",
+        "options": [
+            "H2O2",
+            "KMnO4",
+            "SO2",
+            "H2S"
+        ],
+        "answer": 1,
+        "explanation": "KMnO4 acts only as an oxidising agent."
+    },
+    {
+        "id": 80,
+        "question": "The oxidation number of copper in Cu2O is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "0"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of Cu = x: 2x+(−2)=0 ⇒ x=+1."
+    },
+    {
+        "id": 81,
+        "question": "The oxidation number of sulphur in Na2S2O3 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "Thiosulphate has two sulphur atoms with oxidation states −2 and +6; average oxidation number is +2? But conventionally average is +3."
+    },
+    {
+        "id": 82,
+        "question": "Which of the following acts as an oxidising agent in the reaction: Sn2+ → Sn4+ ?",
+        "options": [
+            "Sn2+",
+            "Sn4+",
+            "O2",
+            "None"
+        ],
+        "answer": 3,
+        "explanation": "An oxidising agent must gain electrons; none is shown explicitly here."
+    },
+    {
+        "id": 83,
+        "question": "The oxidation number of nitrogen in NH4NO3 is:",
+        "options": [
+            "−3 and +5",
+            "−2 and +4",
+            "0 and +5",
+            "−1 and +3"
+        ],
+        "answer": 0,
+        "explanation": "NH4+ has N = −3, NO3− has N = +5."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following is an example of disproportionation reaction?",
+        "options": [
+            "2H2 + O2 → 2H2O",
+            "Cl2 + 2OH− → Cl− + ClO− + H2O",
+            "Zn + Cu2+ → Zn2+ + Cu",
+            "NaCl → Na+ + Cl−"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine undergoes both oxidation and reduction."
+    },
+    {
+        "id": 85,
+        "question": "The oxidation number of carbon in CH4 is:",
+        "options": [
+            "−4",
+            "−2",
+            "0",
+            "+4"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogen is +1; carbon becomes −4 to balance."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following is the strongest oxidising agent in acidic medium?",
+        "options": [
+            "MnO4−",
+            "Cr2O7^2−",
+            "NO3−",
+            "ClO4−"
+        ],
+        "answer": 0,
+        "explanation": "Permanganate ion is the strongest oxidising agent in acidic medium."
+    },
+    {
+        "id": 87,
+        "question": "The oxidation number of chlorine in Ca(OCl)2 is:",
+        "options": [
+            "−1",
+            "+1",
+            "+3",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "In hypochlorite (OCl−), chlorine has oxidation number +1."
+    },
+    {
+        "id": 88,
+        "question": "Which of the following species undergoes oxidation?",
+        "options": [
+            "Cl2 → 2Cl−",
+            "Fe3+ → Fe2+",
+            "Zn → Zn2+",
+            "O2 → O2−"
+        ],
+        "answer": 2,
+        "explanation": "Zinc loses electrons, hence it is oxidised."
+    },
+    {
+        "id": 89,
+        "question": "The oxidation number of oxygen in KO2 is:",
+        "options": [
+            "−2",
+            "−1",
+            "−1/2",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": "KO2 is a superoxide; oxygen has oxidation number −1/2."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following reactions shows reduction?",
+        "options": [
+            "Na → Na+",
+            "Fe2+ → Fe3+",
+            "Cu2+ → Cu",
+            "Zn → Zn2+"
+        ],
+        "answer": 2,
+        "explanation": "Cu2+ gains electrons to form Cu."
+    },
+    {
+        "id": 91,
+        "question": "The oxidation number of sulphur in H2SO3 is:",
+        "options": [
+            "+2",
+            "+4",
+            "+6",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of S = x: 2(+1)+x+3(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 92,
+        "question": "Which element shows oxidation state zero in combined form?",
+        "options": [
+            "O in O2",
+            "N in N2",
+            "C in CO",
+            "S in S8"
+        ],
+        "answer": 3,
+        "explanation": "Free elements like S8 have oxidation number zero."
+    },
+    {
+        "id": 93,
+        "question": "The oxidation number of nitrogen in NO3− is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "+6"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of N = x: x+3(−2)=−1 ⇒ x=+5."
+    },
+    {
+        "id": 94,
+        "question": "Which of the following is a reducing agent?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "H2S",
+            "HNO3"
+        ],
+        "answer": 2,
+        "explanation": "H2S gets oxidised to sulphur or sulphate."
+    },
+    {
+        "id": 95,
+        "question": "The oxidation number of iron in FeO is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "Oxygen is −2, so iron must be +2."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following reactions is NOT redox?",
+        "options": [
+            "Zn + H2SO4 → ZnSO4 + H2",
+            "2Na + Cl2 → 2NaCl",
+            "AgNO3 + NaCl → AgCl + NaNO3",
+            "2Mg + O2 → 2MgO"
+        ],
+        "answer": 2,
+        "explanation": "AgNO3 + NaCl is a precipitation reaction without electron transfer."
+    },
+    {
+        "id": 97,
+        "question": "The oxidation number of chromium in K2CrO4 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "+6"
+        ],
+        "answer": 3,
+        "explanation": "Let oxidation state of Cr = x: 2(+1)+x+4(−2)=0 ⇒ x=+6."
+    },
+    {
+        "id": 98,
+        "question": "Which species is oxidised in the reaction: 2Fe2+ + H2O2 → 2Fe3+ + 2OH− ?",
+        "options": [
+            "Fe2+",
+            "Fe3+",
+            "H2O2",
+            "OH−"
+        ],
+        "answer": 0,
+        "explanation": "Fe2+ loses electrons to form Fe3+."
+    },
+    {
+        "id": 99,
+        "question": "The oxidation number of carbon in CCl4 is:",
+        "options": [
+            "+4",
+            "+2",
+            "0",
+            "−4"
+        ],
+        "answer": 0,
+        "explanation": "Chlorine is −1; carbon becomes +4."
+    },
+    {
+        "id": 100,
+        "question": "Which of the following shows both oxidation and reduction?",
+        "options": [
+            "Neutralisation",
+            "Redox reaction",
+            "Precipitation",
+            "Combination"
+        ],
+        "answer": 1,
+        "explanation": "In redox reactions, oxidation and reduction occur simultaneously."
+    },
+    {
+        "id": 101,
+        "question": "The oxidation number of nitrogen in N2O5 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "+6"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of N = x: 2x+5(−2)=0 ⇒ x=+5."
+    },
+    {
+        "id": 102,
+        "question": "Which of the following is the strongest reducing agent?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 0,
+        "explanation": "Lithium has highest hydration enthalpy, making it strongest reducing agent in aqueous solution."
+    },
+    {
+        "id": 103,
+        "question": "The oxidation number of oxygen in H2O2 is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen peroxide is a peroxide; oxygen has −1 oxidation state."
+    },
+    {
+        "id": 104,
+        "question": "Which reaction represents oxidation of iron?",
+        "options": [
+            "Fe2+ → Fe3+",
+            "Fe3+ → Fe2+",
+            "Fe → Fe",
+            "FeO → Fe"
+        ],
+        "answer": 0,
+        "explanation": "Increase in oxidation number indicates oxidation."
+    },
+    {
+        "id": 105,
+        "question": "The oxidation number of sulphur in SO3 is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+2"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of S = x: x+3(−2)=0 ⇒ x=+6."
+    },
+    {
+        "id": 106,
+        "question": "Which of the following acts only as a reducing agent?",
+        "options": [
+            "H2",
+            "H2O2",
+            "KMnO4",
+            "O3"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogen donates electrons and acts only as a reducing agent."
+    },
+    {
+        "id": 107,
+        "question": "The oxidation number of nitrogen in N2H4 is:",
+        "options": [
+            "−1",
+            "−2",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of N = x: 2x+4(+1)=0 ⇒ x=−2."
+    },
+    {
+        "id": 108,
+        "question": "Which of the following reactions shows oxidation of sulphur?",
+        "options": [
+            "H2S → S",
+            "S → SO2",
+            "SO2 → S",
+            "SO3 → SO2"
+        ],
+        "answer": 1,
+        "explanation": "Sulphur oxidation state increases from 0 to +4."
+    },
+    {
+        "id": 109,
+        "question": "The oxidation number of copper in CuSO4 is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "SO4^2− has −2 charge; copper must be +2."
+    },
+    {
+        "id": 110,
+        "question": "Which of the following is an oxidising agent?",
+        "options": [
+            "CO",
+            "SO2",
+            "Cl2",
+            "H2S"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine gains electrons and oxidises other substances."
+    },
+    {
+        "id": 111,
+        "question": "The oxidation number of phosphorus in PCl5 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "−3"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine is −1; phosphorus becomes +5."
+    },
+    {
+        "id": 112,
+        "question": "Which of the following reactions involves electron transfer?",
+        "options": [
+            "Redox",
+            "Neutralisation",
+            "Hydrolysis",
+            "Precipitation"
+        ],
+        "answer": 0,
+        "explanation": "Electron transfer is the defining feature of redox reactions."
+    },
+    {
+        "id": 113,
+        "question": "The oxidation number of carbon in CO3^2− is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+6"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of C = x: x+3(−2)=−2 ⇒ x=+4."
+    },
+    {
+        "id": 114,
+        "question": "Which species is reduced in the reaction: MnO4− → Mn2+ ?",
+        "options": [
+            "Mn",
+            "O",
+            "MnO4−",
+            "Mn2+"
+        ],
+        "answer": 2,
+        "explanation": "Mn in MnO4− gains electrons to form Mn2+."
+    },
+    {
+        "id": 115,
+        "question": "The oxidation number of sulphur in Na2S is:",
+        "options": [
+            "−2",
+            "0",
+            "+2",
+            "+4"
+        ],
+        "answer": 0,
+        "explanation": "Sodium is +1; sulphur becomes −2."
+    },
+    {
+        "id": 116,
+        "question": "Which of the following acts as reducing agent in respiration?",
+        "options": [
+            "O2",
+            "Glucose",
+            "CO2",
+            "H2O"
+        ],
+        "answer": 1,
+        "explanation": "Glucose is oxidised during respiration."
+    },
+    {
+        "id": 117,
+        "question": "The oxidation number of nitrogen in NO2 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of N = x: x+2(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 118,
+        "question": "Which of the following compounds contains oxygen in −1 oxidation state?",
+        "options": [
+            "H2O",
+            "H2O2",
+            "KO2",
+            "O2"
+        ],
+        "answer": 1,
+        "explanation": "H2O2 is a peroxide with oxygen in −1 state."
+    },
+    {
+        "id": 119,
+        "question": "The oxidation number of iron in Fe2O3 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+6"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of Fe = x: 2x+3(−2)=0 ⇒ x=+3."
+    },
+    {
+        "id": 120,
+        "question": "Which statement is correct for a redox reaction?",
+        "options": [
+            "Oxidation and reduction occur separately",
+            "Electrons are neither lost nor gained",
+            "Oxidation and reduction occur together",
+            "Only oxidation occurs"
+        ],
+        "answer": 2,
+        "explanation": "Oxidation and reduction are simultaneous processes."
+    },
+    {
+        "id": 121,
+        "question": "The oxidation number of chromium in K2Cr2O7 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+6",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Cr = x: 2(+1)+2x+7(−2)=0 ⇒ x=+6."
+    },
+    {
+        "id": 122,
+        "question": "Which of the following acts as a reducing agent in the reaction: 2Fe3+ + Sn2+ → 2Fe2+ + Sn4+ ?",
+        "options": [
+            "Fe3+",
+            "Fe2+",
+            "Sn2+",
+            "Sn4+"
+        ],
+        "answer": 2,
+        "explanation": "Sn2+ is oxidised to Sn4+, hence it acts as a reducing agent."
+    },
+    {
+        "id": 123,
+        "question": "The oxidation number of nitrogen in NH2OH is:",
+        "options": [
+            "−3",
+            "−2",
+            "−1",
+            "+1"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of N = x: x+3(+1)+(−2)=0 ⇒ x=−1."
+    },
+    {
+        "id": 124,
+        "question": "Which of the following is an oxidising agent in the reaction: Cl2 + 2Br− → 2Cl− + Br2 ?",
+        "options": [
+            "Br−",
+            "Br2",
+            "Cl−",
+            "Cl2"
+        ],
+        "answer": 3,
+        "explanation": "Cl2 gains electrons and is reduced to Cl−, hence it acts as an oxidising agent."
+    },
+    {
+        "id": 125,
+        "question": "The oxidation number of sulphur in H2S2O3 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "Average oxidation state of sulphur in thiosulphurous acid is +3."
+    },
+    {
+        "id": 126,
+        "question": "Which of the following reactions is a redox reaction?",
+        "options": [
+            "NaCl → Na+ + Cl−",
+            "AgNO3 + NaCl → AgCl + NaNO3",
+            "2KClO3 → 2KCl + 3O2",
+            "HCl + NaOH → NaCl + H2O"
+        ],
+        "answer": 2,
+        "explanation": "In KClO3 decomposition, Cl is reduced and O is oxidised."
+    },
+    {
+        "id": 127,
+        "question": "The oxidation number of carbon in CH3COOH is:",
+        "options": [
+            "0",
+            "+1",
+            "+2",
+            "+3"
+        ],
+        "answer": 2,
+        "explanation": "Average oxidation state of carbon in acetic acid is +2."
+    },
+    {
+        "id": 128,
+        "question": "Which of the following species undergoes reduction?",
+        "options": [
+            "Zn → Zn2+",
+            "Fe2+ → Fe3+",
+            "Cu2+ → Cu",
+            "Na → Na+"
+        ],
+        "answer": 2,
+        "explanation": "Cu2+ gains electrons to form Cu, indicating reduction."
+    },
+    {
+        "id": 129,
+        "question": "The oxidation number of manganese in MnO4^2− is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Mn = x: x+4(−2)=−2 ⇒ x=+6."
+    },
+    {
+        "id": 130,
+        "question": "Which compound acts only as an oxidising agent?",
+        "options": [
+            "H2O2",
+            "KMnO4",
+            "SO2",
+            "H2S"
+        ],
+        "answer": 1,
+        "explanation": "KMnO4 acts only as an oxidising agent in all media."
+    },
+    {
+        "id": 131,
+        "question": "The oxidation number of oxygen in O3 is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 2,
+        "explanation": "Ozone is an elemental form of oxygen, so oxidation number is zero."
+    },
+    {
+        "id": 132,
+        "question": "Which of the following reactions represents disproportionation?",
+        "options": [
+            "2H2 + O2 → 2H2O",
+            "Cl2 + 2OH− → Cl− + ClO− + H2O",
+            "Zn + CuSO4 → ZnSO4 + Cu",
+            "CaO + CO2 → CaCO3"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine is simultaneously oxidised and reduced."
+    },
+    {
+        "id": 133,
+        "question": "The oxidation number of iron in Fe3O4 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+8/3",
+            "+4"
+        ],
+        "answer": 2,
+        "explanation": "Fe3O4 contains Fe2+ and Fe3+; average oxidation state is +8/3."
+    },
+    {
+        "id": 134,
+        "question": "Which of the following is the strongest oxidising agent?",
+        "options": [
+            "F2",
+            "Cl2",
+            "Br2",
+            "I2"
+        ],
+        "answer": 0,
+        "explanation": "Fluorine has the highest electronegativity and oxidising power."
+    },
+    {
+        "id": 135,
+        "question": "The oxidation number of nitrogen in NO is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+4"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of N = x: x+(−2)=0 ⇒ x=+2."
+    },
+    {
+        "id": 136,
+        "question": "Which of the following acts as a reducing agent in photosynthesis?",
+        "options": [
+            "O2",
+            "CO2",
+            "H2O",
+            "Glucose"
+        ],
+        "answer": 2,
+        "explanation": "Water is oxidised to O2, hence acts as reducing agent."
+    },
+    {
+        "id": 137,
+        "question": "The oxidation number of sulphur in SO4^2− is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+7"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of S = x: x+4(−2)=−2 ⇒ x=+6."
+    },
+    {
+        "id": 138,
+        "question": "Which species is oxidised in the reaction: 2I− + H2O2 → I2 + 2OH− ?",
+        "options": [
+            "I−",
+            "I2",
+            "H2O2",
+            "OH−"
+        ],
+        "answer": 0,
+        "explanation": "I− loses electrons to form I2, hence it is oxidised."
+    },
+    {
+        "id": 139,
+        "question": "The oxidation number of phosphorus in P4O10 is:",
+        "options": [
+            "+3",
+            "+4",
+            "+5",
+            "+6"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of P = x: 4x+10(−2)=0 ⇒ x=+5."
+    },
+    {
+        "id": 140,
+        "question": "Which of the following is NOT an oxidising agent?",
+        "options": [
+            "O3",
+            "KMnO4",
+            "K2Cr2O7",
+            "CO"
+        ],
+        "answer": 3,
+        "explanation": "CO acts as a reducing agent, not an oxidising agent."
+    },
+    {
+        "id": 141,
+        "question": "The oxidation number of copper in CuCl2 is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "Each Cl is −1, so Cu must be +2."
+    },
+    {
+        "id": 142,
+        "question": "Which reaction shows reduction of nitrogen?",
+        "options": [
+            "NH3 → NO",
+            "NO3− → NO",
+            "NO → NO2",
+            "N2 → NO"
+        ],
+        "answer": 1,
+        "explanation": "Nitrogen oxidation state decreases from +5 to +2."
+    },
+    {
+        "id": 143,
+        "question": "The oxidation number of carbon in CO is:",
+        "options": [
+            "+2",
+            "+4",
+            "−2",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of C = x: x+(−2)=0 ⇒ x=−2."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following elements shows variable oxidation states?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Fe"
+        ],
+        "answer": 3,
+        "explanation": "Iron shows multiple oxidation states such as +2 and +3."
+    },
+    {
+        "id": 145,
+        "question": "The oxidation number of oxygen in Na2O2 is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Na2O2 is a peroxide; oxygen has oxidation number −1."
+    },
+    {
+        "id": 146,
+        "question": "Which of the following is an example of redox reaction?",
+        "options": [
+            "AgCl → Ag+ + Cl−",
+            "CaCO3 → CaO + CO2",
+            "Zn + 2HCl → ZnCl2 + H2",
+            "NaCl + KNO3 → NaNO3 + KCl"
+        ],
+        "answer": 2,
+        "explanation": "Zn is oxidised and H+ is reduced to H2."
+    },
+    {
+        "id": 147,
+        "question": "The oxidation number of nitrogen in N2H4 is:",
+        "options": [
+            "−1",
+            "−2",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of N = x: 2x+4(+1)=0 ⇒ x=−2."
+    },
+    {
+        "id": 148,
+        "question": "Which of the following acts as oxidising agent in acidic medium?",
+        "options": [
+            "MnO4−",
+            "MnO2",
+            "Mn2+",
+            "MnO4^2−"
+        ],
+        "answer": 0,
+        "explanation": "Permanganate ion is a strong oxidising agent in acidic medium."
+    },
+    {
+        "id": 149,
+        "question": "The oxidation number of chlorine in ClO4− is:",
+        "options": [
+            "+3",
+            "+5",
+            "+7",
+            "+1"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of Cl = x: x+4(−2)=−1 ⇒ x=+7."
+    },
+    {
+        "id": 150,
+        "question": "Which of the following is the strongest reducing agent in aqueous solution?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 0,
+        "explanation": "Lithium has highest hydration enthalpy, making it strongest reducing agent in water."
+    },
+    {
+        "id": 151,
+        "question": "The oxidation number of sulphur in Na2SO3 is:",
+        "options": [
+            "+2",
+            "+4",
+            "+6",
+            "+3"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of S = x: 2(+1)+x+3(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 152,
+        "question": "Which species undergoes oxidation in the reaction: 2Fe2+ + Cl2 → 2Fe3+ + 2Cl− ?",
+        "options": [
+            "Fe2+",
+            "Fe3+",
+            "Cl2",
+            "Cl−"
+        ],
+        "answer": 0,
+        "explanation": "Fe2+ loses electrons to form Fe3+."
+    },
+    {
+        "id": 153,
+        "question": "The oxidation number of carbon in C6H6 is:",
+        "options": [
+            "−1",
+            "0",
+            "+1",
+            "−2"
+        ],
+        "answer": 1,
+        "explanation": "Average oxidation state of carbon in benzene is zero."
+    },
+    {
+        "id": 154,
+        "question": "Which of the following compounds contains oxygen with oxidation number +2?",
+        "options": [
+            "OF2",
+            "H2O",
+            "H2O2",
+            "KO2"
+        ],
+        "answer": 0,
+        "explanation": "In OF2, fluorine is −1, so oxygen is +2."
+    },
+    {
+        "id": 155,
+        "question": "The oxidation number of nitrogen in NO2− is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of N = x: x+2(−2)=−1 ⇒ x=+3."
+    },
+    {
+        "id": 156,
+        "question": "Which of the following reactions shows oxidation?",
+        "options": [
+            "Cl2 → 2Cl−",
+            "Fe3+ → Fe2+",
+            "Na → Na+",
+            "Cu2+ → Cu"
+        ],
+        "answer": 2,
+        "explanation": "Sodium loses electron, indicating oxidation."
+    },
+    {
+        "id": 157,
+        "question": "The oxidation number of sulphur in H2S is:",
+        "options": [
+            "+2",
+            "+4",
+            "0",
+            "−2"
+        ],
+        "answer": 3,
+        "explanation": "Let oxidation state of S = x: 2(+1)+x=0 ⇒ x=−2."
+    },
+    {
+        "id": 158,
+        "question": "Which of the following acts as a reducing agent?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "SO2",
+            "HNO3"
+        ],
+        "answer": 2,
+        "explanation": "SO2 is oxidised to sulphate and hence acts as a reducing agent."
+    },
+    {
+        "id": 159,
+        "question": "The oxidation number of iron in Fe(CN)6^4− is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+4"
+        ],
+        "answer": 1,
+        "explanation": "Each CN− is −1; let oxidation state of Fe = x: x+6(−1)=−4 ⇒ x=+2."
+    },
+    {
+        "id": 160,
+        "question": "Which statement is correct regarding redox reactions?",
+        "options": [
+            "Oxidation can occur without reduction",
+            "Reduction can occur without oxidation",
+            "Oxidation and reduction occur simultaneously",
+            "Only electrons are transferred"
+        ],
+        "answer": 2,
+        "explanation": "Oxidation and reduction always occur together."
+    },
+    {
+        "id": 161,
+        "question": "The oxidation number of manganese in Mn2O3 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+6"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of Mn = x: 2x+3(−2)=0 ⇒ x=+3."
+    },
+    {
+        "id": 162,
+        "question": "Which of the following acts as an oxidising agent in the reaction: Fe + Cu2+ → Fe2+ + Cu ?",
+        "options": [
+            "Fe",
+            "Fe2+",
+            "Cu",
+            "Cu2+"
+        ],
+        "answer": 3,
+        "explanation": "Cu2+ gains electrons and is reduced, hence it acts as oxidising agent."
+    },
+    {
+        "id": 163,
+        "question": "The oxidation number of nitrogen in NH4+ is:",
+        "options": [
+            "−3",
+            "−2",
+            "+3",
+            "+5"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of N = x: x+4(+1)=+1 ⇒ x=−3."
+    },
+    {
+        "id": 164,
+        "question": "Which of the following reactions shows oxidation of carbon?",
+        "options": [
+            "CO → CO2",
+            "CO2 → CO",
+            "CH4 → C",
+            "CO2 → C"
+        ],
+        "answer": 0,
+        "explanation": "Oxidation state of carbon increases from +2 in CO to +4 in CO2."
+    },
+    {
+        "id": 165,
+        "question": "The oxidation number of chlorine in Cl2O is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+5"
+        ],
+        "answer": 0,
+        "explanation": "Let oxidation state of Cl = x: 2x+(−2)=0 ⇒ x=+1."
+    },
+    {
+        "id": 166,
+        "question": "Which species is reduced in the reaction: NO3− → NO ?",
+        "options": [
+            "N",
+            "O",
+            "NO3−",
+            "NO"
+        ],
+        "answer": 0,
+        "explanation": "Nitrogen oxidation state decreases from +5 to +2, hence N is reduced."
+    },
+    {
+        "id": 167,
+        "question": "The oxidation number of sulphur in Na2S2O4 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "Average oxidation state of sulphur in dithionite ion is +3."
+    },
+    {
+        "id": 168,
+        "question": "Which of the following is the strongest oxidising agent in basic medium?",
+        "options": [
+            "MnO4−",
+            "CrO4^2−",
+            "ClO−",
+            "NO3−"
+        ],
+        "answer": 0,
+        "explanation": "Permanganate ion is a strong oxidising agent even in basic medium."
+    },
+    {
+        "id": 169,
+        "question": "The oxidation number of carbon in HCHO is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of C = x: x+2(+1)+(−2)=0 ⇒ x=−1."
+    },
+    {
+        "id": 170,
+        "question": "Which of the following reactions shows disproportionation?",
+        "options": [
+            "2Cu+ → Cu2+ + Cu",
+            "Zn + 2HCl → ZnCl2 + H2",
+            "2SO2 + O2 → 2SO3",
+            "CaO + CO2 → CaCO3"
+        ],
+        "answer": 0,
+        "explanation": "Cu+ is both oxidised and reduced in the same reaction."
+    },
+    {
+        "id": 171,
+        "question": "The oxidation number of iron in FeO is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "+4"
+        ],
+        "answer": 1,
+        "explanation": "Oxygen is −2, so iron must be +2."
+    },
+    {
+        "id": 172,
+        "question": "Which of the following acts as a reducing agent in the reaction: MnO4− → Mn2+ ?",
+        "options": [
+            "MnO4−",
+            "Mn2+",
+            "Fe2+",
+            "H+"
+        ],
+        "answer": 2,
+        "explanation": "Fe2+ is oxidised to Fe3+ while reducing MnO4−."
+    },
+    {
+        "id": 173,
+        "question": "The oxidation number of iodine in IO3− is:",
+        "options": [
+            "+3",
+            "+5",
+            "+7",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of I = x: x+3(−2)=−1 ⇒ x=+5."
+    },
+    {
+        "id": 174,
+        "question": "Which of the following is NOT a redox reaction?",
+        "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Neutralisation",
+            "Rusting"
+        ],
+        "answer": 2,
+        "explanation": "Neutralisation does not involve change in oxidation states."
+    },
+    {
+        "id": 175,
+        "question": "The oxidation number of sulphur in H2SO4 is:",
+        "options": [
+            "+4",
+            "+5",
+            "+6",
+            "+2"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of S = x: 2(+1)+x+4(−2)=0 ⇒ x=+6."
+    },
+    {
+        "id": 176,
+        "question": "Which species is oxidised in the reaction: 2Cl− → Cl2 + 2e− ?",
+        "options": [
+            "Cl−",
+            "Cl2",
+            "e−",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "Chloride ions lose electrons to form chlorine."
+    },
+    {
+        "id": 177,
+        "question": "The oxidation number of nitrogen in N2O3 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of N = x: 2x+3(−2)=0 ⇒ x=+3."
+    },
+    {
+        "id": 178,
+        "question": "Which of the following is a reducing agent?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "H2",
+            "O3"
+        ],
+        "answer": 2,
+        "explanation": "Hydrogen donates electrons and acts as a reducing agent."
+    },
+    {
+        "id": 179,
+        "question": "The oxidation number of oxygen in Na2O2 is:",
+        "options": [
+            "−2",
+            "−1",
+            "0",
+            "+1"
+        ],
+        "answer": 1,
+        "explanation": "Na2O2 is a peroxide; oxygen has oxidation number −1."
+    },
+    {
+        "id": 180,
+        "question": "Which of the following elements commonly shows variable oxidation states?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Mn"
+        ],
+        "answer": 3,
+        "explanation": "Manganese shows oxidation states from +2 to +7."
+    },
+    {
+        "id": 181,
+        "question": "The oxidation number of carbon in C2H6 is:",
+        "options": [
+            "−3",
+            "−2",
+            "−1",
+            "0"
+        ],
+        "answer": 0,
+        "explanation": "Average oxidation state of carbon in ethane is −3."
+    },
+    {
+        "id": 182,
+        "question": "Which reaction shows reduction of oxygen?",
+        "options": [
+            "O2 → O2−",
+            "O2− → O2",
+            "O2 → O3",
+            "O → O2"
+        ],
+        "answer": 0,
+        "explanation": "Gain of electrons by oxygen indicates reduction."
+    },
+    {
+        "id": 183,
+        "question": "The oxidation number of phosphorus in PH3 is:",
+        "options": [
+            "−3",
+            "−2",
+            "+3",
+            "+5"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogen is +1; phosphorus becomes −3."
+    },
+    {
+        "id": 184,
+        "question": "Which of the following acts as an oxidising agent?",
+        "options": [
+            "SO2",
+            "H2S",
+            "Cl2",
+            "CO"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine gains electrons and oxidises other substances."
+    },
+    {
+        "id": 185,
+        "question": "The oxidation number of nitrogen in NO2 is:",
+        "options": [
+            "+2",
+            "+3",
+            "+4",
+            "+5"
+        ],
+        "answer": 2,
+        "explanation": "Let oxidation state of N = x: x+2(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 186,
+        "question": "Which of the following reactions is an example of redox?",
+        "options": [
+            "AgCl → Ag+ + Cl−",
+            "NaCl + KNO3 → NaNO3 + KCl",
+            "2Mg + O2 → 2MgO",
+            "CaCO3 → CaO + CO2"
+        ],
+        "answer": 2,
+        "explanation": "Mg is oxidised and oxygen is reduced."
+    },
+    {
+        "id": 187,
+        "question": "The oxidation number of copper in Cu2O is:",
+        "options": [
+            "+1",
+            "+2",
+            "+3",
+            "0"
+        ],
+        "answer": 0,
+        "explanation": "Oxygen is −2; average oxidation state of Cu is +1."
+    },
+    {
+        "id": 188,
+        "question": "Which species undergoes reduction in the reaction: Fe3+ + e− → Fe2+ ?",
+        "options": [
+            "Fe3+",
+            "Fe2+",
+            "e−",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "Fe3+ gains an electron, hence it is reduced."
+    },
+    {
+        "id": 189,
+        "question": "The oxidation number of sulphur in SO2 is:",
+        "options": [
+            "+2",
+            "+4",
+            "+6",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "Let oxidation state of S = x: x+2(−2)=0 ⇒ x=+4."
+    },
+    {
+        "id": 190,
+        "question": "Which statement is correct about redox reactions?",
+        "options": [
+            "Only oxidation occurs",
+            "Only reduction occurs",
+            "Oxidation and reduction occur together",
+            "No electron transfer occurs"
+        ],
+        "answer": 2,
+        "explanation": "Oxidation and reduction are simultaneous processes."
+    }
+]

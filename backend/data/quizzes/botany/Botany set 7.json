@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic category is characterised by organisms having maximum number of shared characters?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species shows maximum similarity among organisms."
+    },
+    {
+        "id": 2,
+        "question": "Which algal pigment is responsible for red colour in red algae?",
+        "options": [
+            "Chlorophyll a",
+            "Phycoerythrin",
+            "Phycocyanin",
+            "Fucoxanthin"
+        ],
+        "answer": 1,
+        "explanation": "Phycoerythrin imparts red colour to red algae."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group lacks true roots, stems and leaves?",
+        "options": [
+            "Algae",
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms"
+        ],
+        "answer": 1,
+        "explanation": "Bryophytes lack true roots, stems and leaves."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of sunflower seed is:",
+        "options": [
+            "Endosperm",
+            "Pericarp",
+            "Cotyledon",
+            "Testa"
+        ],
+        "answer": 2,
+        "explanation": "Sunflower seed stores food in cotyledons."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue is responsible for secondary growth in dicot stem?",
+        "options": [
+            "Apical meristem",
+            "Intercalary meristem",
+            "Vascular cambium",
+            "Protoderm"
+        ],
+        "answer": 2,
+        "explanation": "Vascular cambium causes secondary growth."
+    },
+    {
+        "id": 6,
+        "question": "Which layer of cell wall is lignified in sclerenchyma?",
+        "options": [
+            "Primary wall",
+            "Middle lamella",
+            "Secondary wall",
+            "Plasma membrane"
+        ],
+        "answer": 2,
+        "explanation": "Secondary wall of sclerenchyma is lignified."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle is the site of ribosome assembly?",
+        "options": [
+            "Nucleolus",
+            "Nucleus",
+            "Golgi apparatus",
+            "Endoplasmic reticulum"
+        ],
+        "answer": 0,
+        "explanation": "Nucleolus is involved in ribosome assembly."
+    },
+    {
+        "id": 8,
+        "question": "Which carbohydrate is a structural polysaccharide in plants?",
+        "options": [
+            "Starch",
+            "Glycogen",
+            "Cellulose",
+            "Sucrose"
+        ],
+        "answer": 2,
+        "explanation": "Cellulose is a structural polysaccharide."
+    },
+    {
+        "id": 9,
+        "question": "Which checkpoint ensures proper attachment of spindle fibres?",
+        "options": [
+            "Restriction point",
+            "DNA damage checkpoint",
+            "Spindle checkpoint",
+            "Cyclin checkpoint"
+        ],
+        "answer": 2,
+        "explanation": "Spindle checkpoint ensures proper attachment."
+    },
+    {
+        "id": 10,
+        "question": "Movement of water due to transpiration pull occurs through:",
+        "options": [
+            "Phloem",
+            "Xylem",
+            "Cortex",
+            "Cambium"
+        ],
+        "answer": 1,
+        "explanation": "Xylem conducts water upward."
+    },
+    {
+        "id": 11,
+        "question": "Which element is a component of chlorophyll but not part of its porphyrin ring?",
+        "options": [
+            "Nitrogen",
+            "Magnesium",
+            "Iron",
+            "Carbon"
+        ],
+        "answer": 2,
+        "explanation": "Iron is required for synthesis but not part of ring."
+    },
+    {
+        "id": 12,
+        "question": "Which photosystem is involved in non-cyclic photophosphorylation?",
+        "options": [
+            "Photosystem I only",
+            "Photosystem II only",
+            "Both PS I and PS II",
+            "Neither PS I nor PS II"
+        ],
+        "answer": 2,
+        "explanation": "Both PS I and PS II operate in non-cyclic photophosphorylation."
+    },
+    {
+        "id": 13,
+        "question": "Which respiratory pathway occurs in both aerobic and anaerobic conditions?",
+        "options": [
+            "Krebs cycle",
+            "Electron transport chain",
+            "Glycolysis",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Glycolysis occurs in both conditions."
+    },
+    {
+        "id": 14,
+        "question": "Which hormone is responsible for inhibition of lateral bud growth?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "Auxin maintains apical dominance."
+    },
+    {
+        "id": 15,
+        "question": "Which type of embryo development is common in angiosperms?",
+        "options": [
+            "Cleavage polyembryony",
+            "Adventive embryony",
+            "Monocot embryo",
+            "Zygotic embryo"
+        ],
+        "answer": 3,
+        "explanation": "Angiosperms commonly show zygotic embryo development."
+    },
+    {
+        "id": 16,
+        "question": "Which breeding method is used to improve quantitative traits?",
+        "options": [
+            "Pureline selection",
+            "Mass selection",
+            "Mutation breeding",
+            "Backcrossing"
+        ],
+        "answer": 1,
+        "explanation": "Mass selection improves quantitative traits."
+    },
+    {
+        "id": 17,
+        "question": "Which microorganism is used in production of lactic acid?",
+        "options": [
+            "Saccharomyces",
+            "Acetobacter",
+            "Lactobacillus",
+            "Clostridium"
+        ],
+        "answer": 2,
+        "explanation": "Lactobacillus produces lactic acid."
+    },
+    {
+        "id": 18,
+        "question": "Which enzyme is used to synthesise complementary DNA?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesises cDNA."
+    },
+    {
+        "id": 19,
+        "question": "Population interaction in which one species is harmed and other is unaffected is:",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Parasitism",
+            "Amensalism"
+        ],
+        "answer": 3,
+        "explanation": "Amensalism harms one species."
+    },
+    {
+        "id": 20,
+        "question": "Which productivity is expressed as rate of biomass formation?",
+        "options": [
+            "Gross primary productivity",
+            "Net primary productivity",
+            "Secondary productivity",
+            "Standing crop"
+        ],
+        "answer": 1,
+        "explanation": "Net primary productivity is rate of biomass accumulation."
+    },
+    {
+        "id": 21,
+        "question": "Which conservation strategy protects species in natural habitat?",
+        "options": [
+            "Seed bank",
+            "Botanical garden",
+            "In situ conservation",
+            "Cryopreservation"
+        ],
+        "answer": 2,
+        "explanation": "In situ conservation protects natural habitats."
+    },
+    {
+        "id": 22,
+        "question": "Which gas contributes maximum to global warming?",
+        "options": [
+            "Methane",
+            "Nitrous oxide",
+            "Carbon dioxide",
+            "Chlorofluorocarbons"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide contributes most due to high concentration."
+    },
+    {
+        "id": 23,
+        "question": "Artificial system of classification is based on:",
+        "options": [
+            "Evolutionary relationships",
+            "Overall similarities",
+            "One or few characters",
+            "Genetic similarities"
+        ],
+        "answer": 2,
+        "explanation": "Artificial system uses one or few characters."
+    },
+    {
+        "id": 24,
+        "question": "Which algae shows haplodiplontic life cycle?",
+        "options": [
+            "Ulothrix",
+            "Fucus",
+            "Ectocarpus",
+            "Spirogyra"
+        ],
+        "answer": 2,
+        "explanation": "Ectocarpus shows haplodiplontic life cycle."
+    },
+    {
+        "id": 25,
+        "question": "Which tissue is responsible for conduction of food in plants?",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Cambium",
+            "Parenchyma"
+        ],
+        "answer": 1,
+        "explanation": "Phloem conducts food."
+    },
+    {
+        "id": 26,
+        "question": "Which plastid stores starch grains?",
+        "options": [
+            "Amyloplast",
+            "Elaioplast",
+            "Chromoplast",
+            "Chloroplast"
+        ],
+        "answer": 0,
+        "explanation": "Amyloplast stores starch."
+    },
+    {
+        "id": 27,
+        "question": "Which nitrogenous base pairs with guanine in DNA?",
+        "options": [
+            "Adenine",
+            "Thymine",
+            "Cytosine",
+            "Uracil"
+        ],
+        "answer": 2,
+        "explanation": "Guanine pairs with cytosine."
+    },
+    {
+        "id": 28,
+        "question": "Which stage of mitosis shows separation of sister chromatids?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 2,
+        "explanation": "Sister chromatids separate during anaphase."
+    },
+    {
+        "id": 29,
+        "question": "Which force is responsible for upward movement of water in tall trees?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull drives ascent of sap."
+    },
+    {
+        "id": 30,
+        "question": "Which micronutrient is involved in photolysis of water?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Manganese",
+            "Zinc"
+        ],
+        "answer": 2,
+        "explanation": "Manganese is involved in photolysis."
+    },
+    {
+        "id": 31,
+        "question": "Which pathway fixes CO₂ at night?",
+        "options": [
+            "C3 pathway",
+            "C4 pathway",
+            "CAM pathway",
+            "Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants fix CO₂ at night."
+    },
+    {
+        "id": 32,
+        "question": "Which respiratory substrate gives RQ greater than 1?",
+        "options": [
+            "Carbohydrates",
+            "Fats",
+            "Proteins",
+            "Organic acids"
+        ],
+        "answer": 3,
+        "explanation": "Organic acids give RQ greater than 1."
+    },
+    {
+        "id": 33,
+        "question": "Which hormone accelerates fruit ripening?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "Ethylene accelerates fruit ripening."
+    },
+    {
+        "id": 34,
+        "question": "Which structure connects ovule to ovary wall?",
+        "options": [
+            "Hilum",
+            "Funiculus",
+            "Chalaza",
+            "Micropyle"
+        ],
+        "answer": 1,
+        "explanation": "Funiculus attaches ovule to ovary wall."
+    },
+    {
+        "id": 35,
+        "question": "Which breeding method is used to transfer a single desirable gene?",
+        "options": [
+            "Mass selection",
+            "Hybridisation",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Backcrossing transfers a specific gene."
+    },
+    {
+        "id": 36,
+        "question": "Which microorganism is used for production of cyclosporin A?",
+        "options": [
+            "Penicillium",
+            "Trichoderma polysporum",
+            "Aspergillus",
+            "Rhizopus"
+        ],
+        "answer": 1,
+        "explanation": "Cyclosporin A is produced by Trichoderma polysporum."
+    },
+    {
+        "id": 37,
+        "question": "Which technique is used to multiply DNA in vitro?",
+        "options": [
+            "ELISA",
+            "PCR",
+            "Southern blotting",
+            "Hybridisation"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies DNA in vitro."
+    },
+    {
+        "id": 38,
+        "question": "Emigration affects population by:",
+        "options": [
+            "Increasing size",
+            "Decreasing size",
+            "No change",
+            "Increasing birth rate"
+        ],
+        "answer": 1,
+        "explanation": "Emigration decreases population size."
+    },
+    {
+        "id": 39,
+        "question": "Which ecological pyramid is always upright?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "All pyramids"
+        ],
+        "answer": 2,
+        "explanation": "Energy pyramid is always upright."
+    },
+    {
+        "id": 40,
+        "question": "Which biome is characterised by permafrost?",
+        "options": [
+            "Taiga",
+            "Tundra",
+            "Savanna",
+            "Desert"
+        ],
+        "answer": 1,
+        "explanation": "Tundra has permafrost."
+    },
+    {
+        "id": 41,
+        "question": "Which pollutant causes fluorosis?",
+        "options": [
+            "Arsenic",
+            "Fluoride",
+            "Mercury",
+            "Lead"
+        ],
+        "answer": 1,
+        "explanation": "Fluoride causes fluorosis."
+    },
+    {
+        "id": 42,
+        "question": "Natural system of classification considers:",
+        "options": [
+            "Only vegetative characters",
+            "Only floral characters",
+            "Overall morphological similarities",
+            "One diagnostic character"
+        ],
+        "answer": 2,
+        "explanation": "Natural system considers overall similarities."
+    },
+    {
+        "id": 43,
+        "question": "Which algae is used as source of algin?",
+        "options": [
+            "Gelidium",
+            "Gracilaria",
+            "Sargassum",
+            "Chlorella"
+        ],
+        "answer": 2,
+        "explanation": "Sargassum is source of algin."
+    },
+    {
+        "id": 44,
+        "question": "Which tissue lies outside vascular bundle in stem?",
+        "options": [
+            "Pith",
+            "Cambium",
+            "Cortex",
+            "Pericycle"
+        ],
+        "answer": 2,
+        "explanation": "Cortex lies outside vascular bundles."
+    },
+    {
+        "id": 45,
+        "question": "Which plastid develops from chloroplast during senescence?",
+        "options": [
+            "Chromoplast",
+            "Leucoplast",
+            "Gerontoplast",
+            "Elaioplast"
+        ],
+        "answer": 2,
+        "explanation": "Gerontoplast forms during senescence."
+    },
+    {
+        "id": 46,
+        "question": "Which bond joins amino acids?",
+        "options": [
+            "Glycosidic bond",
+            "Ester bond",
+            "Peptide bond",
+            "Phosphodiester bond"
+        ],
+        "answer": 2,
+        "explanation": "Amino acids are linked by peptide bonds."
+    },
+    {
+        "id": 47,
+        "question": "Which stage of meiosis shows synapsis of homologous chromosomes?",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 1,
+        "explanation": "Synapsis occurs during zygotene."
+    },
+    {
+        "id": 48,
+        "question": "Which phenomenon explains movement of food in phloem?",
+        "options": [
+            "Diffusion",
+            "Osmosis",
+            "Mass flow hypothesis",
+            "Root pressure"
+        ],
+        "answer": 2,
+        "explanation": "Mass flow hypothesis explains phloem transport."
+    },
+    {
+        "id": 49,
+        "question": "Which macronutrient is required for synthesis of proteins?",
+        "options": [
+            "Nitrogen",
+            "Phosphorus",
+            "Potassium",
+            "Calcium"
+        ],
+        "answer": 0,
+        "explanation": "Nitrogen is required for protein synthesis."
+    },
+    {
+        "id": 50,
+        "question": "Which international agreement deals with biodiversity conservation?",
+        "options": [
+            "Montreal Protocol",
+            "Kyoto Protocol",
+            "Convention on Biological Diversity",
+            "Stockholm Convention"
+        ],
+        "answer": 2,
+        "explanation": "CBD focuses on biodiversity conservation."
+    }
+]

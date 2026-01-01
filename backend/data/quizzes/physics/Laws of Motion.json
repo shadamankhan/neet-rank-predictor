@@ -1,0 +1,6024 @@
+[
+    {
+        "id": 1,
+        "question": "According to Newton’s first law of motion, a body continues in its state of rest or uniform motion in a straight line unless acted upon by:",
+        "options": [
+            "A balanced force",
+            "An unbalanced external force",
+            "Its own inertia",
+            "Gravity only"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s first law states that change in state occurs only due to an unbalanced external force."
+    },
+    {
+        "id": 2,
+        "question": "The tendency of a body to resist any change in its state of rest or motion is called:",
+        "options": [
+            "Momentum",
+            "Force",
+            "Inertia",
+            "Impulse"
+        ],
+        "answer": 2,
+        "explanation": "Inertia is the property of matter that resists change in state."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following quantities is a measure of inertia?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Mass",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Mass is the measure of inertia of a body."
+    },
+    {
+        "id": 4,
+        "question": "A passenger standing in a bus falls backward when the bus suddenly starts because of:",
+        "options": [
+            "Inertia of rest",
+            "Inertia of motion",
+            "Inertia of direction",
+            "Balanced forces"
+        ],
+        "answer": 0,
+        "explanation": "The body tends to remain at rest due to inertia of rest."
+    },
+    {
+        "id": 5,
+        "question": "Newton’s second law of motion relates force with:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Displacement",
+            "Energy"
+        ],
+        "answer": 1,
+        "explanation": "Force is proportional to the rate of change of momentum."
+    },
+    {
+        "id": 6,
+        "question": "According to Newton’s second law, force is equal to:",
+        "options": [
+            "ma",
+            "mv",
+            "m/v",
+            "v/a"
+        ],
+        "answer": 0,
+        "explanation": "For constant mass, F = ma."
+    },
+    {
+        "id": 7,
+        "question": "The SI unit of force is:",
+        "options": [
+            "dyne",
+            "newton",
+            "kg m s^-1",
+            "joule"
+        ],
+        "answer": 1,
+        "explanation": "The SI unit of force is newton (N)."
+    },
+    {
+        "id": 8,
+        "question": "One newton is defined as the force which produces an acceleration of:",
+        "options": [
+            "1 m s^-1 in 1 kg",
+            "1 m s^-2 in 1 kg",
+            "1 m s^-2 in 1 g",
+            "1 m s^-1 in 1 g"
+        ],
+        "answer": 1,
+        "explanation": "1 N = 1 kg × 1 m s^-2."
+    },
+    {
+        "id": 9,
+        "question": "If the net external force on a body is zero, its momentum:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Zero net force implies conservation of momentum."
+    },
+    {
+        "id": 10,
+        "question": "Newton’s third law of motion states that for every action there is:",
+        "options": [
+            "An equal action",
+            "A greater reaction",
+            "An equal and opposite reaction",
+            "No reaction"
+        ],
+        "answer": 2,
+        "explanation": "Forces occur in equal and opposite pairs."
+    },
+    {
+        "id": 11,
+        "question": "Action and reaction forces act on:",
+        "options": [
+            "Same body",
+            "Different bodies",
+            "Same point",
+            "Same direction"
+        ],
+        "answer": 1,
+        "explanation": "Action and reaction act on different bodies."
+    },
+    {
+        "id": 12,
+        "question": "The momentum of a body is given by:",
+        "options": [
+            "m + v",
+            "m/v",
+            "mv",
+            "v/m"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of momentum is:",
+        "options": [
+            "kg m s^-2",
+            "kg m s^-1",
+            "N s^-1",
+            "J s"
+        ],
+        "answer": 1,
+        "explanation": "Momentum has unit kg m s^-1."
+    },
+    {
+        "id": 14,
+        "question": "Impulse is equal to:",
+        "options": [
+            "Change in momentum",
+            "Force × distance",
+            "Mass × velocity",
+            "Acceleration × time"
+        ],
+        "answer": 0,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 15,
+        "question": "The SI unit of impulse is:",
+        "options": [
+            "N s",
+            "kg m s^-2",
+            "J",
+            "kg m^2 s^-1"
+        ],
+        "answer": 0,
+        "explanation": "Impulse has unit newton second (N s)."
+    },
+    {
+        "id": 16,
+        "question": "If the time of impact is increased, the force experienced for the same change in momentum:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Force = change in momentum / time, so force decreases."
+    },
+    {
+        "id": 17,
+        "question": "Seat belts in cars are provided to:",
+        "options": [
+            "Increase inertia",
+            "Increase momentum",
+            "Increase impact time",
+            "Reduce mass"
+        ],
+        "answer": 2,
+        "explanation": "Seat belts increase stopping time, reducing force."
+    },
+    {
+        "id": 18,
+        "question": "A heavy object and a light object experience the same acceleration under same force because:",
+        "options": [
+            "Mass is same",
+            "Acceleration is inversely proportional to mass",
+            "Force is different",
+            "Momentum is same"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, a ∝ 1/m."
+    },
+    {
+        "id": 19,
+        "question": "The force required to stop a moving body depends on:",
+        "options": [
+            "Change in momentum only",
+            "Stopping time only",
+            "Both change in momentum and time",
+            "Mass only"
+        ],
+        "answer": 2,
+        "explanation": "Force depends on rate of change of momentum."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is a vector quantity?",
+        "options": [
+            "Mass",
+            "Speed",
+            "Momentum",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Momentum has both magnitude and direction."
+    },
+    {
+        "id": 21,
+        "question": "The recoil of a gun when fired is due to:",
+        "options": [
+            "Newton’s first law",
+            "Newton’s second law",
+            "Newton’s third law",
+            "Law of inertia"
+        ],
+        "answer": 2,
+        "explanation": "Recoil is due to action–reaction pair."
+    },
+    {
+        "id": 22,
+        "question": "A body of mass m moving with velocity v has kinetic momentum proportional to:",
+        "options": [
+            "v",
+            "m",
+            "mv",
+            "v^2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 23,
+        "question": "If force acting on a body is doubled, its acceleration becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Same",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, a ∝ F."
+    },
+    {
+        "id": 24,
+        "question": "If mass of a body is doubled for the same force, acceleration becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Same",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 25,
+        "question": "The net force on a body moving with constant velocity is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero acceleration, hence zero net force."
+    },
+    {
+        "id": 26,
+        "question": "The law of conservation of momentum follows directly from:",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Second and third laws"
+        ],
+        "answer": 3,
+        "explanation": "Momentum conservation arises from Newton’s second and third laws."
+    },
+    {
+        "id": 27,
+        "question": "The momentum of a stationary body is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv, so p = 0 when v = 0."
+    },
+    {
+        "id": 28,
+        "question": "Which of the following is an example of inertia of direction?",
+        "options": [
+            "Dust leaving carpet",
+            "Passenger falling backward",
+            "Passenger falling sideways in a turning car",
+            "Coin staying on card"
+        ],
+        "answer": 2,
+        "explanation": "Change in direction causes sideways fall due to inertia of direction."
+    },
+    {
+        "id": 29,
+        "question": "The force acting on a body is zero. Which of the following is possible?",
+        "options": [
+            "Body at rest",
+            "Body in uniform motion",
+            "Both A and B",
+            "Body with acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Zero force implies either rest or uniform motion."
+    },
+    {
+        "id": 30,
+        "question": "The product of force and time is equal to:",
+        "options": [
+            "Momentum",
+            "Impulse",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Impulse = Force × time."
+    },
+    {
+        "id": 31,
+        "question": "Which law explains why a swimmer pushes water backward?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 2,
+        "explanation": "Action–reaction principle applies."
+    },
+    {
+        "id": 32,
+        "question": "The momentum of a body changes when:",
+        "options": [
+            "Speed changes",
+            "Direction changes",
+            "Both A and B",
+            "Neither A nor B"
+        ],
+        "answer": 2,
+        "explanation": "Momentum depends on both speed and direction."
+    },
+    {
+        "id": 33,
+        "question": "A large force acting for a very short time produces:",
+        "options": [
+            "Small impulse",
+            "Large impulse",
+            "Zero impulse",
+            "No momentum change"
+        ],
+        "answer": 1,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 34,
+        "question": "The unit of force in the CGS system is:",
+        "options": [
+            "newton",
+            "dyne",
+            "joule",
+            "erg"
+        ],
+        "answer": 1,
+        "explanation": "In CGS system, force is measured in dyne."
+    },
+    {
+        "id": 35,
+        "question": "If two bodies have same momentum, they must have:",
+        "options": [
+            "Same mass",
+            "Same velocity",
+            "Same kinetic energy",
+            "Mass and velocity may differ"
+        ],
+        "answer": 3,
+        "explanation": "Different mass and velocity combinations can give same momentum."
+    },
+    {
+        "id": 36,
+        "question": "A ball rebounds from a wall with same speed. The change in momentum is:",
+        "options": [
+            "Zero",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum reverses direction, so change = 2mv."
+    },
+    {
+        "id": 37,
+        "question": "The effect of force on a body depends on:",
+        "options": [
+            "Magnitude only",
+            "Direction only",
+            "Point of application only",
+            "Magnitude, direction and point of application"
+        ],
+        "answer": 3,
+        "explanation": "Force is a vector and depends on all three."
+    },
+    {
+        "id": 38,
+        "question": "Which quantity remains conserved in an isolated system?",
+        "options": [
+            "Force",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Total momentum remains conserved."
+    },
+    {
+        "id": 39,
+        "question": "When a person jumps from a boat, the boat moves backward due to:",
+        "options": [
+            "Inertia",
+            "Momentum conservation",
+            "Friction",
+            "Gravity"
+        ],
+        "answer": 1,
+        "explanation": "Total momentum of system remains conserved."
+    },
+    {
+        "id": 40,
+        "question": "Which law provides the quantitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s second law gives quantitative relation of force."
+    },
+    {
+        "id": 41,
+        "question": "The acceleration produced in a body is directly proportional to:",
+        "options": [
+            "Mass",
+            "Force",
+            "Momentum",
+            "Velocity"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, acceleration is proportional to force."
+    },
+    {
+        "id": 42,
+        "question": "The change in momentum per unit time is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Power",
+            "Energy"
+        ],
+        "answer": 1,
+        "explanation": "Force equals rate of change of momentum."
+    },
+    {
+        "id": 43,
+        "question": "Which of the following best defines force?",
+        "options": [
+            "Change in velocity",
+            "Change in momentum",
+            "Rate of change of momentum",
+            "Product of mass and velocity"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s second law defines force as rate of change of momentum."
+    },
+    {
+        "id": 44,
+        "question": "A body of mass m moving with velocity v has momentum proportional to:",
+        "options": [
+            "m",
+            "v",
+            "mv",
+            "v^2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 45,
+        "question": "A force of 1 N produces acceleration of 1 m s^-2 in a body of mass:",
+        "options": [
+            "1 kg",
+            "2 kg",
+            "0.5 kg",
+            "10 kg"
+        ],
+        "answer": 0,
+        "explanation": "From F = ma, m = 1 kg."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is an example of Newton’s third law?",
+        "options": [
+            "Falling apple",
+            "Motion of planets",
+            "Recoil of gun",
+            "Sliding of block"
+        ],
+        "answer": 2,
+        "explanation": "Recoil demonstrates action–reaction pair."
+    },
+    {
+        "id": 47,
+        "question": "The momentum of a body is doubled by:",
+        "options": [
+            "Doubling mass",
+            "Doubling velocity",
+            "Doubling either mass or velocity",
+            "Doubling acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 48,
+        "question": "A cricketer pulls his hands backward while catching a ball to:",
+        "options": [
+            "Decrease momentum",
+            "Increase impulse",
+            "Increase time of contact",
+            "Increase force"
+        ],
+        "answer": 2,
+        "explanation": "Increasing contact time reduces force."
+    },
+    {
+        "id": 49,
+        "question": "If no external force acts on a system, its total momentum:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in absence of external force."
+    },
+    {
+        "id": 50,
+        "question": "Which law is also known as the law of inertia?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law is called the law of inertia."
+    }
+]
+[
+    {
+        "id": 51,
+        "question": "A force F acting on a body produces acceleration a. If the same force acts on another body of double mass, the acceleration produced will be:",
+        "options": [
+            "a",
+            "2a",
+            "a/2",
+            "4a"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 52,
+        "question": "The momentum of a body depends on:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv depends on mass and velocity."
+    },
+    {
+        "id": 53,
+        "question": "Newton’s second law of motion is valid only in:",
+        "options": [
+            "Inertial frames",
+            "Non-inertial frames",
+            "Rotating frames",
+            "Accelerated frames"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s laws are valid only in inertial frames of reference."
+    },
+    {
+        "id": 54,
+        "question": "Which of the following frames of reference is non-inertial?",
+        "options": [
+            "Train moving with constant velocity",
+            "Lift moving upward with constant speed",
+            "Car moving with uniform speed on straight road",
+            "Lift accelerating upward"
+        ],
+        "answer": 3,
+        "explanation": "An accelerating frame is non-inertial."
+    },
+    {
+        "id": 55,
+        "question": "If no external force acts on a system, the centre of mass of the system:",
+        "options": [
+            "Remains at rest only",
+            "Moves with constant velocity",
+            "Moves with constant acceleration",
+            "Moves in circular path"
+        ],
+        "answer": 1,
+        "explanation": "Centre of mass moves with constant velocity in absence of external force."
+    },
+    {
+        "id": 56,
+        "question": "A bullet of mass m is fired with velocity v into a block of mass M at rest. The bullet embeds in the block. The total momentum after collision is:",
+        "options": [
+            "mv",
+            "Mv",
+            "(m+M)v",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Momentum is conserved; initial momentum is mv."
+    },
+    {
+        "id": 57,
+        "question": "The force required to stop a body of mass m moving with velocity v in time t is:",
+        "options": [
+            "mv/t",
+            "vt/m",
+            "mvt",
+            "v/t"
+        ],
+        "answer": 0,
+        "explanation": "Force = change in momentum / time = mv/t."
+    },
+    {
+        "id": 58,
+        "question": "If the stopping time of a moving body is doubled, the force required to stop it becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Same",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Force is inversely proportional to stopping time."
+    },
+    {
+        "id": 59,
+        "question": "The total momentum of two bodies before collision is equal to the total momentum after collision, provided:",
+        "options": [
+            "Collision is elastic",
+            "Collision is inelastic",
+            "No external force acts",
+            "Bodies have equal mass"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved when no external force acts."
+    },
+    {
+        "id": 60,
+        "question": "A force acting on a body changes its:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Inertia",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Force changes the momentum of a body."
+    },
+    {
+        "id": 61,
+        "question": "A passenger in a moving train throws a ball vertically upward. For an observer inside the train, the ball:",
+        "options": [
+            "Falls behind",
+            "Falls ahead",
+            "Returns to the same point",
+            "Moves in a straight line"
+        ],
+        "answer": 2,
+        "explanation": "In an inertial frame of the train, motion is vertical."
+    },
+    {
+        "id": 62,
+        "question": "The force acting between two bodies in contact is known as:",
+        "options": [
+            "Field force",
+            "Gravitational force",
+            "Contact force",
+            "Magnetic force"
+        ],
+        "answer": 2,
+        "explanation": "Forces due to physical contact are contact forces."
+    },
+    {
+        "id": 63,
+        "question": "Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Gravitational force",
+            "Tension"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force acts without physical contact."
+    },
+    {
+        "id": 64,
+        "question": "The momentum of a body is conserved when:",
+        "options": [
+            "Net external force is zero",
+            "Body is at rest",
+            "Velocity is constant",
+            "Acceleration is zero"
+        ],
+        "answer": 0,
+        "explanation": "Momentum conservation requires zero net external force."
+    },
+    {
+        "id": 65,
+        "question": "If a body is moving with constant momentum, the net force acting on it is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Constant momentum implies zero net force."
+    },
+    {
+        "id": 66,
+        "question": "A body of mass m is moving with velocity v. Another body of mass 2m moves with velocity v/2. Their momenta are:",
+        "options": [
+            "Equal",
+            "First is greater",
+            "Second is greater",
+            "Cannot be compared"
+        ],
+        "answer": 0,
+        "explanation": "Momentum mv equals 2m × v/2 = mv."
+    },
+    {
+        "id": 67,
+        "question": "The action and reaction forces are:",
+        "options": [
+            "Equal and same direction",
+            "Unequal and opposite",
+            "Equal and opposite",
+            "Act on same body"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s third law states forces are equal and opposite."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following cannot change the state of motion of a body?",
+        "options": [
+            "Balanced forces",
+            "Unbalanced forces",
+            "External force",
+            "Impulse"
+        ],
+        "answer": 0,
+        "explanation": "Balanced forces do not change the state of motion."
+    },
+    {
+        "id": 69,
+        "question": "The unit of impulse is equivalent to:",
+        "options": [
+            "kg m s^-1",
+            "N s",
+            "Both A and B",
+            "J s"
+        ],
+        "answer": 2,
+        "explanation": "Impulse equals change in momentum, unit kg m s^-1 = N s."
+    },
+    {
+        "id": 70,
+        "question": "A rocket works on the principle of conservation of:",
+        "options": [
+            "Energy",
+            "Momentum",
+            "Force",
+            "Mass"
+        ],
+        "answer": 1,
+        "explanation": "Rocket propulsion is based on momentum conservation."
+    },
+    {
+        "id": 71,
+        "question": "When a person jumps from a stationary boat, the boat recoils due to:",
+        "options": [
+            "Friction",
+            "Inertia",
+            "Conservation of momentum",
+            "Gravity"
+        ],
+        "answer": 2,
+        "explanation": "Total momentum of the system remains conserved."
+    },
+    {
+        "id": 72,
+        "question": "A body moves in a straight line with constant velocity. The net force acting on it is:",
+        "options": [
+            "Non-zero",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Constant velocity implies zero acceleration and zero net force."
+    },
+    {
+        "id": 73,
+        "question": "The inertia of a body depends on its:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Mass",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Inertia is measured by mass."
+    },
+    {
+        "id": 74,
+        "question": "A large impulse is produced when:",
+        "options": [
+            "Large force acts for short time",
+            "Small force acts for long time",
+            "Both A and B",
+            "Force is zero"
+        ],
+        "answer": 2,
+        "explanation": "Impulse depends on force and time of action."
+    },
+    {
+        "id": 75,
+        "question": "Which law explains the motion of a rocket in space?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 2,
+        "explanation": "Rocket motion follows action–reaction principle."
+    },
+    {
+        "id": 76,
+        "question": "If the net external force on a system is zero, the linear momentum of the system:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved without external force."
+    },
+    {
+        "id": 77,
+        "question": "A person pushes a wall but the wall does not move. This is because:",
+        "options": [
+            "No force acts on wall",
+            "Action and reaction cancel",
+            "Wall exerts equal reaction",
+            "Wall has no inertia"
+        ],
+        "answer": 2,
+        "explanation": "The wall exerts equal and opposite reaction."
+    },
+    {
+        "id": 78,
+        "question": "Which quantity remains unchanged in a perfectly inelastic collision?",
+        "options": [
+            "Kinetic energy",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions."
+    },
+    {
+        "id": 79,
+        "question": "The effect of a force on a rigid body can be:",
+        "options": [
+            "Translation only",
+            "Rotation only",
+            "Deformation only",
+            "Translation, rotation or deformation"
+        ],
+        "answer": 3,
+        "explanation": "Force can cause translation, rotation, or deformation."
+    },
+    {
+        "id": 80,
+        "question": "Newton’s laws are not valid in a frame of reference which is:",
+        "options": [
+            "Inertial",
+            "Non-inertial",
+            "Stationary",
+            "Uniformly moving"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s laws are not valid in non-inertial frames."
+    },
+    {
+        "id": 81,
+        "question": "The force acting on a body is proportional to:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Rate of change of momentum",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s second law defines force as rate of change of momentum."
+    },
+    {
+        "id": 82,
+        "question": "The momentum of a system remains conserved if:",
+        "options": [
+            "External forces act",
+            "Only internal forces act",
+            "System is accelerating",
+            "Mass changes"
+        ],
+        "answer": 1,
+        "explanation": "Only internal forces do not change total momentum."
+    },
+    {
+        "id": 83,
+        "question": "Which of the following quantities is a vector?",
+        "options": [
+            "Force",
+            "Energy",
+            "Power",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "Force has magnitude and direction."
+    },
+    {
+        "id": 84,
+        "question": "A car moving with constant speed on a straight road has:",
+        "options": [
+            "Zero acceleration",
+            "Non-zero acceleration",
+            "Increasing momentum",
+            "Decreasing momentum"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed in straight line implies constant velocity."
+    },
+    {
+        "id": 85,
+        "question": "A force acting on a body does not change its speed but changes its direction. The force is:",
+        "options": [
+            "Zero",
+            "Parallel to velocity",
+            "Perpendicular to velocity",
+            "Opposite to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is perpendicular to velocity."
+    },
+    {
+        "id": 86,
+        "question": "Which law gives the qualitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law gives qualitative idea of force."
+    },
+    {
+        "id": 87,
+        "question": "If the net force acting on a body is zero, its acceleration is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Zero net force implies zero acceleration."
+    },
+    {
+        "id": 88,
+        "question": "The momentum of a body changes when its:",
+        "options": [
+            "Speed changes",
+            "Direction changes",
+            "Both A and B",
+            "Neither A nor B"
+        ],
+        "answer": 2,
+        "explanation": "Momentum depends on magnitude and direction of velocity."
+    },
+    {
+        "id": 89,
+        "question": "A body of large mass is difficult to accelerate because of its:",
+        "options": [
+            "Momentum",
+            "Velocity",
+            "Inertia",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Large mass means greater inertia."
+    },
+    {
+        "id": 90,
+        "question": "The rate of change of momentum is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s second law defines force."
+    },
+    {
+        "id": 91,
+        "question": "Which of the following is always conserved in an isolated system?",
+        "options": [
+            "Energy",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in an isolated system."
+    },
+    {
+        "id": 92,
+        "question": "A stone is thrown upward. The force acting on it after leaving the hand is:",
+        "options": [
+            "Upward force",
+            "Downward force",
+            "Zero force",
+            "Both upward and downward"
+        ],
+        "answer": 1,
+        "explanation": "Only gravitational force acts downward."
+    },
+    {
+        "id": 93,
+        "question": "If two forces act on a body in opposite directions with equal magnitude, the net force is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Equal and opposite forces cancel each other."
+    },
+    {
+        "id": 94,
+        "question": "Which of the following quantities can change without a force?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Direction of velocity",
+            "Momentum"
+        ],
+        "answer": 3,
+        "explanation": "Momentum cannot change without force."
+    },
+    {
+        "id": 95,
+        "question": "A body of mass m moving with velocity v collides with a wall and rebounds with same speed. The change in momentum is:",
+        "options": [
+            "mv",
+            "0",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum reverses direction, change is 2mv."
+    },
+    {
+        "id": 96,
+        "question": "Which force is responsible for providing centripetal acceleration?",
+        "options": [
+            "Friction only",
+            "Normal force only",
+            "Any inward force",
+            "Only gravitational force"
+        ],
+        "answer": 2,
+        "explanation": "Any force directed towards centre can act as centripetal force."
+    },
+    {
+        "id": 97,
+        "question": "The momentum of a system remains constant if:",
+        "options": [
+            "Internal forces act",
+            "External forces act",
+            "Net external force is zero",
+            "Mass changes"
+        ],
+        "answer": 2,
+        "explanation": "Momentum conservation requires zero net external force."
+    },
+    {
+        "id": 98,
+        "question": "Which law explains why a person leans backward while jumping forward from a boat?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 2,
+        "explanation": "Action–reaction forces cause backward recoil."
+    },
+    {
+        "id": 99,
+        "question": "A force acting on a body produces acceleration proportional to:",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration is directly proportional to applied force."
+    },
+    {
+        "id": 100,
+        "question": "According to Newton’s laws, which of the following is not possible?",
+        "options": [
+            "Zero velocity with non-zero acceleration",
+            "Constant velocity with zero force",
+            "Constant speed with changing direction",
+            "Changing momentum without force"
+        ],
+        "answer": 3,
+        "explanation": "Momentum cannot change without an external force."
+    }
+]
+[
+    {
+        "id": 101,
+        "question": "A body of mass m is moving with velocity v. A constant force F acts on it for time t. The change in momentum of the body is:",
+        "options": [
+            "Ft",
+            "mv",
+            "F/t",
+            "mvt"
+        ],
+        "answer": 0,
+        "explanation": "Impulse equals change in momentum, and impulse = F × t."
+    },
+    {
+        "id": 102,
+        "question": "Newton’s first law of motion is valid in a frame of reference which is:",
+        "options": [
+            "Accelerating",
+            "Rotating",
+            "Inertial",
+            "Non-inertial"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s first law is valid only in inertial frames."
+    },
+    {
+        "id": 103,
+        "question": "A body is acted upon by two equal and opposite forces. The body will:",
+        "options": [
+            "Remain at rest",
+            "Move with constant velocity",
+            "Have zero acceleration",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Balanced forces give zero net force, so acceleration is zero."
+    },
+    {
+        "id": 104,
+        "question": "The inertia of a body is directly proportional to its:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Mass",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Mass is the measure of inertia."
+    },
+    {
+        "id": 105,
+        "question": "Which of the following is an example of inertia of motion?",
+        "options": [
+            "Dust particles leaving a carpet",
+            "Passenger falling backward in a bus",
+            "Passenger falling forward when bus stops",
+            "Coin remaining on card"
+        ],
+        "answer": 2,
+        "explanation": "A moving body tends to continue its motion due to inertia of motion."
+    },
+    {
+        "id": 106,
+        "question": "The rate of change of momentum of a body is proportional to:",
+        "options": [
+            "Momentum",
+            "Velocity",
+            "Force",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s second law states force is proportional to rate of change of momentum."
+    },
+    {
+        "id": 107,
+        "question": "If the net external force on a system is zero, the total momentum of the system:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved when net external force is zero."
+    },
+    {
+        "id": 108,
+        "question": "The SI unit of force can be written as:",
+        "options": [
+            "kg m s^-1",
+            "kg m s^-2",
+            "kg m^2 s^-2",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, unit of force is kg m s^-2."
+    },
+    {
+        "id": 109,
+        "question": "A body of mass 2 kg accelerates at 3 m s^-2. The net force acting on it is:",
+        "options": [
+            "1.5 N",
+            "6 N",
+            "9 N",
+            "12 N"
+        ],
+        "answer": 1,
+        "explanation": "F = ma = 2 × 3 = 6 N."
+    },
+    {
+        "id": 110,
+        "question": "If the momentum of a body increases, which of the following must have occurred?",
+        "options": [
+            "Force acted on the body",
+            "Mass increased",
+            "Velocity became zero",
+            "Acceleration was zero"
+        ],
+        "answer": 0,
+        "explanation": "Change in momentum requires an external force."
+    },
+    {
+        "id": 111,
+        "question": "Action and reaction forces are equal in magnitude and opposite in direction, but they do not cancel because:",
+        "options": [
+            "They act on same body",
+            "They act at different times",
+            "They act on different bodies",
+            "They act along different lines"
+        ],
+        "answer": 2,
+        "explanation": "Action and reaction act on different bodies."
+    },
+    {
+        "id": 112,
+        "question": "The impulse of a force is numerically equal to:",
+        "options": [
+            "Force",
+            "Change in velocity",
+            "Change in momentum",
+            "Mass × acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 113,
+        "question": "A ball hits a wall and rebounds with the same speed. If the mass of the ball is m and speed is v, the magnitude of impulse imparted is:",
+        "options": [
+            "mv",
+            "0",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum reverses direction, so change in momentum is 2mv."
+    },
+    {
+        "id": 114,
+        "question": "If the mass of a body is doubled while the force acting remains constant, its acceleration becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Same",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 115,
+        "question": "The force required to stop a moving body depends upon:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Stopping time only",
+            "Change in momentum and stopping time"
+        ],
+        "answer": 3,
+        "explanation": "Force depends on rate of change of momentum."
+    },
+    {
+        "id": 116,
+        "question": "A man jumps out of a moving boat. The boat recoils backward due to:",
+        "options": [
+            "Inertia",
+            "Action–reaction",
+            "Conservation of momentum",
+            "Friction"
+        ],
+        "answer": 2,
+        "explanation": "Total momentum of the system is conserved."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following quantities is conserved in all types of collisions?",
+        "options": [
+            "Kinetic energy",
+            "Momentum",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved in all collisions if no external force acts."
+    },
+    {
+        "id": 118,
+        "question": "The inertia of a body does not depend on its:",
+        "options": [
+            "Mass",
+            "Shape",
+            "Velocity",
+            "Size"
+        ],
+        "answer": 2,
+        "explanation": "Inertia depends on mass, not velocity."
+    },
+    {
+        "id": 119,
+        "question": "A body moves with constant velocity. Which of the following statements is true?",
+        "options": [
+            "Net force is zero",
+            "Acceleration is non-zero",
+            "Momentum is changing",
+            "External force acts"
+        ],
+        "answer": 0,
+        "explanation": "Constant velocity implies zero net force."
+    },
+    {
+        "id": 120,
+        "question": "The law of conservation of momentum is a direct consequence of:",
+        "options": [
+            "First law only",
+            "Second law only",
+            "Third law only",
+            "Second and third laws"
+        ],
+        "answer": 3,
+        "explanation": "Momentum conservation follows from Newton’s second and third laws."
+    },
+    {
+        "id": 121,
+        "question": "A force acting perpendicular to the velocity of a body changes only its:",
+        "options": [
+            "Speed",
+            "Momentum magnitude",
+            "Direction of motion",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Perpendicular force changes direction, not speed."
+    },
+    {
+        "id": 122,
+        "question": "The momentum of a system of particles remains constant if:",
+        "options": [
+            "Internal forces act",
+            "External forces act",
+            "Net external force is zero",
+            "System is accelerating"
+        ],
+        "answer": 2,
+        "explanation": "Zero net external force ensures momentum conservation."
+    },
+    {
+        "id": 123,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Force is a scalar",
+            "Momentum is scalar",
+            "Impulse is vector",
+            "Energy is vector"
+        ],
+        "answer": 2,
+        "explanation": "Impulse has magnitude and direction."
+    },
+    {
+        "id": 124,
+        "question": "A body of mass m initially at rest is acted upon by a force F for time t. The final momentum of the body is:",
+        "options": [
+            "F/t",
+            "Ft",
+            "mFt",
+            "m/t"
+        ],
+        "answer": 1,
+        "explanation": "Final momentum equals impulse Ft."
+    },
+    {
+        "id": 125,
+        "question": "Which of the following forces is always perpendicular to velocity in uniform circular motion?",
+        "options": [
+            "Friction",
+            "Tension",
+            "Centripetal force",
+            "Gravitational force"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force acts perpendicular to velocity."
+    },
+    {
+        "id": 126,
+        "question": "The momentum of a body is zero when:",
+        "options": [
+            "Mass is zero",
+            "Velocity is zero",
+            "Acceleration is zero",
+            "Force is zero"
+        ],
+        "answer": 1,
+        "explanation": "Momentum p = mv, so p = 0 when v = 0."
+    },
+    {
+        "id": 127,
+        "question": "Which of the following pairs of quantities have the same dimensions?",
+        "options": [
+            "Impulse and momentum",
+            "Force and momentum",
+            "Energy and force",
+            "Power and impulse"
+        ],
+        "answer": 0,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 128,
+        "question": "A cricketer catches a ball by pulling his hands backward to:",
+        "options": [
+            "Increase momentum",
+            "Decrease impulse",
+            "Increase time of impact",
+            "Increase force"
+        ],
+        "answer": 2,
+        "explanation": "Increasing time reduces force for same momentum change."
+    },
+    {
+        "id": 129,
+        "question": "A body of mass m has momentum p. If its mass is halved and velocity doubled, its new momentum is:",
+        "options": [
+            "p/2",
+            "p",
+            "2p",
+            "4p"
+        ],
+        "answer": 1,
+        "explanation": "New momentum = (m/2)(2v) = mv = p."
+    },
+    {
+        "id": 130,
+        "question": "Which law states that force is the cause of change in momentum?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s second law relates force to change in momentum."
+    },
+    {
+        "id": 131,
+        "question": "The total momentum of an isolated system of particles is:",
+        "options": [
+            "Zero always",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Momentum of an isolated system remains constant."
+    },
+    {
+        "id": 132,
+        "question": "A body is acted upon by a force for a short time. The effect of the force is best described by:",
+        "options": [
+            "Work",
+            "Impulse",
+            "Power",
+            "Energy"
+        ],
+        "answer": 1,
+        "explanation": "Impulse describes effect of force acting for short time."
+    },
+    {
+        "id": 133,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Balanced forces produce acceleration",
+            "Unbalanced forces do not change momentum",
+            "Balanced forces cannot change velocity",
+            "Force is independent of acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces result in zero acceleration."
+    },
+    {
+        "id": 134,
+        "question": "A body moves in a straight line with increasing speed. The net force on it must be:",
+        "options": [
+            "Zero",
+            "In direction of motion",
+            "Opposite to motion",
+            "Perpendicular to motion"
+        ],
+        "answer": 1,
+        "explanation": "Force must be in direction of velocity to increase speed."
+    },
+    {
+        "id": 135,
+        "question": "Newton’s third law explains:",
+        "options": [
+            "Why bodies move",
+            "Why forces occur in pairs",
+            "Why momentum changes",
+            "Why acceleration occurs"
+        ],
+        "answer": 1,
+        "explanation": "Third law explains action–reaction force pairs."
+    },
+    {
+        "id": 136,
+        "question": "The force acting on a body is zero. Which of the following is possible?",
+        "options": [
+            "Body accelerates",
+            "Body remains at rest",
+            "Body moves with constant velocity",
+            "Both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Zero force implies rest or uniform motion."
+    },
+    {
+        "id": 137,
+        "question": "A body of mass m has acceleration a. If its mass is reduced to half, keeping force same, acceleration becomes:",
+        "options": [
+            "a",
+            "2a",
+            "a/2",
+            "4a"
+        ],
+        "answer": 1,
+        "explanation": "a ∝ 1/m, so acceleration doubles."
+    },
+    {
+        "id": 138,
+        "question": "Which of the following quantities is a measure of inertia?",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Mass measures inertia."
+    },
+    {
+        "id": 139,
+        "question": "A force acting on a body causes change in:",
+        "options": [
+            "Mass",
+            "Velocity",
+            "Density",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "Force causes change in velocity."
+    },
+    {
+        "id": 140,
+        "question": "A body initially at rest starts moving due to an applied force. Which law is involved?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "First law explains change from rest due to force."
+    },
+    {
+        "id": 141,
+        "question": "Which of the following is an example of inertia of rest?",
+        "options": [
+            "Falling leaves",
+            "Coin on card trick",
+            "Passenger leaning sideways",
+            "Recoil of gun"
+        ],
+        "answer": 1,
+        "explanation": "Coin tends to remain at rest when card is flicked."
+    },
+    {
+        "id": 142,
+        "question": "The acceleration produced in a body is inversely proportional to its:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, a ∝ 1/m."
+    },
+    {
+        "id": 143,
+        "question": "Which of the following is always conserved when no external force acts?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved without external force."
+    },
+    {
+        "id": 144,
+        "question": "The effect of a force on a body can be described as:",
+        "options": [
+            "Change in shape only",
+            "Change in size only",
+            "Change in state of motion",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Force can change shape, size, or state of motion."
+    },
+    {
+        "id": 145,
+        "question": "Which of the following quantities is not a vector?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Impulse",
+            "Mass"
+        ],
+        "answer": 3,
+        "explanation": "Mass is a scalar quantity."
+    },
+    {
+        "id": 146,
+        "question": "A body moves with uniform velocity. The net force acting on it is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies zero acceleration and zero net force."
+    },
+    {
+        "id": 147,
+        "question": "The impulse experienced by a body is numerically equal to:",
+        "options": [
+            "Force",
+            "Work done",
+            "Change in momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 148,
+        "question": "A body of mass m is moving with velocity v. If velocity is reversed, the change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Reversal changes momentum by 2mv."
+    },
+    {
+        "id": 149,
+        "question": "Which of the following best represents Newton’s second law?",
+        "options": [
+            "F = ma",
+            "p = mv",
+            "v = u + at",
+            "s = ut + 1/2 at^2"
+        ],
+        "answer": 0,
+        "explanation": "F = ma is the mathematical form of second law."
+    },
+    {
+        "id": 150,
+        "question": "A force acts on a body but produces no acceleration. This is possible when:",
+        "options": [
+            "Mass is infinite",
+            "Force is zero",
+            "Forces are balanced",
+            "Velocity is zero"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces result in zero acceleration."
+    }
+]
+[
+    {
+        "id": 151,
+        "question": "A body of mass m moves with velocity v. If its velocity is increased to 2v, its momentum becomes:",
+        "options": [
+            "mv",
+            "2mv",
+            "4mv",
+            "mv/2"
+        ],
+        "answer": 1,
+        "explanation": "Momentum p = mv, so doubling velocity doubles momentum."
+    },
+    {
+        "id": 152,
+        "question": "Which of the following situations best illustrates Newton’s first law of motion?",
+        "options": [
+            "A ball rolling on rough ground stops",
+            "A book lying on a table remains at rest",
+            "A stone falls freely",
+            "A car accelerates on a road"
+        ],
+        "answer": 1,
+        "explanation": "A book remains at rest due to inertia when no unbalanced force acts."
+    },
+    {
+        "id": 153,
+        "question": "The momentum of a system of particles is conserved if:",
+        "options": [
+            "Internal forces act",
+            "External forces act",
+            "Net external force is zero",
+            "Mass of system changes"
+        ],
+        "answer": 2,
+        "explanation": "Momentum conservation requires zero net external force."
+    },
+    {
+        "id": 154,
+        "question": "A force acting on a body for a short duration produces an effect measured by:",
+        "options": [
+            "Work",
+            "Energy",
+            "Impulse",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Impulse measures effect of force acting for a short time."
+    },
+    {
+        "id": 155,
+        "question": "A body of mass m moving with velocity v is brought to rest in time t. The magnitude of force applied is:",
+        "options": [
+            "mv/t",
+            "mvt",
+            "v/mt",
+            "t/mv"
+        ],
+        "answer": 0,
+        "explanation": "Force = change in momentum / time = mv/t."
+    },
+    {
+        "id": 156,
+        "question": "Which of the following quantities remains unchanged when a force acts perpendicular to velocity?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Direction of motion"
+        ],
+        "answer": 0,
+        "explanation": "Perpendicular force changes direction, not speed."
+    },
+    {
+        "id": 157,
+        "question": "The inertia of a body depends upon its:",
+        "options": [
+            "Shape",
+            "Volume",
+            "Mass",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Mass is the measure of inertia."
+    },
+    {
+        "id": 158,
+        "question": "A body moves in a straight line with uniform velocity. Which of the following is zero?",
+        "options": [
+            "Momentum",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "Uniform velocity implies zero acceleration."
+    },
+    {
+        "id": 159,
+        "question": "Action and reaction forces are:",
+        "options": [
+            "Equal and act on same body",
+            "Unequal and opposite",
+            "Equal and opposite acting on different bodies",
+            "Equal and act along same direction"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s third law states forces are equal, opposite, and act on different bodies."
+    },
+    {
+        "id": 160,
+        "question": "The SI unit of impulse is:",
+        "options": [
+            "kg m s^-1",
+            "N s",
+            "Both A and B",
+            "J"
+        ],
+        "answer": 2,
+        "explanation": "Impulse has unit kg m s^-1, same as N s."
+    },
+    {
+        "id": 161,
+        "question": "A car suddenly stops and passengers fall forward due to:",
+        "options": [
+            "Inertia of rest",
+            "Inertia of motion",
+            "Inertia of direction",
+            "Balanced forces"
+        ],
+        "answer": 1,
+        "explanation": "Passengers tend to continue moving due to inertia of motion."
+    },
+    {
+        "id": 162,
+        "question": "If a body has zero momentum, it must have:",
+        "options": [
+            "Zero mass",
+            "Zero velocity",
+            "Zero acceleration",
+            "Zero force"
+        ],
+        "answer": 1,
+        "explanation": "Momentum p = mv, so p = 0 when v = 0."
+    },
+    {
+        "id": 163,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Force is scalar",
+            "Momentum is scalar",
+            "Impulse is vector",
+            "Energy is vector"
+        ],
+        "answer": 2,
+        "explanation": "Impulse has direction, hence it is a vector."
+    },
+    {
+        "id": 164,
+        "question": "A force acting on a body does not change its speed but changes its direction. The force is:",
+        "options": [
+            "Zero",
+            "Parallel to velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity"
+        ],
+        "answer": 3,
+        "explanation": "Perpendicular force changes direction only."
+    },
+    {
+        "id": 165,
+        "question": "The conservation of momentum in collisions holds true when:",
+        "options": [
+            "Collision is elastic",
+            "Collision is inelastic",
+            "External force is zero",
+            "Masses are equal"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved if net external force is zero."
+    },
+    {
+        "id": 166,
+        "question": "A body of mass m is acted upon by force F. The acceleration produced is:",
+        "options": [
+            "F/m",
+            "m/F",
+            "Fm",
+            "F + m"
+        ],
+        "answer": 0,
+        "explanation": "From Newton’s second law, a = F/m."
+    },
+    {
+        "id": 167,
+        "question": "Which of the following quantities can change without the application of force?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Direction of motion"
+        ],
+        "answer": 3,
+        "explanation": "Direction cannot change without force; hence others need force."
+    },
+    {
+        "id": 168,
+        "question": "A body moves with increasing speed. The net force on it must be:",
+        "options": [
+            "Zero",
+            "Opposite to velocity",
+            "Along velocity",
+            "Perpendicular to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Force in direction of motion increases speed."
+    },
+    {
+        "id": 169,
+        "question": "The momentum of a body depends on:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv depends on mass and velocity."
+    },
+    {
+        "id": 170,
+        "question": "A bullet embeds into a block at rest. The collision is:",
+        "options": [
+            "Perfectly elastic",
+            "Perfectly inelastic",
+            "Elastic",
+            "Explosive"
+        ],
+        "answer": 1,
+        "explanation": "Embedding implies perfectly inelastic collision."
+    },
+    {
+        "id": 171,
+        "question": "The recoil velocity of a gun is due to conservation of:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Gun and bullet system conserves momentum."
+    },
+    {
+        "id": 172,
+        "question": "A body of mass m has momentum p. If its mass becomes 2m and velocity becomes v/2, the momentum becomes:",
+        "options": [
+            "p/2",
+            "p",
+            "2p",
+            "4p"
+        ],
+        "answer": 1,
+        "explanation": "New momentum = 2m × v/2 = mv = p."
+    },
+    {
+        "id": 173,
+        "question": "Which of the following is not a force?",
+        "options": [
+            "Friction",
+            "Momentum",
+            "Tension",
+            "Normal reaction"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is not a force."
+    },
+    {
+        "id": 174,
+        "question": "A force of 10 N acts on a body of mass 5 kg. The acceleration produced is:",
+        "options": [
+            "0.5 m s^-2",
+            "2 m s^-2",
+            "5 m s^-2",
+            "50 m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "a = F/m = 10/5 = 2 m s^-2."
+    },
+    {
+        "id": 175,
+        "question": "Newton’s third law explains why:",
+        "options": [
+            "Bodies accelerate",
+            "Forces exist in pairs",
+            "Momentum changes",
+            "Energy is conserved"
+        ],
+        "answer": 1,
+        "explanation": "Third law states forces occur in equal and opposite pairs."
+    },
+    {
+        "id": 176,
+        "question": "A body experiences zero net force. Which of the following is possible?",
+        "options": [
+            "Body accelerates",
+            "Body moves with uniform velocity",
+            "Body changes direction",
+            "Momentum changes"
+        ],
+        "answer": 1,
+        "explanation": "Zero force implies uniform velocity."
+    },
+    {
+        "id": 177,
+        "question": "Which of the following has the greatest inertia?",
+        "options": [
+            "Stone",
+            "Iron ball",
+            "Wooden block",
+            "Truck"
+        ],
+        "answer": 3,
+        "explanation": "Greater mass implies greater inertia."
+    },
+    {
+        "id": 178,
+        "question": "The momentum of a body is directly proportional to its:",
+        "options": [
+            "Acceleration",
+            "Mass",
+            "Velocity",
+            "Both mass and velocity"
+        ],
+        "answer": 3,
+        "explanation": "Momentum p = mv depends on both mass and velocity."
+    },
+    {
+        "id": 179,
+        "question": "A cricketer pulls his hands backward while catching a ball to:",
+        "options": [
+            "Increase momentum",
+            "Decrease stopping time",
+            "Increase stopping time",
+            "Increase force"
+        ],
+        "answer": 2,
+        "explanation": "Increasing stopping time reduces force."
+    },
+    {
+        "id": 180,
+        "question": "Which of the following quantities is conserved in an isolated system?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in isolated system."
+    },
+    {
+        "id": 181,
+        "question": "A body initially at rest starts moving due to applied force. Which law explains this?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "First law explains change from rest due to force."
+    },
+    {
+        "id": 182,
+        "question": "The effect of force on a rigid body can be:",
+        "options": [
+            "Translation only",
+            "Rotation only",
+            "Deformation only",
+            "Translation, rotation or deformation"
+        ],
+        "answer": 3,
+        "explanation": "Force can cause translation, rotation, or deformation."
+    },
+    {
+        "id": 183,
+        "question": "Which of the following quantities is not conserved in an inelastic collision?",
+        "options": [
+            "Momentum",
+            "Total energy",
+            "Kinetic energy",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is not conserved in inelastic collisions."
+    },
+    {
+        "id": 184,
+        "question": "A body of mass m moving with velocity v has kinetic momentum proportional to:",
+        "options": [
+            "v",
+            "m",
+            "mv",
+            "v^2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 185,
+        "question": "Which of the following best defines force?",
+        "options": [
+            "Change in velocity",
+            "Change in momentum",
+            "Rate of change of momentum",
+            "Product of mass and velocity"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s second law defines force as rate of change of momentum."
+    },
+    {
+        "id": 186,
+        "question": "A body moves with constant speed in a circular path. The net force acting is:",
+        "options": [
+            "Zero",
+            "Along velocity",
+            "Opposite to velocity",
+            "Towards the centre"
+        ],
+        "answer": 3,
+        "explanation": "Centripetal force acts towards the centre."
+    },
+    {
+        "id": 187,
+        "question": "The acceleration produced in a body is directly proportional to:",
+        "options": [
+            "Mass",
+            "Velocity",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, acceleration ∝ force."
+    },
+    {
+        "id": 188,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Force changes mass",
+            "Force changes inertia",
+            "Force changes velocity",
+            "Force changes density"
+        ],
+        "answer": 2,
+        "explanation": "Force causes change in velocity."
+    },
+    {
+        "id": 189,
+        "question": "A body of mass m is moving with velocity v. If the velocity is reduced to zero, the change in momentum is:",
+        "options": [
+            "mv",
+            "0",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 0,
+        "explanation": "Change in momentum = mv − 0 = mv."
+    },
+    {
+        "id": 190,
+        "question": "Which law explains why dust flies off when a carpet is beaten?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Dust particles tend to remain at rest due to inertia."
+    },
+    {
+        "id": 191,
+        "question": "A force acting on a body produces acceleration inversely proportional to its:",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, a ∝ 1/m."
+    },
+    {
+        "id": 192,
+        "question": "Which of the following is an example of inertia of direction?",
+        "options": [
+            "Passenger falling forward when bus stops",
+            "Coin on card trick",
+            "Passenger pushed sideways in a turning car",
+            "Recoil of gun"
+        ],
+        "answer": 2,
+        "explanation": "Change in direction causes sideways motion due to inertia."
+    },
+    {
+        "id": 193,
+        "question": "The SI unit of force is equivalent to:",
+        "options": [
+            "kg m s^-1",
+            "kg m s^-2",
+            "kg m^2 s^-2",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "Force unit is kg m s^-2."
+    },
+    {
+        "id": 194,
+        "question": "A body is at rest or in uniform motion. Which law applies?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law describes rest or uniform motion."
+    },
+    {
+        "id": 195,
+        "question": "The total momentum of two colliding bodies before collision is equal to total momentum after collision because of:",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Conservation principle"
+        ],
+        "answer": 3,
+        "explanation": "Momentum conservation principle applies."
+    },
+    {
+        "id": 196,
+        "question": "Which of the following quantities has the same unit as impulse?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Impulse and momentum have same units."
+    },
+    {
+        "id": 197,
+        "question": "A body of mass m has acceleration a. If force is doubled, acceleration becomes:",
+        "options": [
+            "a",
+            "2a",
+            "a/2",
+            "4a"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration is directly proportional to force."
+    },
+    {
+        "id": 198,
+        "question": "A body moves with constant velocity. Which quantity is conserved?",
+        "options": [
+            "Momentum",
+            "Acceleration",
+            "Force",
+            "Impulse"
+        ],
+        "answer": 0,
+        "explanation": "Momentum remains constant when velocity is constant."
+    },
+    {
+        "id": 199,
+        "question": "Which of the following cannot be zero for a moving body?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 0,
+        "explanation": "A moving body must have non-zero speed."
+    },
+    {
+        "id": 200,
+        "question": "According to Newton’s laws, change in momentum of a body requires:",
+        "options": [
+            "Mass change",
+            "Velocity change",
+            "External force",
+            "Time interval"
+        ],
+        "answer": 2,
+        "explanation": "Momentum changes only when an external force acts."
+    }
+]
+[
+    {
+        "id": 201,
+        "question": "A body of mass m moving with velocity v is acted upon by a constant force F opposite to the direction of motion. The acceleration of the body is:",
+        "options": [
+            "F/m",
+            "-F/m",
+            "m/F",
+            "-m/F"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, acceleration a = F/m; opposite direction gives negative sign."
+    },
+    {
+        "id": 202,
+        "question": "Which of the following statements correctly describes inertia?",
+        "options": [
+            "Resistance to change in velocity only",
+            "Resistance to change in direction only",
+            "Resistance to change in state of rest or uniform motion",
+            "Resistance to change in acceleration"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines inertia as resistance to change in state of rest or uniform motion."
+    },
+    {
+        "id": 203,
+        "question": "A person standing in a bus moving with uniform velocity throws a ball vertically upward. For an observer on the ground, the path of the ball appears:",
+        "options": [
+            "Vertical straight line",
+            "Parabolic",
+            "Circular",
+            "Horizontal straight line"
+        ],
+        "answer": 1,
+        "explanation": "For ground observer, the ball has horizontal velocity of the bus, giving a parabolic path."
+    },
+    {
+        "id": 204,
+        "question": "If a force F produces acceleration a in a body of mass m, the same force will produce acceleration 2a in a body of mass:",
+        "options": [
+            "m/2",
+            "m",
+            "2m",
+            "4m"
+        ],
+        "answer": 0,
+        "explanation": "From F = ma, for acceleration 2a, mass must be m/2."
+    },
+    {
+        "id": 205,
+        "question": "The momentum of a body is numerically equal to impulse when:",
+        "options": [
+            "Force is zero",
+            "Body is at rest initially",
+            "Acceleration is zero",
+            "Velocity is constant"
+        ],
+        "answer": 1,
+        "explanation": "Impulse equals change in momentum; if initial momentum is zero, impulse equals final momentum."
+    },
+    {
+        "id": 206,
+        "question": "Which of the following pairs always acts on different bodies?",
+        "options": [
+            "Balanced forces",
+            "Unbalanced forces",
+            "Action and reaction forces",
+            "Frictional forces"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s third law forces always act on different bodies."
+    },
+    {
+        "id": 207,
+        "question": "A body is moving with constant momentum. The net force acting on it is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Decreasing",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "Constant momentum implies zero rate of change of momentum, hence zero net force."
+    },
+    {
+        "id": 208,
+        "question": "The recoil of a gun is explained by:",
+        "options": [
+            "Newton’s first law",
+            "Newton’s second law",
+            "Newton’s third law",
+            "Law of inertia"
+        ],
+        "answer": 2,
+        "explanation": "Recoil is due to equal and opposite reaction force."
+    },
+    {
+        "id": 209,
+        "question": "A force acting on a body changes its:",
+        "options": [
+            "Mass",
+            "Density",
+            "Velocity",
+            "Volume"
+        ],
+        "answer": 2,
+        "explanation": "Force changes velocity by producing acceleration."
+    },
+    {
+        "id": 210,
+        "question": "If the net external force on a system is zero, the centre of mass of the system:",
+        "options": [
+            "Remains at rest only",
+            "Moves with constant velocity",
+            "Moves with increasing velocity",
+            "Moves in a circle"
+        ],
+        "answer": 1,
+        "explanation": "With zero net external force, centre of mass moves with constant velocity."
+    },
+    {
+        "id": 211,
+        "question": "A body is acted upon by several forces but remains at rest. This implies:",
+        "options": [
+            "Each force is zero",
+            "Net force is zero",
+            "Acceleration is maximum",
+            "Momentum is changing"
+        ],
+        "answer": 1,
+        "explanation": "At rest implies zero acceleration, hence net force is zero."
+    },
+    {
+        "id": 212,
+        "question": "The momentum of a body of mass m moving with velocity v becomes zero when:",
+        "options": [
+            "m = 0",
+            "v = 0",
+            "a = 0",
+            "F = 0"
+        ],
+        "answer": 1,
+        "explanation": "Momentum p = mv; p = 0 when velocity is zero."
+    },
+    {
+        "id": 213,
+        "question": "Which of the following is an example of inertia of rest?",
+        "options": [
+            "Passenger leaning forward when bus stops",
+            "Dust leaving carpet when beaten",
+            "Passenger pushed sideways in turning car",
+            "Recoil of gun"
+        ],
+        "answer": 1,
+        "explanation": "Dust tends to remain at rest due to inertia of rest."
+    },
+    {
+        "id": 214,
+        "question": "A body of mass m moving with velocity v collides head-on with a stationary wall and rebounds with same speed. The change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Velocity reverses direction, giving change in momentum of 2mv."
+    },
+    {
+        "id": 215,
+        "question": "The impulse acting on a body is equal to:",
+        "options": [
+            "Force × distance",
+            "Force × time",
+            "Mass × acceleration",
+            "Mass × velocity"
+        ],
+        "answer": 1,
+        "explanation": "Impulse is defined as force multiplied by time."
+    },
+    {
+        "id": 216,
+        "question": "Which of the following quantities is conserved in every collision?",
+        "options": [
+            "Kinetic energy",
+            "Momentum",
+            "Speed",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved in all collisions when no external force acts."
+    },
+    {
+        "id": 217,
+        "question": "A body moves with constant speed in a circular path. The magnitude of momentum:",
+        "options": [
+            "Remains constant",
+            "Increases",
+            "Decreases",
+            "Becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "Speed and mass are constant, so magnitude of momentum remains constant."
+    },
+    {
+        "id": 218,
+        "question": "A force acts on a body but produces no acceleration. This is possible when:",
+        "options": [
+            "Mass is zero",
+            "Velocity is zero",
+            "Forces are balanced",
+            "Motion is circular"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces give zero net force and hence zero acceleration."
+    },
+    {
+        "id": 219,
+        "question": "A body of mass m experiences acceleration a due to force F. If the same force acts on mass 3m, the acceleration becomes:",
+        "options": [
+            "a",
+            "a/3",
+            "3a",
+            "9a"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 220,
+        "question": "The unit of momentum is equivalent to:",
+        "options": [
+            "N s",
+            "J s",
+            "kg m^2 s^-2",
+            "N m"
+        ],
+        "answer": 0,
+        "explanation": "Momentum has unit kg m s^-1, which is equivalent to N s."
+    },
+    {
+        "id": 221,
+        "question": "Which law explains why a passenger is thrown backward when a bus starts suddenly?",
+        "options": [
+            "Second law",
+            "Third law",
+            "Law of inertia",
+            "Law of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Inertia of rest causes the passenger to resist change in motion."
+    },
+    {
+        "id": 222,
+        "question": "The force required to bring a body of mass m moving with velocity v to rest in time t is proportional to:",
+        "options": [
+            "mvt",
+            "mv/t",
+            "vt/m",
+            "m/t"
+        ],
+        "answer": 1,
+        "explanation": "Force = change in momentum / time = mv/t."
+    },
+    {
+        "id": 223,
+        "question": "A body moves with uniform velocity. Which of the following quantities must be zero?",
+        "options": [
+            "Momentum",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "Uniform velocity implies zero acceleration."
+    },
+    {
+        "id": 224,
+        "question": "Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Tension",
+            "Gravitational force"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational force acts without physical contact."
+    },
+    {
+        "id": 225,
+        "question": "If a force acting on a body is doubled and its mass is halved, the acceleration becomes:",
+        "options": [
+            "a",
+            "2a",
+            "4a",
+            "a/2"
+        ],
+        "answer": 2,
+        "explanation": "a = F/m; new acceleration = 2F/(m/2) = 4a."
+    },
+    {
+        "id": 226,
+        "question": "Which of the following is not a vector quantity?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Impulse",
+            "Mass"
+        ],
+        "answer": 3,
+        "explanation": "Mass is a scalar quantity."
+    },
+    {
+        "id": 227,
+        "question": "A body is moving with constant velocity. Which law explains this motion?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law describes uniform motion."
+    },
+    {
+        "id": 228,
+        "question": "The product of mass and velocity of a body is called:",
+        "options": [
+            "Force",
+            "Impulse",
+            "Momentum",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is defined as mass × velocity."
+    },
+    {
+        "id": 229,
+        "question": "A heavy truck and a small car moving with the same speed have different momenta because of difference in:",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum depends on mass and velocity."
+    },
+    {
+        "id": 230,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Impulse is scalar",
+            "Momentum is scalar",
+            "Force is vector",
+            "Energy is vector"
+        ],
+        "answer": 2,
+        "explanation": "Force has magnitude and direction, so it is a vector."
+    },
+    {
+        "id": 231,
+        "question": "A body of mass m has acceleration a. The net force acting on it is:",
+        "options": [
+            "m/a",
+            "a/m",
+            "ma",
+            "m + a"
+        ],
+        "answer": 2,
+        "explanation": "From Newton’s second law, F = ma."
+    },
+    {
+        "id": 232,
+        "question": "Which of the following best represents Newton’s third law?",
+        "options": [
+            "F = ma",
+            "p = mv",
+            "For every action there is an equal and opposite reaction",
+            "Momentum is conserved"
+        ],
+        "answer": 2,
+        "explanation": "This statement directly defines Newton’s third law."
+    },
+    {
+        "id": 233,
+        "question": "A body moves with constant speed but changing direction. The net force acting on it is:",
+        "options": [
+            "Zero",
+            "Along velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity"
+        ],
+        "answer": 3,
+        "explanation": "Changing direction requires a force perpendicular to velocity."
+    },
+    {
+        "id": 234,
+        "question": "Which of the following is an example of inertia of motion?",
+        "options": [
+            "Coin remaining on card",
+            "Passenger falling backward when bus starts",
+            "Passenger falling forward when bus stops",
+            "Dust leaving carpet"
+        ],
+        "answer": 2,
+        "explanation": "Passenger tends to continue motion when bus stops."
+    },
+    {
+        "id": 235,
+        "question": "The momentum of a system of particles remains constant if:",
+        "options": [
+            "Internal forces act",
+            "External forces act",
+            "Net external force is zero",
+            "Mass changes"
+        ],
+        "answer": 2,
+        "explanation": "Zero net external force ensures momentum conservation."
+    },
+    {
+        "id": 236,
+        "question": "The effect of force acting on a body can be:",
+        "options": [
+            "Change in shape",
+            "Change in speed",
+            "Change in direction",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Force can change shape, speed, or direction."
+    },
+    {
+        "id": 237,
+        "question": "Which of the following has the greatest inertia?",
+        "options": [
+            "Football",
+            "Cricket ball",
+            "Bicycle",
+            "Loaded truck"
+        ],
+        "answer": 3,
+        "explanation": "Greater mass means greater inertia."
+    },
+    {
+        "id": 238,
+        "question": "A force acting on a body produces acceleration proportional to:",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration is directly proportional to force."
+    },
+    {
+        "id": 239,
+        "question": "Which of the following quantities can be zero for a moving body?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "A body can move with constant velocity and zero acceleration."
+    },
+    {
+        "id": 240,
+        "question": "A body of mass m moves with velocity v. If its velocity is reduced to half, its momentum becomes:",
+        "options": [
+            "mv",
+            "mv/2",
+            "2mv",
+            "4mv"
+        ],
+        "answer": 1,
+        "explanation": "Momentum p = mv, so halving velocity halves momentum."
+    },
+    {
+        "id": 241,
+        "question": "The principle of conservation of momentum is based on:",
+        "options": [
+            "First law only",
+            "Second law only",
+            "Third law only",
+            "Second and third laws"
+        ],
+        "answer": 3,
+        "explanation": "It follows from Newton’s second and third laws."
+    },
+    {
+        "id": 242,
+        "question": "A force acting for a very short time with large magnitude is best described by:",
+        "options": [
+            "Work",
+            "Energy",
+            "Impulse",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Impulse accounts for force acting over short time."
+    },
+    {
+        "id": 243,
+        "question": "Which of the following statements is correct according to NCERT?",
+        "options": [
+            "Balanced forces change momentum",
+            "Unbalanced forces change momentum",
+            "Balanced forces always accelerate bodies",
+            "Force is independent of mass"
+        ],
+        "answer": 1,
+        "explanation": "Only unbalanced forces can change momentum."
+    },
+    {
+        "id": 244,
+        "question": "A body initially at rest starts moving due to applied force. Which law explains this?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "First law explains change from rest due to force."
+    },
+    {
+        "id": 245,
+        "question": "Which of the following quantities is conserved in an isolated system?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum remains conserved in an isolated system."
+    },
+    {
+        "id": 246,
+        "question": "The SI unit of force is equivalent to:",
+        "options": [
+            "kg m s^-1",
+            "kg m s^-2",
+            "kg m^2 s^-2",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "Force has unit kg m s^-2."
+    },
+    {
+        "id": 247,
+        "question": "A body moves with constant velocity. Its kinetic energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant kinetic energy."
+    },
+    {
+        "id": 248,
+        "question": "Which law provides the quantitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 1,
+        "explanation": "Second law gives quantitative relation F = ma."
+    },
+    {
+        "id": 249,
+        "question": "A body of mass m has velocity v. If both mass and velocity are doubled, the momentum becomes:",
+        "options": [
+            "mv",
+            "2mv",
+            "4mv",
+            "8mv"
+        ],
+        "answer": 2,
+        "explanation": "New momentum = (2m)(2v) = 4mv."
+    },
+    {
+        "id": 250,
+        "question": "According to Newton’s laws, a change in momentum of a body requires:",
+        "options": [
+            "Mass change",
+            "Velocity change",
+            "External force",
+            "Time interval"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum occurs only due to an external force."
+    }
+]
+[
+    {
+        "id": 251,
+        "question": "A body of mass m moving with velocity v is brought to rest by a constant force F in time t. The impulse delivered to the body is:",
+        "options": [
+            "F/t",
+            "Ft",
+            "mv",
+            "Both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Impulse equals change in momentum; Ft = mv."
+    },
+    {
+        "id": 252,
+        "question": "Which of the following statements about inertia is correct?",
+        "options": [
+            "Inertia depends on velocity",
+            "Inertia depends on acceleration",
+            "Inertia depends on mass",
+            "Inertia depends on force"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states mass is the measure of inertia."
+    },
+    {
+        "id": 253,
+        "question": "A particle is moving with constant speed in a straight line. The net force acting on it is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed in straight line implies constant velocity and zero net force."
+    },
+    {
+        "id": 254,
+        "question": "The product of force and time is equal to:",
+        "options": [
+            "Momentum",
+            "Impulse",
+            "Work",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Impulse is defined as force multiplied by time."
+    },
+    {
+        "id": 255,
+        "question": "A body experiences a force but does not accelerate. This is possible if:",
+        "options": [
+            "The body is very heavy",
+            "The force is small",
+            "Forces are balanced",
+            "The body is at rest"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces result in zero net force and zero acceleration."
+    },
+    {
+        "id": 256,
+        "question": "Which of the following quantities changes when a force acts on a body?",
+        "options": [
+            "Mass",
+            "Velocity",
+            "Density",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "Force causes a change in velocity."
+    },
+    {
+        "id": 257,
+        "question": "The momentum of a system remains conserved if:",
+        "options": [
+            "Internal forces act",
+            "Net external force is zero",
+            "Bodies collide elastically",
+            "Masses are equal"
+        ],
+        "answer": 1,
+        "explanation": "Momentum conservation requires zero net external force."
+    },
+    {
+        "id": 258,
+        "question": "A body of mass m moves with velocity v. If its velocity becomes zero, the magnitude of change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 1,
+        "explanation": "Change in momentum = mv − 0 = mv."
+    },
+    {
+        "id": 259,
+        "question": "Which of the following is an example of inertia of direction?",
+        "options": [
+            "Dust flying off carpet",
+            "Coin remaining on card",
+            "Passenger pushed sideways in a turning car",
+            "Recoil of gun"
+        ],
+        "answer": 2,
+        "explanation": "Change in direction causes sideways motion due to inertia of direction."
+    },
+    {
+        "id": 260,
+        "question": "A force of 20 N acts on a body of mass 4 kg. The acceleration produced is:",
+        "options": [
+            "2 m s^-2",
+            "4 m s^-2",
+            "5 m s^-2",
+            "10 m s^-2"
+        ],
+        "answer": 2,
+        "explanation": "a = F/m = 20/4 = 5 m s^-2."
+    },
+    {
+        "id": 261,
+        "question": "The momentum of a body moving with uniform velocity is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies constant momentum."
+    },
+    {
+        "id": 262,
+        "question": "Which law explains why a person jumping from a boat causes the boat to move backward?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 2,
+        "explanation": "Action–reaction principle explains the backward motion."
+    },
+    {
+        "id": 263,
+        "question": "The SI unit of momentum is equivalent to:",
+        "options": [
+            "N s",
+            "kg m s^-1",
+            "Both A and B",
+            "kg m^2 s^-2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum unit kg m s^-1 is equivalent to N s."
+    },
+    {
+        "id": 264,
+        "question": "A body is acted upon by two equal and opposite forces. The acceleration of the body is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Equal and opposite forces cancel, giving zero acceleration."
+    },
+    {
+        "id": 265,
+        "question": "Which of the following quantities can be zero for a body in motion?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "A body can move with constant velocity and zero acceleration."
+    },
+    {
+        "id": 266,
+        "question": "A force acting perpendicular to velocity produces change in:",
+        "options": [
+            "Speed only",
+            "Direction only",
+            "Magnitude of velocity",
+            "Mass"
+        ],
+        "answer": 1,
+        "explanation": "Perpendicular force changes only direction of velocity."
+    },
+    {
+        "id": 267,
+        "question": "The recoil velocity of a gun is smaller than the velocity of bullet because:",
+        "options": [
+            "Gun has smaller mass",
+            "Gun has larger mass",
+            "Bullet has smaller momentum",
+            "Momentum is not conserved"
+        ],
+        "answer": 1,
+        "explanation": "Gun has much larger mass, so recoil velocity is smaller."
+    },
+    {
+        "id": 268,
+        "question": "Which of the following best defines impulse?",
+        "options": [
+            "Change in velocity",
+            "Rate of change of momentum",
+            "Force × time",
+            "Mass × acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Impulse is defined as force multiplied by time."
+    },
+    {
+        "id": 269,
+        "question": "The effect of force on a rigid body may result in:",
+        "options": [
+            "Translation only",
+            "Rotation only",
+            "Deformation only",
+            "Translation, rotation or deformation"
+        ],
+        "answer": 3,
+        "explanation": "Force can cause translation, rotation, or deformation."
+    },
+    {
+        "id": 270,
+        "question": "A particle moves with constant speed in a circular path. Which quantity remains constant?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Speed"
+        ],
+        "answer": 3,
+        "explanation": "Speed remains constant in uniform circular motion."
+    },
+    {
+        "id": 271,
+        "question": "Which of the following is not a contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Tension",
+            "Gravitational force"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational force acts without contact."
+    },
+    {
+        "id": 272,
+        "question": "If the net force acting on a body is zero, which of the following is possible?",
+        "options": [
+            "Uniform acceleration",
+            "Uniform velocity",
+            "Changing momentum",
+            "Changing speed"
+        ],
+        "answer": 1,
+        "explanation": "Zero net force implies uniform velocity."
+    },
+    {
+        "id": 273,
+        "question": "The momentum of a body depends on:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 274,
+        "question": "A body initially at rest is acted upon by a force. Which law explains its motion?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of inertia"
+        ],
+        "answer": 0,
+        "explanation": "First law explains change from rest due to force."
+    },
+    {
+        "id": 275,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Impulse is scalar",
+            "Momentum is scalar",
+            "Force is vector",
+            "Energy is vector"
+        ],
+        "answer": 2,
+        "explanation": "Force has magnitude and direction."
+    },
+    {
+        "id": 276,
+        "question": "A body moves with increasing speed in a straight line. The direction of net force is:",
+        "options": [
+            "Opposite to motion",
+            "Along motion",
+            "Perpendicular to motion",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Force must act along direction of motion to increase speed."
+    },
+    {
+        "id": 277,
+        "question": "Which of the following quantities remains conserved in an isolated system?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum remains conserved in an isolated system."
+    },
+    {
+        "id": 278,
+        "question": "The unit of force in CGS system is:",
+        "options": [
+            "Newton",
+            "Dyne",
+            "Joule",
+            "Erg"
+        ],
+        "answer": 1,
+        "explanation": "CGS unit of force is dyne."
+    },
+    {
+        "id": 279,
+        "question": "A body of mass m has momentum p. If velocity is doubled, new momentum becomes:",
+        "options": [
+            "p/2",
+            "p",
+            "2p",
+            "4p"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is directly proportional to velocity."
+    },
+    {
+        "id": 280,
+        "question": "Which law explains why dust particles fly off when a carpet is beaten?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Dust tends to remain at rest due to inertia."
+    },
+    {
+        "id": 281,
+        "question": "The acceleration produced by a given force is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 282,
+        "question": "A body moves with constant velocity. Its kinetic energy is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant kinetic energy."
+    },
+    {
+        "id": 283,
+        "question": "Which of the following is an example of inertia of motion?",
+        "options": [
+            "Coin remaining on card",
+            "Passenger falling backward when bus starts",
+            "Passenger falling forward when bus stops",
+            "Dust flying off carpet"
+        ],
+        "answer": 2,
+        "explanation": "Passenger tends to continue motion when bus stops."
+    },
+    {
+        "id": 284,
+        "question": "The SI unit of force is equivalent to:",
+        "options": [
+            "kg m s^-1",
+            "kg m s^-2",
+            "kg m^2 s^-2",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "Force has unit kg m s^-2."
+    },
+    {
+        "id": 285,
+        "question": "A body is moving with uniform velocity. Which law explains this behavior?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law explains uniform motion."
+    },
+    {
+        "id": 286,
+        "question": "A force acts on a body but does not change its speed. The force must be:",
+        "options": [
+            "Parallel to velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Perpendicular force changes direction, not speed."
+    },
+    {
+        "id": 287,
+        "question": "Which of the following quantities is a measure of inertia?",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Mass is the measure of inertia."
+    },
+    {
+        "id": 288,
+        "question": "The momentum of a system remains conserved if the system is:",
+        "options": [
+            "Closed",
+            "Isolated",
+            "Accelerating",
+            "Rotating"
+        ],
+        "answer": 1,
+        "explanation": "Isolated system has no external force."
+    },
+    {
+        "id": 289,
+        "question": "Which of the following quantities cannot change without force?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum requires force."
+    },
+    {
+        "id": 290,
+        "question": "A body of mass m moves with velocity v. If both are halved, momentum becomes:",
+        "options": [
+            "mv",
+            "mv/2",
+            "mv/4",
+            "2mv"
+        ],
+        "answer": 2,
+        "explanation": "New momentum = (m/2)(v/2) = mv/4."
+    },
+    {
+        "id": 291,
+        "question": "Which law gives the qualitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law gives qualitative definition of force."
+    },
+    {
+        "id": 292,
+        "question": "The rate of change of momentum of a body is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s second law defines force."
+    },
+    {
+        "id": 293,
+        "question": "Which of the following is always conserved in a collision?",
+        "options": [
+            "Kinetic energy",
+            "Speed",
+            "Momentum",
+            "Velocity"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions."
+    },
+    {
+        "id": 294,
+        "question": "A body moves with constant speed in a straight line. Which of the following is zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "Constant speed and straight line implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 295,
+        "question": "A force acting on a body changes its momentum. The change is maximum when:",
+        "options": [
+            "Force is small, time large",
+            "Force is large, time small",
+            "Impulse is maximum",
+            "Mass is maximum"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum equals impulse."
+    },
+    {
+        "id": 296,
+        "question": "Which of the following is a vector quantity?",
+        "options": [
+            "Mass",
+            "Energy",
+            "Momentum",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Momentum has both magnitude and direction."
+    },
+    {
+        "id": 297,
+        "question": "A body moves with constant velocity. The net external force on it is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 0,
+        "explanation": "Uniform velocity implies zero net force."
+    },
+    {
+        "id": 298,
+        "question": "Which of the following situations violates Newton’s first law?",
+        "options": [
+            "Body at rest",
+            "Uniform motion",
+            "Accelerated motion without force",
+            "Constant velocity motion"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration without force violates Newton’s first law."
+    },
+    {
+        "id": 299,
+        "question": "The change in momentum of a body depends on:",
+        "options": [
+            "Force only",
+            "Time only",
+            "Force and time",
+            "Mass only"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum equals impulse, which depends on force and time."
+    },
+    {
+        "id": 300,
+        "question": "According to Newton’s laws, an external force is required to change:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Inertia",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "External force is required to change momentum."
+    }
+]
+[
+    {
+        "id": 301,
+        "question": "A body of mass m is moving with velocity v. The quantity that determines its resistance to change in motion is:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Inertia",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Inertia is the property of matter that resists change in state of motion."
+    },
+    {
+        "id": 302,
+        "question": "According to Newton’s first law, if no external force acts on a body, it will:",
+        "options": [
+            "Always remain at rest",
+            "Always move with constant acceleration",
+            "Remain at rest or move with uniform velocity",
+            "Move in a circle"
+        ],
+        "answer": 2,
+        "explanation": "First law states a body remains at rest or in uniform straight-line motion if no net force acts."
+    },
+    {
+        "id": 303,
+        "question": "The inertia of a body is directly proportional to its:",
+        "options": [
+            "Volume",
+            "Density",
+            "Mass",
+            "Velocity"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states mass is the measure of inertia."
+    },
+    {
+        "id": 304,
+        "question": "A body moves with uniform velocity along a straight line. The resultant force acting on it is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Equal to its weight"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies zero acceleration, hence zero net force."
+    },
+    {
+        "id": 305,
+        "question": "Newton’s first law is also known as the law of:",
+        "options": [
+            "Momentum",
+            "Acceleration",
+            "Inertia",
+            "Action–reaction"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s first law is called the law of inertia."
+    },
+    {
+        "id": 306,
+        "question": "Which of the following is an example of inertia of rest?",
+        "options": [
+            "Passenger leaning forward when bus stops",
+            "Dust flying off carpet when beaten",
+            "Passenger leaning sideways in a turning car",
+            "Recoil of gun"
+        ],
+        "answer": 1,
+        "explanation": "Dust tends to remain at rest when the carpet is beaten."
+    },
+    {
+        "id": 307,
+        "question": "Newton’s second law gives the relation between force and:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Displacement",
+            "Energy"
+        ],
+        "answer": 1,
+        "explanation": "Force is proportional to the rate of change of momentum."
+    },
+    {
+        "id": 308,
+        "question": "If a force F acts on a body of mass m producing acceleration a, the relation is:",
+        "options": [
+            "F = mv",
+            "F = ma",
+            "F = m/a",
+            "F = v/a"
+        ],
+        "answer": 1,
+        "explanation": "For constant mass, Newton’s second law gives F = ma."
+    },
+    {
+        "id": 309,
+        "question": "The SI unit of force is equivalent to:",
+        "options": [
+            "kg m s^-1",
+            "kg m s^-2",
+            "kg m^2 s^-2",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, unit of force is kg m s^-2."
+    },
+    {
+        "id": 310,
+        "question": "A force of 5 N acts on a body of mass 1 kg. The acceleration produced is:",
+        "options": [
+            "0.2 m s^-2",
+            "1 m s^-2",
+            "5 m s^-2",
+            "10 m s^-2"
+        ],
+        "answer": 2,
+        "explanation": "a = F/m = 5/1 = 5 m s^-2."
+    },
+    {
+        "id": 311,
+        "question": "The momentum of a body of mass m moving with velocity v is:",
+        "options": [
+            "mv",
+            "m/v",
+            "v/m",
+            "m + v"
+        ],
+        "answer": 0,
+        "explanation": "Momentum is defined as p = mv."
+    },
+    {
+        "id": 312,
+        "question": "The SI unit of momentum is:",
+        "options": [
+            "kg m s^-2",
+            "kg m s^-1",
+            "N s^-1",
+            "J s"
+        ],
+        "answer": 1,
+        "explanation": "Momentum has unit kg m s^-1."
+    },
+    {
+        "id": 313,
+        "question": "Impulse is equal to:",
+        "options": [
+            "Force × distance",
+            "Force × time",
+            "Mass × velocity",
+            "Acceleration × time"
+        ],
+        "answer": 1,
+        "explanation": "Impulse is defined as force multiplied by time."
+    },
+    {
+        "id": 314,
+        "question": "The SI unit of impulse is:",
+        "options": [
+            "N",
+            "N s",
+            "J",
+            "kg m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "Impulse has unit newton second (N s)."
+    },
+    {
+        "id": 315,
+        "question": "Impulse is numerically equal to the change in:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 316,
+        "question": "A body moving with velocity v is brought to rest. The magnitude of change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 1,
+        "explanation": "Change in momentum = mv − 0 = mv."
+    },
+    {
+        "id": 317,
+        "question": "If the time of stopping a moving body is increased, the force required to stop it:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Force = change in momentum / time, so increasing time reduces force."
+    },
+    {
+        "id": 318,
+        "question": "Seat belts in vehicles are provided to:",
+        "options": [
+            "Increase inertia",
+            "Increase momentum",
+            "Increase stopping time",
+            "Increase force"
+        ],
+        "answer": 2,
+        "explanation": "Seat belts increase stopping time, reducing force on the body."
+    },
+    {
+        "id": 319,
+        "question": "Newton’s third law states that:",
+        "options": [
+            "Force is proportional to acceleration",
+            "Every action has an equal reaction",
+            "Every action has an equal and opposite reaction",
+            "Momentum is conserved"
+        ],
+        "answer": 2,
+        "explanation": "For every action, there is an equal and opposite reaction."
+    },
+    {
+        "id": 320,
+        "question": "Action and reaction forces act on:",
+        "options": [
+            "Same body",
+            "Different bodies",
+            "Same point",
+            "Same direction"
+        ],
+        "answer": 1,
+        "explanation": "Action and reaction forces act on different bodies."
+    },
+    {
+        "id": 321,
+        "question": "Which of the following pairs illustrates Newton’s third law?",
+        "options": [
+            "Weight and mass",
+            "Action and reaction",
+            "Speed and velocity",
+            "Force and acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s third law deals with action–reaction force pairs."
+    },
+    {
+        "id": 322,
+        "question": "The recoil of a gun on firing is due to conservation of:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Gun and bullet system conserves momentum."
+    },
+    {
+        "id": 323,
+        "question": "The law of conservation of momentum is valid when:",
+        "options": [
+            "External force acts",
+            "Net external force is zero",
+            "Collision is elastic",
+            "Collision is inelastic"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved if net external force is zero."
+    },
+    {
+        "id": 324,
+        "question": "A man jumps from a stationary boat. The boat moves backward due to:",
+        "options": [
+            "Inertia",
+            "Friction",
+            "Conservation of momentum",
+            "Gravity"
+        ],
+        "answer": 2,
+        "explanation": "Momentum of the man–boat system is conserved."
+    },
+    {
+        "id": 325,
+        "question": "Which of the following quantities is always conserved in an isolated system?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum remains conserved in an isolated system."
+    },
+    {
+        "id": 326,
+        "question": "A body moves with constant velocity. Which quantity is zero?",
+        "options": [
+            "Momentum",
+            "Speed",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero acceleration."
+    },
+    {
+        "id": 327,
+        "question": "A force acting perpendicular to velocity changes the:",
+        "options": [
+            "Speed",
+            "Mass",
+            "Direction of motion",
+            "Magnitude of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Perpendicular force changes direction of velocity."
+    },
+    {
+        "id": 328,
+        "question": "Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Tension",
+            "Gravitational force"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational force acts without physical contact."
+    },
+    {
+        "id": 329,
+        "question": "The momentum of a body remains constant if:",
+        "options": [
+            "Force is applied",
+            "Net force is zero",
+            "Velocity changes",
+            "Mass changes"
+        ],
+        "answer": 1,
+        "explanation": "Zero net force implies constant momentum."
+    },
+    {
+        "id": 330,
+        "question": "A body of mass m has acceleration a. The net force acting on it is:",
+        "options": [
+            "m/a",
+            "a/m",
+            "ma",
+            "m + a"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s second law gives F = ma."
+    },
+    {
+        "id": 331,
+        "question": "The CGS unit of force is:",
+        "options": [
+            "Newton",
+            "Dyne",
+            "Joule",
+            "Erg"
+        ],
+        "answer": 1,
+        "explanation": "In CGS system, force is measured in dyne."
+    },
+    {
+        "id": 332,
+        "question": "A body moves in a straight line with increasing speed. The net force acts:",
+        "options": [
+            "Opposite to velocity",
+            "Along velocity",
+            "Perpendicular to velocity",
+            "Randomly"
+        ],
+        "answer": 1,
+        "explanation": "Force must act along the direction of velocity to increase speed."
+    },
+    {
+        "id": 333,
+        "question": "Which of the following quantities is a vector?",
+        "options": [
+            "Mass",
+            "Energy",
+            "Momentum",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Momentum has both magnitude and direction."
+    },
+    {
+        "id": 334,
+        "question": "A body of mass m moving with velocity v rebounds with same speed. The change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Momentum reverses direction, giving change 2mv."
+    },
+    {
+        "id": 335,
+        "question": "The acceleration produced by a given force is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 336,
+        "question": "Which law gives the qualitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law gives the qualitative idea of force."
+    },
+    {
+        "id": 337,
+        "question": "A body moves with constant velocity. Its kinetic energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant kinetic energy."
+    },
+    {
+        "id": 338,
+        "question": "Which of the following is not a force?",
+        "options": [
+            "Friction",
+            "Momentum",
+            "Tension",
+            "Normal reaction"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is not a force."
+    },
+    {
+        "id": 339,
+        "question": "A body of large mass is difficult to accelerate because of its:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Inertia",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Large mass means greater inertia."
+    },
+    {
+        "id": 340,
+        "question": "The rate of change of momentum of a body is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s second law defines force."
+    },
+    {
+        "id": 341,
+        "question": "Which of the following quantities is conserved in all types of collisions?",
+        "options": [
+            "Kinetic energy",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions if no external force acts."
+    },
+    {
+        "id": 342,
+        "question": "A body moves with constant speed in a straight line. Which of the following is zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "Constant speed in straight line implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 343,
+        "question": "The change in momentum of a body depends on:",
+        "options": [
+            "Force only",
+            "Time only",
+            "Force and time",
+            "Mass only"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum equals impulse, which depends on force and time."
+    },
+    {
+        "id": 344,
+        "question": "Which of the following best represents Newton’s second law?",
+        "options": [
+            "p = mv",
+            "F = ma",
+            "v = u + at",
+            "s = ut + 1/2 at^2"
+        ],
+        "answer": 1,
+        "explanation": "F = ma is the mathematical form of Newton’s second law."
+    },
+    {
+        "id": 345,
+        "question": "A force acts on a body but produces no acceleration when:",
+        "options": [
+            "Force is zero",
+            "Mass is infinite",
+            "Forces are balanced",
+            "Velocity is zero"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces result in zero acceleration."
+    },
+    {
+        "id": 346,
+        "question": "Which of the following is an example of inertia of direction?",
+        "options": [
+            "Dust flying off carpet",
+            "Coin remaining on card",
+            "Passenger pushed sideways in turning car",
+            "Recoil of gun"
+        ],
+        "answer": 2,
+        "explanation": "Sideways motion occurs due to inertia of direction."
+    },
+    {
+        "id": 347,
+        "question": "The momentum of a body depends on its:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv depends on mass and velocity."
+    },
+    {
+        "id": 348,
+        "question": "A body of mass m has velocity v. If both mass and velocity are doubled, the momentum becomes:",
+        "options": [
+            "mv",
+            "2mv",
+            "4mv",
+            "8mv"
+        ],
+        "answer": 2,
+        "explanation": "New momentum = (2m)(2v) = 4mv."
+    },
+    {
+        "id": 349,
+        "question": "Which law explains why a passenger falls backward when a bus starts suddenly?",
+        "options": [
+            "Second law",
+            "Third law",
+            "Law of inertia",
+            "Law of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Inertia of rest causes backward fall."
+    },
+    {
+        "id": 350,
+        "question": "According to Newton’s laws, an external force is required to change the:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Density",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "An external force is required to change momentum."
+    }
+]
+```json
+[
+    {
+        "id": 351,
+        "question": "A body of mass m is initially at rest. A constant force F acts on it for time t. The final momentum of the body is:",
+        "options": [
+            "F/t",
+            "Ft",
+            "mFt",
+            "m/t"
+        ],
+        "answer": 1,
+        "explanation": "Impulse equals change in momentum; p = Ft."
+    },
+    {
+        "id": 352,
+        "question": "Which of the following best represents inertia?",
+        "options": [
+            "Resistance to acceleration",
+            "Resistance to change in momentum",
+            "Resistance to change in state of rest or uniform motion",
+            "Resistance to force"
+        ],
+        "answer": 2,
+        "explanation": "Inertia is the tendency to resist change in rest or uniform motion."
+    },
+    {
+        "id": 353,
+        "question": "If the net external force acting on a body is zero, its momentum will be:",
+        "options": [
+            "Zero",
+            "Increasing",
+            "Decreasing",
+            "Constant"
+        ],
+        "answer": 3,
+        "explanation": "Zero net force implies conservation of momentum."
+    },
+    {
+        "id": 354,
+        "question": "A particle is moving with uniform velocity. Which of the following quantities must be zero?",
+        "options": [
+            "Speed",
+            "Momentum",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies zero acceleration."
+    },
+    {
+        "id": 355,
+        "question": "The SI unit of force can be expressed as:",
+        "options": [
+            "kg m s^-1",
+            "kg m s^-2",
+            "kg m^2 s^-2",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, unit of force is kg m s^-2."
+    },
+    {
+        "id": 356,
+        "question": "Which of the following is an example of inertia of motion?",
+        "options": [
+            "Dust flying off a carpet",
+            "Coin remaining on a card",
+            "Passenger falling forward when bus stops",
+            "Recoil of a gun"
+        ],
+        "answer": 2,
+        "explanation": "Passenger tends to continue motion when the bus stops."
+    },
+    {
+        "id": 357,
+        "question": "The momentum of a body is doubled when:",
+        "options": [
+            "Its mass is doubled",
+            "Its velocity is doubled",
+            "Either its mass or velocity is doubled",
+            "Both mass and velocity are doubled"
+        ],
+        "answer": 2,
+        "explanation": "p = mv; doubling either m or v doubles momentum."
+    },
+    {
+        "id": 358,
+        "question": "Which of the following quantities has the same unit as impulse?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Impulse and momentum have the same unit."
+    },
+    {
+        "id": 359,
+        "question": "A force acts on a body but produces no acceleration. This situation occurs when:",
+        "options": [
+            "Force is zero",
+            "Mass is zero",
+            "Forces are balanced",
+            "Velocity is zero"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces give zero net force and zero acceleration."
+    },
+    {
+        "id": 360,
+        "question": "The rate of change of momentum of a body is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Newton’s second law defines force as rate of change of momentum."
+    },
+    {
+        "id": 361,
+        "question": "A body of mass m moves with velocity v. Its momentum is:",
+        "options": [
+            "m + v",
+            "m/v",
+            "mv",
+            "v/m"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 362,
+        "question": "The SI unit of momentum is:",
+        "options": [
+            "kg m s^-2",
+            "kg m s^-1",
+            "N s^-1",
+            "J s"
+        ],
+        "answer": 1,
+        "explanation": "Momentum has unit kg m s^-1."
+    },
+    {
+        "id": 363,
+        "question": "A body moving with velocity v is brought to rest. The change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 1,
+        "explanation": "Change in momentum = mv − 0 = mv."
+    },
+    {
+        "id": 364,
+        "question": "If the stopping time of a moving body is increased, the force required to stop it:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Force = change in momentum / time, so force decreases."
+    },
+    {
+        "id": 365,
+        "question": "Seat belts in vehicles are used to:",
+        "options": [
+            "Reduce momentum",
+            "Increase inertia",
+            "Increase stopping time",
+            "Increase force"
+        ],
+        "answer": 2,
+        "explanation": "Increasing stopping time reduces force."
+    },
+    {
+        "id": 366,
+        "question": "Newton’s third law states that:",
+        "options": [
+            "Force is proportional to acceleration",
+            "Every action has a reaction",
+            "Every action has an equal and opposite reaction",
+            "Momentum is conserved"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s third law states action and reaction are equal and opposite."
+    },
+    {
+        "id": 367,
+        "question": "Action and reaction forces act on:",
+        "options": [
+            "Same body",
+            "Different bodies",
+            "Same direction",
+            "Same point"
+        ],
+        "answer": 1,
+        "explanation": "Action and reaction act on different bodies."
+    },
+    {
+        "id": 368,
+        "question": "The recoil of a gun is explained by conservation of:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Gun and bullet system conserves momentum."
+    },
+    {
+        "id": 369,
+        "question": "The momentum of a system remains conserved if:",
+        "options": [
+            "External force acts",
+            "Net external force is zero",
+            "Collision is elastic",
+            "Mass changes"
+        ],
+        "answer": 1,
+        "explanation": "Zero net external force ensures momentum conservation."
+    },
+    {
+        "id": 370,
+        "question": "Which of the following quantities is always conserved in an isolated system?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in an isolated system."
+    },
+    {
+        "id": 371,
+        "question": "A body moves with constant velocity. Which law explains this motion?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law explains uniform motion."
+    },
+    {
+        "id": 372,
+        "question": "The inertia of a body depends on its:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Mass",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Mass is the measure of inertia."
+    },
+    {
+        "id": 373,
+        "question": "A body of mass m experiences acceleration a. The force acting on it is:",
+        "options": [
+            "m/a",
+            "a/m",
+            "ma",
+            "m + a"
+        ],
+        "answer": 2,
+        "explanation": "From Newton’s second law, F = ma."
+    },
+    {
+        "id": 374,
+        "question": "The CGS unit of force is:",
+        "options": [
+            "Newton",
+            "Dyne",
+            "Joule",
+            "Erg"
+        ],
+        "answer": 1,
+        "explanation": "In CGS system, force is measured in dyne."
+    },
+    {
+        "id": 375,
+        "question": "A body moves in a straight line with increasing speed. The net force acts:",
+        "options": [
+            "Opposite to velocity",
+            "Along velocity",
+            "Perpendicular to velocity",
+            "Randomly"
+        ],
+        "answer": 1,
+        "explanation": "Force acts along velocity to increase speed."
+    },
+    {
+        "id": 376,
+        "question": "Which of the following quantities is a vector?",
+        "options": [
+            "Mass",
+            "Energy",
+            "Momentum",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Momentum has magnitude and direction."
+    },
+    {
+        "id": 377,
+        "question": "A body rebounds from a wall with the same speed. The change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Velocity reverses direction, giving change of 2mv."
+    },
+    {
+        "id": 378,
+        "question": "The acceleration produced by a given force is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, acceleration is inversely proportional to mass."
+    },
+    {
+        "id": 379,
+        "question": "Which law gives the qualitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law gives the qualitative idea of force."
+    },
+    {
+        "id": 380,
+        "question": "A body moves with constant velocity. Its kinetic energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant kinetic energy."
+    },
+    {
+        "id": 381,
+        "question": "Which of the following is not a force?",
+        "options": [
+            "Friction",
+            "Momentum",
+            "Tension",
+            "Normal reaction"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is not a force."
+    },
+    {
+        "id": 382,
+        "question": "A body of large mass is difficult to accelerate because of its:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Inertia",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Greater mass implies greater inertia."
+    },
+    {
+        "id": 383,
+        "question": "The rate of change of momentum is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Rate of change of momentum equals force."
+    },
+    {
+        "id": 384,
+        "question": "Which of the following quantities is conserved in all types of collisions?",
+        "options": [
+            "Kinetic energy",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions."
+    },
+    {
+        "id": 385,
+        "question": "A body moves with constant speed in a straight line. Which of the following is zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "Constant speed in straight line implies zero acceleration."
+    },
+    {
+        "id": 386,
+        "question": "The change in momentum of a body depends on:",
+        "options": [
+            "Force only",
+            "Time only",
+            "Force and time",
+            "Mass only"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum equals impulse, depending on force and time."
+    },
+    {
+        "id": 387,
+        "question": "Which of the following best represents Newton’s second law?",
+        "options": [
+            "p = mv",
+            "F = ma",
+            "v = u + at",
+            "s = ut + 1/2 at^2"
+        ],
+        "answer": 1,
+        "explanation": "F = ma is the mathematical form of second law."
+    },
+    {
+        "id": 388,
+        "question": "A force acts on a body but produces no acceleration when:",
+        "options": [
+            "Force is zero",
+            "Mass is infinite",
+            "Forces are balanced",
+            "Velocity is zero"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces result in zero acceleration."
+    },
+    {
+        "id": 389,
+        "question": "Which of the following is an example of inertia of direction?",
+        "options": [
+            "Dust flying off carpet",
+            "Coin remaining on card",
+            "Passenger pushed sideways in turning car",
+            "Recoil of gun"
+        ],
+        "answer": 2,
+        "explanation": "Sideways motion occurs due to inertia of direction."
+    },
+    {
+        "id": 390,
+        "question": "The momentum of a body depends on:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum depends on mass and velocity."
+    },
+    {
+        "id": 391,
+        "question": "A body of mass m has velocity v. If both mass and velocity are doubled, the momentum becomes:",
+        "options": [
+            "mv",
+            "2mv",
+            "4mv",
+            "8mv"
+        ],
+        "answer": 2,
+        "explanation": "New momentum = (2m)(2v) = 4mv."
+    },
+    {
+        "id": 392,
+        "question": "Which law explains why a passenger falls backward when a bus starts suddenly?",
+        "options": [
+            "Second law",
+            "Third law",
+            "Law of inertia",
+            "Law of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Inertia of rest causes backward fall."
+    },
+    {
+        "id": 393,
+        "question": "According to Newton’s laws, an external force is required to change the:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Density",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "External force is required to change momentum."
+    },
+    {
+        "id": 394,
+        "question": "A body moves with constant velocity. Which quantity remains constant?",
+        "options": [
+            "Acceleration",
+            "Force",
+            "Momentum",
+            "Impulse"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant momentum."
+    },
+    {
+        "id": 395,
+        "question": "Which of the following quantities can be zero even when the body is moving?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "A body can move with constant velocity and zero acceleration."
+    },
+    {
+        "id": 396,
+        "question": "A force acting perpendicular to velocity changes the:",
+        "options": [
+            "Speed",
+            "Direction of velocity",
+            "Mass",
+            "Magnitude of momentum"
+        ],
+        "answer": 1,
+        "explanation": "Perpendicular force changes only direction of velocity."
+    },
+    {
+        "id": 397,
+        "question": "Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Tension",
+            "Gravitational force"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational force acts without physical contact."
+    },
+    {
+        "id": 398,
+        "question": "The momentum of a system remains constant when:",
+        "options": [
+            "External forces act",
+            "Net external force is zero",
+            "Bodies are accelerating",
+            "Mass changes"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved if net external force is zero."
+    },
+    {
+        "id": 399,
+        "question": "Which of the following quantities is a measure of inertia?",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Mass is the measure of inertia."
+    },
+    {
+        "id": 400,
+        "question": "According to Newton’s laws, change in momentum of a body requires:",
+        "options": [
+            "Mass change",
+            "Velocity change",
+            "External force",
+            "Time interval"
+        ],
+        "answer": 2,
+        "explanation": "An external force is required to change momentum."
+    }
+]
+```
+[
+    {
+        "id": 401,
+        "question": "A body of mass m is initially at rest. A constant force F acts on it for time t. The velocity acquired by the body is:",
+        "options": [
+            "Ft/m",
+            "m/Ft",
+            "F/mt",
+            "Ft"
+        ],
+        "answer": 0,
+        "explanation": "From F = ma, a = F/m and v = at = Ft/m."
+    },
+    {
+        "id": 402,
+        "question": "Which of the following best defines inertia according to NCERT?",
+        "options": [
+            "Resistance to acceleration",
+            "Resistance to force",
+            "Resistance to change in state of rest or uniform motion",
+            "Resistance to change in velocity only"
+        ],
+        "answer": 2,
+        "explanation": "Inertia is the tendency to resist change in rest or uniform motion."
+    },
+    {
+        "id": 403,
+        "question": "If no external force acts on a system, the total momentum of the system:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In absence of external force, momentum is conserved."
+    },
+    {
+        "id": 404,
+        "question": "A body moves with constant speed in a straight line. Which of the following quantities is zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "Constant velocity implies zero acceleration."
+    },
+    {
+        "id": 405,
+        "question": "The SI unit of force is derived from the equation:",
+        "options": [
+            "p = mv",
+            "F = ma",
+            "v = u + at",
+            "W = Fs"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, unit of force is kg m s^-2."
+    },
+    {
+        "id": 406,
+        "question": "Which of the following is an example of inertia of rest?",
+        "options": [
+            "Passenger falling forward when bus stops",
+            "Dust flying off carpet when beaten",
+            "Passenger pushed sideways in turning car",
+            "Recoil of gun"
+        ],
+        "answer": 1,
+        "explanation": "Dust resists change from rest due to inertia of rest."
+    },
+    {
+        "id": 407,
+        "question": "Newton’s second law states that force is proportional to:",
+        "options": [
+            "Momentum",
+            "Velocity",
+            "Rate of change of momentum",
+            "Acceleration only"
+        ],
+        "answer": 2,
+        "explanation": "Force is proportional to the rate of change of momentum."
+    },
+    {
+        "id": 408,
+        "question": "A force of 10 N acts on a body of mass 2 kg. The acceleration produced is:",
+        "options": [
+            "2 m s^-2",
+            "5 m s^-2",
+            "10 m s^-2",
+            "20 m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "a = F/m = 10/2 = 5 m s^-2."
+    },
+    {
+        "id": 409,
+        "question": "The momentum of a body of mass m moving with velocity v is:",
+        "options": [
+            "mv",
+            "m/v",
+            "v/m",
+            "m + v"
+        ],
+        "answer": 0,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 410,
+        "question": "The SI unit of momentum is equivalent to:",
+        "options": [
+            "N s",
+            "kg m s^-1",
+            "Both A and B",
+            "kg m^2 s^-2"
+        ],
+        "answer": 2,
+        "explanation": "kg m s^-1 is equivalent to N s."
+    },
+    {
+        "id": 411,
+        "question": "Impulse is defined as:",
+        "options": [
+            "Force × distance",
+            "Force × time",
+            "Mass × velocity",
+            "Acceleration × time"
+        ],
+        "answer": 1,
+        "explanation": "Impulse equals force multiplied by time."
+    },
+    {
+        "id": 412,
+        "question": "Impulse is numerically equal to change in:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 413,
+        "question": "A moving body is brought to rest. The magnitude of change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 1,
+        "explanation": "Change in momentum = mv − 0 = mv."
+    },
+    {
+        "id": 414,
+        "question": "If the stopping time of a body is doubled, the stopping force becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Same",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Force = change in momentum / time, so force halves."
+    },
+    {
+        "id": 415,
+        "question": "Seat belts are used in cars to:",
+        "options": [
+            "Increase momentum",
+            "Increase inertia",
+            "Increase time of impact",
+            "Increase force"
+        ],
+        "answer": 2,
+        "explanation": "Increasing time of impact reduces force."
+    },
+    {
+        "id": 416,
+        "question": "Newton’s third law of motion states that:",
+        "options": [
+            "F = ma",
+            "Every action has an equal reaction",
+            "Every action has an equal and opposite reaction",
+            "Momentum is conserved"
+        ],
+        "answer": 2,
+        "explanation": "For every action, there is an equal and opposite reaction."
+    },
+    {
+        "id": 417,
+        "question": "Action and reaction forces act on:",
+        "options": [
+            "Same body",
+            "Different bodies",
+            "Same direction",
+            "Same point"
+        ],
+        "answer": 1,
+        "explanation": "Action and reaction act on different bodies."
+    },
+    {
+        "id": 418,
+        "question": "The recoil of a gun when fired is due to conservation of:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Gun–bullet system conserves momentum."
+    },
+    {
+        "id": 419,
+        "question": "The law of conservation of momentum is valid when:",
+        "options": [
+            "External force acts",
+            "Net external force is zero",
+            "Collision is elastic only",
+            "Collision is inelastic only"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved if net external force is zero."
+    },
+    {
+        "id": 420,
+        "question": "A man jumps from a stationary boat. The backward motion of the boat is explained by:",
+        "options": [
+            "Inertia",
+            "Friction",
+            "Conservation of momentum",
+            "Gravity"
+        ],
+        "answer": 2,
+        "explanation": "Momentum of the system remains conserved."
+    },
+    {
+        "id": 421,
+        "question": "Which of the following quantities is conserved in an isolated system?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in an isolated system."
+    },
+    {
+        "id": 422,
+        "question": "A body moves with constant velocity. Which of the following is zero?",
+        "options": [
+            "Momentum",
+            "Speed",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero acceleration."
+    },
+    {
+        "id": 423,
+        "question": "A force acting perpendicular to velocity changes the:",
+        "options": [
+            "Speed",
+            "Mass",
+            "Direction of velocity",
+            "Magnitude of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Perpendicular force changes only direction."
+    },
+    {
+        "id": 424,
+        "question": "Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Tension",
+            "Gravitational force"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational force acts without contact."
+    },
+    {
+        "id": 425,
+        "question": "A body has constant momentum. The net force acting on it is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Decreasing",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "Constant momentum implies zero net force."
+    },
+    {
+        "id": 426,
+        "question": "The net force on a body of mass m moving with acceleration a is:",
+        "options": [
+            "m/a",
+            "a/m",
+            "ma",
+            "m + a"
+        ],
+        "answer": 2,
+        "explanation": "From Newton’s second law, F = ma."
+    },
+    {
+        "id": 427,
+        "question": "The CGS unit of force is:",
+        "options": [
+            "Newton",
+            "Dyne",
+            "Joule",
+            "Erg"
+        ],
+        "answer": 1,
+        "explanation": "Dyne is the CGS unit of force."
+    },
+    {
+        "id": 428,
+        "question": "A body moving with increasing speed in a straight line has net force:",
+        "options": [
+            "Opposite to velocity",
+            "Along velocity",
+            "Perpendicular to velocity",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Force must act along velocity to increase speed."
+    },
+    {
+        "id": 429,
+        "question": "Which of the following quantities is a vector?",
+        "options": [
+            "Mass",
+            "Energy",
+            "Momentum",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Momentum has both magnitude and direction."
+    },
+    {
+        "id": 430,
+        "question": "A ball strikes a wall and rebounds with the same speed. The change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Velocity reverses direction, so change is 2mv."
+    },
+    {
+        "id": 431,
+        "question": "The acceleration produced by a given force is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "a ∝ 1/m for a given force."
+    },
+    {
+        "id": 432,
+        "question": "Which law gives the qualitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law gives qualitative idea of force."
+    },
+    {
+        "id": 433,
+        "question": "A body moves with constant velocity. Its kinetic energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant kinetic energy."
+    },
+    {
+        "id": 434,
+        "question": "Which of the following is not a force?",
+        "options": [
+            "Friction",
+            "Momentum",
+            "Tension",
+            "Normal reaction"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is not a force."
+    },
+    {
+        "id": 435,
+        "question": "A body of large mass is difficult to accelerate because of its:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Inertia",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Greater mass means greater inertia."
+    },
+    {
+        "id": 436,
+        "question": "The rate of change of momentum of a body is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Rate of change of momentum equals force."
+    },
+    {
+        "id": 437,
+        "question": "Which of the following quantities is conserved in all collisions?",
+        "options": [
+            "Kinetic energy",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions."
+    },
+    {
+        "id": 438,
+        "question": "A body moves with constant speed in a straight line. Which of the following is zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "Constant speed in straight line implies zero acceleration."
+    },
+    {
+        "id": 439,
+        "question": "The change in momentum of a body depends on:",
+        "options": [
+            "Force only",
+            "Time only",
+            "Force and time",
+            "Mass only"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum equals impulse."
+    },
+    {
+        "id": 440,
+        "question": "Which equation represents Newton’s second law?",
+        "options": [
+            "p = mv",
+            "F = ma",
+            "v = u + at",
+            "s = ut + 1/2 at^2"
+        ],
+        "answer": 1,
+        "explanation": "F = ma is the mathematical form of second law."
+    },
+    {
+        "id": 441,
+        "question": "A force acts on a body but produces no acceleration when:",
+        "options": [
+            "Force is zero",
+            "Mass is infinite",
+            "Forces are balanced",
+            "Velocity is zero"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces give zero acceleration."
+    },
+    {
+        "id": 442,
+        "question": "Which of the following is an example of inertia of direction?",
+        "options": [
+            "Dust flying off carpet",
+            "Coin remaining on card",
+            "Passenger pushed sideways in turning car",
+            "Recoil of gun"
+        ],
+        "answer": 2,
+        "explanation": "Sideways motion occurs due to inertia of direction."
+    },
+    {
+        "id": 443,
+        "question": "The momentum of a body depends on:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 444,
+        "question": "If both mass and velocity of a body are doubled, its momentum becomes:",
+        "options": [
+            "mv",
+            "2mv",
+            "4mv",
+            "8mv"
+        ],
+        "answer": 2,
+        "explanation": "New momentum = (2m)(2v) = 4mv."
+    },
+    {
+        "id": 445,
+        "question": "Which law explains why a passenger falls backward when a bus starts suddenly?",
+        "options": [
+            "Second law",
+            "Third law",
+            "Law of inertia",
+            "Law of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Inertia of rest causes backward fall."
+    },
+    {
+        "id": 446,
+        "question": "According to Newton’s laws, an external force is required to change:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Density",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "External force is required to change momentum."
+    },
+    {
+        "id": 447,
+        "question": "A body moves with constant velocity. Which quantity remains constant?",
+        "options": [
+            "Acceleration",
+            "Force",
+            "Momentum",
+            "Impulse"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant momentum."
+    },
+    {
+        "id": 448,
+        "question": "Which of the following quantities can be zero for a moving body?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "A body can move with zero acceleration at constant velocity."
+    },
+    {
+        "id": 449,
+        "question": "A force acting perpendicular to velocity changes the:",
+        "options": [
+            "Speed",
+            "Direction of velocity",
+            "Mass",
+            "Magnitude of momentum"
+        ],
+        "answer": 1,
+        "explanation": "Perpendicular force changes direction only."
+    },
+    {
+        "id": 450,
+        "question": "Change in momentum of a body requires:",
+        "options": [
+            "Mass change",
+            "Velocity change",
+            "External force",
+            "Time interval"
+        ],
+        "answer": 2,
+        "explanation": "According to Newton’s laws, external force is required to change momentum."
+    }
+]
+```json
+[
+    {
+        "id": 451,
+        "question": "A body of mass m is initially at rest. A constant force F acts on it for time t. The momentum acquired by the body is:",
+        "options": [
+            "Ft",
+            "mFt",
+            "Ft/m",
+            "mF/t"
+        ],
+        "answer": 0,
+        "explanation": "Change in momentum equals impulse = Ft."
+    },
+    {
+        "id": 452,
+        "question": "According to Newton’s first law, the natural tendency of a body is to resist change in its:",
+        "options": [
+            "Velocity only",
+            "Acceleration only",
+            "State of rest or uniform motion",
+            "Momentum only"
+        ],
+        "answer": 2,
+        "explanation": "Inertia is resistance to change in rest or uniform motion."
+    },
+    {
+        "id": 453,
+        "question": "If the resultant external force acting on a system is zero, then the velocity of the centre of mass is:",
+        "options": [
+            "Zero",
+            "Increasing",
+            "Decreasing",
+            "Constant"
+        ],
+        "answer": 3,
+        "explanation": "With zero net external force, centre of mass moves with constant velocity."
+    },
+    {
+        "id": 454,
+        "question": "A body moves with uniform velocity in a straight line. Which of the following is necessarily zero?",
+        "options": [
+            "Speed",
+            "Momentum",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies zero acceleration."
+    },
+    {
+        "id": 455,
+        "question": "The SI unit of force is obtained from the definition:",
+        "options": [
+            "p = mv",
+            "F = ma",
+            "a = v/t",
+            "W = Fs"
+        ],
+        "answer": 1,
+        "explanation": "From F = ma, unit of force is kg m s^-2."
+    },
+    {
+        "id": 456,
+        "question": "Which of the following situations demonstrates inertia of rest?",
+        "options": [
+            "Passenger falling forward when bus stops",
+            "Dust flying off a carpet when beaten",
+            "Passenger pushed sideways in a turning car",
+            "Recoil of gun"
+        ],
+        "answer": 1,
+        "explanation": "Dust remains at rest when the carpet is beaten."
+    },
+    {
+        "id": 457,
+        "question": "Newton’s second law relates force to the rate of change of:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Force is proportional to rate of change of momentum."
+    },
+    {
+        "id": 458,
+        "question": "A force of 15 N acts on a body of mass 3 kg. The acceleration produced is:",
+        "options": [
+            "3 m s^-2",
+            "5 m s^-2",
+            "10 m s^-2",
+            "45 m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "a = F/m = 15/3 = 5 m s^-2."
+    },
+    {
+        "id": 459,
+        "question": "The momentum of a body depends on its:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 460,
+        "question": "The SI unit of momentum can also be written as:",
+        "options": [
+            "kg m s^-2",
+            "N s",
+            "J s",
+            "N m"
+        ],
+        "answer": 1,
+        "explanation": "kg m s^-1 is equivalent to N s."
+    },
+    {
+        "id": 461,
+        "question": "Impulse is defined as:",
+        "options": [
+            "Force × distance",
+            "Force × time",
+            "Change in velocity",
+            "Rate of change of momentum"
+        ],
+        "answer": 1,
+        "explanation": "Impulse equals force multiplied by time."
+    },
+    {
+        "id": 462,
+        "question": "Impulse acting on a body is equal to the change in its:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Momentum",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "Impulse equals change in momentum."
+    },
+    {
+        "id": 463,
+        "question": "A body of mass m moving with velocity v is brought to rest. The magnitude of impulse applied is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 1,
+        "explanation": "Impulse equals change in momentum = mv."
+    },
+    {
+        "id": 464,
+        "question": "If the time of impact during a collision is increased, the average force during collision:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Force = change in momentum / time, so increasing time reduces force."
+    },
+    {
+        "id": 465,
+        "question": "Airbags in vehicles help reduce injury by:",
+        "options": [
+            "Reducing momentum",
+            "Increasing inertia",
+            "Increasing time of impact",
+            "Increasing force"
+        ],
+        "answer": 2,
+        "explanation": "Airbags increase stopping time, reducing force."
+    },
+    {
+        "id": 466,
+        "question": "Newton’s third law states that action and reaction forces are:",
+        "options": [
+            "Equal in magnitude and same in direction",
+            "Equal in magnitude and opposite in direction",
+            "Unequal and opposite",
+            "Acting on same body"
+        ],
+        "answer": 1,
+        "explanation": "Action and reaction are equal and opposite."
+    },
+    {
+        "id": 467,
+        "question": "Action and reaction forces act on:",
+        "options": [
+            "Same body",
+            "Different bodies",
+            "Same direction",
+            "Same point"
+        ],
+        "answer": 1,
+        "explanation": "They always act on different bodies."
+    },
+    {
+        "id": 468,
+        "question": "The backward motion of a gun when a bullet is fired is due to:",
+        "options": [
+            "Inertia",
+            "Friction",
+            "Conservation of momentum",
+            "Gravity"
+        ],
+        "answer": 2,
+        "explanation": "Total momentum of gun–bullet system is conserved."
+    },
+    {
+        "id": 469,
+        "question": "The law of conservation of momentum is applicable when:",
+        "options": [
+            "External force is present",
+            "Net external force is zero",
+            "Collision is elastic only",
+            "Collision is inelastic only"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved if net external force is zero."
+    },
+    {
+        "id": 470,
+        "question": "Which of the following quantities remains conserved in an isolated system?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Momentum remains conserved in an isolated system."
+    },
+    {
+        "id": 471,
+        "question": "A body moves with constant velocity. Which of the following is zero?",
+        "options": [
+            "Momentum",
+            "Speed",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero acceleration."
+    },
+    {
+        "id": 472,
+        "question": "A force acting perpendicular to the velocity of a body causes change in:",
+        "options": [
+            "Speed",
+            "Mass",
+            "Direction of motion",
+            "Magnitude of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Perpendicular force changes only direction."
+    },
+    {
+        "id": 473,
+        "question": "Which of the following is a non-contact force?",
+        "options": [
+            "Friction",
+            "Normal reaction",
+            "Tension",
+            "Gravitational force"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational force acts without contact."
+    },
+    {
+        "id": 474,
+        "question": "If the momentum of a body remains constant, the net force acting on it is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant momentum implies zero net force."
+    },
+    {
+        "id": 475,
+        "question": "The force acting on a body of mass m moving with acceleration a is:",
+        "options": [
+            "m/a",
+            "a/m",
+            "ma",
+            "m + a"
+        ],
+        "answer": 2,
+        "explanation": "Newton’s second law gives F = ma."
+    },
+    {
+        "id": 476,
+        "question": "The CGS unit of force is:",
+        "options": [
+            "Newton",
+            "Dyne",
+            "Joule",
+            "Erg"
+        ],
+        "answer": 1,
+        "explanation": "Dyne is the CGS unit of force."
+    },
+    {
+        "id": 477,
+        "question": "A body moving in a straight line with increasing speed experiences force in the direction:",
+        "options": [
+            "Opposite to motion",
+            "Along motion",
+            "Perpendicular to motion",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Force must act along velocity to increase speed."
+    },
+    {
+        "id": 478,
+        "question": "Which of the following quantities is a vector?",
+        "options": [
+            "Mass",
+            "Energy",
+            "Momentum",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Momentum has magnitude and direction."
+    },
+    {
+        "id": 479,
+        "question": "A ball strikes a wall normally and rebounds with the same speed. The change in momentum is:",
+        "options": [
+            "0",
+            "mv",
+            "2mv",
+            "mv/2"
+        ],
+        "answer": 2,
+        "explanation": "Velocity reverses direction, giving change of 2mv."
+    },
+    {
+        "id": 480,
+        "question": "For a given force, acceleration produced in a body is inversely proportional to its:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Mass",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "From F = ma, a ∝ 1/m."
+    },
+    {
+        "id": 481,
+        "question": "Which Newton’s law gives a qualitative definition of force?",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Law of momentum"
+        ],
+        "answer": 0,
+        "explanation": "Newton’s first law provides the qualitative idea of force."
+    },
+    {
+        "id": 482,
+        "question": "A body moves with constant velocity. Its kinetic energy is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant kinetic energy."
+    },
+    {
+        "id": 483,
+        "question": "Which of the following is not a force?",
+        "options": [
+            "Friction",
+            "Momentum",
+            "Tension",
+            "Normal reaction"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is not a force."
+    },
+    {
+        "id": 484,
+        "question": "A body having large mass offers greater resistance to change in motion due to its:",
+        "options": [
+            "Velocity",
+            "Momentum",
+            "Inertia",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Greater mass means greater inertia."
+    },
+    {
+        "id": 485,
+        "question": "The rate of change of momentum of a body is equal to:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "According to Newton’s second law, force equals rate of change of momentum."
+    },
+    {
+        "id": 486,
+        "question": "Which quantity is conserved in all types of collisions (in absence of external force)?",
+        "options": [
+            "Kinetic energy",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is always conserved."
+    },
+    {
+        "id": 487,
+        "question": "A body moves with constant speed in a straight line. Which of the following is zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "Constant speed and straight-line motion imply zero acceleration."
+    },
+    {
+        "id": 488,
+        "question": "The change in momentum of a body depends on:",
+        "options": [
+            "Force only",
+            "Time only",
+            "Force and time",
+            "Mass only"
+        ],
+        "answer": 2,
+        "explanation": "Change in momentum equals impulse = force × time."
+    },
+    {
+        "id": 489,
+        "question": "Which equation correctly represents Newton’s second law?",
+        "options": [
+            "p = mv",
+            "F = ma",
+            "v = u + at",
+            "s = ut + 1/2 at^2"
+        ],
+        "answer": 1,
+        "explanation": "F = ma is the mathematical form of Newton’s second law."
+    },
+    {
+        "id": 490,
+        "question": "A force acts on a body but produces no acceleration when:",
+        "options": [
+            "Force is zero",
+            "Mass is infinite",
+            "Forces are balanced",
+            "Velocity is zero"
+        ],
+        "answer": 2,
+        "explanation": "Balanced forces give zero acceleration."
+    },
+    {
+        "id": 491,
+        "question": "Which of the following illustrates inertia of direction?",
+        "options": [
+            "Dust flying off carpet",
+            "Coin remaining on card",
+            "Passenger pushed sideways in a turning car",
+            "Recoil of gun"
+        ],
+        "answer": 2,
+        "explanation": "Sideways motion occurs due to inertia of direction."
+    },
+    {
+        "id": 492,
+        "question": "Momentum of a body depends on its:",
+        "options": [
+            "Mass only",
+            "Velocity only",
+            "Both mass and velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Momentum p = mv."
+    },
+    {
+        "id": 493,
+        "question": "If both mass and velocity of a body are halved, its momentum becomes:",
+        "options": [
+            "mv",
+            "mv/2",
+            "mv/4",
+            "2mv"
+        ],
+        "answer": 2,
+        "explanation": "New momentum = (m/2)(v/2) = mv/4."
+    },
+    {
+        "id": 494,
+        "question": "Which law explains why a passenger falls backward when a bus starts suddenly?",
+        "options": [
+            "Second law",
+            "Third law",
+            "Law of inertia",
+            "Law of momentum"
+        ],
+        "answer": 2,
+        "explanation": "Inertia of rest causes backward fall."
+    },
+    {
+        "id": 495,
+        "question": "According to Newton’s laws, an external force is required to change the:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Density",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "External force is required to change momentum."
+    },
+    {
+        "id": 496,
+        "question": "A body moves with constant velocity. Which quantity remains constant?",
+        "options": [
+            "Acceleration",
+            "Force",
+            "Momentum",
+            "Impulse"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies constant momentum."
+    },
+    {
+        "id": 497,
+        "question": "Which of the following quantities can be zero while the body is moving?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Momentum",
+            "Acceleration"
+        ],
+        "answer": 3,
+        "explanation": "A body can move with zero acceleration at constant velocity."
+    },
+    {
+        "id": 498,
+        "question": "A force acting perpendicular to velocity changes the:",
+        "options": [
+            "Speed",
+            "Direction of velocity",
+            "Mass",
+            "Magnitude of momentum"
+        ],
+        "answer": 1,
+        "explanation": "Perpendicular force changes only direction."
+    },
+    {
+        "id": 499,
+        "question": "The momentum of a system remains constant when:",
+        "options": [
+            "External forces act",
+            "Net external force is zero",
+            "Bodies accelerate",
+            "Mass changes"
+        ],
+        "answer": 1,
+        "explanation": "Zero net external force ensures momentum conservation."
+    },
+    {
+        "id": 500,
+        "question": "According to Newton’s laws, a change in momentum of a body requires:",
+        "options": [
+            "Mass change",
+            "Velocity change",
+            "External force",
+            "Time interval"
+        ],
+        "answer": 2,
+        "explanation": "An external force is required to change momentum."
+    }
+]
+```

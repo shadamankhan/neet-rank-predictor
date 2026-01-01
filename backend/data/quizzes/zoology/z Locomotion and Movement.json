@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Locomotion is defined in NCERT as the movement of an organism from one place to another.",
+        "options": [
+            "True",
+            "False",
+            "Only in animals",
+            "Only using limbs"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines locomotion as movement of an organism from one place to another."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following movements is not considered locomotion according to NCERT?",
+        "options": [
+            "Walking",
+            "Running",
+            "Cyclosis",
+            "Swimming"
+        ],
+        "answer": 2,
+        "explanation": "Cyclosis is intracellular movement, not locomotion."
+    },
+    {
+        "id": 3,
+        "question": "The sliding filament theory of muscle contraction was proposed by:",
+        "options": [
+            "Huxley and Hanson",
+            "Watson and Crick",
+            "Darwin and Wallace",
+            "Haeckel"
+        ],
+        "answer": 0,
+        "explanation": "NCERT credits Huxley and Hanson for sliding filament theory."
+    },
+    {
+        "id": 4,
+        "question": "Which protein is present in the thin filament of myofibril?",
+        "options": [
+            "Myosin",
+            "Actin",
+            "Titin",
+            "Nebulin"
+        ],
+        "answer": 1,
+        "explanation": "Thin filaments are composed mainly of actin."
+    },
+    {
+        "id": 5,
+        "question": "Myosin heads possess which enzymatic activity?",
+        "options": [
+            "ATP synthase",
+            "ATPase",
+            "Kinase",
+            "Phosphatase"
+        ],
+        "answer": 1,
+        "explanation": "Myosin head has ATPase activity."
+    },
+    {
+        "id": 6,
+        "question": "The H-zone of a sarcomere represents the region:",
+        "options": [
+            "Containing only actin",
+            "Containing only myosin",
+            "Where actin and myosin overlap",
+            "Containing Z line"
+        ],
+        "answer": 1,
+        "explanation": "H-zone has only thick myosin filaments."
+    },
+    {
+        "id": 7,
+        "question": "Which band shortens during muscle contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "H band",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band shortens during contraction."
+    },
+    {
+        "id": 8,
+        "question": "The Z line of a sarcomere is composed of:",
+        "options": [
+            "Myosin",
+            "Actin",
+            "Z protein",
+            "Troponin"
+        ],
+        "answer": 2,
+        "explanation": "Z line contains Z protein anchoring actin filaments."
+    },
+    {
+        "id": 9,
+        "question": "Calcium ions required for muscle contraction are released from:",
+        "options": [
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Sarcoplasmic reticulum",
+            "T-tubules"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasmic reticulum releases Ca2+."
+    },
+    {
+        "id": 10,
+        "question": "Troponin is a protein associated with:",
+        "options": [
+            "Myosin filament",
+            "Actin filament",
+            "Z line",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "Troponin is attached to actin filaments."
+    },
+    {
+        "id": 11,
+        "question": "Binding of Ca2+ to troponin results in:",
+        "options": [
+            "ATP hydrolysis",
+            "Removal of tropomyosin from actin sites",
+            "Breakage of cross bridges",
+            "Muscle relaxation"
+        ],
+        "answer": 1,
+        "explanation": "Ca2+ binding shifts tropomyosin exposing actin sites."
+    },
+    {
+        "id": 12,
+        "question": "Which event directly causes muscle contraction?",
+        "options": [
+            "ATP binding to myosin",
+            "Cross bridge formation",
+            "Ca2+ release",
+            "Actin synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Cross bridge formation causes contraction."
+    },
+    {
+        "id": 13,
+        "question": "Rigor mortis occurs due to:",
+        "options": [
+            "Excess ATP",
+            "Absence of ATP",
+            "Excess Ca2+",
+            "Absence of Ca2+"
+        ],
+        "answer": 1,
+        "explanation": "Lack of ATP prevents detachment of cross bridges."
+    },
+    {
+        "id": 14,
+        "question": "The energy for muscle contraction is directly supplied by:",
+        "options": [
+            "ADP",
+            "ATP",
+            "Creatine phosphate",
+            "Glucose"
+        ],
+        "answer": 1,
+        "explanation": "ATP provides energy for contraction."
+    },
+    {
+        "id": 15,
+        "question": "Which muscle type is multinucleate and unbranched?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are multinucleate and unbranched."
+    },
+    {
+        "id": 16,
+        "question": "Intercalated discs are characteristic of:",
+        "options": [
+            "Smooth muscle",
+            "Skeletal muscle",
+            "Cardiac muscle",
+            "Voluntary muscle"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle has intercalated discs."
+    },
+    {
+        "id": 17,
+        "question": "Which muscle type shows striations and involuntary action?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscles are striated and involuntary."
+    },
+    {
+        "id": 18,
+        "question": "The functional unit of skeletal muscle is:",
+        "options": [
+            "Myofibril",
+            "Sarcomere",
+            "Myofilament",
+            "Muscle fiber"
+        ],
+        "answer": 1,
+        "explanation": "Sarcomere is the functional unit."
+    },
+    {
+        "id": 19,
+        "question": "A muscle fiber is surrounded by:",
+        "options": [
+            "Epimysium",
+            "Perimysium",
+            "Endomysium",
+            "Sarcolemma"
+        ],
+        "answer": 2,
+        "explanation": "Endomysium surrounds each muscle fiber."
+    },
+    {
+        "id": 20,
+        "question": "Which connective tissue surrounds a bundle of muscle fibers?",
+        "options": [
+            "Epimysium",
+            "Perimysium",
+            "Endomysium",
+            "Sarcolemma"
+        ],
+        "answer": 1,
+        "explanation": "Perimysium surrounds fascicles."
+    },
+    {
+        "id": 21,
+        "question": "The muscle covering the entire muscle is:",
+        "options": [
+            "Endomysium",
+            "Perimysium",
+            "Epimysium",
+            "Sarcolemma"
+        ],
+        "answer": 2,
+        "explanation": "Epimysium surrounds the whole muscle."
+    },
+    {
+        "id": 22,
+        "question": "Which joint permits movement in all directions?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket joints allow movement in all directions."
+    },
+    {
+        "id": 23,
+        "question": "The joint between atlas and axis vertebrae is a:",
+        "options": [
+            "Hinge joint",
+            "Pivot joint",
+            "Ball and socket joint",
+            "Saddle joint"
+        ],
+        "answer": 1,
+        "explanation": "Atlas-axis joint is a pivot joint."
+    },
+    {
+        "id": 24,
+        "question": "Which joint is present in the knee?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Saddle"
+        ],
+        "answer": 0,
+        "explanation": "Knee is a hinge joint."
+    },
+    {
+        "id": 25,
+        "question": "Synovial joints are characterized by presence of:",
+        "options": [
+            "Cartilage only",
+            "Joint cavity",
+            "Fibrous tissue",
+            "No movement"
+        ],
+        "answer": 1,
+        "explanation": "Synovial joints have a fluid-filled cavity."
+    },
+    {
+        "id": 26,
+        "question": "Which joint is found between carpals?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Ball and socket"
+        ],
+        "answer": 2,
+        "explanation": "Intercarpal joints are gliding joints."
+    },
+    {
+        "id": 27,
+        "question": "The number of bones in human adult skeleton is:",
+        "options": [
+            "200",
+            "206",
+            "210",
+            "208"
+        ],
+        "answer": 1,
+        "explanation": "Adult human skeleton has 206 bones."
+    },
+    {
+        "id": 28,
+        "question": "How many bones are present in the human vertebral column?",
+        "options": [
+            "26",
+            "33",
+            "24",
+            "31"
+        ],
+        "answer": 0,
+        "explanation": "Adult vertebral column has 26 bones."
+    },
+    {
+        "id": 29,
+        "question": "The longest bone in the human body is:",
+        "options": [
+            "Tibia",
+            "Humerus",
+            "Femur",
+            "Fibula"
+        ],
+        "answer": 2,
+        "explanation": "Femur is the longest bone."
+    },
+    {
+        "id": 30,
+        "question": "Which bone protects the brain?",
+        "options": [
+            "Mandible",
+            "Maxilla",
+            "Cranium",
+            "Hyoid"
+        ],
+        "answer": 2,
+        "explanation": "Cranium protects the brain."
+    },
+    {
+        "id": 31,
+        "question": "The axial skeleton includes:",
+        "options": [
+            "Limbs only",
+            "Girdles only",
+            "Skull, vertebral column and ribs",
+            "Limbs and girdles"
+        ],
+        "answer": 2,
+        "explanation": "Axial skeleton includes skull, vertebral column and ribs."
+    },
+    {
+        "id": 32,
+        "question": "Appendicular skeleton includes:",
+        "options": [
+            "Skull",
+            "Ribs",
+            "Limbs and girdles",
+            "Vertebrae"
+        ],
+        "answer": 2,
+        "explanation": "Appendicular skeleton forms limbs and girdles."
+    },
+    {
+        "id": 33,
+        "question": "The pectoral girdle is composed of:",
+        "options": [
+            "Clavicle and scapula",
+            "Ilium and ischium",
+            "Pubis and ilium",
+            "Radius and ulna"
+        ],
+        "answer": 0,
+        "explanation": "Pectoral girdle has clavicle and scapula."
+    },
+    {
+        "id": 34,
+        "question": "Which bone is commonly called collar bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Humerus",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Clavicle is collar bone."
+    },
+    {
+        "id": 35,
+        "question": "Pelvic girdle is composed of how many bones in adults?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": 0,
+        "explanation": "Pelvic girdle has two hip bones."
+    },
+    {
+        "id": 36,
+        "question": "The hip bone is formed by fusion of:",
+        "options": [
+            "Ilium, ischium, pubis",
+            "Femur, tibia, fibula",
+            "Radius, ulna, humerus",
+            "Scapula, clavicle, sternum"
+        ],
+        "answer": 0,
+        "explanation": "Hip bone is fusion of ilium, ischium and pubis."
+    },
+    {
+        "id": 37,
+        "question": "Which vertebrae are fused to form sacrum?",
+        "options": [
+            "Cervical",
+            "Thoracic",
+            "Lumbar",
+            "Sacral"
+        ],
+        "answer": 3,
+        "explanation": "Five sacral vertebrae fuse to form sacrum."
+    },
+    {
+        "id": 38,
+        "question": "Coccyx is formed by fusion of:",
+        "options": [
+            "2 vertebrae",
+            "3 vertebrae",
+            "4 vertebrae",
+            "5 vertebrae"
+        ],
+        "answer": 2,
+        "explanation": "Coccyx is formed by fusion of four vertebrae."
+    },
+    {
+        "id": 39,
+        "question": "Floating ribs are:",
+        "options": [
+            "1st–7th",
+            "8th–10th",
+            "11th–12th",
+            "All ribs"
+        ],
+        "answer": 2,
+        "explanation": "11th and 12th ribs are floating ribs."
+    },
+    {
+        "id": 40,
+        "question": "The sternum is located on the:",
+        "options": [
+            "Back",
+            "Ventral side of thorax",
+            "Lateral side",
+            "Abdomen"
+        ],
+        "answer": 1,
+        "explanation": "Sternum is on ventral side of thorax."
+    },
+    {
+        "id": 41,
+        "question": "Which muscle is responsible for breathing movements?",
+        "options": [
+            "Intercostal",
+            "Biceps",
+            "Triceps",
+            "Deltoid"
+        ],
+        "answer": 0,
+        "explanation": "Intercostal muscles aid breathing."
+    },
+    {
+        "id": 42,
+        "question": "Muscles attached to bones by tendons are:",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles attach to bones by tendons."
+    },
+    {
+        "id": 43,
+        "question": "Ligaments connect:",
+        "options": [
+            "Muscle to bone",
+            "Bone to bone",
+            "Muscle to muscle",
+            "Bone to cartilage"
+        ],
+        "answer": 1,
+        "explanation": "Ligaments connect bones."
+    },
+    {
+        "id": 44,
+        "question": "Tendons are composed mainly of:",
+        "options": [
+            "Elastic fibers",
+            "Collagen fibers",
+            "Muscle fibers",
+            "Reticular fibers"
+        ],
+        "answer": 1,
+        "explanation": "Tendons contain collagen fibers."
+    },
+    {
+        "id": 45,
+        "question": "Which joint allows rotation but no back-and-forth movement?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Ball and socket"
+        ],
+        "answer": 1,
+        "explanation": "Pivot joint allows rotation only."
+    },
+    {
+        "id": 46,
+        "question": "The skull bones are joined by:",
+        "options": [
+            "Synovial joints",
+            "Fibrous joints",
+            "Cartilaginous joints",
+            "Hinge joints"
+        ],
+        "answer": 1,
+        "explanation": "Skull bones are connected by fibrous joints."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following is a cartilaginous joint?",
+        "options": [
+            "Skull suture",
+            "Knee joint",
+            "Intervertebral disc",
+            "Shoulder joint"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral discs form cartilaginous joints."
+    },
+    {
+        "id": 48,
+        "question": "The red muscle fibers are rich in:",
+        "options": [
+            "Glycogen",
+            "Myoglobin",
+            "Fat",
+            "ATP"
+        ],
+        "answer": 1,
+        "explanation": "Red fibers have high myoglobin content."
+    },
+    {
+        "id": 49,
+        "question": "White muscle fibers fatigue faster because they have less:",
+        "options": [
+            "ATP",
+            "Myoglobin",
+            "Glycogen",
+            "Actin"
+        ],
+        "answer": 1,
+        "explanation": "White fibers have less myoglobin."
+    },
+    {
+        "id": 50,
+        "question": "Which muscle fibers are adapted for prolonged activity?",
+        "options": [
+            "White fibers",
+            "Red fibers",
+            "Smooth fibers",
+            "Cardiac fibers"
+        ],
+        "answer": 1,
+        "explanation": "Red fibers are fatigue resistant."
+    },
+    {
+        "id": 51,
+        "question": "The M line of sarcomere contains:",
+        "options": [
+            "Actin",
+            "Myosin",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "M line has myosin filaments."
+    },
+    {
+        "id": 52,
+        "question": "During contraction, the length of A band:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Disappears"
+        ],
+        "answer": 2,
+        "explanation": "A band length remains constant."
+    },
+    {
+        "id": 53,
+        "question": "Which ion directly triggers muscle contraction?",
+        "options": [
+            "Na+",
+            "K+",
+            "Ca2+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "Calcium ions trigger contraction."
+    },
+    {
+        "id": 54,
+        "question": "The sarcolemma refers to:",
+        "options": [
+            "Muscle cytoplasm",
+            "Muscle cell membrane",
+            "Muscle nucleus",
+            "Muscle connective tissue"
+        ],
+        "answer": 1,
+        "explanation": "Sarcolemma is muscle cell membrane."
+    },
+    {
+        "id": 55,
+        "question": "Sarcomere extends between two:",
+        "options": [
+            "M lines",
+            "H zones",
+            "Z lines",
+            "A bands"
+        ],
+        "answer": 2,
+        "explanation": "Sarcomere lies between two Z lines."
+    },
+    {
+        "id": 56,
+        "question": "Which of the following is not a synovial joint?",
+        "options": [
+            "Knee",
+            "Hip",
+            "Shoulder",
+            "Skull suture"
+        ],
+        "answer": 3,
+        "explanation": "Skull sutures are fibrous joints."
+    },
+    {
+        "id": 57,
+        "question": "The number of cervical vertebrae in humans is:",
+        "options": [
+            "5",
+            "7",
+            "12",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "Humans have seven cervical vertebrae."
+    },
+    {
+        "id": 58,
+        "question": "The first cervical vertebra is called:",
+        "options": [
+            "Axis",
+            "Atlas",
+            "Thorax",
+            "Sacrum"
+        ],
+        "answer": 1,
+        "explanation": "First cervical vertebra is atlas."
+    },
+    {
+        "id": 59,
+        "question": "Which bone articulates with femur at knee joint?",
+        "options": [
+            "Fibula",
+            "Tibia",
+            "Patella",
+            "Ilium"
+        ],
+        "answer": 1,
+        "explanation": "Femur articulates with tibia."
+    },
+    {
+        "id": 60,
+        "question": "The patella is also known as:",
+        "options": [
+            "Ankle bone",
+            "Kneecap",
+            "Heel bone",
+            "Wrist bone"
+        ],
+        "answer": 1,
+        "explanation": "Patella is kneecap."
+    },
+    {
+        "id": 61,
+        "question": "Which joint permits both flexion and extension as well as some rotation?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Saddle"
+        ],
+        "answer": 3,
+        "explanation": "Saddle joint allows limited rotation with flexion-extension."
+    },
+    {
+        "id": 62,
+        "question": "The number of ribs in humans is:",
+        "options": [
+            "10 pairs",
+            "11 pairs",
+            "12 pairs",
+            "13 pairs"
+        ],
+        "answer": 2,
+        "explanation": "Humans have 12 pairs of ribs."
+    },
+    {
+        "id": 63,
+        "question": "True ribs are directly attached to sternum by:",
+        "options": [
+            "Cartilage",
+            "Ligament",
+            "Bone",
+            "Muscle"
+        ],
+        "answer": 0,
+        "explanation": "True ribs attach via cartilage."
+    },
+    {
+        "id": 64,
+        "question": "False ribs are ribs numbered:",
+        "options": [
+            "1–7",
+            "8–10",
+            "11–12",
+            "All"
+        ],
+        "answer": 1,
+        "explanation": "8th to 10th ribs are false ribs."
+    },
+    {
+        "id": 65,
+        "question": "Which bone is absent in the pelvic girdle?",
+        "options": [
+            "Ilium",
+            "Ischium",
+            "Pubis",
+            "Femur"
+        ],
+        "answer": 3,
+        "explanation": "Femur is a limb bone, not pelvic girdle bone."
+    },
+    {
+        "id": 66,
+        "question": "Muscle fatigue occurs due to accumulation of:",
+        "options": [
+            "Lactic acid",
+            "ATP",
+            "CO2",
+            "Oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Lactic acid accumulation causes fatigue."
+    },
+    {
+        "id": 67,
+        "question": "Which process restores resting state of muscle?",
+        "options": [
+            "ATP hydrolysis",
+            "Ca2+ reuptake",
+            "Cross bridge formation",
+            "Myosin binding"
+        ],
+        "answer": 1,
+        "explanation": "Ca2+ is pumped back to sarcoplasmic reticulum."
+    },
+    {
+        "id": 68,
+        "question": "The number of thoracic vertebrae in humans is:",
+        "options": [
+            "7",
+            "10",
+            "12",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "Humans have 12 thoracic vertebrae."
+    },
+    {
+        "id": 69,
+        "question": "Which of the following is a voluntary muscle?",
+        "options": [
+            "Cardiac",
+            "Smooth",
+            "Skeletal",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are voluntary."
+    },
+    {
+        "id": 70,
+        "question": "The functional unit of movement in muscle is:",
+        "options": [
+            "Muscle fiber",
+            "Myofilament",
+            "Sarcomere",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcomere is the functional unit."
+    },
+    {
+        "id": 71,
+        "question": "Which structure anchors actin filaments?",
+        "options": [
+            "M line",
+            "Z line",
+            "H zone",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "Z line anchors actin."
+    },
+    {
+        "id": 72,
+        "question": "ATP binding to myosin head causes:",
+        "options": [
+            "Power stroke",
+            "Detachment of cross bridge",
+            "Actin exposure",
+            "Ca2+ release"
+        ],
+        "answer": 1,
+        "explanation": "ATP binding detaches myosin from actin."
+    },
+    {
+        "id": 73,
+        "question": "Which muscle shows automatic rhythmic contractions?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is myogenic."
+    },
+    {
+        "id": 74,
+        "question": "Smooth muscles lack:",
+        "options": [
+            "Nucleus",
+            "Striations",
+            "Actin",
+            "Myosin"
+        ],
+        "answer": 1,
+        "explanation": "Smooth muscles are non-striated."
+    },
+    {
+        "id": 75,
+        "question": "The number of bones in human hand is:",
+        "options": [
+            "27",
+            "28",
+            "30",
+            "26"
+        ],
+        "answer": 0,
+        "explanation": "Each hand has 27 bones."
+    },
+    {
+        "id": 76,
+        "question": "The number of bones in human foot is:",
+        "options": [
+            "26",
+            "27",
+            "28",
+            "30"
+        ],
+        "answer": 0,
+        "explanation": "Each foot has 26 bones."
+    },
+    {
+        "id": 77,
+        "question": "Which bone forms heel?",
+        "options": [
+            "Talus",
+            "Calcaneus",
+            "Cuboid",
+            "Navicular"
+        ],
+        "answer": 1,
+        "explanation": "Calcaneus forms heel."
+    },
+    {
+        "id": 78,
+        "question": "The shoulder joint is a:",
+        "options": [
+            "Hinge joint",
+            "Pivot joint",
+            "Ball and socket joint",
+            "Saddle joint"
+        ],
+        "answer": 2,
+        "explanation": "Shoulder joint is ball and socket."
+    },
+    {
+        "id": 79,
+        "question": "Which cartilage is present at ends of long bones?",
+        "options": [
+            "Fibrous",
+            "Elastic",
+            "Hyaline",
+            "Calcified"
+        ],
+        "answer": 2,
+        "explanation": "Hyaline cartilage covers long bone ends."
+    },
+    {
+        "id": 80,
+        "question": "Which structure stores calcium in muscle fiber?",
+        "options": [
+            "Mitochondria",
+            "Sarcolemma",
+            "Sarcoplasmic reticulum",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasmic reticulum stores Ca2+."
+    },
+    {
+        "id": 81,
+        "question": "Which joint allows movement in one plane only?",
+        "options": [
+            "Ball and socket",
+            "Pivot",
+            "Hinge",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Hinge joint allows movement in one plane."
+    },
+    {
+        "id": 82,
+        "question": "The process of bending a limb is called:",
+        "options": [
+            "Extension",
+            "Flexion",
+            "Rotation",
+            "Abduction"
+        ],
+        "answer": 1,
+        "explanation": "Flexion bends a limb."
+    },
+    {
+        "id": 83,
+        "question": "Movement away from midline of body is:",
+        "options": [
+            "Adduction",
+            "Flexion",
+            "Abduction",
+            "Rotation"
+        ],
+        "answer": 2,
+        "explanation": "Abduction moves limb away from midline."
+    },
+    {
+        "id": 84,
+        "question": "The term adduction refers to:",
+        "options": [
+            "Movement away from midline",
+            "Movement towards midline",
+            "Bending",
+            "Straightening"
+        ],
+        "answer": 1,
+        "explanation": "Adduction moves towards midline."
+    },
+    {
+        "id": 85,
+        "question": "Straightening of a limb is known as:",
+        "options": [
+            "Flexion",
+            "Rotation",
+            "Extension",
+            "Circumduction"
+        ],
+        "answer": 2,
+        "explanation": "Extension straightens a limb."
+    },
+    {
+        "id": 86,
+        "question": "Which joint is present at elbow?",
+        "options": [
+            "Pivot",
+            "Hinge",
+            "Ball and socket",
+            "Saddle"
+        ],
+        "answer": 1,
+        "explanation": "Elbow joint is hinge joint."
+    },
+    {
+        "id": 87,
+        "question": "The number of lumbar vertebrae in humans is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "Humans have five lumbar vertebrae."
+    },
+    {
+        "id": 88,
+        "question": "Which bone is not part of axial skeleton?",
+        "options": [
+            "Skull",
+            "Ribs",
+            "Vertebrae",
+            "Femur"
+        ],
+        "answer": 3,
+        "explanation": "Femur is appendicular bone."
+    },
+    {
+        "id": 89,
+        "question": "Which muscle connects bones to bones?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Ligaments connect bones."
+    },
+    {
+        "id": 90,
+        "question": "The synovial fluid functions mainly to:",
+        "options": [
+            "Nourish bone",
+            "Lubricate joint",
+            "Produce movement",
+            "Strengthen muscle"
+        ],
+        "answer": 1,
+        "explanation": "Synovial fluid lubricates joints."
+    },
+    {
+        "id": 91,
+        "question": "The number of phalanges in one hand is:",
+        "options": [
+            "12",
+            "14",
+            "16",
+            "18"
+        ],
+        "answer": 1,
+        "explanation": "Each hand has 14 phalanges."
+    },
+    {
+        "id": 92,
+        "question": "The number of carpals in one hand is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "There are 8 carpals."
+    },
+    {
+        "id": 93,
+        "question": "Which muscle shows spindle-shaped cells?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles are spindle-shaped."
+    },
+    {
+        "id": 94,
+        "question": "Which band disappears during complete contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "Z line",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band may disappear during contraction."
+    },
+    {
+        "id": 95,
+        "question": "Which of the following bones is a flat bone?",
+        "options": [
+            "Femur",
+            "Humerus",
+            "Scapula",
+            "Tibia"
+        ],
+        "answer": 2,
+        "explanation": "Scapula is a flat bone."
+    },
+    {
+        "id": 96,
+        "question": "Which bone forms the lower jaw?",
+        "options": [
+            "Maxilla",
+            "Mandible",
+            "Zygomatic",
+            "Frontal"
+        ],
+        "answer": 1,
+        "explanation": "Mandible forms lower jaw."
+    },
+    {
+        "id": 97,
+        "question": "The actin filament is anchored at:",
+        "options": [
+            "M line",
+            "Z line",
+            "H zone",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "Actin anchors to Z line."
+    },
+    {
+        "id": 98,
+        "question": "Which joint is least movable?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Hinge"
+        ],
+        "answer": 2,
+        "explanation": "Fibrous joints are immovable."
+    },
+    {
+        "id": 99,
+        "question": "Which muscle type lacks intercalated discs?",
+        "options": [
+            "Cardiac",
+            "Skeletal",
+            "Both cardiac and skeletal",
+            "Smooth"
+        ],
+        "answer": 1,
+        "explanation": "Only cardiac muscle has intercalated discs."
+    },
+    {
+        "id": 100,
+        "question": "The primary function of skeleton is to provide:",
+        "options": [
+            "Energy",
+            "Protection and support",
+            "Heat",
+            "Enzymes"
+        ],
+        "answer": 1,
+        "explanation": "Skeleton provides support and protection."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following movements is not a type of locomotion mentioned in NCERT?",
+        "options": [
+            "Walking",
+            "Swimming",
+            "Flying",
+            "Peristalsis"
+        ],
+        "answer": 3,
+        "explanation": "Peristalsis is movement of internal organs, not locomotion."
+    },
+    {
+        "id": 102,
+        "question": "The basic contractile unit of a myofibril is called:",
+        "options": [
+            "Myofilament",
+            "Sarcomere",
+            "Muscle fiber",
+            "Fascicle"
+        ],
+        "answer": 1,
+        "explanation": "Sarcomere is the basic contractile unit."
+    },
+    {
+        "id": 103,
+        "question": "The region of overlap between actin and myosin filaments is present in:",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "Overlap region lies within A band."
+    },
+    {
+        "id": 104,
+        "question": "Which of the following proteins forms the thick filament?",
+        "options": [
+            "Actin",
+            "Troponin",
+            "Myosin",
+            "Tropomyosin"
+        ],
+        "answer": 2,
+        "explanation": "Myosin forms thick filaments."
+    },
+    {
+        "id": 105,
+        "question": "Tropomyosin in resting muscle prevents:",
+        "options": [
+            "ATP hydrolysis",
+            "Ca2+ release",
+            "Actin-myosin interaction",
+            "Myosin head movement"
+        ],
+        "answer": 2,
+        "explanation": "Tropomyosin blocks myosin binding sites on actin."
+    },
+    {
+        "id": 106,
+        "question": "Which ion binds to troponin to initiate contraction?",
+        "options": [
+            "Na+",
+            "K+",
+            "Ca2+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "Ca2+ binds to troponin."
+    },
+    {
+        "id": 107,
+        "question": "During muscle relaxation, Ca2+ is pumped back into:",
+        "options": [
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Sarcoplasmic reticulum",
+            "Mitochondria"
+        ],
+        "answer": 2,
+        "explanation": "Ca2+ is actively pumped into sarcoplasmic reticulum."
+    },
+    {
+        "id": 108,
+        "question": "Which of the following events occurs first during muscle contraction?",
+        "options": [
+            "Power stroke",
+            "ATP binding",
+            "Ca2+ release",
+            "Cross-bridge detachment"
+        ],
+        "answer": 2,
+        "explanation": "Ca2+ release initiates contraction."
+    },
+    {
+        "id": 109,
+        "question": "The neurotransmitter released at neuromuscular junction is:",
+        "options": [
+            "Dopamine",
+            "Noradrenaline",
+            "Acetylcholine",
+            "Serotonin"
+        ],
+        "answer": 2,
+        "explanation": "Acetylcholine is released at neuromuscular junction."
+    },
+    {
+        "id": 110,
+        "question": "The sarcoplasm is equivalent to:",
+        "options": [
+            "Cell wall",
+            "Cytoplasm",
+            "Nucleus",
+            "Cell membrane"
+        ],
+        "answer": 1,
+        "explanation": "Sarcoplasm is muscle cytoplasm."
+    },
+    {
+        "id": 111,
+        "question": "Which muscle type lacks striations and is involuntary?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles are non-striated and involuntary."
+    },
+    {
+        "id": 112,
+        "question": "The ends of skeletal muscles are attached to bones by:",
+        "options": [
+            "Ligaments",
+            "Tendons",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Tendons attach muscles to bones."
+    },
+    {
+        "id": 113,
+        "question": "Which connective tissue surrounds a muscle bundle (fascicle)?",
+        "options": [
+            "Epimysium",
+            "Perimysium",
+            "Endomysium",
+            "Sarcolemma"
+        ],
+        "answer": 1,
+        "explanation": "Perimysium surrounds fascicles."
+    },
+    {
+        "id": 114,
+        "question": "Which part of the sarcomere contains only actin filaments?",
+        "options": [
+            "A band",
+            "I band",
+            "H zone",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band contains only actin filaments."
+    },
+    {
+        "id": 115,
+        "question": "Which band contains the M line?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "M line lies in A band."
+    },
+    {
+        "id": 116,
+        "question": "During contraction, the distance between Z lines:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Disappears"
+        ],
+        "answer": 1,
+        "explanation": "Z lines come closer during contraction."
+    },
+    {
+        "id": 117,
+        "question": "The myosin head is also called:",
+        "options": [
+            "Cross bridge",
+            "Troponin arm",
+            "Tropomyosin tail",
+            "Z protein"
+        ],
+        "answer": 0,
+        "explanation": "Myosin head forms cross bridge."
+    },
+    {
+        "id": 118,
+        "question": "Which joint permits circumduction?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket joints allow circumduction."
+    },
+    {
+        "id": 119,
+        "question": "The joint between humerus and scapula is a:",
+        "options": [
+            "Hinge joint",
+            "Pivot joint",
+            "Ball and socket joint",
+            "Saddle joint"
+        ],
+        "answer": 2,
+        "explanation": "Shoulder joint is ball and socket."
+    },
+    {
+        "id": 120,
+        "question": "Which type of joint is present between tibia and femur?",
+        "options": [
+            "Pivot",
+            "Hinge",
+            "Gliding",
+            "Saddle"
+        ],
+        "answer": 1,
+        "explanation": "Knee joint is hinge joint."
+    },
+    {
+        "id": 121,
+        "question": "Which joint is present between atlas and occipital bone?",
+        "options": [
+            "Pivot",
+            "Hinge",
+            "Condyloid",
+            "Ball and socket"
+        ],
+        "answer": 2,
+        "explanation": "Atlas-occipital joint is condyloid."
+    },
+    {
+        "id": 122,
+        "question": "Which of the following joints is biaxial?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Condyloid",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Condyloid joints are biaxial."
+    },
+    {
+        "id": 123,
+        "question": "Which bone is not part of pectoral girdle?",
+        "options": [
+            "Clavicle",
+            "Scapula",
+            "Humerus",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Humerus is a limb bone."
+    },
+    {
+        "id": 124,
+        "question": "The vertebral column in adults consists of how many bones?",
+        "options": [
+            "33",
+            "26",
+            "24",
+            "28"
+        ],
+        "answer": 1,
+        "explanation": "Adult vertebral column has 26 bones."
+    },
+    {
+        "id": 125,
+        "question": "Which vertebrae are absent in humans as separate bones in adults?",
+        "options": [
+            "Cervical",
+            "Thoracic",
+            "Sacral",
+            "Lumbar"
+        ],
+        "answer": 2,
+        "explanation": "Sacral vertebrae are fused."
+    },
+    {
+        "id": 126,
+        "question": "Which ribs are indirectly attached to sternum?",
+        "options": [
+            "True ribs",
+            "False ribs",
+            "Floating ribs",
+            "All ribs"
+        ],
+        "answer": 1,
+        "explanation": "False ribs attach indirectly to sternum."
+    },
+    {
+        "id": 127,
+        "question": "Which ribs have no anterior attachment?",
+        "options": [
+            "1–7",
+            "8–10",
+            "11–12",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "11th and 12th ribs are floating ribs."
+    },
+    {
+        "id": 128,
+        "question": "The axial skeleton consists of:",
+        "options": [
+            "Skull and limbs",
+            "Limbs and girdles",
+            "Skull, vertebral column and ribs",
+            "Only vertebral column"
+        ],
+        "answer": 2,
+        "explanation": "Axial skeleton includes skull, vertebral column and ribs."
+    },
+    {
+        "id": 129,
+        "question": "Which bone does not articulate with any other bone?",
+        "options": [
+            "Scapula",
+            "Hyoid",
+            "Clavicle",
+            "Mandible"
+        ],
+        "answer": 1,
+        "explanation": "Hyoid does not articulate with other bones."
+    },
+    {
+        "id": 130,
+        "question": "Which cartilage forms the intervertebral discs?",
+        "options": [
+            "Elastic",
+            "Fibrous",
+            "Hyaline",
+            "Calcified"
+        ],
+        "answer": 1,
+        "explanation": "Intervertebral discs are fibrocartilage."
+    },
+    {
+        "id": 131,
+        "question": "The primary function of red muscle fibers is:",
+        "options": [
+            "Quick contraction",
+            "Short burst activity",
+            "Sustained contraction",
+            "Anaerobic respiration"
+        ],
+        "answer": 2,
+        "explanation": "Red fibers are adapted for sustained activity."
+    },
+    {
+        "id": 132,
+        "question": "White muscle fibers are rich in:",
+        "options": [
+            "Myoglobin",
+            "Mitochondria",
+            "Glycogen",
+            "Capillaries"
+        ],
+        "answer": 2,
+        "explanation": "White fibers have high glycogen content."
+    },
+    {
+        "id": 133,
+        "question": "Which muscle fibers contract slowly?",
+        "options": [
+            "White fibers",
+            "Red fibers",
+            "Fast fibers",
+            "All fibers"
+        ],
+        "answer": 1,
+        "explanation": "Red fibers contract slowly."
+    },
+    {
+        "id": 134,
+        "question": "Which movement decreases the angle between two bones?",
+        "options": [
+            "Extension",
+            "Flexion",
+            "Abduction",
+            "Rotation"
+        ],
+        "answer": 1,
+        "explanation": "Flexion decreases angle."
+    },
+    {
+        "id": 135,
+        "question": "Movement of limb in a circular manner is called:",
+        "options": [
+            "Rotation",
+            "Circumduction",
+            "Abduction",
+            "Adduction"
+        ],
+        "answer": 1,
+        "explanation": "Circumduction is circular movement."
+    },
+    {
+        "id": 136,
+        "question": "Turning of head from side to side involves which joint?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 1,
+        "explanation": "Pivot joint allows rotation of head."
+    },
+    {
+        "id": 137,
+        "question": "Which joint allows least movement?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Fibrous joints are immovable."
+    },
+    {
+        "id": 138,
+        "question": "The functional role of ligaments is to:",
+        "options": [
+            "Attach muscle to bone",
+            "Attach bone to bone",
+            "Provide nutrients",
+            "Produce movement"
+        ],
+        "answer": 1,
+        "explanation": "Ligaments connect bones."
+    },
+    {
+        "id": 139,
+        "question": "Which muscle type is uninucleate?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Both cardiac and smooth"
+        ],
+        "answer": 3,
+        "explanation": "Cardiac and smooth muscles are uninucleate."
+    },
+    {
+        "id": 140,
+        "question": "Which muscle type shows branching fibers?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle fibers are branched."
+    },
+    {
+        "id": 141,
+        "question": "Intercalated discs help in:",
+        "options": [
+            "ATP production",
+            "Rapid conduction of impulses",
+            "Attachment to bones",
+            "Calcium storage"
+        ],
+        "answer": 1,
+        "explanation": "They allow rapid impulse conduction."
+    },
+    {
+        "id": 142,
+        "question": "Which bone forms the upper jaw?",
+        "options": [
+            "Mandible",
+            "Maxilla",
+            "Zygomatic",
+            "Palatine"
+        ],
+        "answer": 1,
+        "explanation": "Maxilla forms upper jaw."
+    },
+    {
+        "id": 143,
+        "question": "The total number of cranial bones is:",
+        "options": [
+            "6",
+            "8",
+            "14",
+            "22"
+        ],
+        "answer": 1,
+        "explanation": "There are 8 cranial bones."
+    },
+    {
+        "id": 144,
+        "question": "The total number of facial bones is:",
+        "options": [
+            "8",
+            "12",
+            "14",
+            "16"
+        ],
+        "answer": 2,
+        "explanation": "There are 14 facial bones."
+    },
+    {
+        "id": 145,
+        "question": "Which bone is commonly called ankle bone?",
+        "options": [
+            "Talus",
+            "Calcaneus",
+            "Cuboid",
+            "Navicular"
+        ],
+        "answer": 0,
+        "explanation": "Talus is ankle bone."
+    },
+    {
+        "id": 146,
+        "question": "Which bones form wrist?",
+        "options": [
+            "Carpals",
+            "Metacarpals",
+            "Phalanges",
+            "Tarsals"
+        ],
+        "answer": 0,
+        "explanation": "Wrist is formed by carpals."
+    },
+    {
+        "id": 147,
+        "question": "The number of metacarpals in one hand is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "There are 5 metacarpals."
+    },
+    {
+        "id": 148,
+        "question": "The number of tarsals in one foot is:",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "There are 7 tarsals."
+    },
+    {
+        "id": 149,
+        "question": "Which joint is present at the base of thumb?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Thumb has saddle joint."
+    },
+    {
+        "id": 150,
+        "question": "Which bone is not a part of forelimb?",
+        "options": [
+            "Humerus",
+            "Radius",
+            "Ulna",
+            "Femur"
+        ],
+        "answer": 3,
+        "explanation": "Femur is hindlimb bone."
+    },
+    {
+        "id": 151,
+        "question": "Which muscle is responsible for flexing the forearm?",
+        "options": [
+            "Triceps",
+            "Biceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 1,
+        "explanation": "Biceps flexes forearm."
+    },
+    {
+        "id": 152,
+        "question": "Which muscle extends the forearm?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Latissimus dorsi"
+        ],
+        "answer": 1,
+        "explanation": "Triceps extends forearm."
+    },
+    {
+        "id": 153,
+        "question": "Which muscle forms the calf?",
+        "options": [
+            "Gastrocnemius",
+            "Soleus",
+            "Tibialis",
+            "Peroneus"
+        ],
+        "answer": 0,
+        "explanation": "Gastrocnemius forms calf muscle."
+    },
+    {
+        "id": 154,
+        "question": "The bone commonly called shin bone is:",
+        "options": [
+            "Fibula",
+            "Tibia",
+            "Femur",
+            "Patella"
+        ],
+        "answer": 1,
+        "explanation": "Tibia is shin bone."
+    },
+    {
+        "id": 155,
+        "question": "Which muscle type is fatigue resistant?",
+        "options": [
+            "White fibers",
+            "Red fibers",
+            "Fast fibers",
+            "Smooth fibers"
+        ],
+        "answer": 1,
+        "explanation": "Red fibers resist fatigue."
+    },
+    {
+        "id": 156,
+        "question": "Which structure initiates muscle action potential?",
+        "options": [
+            "Sarcomere",
+            "Motor end plate",
+            "Z line",
+            "Myofibril"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate initiates action potential."
+    },
+    {
+        "id": 157,
+        "question": "Which of the following is not a function of skeleton?",
+        "options": [
+            "Support",
+            "Protection",
+            "Movement",
+            "Digestion"
+        ],
+        "answer": 3,
+        "explanation": "Skeleton does not perform digestion."
+    },
+    {
+        "id": 158,
+        "question": "Which joint allows sliding movements?",
+        "options": [
+            "Hinge",
+            "Gliding",
+            "Pivot",
+            "Saddle"
+        ],
+        "answer": 1,
+        "explanation": "Gliding joints allow sliding movements."
+    },
+    {
+        "id": 159,
+        "question": "Which muscle surrounds blood vessels and alimentary canal?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles line viscera."
+    },
+    {
+        "id": 160,
+        "question": "The shape of smooth muscle cells is:",
+        "options": [
+            "Cylindrical",
+            "Branched",
+            "Spindle-shaped",
+            "Cuboidal"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles are spindle-shaped."
+    },
+    {
+        "id": 161,
+        "question": "Which protein attaches actin filaments to Z line?",
+        "options": [
+            "Myosin",
+            "Z protein",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "Z protein anchors actin to Z line."
+    },
+    {
+        "id": 162,
+        "question": "Which event requires ATP directly?",
+        "options": [
+            "Ca2+ binding to troponin",
+            "Cross-bridge formation",
+            "Detachment of myosin head",
+            "Exposure of actin sites"
+        ],
+        "answer": 2,
+        "explanation": "ATP is needed for detachment of myosin head."
+    },
+    {
+        "id": 163,
+        "question": "The sliding of actin over myosin results in:",
+        "options": [
+            "Muscle relaxation",
+            "Muscle contraction",
+            "ATP synthesis",
+            "Ca2+ uptake"
+        ],
+        "answer": 1,
+        "explanation": "Sliding causes contraction."
+    },
+    {
+        "id": 164,
+        "question": "Which band remains unchanged during contraction?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band length remains constant."
+    },
+    {
+        "id": 165,
+        "question": "Which muscle shows myogenic activity?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is myogenic."
+    },
+    {
+        "id": 166,
+        "question": "Which of the following is a synovial joint?",
+        "options": [
+            "Skull suture",
+            "Intervertebral joint",
+            "Knee joint",
+            "Tooth socket"
+        ],
+        "answer": 2,
+        "explanation": "Knee joint is synovial."
+    },
+    {
+        "id": 167,
+        "question": "Which bone forms the longest part of upper limb?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Humerus",
+            "Clavicle"
+        ],
+        "answer": 2,
+        "explanation": "Humerus is longest upper limb bone."
+    },
+    {
+        "id": 168,
+        "question": "Which vertebra is called axis?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 1,
+        "explanation": "Second cervical vertebra is axis."
+    },
+    {
+        "id": 169,
+        "question": "Which bones form the shoulder girdle?",
+        "options": [
+            "Clavicle and scapula",
+            "Scapula and humerus",
+            "Clavicle and humerus",
+            "Scapula and sternum"
+        ],
+        "answer": 0,
+        "explanation": "Shoulder girdle has clavicle and scapula."
+    },
+    {
+        "id": 170,
+        "question": "The function of synovial membrane is to:",
+        "options": [
+            "Produce cartilage",
+            "Secrete synovial fluid",
+            "Bind bones",
+            "Absorb shock"
+        ],
+        "answer": 1,
+        "explanation": "Synovial membrane secretes synovial fluid."
+    },
+    {
+        "id": 171,
+        "question": "Which joint permits rotation around a single axis?",
+        "options": [
+            "Ball and socket",
+            "Pivot",
+            "Hinge",
+            "Gliding"
+        ],
+        "answer": 1,
+        "explanation": "Pivot joint allows rotation."
+    },
+    {
+        "id": 172,
+        "question": "Which movement increases the angle between two bones?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Adduction",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Extension increases angle."
+    },
+    {
+        "id": 173,
+        "question": "Which bone is also called cheek bone?",
+        "options": [
+            "Maxilla",
+            "Zygomatic",
+            "Nasal",
+            "Palatine"
+        ],
+        "answer": 1,
+        "explanation": "Zygomatic is cheek bone."
+    },
+    {
+        "id": 174,
+        "question": "Which muscle connects scapula to humerus?",
+        "options": [
+            "Deltoid",
+            "Biceps",
+            "Triceps",
+            "Pectoralis"
+        ],
+        "answer": 0,
+        "explanation": "Deltoid connects scapula to humerus."
+    },
+    {
+        "id": 175,
+        "question": "The total number of bones in human skeleton at birth is approximately:",
+        "options": [
+            "206",
+            "270",
+            "300",
+            "250"
+        ],
+        "answer": 2,
+        "explanation": "At birth there are about 300 bones."
+    },
+    {
+        "id": 176,
+        "question": "Which cartilage is found in pinna of ear?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 1,
+        "explanation": "Pinna has elastic cartilage."
+    },
+    {
+        "id": 177,
+        "question": "Which joint is present between vertebrae?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Cartilaginous",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral joints are cartilaginous."
+    },
+    {
+        "id": 178,
+        "question": "Which muscle is attached to skin of face?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 0,
+        "explanation": "Facial muscles are skeletal."
+    },
+    {
+        "id": 179,
+        "question": "Which muscle type is under conscious control?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "Involuntary"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are voluntary."
+    },
+    {
+        "id": 180,
+        "question": "The basic unit of structure in skeletal muscle is:",
+        "options": [
+            "Muscle",
+            "Muscle fiber",
+            "Myofibril",
+            "Sarcomere"
+        ],
+        "answer": 1,
+        "explanation": "Muscle fiber is basic structural unit."
+    },
+    {
+        "id": 181,
+        "question": "Which structure stores ATP in muscle?",
+        "options": [
+            "Mitochondria",
+            "Sarcoplasm",
+            "Myofibril",
+            "Sarcolemma"
+        ],
+        "answer": 0,
+        "explanation": "Mitochondria generate and store ATP."
+    },
+    {
+        "id": 182,
+        "question": "Which bone articulates with scapula at shoulder?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Humerus",
+            "Clavicle"
+        ],
+        "answer": 2,
+        "explanation": "Humerus articulates with scapula."
+    },
+    {
+        "id": 183,
+        "question": "Which bone is absent in forearm?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Humerus",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Humerus is upper arm bone."
+    },
+    {
+        "id": 184,
+        "question": "Which movement brings limb towards midline?",
+        "options": [
+            "Abduction",
+            "Adduction",
+            "Rotation",
+            "Flexion"
+        ],
+        "answer": 1,
+        "explanation": "Adduction moves towards midline."
+    },
+    {
+        "id": 185,
+        "question": "Which muscle type shows slow contraction and long duration?",
+        "options": [
+            "White fibers",
+            "Red fibers",
+            "Fast fibers",
+            "All"
+        ],
+        "answer": 1,
+        "explanation": "Red fibers contract slowly and sustain longer."
+    },
+    {
+        "id": 186,
+        "question": "Which bone forms the lateral part of leg?",
+        "options": [
+            "Tibia",
+            "Fibula",
+            "Femur",
+            "Patella"
+        ],
+        "answer": 1,
+        "explanation": "Fibula is lateral leg bone."
+    },
+    {
+        "id": 187,
+        "question": "Which joint permits both hinge and pivot movements?",
+        "options": [
+            "Knee",
+            "Elbow",
+            "Ankle",
+            "Shoulder"
+        ],
+        "answer": 1,
+        "explanation": "Elbow permits hinge and pivot movements."
+    },
+    {
+        "id": 188,
+        "question": "Which muscle type lacks sarcomere?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles lack sarcomeres."
+    },
+    {
+        "id": 189,
+        "question": "The attachment of muscle to bone is at:",
+        "options": [
+            "Origin and insertion",
+            "Epimysium",
+            "Perimysium",
+            "Endomysium"
+        ],
+        "answer": 0,
+        "explanation": "Muscles attach at origin and insertion."
+    },
+    {
+        "id": 190,
+        "question": "Which bone protects spinal cord?",
+        "options": [
+            "Skull",
+            "Ribs",
+            "Vertebral column",
+            "Sternum"
+        ],
+        "answer": 2,
+        "explanation": "Vertebral column protects spinal cord."
+    },
+    {
+        "id": 191,
+        "question": "Which joint allows limited movement but no cavity?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Hinge"
+        ],
+        "answer": 1,
+        "explanation": "Cartilaginous joints allow limited movement."
+    },
+    {
+        "id": 192,
+        "question": "Which bone is also known as collar bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Humerus",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Clavicle is collar bone."
+    },
+    {
+        "id": 193,
+        "question": "Which muscle is involved in raising the arm sideways?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 2,
+        "explanation": "Deltoid abducts arm."
+    },
+    {
+        "id": 194,
+        "question": "Which part of sarcomere disappears during contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "M line",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band may disappear."
+    },
+    {
+        "id": 195,
+        "question": "Which bone forms the back of skull?",
+        "options": [
+            "Frontal",
+            "Parietal",
+            "Occipital",
+            "Temporal"
+        ],
+        "answer": 2,
+        "explanation": "Occipital bone forms back of skull."
+    },
+    {
+        "id": 196,
+        "question": "Which muscle type is found in walls of uterus?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Uterus has smooth muscle."
+    },
+    {
+        "id": 197,
+        "question": "Which structure conducts impulse from nerve to muscle fiber?",
+        "options": [
+            "Synapse",
+            "Motor end plate",
+            "Z line",
+            "Sarcomere"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate transmits impulse."
+    },
+    {
+        "id": 198,
+        "question": "Which joint allows movement in two planes?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Condyloid",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Condyloid joints are biaxial."
+    },
+    {
+        "id": 199,
+        "question": "Which muscle type has centrally placed nucleus?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Both smooth and cardiac",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Smooth and cardiac muscles have central nucleus."
+    },
+    {
+        "id": 200,
+        "question": "The immediate source of energy for muscle contraction is:",
+        "options": [
+            "Glucose",
+            "Glycogen",
+            "ATP",
+            "Creatine"
+        ],
+        "answer": 2,
+        "explanation": "ATP provides immediate energy."
+    },
+    {
+        "id": 201,
+        "question": "Which of the following statements correctly describes locomotion as per NCERT?",
+        "options": [
+            "Movement of cell organelles",
+            "Movement of body parts only",
+            "Movement of organism from one place to another",
+            "Any type of movement"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines locomotion as movement of organism from one place to another."
+    },
+    {
+        "id": 202,
+        "question": "Which movement is an example of locomotion?",
+        "options": [
+            "Peristalsis",
+            "Ciliary movement",
+            "Walking",
+            "Cyclosis"
+        ],
+        "answer": 2,
+        "explanation": "Walking involves movement from one place to another."
+    },
+    {
+        "id": 203,
+        "question": "Which structure is responsible for sliding of filaments during muscle contraction?",
+        "options": [
+            "Sarcolemma",
+            "Myofibril",
+            "Sarcomere",
+            "Sarcoplasm"
+        ],
+        "answer": 2,
+        "explanation": "Sliding occurs within sarcomere."
+    },
+    {
+        "id": 204,
+        "question": "Which protein has ATPase activity in muscle contraction?",
+        "options": [
+            "Actin",
+            "Troponin",
+            "Tropomyosin",
+            "Myosin"
+        ],
+        "answer": 3,
+        "explanation": "Myosin head shows ATPase activity."
+    },
+    {
+        "id": 205,
+        "question": "Which band represents the length of thick filament?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band corresponds to thick filament length."
+    },
+    {
+        "id": 206,
+        "question": "Which part of sarcomere shortens during contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "M line",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band shortens during contraction."
+    },
+    {
+        "id": 207,
+        "question": "Which ion is essential for removal of tropomyosin from actin?",
+        "options": [
+            "Na+",
+            "K+",
+            "Ca2+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "Calcium binds troponin causing tropomyosin shift."
+    },
+    {
+        "id": 208,
+        "question": "The storage form of Ca2+ in muscle cell is:",
+        "options": [
+            "Mitochondria",
+            "Sarcolemma",
+            "Sarcoplasmic reticulum",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasmic reticulum stores calcium."
+    },
+    {
+        "id": 209,
+        "question": "Which event directly leads to power stroke?",
+        "options": [
+            "ATP binding",
+            "ATP hydrolysis",
+            "Ca2+ binding",
+            "Cross-bridge detachment"
+        ],
+        "answer": 1,
+        "explanation": "ATP hydrolysis energises myosin head for power stroke."
+    },
+    {
+        "id": 210,
+        "question": "Which condition leads to rigor mortis?",
+        "options": [
+            "Excess ATP",
+            "Absence of ATP",
+            "Excess Ca2+",
+            "Absence of Ca2+"
+        ],
+        "answer": 1,
+        "explanation": "Lack of ATP prevents detachment of cross bridges."
+    },
+    {
+        "id": 211,
+        "question": "Which type of muscle fibre contains more mitochondria?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres have high mitochondrial content."
+    },
+    {
+        "id": 212,
+        "question": "Which muscle fibres are adapted for anaerobic activity?",
+        "options": [
+            "Red fibres",
+            "White fibres",
+            "Cardiac fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "White fibres rely more on anaerobic metabolism."
+    },
+    {
+        "id": 213,
+        "question": "Which muscle type shows no striations and involuntary control?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles are non-striated and involuntary."
+    },
+    {
+        "id": 214,
+        "question": "Which muscle type shows striations but is involuntary?",
+        "options": [
+            "Smooth",
+            "Skeletal",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscles are striated and involuntary."
+    },
+    {
+        "id": 215,
+        "question": "Which connective tissue encloses the entire muscle?",
+        "options": [
+            "Endomysium",
+            "Perimysium",
+            "Epimysium",
+            "Sarcolemma"
+        ],
+        "answer": 2,
+        "explanation": "Epimysium surrounds whole muscle."
+    },
+    {
+        "id": 216,
+        "question": "Which joint allows movement in all planes?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket joint permits multiaxial movement."
+    },
+    {
+        "id": 217,
+        "question": "Which joint permits rotation around a central axis?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 1,
+        "explanation": "Pivot joint allows rotation."
+    },
+    {
+        "id": 218,
+        "question": "Which joint is present between carpal bones?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Intercarpal joints are gliding joints."
+    },
+    {
+        "id": 219,
+        "question": "Which joint is present at the elbow?",
+        "options": [
+            "Pivot",
+            "Hinge",
+            "Ball and socket",
+            "Saddle"
+        ],
+        "answer": 1,
+        "explanation": "Elbow is a hinge joint."
+    },
+    {
+        "id": 220,
+        "question": "Which joint is present between atlas and axis?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 1,
+        "explanation": "Atlas-axis joint is pivot joint."
+    },
+    {
+        "id": 221,
+        "question": "Which joint allows flexion, extension and limited rotation?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Saddle joint allows such movements."
+    },
+    {
+        "id": 222,
+        "question": "Which bone does not articulate with any other bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Hyoid",
+            "Mandible"
+        ],
+        "answer": 2,
+        "explanation": "Hyoid is free-floating bone."
+    },
+    {
+        "id": 223,
+        "question": "Which cartilage forms tip of nose?",
+        "options": [
+            "Elastic",
+            "Hyaline",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 1,
+        "explanation": "Nasal cartilage is hyaline cartilage."
+    },
+    {
+        "id": 224,
+        "question": "Which cartilage forms pinna of ear?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 1,
+        "explanation": "Elastic cartilage forms pinna."
+    },
+    {
+        "id": 225,
+        "question": "Which cartilage is present between vertebrae?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral discs are fibrocartilage."
+    },
+    {
+        "id": 226,
+        "question": "The total number of bones in adult human skeleton is:",
+        "options": [
+            "300",
+            "270",
+            "206",
+            "210"
+        ],
+        "answer": 2,
+        "explanation": "Adult human skeleton has 206 bones."
+    },
+    {
+        "id": 227,
+        "question": "How many bones are present at birth approximately?",
+        "options": [
+            "206",
+            "250",
+            "270",
+            "300"
+        ],
+        "answer": 3,
+        "explanation": "About 300 bones are present at birth."
+    },
+    {
+        "id": 228,
+        "question": "Which part of skeleton forms the body axis?",
+        "options": [
+            "Appendicular skeleton",
+            "Axial skeleton",
+            "Girdles",
+            "Limbs"
+        ],
+        "answer": 1,
+        "explanation": "Axial skeleton forms body axis."
+    },
+    {
+        "id": 229,
+        "question": "Which bones form pectoral girdle?",
+        "options": [
+            "Scapula and clavicle",
+            "Scapula and humerus",
+            "Clavicle and humerus",
+            "Scapula and sternum"
+        ],
+        "answer": 0,
+        "explanation": "Pectoral girdle has scapula and clavicle."
+    },
+    {
+        "id": 230,
+        "question": "Which bones form pelvic girdle?",
+        "options": [
+            "Ilium, ischium, pubis",
+            "Femur, tibia, fibula",
+            "Sacrum, coccyx",
+            "Ilium, sacrum, pubis"
+        ],
+        "answer": 0,
+        "explanation": "Pelvic girdle consists of fused ilium, ischium and pubis."
+    },
+    {
+        "id": 231,
+        "question": "Which bone is commonly called collar bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Humerus",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Clavicle is collar bone."
+    },
+    {
+        "id": 232,
+        "question": "Which bone forms the thigh?",
+        "options": [
+            "Femur",
+            "Tibia",
+            "Fibula",
+            "Humerus"
+        ],
+        "answer": 0,
+        "explanation": "Femur is thigh bone."
+    },
+    {
+        "id": 233,
+        "question": "Which bone is called shin bone?",
+        "options": [
+            "Fibula",
+            "Tibia",
+            "Femur",
+            "Patella"
+        ],
+        "answer": 1,
+        "explanation": "Tibia is shin bone."
+    },
+    {
+        "id": 234,
+        "question": "Which bone forms kneecap?",
+        "options": [
+            "Femur",
+            "Tibia",
+            "Fibula",
+            "Patella"
+        ],
+        "answer": 3,
+        "explanation": "Patella forms kneecap."
+    },
+    {
+        "id": 235,
+        "question": "Which bone is the longest in human body?",
+        "options": [
+            "Humerus",
+            "Femur",
+            "Tibia",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Femur is longest bone."
+    },
+    {
+        "id": 236,
+        "question": "Which bone protects the brain?",
+        "options": [
+            "Mandible",
+            "Maxilla",
+            "Cranium",
+            "Hyoid"
+        ],
+        "answer": 2,
+        "explanation": "Cranium protects brain."
+    },
+    {
+        "id": 237,
+        "question": "How many cranial bones are present in humans?",
+        "options": [
+            "6",
+            "8",
+            "14",
+            "22"
+        ],
+        "answer": 1,
+        "explanation": "There are 8 cranial bones."
+    },
+    {
+        "id": 238,
+        "question": "How many facial bones are present in humans?",
+        "options": [
+            "8",
+            "12",
+            "14",
+            "22"
+        ],
+        "answer": 2,
+        "explanation": "There are 14 facial bones."
+    },
+    {
+        "id": 239,
+        "question": "Which bone forms lower jaw?",
+        "options": [
+            "Maxilla",
+            "Mandible",
+            "Zygomatic",
+            "Palatine"
+        ],
+        "answer": 1,
+        "explanation": "Mandible forms lower jaw."
+    },
+    {
+        "id": 240,
+        "question": "Which bone forms cheek?",
+        "options": [
+            "Maxilla",
+            "Zygomatic",
+            "Nasal",
+            "Frontal"
+        ],
+        "answer": 1,
+        "explanation": "Zygomatic bone forms cheek."
+    },
+    {
+        "id": 241,
+        "question": "Which vertebra is called atlas?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 0,
+        "explanation": "First cervical vertebra is atlas."
+    },
+    {
+        "id": 242,
+        "question": "Which vertebra is called axis?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 1,
+        "explanation": "Second cervical vertebra is axis."
+    },
+    {
+        "id": 243,
+        "question": "How many cervical vertebrae are present in humans?",
+        "options": [
+            "5",
+            "7",
+            "10",
+            "12"
+        ],
+        "answer": 1,
+        "explanation": "Humans have 7 cervical vertebrae."
+    },
+    {
+        "id": 244,
+        "question": "How many thoracic vertebrae are present in humans?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "Humans have 12 thoracic vertebrae."
+    },
+    {
+        "id": 245,
+        "question": "How many lumbar vertebrae are present in humans?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "Humans have 5 lumbar vertebrae."
+    },
+    {
+        "id": 246,
+        "question": "Sacrum in adults is formed by fusion of how many vertebrae?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Five sacral vertebrae fuse to form sacrum."
+    },
+    {
+        "id": 247,
+        "question": "Coccyx is formed by fusion of how many vertebrae?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2,
+        "explanation": "Four coccygeal vertebrae fuse to form coccyx."
+    },
+    {
+        "id": 248,
+        "question": "How many pairs of ribs are present in humans?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 2,
+        "explanation": "There are 12 pairs of ribs."
+    },
+    {
+        "id": 249,
+        "question": "Which ribs are directly attached to sternum?",
+        "options": [
+            "False ribs",
+            "Floating ribs",
+            "True ribs",
+            "All ribs"
+        ],
+        "answer": 2,
+        "explanation": "True ribs attach directly to sternum."
+    },
+    {
+        "id": 250,
+        "question": "Which ribs are indirectly attached to sternum?",
+        "options": [
+            "True ribs",
+            "False ribs",
+            "Floating ribs",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "False ribs attach indirectly to sternum."
+    },
+    {
+        "id": 251,
+        "question": "Which ribs have no anterior attachment?",
+        "options": [
+            "1–7",
+            "8–10",
+            "11–12",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "11th and 12th ribs are floating ribs."
+    },
+    {
+        "id": 252,
+        "question": "Which bone forms the heel?",
+        "options": [
+            "Talus",
+            "Calcaneus",
+            "Cuboid",
+            "Navicular"
+        ],
+        "answer": 1,
+        "explanation": "Calcaneus forms heel."
+    },
+    {
+        "id": 253,
+        "question": "How many carpals are present in one hand?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "There are 8 carpals."
+    },
+    {
+        "id": 254,
+        "question": "How many metacarpals are present in one hand?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "There are 5 metacarpals."
+    },
+    {
+        "id": 255,
+        "question": "How many phalanges are present in one hand?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": 2,
+        "explanation": "There are 14 phalanges."
+    },
+    {
+        "id": 256,
+        "question": "How many tarsals are present in one foot?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "There are 7 tarsals."
+    },
+    {
+        "id": 257,
+        "question": "Which joint is present at the base of thumb?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Thumb has saddle joint."
+    },
+    {
+        "id": 258,
+        "question": "Which movement brings limb away from body midline?",
+        "options": [
+            "Adduction",
+            "Flexion",
+            "Abduction",
+            "Extension"
+        ],
+        "answer": 2,
+        "explanation": "Abduction moves limb away from midline."
+    },
+    {
+        "id": 259,
+        "question": "Which movement brings limb towards midline?",
+        "options": [
+            "Abduction",
+            "Adduction",
+            "Rotation",
+            "Flexion"
+        ],
+        "answer": 1,
+        "explanation": "Adduction brings limb towards midline."
+    },
+    {
+        "id": 260,
+        "question": "Which movement decreases angle between two bones?",
+        "options": [
+            "Extension",
+            "Flexion",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Flexion decreases angle."
+    },
+    {
+        "id": 261,
+        "question": "Which movement increases angle between two bones?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Abduction",
+            "Rotation"
+        ],
+        "answer": 1,
+        "explanation": "Extension increases angle."
+    },
+    {
+        "id": 262,
+        "question": "Circular movement of limb is called:",
+        "options": [
+            "Rotation",
+            "Circumduction",
+            "Flexion",
+            "Adduction"
+        ],
+        "answer": 1,
+        "explanation": "Circumduction is circular movement."
+    },
+    {
+        "id": 263,
+        "question": "Which muscle flexes the forearm?",
+        "options": [
+            "Triceps",
+            "Biceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 1,
+        "explanation": "Biceps flexes forearm."
+    },
+    {
+        "id": 264,
+        "question": "Which muscle extends the forearm?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Latissimus dorsi"
+        ],
+        "answer": 1,
+        "explanation": "Triceps extends forearm."
+    },
+    {
+        "id": 265,
+        "question": "Which muscle forms calf of leg?",
+        "options": [
+            "Gastrocnemius",
+            "Soleus",
+            "Peroneus",
+            "Tibialis"
+        ],
+        "answer": 0,
+        "explanation": "Gastrocnemius forms calf muscle."
+    },
+    {
+        "id": 266,
+        "question": "Which muscle is responsible for abduction of arm?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 2,
+        "explanation": "Deltoid abducts arm."
+    },
+    {
+        "id": 267,
+        "question": "Which muscle type is under voluntary control?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are voluntary."
+    },
+    {
+        "id": 268,
+        "question": "Which muscle type shows myogenic activity?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is myogenic."
+    },
+    {
+        "id": 269,
+        "question": "Which structure connects muscle to bone?",
+        "options": [
+            "Ligament",
+            "Tendon",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Tendon connects muscle to bone."
+    },
+    {
+        "id": 270,
+        "question": "Which structure connects bone to bone?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Ligament connects bone to bone."
+    },
+    {
+        "id": 271,
+        "question": "Which joint has synovial fluid-filled cavity?",
+        "options": [
+            "Fibrous",
+            "Cartilaginous",
+            "Synovial",
+            "Immovable"
+        ],
+        "answer": 2,
+        "explanation": "Synovial joints contain fluid-filled cavity."
+    },
+    {
+        "id": 272,
+        "question": "Which joint allows least movement?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Fibrous joints are immovable."
+    },
+    {
+        "id": 273,
+        "question": "Which joint allows sliding movements?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Gliding joint allows sliding movement."
+    },
+    {
+        "id": 274,
+        "question": "Which structure conducts impulse from nerve to muscle?",
+        "options": [
+            "Synapse",
+            "Motor end plate",
+            "Sarcomere",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate transmits nerve impulse to muscle."
+    },
+    {
+        "id": 275,
+        "question": "Which neurotransmitter is released at neuromuscular junction?",
+        "options": [
+            "Dopamine",
+            "Noradrenaline",
+            "Acetylcholine",
+            "Serotonin"
+        ],
+        "answer": 2,
+        "explanation": "Acetylcholine is released at neuromuscular junction."
+    },
+    {
+        "id": 276,
+        "question": "Which muscle lacks sarcomeres?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles lack sarcomeres."
+    },
+    {
+        "id": 277,
+        "question": "Which muscle fibres fatigue faster?",
+        "options": [
+            "Red fibres",
+            "White fibres",
+            "Cardiac fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "White fibres fatigue faster."
+    },
+    {
+        "id": 278,
+        "question": "Which muscle fibres have more myoglobin?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Smooth fibres",
+            "Fast fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres contain more myoglobin."
+    },
+    {
+        "id": 279,
+        "question": "Which band may disappear during complete contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "M line",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band may disappear during contraction."
+    },
+    {
+        "id": 280,
+        "question": "Which band remains unchanged during contraction?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band length remains constant."
+    },
+    {
+        "id": 281,
+        "question": "Which part of sarcomere contains only myosin?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "H zone contains only myosin."
+    },
+    {
+        "id": 282,
+        "question": "Which part of sarcomere contains actin only?",
+        "options": [
+            "A band",
+            "I band",
+            "H zone",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band contains actin only."
+    },
+    {
+        "id": 283,
+        "question": "Which protein covers actin binding sites in resting muscle?",
+        "options": [
+            "Troponin",
+            "Tropomyosin",
+            "Myosin",
+            "Z protein"
+        ],
+        "answer": 1,
+        "explanation": "Tropomyosin blocks binding sites."
+    },
+    {
+        "id": 284,
+        "question": "Which event leads to muscle relaxation?",
+        "options": [
+            "Ca2+ release",
+            "ATP hydrolysis",
+            "Ca2+ reuptake",
+            "Cross-bridge formation"
+        ],
+        "answer": 2,
+        "explanation": "Reuptake of Ca2+ causes relaxation."
+    },
+    {
+        "id": 285,
+        "question": "Which structure stores calcium ions in muscle?",
+        "options": [
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Sarcoplasmic reticulum",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasmic reticulum stores Ca2+."
+    },
+    {
+        "id": 286,
+        "question": "Which structure is muscle cell membrane?",
+        "options": [
+            "Sarcomere",
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril"
+        ],
+        "answer": 1,
+        "explanation": "Sarcolemma is muscle cell membrane."
+    },
+    {
+        "id": 287,
+        "question": "Which structure is muscle cytoplasm?",
+        "options": [
+            "Sarcomere",
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasm is muscle cytoplasm."
+    },
+    {
+        "id": 288,
+        "question": "Which structure anchors actin filaments?",
+        "options": [
+            "M line",
+            "Z line",
+            "H zone",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "Actin is anchored to Z line."
+    },
+    {
+        "id": 289,
+        "question": "Which structure holds thick filaments together?",
+        "options": [
+            "Z line",
+            "I band",
+            "M line",
+            "H zone"
+        ],
+        "answer": 2,
+        "explanation": "M line holds myosin filaments."
+    },
+    {
+        "id": 290,
+        "question": "Which movement involves turning of bone around its axis?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 2,
+        "explanation": "Rotation involves turning around axis."
+    },
+    {
+        "id": 291,
+        "question": "Which joint permits biaxial movement?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Condyloid",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Condyloid joints are biaxial."
+    },
+    {
+        "id": 292,
+        "question": "Which joint is present between skull bones?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Hinge"
+        ],
+        "answer": 2,
+        "explanation": "Skull bones are joined by fibrous joints."
+    },
+    {
+        "id": 293,
+        "question": "Which joint is present between vertebrae?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Cartilaginous",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral joints are cartilaginous."
+    },
+    {
+        "id": 294,
+        "question": "Which joint is freely movable?",
+        "options": [
+            "Fibrous",
+            "Cartilaginous",
+            "Synovial",
+            "Immovable"
+        ],
+        "answer": 2,
+        "explanation": "Synovial joints are freely movable."
+    },
+    {
+        "id": 295,
+        "question": "Which muscle type is found in walls of alimentary canal?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Alimentary canal has smooth muscle."
+    },
+    {
+        "id": 296,
+        "question": "Which muscle type has branching fibres?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle fibres are branched."
+    },
+    {
+        "id": 297,
+        "question": "Which muscle type has multinucleate fibres?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscle fibres are multinucleate."
+    },
+    {
+        "id": 298,
+        "question": "Which muscle type has centrally placed nucleus?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Both smooth and cardiac",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Smooth and cardiac muscles have central nucleus."
+    },
+    {
+        "id": 299,
+        "question": "Which process requires ATP directly?",
+        "options": [
+            "Cross-bridge formation",
+            "Detachment of myosin from actin",
+            "Ca2+ binding to troponin",
+            "Exposure of actin sites"
+        ],
+        "answer": 1,
+        "explanation": "ATP binding causes detachment of myosin head."
+    },
+    {
+        "id": 300,
+        "question": "The immediate source of energy for muscle contraction is:",
+        "options": [
+            "Glucose",
+            "Glycogen",
+            "ATP",
+            "Creatine phosphate"
+        ],
+        "answer": 2,
+        "explanation": "ATP is immediate energy source."
+    },
+    {
+        "id": 301,
+        "question": "Which of the following movements is correctly categorized as locomotion according to NCERT?",
+        "options": [
+            "Ciliary movement in trachea",
+            "Cyclosis in plant cells",
+            "Swimming in humans",
+            "Peristalsis in intestine"
+        ],
+        "answer": 2,
+        "explanation": "Locomotion involves movement of the organism from one place to another."
+    },
+    {
+        "id": 302,
+        "question": "Which statement regarding movement and locomotion is correct as per NCERT?",
+        "options": [
+            "All movements are locomotion",
+            "All locomotion is movement",
+            "Movement occurs only in animals",
+            "Locomotion excludes body parts"
+        ],
+        "answer": 1,
+        "explanation": "Locomotion is a subset of movement."
+    },
+    {
+        "id": 303,
+        "question": "The sliding filament theory explains muscle contraction by sliding of:",
+        "options": [
+            "Myosin over actin",
+            "Actin over myosin",
+            "Troponin over tropomyosin",
+            "Z line over M line"
+        ],
+        "answer": 1,
+        "explanation": "Actin filaments slide over myosin filaments."
+    },
+    {
+        "id": 304,
+        "question": "Which of the following structures shortens during muscle contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "M line",
+            "Myosin filament"
+        ],
+        "answer": 1,
+        "explanation": "I band shortens during contraction."
+    },
+    {
+        "id": 305,
+        "question": "Which protein complex is responsible for regulation of actin-myosin interaction?",
+        "options": [
+            "Actin-myosin",
+            "Troponin-tropomyosin",
+            "Z protein",
+            "Myosin ATPase"
+        ],
+        "answer": 1,
+        "explanation": "Troponin and tropomyosin regulate interaction."
+    },
+    {
+        "id": 306,
+        "question": "In resting muscle, myosin binding sites on actin are blocked by:",
+        "options": [
+            "Troponin",
+            "Tropomyosin",
+            "Myosin tail",
+            "Z protein"
+        ],
+        "answer": 1,
+        "explanation": "Tropomyosin covers binding sites."
+    },
+    {
+        "id": 307,
+        "question": "Which ion initiates muscle contraction by binding to troponin?",
+        "options": [
+            "Na+",
+            "K+",
+            "Ca2+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "Ca2+ binding initiates contraction."
+    },
+    {
+        "id": 308,
+        "question": "Which event immediately follows release of Ca2+ into sarcoplasm?",
+        "options": [
+            "ATP synthesis",
+            "Exposure of actin binding sites",
+            "Detachment of myosin head",
+            "Muscle relaxation"
+        ],
+        "answer": 1,
+        "explanation": "Ca2+ causes tropomyosin shift exposing binding sites."
+    },
+    {
+        "id": 309,
+        "question": "Which step of cross-bridge cycle requires ATP binding?",
+        "options": [
+            "Power stroke",
+            "Cross-bridge formation",
+            "Detachment of cross-bridge",
+            "Ca2+ release"
+        ],
+        "answer": 2,
+        "explanation": "ATP binding causes detachment."
+    },
+    {
+        "id": 310,
+        "question": "Which condition prevents muscle relaxation after death?",
+        "options": [
+            "Excess ATP",
+            "Absence of ATP",
+            "Absence of Ca2+",
+            "Excess oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Absence of ATP causes rigor mortis."
+    },
+    {
+        "id": 311,
+        "question": "Which muscle fibres are rich in myoglobin and mitochondria?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres contain more myoglobin and mitochondria."
+    },
+    {
+        "id": 312,
+        "question": "Which muscle fibres fatigue rapidly due to anaerobic metabolism?",
+        "options": [
+            "Red fibres",
+            "White fibres",
+            "Cardiac fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "White fibres fatigue faster."
+    },
+    {
+        "id": 313,
+        "question": "Which muscle type lacks striations, sarcomeres and is involuntary?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles lack striations and sarcomeres."
+    },
+    {
+        "id": 314,
+        "question": "Intercalated discs are characteristic features of:",
+        "options": [
+            "Skeletal muscle",
+            "Smooth muscle",
+            "Cardiac muscle",
+            "Visceral muscle"
+        ],
+        "answer": 2,
+        "explanation": "Intercalated discs occur in cardiac muscle."
+    },
+    {
+        "id": 315,
+        "question": "Which connective tissue sheath surrounds individual muscle fibres?",
+        "options": [
+            "Epimysium",
+            "Perimysium",
+            "Endomysium",
+            "Sarcolemma"
+        ],
+        "answer": 2,
+        "explanation": "Endomysium surrounds muscle fibres."
+    },
+    {
+        "id": 316,
+        "question": "Which connective tissue sheath encloses a bundle of muscle fibres?",
+        "options": [
+            "Endomysium",
+            "Perimysium",
+            "Epimysium",
+            "Sarcolemma"
+        ],
+        "answer": 1,
+        "explanation": "Perimysium encloses fascicles."
+    },
+    {
+        "id": 317,
+        "question": "Which joint permits movement in all directions including rotation?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket joints are multiaxial."
+    },
+    {
+        "id": 318,
+        "question": "Which joint is present between atlas and axis vertebrae?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Condyloid",
+            "Saddle"
+        ],
+        "answer": 1,
+        "explanation": "Atlas-axis joint is a pivot joint."
+    },
+    {
+        "id": 319,
+        "question": "Which type of joint is present between carpal bones?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Ball and socket"
+        ],
+        "answer": 2,
+        "explanation": "Intercarpal joints are gliding joints."
+    },
+    {
+        "id": 320,
+        "question": "Which joint allows biaxial movement such as flexion and abduction?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Condyloid",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Condyloid joints are biaxial."
+    },
+    {
+        "id": 321,
+        "question": "Which bone does not articulate with any other bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Hyoid",
+            "Mandible"
+        ],
+        "answer": 2,
+        "explanation": "Hyoid is a free-floating bone."
+    },
+    {
+        "id": 322,
+        "question": "Which cartilage type is present in intervertebral discs?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral discs are fibrocartilage."
+    },
+    {
+        "id": 323,
+        "question": "Which cartilage provides flexibility to external ear pinna?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 1,
+        "explanation": "Elastic cartilage is present in pinna."
+    },
+    {
+        "id": 324,
+        "question": "The total number of bones in adult human skeleton is:",
+        "options": [
+            "300",
+            "270",
+            "206",
+            "208"
+        ],
+        "answer": 2,
+        "explanation": "Adult human skeleton has 206 bones."
+    },
+    {
+        "id": 325,
+        "question": "Which part of skeleton includes skull, vertebral column and ribs?",
+        "options": [
+            "Appendicular skeleton",
+            "Axial skeleton",
+            "Girdles",
+            "Limbs"
+        ],
+        "answer": 1,
+        "explanation": "Axial skeleton forms body axis."
+    },
+    {
+        "id": 326,
+        "question": "Which bones form the pectoral girdle?",
+        "options": [
+            "Clavicle and scapula",
+            "Scapula and humerus",
+            "Clavicle and sternum",
+            "Humerus and radius"
+        ],
+        "answer": 0,
+        "explanation": "Pectoral girdle consists of clavicle and scapula."
+    },
+    {
+        "id": 327,
+        "question": "Pelvic girdle in adults is formed by fusion of:",
+        "options": [
+            "Ilium, ischium, pubis",
+            "Femur, tibia, fibula",
+            "Sacrum and coccyx",
+            "Ilium and sacrum"
+        ],
+        "answer": 0,
+        "explanation": "Hip bone is formed by fusion of ilium, ischium and pubis."
+    },
+    {
+        "id": 328,
+        "question": "Which bone is the longest bone in human body?",
+        "options": [
+            "Humerus",
+            "Femur",
+            "Tibia",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Femur is the longest bone."
+    },
+    {
+        "id": 329,
+        "question": "Which bone forms the kneecap?",
+        "options": [
+            "Femur",
+            "Tibia",
+            "Fibula",
+            "Patella"
+        ],
+        "answer": 3,
+        "explanation": "Patella forms kneecap."
+    },
+    {
+        "id": 330,
+        "question": "Which vertebra is known as atlas?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 0,
+        "explanation": "Atlas is the first cervical vertebra."
+    },
+    {
+        "id": 331,
+        "question": "Which vertebra is known as axis?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 1,
+        "explanation": "Axis is the second cervical vertebra."
+    },
+    {
+        "id": 332,
+        "question": "How many thoracic vertebrae are present in humans?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "There are 12 thoracic vertebrae."
+    },
+    {
+        "id": 333,
+        "question": "How many sacral vertebrae fuse to form sacrum?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Five sacral vertebrae fuse."
+    },
+    {
+        "id": 334,
+        "question": "Which ribs are directly attached to sternum?",
+        "options": [
+            "False ribs",
+            "Floating ribs",
+            "True ribs",
+            "All ribs"
+        ],
+        "answer": 2,
+        "explanation": "True ribs attach directly to sternum."
+    },
+    {
+        "id": 335,
+        "question": "Which ribs have no anterior attachment to sternum?",
+        "options": [
+            "1–7",
+            "8–10",
+            "11–12",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "11th and 12th ribs are floating ribs."
+    },
+    {
+        "id": 336,
+        "question": "Which bone forms the heel of foot?",
+        "options": [
+            "Talus",
+            "Calcaneus",
+            "Cuboid",
+            "Navicular"
+        ],
+        "answer": 1,
+        "explanation": "Calcaneus forms the heel."
+    },
+    {
+        "id": 337,
+        "question": "How many carpals are present in one hand?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "There are 8 carpals."
+    },
+    {
+        "id": 338,
+        "question": "How many phalanges are present in one hand?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": 2,
+        "explanation": "There are 14 phalanges in one hand."
+    },
+    {
+        "id": 339,
+        "question": "Which joint is present at the base of thumb?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Thumb has a saddle joint."
+    },
+    {
+        "id": 340,
+        "question": "Movement of limb away from body midline is called:",
+        "options": [
+            "Adduction",
+            "Abduction",
+            "Flexion",
+            "Extension"
+        ],
+        "answer": 1,
+        "explanation": "Abduction moves limb away from midline."
+    },
+    {
+        "id": 341,
+        "question": "Movement of limb towards body midline is called:",
+        "options": [
+            "Abduction",
+            "Adduction",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Adduction moves limb towards midline."
+    },
+    {
+        "id": 342,
+        "question": "Which movement increases the angle between two bones?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Extension increases the angle."
+    },
+    {
+        "id": 343,
+        "question": "Which movement involves circular motion of limb?",
+        "options": [
+            "Rotation",
+            "Circumduction",
+            "Flexion",
+            "Abduction"
+        ],
+        "answer": 1,
+        "explanation": "Circumduction is circular movement."
+    },
+    {
+        "id": 344,
+        "question": "Which muscle is responsible for flexion of forearm?",
+        "options": [
+            "Triceps",
+            "Biceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 1,
+        "explanation": "Biceps flexes the forearm."
+    },
+    {
+        "id": 345,
+        "question": "Which muscle extends the forearm?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Latissimus dorsi"
+        ],
+        "answer": 1,
+        "explanation": "Triceps extends the forearm."
+    },
+    {
+        "id": 346,
+        "question": "Which muscle forms the calf of the leg?",
+        "options": [
+            "Gastrocnemius",
+            "Soleus",
+            "Peroneus",
+            "Tibialis"
+        ],
+        "answer": 0,
+        "explanation": "Gastrocnemius forms the calf."
+    },
+    {
+        "id": 347,
+        "question": "Which muscle abducts the arm at shoulder joint?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 2,
+        "explanation": "Deltoid abducts the arm."
+    },
+    {
+        "id": 348,
+        "question": "Which structure connects muscle to bone?",
+        "options": [
+            "Ligament",
+            "Tendon",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Tendon connects muscle to bone."
+    },
+    {
+        "id": 349,
+        "question": "Which structure connects bone to bone?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Ligament connects bones."
+    },
+    {
+        "id": 350,
+        "question": "Which joint contains synovial fluid?",
+        "options": [
+            "Fibrous",
+            "Cartilaginous",
+            "Synovial",
+            "Immovable"
+        ],
+        "answer": 2,
+        "explanation": "Synovial joints contain synovial fluid."
+    },
+    {
+        "id": 351,
+        "question": "Which joint allows least movement?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Fibrous joints are immovable."
+    },
+    {
+        "id": 352,
+        "question": "Which neurotransmitter is released at neuromuscular junction?",
+        "options": [
+            "Dopamine",
+            "Noradrenaline",
+            "Acetylcholine",
+            "Serotonin"
+        ],
+        "answer": 2,
+        "explanation": "Acetylcholine is released."
+    },
+    {
+        "id": 353,
+        "question": "Which structure receives nerve impulse in muscle fibre?",
+        "options": [
+            "Z line",
+            "Motor end plate",
+            "Sarcomere",
+            "Myofibril"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate receives impulse."
+    },
+    {
+        "id": 354,
+        "question": "Which muscle type lacks sarcomeres?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles lack sarcomeres."
+    },
+    {
+        "id": 355,
+        "question": "Which muscle fibres are fatigue resistant?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres are fatigue resistant."
+    },
+    {
+        "id": 356,
+        "question": "Which band contains only myosin filaments?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "H zone contains only myosin."
+    },
+    {
+        "id": 357,
+        "question": "Which band contains only actin filaments?",
+        "options": [
+            "A band",
+            "I band",
+            "H zone",
+            "M line"
+        ],
+        "answer": 1,
+        "explanation": "I band contains only actin."
+    },
+    {
+        "id": 358,
+        "question": "Which band remains unchanged during muscle contraction?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band remains constant."
+    },
+    {
+        "id": 359,
+        "question": "Which structure anchors actin filaments in sarcomere?",
+        "options": [
+            "M line",
+            "Z line",
+            "H zone",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "Actin filaments are anchored to Z line."
+    },
+    {
+        "id": 360,
+        "question": "Which structure holds thick filaments together?",
+        "options": [
+            "Z line",
+            "I band",
+            "M line",
+            "H zone"
+        ],
+        "answer": 2,
+        "explanation": "M line holds myosin filaments."
+    },
+    {
+        "id": 361,
+        "question": "Which process leads to muscle relaxation?",
+        "options": [
+            "Ca2+ release",
+            "ATP hydrolysis",
+            "Ca2+ reuptake",
+            "Cross-bridge formation"
+        ],
+        "answer": 2,
+        "explanation": "Ca2+ reuptake causes relaxation."
+    },
+    {
+        "id": 362,
+        "question": "Which structure stores calcium ions in muscle fibre?",
+        "options": [
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Sarcoplasmic reticulum",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasmic reticulum stores Ca2+."
+    },
+    {
+        "id": 363,
+        "question": "Which structure represents muscle cell membrane?",
+        "options": [
+            "Sarcomere",
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril"
+        ],
+        "answer": 1,
+        "explanation": "Sarcolemma is muscle cell membrane."
+    },
+    {
+        "id": 364,
+        "question": "Which structure represents muscle cytoplasm?",
+        "options": [
+            "Sarcomere",
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasm is muscle cytoplasm."
+    },
+    {
+        "id": 365,
+        "question": "Which movement involves turning of bone around its axis?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 2,
+        "explanation": "Rotation is turning around axis."
+    },
+    {
+        "id": 366,
+        "question": "Which joint is freely movable?",
+        "options": [
+            "Fibrous",
+            "Cartilaginous",
+            "Synovial",
+            "Immovable"
+        ],
+        "answer": 2,
+        "explanation": "Synovial joints are freely movable."
+    },
+    {
+        "id": 367,
+        "question": "Which muscle type has multinucleate fibres?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscle fibres are multinucleate."
+    },
+    {
+        "id": 368,
+        "question": "Which muscle type has centrally placed nucleus?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Both smooth and cardiac",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Smooth and cardiac muscles have central nucleus."
+    },
+    {
+        "id": 369,
+        "question": "Which muscle type is myogenic in nature?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is myogenic."
+    },
+    {
+        "id": 370,
+        "question": "Which bone protects the spinal cord?",
+        "options": [
+            "Skull",
+            "Ribs",
+            "Vertebral column",
+            "Sternum"
+        ],
+        "answer": 2,
+        "explanation": "Vertebral column protects spinal cord."
+    },
+    {
+        "id": 371,
+        "question": "Which bone forms the upper jaw?",
+        "options": [
+            "Mandible",
+            "Maxilla",
+            "Zygomatic",
+            "Palatine"
+        ],
+        "answer": 1,
+        "explanation": "Maxilla forms upper jaw."
+    },
+    {
+        "id": 372,
+        "question": "Which bone forms the back of skull?",
+        "options": [
+            "Frontal",
+            "Parietal",
+            "Temporal",
+            "Occipital"
+        ],
+        "answer": 3,
+        "explanation": "Occipital bone forms back of skull."
+    },
+    {
+        "id": 373,
+        "question": "Which bone is commonly called collar bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Humerus",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Clavicle is collar bone."
+    },
+    {
+        "id": 374,
+        "question": "Which joint allows sliding movement?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Gliding joints allow sliding."
+    },
+    {
+        "id": 375,
+        "question": "Which muscle type lines blood vessels?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles line blood vessels."
+    },
+    {
+        "id": 376,
+        "question": "Which muscle type is under conscious control?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are voluntary."
+    },
+    {
+        "id": 377,
+        "question": "Which bone is absent in forearm?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Humerus",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Humerus is upper arm bone."
+    },
+    {
+        "id": 378,
+        "question": "Which joint permits both hinge and pivot movements?",
+        "options": [
+            "Knee",
+            "Elbow",
+            "Ankle",
+            "Shoulder"
+        ],
+        "answer": 1,
+        "explanation": "Elbow permits hinge and pivot movements."
+    },
+    {
+        "id": 379,
+        "question": "Which band may disappear during complete contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "M line",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band may disappear."
+    },
+    {
+        "id": 380,
+        "question": "Which immediate energy source is used during muscle contraction?",
+        "options": [
+            "Glucose",
+            "Glycogen",
+            "ATP",
+            "Creatine phosphate"
+        ],
+        "answer": 2,
+        "explanation": "ATP is immediate energy source."
+    },
+    {
+        "id": 381,
+        "question": "Which structure conducts impulse from nerve to muscle fibre?",
+        "options": [
+            "Synapse",
+            "Motor end plate",
+            "Z line",
+            "Sarcomere"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate conducts impulse."
+    },
+    {
+        "id": 382,
+        "question": "Which joint allows movement in one plane only?",
+        "options": [
+            "Ball and socket",
+            "Pivot",
+            "Hinge",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Hinge joint allows uniaxial movement."
+    },
+    {
+        "id": 383,
+        "question": "Which muscle is attached to skin of face?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 0,
+        "explanation": "Facial muscles are skeletal muscles."
+    },
+    {
+        "id": 384,
+        "question": "Which muscle type shows branching fibres?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle fibres are branched."
+    },
+    {
+        "id": 385,
+        "question": "Which structure holds actin filaments at Z line?",
+        "options": [
+            "Myosin",
+            "Z protein",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "Z protein anchors actin."
+    },
+    {
+        "id": 386,
+        "question": "Which event requires ATP directly?",
+        "options": [
+            "Ca2+ binding to troponin",
+            "Exposure of actin sites",
+            "Detachment of myosin head",
+            "Cross-bridge formation"
+        ],
+        "answer": 2,
+        "explanation": "ATP binding causes detachment."
+    },
+    {
+        "id": 387,
+        "question": "Which muscle type is found in uterus wall?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Uterus contains smooth muscle."
+    },
+    {
+        "id": 388,
+        "question": "Which movement involves straightening of limb?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Extension straightens limb."
+    },
+    {
+        "id": 389,
+        "question": "Which movement involves bending of limb?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 0,
+        "explanation": "Flexion bends limb."
+    },
+    {
+        "id": 390,
+        "question": "Which joint is present between skull bones?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Hinge"
+        ],
+        "answer": 2,
+        "explanation": "Skull bones are joined by fibrous joints."
+    },
+    {
+        "id": 391,
+        "question": "Which joint permits limited movement but lacks cavity?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Ball and socket"
+        ],
+        "answer": 1,
+        "explanation": "Cartilaginous joints allow limited movement."
+    },
+    {
+        "id": 392,
+        "question": "Which muscle fibre type has less myoglobin?",
+        "options": [
+            "Red fibres",
+            "White fibres",
+            "Cardiac fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "White fibres have less myoglobin."
+    },
+    {
+        "id": 393,
+        "question": "Which band corresponds to length of myosin filament?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band corresponds to thick filament length."
+    },
+    {
+        "id": 394,
+        "question": "Which structure maintains alignment of thick filaments?",
+        "options": [
+            "Z line",
+            "I band",
+            "M line",
+            "H zone"
+        ],
+        "answer": 2,
+        "explanation": "M line maintains alignment of myosin."
+    },
+    {
+        "id": 395,
+        "question": "Which muscle type is non-striated but involuntary?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscle is non-striated and involuntary."
+    },
+    {
+        "id": 396,
+        "question": "Which bone articulates with humerus at shoulder joint?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Scapula",
+            "Clavicle"
+        ],
+        "answer": 2,
+        "explanation": "Scapula articulates with humerus."
+    },
+    {
+        "id": 397,
+        "question": "Which bone articulates with femur at knee joint?",
+        "options": [
+            "Fibula",
+            "Tibia",
+            "Patella",
+            "Ilium"
+        ],
+        "answer": 1,
+        "explanation": "Femur articulates with tibia."
+    },
+    {
+        "id": 398,
+        "question": "Which joint permits circumduction movement?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket joints allow circumduction."
+    },
+    {
+        "id": 399,
+        "question": "Which muscle fibre type is adapted for sustained activity?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres sustain prolonged activity."
+    },
+    {
+        "id": 400,
+        "question": "The functional unit of muscle contraction is:",
+        "options": [
+            "Myofibril",
+            "Sarcomere",
+            "Muscle fibre",
+            "Myofilament"
+        ],
+        "answer": 1,
+        "explanation": "Sarcomere is the functional unit."
+    },
+    {
+        "id": 401,
+        "question": "Which movement involves change in position of body parts without change in location of organism?",
+        "options": [
+            "Locomotion",
+            "Cyclosis",
+            "Walking",
+            "Running"
+        ],
+        "answer": 1,
+        "explanation": "Cyclosis is movement of cell contents, not locomotion."
+    },
+    {
+        "id": 402,
+        "question": "Which statement is correct regarding movement and locomotion?",
+        "options": [
+            "All movements are locomotion",
+            "All locomotion is movement",
+            "Locomotion excludes animals",
+            "Movement occurs only in muscles"
+        ],
+        "answer": 1,
+        "explanation": "Locomotion is a type of movement."
+    },
+    {
+        "id": 403,
+        "question": "Which structure forms repeating contractile units in myofibril?",
+        "options": [
+            "Sarcolemma",
+            "Sarcomere",
+            "Myosin filament",
+            "Z protein"
+        ],
+        "answer": 1,
+        "explanation": "Sarcomere is the repeating contractile unit."
+    },
+    {
+        "id": 404,
+        "question": "Which band represents the region of actin–myosin overlap?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "Overlap occurs in A band."
+    },
+    {
+        "id": 405,
+        "question": "Which protein forms the backbone of thin filament?",
+        "options": [
+            "Myosin",
+            "Troponin",
+            "Actin",
+            "Tropomyosin"
+        ],
+        "answer": 2,
+        "explanation": "Actin forms thin filament backbone."
+    },
+    {
+        "id": 406,
+        "question": "Which protein covers the active sites of actin in resting muscle?",
+        "options": [
+            "Troponin",
+            "Tropomyosin",
+            "Myosin",
+            "Z protein"
+        ],
+        "answer": 1,
+        "explanation": "Tropomyosin covers actin sites."
+    },
+    {
+        "id": 407,
+        "question": "Which event directly follows Ca2+ binding to troponin?",
+        "options": [
+            "ATP synthesis",
+            "Exposure of actin sites",
+            "Cross-bridge detachment",
+            "Muscle relaxation"
+        ],
+        "answer": 1,
+        "explanation": "Binding exposes actin sites."
+    },
+    {
+        "id": 408,
+        "question": "Which step of cross-bridge cycle uses ATP?",
+        "options": [
+            "Power stroke",
+            "Attachment",
+            "Detachment",
+            "Ca2+ release"
+        ],
+        "answer": 2,
+        "explanation": "ATP binding causes detachment."
+    },
+    {
+        "id": 409,
+        "question": "Which condition causes sustained contraction after death?",
+        "options": [
+            "Excess ATP",
+            "Absence of ATP",
+            "Absence of Ca2+",
+            "Excess oxygen"
+        ],
+        "answer": 1,
+        "explanation": "ATP absence causes rigor mortis."
+    },
+    {
+        "id": 410,
+        "question": "Which muscle fibres are rich in mitochondria and myoglobin?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres have high mitochondria and myoglobin."
+    },
+    {
+        "id": 411,
+        "question": "Which muscle fibres fatigue quickly?",
+        "options": [
+            "Red fibres",
+            "White fibres",
+            "Cardiac fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "White fibres fatigue faster."
+    },
+    {
+        "id": 412,
+        "question": "Which muscle type lacks striations and sarcomeres?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles lack sarcomeres."
+    },
+    {
+        "id": 413,
+        "question": "Which muscle type is striated and involuntary?",
+        "options": [
+            "Smooth",
+            "Skeletal",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is striated and involuntary."
+    },
+    {
+        "id": 414,
+        "question": "Which muscle type shows branched fibres and intercalated discs?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle has these features."
+    },
+    {
+        "id": 415,
+        "question": "Which connective tissue surrounds individual muscle fibres?",
+        "options": [
+            "Epimysium",
+            "Perimysium",
+            "Endomysium",
+            "Sarcolemma"
+        ],
+        "answer": 2,
+        "explanation": "Endomysium surrounds fibres."
+    },
+    {
+        "id": 416,
+        "question": "Which connective tissue surrounds fascicles?",
+        "options": [
+            "Endomysium",
+            "Perimysium",
+            "Epimysium",
+            "Sarcolemma"
+        ],
+        "answer": 1,
+        "explanation": "Perimysium surrounds fascicles."
+    },
+    {
+        "id": 417,
+        "question": "Which joint permits movement in all directions?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket joints are multiaxial."
+    },
+    {
+        "id": 418,
+        "question": "Which joint allows rotation around a central axis?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 1,
+        "explanation": "Pivot joint allows rotation."
+    },
+    {
+        "id": 419,
+        "question": "Which joint is present between carpal bones?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Ball and socket"
+        ],
+        "answer": 2,
+        "explanation": "Intercarpal joints are gliding joints."
+    },
+    {
+        "id": 420,
+        "question": "Which joint permits biaxial movement?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Condyloid",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Condyloid joints are biaxial."
+    },
+    {
+        "id": 421,
+        "question": "Which bone does not articulate with any other bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Hyoid",
+            "Mandible"
+        ],
+        "answer": 2,
+        "explanation": "Hyoid is free-floating."
+    },
+    {
+        "id": 422,
+        "question": "Which cartilage type is present in external ear pinna?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 1,
+        "explanation": "Elastic cartilage forms pinna."
+    },
+    {
+        "id": 423,
+        "question": "Which cartilage is present between vertebrae?",
+        "options": [
+            "Hyaline",
+            "Elastic",
+            "Fibrous",
+            "Calcified"
+        ],
+        "answer": 2,
+        "explanation": "Intervertebral discs are fibrocartilage."
+    },
+    {
+        "id": 424,
+        "question": "The number of bones in adult human skeleton is:",
+        "options": [
+            "300",
+            "270",
+            "206",
+            "208"
+        ],
+        "answer": 2,
+        "explanation": "Adult skeleton has 206 bones."
+    },
+    {
+        "id": 425,
+        "question": "Which part of skeleton forms the body axis?",
+        "options": [
+            "Appendicular",
+            "Axial",
+            "Girdles",
+            "Limbs"
+        ],
+        "answer": 1,
+        "explanation": "Axial skeleton forms body axis."
+    },
+    {
+        "id": 426,
+        "question": "Which bones form the shoulder girdle?",
+        "options": [
+            "Scapula and clavicle",
+            "Scapula and humerus",
+            "Clavicle and sternum",
+            "Humerus and radius"
+        ],
+        "answer": 0,
+        "explanation": "Shoulder girdle has scapula and clavicle."
+    },
+    {
+        "id": 427,
+        "question": "Pelvic girdle is formed by fusion of:",
+        "options": [
+            "Ilium, ischium, pubis",
+            "Femur, tibia, fibula",
+            "Sacrum and coccyx",
+            "Ilium and sacrum"
+        ],
+        "answer": 0,
+        "explanation": "Hip bone is fusion of ilium, ischium and pubis."
+    },
+    {
+        "id": 428,
+        "question": "Which bone is the longest in human body?",
+        "options": [
+            "Humerus",
+            "Femur",
+            "Tibia",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Femur is longest bone."
+    },
+    {
+        "id": 429,
+        "question": "Which bone forms the kneecap?",
+        "options": [
+            "Femur",
+            "Tibia",
+            "Fibula",
+            "Patella"
+        ],
+        "answer": 3,
+        "explanation": "Patella forms kneecap."
+    },
+    {
+        "id": 430,
+        "question": "Which vertebra is called atlas?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 0,
+        "explanation": "Atlas is first cervical vertebra."
+    },
+    {
+        "id": 431,
+        "question": "Which vertebra is called axis?",
+        "options": [
+            "First cervical",
+            "Second cervical",
+            "Third cervical",
+            "Fourth cervical"
+        ],
+        "answer": 1,
+        "explanation": "Axis is second cervical vertebra."
+    },
+    {
+        "id": 432,
+        "question": "How many thoracic vertebrae are present in humans?",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "Humans have 12 thoracic vertebrae."
+    },
+    {
+        "id": 433,
+        "question": "How many sacral vertebrae fuse to form sacrum?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Five sacral vertebrae fuse."
+    },
+    {
+        "id": 434,
+        "question": "Which ribs are directly attached to sternum?",
+        "options": [
+            "False ribs",
+            "Floating ribs",
+            "True ribs",
+            "All ribs"
+        ],
+        "answer": 2,
+        "explanation": "True ribs attach directly."
+    },
+    {
+        "id": 435,
+        "question": "Which ribs have no anterior attachment?",
+        "options": [
+            "1–7",
+            "8–10",
+            "11–12",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "11th and 12th ribs are floating."
+    },
+    {
+        "id": 436,
+        "question": "Which bone forms the heel of foot?",
+        "options": [
+            "Talus",
+            "Calcaneus",
+            "Cuboid",
+            "Navicular"
+        ],
+        "answer": 1,
+        "explanation": "Calcaneus forms heel."
+    },
+    {
+        "id": 437,
+        "question": "How many carpals are present in one hand?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "There are 8 carpals."
+    },
+    {
+        "id": 438,
+        "question": "How many metacarpals are present in one hand?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "There are 5 metacarpals."
+    },
+    {
+        "id": 439,
+        "question": "How many phalanges are present in one hand?",
+        "options": [
+            "12",
+            "13",
+            "14",
+            "15"
+        ],
+        "answer": 2,
+        "explanation": "There are 14 phalanges."
+    },
+    {
+        "id": 440,
+        "question": "Which joint is present at base of thumb?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Saddle",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Thumb has saddle joint."
+    },
+    {
+        "id": 441,
+        "question": "Movement away from midline of body is called:",
+        "options": [
+            "Adduction",
+            "Abduction",
+            "Flexion",
+            "Extension"
+        ],
+        "answer": 1,
+        "explanation": "Abduction moves limb away."
+    },
+    {
+        "id": 442,
+        "question": "Movement towards midline of body is called:",
+        "options": [
+            "Abduction",
+            "Adduction",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Adduction moves limb towards midline."
+    },
+    {
+        "id": 443,
+        "question": "Which movement decreases angle between bones?",
+        "options": [
+            "Extension",
+            "Flexion",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Flexion decreases angle."
+    },
+    {
+        "id": 444,
+        "question": "Which movement increases angle between bones?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Abduction",
+            "Rotation"
+        ],
+        "answer": 1,
+        "explanation": "Extension increases angle."
+    },
+    {
+        "id": 445,
+        "question": "Which movement involves circular motion of limb?",
+        "options": [
+            "Rotation",
+            "Circumduction",
+            "Flexion",
+            "Adduction"
+        ],
+        "answer": 1,
+        "explanation": "Circumduction is circular movement."
+    },
+    {
+        "id": 446,
+        "question": "Which muscle flexes the forearm?",
+        "options": [
+            "Triceps",
+            "Biceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 1,
+        "explanation": "Biceps flexes forearm."
+    },
+    {
+        "id": 447,
+        "question": "Which muscle extends the forearm?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Latissimus dorsi"
+        ],
+        "answer": 1,
+        "explanation": "Triceps extends forearm."
+    },
+    {
+        "id": 448,
+        "question": "Which muscle forms the calf?",
+        "options": [
+            "Gastrocnemius",
+            "Soleus",
+            "Peroneus",
+            "Tibialis"
+        ],
+        "answer": 0,
+        "explanation": "Gastrocnemius forms calf muscle."
+    },
+    {
+        "id": 449,
+        "question": "Which muscle abducts the arm?",
+        "options": [
+            "Biceps",
+            "Triceps",
+            "Deltoid",
+            "Pectoralis"
+        ],
+        "answer": 2,
+        "explanation": "Deltoid abducts arm."
+    },
+    {
+        "id": 450,
+        "question": "Which structure connects muscle to bone?",
+        "options": [
+            "Ligament",
+            "Tendon",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Tendon connects muscle to bone."
+    },
+    {
+        "id": 451,
+        "question": "Which structure connects bone to bone?",
+        "options": [
+            "Tendon",
+            "Ligament",
+            "Cartilage",
+            "Fascia"
+        ],
+        "answer": 1,
+        "explanation": "Ligament connects bones."
+    },
+    {
+        "id": 452,
+        "question": "Which joint contains synovial fluid?",
+        "options": [
+            "Fibrous",
+            "Cartilaginous",
+            "Synovial",
+            "Immovable"
+        ],
+        "answer": 2,
+        "explanation": "Synovial joints contain fluid."
+    },
+    {
+        "id": 453,
+        "question": "Which joint allows least movement?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Fibrous joints are immovable."
+    },
+    {
+        "id": 454,
+        "question": "Which neurotransmitter is released at neuromuscular junction?",
+        "options": [
+            "Dopamine",
+            "Noradrenaline",
+            "Acetylcholine",
+            "Serotonin"
+        ],
+        "answer": 2,
+        "explanation": "Acetylcholine is released."
+    },
+    {
+        "id": 455,
+        "question": "Which structure receives nerve impulse in muscle fibre?",
+        "options": [
+            "Z line",
+            "Motor end plate",
+            "Sarcomere",
+            "Myofibril"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate receives impulse."
+    },
+    {
+        "id": 456,
+        "question": "Which muscle fibre type is fatigue resistant?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres resist fatigue."
+    },
+    {
+        "id": 457,
+        "question": "Which band contains only myosin filaments?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "H zone contains only myosin."
+    },
+    {
+        "id": 458,
+        "question": "Which band remains unchanged during contraction?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band remains constant."
+    },
+    {
+        "id": 459,
+        "question": "Which structure anchors actin filaments?",
+        "options": [
+            "M line",
+            "Z line",
+            "H zone",
+            "A band"
+        ],
+        "answer": 1,
+        "explanation": "Actin anchors to Z line."
+    },
+    {
+        "id": 460,
+        "question": "Which structure holds thick filaments together?",
+        "options": [
+            "Z line",
+            "I band",
+            "M line",
+            "H zone"
+        ],
+        "answer": 2,
+        "explanation": "M line holds myosin filaments."
+    },
+    {
+        "id": 461,
+        "question": "Which process leads to muscle relaxation?",
+        "options": [
+            "Ca2+ release",
+            "ATP hydrolysis",
+            "Ca2+ reuptake",
+            "Cross-bridge formation"
+        ],
+        "answer": 2,
+        "explanation": "Ca2+ reuptake causes relaxation."
+    },
+    {
+        "id": 462,
+        "question": "Which structure stores calcium ions in muscle fibre?",
+        "options": [
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Sarcoplasmic reticulum",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasmic reticulum stores Ca2+."
+    },
+    {
+        "id": 463,
+        "question": "Which structure is muscle cell membrane?",
+        "options": [
+            "Sarcomere",
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril"
+        ],
+        "answer": 1,
+        "explanation": "Sarcolemma is muscle membrane."
+    },
+    {
+        "id": 464,
+        "question": "Which structure is muscle cytoplasm?",
+        "options": [
+            "Sarcomere",
+            "Sarcolemma",
+            "Sarcoplasm",
+            "Myofibril"
+        ],
+        "answer": 2,
+        "explanation": "Sarcoplasm is cytoplasm."
+    },
+    {
+        "id": 465,
+        "question": "Which movement involves turning of bone around its axis?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 2,
+        "explanation": "Rotation is turning around axis."
+    },
+    {
+        "id": 466,
+        "question": "Which joint is freely movable?",
+        "options": [
+            "Fibrous",
+            "Cartilaginous",
+            "Synovial",
+            "Immovable"
+        ],
+        "answer": 2,
+        "explanation": "Synovial joints are freely movable."
+    },
+    {
+        "id": 467,
+        "question": "Which muscle type has multinucleate fibres?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal fibres are multinucleate."
+    },
+    {
+        "id": 468,
+        "question": "Which muscle type has centrally placed nucleus?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Both smooth and cardiac",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Smooth and cardiac have central nucleus."
+    },
+    {
+        "id": 469,
+        "question": "Which muscle type is myogenic?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac muscle is myogenic."
+    },
+    {
+        "id": 470,
+        "question": "Which bone protects spinal cord?",
+        "options": [
+            "Skull",
+            "Ribs",
+            "Vertebral column",
+            "Sternum"
+        ],
+        "answer": 2,
+        "explanation": "Vertebral column protects spinal cord."
+    },
+    {
+        "id": 471,
+        "question": "Which bone forms upper jaw?",
+        "options": [
+            "Mandible",
+            "Maxilla",
+            "Zygomatic",
+            "Palatine"
+        ],
+        "answer": 1,
+        "explanation": "Maxilla forms upper jaw."
+    },
+    {
+        "id": 472,
+        "question": "Which bone forms back of skull?",
+        "options": [
+            "Frontal",
+            "Parietal",
+            "Temporal",
+            "Occipital"
+        ],
+        "answer": 3,
+        "explanation": "Occipital bone forms back of skull."
+    },
+    {
+        "id": 473,
+        "question": "Which bone is called collar bone?",
+        "options": [
+            "Scapula",
+            "Clavicle",
+            "Humerus",
+            "Radius"
+        ],
+        "answer": 1,
+        "explanation": "Clavicle is collar bone."
+    },
+    {
+        "id": 474,
+        "question": "Which joint allows sliding movement?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Gliding",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Gliding joints allow sliding."
+    },
+    {
+        "id": 475,
+        "question": "Which muscle lines blood vessels?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscles line blood vessels."
+    },
+    {
+        "id": 476,
+        "question": "Which muscle type is under conscious control?",
+        "options": [
+            "Smooth",
+            "Cardiac",
+            "Skeletal",
+            "Visceral"
+        ],
+        "answer": 2,
+        "explanation": "Skeletal muscles are voluntary."
+    },
+    {
+        "id": 477,
+        "question": "Which bone is absent in forearm?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Humerus",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Humerus is upper arm bone."
+    },
+    {
+        "id": 478,
+        "question": "Which joint permits both hinge and pivot movements?",
+        "options": [
+            "Knee",
+            "Elbow",
+            "Ankle",
+            "Shoulder"
+        ],
+        "answer": 1,
+        "explanation": "Elbow permits hinge and pivot."
+    },
+    {
+        "id": 479,
+        "question": "Which band may disappear during contraction?",
+        "options": [
+            "A band",
+            "I band",
+            "M line",
+            "Z line"
+        ],
+        "answer": 1,
+        "explanation": "I band may disappear."
+    },
+    {
+        "id": 480,
+        "question": "Immediate source of energy for muscle contraction is:",
+        "options": [
+            "Glucose",
+            "Glycogen",
+            "ATP",
+            "Creatine phosphate"
+        ],
+        "answer": 2,
+        "explanation": "ATP provides immediate energy."
+    },
+    {
+        "id": 481,
+        "question": "Which structure conducts impulse from nerve to muscle fibre?",
+        "options": [
+            "Synapse",
+            "Motor end plate",
+            "Z line",
+            "Sarcomere"
+        ],
+        "answer": 1,
+        "explanation": "Motor end plate conducts impulse."
+    },
+    {
+        "id": 482,
+        "question": "Which joint allows movement in one plane?",
+        "options": [
+            "Ball and socket",
+            "Pivot",
+            "Hinge",
+            "Saddle"
+        ],
+        "answer": 2,
+        "explanation": "Hinge joint allows uniaxial movement."
+    },
+    {
+        "id": 483,
+        "question": "Which muscle is attached to skin of face?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Visceral"
+        ],
+        "answer": 0,
+        "explanation": "Facial muscles are skeletal."
+    },
+    {
+        "id": 484,
+        "question": "Which muscle type shows branching fibres?",
+        "options": [
+            "Skeletal",
+            "Smooth",
+            "Cardiac",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Cardiac fibres are branched."
+    },
+    {
+        "id": 485,
+        "question": "Which protein anchors actin to Z line?",
+        "options": [
+            "Myosin",
+            "Z protein",
+            "Troponin",
+            "Tropomyosin"
+        ],
+        "answer": 1,
+        "explanation": "Z protein anchors actin."
+    },
+    {
+        "id": 486,
+        "question": "Which event requires ATP directly?",
+        "options": [
+            "Ca2+ binding",
+            "Exposure of actin sites",
+            "Detachment of myosin",
+            "Cross-bridge formation"
+        ],
+        "answer": 2,
+        "explanation": "ATP causes detachment."
+    },
+    {
+        "id": 487,
+        "question": "Which muscle is present in uterus wall?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Uterus contains smooth muscle."
+    },
+    {
+        "id": 488,
+        "question": "Which movement straightens the limb?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 1,
+        "explanation": "Extension straightens limb."
+    },
+    {
+        "id": 489,
+        "question": "Which movement bends the limb?",
+        "options": [
+            "Flexion",
+            "Extension",
+            "Rotation",
+            "Circumduction"
+        ],
+        "answer": 0,
+        "explanation": "Flexion bends limb."
+    },
+    {
+        "id": 490,
+        "question": "Which joint is present between skull bones?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Hinge"
+        ],
+        "answer": 2,
+        "explanation": "Skull bones are fibrous joints."
+    },
+    {
+        "id": 491,
+        "question": "Which joint allows limited movement without cavity?",
+        "options": [
+            "Synovial",
+            "Cartilaginous",
+            "Fibrous",
+            "Ball and socket"
+        ],
+        "answer": 1,
+        "explanation": "Cartilaginous joints allow limited movement."
+    },
+    {
+        "id": 492,
+        "question": "Which muscle fibre type has less myoglobin?",
+        "options": [
+            "Red fibres",
+            "White fibres",
+            "Cardiac fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "White fibres have less myoglobin."
+    },
+    {
+        "id": 493,
+        "question": "Which band corresponds to length of thick filament?",
+        "options": [
+            "I band",
+            "H zone",
+            "A band",
+            "Z line"
+        ],
+        "answer": 2,
+        "explanation": "A band corresponds to myosin length."
+    },
+    {
+        "id": 494,
+        "question": "Which structure maintains alignment of thick filaments?",
+        "options": [
+            "Z line",
+            "I band",
+            "M line",
+            "H zone"
+        ],
+        "answer": 2,
+        "explanation": "M line aligns myosin."
+    },
+    {
+        "id": 495,
+        "question": "Which muscle type is non-striated and involuntary?",
+        "options": [
+            "Skeletal",
+            "Cardiac",
+            "Smooth",
+            "Voluntary"
+        ],
+        "answer": 2,
+        "explanation": "Smooth muscle is non-striated and involuntary."
+    },
+    {
+        "id": 496,
+        "question": "Which bone articulates with humerus at shoulder?",
+        "options": [
+            "Radius",
+            "Ulna",
+            "Scapula",
+            "Clavicle"
+        ],
+        "answer": 2,
+        "explanation": "Scapula articulates with humerus."
+    },
+    {
+        "id": 497,
+        "question": "Which bone articulates with femur at knee?",
+        "options": [
+            "Fibula",
+            "Tibia",
+            "Patella",
+            "Ilium"
+        ],
+        "answer": 1,
+        "explanation": "Femur articulates with tibia."
+    },
+    {
+        "id": 498,
+        "question": "Which joint permits circumduction?",
+        "options": [
+            "Hinge",
+            "Pivot",
+            "Ball and socket",
+            "Gliding"
+        ],
+        "answer": 2,
+        "explanation": "Ball and socket permits circumduction."
+    },
+    {
+        "id": 499,
+        "question": "Which muscle fibre type is adapted for sustained activity?",
+        "options": [
+            "White fibres",
+            "Red fibres",
+            "Fast fibres",
+            "Smooth fibres"
+        ],
+        "answer": 1,
+        "explanation": "Red fibres support sustained activity."
+    },
+    {
+        "id": 500,
+        "question": "The functional unit of muscle contraction is:",
+        "options": [
+            "Myofibril",
+            "Sarcomere",
+            "Muscle fibre",
+            "Myofilament"
+        ],
+        "answer": 1,
+        "explanation": "Sarcomere is functional unit."
+    }
+]

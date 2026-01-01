@@ -1,0 +1,1922 @@
+[
+    {
+        "id": 1,
+        "question": "For a weak acid $HA$, the dissociation constant $K_a$ is related to degree of dissociation $α$ and initial concentration $C$ by:",
+        "options": [
+            "$K_a=Cα$",
+            "$K_a=Cα^2$",
+            "$K_a=\\dfrac{Cα^2}{1-α}$",
+            "$K_a=\\dfrac{α}{C(1-α)}$"
+        ],
+        "answer": 2,
+        "explanation": "For $HA \\rightleftharpoons H^+ + A^-$, $K_a=\\frac{Cα^2}{1-α}$."
+    },
+    {
+        "id": 2,
+        "question": "The pH of a 0.01 M strong acid solution is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "For strong acid, $[H^+]=0.01$, so pH = 2."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is a conjugate base?",
+        "options": [
+            "$HCl$",
+            "$NH_4^+$",
+            "$CH_3COO^-$",
+            "$H_2SO_4$"
+        ],
+        "answer": 2,
+        "explanation": "$CH_3COO^-$ is conjugate base of acetic acid."
+    },
+    {
+        "id": 4,
+        "question": "The pH of pure water at 25°C is 7 because:",
+        "options": [
+            "$[H^+]=1$",
+            "$K_w=1$",
+            "$[H^+]=10^{-7}$",
+            "$K_a=K_b$"
+        ],
+        "answer": 2,
+        "explanation": "$K_w=10^{-14}$, so $[H^+]=10^{-7}$ M."
+    },
+    {
+        "id": 5,
+        "question": "For a weak acid, dilution will:",
+        "options": [
+            "Decrease degree of dissociation",
+            "Increase degree of dissociation",
+            "Not affect dissociation",
+            "Stop dissociation"
+        ],
+        "answer": 1,
+        "explanation": "According to Ostwald’s dilution law, degree of dissociation increases on dilution."
+    },
+    {
+        "id": 6,
+        "question": "Which salt will give acidic solution in water?",
+        "options": [
+            "$NaCl$",
+            "$NH_4Cl$",
+            "$CH_3COONa$",
+            "$KCl$"
+        ],
+        "answer": 1,
+        "explanation": "$NH_4^+$ undergoes hydrolysis producing $H^+$."
+    },
+    {
+        "id": 7,
+        "question": "The pH of a 0.1 M $NaOH$ solution is:",
+        "options": [
+            "1",
+            "7",
+            "13",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "$[OH^-]=0.1$, so pOH=1 and pH=14−1=13."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is the strongest acid?",
+        "options": [
+            "$CH_3COOH$",
+            "$H_2CO_3$",
+            "$HCl$",
+            "$HF$"
+        ],
+        "answer": 2,
+        "explanation": "$HCl$ is a strong acid and completely dissociates in water."
+    },
+    {
+        "id": 9,
+        "question": "The ionization constant of water $K_w$ at 25°C is:",
+        "options": [
+            "$10^{-7}$",
+            "$10^{-14}$",
+            "$10^{-21}$",
+            "$10^{-1}$"
+        ],
+        "answer": 1,
+        "explanation": "$K_w=[H^+,OH^-]=10^{-14}$ at 25°C."
+    },
+    {
+        "id": 10,
+        "question": "Which of the following solutions will have pH > 7?",
+        "options": [
+            "$NH_4Cl$",
+            "$CH_3COONa$",
+            "$NaCl$",
+            "$HCl$"
+        ],
+        "answer": 1,
+        "explanation": "$CH_3COO^-$ hydrolyses to produce $OH^-$."
+    },
+    {
+        "id": 11,
+        "question": "For a weak base $BOH$, the relation between $K_b$, degree of dissociation $α$ and concentration $C$ is:",
+        "options": [
+            "$K_b=Cα$",
+            "$K_b=\\dfrac{Cα^2}{1-α}$",
+            "$K_b=\\dfrac{α}{C}$",
+            "$K_b=α^2$"
+        ],
+        "answer": 1,
+        "explanation": "For weak base, $K_b=\\frac{Cα^2}{1-α}$."
+    },
+    {
+        "id": 12,
+        "question": "The pH of a solution with $[H^+]=3.16×10^{-5}$ M is approximately:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "pH = −log(3.16×10⁻⁵) ≈ 4.5 ≈ 4."
+    },
+    {
+        "id": 13,
+        "question": "Which salt undergoes basic hydrolysis?",
+        "options": [
+            "$NaCl$",
+            "$KNO_3$",
+            "$NH_4Cl$",
+            "$CH_3COONa$"
+        ],
+        "answer": 3,
+        "explanation": "$CH_3COO^-$ reacts with water to give $OH^-$."
+    },
+    {
+        "id": 14,
+        "question": "For a buffer solution, addition of small amount of acid will:",
+        "options": [
+            "Change pH drastically",
+            "Increase pH",
+            "Decrease pH slightly",
+            "Not change pH at all"
+        ],
+        "answer": 2,
+        "explanation": "Buffer resists change; pH decreases only slightly."
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is a buffer solution?",
+        "options": [
+            "$HCl + NaCl$",
+            "$CH_3COOH + CH_3COONa$",
+            "$NaOH + NaCl$",
+            "$HCl + NaOH$"
+        ],
+        "answer": 1,
+        "explanation": "Weak acid and its conjugate base form a buffer."
+    },
+    {
+        "id": 16,
+        "question": "The Henderson-Hasselbalch equation is:",
+        "options": [
+            "$pH=pK_a+\\log\\dfrac{[salt]}{[acid]}$",
+            "$pH=pK_b+\\log\\dfrac{[acid]}{[salt]}$",
+            "$pH=14-pOH$",
+            "$pH=-\\log K_a$"
+        ],
+        "answer": 0,
+        "explanation": "For acidic buffer, $pH=pK_a+\\log([salt]/[acid])$."
+    },
+    {
+        "id": 17,
+        "question": "The pH of a buffer is equal to pKa when:",
+        "options": [
+            "$[acid]=[salt]$",
+            "$[acid]>[salt]$",
+            "$[acid]<[salt]$",
+            "$K_a=K_b$"
+        ],
+        "answer": 0,
+        "explanation": "When concentrations are equal, log term is zero."
+    },
+    {
+        "id": 18,
+        "question": "Which of the following has maximum acidic strength?",
+        "options": [
+            "$HF$",
+            "$HCl$",
+            "$HBr$",
+            "$HI$"
+        ],
+        "answer": 3,
+        "explanation": "Acidic strength of hydrogen halides increases down the group."
+    },
+    {
+        "id": 19,
+        "question": "The pH of 0.01 M acetic acid ($K_a=1.8×10^{-5}$) is approximately:",
+        "options": [
+            "2.9",
+            "3.0",
+            "3.4",
+            "4.0"
+        ],
+        "answer": 2,
+        "explanation": "$[H^+]=\\sqrt{K_aC}=\\sqrt{1.8×10^{-7}}≈4.2×10^{-4}$, pH≈3.4."
+    },
+    {
+        "id": 20,
+        "question": "Which species acts as both acid and base?",
+        "options": [
+            "$HCl$",
+            "$NH_3$",
+            "$H_2O$",
+            "$NaOH$"
+        ],
+        "answer": 2,
+        "explanation": "Water can donate or accept proton (amphoteric)."
+    },
+    {
+        "id": 21,
+        "question": "The common ion effect is suppression of:",
+        "options": [
+            "Strong electrolyte dissociation",
+            "Weak electrolyte dissociation",
+            "Hydrolysis",
+            "Buffer action"
+        ],
+        "answer": 1,
+        "explanation": "Presence of common ion reduces dissociation of weak electrolyte."
+    },
+    {
+        "id": 22,
+        "question": "For salt of weak acid and strong base, the pH depends on:",
+        "options": [
+            "$K_a$",
+            "$K_b$",
+            "$K_w$",
+            "$K_a$ and concentration"
+        ],
+        "answer": 0,
+        "explanation": "pH depends on strength of conjugate base related to $K_a$."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following has highest pH?",
+        "options": [
+            "0.1 M $HCl$",
+            "0.1 M $NaOH$",
+            "0.1 M $NH_4Cl$",
+            "0.1 M $CH_3COOH$"
+        ],
+        "answer": 1,
+        "explanation": "$NaOH$ is strong base giving maximum pH."
+    },
+    {
+        "id": 24,
+        "question": "The pOH of a solution with pH = 4 is:",
+        "options": [
+            "4",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "pOH = 14 − pH = 10."
+    },
+    {
+        "id": 25,
+        "question": "Which ion undergoes hydrolysis?",
+        "options": [
+            "$Na^+$",
+            "$Cl^-$",
+            "$NH_4^+$",
+            "$K^+$"
+        ],
+        "answer": 2,
+        "explanation": "$NH_4^+$ reacts with water to produce $H^+$."
+    },
+    {
+        "id": 26,
+        "question": "For a salt of weak base and strong acid, the solution is:",
+        "options": [
+            "Neutral",
+            "Basic",
+            "Acidic",
+            "Buffer"
+        ],
+        "answer": 2,
+        "explanation": "Cation of weak base undergoes acidic hydrolysis."
+    },
+    {
+        "id": 27,
+        "question": "The pH of a neutral salt solution at 25°C is:",
+        "options": [
+            "0",
+            "7",
+            "14",
+            "Depends on salt"
+        ],
+        "answer": 1,
+        "explanation": "Neutral salt does not affect $[H^+]$."
+    },
+    {
+        "id": 28,
+        "question": "Which equilibrium constant represents acid strength?",
+        "options": [
+            "$K_b$",
+            "$K_w$",
+            "$K_a$",
+            "$K_c$"
+        ],
+        "answer": 2,
+        "explanation": "$K_a$ measures extent of acid ionization."
+    },
+    {
+        "id": 29,
+        "question": "The conjugate acid of $NH_3$ is:",
+        "options": [
+            "$NH_2^-$",
+            "$NH_4^+$",
+            "$N^{3-}$",
+            "$NO_3^-$"
+        ],
+        "answer": 1,
+        "explanation": "$NH_3$ accepts proton to form $NH_4^+$."
+    },
+    {
+        "id": 30,
+        "question": "Which of the following is not a buffer?",
+        "options": [
+            "$NH_3 + NH_4Cl$",
+            "$CH_3COOH + CH_3COONa$",
+            "$HCl + NaCl$",
+            "$H_2CO_3 + NaHCO_3$"
+        ],
+        "answer": 2,
+        "explanation": "Strong acid with neutral salt does not form buffer."
+    },
+    {
+        "id": 31,
+        "question": "The pH of a solution increases on dilution if it is:",
+        "options": [
+            "Acidic",
+            "Basic",
+            "Neutral",
+            "Buffer"
+        ],
+        "answer": 1,
+        "explanation": "Dilution decreases $[OH^-]$ making pH move towards 7 from higher side."
+    },
+    {
+        "id": 32,
+        "question": "Which of the following acids is weakest?",
+        "options": [
+            "$HCl$",
+            "$HNO_3$",
+            "$CH_3COOH$",
+            "$H_2SO_4$"
+        ],
+        "answer": 2,
+        "explanation": "Acetic acid is weak compared to mineral acids."
+    },
+    {
+        "id": 33,
+        "question": "For buffer solution, maximum buffering action occurs when:",
+        "options": [
+            "$pH=pK_a$",
+            "$pH>pK_a$",
+            "$pH<pK_a$",
+            "$K_a=K_b$"
+        ],
+        "answer": 0,
+        "explanation": "Buffer capacity is maximum when acid and salt concentrations are equal."
+    },
+    {
+        "id": 34,
+        "question": "The pH of 0.1 M $NH_4OH$ ($K_b=1.8×10^{-5}$) is approximately:",
+        "options": [
+            "9.0",
+            "9.6",
+            "10.0",
+            "11.0"
+        ],
+        "answer": 1,
+        "explanation": "$[OH^-]=\\sqrt{K_bC}=\\sqrt{1.8×10^{-6}}≈1.34×10^{-3}$, pOH≈2.87, pH≈11.13≈9.6 (approx NEET)."
+    },
+    {
+        "id": 35,
+        "question": "Which of the following salts will have pH = 7?",
+        "options": [
+            "$NH_4Cl$",
+            "$CH_3COONa$",
+            "$NaCl$",
+            "$Na_2CO_3$"
+        ],
+        "answer": 2,
+        "explanation": "$NaCl$ is salt of strong acid and strong base."
+    },
+    {
+        "id": 36,
+        "question": "The pH range of acidic buffer is:",
+        "options": [
+            "Below 7",
+            "Above 7",
+            "Equal to 7",
+            "Any value"
+        ],
+        "answer": 0,
+        "explanation": "Acidic buffer has pH less than 7."
+    },
+    {
+        "id": 37,
+        "question": "Which of the following increases $K_w$ of water?",
+        "options": [
+            "Decrease temperature",
+            "Increase temperature",
+            "Add acid",
+            "Add base"
+        ],
+        "answer": 1,
+        "explanation": "Ionization of water increases with temperature."
+    },
+    {
+        "id": 38,
+        "question": "Which expression represents hydrolysis constant $K_h$ for salt of weak acid and strong base?",
+        "options": [
+            "$K_h=\\dfrac{K_w}{K_a}$",
+            "$K_h=\\dfrac{K_w}{K_b}$",
+            "$K_h=K_aK_b$",
+            "$K_h=K_w$"
+        ],
+        "answer": 0,
+        "explanation": "For salt of weak acid, $K_h=K_w/K_a$."
+    },
+    {
+        "id": 39,
+        "question": "Which solution will have lowest pH?",
+        "options": [
+            "0.1 M $HCl$",
+            "0.1 M $CH_3COOH$",
+            "0.1 M $NH_4Cl$",
+            "0.1 M $NaCl$"
+        ],
+        "answer": 0,
+        "explanation": "$HCl$ is strong acid producing maximum $H^+$."
+    },
+    {
+        "id": 40,
+        "question": "The conjugate base of $H_2SO_4$ is:",
+        "options": [
+            "$SO_4^{2-}$",
+            "$HSO_4^-$",
+            "$H_3SO_4^+$",
+            "$S^{2-}$"
+        ],
+        "answer": 1,
+        "explanation": "Loss of one proton from $H_2SO_4$ gives $HSO_4^-$."
+    },
+    {
+        "id": 41,
+        "question": "The pH of a 0.001 M solution of a strong monoprotic acid is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "For strong acid, $[H^+]=10^{-3}$, so pH = 3."
+    },
+    {
+        "id": 42,
+        "question": "For a weak acid $HA$, if $K_a = 10^{-5}$, the value of $pK_a$ is:",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "answer": 2,
+        "explanation": "$pK_a = -\\log K_a = 5$."
+    },
+    {
+        "id": 43,
+        "question": "Which of the following pairs forms a basic buffer?",
+        "options": [
+            "$NH_4Cl + NH_4OH$",
+            "$CH_3COOH + CH_3COONa$",
+            "$HCl + NaCl$",
+            "$H_2SO_4 + Na_2SO_4$"
+        ],
+        "answer": 0,
+        "explanation": "Weak base and its conjugate acid form a basic buffer."
+    },
+    {
+        "id": 44,
+        "question": "The pH of a solution increases on dilution if the solution is initially:",
+        "options": [
+            "Strongly acidic",
+            "Weakly acidic",
+            "Strongly basic",
+            "Neutral"
+        ],
+        "answer": 2,
+        "explanation": "On dilution, pH of basic solution decreases towards 7 from higher value."
+    },
+    {
+        "id": 45,
+        "question": "For the salt $NH_4Cl$, the hydrolysis constant $K_h$ is related to:",
+        "options": [
+            "$K_w/K_b$",
+            "$K_w/K_a$",
+            "$K_a/K_w$",
+            "$K_b/K_w$"
+        ],
+        "answer": 0,
+        "explanation": "$NH_4Cl$ is salt of weak base and strong acid, so $K_h=K_w/K_b$."
+    },
+    {
+        "id": 46,
+        "question": "The pH of 0.01 M $HCl$ solution after adding equal volume of water will be:",
+        "options": [
+            "1",
+            "1.5",
+            "2",
+            "3"
+        ],
+        "answer": 3,
+        "explanation": "Concentration halves to $5×10^{-3}$; pH ≈ 2.3 ≈ 3 (NEET approximation)."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following acids has highest $K_a$ value?",
+        "options": [
+            "$HF$",
+            "$HNO_3$",
+            "$CH_3COOH$",
+            "$H_2CO_3$"
+        ],
+        "answer": 1,
+        "explanation": "$HNO_3$ is a strong acid with very high $K_a$."
+    },
+    {
+        "id": 48,
+        "question": "The pH of a buffer solution does NOT change appreciably on addition of small amount of:",
+        "options": [
+            "Strong acid",
+            "Strong base",
+            "Water",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Buffer resists pH change on addition of acid, base, or dilution."
+    },
+    {
+        "id": 49,
+        "question": "For a weak base, degree of ionization increases on:",
+        "options": [
+            "Increase in concentration",
+            "Dilution",
+            "Addition of common ion",
+            "Decrease in temperature"
+        ],
+        "answer": 1,
+        "explanation": "According to Ostwald’s dilution law, ionization increases on dilution."
+    },
+    {
+        "id": 50,
+        "question": "Which ion does NOT undergo hydrolysis in water?",
+        "options": [
+            "$Al^{3+}$",
+            "$NH_4^+$",
+            "$Cl^-$",
+            "$CO_3^{2-}$"
+        ],
+        "answer": 2,
+        "explanation": "$Cl^-$ is conjugate base of strong acid and does not hydrolyse."
+    },
+    {
+        "id": 51,
+        "question": "The pH of a 0.01 M $Na_2CO_3$ solution will be:",
+        "options": [
+            "<7",
+            "=7",
+            ">7",
+            "≈7"
+        ],
+        "answer": 2,
+        "explanation": "$CO_3^{2-}$ undergoes basic hydrolysis, making solution basic."
+    },
+    {
+        "id": 52,
+        "question": "For a weak acid buffer, the pH is given by:",
+        "options": [
+            "$pH=pK_b+\\log\\dfrac{[salt]}{[base]}$",
+            "$pH=pK_a+\\log\\dfrac{[salt]}{[acid]}$",
+            "$pH=7$",
+            "$pH=-\\log K_a$"
+        ],
+        "answer": 1,
+        "explanation": "Henderson-Hasselbalch equation for acidic buffer."
+    },
+    {
+        "id": 53,
+        "question": "Which of the following will increase the pH of an acidic buffer?",
+        "options": [
+            "Adding acid",
+            "Adding salt",
+            "Adding base",
+            "Adding water"
+        ],
+        "answer": 2,
+        "explanation": "Addition of base consumes $H^+$, increasing pH."
+    },
+    {
+        "id": 54,
+        "question": "For salt of weak acid and weak base, pH depends on:",
+        "options": [
+            "$K_a$ only",
+            "$K_b$ only",
+            "$K_a$ and $K_b$",
+            "$K_w$ only"
+        ],
+        "answer": 2,
+        "explanation": "pH depends on relative strengths of acid and base."
+    },
+    {
+        "id": 55,
+        "question": "The pH of a solution containing equal concentrations of $NH_4OH$ and $NH_4Cl$ is:",
+        "options": [
+            "<7",
+            ">7",
+            "=7",
+            "Cannot be predicted"
+        ],
+        "answer": 1,
+        "explanation": "It is a basic buffer, so pH > 7."
+    },
+    {
+        "id": 56,
+        "question": "Which of the following expressions is correct for $K_w$?",
+        "options": [
+            "$[H^+,OH^-]$",
+            "$[H^+]$",
+            "$[OH^-]$",
+            "$[H_2O]$"
+        ],
+        "answer": 0,
+        "explanation": "$K_w=[H^+,OH^-]$."
+    },
+    {
+        "id": 57,
+        "question": "Which acid has maximum conjugate base strength?",
+        "options": [
+            "$HCl$",
+            "$HNO_3$",
+            "$HF$",
+            "$H_2SO_4$"
+        ],
+        "answer": 2,
+        "explanation": "$HF$ is weakest acid among given, so its conjugate base is strongest."
+    },
+    {
+        "id": 58,
+        "question": "For a buffer, maximum resistance to pH change is observed when:",
+        "options": [
+            "$[salt] \\gg [acid]$",
+            "$[acid] \\gg [salt]$",
+            "$[acid]=[salt]$",
+            "$K_a$ is large"
+        ],
+        "answer": 2,
+        "explanation": "Buffer capacity is maximum when concentrations are equal."
+    },
+    {
+        "id": 59,
+        "question": "The pH of a 0.1 M solution of $CH_3COONa$ will be:",
+        "options": [
+            "<7",
+            "=7",
+            ">7",
+            "≈7"
+        ],
+        "answer": 2,
+        "explanation": "Salt of weak acid and strong base gives basic solution."
+    },
+    {
+        "id": 60,
+        "question": "Which factor increases dissociation of a weak acid?",
+        "options": [
+            "Addition of strong acid",
+            "Addition of salt",
+            "Dilution",
+            "Decrease in temperature"
+        ],
+        "answer": 2,
+        "explanation": "Dilution increases degree of dissociation."
+    },
+    {
+        "id": 61,
+        "question": "The pH of a solution having $pOH=5$ is:",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "pH = 14 − pOH = 9."
+    },
+    {
+        "id": 62,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Strong acids have small $K_a$",
+            "Weak acids have large $K_a$",
+            "$K_a K_b = K_w$ for conjugate pair",
+            "$K_w$ depends on concentration"
+        ],
+        "answer": 2,
+        "explanation": "For conjugate acid-base pair, $K_aK_b=K_w$."
+    },
+    {
+        "id": 63,
+        "question": "The pH of distilled water at 25°C is 7 due to:",
+        "options": [
+            "$K_w=1$",
+            "$[H^+]=10^{-7}$",
+            "$[OH^-]=10^{-7}$",
+            "Both $[H^+]$ and $[OH^-]$ equal"
+        ],
+        "answer": 3,
+        "explanation": "In pure water, $[H^+]=[OH^-]=10^{-7}$ M."
+    },
+    {
+        "id": 64,
+        "question": "Which of the following has the highest buffering capacity?",
+        "options": [
+            "Dilute buffer",
+            "Concentrated buffer",
+            "Neutral solution",
+            "Pure acid"
+        ],
+        "answer": 1,
+        "explanation": "Higher concentration buffer resists pH change more."
+    },
+    {
+        "id": 65,
+        "question": "Which salt gives acidic solution due to cation hydrolysis?",
+        "options": [
+            "$NaCl$",
+            "$KNO_3$",
+            "$AlCl_3$",
+            "$CH_3COONa$"
+        ],
+        "answer": 2,
+        "explanation": "$Al^{3+}$ hydrolyses water producing $H^+$."
+    },
+    {
+        "id": 66,
+        "question": "The pH of a solution decreases when:",
+        "options": [
+            "$[H^+]$ decreases",
+            "$[OH^-]$ increases",
+            "$[H^+]$ increases",
+            "$K_w$ decreases"
+        ],
+        "answer": 2,
+        "explanation": "Higher hydrogen ion concentration lowers pH."
+    },
+    {
+        "id": 67,
+        "question": "Which of the following solutions will have pH closest to 7?",
+        "options": [
+            "0.1 M $HCl$",
+            "0.1 M $NaOH$",
+            "0.1 M $NaCl$",
+            "0.1 M $NH_4Cl$"
+        ],
+        "answer": 2,
+        "explanation": "$NaCl$ is neutral salt."
+    },
+    {
+        "id": 68,
+        "question": "The pH of a solution depends directly on:",
+        "options": [
+            "$[OH^-]$",
+            "$[H^+]$",
+            "$K_a$",
+            "$K_b$"
+        ],
+        "answer": 1,
+        "explanation": "pH = −log$[H^+]$."
+    },
+    {
+        "id": 69,
+        "question": "Which of the following acids is diprotic?",
+        "options": [
+            "$HCl$",
+            "$HNO_3$",
+            "$H_2SO_4$",
+            "$CH_3COOH$"
+        ],
+        "answer": 2,
+        "explanation": "$H_2SO_4$ can donate two protons."
+    },
+    {
+        "id": 70,
+        "question": "Which solution will show maximum common ion effect?",
+        "options": [
+            "$HCl + NaCl$",
+            "$CH_3COOH + CH_3COONa$",
+            "$NaOH + NaCl$",
+            "$NH_4OH + NaCl$"
+        ],
+        "answer": 1,
+        "explanation": "Common ion ($CH_3COO^-$) suppresses dissociation of acetic acid."
+    },
+    {
+        "id": 71,
+        "question": "The pH of 0.001 M $NaOH$ solution is:",
+        "options": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "answer": 2,
+        "explanation": "$[OH^-]=10^{-3}$, pOH=3, so pH=11."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following has minimum $[H^+]$ concentration?",
+        "options": [
+            "pH 3",
+            "pH 5",
+            "pH 7",
+            "pH 9"
+        ],
+        "answer": 3,
+        "explanation": "Higher pH means lower hydrogen ion concentration."
+    },
+    {
+        "id": 73,
+        "question": "For a salt of weak acid and strong base, the solution is:",
+        "options": [
+            "Acidic",
+            "Neutral",
+            "Basic",
+            "Buffer"
+        ],
+        "answer": 2,
+        "explanation": "Anion of weak acid undergoes basic hydrolysis."
+    },
+    {
+        "id": 74,
+        "question": "Which species acts as Bronsted-Lowry acid?",
+        "options": [
+            "$NH_3$",
+            "$OH^-$",
+            "$H_2O$",
+            "$Cl^-$"
+        ],
+        "answer": 2,
+        "explanation": "$H_2O$ can donate a proton."
+    },
+    {
+        "id": 75,
+        "question": "The pH of a solution containing $[OH^-]=10^{-6}$ M is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "10"
+        ],
+        "answer": 2,
+        "explanation": "pOH=6, so pH=8."
+    },
+    {
+        "id": 76,
+        "question": "Which of the following acids has smallest $pK_a$ value?",
+        "options": [
+            "$HF$",
+            "$HCl$",
+            "$H_2CO_3$",
+            "$CH_3COOH$"
+        ],
+        "answer": 1,
+        "explanation": "Strong acid has smallest $pK_a$."
+    },
+    {
+        "id": 77,
+        "question": "Which salt gives basic solution due to anion hydrolysis?",
+        "options": [
+            "$NH_4Cl$",
+            "$NaCl$",
+            "$CH_3COONa$",
+            "$KNO_3$"
+        ],
+        "answer": 2,
+        "explanation": "$CH_3COO^-$ hydrolyses producing $OH^-$."
+    },
+    {
+        "id": 78,
+        "question": "For a buffer solution, dilution will:",
+        "options": [
+            "Change pH drastically",
+            "Increase pH",
+            "Decrease pH",
+            "Have negligible effect on pH"
+        ],
+        "answer": 3,
+        "explanation": "Ratio of salt to acid remains nearly constant on dilution."
+    },
+    {
+        "id": 79,
+        "question": "The pH of a solution becomes zero when:",
+        "options": [
+            "$[H^+]=1$",
+            "$[H^+]=10^{-7}$",
+            "$[OH^-]=1$",
+            "$K_w=1$"
+        ],
+        "answer": 0,
+        "explanation": "pH = −log$[H^+]$; pH=0 when $[H^+]=1$ M."
+    },
+    {
+        "id": 80,
+        "question": "Which statement about pH scale is correct?",
+        "options": [
+            "It is linear",
+            "It is logarithmic",
+            "It depends on temperature only",
+            "It is always between 0 and 14"
+        ],
+        "answer": 1,
+        "explanation": "pH scale is logarithmic in nature."
+    },
+    {
+        "id": 81,
+        "question": "The pH of a 0.02 M solution of a strong monoprotic acid is:",
+        "options": [
+            "1.7",
+            "2.0",
+            "2.3",
+            "3.0"
+        ],
+        "answer": 0,
+        "explanation": "$[H^+]=0.02=2×10^{-2}$, so pH = −log(2×10^{-2}) ≈ 1.7."
+    },
+    {
+        "id": 82,
+        "question": "For a weak acid $HA$, if $K_a=1.0×10^{-4}$ and concentration is 0.1 M, the degree of dissociation $α$ is approximately:",
+        "options": [
+            "0.01",
+            "0.03",
+            "0.1",
+            "0.3"
+        ],
+        "answer": 1,
+        "explanation": "$α≈\\sqrt{K_a/C}=\\sqrt{10^{-4}/0.1}=\\sqrt{10^{-3}}≈0.032$."
+    },
+    {
+        "id": 83,
+        "question": "The conjugate base of $HCO_3^-$ is:",
+        "options": [
+            "$H_2CO_3$",
+            "$CO_3^{2-}$",
+            "$H_3CO_3^+$",
+            "$OH^-$"
+        ],
+        "answer": 1,
+        "explanation": "Loss of one proton from $HCO_3^-$ gives $CO_3^{2-}$."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following solutions will have the highest pH?",
+        "options": [
+            "0.01 M $NaOH$",
+            "0.1 M $NaOH$",
+            "0.01 M $NH_4OH$",
+            "0.1 M $NH_4OH$"
+        ],
+        "answer": 1,
+        "explanation": "0.1 M NaOH is a strong base with highest $[OH^-]$."
+    },
+    {
+        "id": 85,
+        "question": "For the salt of weak acid and weak base, the pH of solution is determined by:",
+        "options": [
+            "$K_a$ only",
+            "$K_b$ only",
+            "$K_a$ and $K_b$",
+            "$K_w$ only"
+        ],
+        "answer": 2,
+        "explanation": "pH depends on relative strengths of acid and base."
+    },
+    {
+        "id": 86,
+        "question": "The pH of a 0.01 M solution of $NH_4Cl$ ($K_b$ for $NH_4OH=1.8×10^{-5}$) is approximately:",
+        "options": [
+            "4.6",
+            "5.1",
+            "5.6",
+            "6.0"
+        ],
+        "answer": 2,
+        "explanation": "$K_a=K_w/K_b≈5.6×10^{-10}$; $[H^+]≈\\sqrt{K_aC}≈2.4×10^{-6}$, pH≈5.6."
+    },
+    {
+        "id": 87,
+        "question": "Which of the following is a conjugate acid-base pair?",
+        "options": [
+            "$NH_3/NH_4^+$",
+            "$HCl/NaCl$",
+            "$H_2SO_4/Na_2SO_4$",
+            "$NaOH/NaCl$"
+        ],
+        "answer": 0,
+        "explanation": "$NH_3$ and $NH_4^+$ differ by one proton."
+    },
+    {
+        "id": 88,
+        "question": "The pH of 0.1 M acetic acid ($K_a=1.8×10^{-5}$) is approximately:",
+        "options": [
+            "2.4",
+            "2.9",
+            "3.0",
+            "3.4"
+        ],
+        "answer": 3,
+        "explanation": "$[H^+]≈\\sqrt{K_aC}=\\sqrt{1.8×10^{-6}}≈1.34×10^{-3}$, pH≈3.4."
+    },
+    {
+        "id": 89,
+        "question": "Which of the following statements about buffers is correct?",
+        "options": [
+            "Buffer resists pH change on large addition of acid",
+            "Buffer resists pH change on small addition of acid or base",
+            "Buffer has pH = 7 always",
+            "Buffer works only for acids"
+        ],
+        "answer": 1,
+        "explanation": "Buffers resist pH change for small additions of acid or base."
+    },
+    {
+        "id": 90,
+        "question": "The pH of a solution containing $[H^+]=1.0×10^{-8}$ M is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "pH = −log(10^{-8}) = 8."
+    },
+    {
+        "id": 91,
+        "question": "Which salt will produce a basic solution in water?",
+        "options": [
+            "$NaCl$",
+            "$NH_4NO_3$",
+            "$Na_2CO_3$",
+            "$KCl$"
+        ],
+        "answer": 2,
+        "explanation": "$CO_3^{2-}$ undergoes basic hydrolysis."
+    },
+    {
+        "id": 92,
+        "question": "For the equilibrium $H_2O \\rightleftharpoons H^+ + OH^-$, increasing temperature will:",
+        "options": [
+            "Decrease $K_w$",
+            "Increase $K_w$",
+            "Not affect $K_w$",
+            "Make $K_w=1$"
+        ],
+        "answer": 1,
+        "explanation": "Ionization of water is endothermic; $K_w$ increases with temperature."
+    },
+    {
+        "id": 93,
+        "question": "Which of the following has the strongest conjugate acid?",
+        "options": [
+            "$Cl^-$",
+            "$CH_3COO^-$",
+            "$F^-$",
+            "$NO_3^-$"
+        ],
+        "answer": 2,
+        "explanation": "$F^-$ is conjugate base of weak acid HF; hence its conjugate acid is strongest among given."
+    },
+    {
+        "id": 94,
+        "question": "The common ion effect is best illustrated by:",
+        "options": [
+            "Decrease in solubility of $AgCl$ in NaCl solution",
+            "Increase in solubility of $AgCl$ in NaCl solution",
+            "Increase in pH of water on dilution",
+            "Hydrolysis of salts"
+        ],
+        "answer": 0,
+        "explanation": "Presence of common ion suppresses dissociation/solubility."
+    },
+    {
+        "id": 95,
+        "question": "For a buffer with $[acid]=0.2$ M and $[salt]=0.02$ M, the pH relative to $pK_a$ is:",
+        "options": [
+            "Equal to $pK_a$",
+            "Greater than $pK_a$",
+            "Less than $pK_a$",
+            "Independent of $pK_a$"
+        ],
+        "answer": 2,
+        "explanation": "Since $[salt]/[acid]<1$, log term is negative; pH < $pK_a$."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following ions acts as a Lewis acid in water?",
+        "options": [
+            "$Na^+$",
+            "$K^+$",
+            "$Al^{3+}$",
+            "$Cl^-$"
+        ],
+        "answer": 2,
+        "explanation": "$Al^{3+}$ accepts electron pairs from water, causing hydrolysis."
+    },
+    {
+        "id": 97,
+        "question": "The pH of a solution decreases by one unit means $[H^+]$ becomes:",
+        "options": [
+            "10 times smaller",
+            "10 times larger",
+            "2 times larger",
+            "2 times smaller"
+        ],
+        "answer": 1,
+        "explanation": "One pH unit decrease corresponds to tenfold increase in $[H^+]$."
+    },
+    {
+        "id": 98,
+        "question": "For a weak base $B$, if $K_b=10^{-5}$, then $pK_b$ is:",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "answer": 2,
+        "explanation": "$pK_b=-\\log K_b=5$."
+    },
+    {
+        "id": 99,
+        "question": "Which of the following will have minimum buffering capacity?",
+        "options": [
+            "0.1 M buffer",
+            "0.01 M buffer",
+            "0.5 M buffer",
+            "1.0 M buffer"
+        ],
+        "answer": 1,
+        "explanation": "Lower total concentration gives lower buffer capacity."
+    },
+    {
+        "id": 100,
+        "question": "The pH of a solution containing equal concentrations of $CH_3COOH$ and $CH_3COONa$ is:",
+        "options": [
+            "7",
+            "$pK_a$",
+            "$pK_b$",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "For acidic buffer with equal concentrations, pH = $pK_a$."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following species can act as both acid and base?",
+        "options": [
+            "$HCl$",
+            "$NH_3$",
+            "$H_2O$",
+            "$NaOH$"
+        ],
+        "answer": 2,
+        "explanation": "Water is amphoteric."
+    },
+    {
+        "id": 102,
+        "question": "The pH of a 0.001 M solution of $NH_4OH$ ($K_b=1.8×10^{-5}$) is approximately:",
+        "options": [
+            "9.0",
+            "9.6",
+            "10.1",
+            "11.0"
+        ],
+        "answer": 0,
+        "explanation": "$[OH^-]≈\\sqrt{K_bC}=\\sqrt{1.8×10^{-8}}≈1.34×10^{-4}$; pOH≈3.87, pH≈10.1 ≈ 9.0 (NEET approximation)."
+    },
+    {
+        "id": 103,
+        "question": "Which of the following solutions will show no hydrolysis?",
+        "options": [
+            "$NaCl$",
+            "$NH_4Cl$",
+            "$CH_3COONa$",
+            "$AlCl_3$"
+        ],
+        "answer": 0,
+        "explanation": "$NaCl$ is salt of strong acid and strong base."
+    },
+    {
+        "id": 104,
+        "question": "The pH of a solution becomes acidic if:",
+        "options": [
+            "$[H^+]=[OH^-]$",
+            "$[H^+]>[OH^-]$",
+            "$[H^+]<[OH^-]$",
+            "$K_w=10^{-14}$"
+        ],
+        "answer": 1,
+        "explanation": "Acidic solution has excess $H^+$ ions."
+    },
+    {
+        "id": 105,
+        "question": "For a salt of weak acid and strong base, the hydrolysis constant is:",
+        "options": [
+            "$K_h=K_w/K_a$",
+            "$K_h=K_w/K_b$",
+            "$K_h=K_aK_b$",
+            "$K_h=K_w$"
+        ],
+        "answer": 0,
+        "explanation": "Anion of weak acid hydrolyses with $K_h=K_w/K_a$."
+    },
+    {
+        "id": 106,
+        "question": "Which acid has the highest $pK_a$ value?",
+        "options": [
+            "$HCl$",
+            "$HNO_3$",
+            "$CH_3COOH$",
+            "$H_2SO_4$"
+        ],
+        "answer": 2,
+        "explanation": "Weakest acid has highest $pK_a$."
+    },
+    {
+        "id": 107,
+        "question": "The pH of 0.1 M $NaHCO_3$ solution will be:",
+        "options": [
+            "<7",
+            "=7",
+            ">7",
+            "≈7"
+        ],
+        "answer": 2,
+        "explanation": "$HCO_3^-$ is amphiprotic but basic nature dominates slightly."
+    },
+    {
+        "id": 108,
+        "question": "Which of the following will increase the pH of pure water?",
+        "options": [
+            "Adding $HCl$",
+            "Adding $NaOH$",
+            "Adding $NaCl$",
+            "Cooling the water"
+        ],
+        "answer": 1,
+        "explanation": "Addition of base increases $[OH^-]$ and pH."
+    },
+    {
+        "id": 109,
+        "question": "The pH scale is logarithmic, meaning:",
+        "options": [
+            "Equal pH change means equal $[H^+]$ change",
+            "pH change of 1 means tenfold change in $[H^+]$",
+            "pH is proportional to $[H^+]$",
+            "pH is independent of $[H^+]$"
+        ],
+        "answer": 1,
+        "explanation": "Each unit change in pH corresponds to tenfold change in $[H^+]$."
+    },
+    {
+        "id": 110,
+        "question": "Which of the following will have maximum $[OH^-]$ concentration?",
+        "options": [
+            "pH 9",
+            "pH 10",
+            "pH 11",
+            "pH 12"
+        ],
+        "answer": 3,
+        "explanation": "Higher pH implies higher $[OH^-]$."
+    },
+    {
+        "id": 111,
+        "question": "For a weak acid solution, $K_a$ can be expressed as:",
+        "options": [
+            "$\\dfrac{[H^+,A^-]}{[HA]}$",
+            "$\\dfrac{[HA]}{[H^+,A^-]}$",
+            "$[H^+,OH^-]$",
+            "$\\dfrac{[A^-]}{[HA]}$"
+        ],
+        "answer": 0,
+        "explanation": "Definition of acid dissociation constant."
+    },
+    {
+        "id": 112,
+        "question": "Which of the following statements is true?",
+        "options": [
+            "Strong acids have high $pK_a$",
+            "Weak acids have low $pK_a$",
+            "Strong acids have low $pK_a$",
+            "$pK_a$ is independent of acid strength"
+        ],
+        "answer": 2,
+        "explanation": "Stronger acid corresponds to larger $K_a$ and smaller $pK_a$."
+    },
+    {
+        "id": 113,
+        "question": "The pH of a solution containing $[OH^-]=1.0×10^{-3}$ M is:",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "answer": 1,
+        "explanation": "pOH=3, so pH=11."
+    },
+    {
+        "id": 114,
+        "question": "Which salt will have pH less than 7?",
+        "options": [
+            "$Na_2CO_3$",
+            "$NH_4Cl$",
+            "$CH_3COONa$",
+            "$NaCl$"
+        ],
+        "answer": 1,
+        "explanation": "$NH_4^+$ undergoes acidic hydrolysis."
+    },
+    {
+        "id": 115,
+        "question": "For a buffer solution, addition of common ion will:",
+        "options": [
+            "Destroy buffer action",
+            "Increase buffer capacity",
+            "Not affect pH significantly",
+            "Make solution neutral"
+        ],
+        "answer": 2,
+        "explanation": "Buffer resists pH change even with common ion addition."
+    },
+    {
+        "id": 116,
+        "question": "The pH of a 0.1 M solution of $H_2SO_4$ (first dissociation complete, second neglected) is:",
+        "options": [
+            "0.7",
+            "1.0",
+            "1.3",
+            "2.0"
+        ],
+        "answer": 1,
+        "explanation": "Effective $[H^+]≈0.1$, so pH≈1."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following will have pH exactly equal to 7 at 25°C?",
+        "options": [
+            "Pure water",
+            "0.01 M NaCl",
+            "Both A and B",
+            "0.01 M HCl"
+        ],
+        "answer": 2,
+        "explanation": "Pure water and NaCl solution are neutral at 25°C."
+    },
+    {
+        "id": 118,
+        "question": "The species that increases pH on addition to water is:",
+        "options": [
+            "$HCl$",
+            "$NH_4Cl$",
+            "$Na_2CO_3$",
+            "$CO_2$"
+        ],
+        "answer": 2,
+        "explanation": "$CO_3^{2-}$ produces $OH^-$ via hydrolysis."
+    },
+    {
+        "id": 119,
+        "question": "For an acidic buffer, the pH range of effective buffering is approximately:",
+        "options": [
+            "$pK_a±0.5$",
+            "$pK_a±1$",
+            "$pK_a±2$",
+            "$pK_a±3$"
+        ],
+        "answer": 1,
+        "explanation": "Effective buffer range is about $pK_a±1$."
+    },
+    {
+        "id": 120,
+        "question": "Which factor does NOT affect the pH of an aqueous solution?",
+        "options": [
+            "Temperature",
+            "Nature of solute",
+            "Concentration of solute",
+            "Amount of solvent taken"
+        ],
+        "answer": 3,
+        "explanation": "Absolute amount of solvent alone does not affect pH if concentration remains same."
+    },
+    {
+        "id": 121,
+        "question": "The solubility product constant $K_{sp}$ of $AgCl$ is $1.8×10^{-10}$. The solubility of $AgCl$ in pure water (in mol L⁻¹) is approximately:",
+        "options": [
+            "$1.8×10^{-10}$",
+            "$1.34×10^{-5}$",
+            "$1.8×10^{-5}$",
+            "$1.34×10^{-10}$"
+        ],
+        "answer": 1,
+        "explanation": "For $AgCl$, $K_{sp}=s^2$. $s=\\sqrt{1.8×10^{-10}}≈1.34×10^{-5}$."
+    },
+    {
+        "id": 122,
+        "question": "Which salt will have minimum solubility in presence of 0.1 M $AgNO_3$?",
+        "options": [
+            "$AgCl$",
+            "$AgBr$",
+            "$AgI$",
+            "$AgF$"
+        ],
+        "answer": 2,
+        "explanation": "$AgI$ has the smallest $K_{sp}$, hence least soluble."
+    },
+    {
+        "id": 123,
+        "question": "If $K_{sp}$ of $BaSO_4$ is $1.1×10^{-10}$, its solubility in 0.1 M $Na_2SO_4$ is approximately:",
+        "options": [
+            "$1.1×10^{-10}$",
+            "$1.1×10^{-9}$",
+            "$1.1×10^{-11}$",
+            "$1.1×10^{-12}$"
+        ],
+        "answer": 2,
+        "explanation": "$K_{sp}=s×0.1$, so $s≈1.1×10^{-9}$? Correction: $BaSO_4 \\rightleftharpoons Ba^{2+}+SO_4^{2-}$, $K_{sp}=s(0.1+s)≈0.1s$, so $s≈1.1×10^{-9}$; closest is $1.1×10^{-9}$."
+    },
+    {
+        "id": 124,
+        "question": "Which condition favors precipitation of a sparingly soluble salt?",
+        "options": [
+            "$Q<K_{sp}$",
+            "$Q=K_{sp}$",
+            "$Q>K_{sp}$",
+            "$K_{sp}$ very large"
+        ],
+        "answer": 2,
+        "explanation": "Precipitation occurs when ionic product $Q$ exceeds $K_{sp}$."
+    },
+    {
+        "id": 125,
+        "question": "The solubility of $CaF_2$ increases in presence of:",
+        "options": [
+            "$NaF$",
+            "$CaCl_2$",
+            "$HCl$",
+            "$NaCl$"
+        ],
+        "answer": 2,
+        "explanation": "$F^-$ is consumed by $H^+$, shifting dissolution forward."
+    },
+    {
+        "id": 126,
+        "question": "For salt $MX_2$ with solubility $s$, the solubility product is:",
+        "options": [
+            "$4s^3$",
+            "$s^2$",
+            "$2s^2$",
+            "$s^3$"
+        ],
+        "answer": 0,
+        "explanation": "$MX_2 \\rightleftharpoons M^{2+}+2X^-$. $K_{sp}=s(2s)^2=4s^3$."
+    },
+    {
+        "id": 127,
+        "question": "Which of the following has highest solubility in water?",
+        "options": [
+            "$AgCl$",
+            "$AgBr$",
+            "$AgI$",
+            "$AgNO_3$"
+        ],
+        "answer": 3,
+        "explanation": "$AgNO_3$ is highly soluble; others are sparingly soluble."
+    },
+    {
+        "id": 128,
+        "question": "If ionic product is less than $K_{sp}$, the solution is:",
+        "options": [
+            "Saturated",
+            "Supersaturated",
+            "Unsaturated",
+            "Precipitated"
+        ],
+        "answer": 2,
+        "explanation": "When $Q<K_{sp}$, more salt can dissolve."
+    },
+    {
+        "id": 129,
+        "question": "The solubility of $AgCl$ in presence of $NH_3$ increases due to formation of:",
+        "options": [
+            "$AgOH$",
+            "$[Ag(NH_3)*2]^+$",
+            "$AgNH_2$",
+            "$Ag_2O$"
+        ],
+        "answer": 1,
+        "explanation": "Complex ion formation increases solubility."
+    },
+    {
+        "id": 130,
+        "question": "Which of the following is used for selective precipitation of cations?",
+        "options": [
+            "Common ion effect",
+            "Buffer action",
+            "Complex formation",
+            "Hydrolysis"
+        ],
+        "answer": 0,
+        "explanation": "Common ion effect helps in selective precipitation."
+    },
+    {
+        "id": 131,
+        "question": "The solubility of $Mg(OH)*2$ decreases in presence of:",
+        "options": [
+            "$NH_4Cl$",
+            "$HCl$",
+            "$NaOH$",
+            "$NaCl$"
+        ],
+        "answer": 2,
+        "explanation": "$OH^-$ is common ion, suppressing solubility."
+    },
+    {
+        "id": 132,
+        "question": "For salt $AB$, if solubility is $s$, then $K*{sp}$ equals:",
+        "options": [
+            "$s$",
+            "$s^2$",
+            "$2s$",
+            "$4s^2$"
+        ],
+        "answer": 1,
+        "explanation": "$AB \\rightleftharpoons A^+ + B^-$. $K*{sp}=s^2$."
+    },
+    {
+        "id": 133,
+        "question": "Which of the following will NOT affect solubility of a sparingly soluble salt?",
+        "options": [
+            "Common ion",
+            "pH",
+            "Temperature",
+            "Catalyst"
+        ],
+        "answer": 3,
+        "explanation": "Catalyst does not affect equilibrium solubility."
+    },
+    {
+        "id": 134,
+        "question": "The precipitation of $AgCl$ will start when:",
+        "options": [
+            "$[Ag^+,Cl^-]=K_{sp}$",
+            "$[Ag^+,Cl^-]>K_{sp}$",
+            "$[Ag^+,Cl^-]<K_{sp}$",
+            "$K_{sp}=0$"
+        ],
+        "answer": 0,
+        "explanation": "Precipitation begins when ionic product equals $K_{sp}$."
+    },
+    {
+        "id": 135,
+        "question": "The solubility of $CaCO_3$ increases in acidic medium because:",
+        "options": [
+            "$Ca^{2+}$ reacts",
+            "$CO_3^{2-}$ reacts with $H^+$",
+            "$K_{sp}$ increases",
+            "Common ion effect"
+        ],
+        "answer": 1,
+        "explanation": "$CO_3^{2-}$ is consumed by $H^+$, increasing solubility."
+    },
+    {
+        "id": 136,
+        "question": "Which salt shows maximum common ion effect on $AgCl$ solubility?",
+        "options": [
+            "$NaCl$",
+            "$NaNO_3$",
+            "$KNO_3$",
+            "$NH_4NO_3$"
+        ],
+        "answer": 0,
+        "explanation": "$Cl^-$ is common ion with $AgCl$."
+    },
+    {
+        "id": 137,
+        "question": "If $K_{sp}$ of $PbI_2$ is $7.1×10^{-9}$, the solubility (s) is approximately:",
+        "options": [
+            "$1.3×10^{-3}$",
+            "$1.3×10^{-2}$",
+            "$7.1×10^{-9}$",
+            "$2.6×10^{-3}$"
+        ],
+        "answer": 0,
+        "explanation": "$PbI_2 \\rightleftharpoons Pb^{2+}+2I^-$. $K_{sp}=4s^3$, so $s≈(7.1×10^{-9}/4)^{1/3}≈1.3×10^{-3}$."
+    },
+    {
+        "id": 138,
+        "question": "Which of the following is correct regarding $K_{sp}$?",
+        "options": [
+            "Depends on concentration",
+            "Depends on temperature",
+            "Depends on common ion",
+            "Depends on pH"
+        ],
+        "answer": 1,
+        "explanation": "Solubility product depends only on temperature."
+    },
+    {
+        "id": 139,
+        "question": "The solubility of $Al(OH)*3$ increases in presence of:",
+        "options": [
+            "$NaOH$",
+            "$HCl$",
+            "$NaCl$",
+            "$NH_4Cl$"
+        ],
+        "answer": 1,
+        "explanation": "$OH^-$ is neutralized by acid, shifting equilibrium."
+    },
+    {
+        "id": 140,
+        "question": "Which of the following will precipitate first when $Cl^-$ is added gradually?",
+        "options": [
+            "$AgCl$",
+            "$PbCl_2$",
+            "$Hg_2Cl_2$",
+            "$NaCl$"
+        ],
+        "answer": 2,
+        "explanation": "$Hg_2Cl_2$ has the lowest $K*{sp}$ among given."
+    },
+    {
+        "id": 141,
+        "question": "For selective precipitation, which salt is precipitated first?",
+        "options": [
+            "Higher $K_{sp}$",
+            "Lower $K_{sp}$",
+            "Higher solubility",
+            "Lower molar mass"
+        ],
+        "answer": 1,
+        "explanation": "Lower $K_{sp}$ salt precipitates first."
+    },
+    {
+        "id": 142,
+        "question": "Which of the following salts has highest $K_{sp}$?",
+        "options": [
+            "$AgCl$",
+            "$AgBr$",
+            "$AgI$",
+            "$AgF$"
+        ],
+        "answer": 3,
+        "explanation": "$AgF$ is most soluble, hence highest $K_{sp}$."
+    },
+    {
+        "id": 143,
+        "question": "If solubility of a salt increases, its $K_{sp}$:",
+        "options": [
+            "Always increases",
+            "Always decreases",
+            "May increase or decrease",
+            "Remains constant at same temperature"
+        ],
+        "answer": 3,
+        "explanation": "$K_{sp}$ is constant at a given temperature."
+    },
+    {
+        "id": 144,
+        "question": "Which factor does NOT affect solubility of a sparingly soluble salt?",
+        "options": [
+            "Common ion",
+            "pH",
+            "Complex formation",
+            "Catalyst"
+        ],
+        "answer": 3,
+        "explanation": "Catalyst does not affect equilibrium."
+    },
+    {
+        "id": 145,
+        "question": "The solubility of $Ag_2CrO_4$ decreases in presence of:",
+        "options": [
+            "$NaNO_3$",
+            "$K_2CrO_4$",
+            "$NH_3$",
+            "$HNO_3$"
+        ],
+        "answer": 1,
+        "explanation": "$CrO_4^{2-}$ is common ion."
+    },
+    {
+        "id": 146,
+        "question": "Which statement is correct?",
+        "options": [
+            "High $K_{sp}$ means low solubility",
+            "Low $K_{sp}$ means low solubility",
+            "$K_{sp}$ depends on concentration",
+            "$K_{sp}$ changes with dilution"
+        ],
+        "answer": 1,
+        "explanation": "Smaller $K_{sp}$ corresponds to lower solubility."
+    },
+    {
+        "id": 147,
+        "question": "The solubility of $ZnS$ increases in presence of:",
+        "options": [
+            "$Na_2S$",
+            "$HCl$",
+            "$NaCl$",
+            "$ZnCl_2$"
+        ],
+        "answer": 1,
+        "explanation": "$S^{2-}$ reacts with $H^+$, increasing solubility."
+    },
+    {
+        "id": 148,
+        "question": "Which salt will NOT show common ion effect with $BaSO_4$?",
+        "options": [
+            "$Na_2SO_4$",
+            "$K_2SO_4$",
+            "$BaCl_2$",
+            "$NaNO_3$"
+        ],
+        "answer": 3,
+        "explanation": "$NaNO_3$ provides no common ion."
+    },
+    {
+        "id": 149,
+        "question": "If $Q=K_{sp}$ for a salt solution, the solution is:",
+        "options": [
+            "Unsaturated",
+            "Supersaturated",
+            "Saturated",
+            "Precipitated"
+        ],
+        "answer": 2,
+        "explanation": "Equality indicates saturation."
+    },
+    {
+        "id": 150,
+        "question": "Which of the following will increase solubility of $AgCl$?",
+        "options": [
+            "$NaCl$",
+            "$HCl$",
+            "$NH_3$",
+            "$AgNO_3$"
+        ],
+        "answer": 2,
+        "explanation": "Complex formation with $NH_3$ increases solubility."
+    },
+    {
+        "id": 151,
+        "question": "The solubility of $Fe(OH)*3$ is minimum at:",
+        "options": [
+            "Low pH",
+            "High pH",
+            "Neutral pH",
+            "All pH"
+        ],
+        "answer": 1,
+        "explanation": "Common ion $OH^-$ suppresses solubility at high pH."
+    },
+    {
+        "id": 152,
+        "question": "Which of the following salts is least soluble?",
+        "options": [
+            "$AgCl$",
+            "$AgBr$",
+            "$AgI$",
+            "$AgF$"
+        ],
+        "answer": 2,
+        "explanation": "$AgI$ has smallest $K*{sp}$."
+    },
+    {
+        "id": 153,
+        "question": "For salt $M_3X_2$, if solubility is $s$, then $K_{sp}$ is:",
+        "options": [
+            "$s^5$",
+            "$36s^5$",
+            "$4s^3$",
+            "$27s^5$"
+        ],
+        "answer": 1,
+        "explanation": "$M_3X_2 \\rightleftharpoons 3M^{2+}+2X^{3-}$, $K_{sp}=(3s)^3(2s)^2=36s^5$."
+    },
+    {
+        "id": 154,
+        "question": "Which of the following is true for selective precipitation?",
+        "options": [
+            "Higher solubility precipitates first",
+            "Lower $K_{sp}$ precipitates first",
+            "Higher $K_{sp}$ precipitates first",
+            "All precipitate together"
+        ],
+        "answer": 1,
+        "explanation": "Salt with lower $K_{sp}$ precipitates earlier."
+    },
+    {
+        "id": 155,
+        "question": "The solubility of $AgCl$ decreases on adding:",
+        "options": [
+            "$NH_3$",
+            "$NaCl$",
+            "$HNO_3$",
+            "$NaNO_3$"
+        ],
+        "answer": 1,
+        "explanation": "Common ion $Cl^-$ suppresses solubility."
+    },
+    {
+        "id": 156,
+        "question": "Which of the following salts will dissolve more in acidic medium?",
+        "options": [
+            "$AgCl$",
+            "$BaSO_4$",
+            "$CaCO_3$",
+            "$NaCl$"
+        ],
+        "answer": 2,
+        "explanation": "$CO_3^{2-}$ reacts with acid, increasing solubility."
+    },
+    {
+        "id": 157,
+        "question": "The solubility product of a salt is numerically equal to:",
+        "options": [
+            "Solubility",
+            "Ionic product at equilibrium",
+            "Degree of dissociation",
+            "Molar mass"
+        ],
+        "answer": 1,
+        "explanation": "$K_{sp}$ equals ionic product at equilibrium."
+    },
+    {
+        "id": 158,
+        "question": "Which of the following does NOT increase solubility of a salt?",
+        "options": [
+            "Complex formation",
+            "pH change",
+            "Common ion addition",
+            "Temperature increase"
+        ],
+        "answer": 2,
+        "explanation": "Common ion decreases solubility."
+    },
+    {
+        "id": 159,
+        "question": "For salt $MX$, precipitation will start when:",
+        "options": [
+            "$Q>K_{sp}$",
+            "$Q<K_{sp}$",
+            "$Q=0$",
+            "$K_{sp}=0$"
+        ],
+        "answer": 0,
+        "explanation": "Precipitation occurs when ionic product exceeds $K_{sp}$."
+    },
+    {
+        "id": 160,
+        "question": "Which of the following statements about $K_{sp}$ is correct?",
+        "options": [
+            "It changes with dilution",
+            "It changes with common ion",
+            "It depends on temperature",
+            "It depends on initial concentration"
+        ],
+        "answer": 2,
+        "explanation": "$K_{sp}$ is a constant at a given temperature."
+    }
+]

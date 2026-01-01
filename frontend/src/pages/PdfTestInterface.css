@@ -1,0 +1,185 @@
+.pdf-test-container {
+    display: flex;
+    height: calc(100vh - 72px); /* Subtract Navbar height */
+    overflow: hidden;
+    margin-top: 72px; /* Navbar offset */
+    background-color: #f1f5f9;
+}
+
+.pdf-panel {
+    flex: 1;
+    border-right: 1px solid #cbd5e1;
+    background: #fff;
+}
+
+.pdf-frame {
+    border: none;
+    display: block;
+}
+
+.omr-panel {
+    width: 400px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: -4px 0 15px rgba(0,0,0,0.05);
+    z-index: 10;
+}
+
+.omr-header {
+    padding: 20px;
+    background: #fff;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.omr-header h2 {
+    margin: 0;
+    font-size: 1.25rem;
+    color: #1e293b;
+}
+
+.score-display {
+    margin-top: 10px;
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+
+.score-display .positive { color: #16a34a; }
+.score-display .negative { color: #dc2626; }
+
+.omr-grid {
+    flex: 1;
+    overflow-y: auto;
+    padding: 20px;
+}
+
+.omr-grid-header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    border-bottom: 2px solid #f1f5f9;
+    font-weight: 600;
+    color: #64748b;
+    padding-left: 40px; /* Offset for Q.No */
+}
+
+.omr-grid-header span {
+    width: 32px;
+    text-align: center;
+}
+
+.omr-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding: 8px;
+    border-radius: 8px;
+    transition: background-color 0.2s;
+}
+
+.omr-row:hover {
+    background-color: #f8fafc;
+}
+
+.q-num {
+    width: 30px;
+    font-weight: 600;
+    color: #475569;
+}
+
+.bubble {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    border: 2px solid #cbd5e1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: #64748b;
+    transition: all 0.2s;
+}
+
+.bubble:hover {
+    border-color: #3b82f6;
+    color: #3b82f6;
+    background-color: #eff6ff;
+}
+
+.bubble.selected {
+    background-color: #3b82f6;
+    border-color: #3b82f6;
+    color: white;
+}
+
+/* Submitted State Styles */
+.bubble.correct-answer {
+    background-color: #22c55e !important; /* Green */
+    border-color: #22c55e !important;
+    color: white !important;
+}
+
+.omr-row.wrong .bubble.selected {
+    background-color: #ef4444; /* Red for wrong selection */
+    border-color: #ef4444;
+}
+
+.omr-footer {
+    padding: 20px;
+    border-top: 1px solid #e2e8f0;
+    background: #fff;
+    display: flex;
+    gap: 10px;
+}
+
+.submit-btn, .retake-btn, .close-btn {
+    flex: 1;
+    padding: 12px;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.submit-btn {
+    background: #3b82f6;
+    color: white;
+    border: none;
+}
+.submit-btn:hover { background: #2563eb; }
+
+.retake-btn {
+    background: #f59e0b;
+    color: white;
+    border: none;
+}
+
+.close-btn {
+    background: #f1f5f9;
+    color: #475569;
+    border: 1px solid #cbd5e1;
+}
+.close-btn:hover { background: #e2e8f0; }
+
+@media (max-width: 768px) {
+    .pdf-test-container {
+        flex-direction: column;
+        height: auto;
+        overflow-y: auto;
+    }
+    
+    .pdf-panel {
+        height: 50vh;
+        border-right: none;
+        border-bottom: 1px solid #cbd5e1;
+    }
+    
+    .omr-panel {
+        width: 100%;
+        height: 50vh;
+    }
+}

@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "The unit of ecological hierarchy that represents a group of individuals of the same species occupying a defined area is called",
+        "options": [
+            "Community",
+            "Population",
+            "Ecosystem",
+            "Biome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines population as a group of individuals of the same species living in a defined area."
+    },
+    {
+        "id": 2,
+        "question": "Population density is expressed as",
+        "options": [
+            "Number of species per unit area",
+            "Biomass per unit area",
+            "Number of individuals per unit area",
+            "Energy flow per unit area"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states population density as number of individuals of a species per unit area."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is NOT a correct measure of population density according to NCERT?",
+        "options": [
+            "Number",
+            "Biomass",
+            "Percent cover",
+            "Natality"
+        ],
+        "answer": 3,
+        "explanation": "Natality is a population attribute, not a measure of population density."
+    },
+    {
+        "id": 4,
+        "question": "If the population size remains unchanged over time, natality and mortality are",
+        "options": [
+            "Both zero",
+            "Unequal",
+            "Equal",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Population remains stable when natality equals mortality."
+    },
+    {
+        "id": 5,
+        "question": "Which population attribute refers to the number of individuals added per unit population per unit time due to births?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate as per NCERT."
+    },
+    {
+        "id": 6,
+        "question": "Population growth influenced by immigration and emigration is represented as",
+        "options": [
+            "Birth rate only",
+            "Death rate only",
+            "Closed population",
+            "Open population"
+        ],
+        "answer": 3,
+        "explanation": "NCERT describes open populations as those affected by immigration and emigration."
+    },
+    {
+        "id": 7,
+        "question": "Which age pyramid shape represents an expanding population?",
+        "options": [
+            "Urn-shaped",
+            "Bell-shaped",
+            "Pyramid-shaped",
+            "Inverted pyramid"
+        ],
+        "answer": 2,
+        "explanation": "Pyramid-shaped age structure indicates expanding population."
+    },
+    {
+        "id": 8,
+        "question": "The age distribution of a population is graphically represented by",
+        "options": [
+            "Survivorship curve",
+            "Age pyramid",
+            "Growth curve",
+            "Life table"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses age pyramids to show age distribution."
+    },
+    {
+        "id": 9,
+        "question": "A population with more older individuals than younger ones shows which age pyramid?",
+        "options": [
+            "Pyramid-shaped",
+            "Bell-shaped",
+            "Urn-shaped",
+            "Rectangular"
+        ],
+        "answer": 2,
+        "explanation": "Urn-shaped pyramid represents declining population."
+    },
+    {
+        "id": 10,
+        "question": "The exponential population growth curve is also called",
+        "options": [
+            "S-shaped curve",
+            "J-shaped curve",
+            "Bell curve",
+            "Sigmoid curve"
+        ],
+        "answer": 1,
+        "explanation": "Exponential growth results in J-shaped curve as per NCERT."
+    },
+    {
+        "id": 11,
+        "question": "The equation dN/dt = rN represents",
+        "options": [
+            "Logistic growth",
+            "Exponential growth",
+            "Linear growth",
+            "Zero growth"
+        ],
+        "answer": 1,
+        "explanation": "NCERT gives dN/dt = rN for exponential population growth."
+    },
+    {
+        "id": 12,
+        "question": "The intrinsic rate of natural increase is represented by",
+        "options": [
+            "K",
+            "N",
+            "r",
+            "t"
+        ],
+        "answer": 2,
+        "explanation": "NCERT denotes intrinsic rate of increase by r."
+    },
+    {
+        "id": 13,
+        "question": "Which factor limits exponential population growth under natural conditions?",
+        "options": [
+            "Unlimited resources",
+            "Environmental resistance",
+            "High natality",
+            "Low mortality"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance limits growth according to NCERT."
+    },
+    {
+        "id": 14,
+        "question": "The carrying capacity of an environment is symbolized by",
+        "options": [
+            "r",
+            "N",
+            "K",
+            "t"
+        ],
+        "answer": 2,
+        "explanation": "NCERT denotes carrying capacity by K."
+    },
+    {
+        "id": 15,
+        "question": "Logistic population growth is represented by which curve?",
+        "options": [
+            "J-shaped",
+            "S-shaped",
+            "Linear",
+            "Parabolic"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth shows sigmoid or S-shaped curve."
+    },
+    {
+        "id": 16,
+        "question": "Which equation represents logistic population growth?",
+        "options": [
+            "dN/dt = rN",
+            "dN/dt = rN(K−N)/K",
+            "dN/dt = N/K",
+            "dN/dt = rK"
+        ],
+        "answer": 1,
+        "explanation": "NCERT provides dN/dt = rN(K−N)/K for logistic growth."
+    },
+    {
+        "id": 17,
+        "question": "At carrying capacity, the population growth rate becomes",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "At K, birth rate equals death rate, so growth rate is zero."
+    },
+    {
+        "id": 18,
+        "question": "Which of the following is a density-dependent factor?",
+        "options": [
+            "Temperature",
+            "Flood",
+            "Competition",
+            "Earthquake"
+        ],
+        "answer": 2,
+        "explanation": "Competition depends on population density."
+    },
+    {
+        "id": 19,
+        "question": "Which factor is density-independent?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Flood",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Flood affects populations irrespective of density."
+    },
+    {
+        "id": 20,
+        "question": "According to NCERT, population regulation is best explained by",
+        "options": [
+            "Exponential growth model",
+            "Logistic growth model",
+            "Linear model",
+            "Random model"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth incorporates carrying capacity and regulation."
+    },
+    {
+        "id": 21,
+        "question": "Which interaction benefits both interacting species?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Mutualism",
+            "Amensalism"
+        ],
+        "answer": 2,
+        "explanation": "Mutualism benefits both species as per NCERT."
+    },
+    {
+        "id": 22,
+        "question": "The interaction where one species benefits and the other is harmed is",
+        "options": [
+            "Commensalism",
+            "Mutualism",
+            "Predation",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Predation benefits predator and harms prey."
+    },
+    {
+        "id": 23,
+        "question": "Which interaction shows one species harmed while the other is unaffected?",
+        "options": [
+            "Parasitism",
+            "Amensalism",
+            "Commensalism",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines amensalism as harm to one, no effect on other."
+    },
+    {
+        "id": 24,
+        "question": "In commensalism, the interaction is denoted as",
+        "options": [
+            "+/+",
+            "+/−",
+            "+/0",
+            "−/0"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism benefits one species without affecting the other."
+    },
+    {
+        "id": 25,
+        "question": "The interaction between cattle egret and grazing cattle is an example of",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Predation",
+            "Parasitism"
+        ],
+        "answer": 1,
+        "explanation": "Egret benefits, cattle unaffected as per NCERT."
+    },
+    {
+        "id": 26,
+        "question": "Which interaction involves an intimate association between two species?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism involves close association."
+    },
+    {
+        "id": 27,
+        "question": "The parasite that lives outside the host body is called",
+        "options": [
+            "Endoparasite",
+            "Ectoparasite",
+            "Hyperparasite",
+            "Saprophyte"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines ectoparasites as external parasites."
+    },
+    {
+        "id": 28,
+        "question": "Tapeworm is an example of",
+        "options": [
+            "Ectoparasite",
+            "Endoparasite",
+            "Predator",
+            "Commensal"
+        ],
+        "answer": 1,
+        "explanation": "Tapeworm lives inside host intestine."
+    },
+    {
+        "id": 29,
+        "question": "Brood parasitism is commonly seen in",
+        "options": [
+            "Crow",
+            "Koel",
+            "Parrot",
+            "Sparrow"
+        ],
+        "answer": 1,
+        "explanation": "NCERT cites koel as brood parasite."
+    },
+    {
+        "id": 30,
+        "question": "Which adaptation helps parasites to avoid host immune response?",
+        "options": [
+            "Bright coloration",
+            "Loss of digestive system",
+            "High fecundity",
+            "Complex life cycle"
+        ],
+        "answer": 3,
+        "explanation": "Complex life cycles help parasites evade host immunity."
+    },
+    {
+        "id": 31,
+        "question": "Competition occurs when",
+        "options": [
+            "Resources are unlimited",
+            "Resources are limited",
+            "Species are unrelated",
+            "Species are mutualistic"
+        ],
+        "answer": 1,
+        "explanation": "Competition arises due to limited resources."
+    },
+    {
+        "id": 32,
+        "question": "According to NCERT, interspecific competition can result in",
+        "options": [
+            "Coexistence only",
+            "Competitive exclusion",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions competitive exclusion principle."
+    },
+    {
+        "id": 33,
+        "question": "The competitive exclusion principle was proposed by",
+        "options": [
+            "Darwin",
+            "Gause",
+            "Elton",
+            "Odum"
+        ],
+        "answer": 1,
+        "explanation": "Gause proposed competitive exclusion principle."
+    },
+    {
+        "id": 34,
+        "question": "Which interaction results in both species being negatively affected?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Competition",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Competition harms both competing species."
+    },
+    {
+        "id": 35,
+        "question": "Predators help in maintaining",
+        "options": [
+            "Prey extinction",
+            "Prey population balance",
+            "Resource depletion",
+            "Ecosystem collapse"
+        ],
+        "answer": 1,
+        "explanation": "Predators regulate prey populations."
+    },
+    {
+        "id": 36,
+        "question": "Which defense mechanism involves chemicals in plants?",
+        "options": [
+            "Camouflage",
+            "Thorns",
+            "Secondary metabolites",
+            "Mimicry"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions secondary metabolites as chemical defenses."
+    },
+    {
+        "id": 37,
+        "question": "The monarch butterfly is unpalatable due to",
+        "options": [
+            "Alkaloids",
+            "Cardiac glycosides",
+            "Tannins",
+            "Nicotine"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states monarch stores cardiac glycosides."
+    },
+    {
+        "id": 38,
+        "question": "Which is an example of mutualism?",
+        "options": [
+            "Lichen",
+            "Tiger and deer",
+            "Barnacle and whale",
+            "Cuscuta and host"
+        ],
+        "answer": 0,
+        "explanation": "Lichen shows mutualistic association."
+    },
+    {
+        "id": 39,
+        "question": "Lichen is an association between",
+        "options": [
+            "Fungus and bacteria",
+            "Alga and fungus",
+            "Alga and virus",
+            "Fungus and moss"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines lichen as alga and fungus association."
+    },
+    {
+        "id": 40,
+        "question": "Mycorrhiza represents mutualism between",
+        "options": [
+            "Alga and fungus",
+            "Fungus and plant roots",
+            "Bacteria and roots",
+            "Plant and insect"
+        ],
+        "answer": 1,
+        "explanation": "Mycorrhiza is association of fungus with plant roots."
+    },
+    {
+        "id": 41,
+        "question": "Which population parameter measures deaths per unit population per unit time?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 1,
+        "explanation": "Mortality refers to death rate."
+    },
+    {
+        "id": 42,
+        "question": "If emigration exceeds immigration, population size will",
+        "options": [
+            "Increase",
+            "Decrease",
+            "Remain constant",
+            "Become exponential"
+        ],
+        "answer": 1,
+        "explanation": "More individuals leaving than entering reduces population."
+    },
+    {
+        "id": 43,
+        "question": "Population growth rate depends on",
+        "options": [
+            "Natality only",
+            "Mortality only",
+            "Natality, mortality, immigration, emigration",
+            "Carrying capacity only"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists all four factors affecting growth."
+    },
+    {
+        "id": 44,
+        "question": "Which curve shows population stabilizing at carrying capacity?",
+        "options": [
+            "J-shaped",
+            "S-shaped",
+            "Bell-shaped",
+            "Linear"
+        ],
+        "answer": 1,
+        "explanation": "S-shaped curve represents logistic growth."
+    },
+    {
+        "id": 45,
+        "question": "Which term describes organisms that occupy the same trophic level?",
+        "options": [
+            "Population",
+            "Community",
+            "Guild",
+            "Biome"
+        ],
+        "answer": 2,
+        "explanation": "Guild refers to species with similar resource use."
+    },
+    {
+        "id": 46,
+        "question": "Predator-prey relationship is an example of",
+        "options": [
+            "Interspecific interaction",
+            "Intraspecific interaction",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 0,
+        "explanation": "Occurs between different species."
+    },
+    {
+        "id": 47,
+        "question": "Camouflage in prey primarily helps to",
+        "options": [
+            "Attract predators",
+            "Avoid predators",
+            "Increase reproduction",
+            "Compete better"
+        ],
+        "answer": 1,
+        "explanation": "Camouflage reduces detection by predators."
+    },
+    {
+        "id": 48,
+        "question": "Which is a correct match?",
+        "options": [
+            "Competition – +/+",
+            "Predation – +/−",
+            "Mutualism – −/−",
+            "Commensalism – −/0"
+        ],
+        "answer": 1,
+        "explanation": "Predation benefits one and harms the other."
+    },
+    {
+        "id": 49,
+        "question": "The growth pattern most commonly observed in nature is",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states logistic growth is common in nature."
+    },
+    {
+        "id": 50,
+        "question": "The term K in population growth denotes",
+        "options": [
+            "Intrinsic rate",
+            "Population size",
+            "Carrying capacity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "K represents carrying capacity."
+    },
+    {
+        "id": 51,
+        "question": "Which interaction shows neither harm nor benefit to both species?",
+        "options": [
+            "Neutralism",
+            "Commensalism",
+            "Amensalism",
+            "Mutualism"
+        ],
+        "answer": 0,
+        "explanation": "Neutralism is 0/0 interaction."
+    },
+    {
+        "id": 52,
+        "question": "Which statement is correct for expanding population?",
+        "options": [
+            "More pre-reproductive individuals",
+            "Equal age groups",
+            "More post-reproductive individuals",
+            "Zero growth"
+        ],
+        "answer": 0,
+        "explanation": "Expanding population has more young individuals."
+    },
+    {
+        "id": 53,
+        "question": "Which age group contributes directly to population increase?",
+        "options": [
+            "Pre-reproductive",
+            "Reproductive",
+            "Post-reproductive",
+            "All equally"
+        ],
+        "answer": 1,
+        "explanation": "Reproductive individuals add to population."
+    },
+    {
+        "id": 54,
+        "question": "In logistic growth, maximum growth rate occurs when population size is",
+        "options": [
+            "Near zero",
+            "Equal to K",
+            "Half of K",
+            "Greater than K"
+        ],
+        "answer": 2,
+        "explanation": "Growth rate is maximum at N = K/2."
+    },
+    {
+        "id": 55,
+        "question": "Which of the following is a correct example of amensalism?",
+        "options": [
+            "Penicillium inhibiting bacteria",
+            "Algae and fungus",
+            "Tick and dog",
+            "Barnacle and whale"
+        ],
+        "answer": 0,
+        "explanation": "Penicillium secretes antibiotic harming bacteria."
+    },
+    {
+        "id": 56,
+        "question": "The interaction between orchid growing on mango tree is",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Amensalism"
+        ],
+        "answer": 2,
+        "explanation": "Orchid benefits, mango unaffected."
+    },
+    {
+        "id": 57,
+        "question": "Which population characteristic refers to proportion of males and females?",
+        "options": [
+            "Density",
+            "Sex ratio",
+            "Age structure",
+            "Growth rate"
+        ],
+        "answer": 1,
+        "explanation": "Sex ratio is proportion of males and females."
+    },
+    {
+        "id": 58,
+        "question": "Which factor does NOT regulate population size?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Immigration"
+        ],
+        "answer": 2,
+        "explanation": "Sex ratio does not directly regulate size."
+    },
+    {
+        "id": 59,
+        "question": "Which interaction is represented as −/−?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Predation",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition harms both species."
+    },
+    {
+        "id": 60,
+        "question": "According to NCERT, predators maintain species diversity by",
+        "options": [
+            "Eliminating prey",
+            "Reducing competition",
+            "Increasing extinction",
+            "Reducing resources"
+        ],
+        "answer": 1,
+        "explanation": "Predators reduce dominance and competition."
+    },
+    {
+        "id": 61,
+        "question": "The carrying capacity depends on",
+        "options": [
+            "Population size only",
+            "Intrinsic rate only",
+            "Resources and environment",
+            "Natality only"
+        ],
+        "answer": 2,
+        "explanation": "K depends on environmental resources."
+    },
+    {
+        "id": 62,
+        "question": "Which is a correct statement?",
+        "options": [
+            "Exponential growth is common in nature",
+            "Logistic growth ignores resources",
+            "Carrying capacity limits growth",
+            "Population never fluctuates"
+        ],
+        "answer": 2,
+        "explanation": "K limits population growth."
+    },
+    {
+        "id": 63,
+        "question": "Which is an example of density-dependent mortality?",
+        "options": [
+            "Drought",
+            "Earthquake",
+            "Disease",
+            "Flood"
+        ],
+        "answer": 2,
+        "explanation": "Disease spreads faster at higher density."
+    },
+    {
+        "id": 64,
+        "question": "Which symbol represents population size?",
+        "options": [
+            "r",
+            "K",
+            "N",
+            "t"
+        ],
+        "answer": 2,
+        "explanation": "NCERT uses N for population size."
+    },
+    {
+        "id": 65,
+        "question": "Which interaction benefits one species and harms another by living inside it?",
+        "options": [
+            "Predation",
+            "Commensalism",
+            "Parasitism",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Parasitism involves harm to host."
+    },
+    {
+        "id": 66,
+        "question": "Which adaptation increases reproductive output in parasites?",
+        "options": [
+            "Large body size",
+            "High fecundity",
+            "Bright color",
+            "Reduced eggs"
+        ],
+        "answer": 1,
+        "explanation": "Parasites produce many offspring."
+    },
+    {
+        "id": 67,
+        "question": "Which interaction helps in pollination?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Plant-pollinator interaction is mutualistic."
+    },
+    {
+        "id": 68,
+        "question": "The logistic growth equation includes which additional term compared to exponential?",
+        "options": [
+            "N",
+            "r",
+            "K−N",
+            "t"
+        ],
+        "answer": 2,
+        "explanation": "Logistic model includes (K−N)/K term."
+    },
+    {
+        "id": 69,
+        "question": "Which factor causes sudden population decline irrespective of density?",
+        "options": [
+            "Competition",
+            "Disease",
+            "Flood",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Flood is density-independent."
+    },
+    {
+        "id": 70,
+        "question": "Which statement is true for declining population?",
+        "options": [
+            "More young individuals",
+            "Equal age groups",
+            "More old individuals",
+            "High natality"
+        ],
+        "answer": 2,
+        "explanation": "Declining population has more older individuals."
+    },
+    {
+        "id": 71,
+        "question": "Which interaction shows +/+ relationship?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 0,
+        "explanation": "Mutualism benefits both species."
+    },
+    {
+        "id": 72,
+        "question": "Which interaction shows +/− relationship?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation benefits one, harms other."
+    },
+    {
+        "id": 73,
+        "question": "Which term refers to movement of individuals into a population?",
+        "options": [
+            "Emigration",
+            "Natality",
+            "Immigration",
+            "Mortality"
+        ],
+        "answer": 2,
+        "explanation": "Immigration is entry into population."
+    },
+    {
+        "id": 74,
+        "question": "Which term refers to movement of individuals out of a population?",
+        "options": [
+            "Immigration",
+            "Natality",
+            "Emigration",
+            "Mortality"
+        ],
+        "answer": 2,
+        "explanation": "Emigration is exit from population."
+    },
+    {
+        "id": 75,
+        "question": "Which is an example of intraspecific competition?",
+        "options": [
+            "Lion and deer",
+            "Two lions hunting",
+            "Two plants of same species competing",
+            "Parasite and host"
+        ],
+        "answer": 2,
+        "explanation": "Intraspecific occurs within same species."
+    },
+    {
+        "id": 76,
+        "question": "Which interaction reduces fitness of both species?",
+        "options": [
+            "Competition",
+            "Mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 0,
+        "explanation": "Competition reduces fitness of both."
+    },
+    {
+        "id": 77,
+        "question": "Which interaction involves transfer of energy from prey to predator?",
+        "options": [
+            "Mutualism",
+            "Parasitism",
+            "Predation",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Predation involves killing and energy transfer."
+    },
+    {
+        "id": 78,
+        "question": "The equation dN/dt = rN(K−N)/K predicts",
+        "options": [
+            "Unlimited growth",
+            "Stable population",
+            "Logistic growth",
+            "Extinction"
+        ],
+        "answer": 2,
+        "explanation": "This is logistic growth equation."
+    },
+    {
+        "id": 79,
+        "question": "Which population measure is used when counting individuals is difficult?",
+        "options": [
+            "Number",
+            "Biomass",
+            "Percent cover",
+            "Natality"
+        ],
+        "answer": 2,
+        "explanation": "Percent cover is used for plants."
+    },
+    {
+        "id": 80,
+        "question": "Which interaction is represented as +/0?",
+        "options": [
+            "Amensalism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism benefits one, other unaffected."
+    },
+    {
+        "id": 81,
+        "question": "Which statement is correct about parasites?",
+        "options": [
+            "They kill host immediately",
+            "They never harm host",
+            "They depend on host",
+            "They are free-living"
+        ],
+        "answer": 2,
+        "explanation": "Parasites depend on host for survival."
+    },
+    {
+        "id": 82,
+        "question": "Which population growth phase shows rapid increase?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 1,
+        "explanation": "Log phase shows rapid growth."
+    },
+    {
+        "id": 83,
+        "question": "Which interaction can evolve into mutualism over time?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Parasitism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions parasitism may evolve to mutualism."
+    },
+    {
+        "id": 84,
+        "question": "Which interaction involves secretion of antibiotics?",
+        "options": [
+            "Predation",
+            "Amensalism",
+            "Mutualism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Antibiotic secretion harms one, other unaffected."
+    },
+    {
+        "id": 85,
+        "question": "Which of the following best defines population?",
+        "options": [
+            "All species in area",
+            "Same species in different areas",
+            "Same species in same area",
+            "Different species in same area"
+        ],
+        "answer": 2,
+        "explanation": "Population is same species in a defined area."
+    },
+    {
+        "id": 86,
+        "question": "Which curve shows population overshoot and crash?",
+        "options": [
+            "Logistic",
+            "Exponential",
+            "Linear",
+            "Stable"
+        ],
+        "answer": 1,
+        "explanation": "Exponential growth may lead to crash."
+    },
+    {
+        "id": 87,
+        "question": "Which interaction is shown by fig wasp and fig tree?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Both depend on each other."
+    },
+    {
+        "id": 88,
+        "question": "Which interaction reduces prey population but maintains balance?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Predation regulates prey."
+    },
+    {
+        "id": 89,
+        "question": "Which factor increases population size?",
+        "options": [
+            "Mortality",
+            "Emigration",
+            "Natality",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Natality adds individuals."
+    },
+    {
+        "id": 90,
+        "question": "Which factor decreases population size?",
+        "options": [
+            "Natality",
+            "Immigration",
+            "Mortality",
+            "Reproduction"
+        ],
+        "answer": 2,
+        "explanation": "Mortality removes individuals."
+    },
+    {
+        "id": 91,
+        "question": "Which is a correct pair?",
+        "options": [
+            "r – carrying capacity",
+            "K – population size",
+            "N – population size",
+            "t – intrinsic rate"
+        ],
+        "answer": 2,
+        "explanation": "N represents population size."
+    },
+    {
+        "id": 92,
+        "question": "Which interaction shows long-term coexistence?",
+        "options": [
+            "Competitive exclusion",
+            "Stable competition",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 3,
+        "explanation": "Mutualism promotes coexistence."
+    },
+    {
+        "id": 93,
+        "question": "Which term describes resistance offered by environment?",
+        "options": [
+            "Biotic potential",
+            "Carrying capacity",
+            "Environmental resistance",
+            "Intrinsic rate"
+        ],
+        "answer": 2,
+        "explanation": "Environmental resistance limits growth."
+    },
+    {
+        "id": 94,
+        "question": "Which is an example of density-dependent factor?",
+        "options": [
+            "Cyclone",
+            "Fire",
+            "Competition",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Competition depends on density."
+    },
+    {
+        "id": 95,
+        "question": "Which is an example of density-independent factor?",
+        "options": [
+            "Disease",
+            "Predation",
+            "Flood",
+            "Parasitism"
+        ],
+        "answer": 2,
+        "explanation": "Flood affects regardless of density."
+    },
+    {
+        "id": 96,
+        "question": "Which population attribute predicts future growth?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Age structure predicts growth trend."
+    },
+    {
+        "id": 97,
+        "question": "Which age group does not reproduce?",
+        "options": [
+            "Pre-reproductive",
+            "Reproductive",
+            "Post-reproductive",
+            "Both pre and post"
+        ],
+        "answer": 3,
+        "explanation": "Both pre- and post-reproductive do not reproduce."
+    },
+    {
+        "id": 98,
+        "question": "Which interaction benefits host and symbiont?",
+        "options": [
+            "Parasitism",
+            "Predation",
+            "Mutualism",
+            "Amensalism"
+        ],
+        "answer": 2,
+        "explanation": "Mutualism benefits both."
+    },
+    {
+        "id": 99,
+        "question": "Which term describes maximum reproductive capacity?",
+        "options": [
+            "Environmental resistance",
+            "Biotic potential",
+            "Carrying capacity",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Biotic potential is maximum reproductive capacity."
+    },
+    {
+        "id": 100,
+        "question": "Which model assumes unlimited resources?",
+        "options": [
+            "Logistic growth",
+            "Exponential growth",
+            "Stable growth",
+            "Declining growth"
+        ],
+        "answer": 1,
+        "explanation": "Exponential growth assumes unlimited resources."
+    },
+    {
+        "id": 101,
+        "question": "The term biotic potential refers to",
+        "options": [
+            "Maximum survival capacity",
+            "Maximum reproductive capacity under ideal conditions",
+            "Environmental resistance",
+            "Carrying capacity of habitat"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines biotic potential as maximum reproductive capacity under ideal conditions."
+    },
+    {
+        "id": 102,
+        "question": "Environmental resistance includes",
+        "options": [
+            "Only biotic factors",
+            "Only abiotic factors",
+            "Both biotic and abiotic factors",
+            "Only climatic factors"
+        ],
+        "answer": 2,
+        "explanation": "Environmental resistance includes both biotic and abiotic factors limiting population growth."
+    },
+    {
+        "id": 103,
+        "question": "Which population growth phase occurs when resources begin to limit growth?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Deceleration phase",
+            "Exponential phase"
+        ],
+        "answer": 2,
+        "explanation": "In logistic growth, deceleration phase occurs due to resource limitation."
+    },
+    {
+        "id": 104,
+        "question": "The S-shaped growth curve is also called",
+        "options": [
+            "J-curve",
+            "Sigmoid curve",
+            "Bell curve",
+            "Rectangular curve"
+        ],
+        "answer": 1,
+        "explanation": "NCERT refers to logistic growth curve as sigmoid or S-shaped curve."
+    },
+    {
+        "id": 105,
+        "question": "Which term denotes proportion of different age groups in a population?",
+        "options": [
+            "Sex ratio",
+            "Age structure",
+            "Population density",
+            "Growth rate"
+        ],
+        "answer": 1,
+        "explanation": "Age structure refers to proportion of different age groups."
+    },
+    {
+        "id": 106,
+        "question": "A stable population shows which type of age pyramid?",
+        "options": [
+            "Pyramid-shaped",
+            "Bell-shaped",
+            "Urn-shaped",
+            "Inverted pyramid"
+        ],
+        "answer": 1,
+        "explanation": "Bell-shaped age pyramid indicates stable population."
+    },
+    {
+        "id": 107,
+        "question": "Which factor directly adds individuals to population other than birth?",
+        "options": [
+            "Mortality",
+            "Emigration",
+            "Immigration",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Immigration adds individuals from outside."
+    },
+    {
+        "id": 108,
+        "question": "Which interaction involves killing of prey?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Predation",
+            "Amensalism"
+        ],
+        "answer": 2,
+        "explanation": "Predation involves killing of prey."
+    },
+    {
+        "id": 109,
+        "question": "The relationship between sea anemone and clown fish is an example of",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Clown fish benefits while sea anemone is unaffected."
+    },
+    {
+        "id": 110,
+        "question": "Which term represents resistance offered by predators, parasites and diseases?",
+        "options": [
+            "Biotic potential",
+            "Environmental resistance",
+            "Carrying capacity",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "These factors are part of environmental resistance."
+    },
+    {
+        "id": 111,
+        "question": "Which is NOT a population attribute?",
+        "options": [
+            "Birth rate",
+            "Death rate",
+            "Sex ratio",
+            "Adaptation"
+        ],
+        "answer": 3,
+        "explanation": "Adaptation is an organismal attribute, not population attribute."
+    },
+    {
+        "id": 112,
+        "question": "The relationship between predator and prey population density is generally",
+        "options": [
+            "Directly proportional",
+            "Inversely proportional",
+            "Independent",
+            "Random"
+        ],
+        "answer": 0,
+        "explanation": "Increase in prey supports increase in predator population."
+    },
+    {
+        "id": 113,
+        "question": "Which adaptation helps prey avoid predation by blending with surroundings?",
+        "options": [
+            "Mimicry",
+            "Camouflage",
+            "Warning coloration",
+            "Chemical defense"
+        ],
+        "answer": 1,
+        "explanation": "Camouflage helps prey blend with surroundings."
+    },
+    {
+        "id": 114,
+        "question": "Bright coloration in poisonous animals indicates",
+        "options": [
+            "Camouflage",
+            "Mimicry",
+            "Aposematism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Warning coloration is called aposematism."
+    },
+    {
+        "id": 115,
+        "question": "Which interaction is represented as −/0?",
+        "options": [
+            "Amensalism",
+            "Commensalism",
+            "Competition",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Amensalism harms one species and leaves the other unaffected."
+    },
+    {
+        "id": 116,
+        "question": "Which organism secretes penicillin?",
+        "options": [
+            "Rhizobium",
+            "Penicillium",
+            "Aspergillus",
+            "Saccharomyces"
+        ],
+        "answer": 1,
+        "explanation": "Penicillium secretes penicillin causing amensalism."
+    },
+    {
+        "id": 117,
+        "question": "Which population growth model considers limited resources?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Logistic model considers limited resources."
+    },
+    {
+        "id": 118,
+        "question": "Which term describes organisms occupying similar niches in different regions?",
+        "options": [
+            "Population",
+            "Community",
+            "Ecological equivalents",
+            "Guild"
+        ],
+        "answer": 2,
+        "explanation": "Ecological equivalents occupy similar niches in different areas."
+    },
+    {
+        "id": 119,
+        "question": "Which factor is least affected by population density?",
+        "options": [
+            "Competition",
+            "Disease",
+            "Predation",
+            "Earthquake"
+        ],
+        "answer": 3,
+        "explanation": "Earthquake is density-independent."
+    },
+    {
+        "id": 120,
+        "question": "The age pyramid of India resembles",
+        "options": [
+            "Urn-shaped",
+            "Bell-shaped",
+            "Pyramid-shaped",
+            "Inverted pyramid"
+        ],
+        "answer": 2,
+        "explanation": "India shows expanding population with pyramid-shaped age structure."
+    },
+    {
+        "id": 121,
+        "question": "Which interaction benefits both partners nutritionally?",
+        "options": [
+            "Commensalism",
+            "Mutualism",
+            "Parasitism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism provides mutual nutritional benefits."
+    },
+    {
+        "id": 122,
+        "question": "Which interaction shows resource sharing leading to reduced fitness?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Mutualism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition reduces fitness of both species."
+    },
+    {
+        "id": 123,
+        "question": "Which growth model assumes no environmental resistance?",
+        "options": [
+            "Logistic",
+            "Exponential",
+            "Stable",
+            "Declining"
+        ],
+        "answer": 1,
+        "explanation": "Exponential growth assumes no environmental resistance."
+    },
+    {
+        "id": 124,
+        "question": "Which organism shows brood parasitism?",
+        "options": [
+            "Crow",
+            "Sparrow",
+            "Koel",
+            "Pigeon"
+        ],
+        "answer": 2,
+        "explanation": "Koel lays eggs in crow's nest."
+    },
+    {
+        "id": 125,
+        "question": "Which interaction is shown by cattle and grazing plants?",
+        "options": [
+            "Predation",
+            "Herbivory",
+            "Parasitism",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Herbivory is a form of predation on plants."
+    },
+    {
+        "id": 126,
+        "question": "Which interaction reduces overpopulation of prey?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation controls prey population."
+    },
+    {
+        "id": 127,
+        "question": "Which factor determines carrying capacity?",
+        "options": [
+            "Natality",
+            "Resources availability",
+            "Sex ratio",
+            "Immigration"
+        ],
+        "answer": 1,
+        "explanation": "Resource availability determines carrying capacity."
+    },
+    {
+        "id": 128,
+        "question": "Which population shows zero growth?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Exponential"
+        ],
+        "answer": 1,
+        "explanation": "Stable population has zero growth."
+    },
+    {
+        "id": 129,
+        "question": "Which is an example of ectoparasite?",
+        "options": [
+            "Tapeworm",
+            "Roundworm",
+            "Leech",
+            "Plasmodium"
+        ],
+        "answer": 2,
+        "explanation": "Leech lives outside host body."
+    },
+    {
+        "id": 130,
+        "question": "Which organism acts as intermediate host for Plasmodium?",
+        "options": [
+            "Human",
+            "Female Anopheles mosquito",
+            "Male Anopheles mosquito",
+            "Housefly"
+        ],
+        "answer": 1,
+        "explanation": "Female Anopheles mosquito is intermediate host."
+    },
+    {
+        "id": 131,
+        "question": "Which interaction can lead to extinction of one species?",
+        "options": [
+            "Competitive exclusion",
+            "Mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 0,
+        "explanation": "Competitive exclusion may eliminate weaker competitor."
+    },
+    {
+        "id": 132,
+        "question": "Which term describes living together for mutual benefit?",
+        "options": [
+            "Symbiosis",
+            "Parasitism",
+            "Competition",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Symbiosis refers to living together for mutual benefit."
+    },
+    {
+        "id": 133,
+        "question": "Which interaction is essential for nitrogen fixation in legumes?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Rhizobium-legume association is mutualistic."
+    },
+    {
+        "id": 134,
+        "question": "Which interaction reduces population growth rate at high density?",
+        "options": [
+            "Immigration",
+            "Competition",
+            "Natality",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Competition increases at high density reducing growth."
+    },
+    {
+        "id": 135,
+        "question": "Which type of growth is seen in bacterial culture initially?",
+        "options": [
+            "Logistic",
+            "Lag",
+            "Exponential",
+            "Decline"
+        ],
+        "answer": 1,
+        "explanation": "Bacterial growth starts with lag phase."
+    },
+    {
+        "id": 136,
+        "question": "Which adaptation increases survival of prey by resembling another organism?",
+        "options": [
+            "Camouflage",
+            "Mimicry",
+            "Aposematism",
+            "Cryptic coloration"
+        ],
+        "answer": 1,
+        "explanation": "Mimicry helps prey resemble harmful species."
+    },
+    {
+        "id": 137,
+        "question": "Which interaction involves long-term physical association?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism involves long-term association."
+    },
+    {
+        "id": 138,
+        "question": "Which interaction benefits one species and neither harms nor benefits the other?",
+        "options": [
+            "Amensalism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism is +/0 interaction."
+    },
+    {
+        "id": 139,
+        "question": "Which population parameter reflects future reproductive potential?",
+        "options": [
+            "Sex ratio",
+            "Age structure",
+            "Density",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Age structure indicates future reproductive potential."
+    },
+    {
+        "id": 140,
+        "question": "Which interaction is shown by barnacles on whales?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Barnacles benefit, whale unaffected."
+    },
+    {
+        "id": 141,
+        "question": "Which is a density-dependent regulating factor?",
+        "options": [
+            "Cyclone",
+            "Fire",
+            "Disease",
+            "Earthquake"
+        ],
+        "answer": 2,
+        "explanation": "Disease spreads faster at higher densities."
+    },
+    {
+        "id": 142,
+        "question": "Which population attribute is expressed per unit time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Natality is expressed per unit time."
+    },
+    {
+        "id": 143,
+        "question": "Which interaction benefits predator nutritionally?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Predation provides nutrition to predator."
+    },
+    {
+        "id": 144,
+        "question": "Which growth phase shows maximum slope?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 1,
+        "explanation": "Log phase shows maximum growth rate."
+    },
+    {
+        "id": 145,
+        "question": "Which type of population growth is rare in nature?",
+        "options": [
+            "Logistic",
+            "Stable",
+            "Exponential",
+            "Fluctuating"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth is rare in nature."
+    },
+    {
+        "id": 146,
+        "question": "Which interaction increases species diversity?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Amensalism",
+            "Neutralism"
+        ],
+        "answer": 0,
+        "explanation": "Predation prevents dominance of single species."
+    },
+    {
+        "id": 147,
+        "question": "Which population shows negative growth rate?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Declining population has negative growth."
+    },
+    {
+        "id": 148,
+        "question": "Which is an example of endoparasite?",
+        "options": [
+            "Lice",
+            "Leech",
+            "Tapeworm",
+            "Tick"
+        ],
+        "answer": 2,
+        "explanation": "Tapeworm lives inside host."
+    },
+    {
+        "id": 149,
+        "question": "Which factor directly removes individuals from population?",
+        "options": [
+            "Natality",
+            "Immigration",
+            "Mortality",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Mortality removes individuals."
+    },
+    {
+        "id": 150,
+        "question": "Which interaction involves sharing of same limited resource?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Mutualism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition occurs for limited resources."
+    },
+    {
+        "id": 151,
+        "question": "Which is a correct representation of mutualism?",
+        "options": [
+            "+/0",
+            "+/+",
+            "-/-",
+            "+/-"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism benefits both species."
+    },
+    {
+        "id": 152,
+        "question": "Which interaction harms one species without benefit to other?",
+        "options": [
+            "Amensalism",
+            "Competition",
+            "Predation",
+            "Parasitism"
+        ],
+        "answer": 0,
+        "explanation": "Amensalism is -/0 interaction."
+    },
+    {
+        "id": 153,
+        "question": "Which factor increases with population density?",
+        "options": [
+            "Environmental resistance",
+            "Biotic potential",
+            "Carrying capacity",
+            "Immigration"
+        ],
+        "answer": 0,
+        "explanation": "Environmental resistance increases with density."
+    },
+    {
+        "id": 154,
+        "question": "Which interaction shows host survival despite harm?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Parasites usually do not kill host immediately."
+    },
+    {
+        "id": 155,
+        "question": "Which growth pattern stabilizes around carrying capacity?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth stabilizes around K."
+    },
+    {
+        "id": 156,
+        "question": "Which factor does NOT affect population density?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Immigration",
+            "Adaptation"
+        ],
+        "answer": 3,
+        "explanation": "Adaptation does not directly change density."
+    },
+    {
+        "id": 157,
+        "question": "Which interaction leads to niche differentiation?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition can lead to niche differentiation."
+    },
+    {
+        "id": 158,
+        "question": "Which interaction shows seasonal association?",
+        "options": [
+            "Predation",
+            "Commensalism",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Some commensal relationships are seasonal."
+    },
+    {
+        "id": 159,
+        "question": "Which population parameter is lowest in declining population?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Immigration",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Declining population has low natality."
+    },
+    {
+        "id": 160,
+        "question": "Which interaction helps plants in mineral nutrition?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Mycorrhiza",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Mycorrhiza improves mineral uptake."
+    },
+    {
+        "id": 161,
+        "question": "Which interaction involves Rhizobium?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Rhizobium-legume association is mutualistic."
+    },
+    {
+        "id": 162,
+        "question": "Which population parameter is most affected by disasters?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Disasters cause sudden increase in mortality."
+    },
+    {
+        "id": 163,
+        "question": "Which growth curve shows leveling off?",
+        "options": [
+            "J-shaped",
+            "S-shaped",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "S-shaped curve levels off at carrying capacity."
+    },
+    {
+        "id": 164,
+        "question": "Which interaction is obligatory?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism is essential for survival."
+    },
+    {
+        "id": 165,
+        "question": "Which interaction shows facultative association?",
+        "options": [
+            "Predation",
+            "Commensalism",
+            "Obligatory mutualism",
+            "Parasitism"
+        ],
+        "answer": 1,
+        "explanation": "Commensalism is often facultative."
+    },
+    {
+        "id": 166,
+        "question": "Which factor determines intrinsic rate of increase?",
+        "options": [
+            "Natality and mortality",
+            "Immigration only",
+            "Resources only",
+            "Sex ratio only"
+        ],
+        "answer": 0,
+        "explanation": "Intrinsic rate depends on natality and mortality."
+    },
+    {
+        "id": 167,
+        "question": "Which interaction reduces dominance of superior competitor?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces competitive dominance."
+    },
+    {
+        "id": 168,
+        "question": "Which population shows maximum proportion of young individuals?",
+        "options": [
+            "Declining",
+            "Stable",
+            "Expanding",
+            "Fluctuating"
+        ],
+        "answer": 2,
+        "explanation": "Expanding population has more young individuals."
+    },
+    {
+        "id": 169,
+        "question": "Which interaction involves benefit to parasite?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Parasitism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Parasite benefits at host expense."
+    },
+    {
+        "id": 170,
+        "question": "Which population parameter is expressed as ratio?",
+        "options": [
+            "Density",
+            "Natality",
+            "Sex ratio",
+            "Mortality"
+        ],
+        "answer": 2,
+        "explanation": "Sex ratio is expressed as ratio of males to females."
+    },
+    {
+        "id": 171,
+        "question": "Which interaction is least common in nature?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Neutralism is rare in nature."
+    },
+    {
+        "id": 172,
+        "question": "Which population growth pattern shows oscillations?",
+        "options": [
+            "Logistic",
+            "Exponential",
+            "Fluctuating",
+            "Stable"
+        ],
+        "answer": 2,
+        "explanation": "Fluctuating populations show oscillations."
+    },
+    {
+        "id": 173,
+        "question": "Which interaction involves chemical inhibition?",
+        "options": [
+            "Predation",
+            "Amensalism",
+            "Mutualism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Amensalism involves chemical inhibition."
+    },
+    {
+        "id": 174,
+        "question": "Which factor increases reproductive success in parasites?",
+        "options": [
+            "Low fecundity",
+            "High fecundity",
+            "Short life span",
+            "Large size"
+        ],
+        "answer": 1,
+        "explanation": "High fecundity increases chances of survival."
+    },
+    {
+        "id": 175,
+        "question": "Which population characteristic shows past growth trends?",
+        "options": [
+            "Age pyramid",
+            "Growth curve",
+            "Density",
+            "Sex ratio"
+        ],
+        "answer": 0,
+        "explanation": "Age pyramid reflects past growth trends."
+    },
+    {
+        "id": 176,
+        "question": "Which interaction is shown by plant and pollinator?",
+        "options": [
+            "Competition",
+            "Mutualism",
+            "Parasitism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Both plant and pollinator benefit."
+    },
+    {
+        "id": 177,
+        "question": "Which factor causes sudden population crash?",
+        "options": [
+            "Competition",
+            "Disease outbreak",
+            "Natality",
+            "Immigration"
+        ],
+        "answer": 1,
+        "explanation": "Disease outbreak can cause sudden crash."
+    },
+    {
+        "id": 178,
+        "question": "Which population parameter is most stable?",
+        "options": [
+            "Density",
+            "Sex ratio",
+            "Natality",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Sex ratio remains relatively stable."
+    },
+    {
+        "id": 179,
+        "question": "Which interaction involves energy transfer through killing?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Mutualism",
+            "Competition"
+        ],
+        "answer": 0,
+        "explanation": "Predation involves killing and energy transfer."
+    },
+    {
+        "id": 180,
+        "question": "Which interaction reduces population density at high numbers?",
+        "options": [
+            "Immigration",
+            "Competition",
+            "Natality",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Competition increases with density."
+    },
+    {
+        "id": 181,
+        "question": "Which interaction shows dependence of one organism on another?",
+        "options": [
+            "Neutralism",
+            "Parasitism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Parasite depends on host."
+    },
+    {
+        "id": 182,
+        "question": "Which population parameter indicates survival?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Age structure",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Age structure indicates survival of age groups."
+    },
+    {
+        "id": 183,
+        "question": "Which interaction benefits fungus and alga?",
+        "options": [
+            "Lichen",
+            "Mycorrhiza",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Lichen is mutualistic association."
+    },
+    {
+        "id": 184,
+        "question": "Which interaction improves phosphorus uptake?",
+        "options": [
+            "Parasitism",
+            "Mycorrhiza",
+            "Competition",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Mycorrhiza enhances phosphorus uptake."
+    },
+    {
+        "id": 185,
+        "question": "Which population growth stage shows maximum competition?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 2,
+        "explanation": "Stationary phase has maximum competition."
+    },
+    {
+        "id": 186,
+        "question": "Which interaction results in niche partitioning?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Amensalism"
+        ],
+        "answer": 0,
+        "explanation": "Competition leads to niche partitioning."
+    },
+    {
+        "id": 187,
+        "question": "Which interaction is shown by epiphytes?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Epiphytes benefit without harming host."
+    },
+    {
+        "id": 188,
+        "question": "Which factor controls population naturally?",
+        "options": [
+            "Biotic interactions",
+            "Unlimited resources",
+            "No predators",
+            "No diseases"
+        ],
+        "answer": 0,
+        "explanation": "Biotic interactions regulate populations."
+    },
+    {
+        "id": 189,
+        "question": "Which population characteristic is measured in percentage?",
+        "options": [
+            "Density",
+            "Sex ratio",
+            "Natality",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Sex ratio can be expressed in percentage."
+    },
+    {
+        "id": 190,
+        "question": "Which interaction involves one species benefiting at expense of another?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Parasitism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Parasitism benefits parasite and harms host."
+    },
+    {
+        "id": 191,
+        "question": "Which interaction is shown by predator controlling prey?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation controls prey population."
+    },
+    {
+        "id": 192,
+        "question": "Which factor determines population fluctuation?",
+        "options": [
+            "Biotic and abiotic factors",
+            "Natality only",
+            "Mortality only",
+            "Sex ratio only"
+        ],
+        "answer": 0,
+        "explanation": "Both biotic and abiotic factors affect fluctuations."
+    },
+    {
+        "id": 193,
+        "question": "Which population growth equation includes carrying capacity?",
+        "options": [
+            "dN/dt = rN",
+            "dN/dt = rN(K−N)/K",
+            "dN/dt = N/t",
+            "dN/dt = K/N"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth equation includes K."
+    },
+    {
+        "id": 194,
+        "question": "Which interaction is beneficial but not essential?",
+        "options": [
+            "Obligatory mutualism",
+            "Facultative mutualism",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Facultative mutualism is beneficial but not essential."
+    },
+    {
+        "id": 195,
+        "question": "Which population parameter is least variable?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 3,
+        "explanation": "Sex ratio remains relatively constant."
+    },
+    {
+        "id": 196,
+        "question": "Which interaction can reduce competition indirectly?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 0,
+        "explanation": "Predation reduces competitor numbers."
+    },
+    {
+        "id": 197,
+        "question": "Which population shows equal pre- and post-reproductive individuals?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Fluctuating"
+        ],
+        "answer": 1,
+        "explanation": "Stable population shows balanced age groups."
+    },
+    {
+        "id": 198,
+        "question": "Which interaction shows permanent association?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism involves permanent association."
+    },
+    {
+        "id": 199,
+        "question": "Which population attribute predicts extinction risk?",
+        "options": [
+            "Age structure",
+            "Sex ratio",
+            "Density",
+            "Growth rate"
+        ],
+        "answer": 0,
+        "explanation": "Age structure predicts extinction risk."
+    },
+    {
+        "id": 200,
+        "question": "Which population growth pattern shows stabilization over time?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth stabilizes at carrying capacity."
+    },
+    {
+        "id": 201,
+        "question": "Which term describes the number of individuals entering a population from outside per unit time?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 2,
+        "explanation": "Immigration refers to individuals entering a population from outside."
+    },
+    {
+        "id": 202,
+        "question": "Which term describes the number of individuals leaving a population per unit time?",
+        "options": [
+            "Immigration",
+            "Natality",
+            "Mortality",
+            "Emigration"
+        ],
+        "answer": 3,
+        "explanation": "Emigration refers to individuals leaving a population."
+    },
+    {
+        "id": 203,
+        "question": "In which type of population are immigration and emigration ignored?",
+        "options": [
+            "Open population",
+            "Closed population",
+            "Stable population",
+            "Expanding population"
+        ],
+        "answer": 1,
+        "explanation": "Closed populations ignore immigration and emigration."
+    },
+    {
+        "id": 204,
+        "question": "Which population growth model shows a constant rate of increase?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Sigmoid"
+        ],
+        "answer": 2,
+        "explanation": "Linear growth shows a constant rate of increase."
+    },
+    {
+        "id": 205,
+        "question": "Which population attribute is expressed as number per unit area?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 0,
+        "explanation": "Population density is expressed as number per unit area."
+    },
+    {
+        "id": 206,
+        "question": "Which interaction involves one organism living on the surface of another for nutrition?",
+        "options": [
+            "Endoparasitism",
+            "Ectoparasitism",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Ectoparasites live on the surface of the host."
+    },
+    {
+        "id": 207,
+        "question": "Which population growth curve shows a lag phase followed by rapid increase and then leveling off?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth shows lag, exponential and stationary phases."
+    },
+    {
+        "id": 208,
+        "question": "Which interaction involves sharing of shelter without affecting the host?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism benefits one without affecting the other."
+    },
+    {
+        "id": 209,
+        "question": "Which interaction benefits both species but is not essential for survival?",
+        "options": [
+            "Obligatory mutualism",
+            "Facultative mutualism",
+            "Parasitism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Facultative mutualism is beneficial but not essential."
+    },
+    {
+        "id": 210,
+        "question": "Which factor increases environmental resistance?",
+        "options": [
+            "High natality",
+            "Limited resources",
+            "Low mortality",
+            "Immigration"
+        ],
+        "answer": 1,
+        "explanation": "Limited resources increase environmental resistance."
+    },
+    {
+        "id": 211,
+        "question": "Which interaction is represented as 0/0?",
+        "options": [
+            "Neutralism",
+            "Commensalism",
+            "Mutualism",
+            "Amensalism"
+        ],
+        "answer": 0,
+        "explanation": "Neutralism affects neither species."
+    },
+    {
+        "id": 212,
+        "question": "Which term describes organisms with similar ecological roles but in different geographical areas?",
+        "options": [
+            "Guild",
+            "Population",
+            "Ecological equivalents",
+            "Community"
+        ],
+        "answer": 2,
+        "explanation": "Ecological equivalents occupy similar niches in different regions."
+    },
+    {
+        "id": 213,
+        "question": "Which type of interaction reduces prey population but does not eliminate it?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 0,
+        "explanation": "Predation controls prey without eliminating it."
+    },
+    {
+        "id": 214,
+        "question": "Which interaction involves transfer of energy without killing the host immediately?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Parasites draw energy without killing the host immediately."
+    },
+    {
+        "id": 215,
+        "question": "Which population shows a bell-shaped age pyramid?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Exponential"
+        ],
+        "answer": 1,
+        "explanation": "Bell-shaped age pyramid represents stable population."
+    },
+    {
+        "id": 216,
+        "question": "Which factor directly determines intrinsic rate of increase?",
+        "options": [
+            "Carrying capacity",
+            "Natality and mortality",
+            "Immigration",
+            "Resources"
+        ],
+        "answer": 1,
+        "explanation": "Intrinsic rate depends on natality and mortality."
+    },
+    {
+        "id": 217,
+        "question": "Which interaction is shown by algae and fungus in lichen?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Lichen is a mutualistic association."
+    },
+    {
+        "id": 218,
+        "question": "Which interaction increases nutrient absorption in plants?",
+        "options": [
+            "Competition",
+            "Parasitism",
+            "Mycorrhiza",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Mycorrhiza increases mineral absorption."
+    },
+    {
+        "id": 219,
+        "question": "Which population growth pattern shows maximum growth at intermediate population size?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth shows maximum rate at intermediate size."
+    },
+    {
+        "id": 220,
+        "question": "Which factor is least influenced by population density?",
+        "options": [
+            "Competition",
+            "Disease",
+            "Predation",
+            "Volcanic eruption"
+        ],
+        "answer": 3,
+        "explanation": "Volcanic eruption is density-independent."
+    },
+    {
+        "id": 221,
+        "question": "Which interaction involves chemical substances inhibiting growth of other species?",
+        "options": [
+            "Competition",
+            "Amensalism",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Amensalism involves chemical inhibition."
+    },
+    {
+        "id": 222,
+        "question": "Which population attribute refers to proportion of reproductive individuals?",
+        "options": [
+            "Sex ratio",
+            "Age structure",
+            "Density",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Age structure includes proportion of reproductive individuals."
+    },
+    {
+        "id": 223,
+        "question": "Which interaction helps maintain community stability?",
+        "options": [
+            "Predation",
+            "Neutralism",
+            "Amensalism",
+            "Competition"
+        ],
+        "answer": 0,
+        "explanation": "Predation prevents dominance of a single species."
+    },
+    {
+        "id": 224,
+        "question": "Which population growth curve shows continuous acceleration?",
+        "options": [
+            "Logistic",
+            "Exponential",
+            "Linear",
+            "Stable"
+        ],
+        "answer": 1,
+        "explanation": "Exponential growth shows continuous acceleration."
+    },
+    {
+        "id": 225,
+        "question": "Which interaction shows long-term benefit to both species?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism benefits both species long-term."
+    },
+    {
+        "id": 226,
+        "question": "Which interaction reduces fitness of both species due to shared resource use?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Competition",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Competition reduces fitness of both species."
+    },
+    {
+        "id": 227,
+        "question": "Which population parameter changes most rapidly?",
+        "options": [
+            "Sex ratio",
+            "Age structure",
+            "Density",
+            "Natality"
+        ],
+        "answer": 3,
+        "explanation": "Natality can change rapidly with conditions."
+    },
+    {
+        "id": 228,
+        "question": "Which interaction is shown by tapeworm and human?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Parasitism",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Tapeworm is an endoparasite of humans."
+    },
+    {
+        "id": 229,
+        "question": "Which interaction shows benefit to one species and harm to another without immediate death?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism harms host without immediate death."
+    },
+    {
+        "id": 230,
+        "question": "Which population parameter is expressed as a ratio of males to females?",
+        "options": [
+            "Density",
+            "Sex ratio",
+            "Natality",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Sex ratio is expressed as male:female ratio."
+    },
+    {
+        "id": 231,
+        "question": "Which factor limits population growth when population size approaches carrying capacity?",
+        "options": [
+            "Natality",
+            "Environmental resistance",
+            "Immigration",
+            "Biotic potential"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance increases near carrying capacity."
+    },
+    {
+        "id": 232,
+        "question": "Which interaction results in niche differentiation over time?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 0,
+        "explanation": "Competition can lead to niche differentiation."
+    },
+    {
+        "id": 233,
+        "question": "Which population growth model predicts stabilization?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth predicts stabilization at carrying capacity."
+    },
+    {
+        "id": 234,
+        "question": "Which interaction involves dependence for reproduction?",
+        "options": [
+            "Commensalism",
+            "Obligatory mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism involves reproductive dependence."
+    },
+    {
+        "id": 235,
+        "question": "Which factor increases mortality irrespective of population density?",
+        "options": [
+            "Disease",
+            "Competition",
+            "Predation",
+            "Cyclone"
+        ],
+        "answer": 3,
+        "explanation": "Cyclone is density-independent."
+    },
+    {
+        "id": 236,
+        "question": "Which population parameter reflects survival pattern?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Natality",
+            "Immigration"
+        ],
+        "answer": 1,
+        "explanation": "Age structure reflects survival pattern."
+    },
+    {
+        "id": 237,
+        "question": "Which interaction is represented as +/−?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Predation",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Predation benefits one and harms the other."
+    },
+    {
+        "id": 238,
+        "question": "Which interaction benefits host nutritionally?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism benefits both nutritionally."
+    },
+    {
+        "id": 239,
+        "question": "Which population shows urn-shaped age pyramid?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Fluctuating"
+        ],
+        "answer": 2,
+        "explanation": "Urn-shaped age pyramid indicates declining population."
+    },
+    {
+        "id": 240,
+        "question": "Which interaction involves one species unaffected?",
+        "options": [
+            "Mutualism",
+            "Parasitism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism leaves one species unaffected."
+    },
+    {
+        "id": 241,
+        "question": "Which population parameter determines future population size?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 0,
+        "explanation": "Age structure determines future population size."
+    },
+    {
+        "id": 242,
+        "question": "Which interaction is rare in nature?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Neutralism is rare."
+    },
+    {
+        "id": 243,
+        "question": "Which population growth pattern shows oscillations around carrying capacity?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth may oscillate around carrying capacity."
+    },
+    {
+        "id": 244,
+        "question": "Which interaction involves chemical defense by plants?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Amensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Chemical defenses cause amensalism."
+    },
+    {
+        "id": 245,
+        "question": "Which population attribute is least affected by short-term changes?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Sex ratio is relatively stable."
+    },
+    {
+        "id": 246,
+        "question": "Which interaction is shown by cattle egret and grazing cattle?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Predation",
+            "Parasitism"
+        ],
+        "answer": 1,
+        "explanation": "Egret benefits, cattle unaffected."
+    },
+    {
+        "id": 247,
+        "question": "Which factor increases population size directly?",
+        "options": [
+            "Mortality",
+            "Emigration",
+            "Natality",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Natality increases population size."
+    },
+    {
+        "id": 248,
+        "question": "Which interaction reduces prey density and increases predator fitness?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Predation benefits predator and reduces prey."
+    },
+    {
+        "id": 249,
+        "question": "Which population shows highest growth potential?",
+        "options": [
+            "Declining",
+            "Stable",
+            "Expanding",
+            "Fluctuating"
+        ],
+        "answer": 2,
+        "explanation": "Expanding population has highest growth potential."
+    },
+    {
+        "id": 250,
+        "question": "Which interaction involves sharing of space without nutrient transfer?",
+        "options": [
+            "Mutualism",
+            "Parasitism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism may involve sharing space."
+    },
+    {
+        "id": 251,
+        "question": "Which population growth model ignores carrying capacity?",
+        "options": [
+            "Logistic",
+            "Exponential",
+            "Stable",
+            "Fluctuating"
+        ],
+        "answer": 1,
+        "explanation": "Exponential growth ignores carrying capacity."
+    },
+    {
+        "id": 252,
+        "question": "Which interaction can indirectly increase species diversity?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation prevents dominance."
+    },
+    {
+        "id": 253,
+        "question": "Which population attribute is expressed per unit population?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Natality is expressed per unit population per unit time."
+    },
+    {
+        "id": 254,
+        "question": "Which interaction benefits both partners obligatorily?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism is essential for both."
+    },
+    {
+        "id": 255,
+        "question": "Which population parameter indicates reproductive status?",
+        "options": [
+            "Sex ratio",
+            "Age structure",
+            "Density",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Age structure shows reproductive groups."
+    },
+    {
+        "id": 256,
+        "question": "Which interaction involves energy flow without killing prey immediately?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Mutualism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism involves gradual energy transfer."
+    },
+    {
+        "id": 257,
+        "question": "Which factor limits exponential growth in nature?",
+        "options": [
+            "Unlimited resources",
+            "Environmental resistance",
+            "High natality",
+            "Low mortality"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance limits exponential growth."
+    },
+    {
+        "id": 258,
+        "question": "Which interaction leads to co-evolution?",
+        "options": [
+            "Competition",
+            "Mutualism",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism often leads to co-evolution."
+    },
+    {
+        "id": 259,
+        "question": "Which population growth stage shows maximum competition?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 2,
+        "explanation": "Competition is highest at stationary phase."
+    },
+    {
+        "id": 260,
+        "question": "Which interaction shows benefit to one species only?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism benefits one species."
+    },
+    {
+        "id": 261,
+        "question": "Which population attribute shows long-term trend?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age pyramid",
+            "Mortality"
+        ],
+        "answer": 2,
+        "explanation": "Age pyramid shows long-term trend."
+    },
+    {
+        "id": 262,
+        "question": "Which interaction involves close physical association?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism involves close association."
+    },
+    {
+        "id": 263,
+        "question": "Which population parameter is most affected by environmental stress?",
+        "options": [
+            "Sex ratio",
+            "Mortality",
+            "Age structure",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Mortality increases under stress."
+    },
+    {
+        "id": 264,
+        "question": "Which interaction improves pollination efficiency?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 0,
+        "explanation": "Pollination is a mutualistic interaction."
+    },
+    {
+        "id": 265,
+        "question": "Which population growth pattern shows rapid increase followed by crash?",
+        "options": [
+            "Logistic",
+            "Linear",
+            "Exponential",
+            "Stable"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth may lead to crash."
+    },
+    {
+        "id": 266,
+        "question": "Which interaction is shown by epiphytes on trees?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Epiphytes benefit without harming host."
+    },
+    {
+        "id": 267,
+        "question": "Which population parameter determines carrying capacity utilization?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "Density indicates utilization of resources."
+    },
+    {
+        "id": 268,
+        "question": "Which interaction is density-dependent?",
+        "options": [
+            "Earthquake",
+            "Flood",
+            "Competition",
+            "Cyclone"
+        ],
+        "answer": 2,
+        "explanation": "Competition depends on population density."
+    },
+    {
+        "id": 269,
+        "question": "Which population attribute is expressed as percentage of individuals?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Natality",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Age structure is expressed as percentage of age groups."
+    },
+    {
+        "id": 270,
+        "question": "Which interaction benefits parasite but harms host?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Mutualism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism benefits parasite at host expense."
+    },
+    {
+        "id": 271,
+        "question": "Which population growth curve shows stabilization?",
+        "options": [
+            "J-shaped",
+            "S-shaped",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "S-shaped curve stabilizes at carrying capacity."
+    },
+    {
+        "id": 272,
+        "question": "Which interaction is represented as −/−?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Predation",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition harms both species."
+    },
+    {
+        "id": 273,
+        "question": "Which population attribute is least variable over short time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 3,
+        "explanation": "Sex ratio is least variable."
+    },
+    {
+        "id": 274,
+        "question": "Which interaction shows obligatory dependence for survival?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism is essential for survival."
+    },
+    {
+        "id": 275,
+        "question": "Which factor causes sudden increase in mortality?",
+        "options": [
+            "Natality",
+            "Immigration",
+            "Disease outbreak",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Disease outbreak causes sudden mortality."
+    },
+    {
+        "id": 276,
+        "question": "Which population parameter reflects growth rate trend?",
+        "options": [
+            "Age pyramid",
+            "Sex ratio",
+            "Density",
+            "Biomass"
+        ],
+        "answer": 0,
+        "explanation": "Age pyramid reflects growth trend."
+    },
+    {
+        "id": 277,
+        "question": "Which interaction involves benefit without resource exchange?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Parasitism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Commensalism may involve shelter without exchange."
+    },
+    {
+        "id": 278,
+        "question": "Which population growth model predicts oscillations?",
+        "options": [
+            "Linear",
+            "Logistic",
+            "Exponential",
+            "Stable"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth may oscillate around K."
+    },
+    {
+        "id": 279,
+        "question": "Which interaction is shown by fig tree and fig wasp?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Fig tree and fig wasp are mutually dependent."
+    },
+    {
+        "id": 280,
+        "question": "Which population parameter measures crowding?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 0,
+        "explanation": "Density measures crowding."
+    },
+    {
+        "id": 281,
+        "question": "Which interaction reduces prey dominance?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces prey dominance."
+    },
+    {
+        "id": 282,
+        "question": "Which population shows maximum reproductive individuals?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Fluctuating"
+        ],
+        "answer": 0,
+        "explanation": "Expanding population has many reproductive individuals."
+    },
+    {
+        "id": 283,
+        "question": "Which interaction involves one species unaffected?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism leaves one species unaffected."
+    },
+    {
+        "id": 284,
+        "question": "Which population attribute is expressed as number per unit time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Natality is number of births per unit time."
+    },
+    {
+        "id": 285,
+        "question": "Which interaction is least density-dependent?",
+        "options": [
+            "Competition",
+            "Disease",
+            "Predation",
+            "Earthquake"
+        ],
+        "answer": 3,
+        "explanation": "Earthquake is density-independent."
+    },
+    {
+        "id": 286,
+        "question": "Which population growth pattern shows slow initial growth?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 0,
+        "explanation": "Lag phase shows slow initial growth."
+    },
+    {
+        "id": 287,
+        "question": "Which interaction involves chemical warning signals?",
+        "options": [
+            "Camouflage",
+            "Mimicry",
+            "Aposematism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Aposematism involves warning signals."
+    },
+    {
+        "id": 288,
+        "question": "Which population parameter predicts future reproductive output?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 0,
+        "explanation": "Age structure predicts future reproduction."
+    },
+    {
+        "id": 289,
+        "question": "Which interaction benefits pollinator and plant?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Pollination is mutualistic."
+    },
+    {
+        "id": 290,
+        "question": "Which population growth model assumes unlimited resources?",
+        "options": [
+            "Logistic",
+            "Linear",
+            "Exponential",
+            "Stable"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth assumes unlimited resources."
+    },
+    {
+        "id": 291,
+        "question": "Which interaction reduces fitness of both competitors?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Predation",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition reduces fitness of both."
+    },
+    {
+        "id": 292,
+        "question": "Which population parameter is most affected by migration?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "Migration directly affects density."
+    },
+    {
+        "id": 293,
+        "question": "Which interaction involves sharing of same niche?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 0,
+        "explanation": "Competition occurs when niches overlap."
+    },
+    {
+        "id": 294,
+        "question": "Which population growth curve shows no carrying capacity?",
+        "options": [
+            "S-shaped",
+            "J-shaped",
+            "Stable",
+            "Fluctuating"
+        ],
+        "answer": 1,
+        "explanation": "J-shaped curve shows no carrying capacity."
+    },
+    {
+        "id": 295,
+        "question": "Which interaction involves nutrient exchange?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 0,
+        "explanation": "Mutualism involves nutrient exchange."
+    },
+    {
+        "id": 296,
+        "question": "Which population attribute reflects population pressure?",
+        "options": [
+            "Sex ratio",
+            "Density",
+            "Age structure",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "Density reflects population pressure."
+    },
+    {
+        "id": 297,
+        "question": "Which interaction involves host tolerance?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Hosts tolerate parasites for some time."
+    },
+    {
+        "id": 298,
+        "question": "Which population growth stage shows equilibrium?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 2,
+        "explanation": "Stationary phase shows equilibrium."
+    },
+    {
+        "id": 299,
+        "question": "Which interaction reduces community dominance?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces dominance."
+    },
+    {
+        "id": 300,
+        "question": "Which population growth pattern best represents natural populations?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Natural populations usually follow logistic growth."
+    },
+    {
+        "id": 301,
+        "question": "Which term describes the maximum number of individuals that can be supported indefinitely by an environment?",
+        "options": [
+            "Biotic potential",
+            "Intrinsic rate of increase",
+            "Carrying capacity",
+            "Population density"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines carrying capacity as the maximum population size that an environment can sustain."
+    },
+    {
+        "id": 302,
+        "question": "The intrinsic rate of natural increase (r) is maximum when",
+        "options": [
+            "Population size equals carrying capacity",
+            "Resources are unlimited",
+            "Environmental resistance is high",
+            "Mortality exceeds natality"
+        ],
+        "answer": 1,
+        "explanation": "Intrinsic rate of increase is highest under ideal conditions with unlimited resources."
+    },
+    {
+        "id": 303,
+        "question": "Which population parameter is most useful for comparing populations of organisms of different sizes?",
+        "options": [
+            "Number",
+            "Biomass",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states biomass is a better measure when individuals differ greatly in size."
+    },
+    {
+        "id": 304,
+        "question": "Which of the following best represents population density in case of grassland plants?",
+        "options": [
+            "Number of individuals",
+            "Biomass",
+            "Percent cover",
+            "Sex ratio"
+        ],
+        "answer": 2,
+        "explanation": "Percent cover is used when counting individuals is impractical, as per NCERT."
+    },
+    {
+        "id": 305,
+        "question": "A population with equal proportions of pre-reproductive, reproductive and post-reproductive individuals is",
+        "options": [
+            "Expanding",
+            "Declining",
+            "Stable",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Such an age structure indicates a stable population."
+    },
+    {
+        "id": 306,
+        "question": "Which interaction involves a predator selectively feeding on sick or weak prey?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Parasitism",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Predators often remove weak individuals, maintaining prey population health."
+    },
+    {
+        "id": 307,
+        "question": "Which term refers to the tendency of a population to increase in size under ideal conditions?",
+        "options": [
+            "Environmental resistance",
+            "Carrying capacity",
+            "Biotic potential",
+            "Mortality"
+        ],
+        "answer": 2,
+        "explanation": "Biotic potential refers to maximum reproductive capacity."
+    },
+    {
+        "id": 308,
+        "question": "In logistic growth, population growth rate decreases mainly due to",
+        "options": [
+            "Increase in natality",
+            "Decrease in mortality",
+            "Resource limitation",
+            "Immigration"
+        ],
+        "answer": 2,
+        "explanation": "Resource limitation increases environmental resistance."
+    },
+    {
+        "id": 309,
+        "question": "Which interaction is represented as +/+ and involves co-evolution?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Amensalism"
+        ],
+        "answer": 2,
+        "explanation": "Mutualistic partners often co-evolve."
+    },
+    {
+        "id": 310,
+        "question": "Which population parameter directly reflects overcrowding?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Density",
+            "Sex ratio"
+        ],
+        "answer": 2,
+        "explanation": "Density reflects the degree of crowding."
+    },
+    {
+        "id": 311,
+        "question": "Which interaction occurs when two species compete for the same limited resource?",
+        "options": [
+            "Neutralism",
+            "Competition",
+            "Mutualism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition occurs when resources are limited."
+    },
+    {
+        "id": 312,
+        "question": "Which of the following is a density-dependent factor regulating population?",
+        "options": [
+            "Drought",
+            "Earthquake",
+            "Predation",
+            "Flood"
+        ],
+        "answer": 2,
+        "explanation": "Predation intensity depends on population density."
+    },
+    {
+        "id": 313,
+        "question": "Which interaction benefits one species and harms another by living inside it for a long duration?",
+        "options": [
+            "Predation",
+            "Commensalism",
+            "Parasitism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Parasitism involves long-term association with host."
+    },
+    {
+        "id": 314,
+        "question": "Which age group does not contribute to reproduction?",
+        "options": [
+            "Pre-reproductive",
+            "Reproductive",
+            "Post-reproductive",
+            "Both pre- and post-reproductive"
+        ],
+        "answer": 3,
+        "explanation": "Only reproductive individuals contribute to reproduction."
+    },
+    {
+        "id": 315,
+        "question": "Which population growth curve initially increases rapidly and then levels off?",
+        "options": [
+            "Linear",
+            "Exponential",
+            "Logistic",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth levels off at carrying capacity."
+    },
+    {
+        "id": 316,
+        "question": "Which interaction is shown by orchids growing on mango trees?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Orchids benefit from support; mango tree is unaffected."
+    },
+    {
+        "id": 317,
+        "question": "Which factor directly reduces population size?",
+        "options": [
+            "Natality",
+            "Immigration",
+            "Mortality",
+            "Biotic potential"
+        ],
+        "answer": 2,
+        "explanation": "Mortality removes individuals from the population."
+    },
+    {
+        "id": 318,
+        "question": "Which population attribute is expressed per unit population per unit time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Natality is measured per unit population per unit time."
+    },
+    {
+        "id": 319,
+        "question": "Which interaction involves benefit to one species without affecting the other?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Commensalism",
+            "Parasitism"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism is a +/0 interaction."
+    },
+    {
+        "id": 320,
+        "question": "Which population shows a pyramid-shaped age structure?",
+        "options": [
+            "Stable",
+            "Declining",
+            "Expanding",
+            "Zero growth"
+        ],
+        "answer": 2,
+        "explanation": "Pyramid-shaped age structure indicates expanding population."
+    },
+    {
+        "id": 321,
+        "question": "Which factor determines the value of carrying capacity?",
+        "options": [
+            "Natality",
+            "Intrinsic rate",
+            "Resource availability",
+            "Sex ratio"
+        ],
+        "answer": 2,
+        "explanation": "Carrying capacity depends on available resources."
+    },
+    {
+        "id": 322,
+        "question": "Which interaction involves chemical substances inhibiting growth of neighboring plants?",
+        "options": [
+            "Competition",
+            "Amensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Chemical inhibition is a form of amensalism."
+    },
+    {
+        "id": 323,
+        "question": "Which population parameter best predicts future population growth?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Age structure predicts future growth trends."
+    },
+    {
+        "id": 324,
+        "question": "Which interaction shows -/- effect on both interacting species?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Competition",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Competition harms both species."
+    },
+    {
+        "id": 325,
+        "question": "Which type of growth assumes unlimited resources?",
+        "options": [
+            "Logistic",
+            "Stable",
+            "Exponential",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth assumes unlimited resources."
+    },
+    {
+        "id": 326,
+        "question": "Which interaction can reduce interspecific competition indirectly?",
+        "options": [
+            "Predation",
+            "Neutralism",
+            "Amensalism",
+            "Commensalism"
+        ],
+        "answer": 0,
+        "explanation": "Predators reduce population of competitors."
+    },
+    {
+        "id": 327,
+        "question": "Which population parameter changes due to migration?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Migration directly affects population density."
+    },
+    {
+        "id": 328,
+        "question": "Which interaction benefits parasite and harms host without immediate death?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Parasites depend on host survival."
+    },
+    {
+        "id": 329,
+        "question": "Which growth phase shows maximum competition among individuals?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "Competition is highest near carrying capacity."
+    },
+    {
+        "id": 330,
+        "question": "Which interaction is shown by barnacles attached to whales?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Barnacles benefit; whales are unaffected."
+    },
+    {
+        "id": 331,
+        "question": "Which factor increases environmental resistance as population size increases?",
+        "options": [
+            "Natality",
+            "Immigration",
+            "Competition",
+            "Biotic potential"
+        ],
+        "answer": 2,
+        "explanation": "Competition increases with population density."
+    },
+    {
+        "id": 332,
+        "question": "Which population parameter is least affected by short-term environmental changes?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 3,
+        "explanation": "Sex ratio is relatively stable."
+    },
+    {
+        "id": 333,
+        "question": "Which interaction involves close and permanent association between two species?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Parasitism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Parasitism involves long-term association."
+    },
+    {
+        "id": 334,
+        "question": "Which population growth curve shows oscillations around carrying capacity?",
+        "options": [
+            "Linear",
+            "Exponential",
+            "Logistic",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth may oscillate around K."
+    },
+    {
+        "id": 335,
+        "question": "Which interaction involves benefit to both species nutritionally?",
+        "options": [
+            "Commensalism",
+            "Mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism provides nutritional benefit to both."
+    },
+    {
+        "id": 336,
+        "question": "Which factor is density-independent?",
+        "options": [
+            "Disease",
+            "Competition",
+            "Predation",
+            "Cyclone"
+        ],
+        "answer": 3,
+        "explanation": "Cyclones affect populations irrespective of density."
+    },
+    {
+        "id": 337,
+        "question": "Which population attribute reflects reproductive potential?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Biomass",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure reflects proportion of reproductive individuals."
+    },
+    {
+        "id": 338,
+        "question": "Which interaction is essential for nitrogen fixation in legumes?",
+        "options": [
+            "Commensalism",
+            "Parasitism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Rhizobium-legume association is mutualistic."
+    },
+    {
+        "id": 339,
+        "question": "Which population shows negative growth rate?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Logistic"
+        ],
+        "answer": 2,
+        "explanation": "Declining populations have negative growth rate."
+    },
+    {
+        "id": 340,
+        "question": "Which interaction results in niche differentiation over time?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Competition can lead to niche differentiation."
+    },
+    {
+        "id": 341,
+        "question": "Which population parameter measures the proportion of males and females?",
+        "options": [
+            "Density",
+            "Sex ratio",
+            "Age structure",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "Sex ratio is the proportion of males to females."
+    },
+    {
+        "id": 342,
+        "question": "Which interaction shows benefit to one species and no effect on the other?",
+        "options": [
+            "Mutualism",
+            "Amensalism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism is a +/0 interaction."
+    },
+    {
+        "id": 343,
+        "question": "Which population growth equation includes carrying capacity?",
+        "options": [
+            "dN/dt = rN",
+            "dN/dt = rN(K−N)/K",
+            "dN/dt = N/t",
+            "dN/dt = K/N"
+        ],
+        "answer": 1,
+        "explanation": "This equation represents logistic growth."
+    },
+    {
+        "id": 344,
+        "question": "Which interaction helps maintain species diversity in a community?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation prevents dominance of a single species."
+    },
+    {
+        "id": 345,
+        "question": "Which population attribute indicates crowding pressure?",
+        "options": [
+            "Natality",
+            "Density",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Density indicates crowding."
+    },
+    {
+        "id": 346,
+        "question": "Which interaction involves sharing of space without nutrient transfer?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Commensalism may involve only space sharing."
+    },
+    {
+        "id": 347,
+        "question": "Which growth phase shows slow initial increase in population size?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 0,
+        "explanation": "Lag phase shows slow growth."
+    },
+    {
+        "id": 348,
+        "question": "Which interaction benefits predator nutritionally?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Predation",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Predation provides nutrition to predator."
+    },
+    {
+        "id": 349,
+        "question": "Which population parameter is directly affected by births?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Immigration",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 350,
+        "question": "Which interaction involves chemical warning signals in prey?",
+        "options": [
+            "Camouflage",
+            "Mimicry",
+            "Aposematism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Aposematism involves warning coloration."
+    },
+    {
+        "id": 351,
+        "question": "Which population shows urn-shaped age pyramid?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Zero growth"
+        ],
+        "answer": 2,
+        "explanation": "Urn-shaped pyramid indicates declining population."
+    },
+    {
+        "id": 352,
+        "question": "Which interaction involves benefit to both species but is not essential?",
+        "options": [
+            "Obligatory mutualism",
+            "Facultative mutualism",
+            "Parasitism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Facultative mutualism is beneficial but not essential."
+    },
+    {
+        "id": 353,
+        "question": "Which factor causes sudden population decline irrespective of density?",
+        "options": [
+            "Competition",
+            "Disease",
+            "Flood",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Floods are density-independent."
+    },
+    {
+        "id": 354,
+        "question": "Which population attribute reflects survival pattern of different age groups?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure reflects survival of age groups."
+    },
+    {
+        "id": 355,
+        "question": "Which interaction is shown by fig tree and fig wasp?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Fig tree and fig wasp are mutually dependent."
+    },
+    {
+        "id": 356,
+        "question": "Which population growth pattern best represents natural populations?",
+        "options": [
+            "Linear",
+            "Exponential",
+            "Logistic",
+            "Stable"
+        ],
+        "answer": 2,
+        "explanation": "Most natural populations show logistic growth."
+    },
+    {
+        "id": 357,
+        "question": "Which interaction results in benefit to fungus and plant roots?",
+        "options": [
+            "Parasitism",
+            "Mycorrhiza",
+            "Competition",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Mycorrhiza is a mutualistic association."
+    },
+    {
+        "id": 358,
+        "question": "Which population parameter changes due to deaths?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Mortality refers to death rate."
+    },
+    {
+        "id": 359,
+        "question": "Which interaction is represented as -/0?",
+        "options": [
+            "Amensalism",
+            "Commensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Amensalism harms one species, other unaffected."
+    },
+    {
+        "id": 360,
+        "question": "Which population attribute is most useful to predict extinction risk?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Biomass",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure helps predict future decline."
+    },
+    {
+        "id": 361,
+        "question": "Which interaction involves killing of prey for food?",
+        "options": [
+            "Parasitism",
+            "Competition",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Predation involves killing prey."
+    },
+    {
+        "id": 362,
+        "question": "Which population growth phase shows equilibrium between natality and mortality?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "Stationary phase shows zero net growth."
+    },
+    {
+        "id": 363,
+        "question": "Which interaction involves epiphytes on trees?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Epiphytes benefit without harming host."
+    },
+    {
+        "id": 364,
+        "question": "Which factor increases with increasing population density?",
+        "options": [
+            "Biotic potential",
+            "Environmental resistance",
+            "Carrying capacity",
+            "Immigration"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance increases with density."
+    },
+    {
+        "id": 365,
+        "question": "Which population parameter reflects population pressure on resources?",
+        "options": [
+            "Sex ratio",
+            "Density",
+            "Age structure",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "Density indicates pressure on resources."
+    },
+    {
+        "id": 366,
+        "question": "Which interaction involves benefit to pollinator and plant?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Pollination is a mutualistic interaction."
+    },
+    {
+        "id": 367,
+        "question": "Which growth pattern shows rapid increase followed by crash?",
+        "options": [
+            "Logistic",
+            "Linear",
+            "Exponential",
+            "Stable"
+        ],
+        "answer": 2,
+        "explanation": "Unchecked exponential growth may lead to crash."
+    },
+    {
+        "id": 368,
+        "question": "Which population parameter is least variable over time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 3,
+        "explanation": "Sex ratio remains relatively stable."
+    },
+    {
+        "id": 369,
+        "question": "Which interaction reduces dominance of a superior competitor?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces dominance."
+    },
+    {
+        "id": 370,
+        "question": "Which population attribute is expressed as number of births per unit time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 371,
+        "question": "Which interaction is rare in nature?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Neutralism is rare."
+    },
+    {
+        "id": 372,
+        "question": "Which population growth curve is S-shaped?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Declining"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth curve is S-shaped."
+    },
+    {
+        "id": 373,
+        "question": "Which interaction involves host tolerance over time?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Hosts often tolerate parasites."
+    },
+    {
+        "id": 374,
+        "question": "Which population parameter is most affected by disasters?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Disasters increase mortality suddenly."
+    },
+    {
+        "id": 375,
+        "question": "Which interaction benefits fungus and alga together?",
+        "options": [
+            "Lichen",
+            "Mycorrhiza",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Lichen is mutualistic association of fungus and alga."
+    },
+    {
+        "id": 376,
+        "question": "Which factor directly increases population size?",
+        "options": [
+            "Mortality",
+            "Emigration",
+            "Natality",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Natality adds individuals."
+    },
+    {
+        "id": 377,
+        "question": "Which interaction shows benefit to one species only?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Commensalism benefits one species."
+    },
+    {
+        "id": 378,
+        "question": "Which population growth stage shows maximum growth rate?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 1,
+        "explanation": "Log phase shows maximum growth rate."
+    },
+    {
+        "id": 379,
+        "question": "Which interaction involves Rhizobium and legume roots?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Rhizobium-legume association is mutualistic."
+    },
+    {
+        "id": 380,
+        "question": "Which population attribute is used to compare populations over time?",
+        "options": [
+            "Sex ratio",
+            "Density",
+            "Age pyramid",
+            "Natality"
+        ],
+        "answer": 2,
+        "explanation": "Age pyramid reflects changes over time."
+    },
+    {
+        "id": 381,
+        "question": "Which interaction involves chemical inhibition without direct contact?",
+        "options": [
+            "Competition",
+            "Amensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Amensalism involves chemical inhibition."
+    },
+    {
+        "id": 382,
+        "question": "Which population growth model best explains regulation by carrying capacity?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Logistic model includes carrying capacity."
+    },
+    {
+        "id": 383,
+        "question": "Which interaction reduces prey population density?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces prey density."
+    },
+    {
+        "id": 384,
+        "question": "Which population parameter is expressed as proportion of age groups?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure shows proportion of age groups."
+    },
+    {
+        "id": 385,
+        "question": "Which interaction benefits parasite nutritionally?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Parasitism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Parasite gains nutrition from host."
+    },
+    {
+        "id": 386,
+        "question": "Which factor limits population growth in nature?",
+        "options": [
+            "Unlimited food",
+            "Environmental resistance",
+            "High natality",
+            "Low mortality"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance limits growth."
+    },
+    {
+        "id": 387,
+        "question": "Which population shows zero population growth?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Exponential"
+        ],
+        "answer": 1,
+        "explanation": "Stable population shows zero growth."
+    },
+    {
+        "id": 388,
+        "question": "Which interaction involves benefit to both species and is essential?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism is essential for survival."
+    },
+    {
+        "id": 389,
+        "question": "Which population attribute is least useful for predicting growth?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Natality"
+        ],
+        "answer": 2,
+        "explanation": "Sex ratio alone is less predictive."
+    },
+    {
+        "id": 390,
+        "question": "Which interaction results in transfer of energy through killing?",
+        "options": [
+            "Parasitism",
+            "Competition",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Predation involves killing and energy transfer."
+    },
+    {
+        "id": 391,
+        "question": "Which population growth pattern ignores environmental limits?",
+        "options": [
+            "Logistic",
+            "Stable",
+            "Exponential",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth ignores limits."
+    },
+    {
+        "id": 392,
+        "question": "Which interaction benefits host and symbiont?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism benefits both partners."
+    },
+    {
+        "id": 393,
+        "question": "Which population attribute reflects past growth history?",
+        "options": [
+            "Density",
+            "Age pyramid",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age pyramid reflects past growth."
+    },
+    {
+        "id": 394,
+        "question": "Which interaction involves use of host for shelter only?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensals may use host for shelter."
+    },
+    {
+        "id": 395,
+        "question": "Which factor reduces intrinsic rate of increase?",
+        "options": [
+            "High natality",
+            "Low mortality",
+            "Environmental resistance",
+            "Immigration"
+        ],
+        "answer": 2,
+        "explanation": "Environmental resistance lowers growth rate."
+    },
+    {
+        "id": 396,
+        "question": "Which population parameter is most sensitive to environmental changes?",
+        "options": [
+            "Sex ratio",
+            "Natality",
+            "Density",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Natality responds quickly to environment."
+    },
+    {
+        "id": 397,
+        "question": "Which interaction involves two species benefiting nutritionally?",
+        "options": [
+            "Commensalism",
+            "Mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism provides nutritional benefits."
+    },
+    {
+        "id": 398,
+        "question": "Which population growth phase shows decline due to high mortality?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 3,
+        "explanation": "Decline phase shows decreasing population."
+    },
+    {
+        "id": 399,
+        "question": "Which interaction reduces interspecific competition by removing weaker individuals?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces competition."
+    },
+    {
+        "id": 400,
+        "question": "Which population growth pattern is most realistic in natural ecosystems?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Natural populations are regulated by carrying capacity."
+    },
+    {
+        "id": 401,
+        "question": "Which term refers to the average number of individuals of a species per unit area or volume?",
+        "options": [
+            "Population size",
+            "Population density",
+            "Biotic potential",
+            "Carrying capacity"
+        ],
+        "answer": 1,
+        "explanation": "Population density is defined as number of individuals per unit area or volume."
+    },
+    {
+        "id": 402,
+        "question": "Which population attribute is expressed as number of individuals added per unit population per unit time?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Immigration",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate expressed per unit population per unit time."
+    },
+    {
+        "id": 403,
+        "question": "Which of the following best represents population density when individuals cannot be easily counted?",
+        "options": [
+            "Number",
+            "Biomass",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states biomass is used when counting individuals is difficult."
+    },
+    {
+        "id": 404,
+        "question": "Which population growth curve shows an initial slow increase due to adjustment of individuals?",
+        "options": [
+            "Log phase",
+            "Lag phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 1,
+        "explanation": "Lag phase represents initial slow growth."
+    },
+    {
+        "id": 405,
+        "question": "Which interaction benefits one species and harms the other by killing it?",
+        "options": [
+            "Parasitism",
+            "Predation",
+            "Competition",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation involves killing of prey."
+    },
+    {
+        "id": 406,
+        "question": "Which type of population has more pre-reproductive individuals?",
+        "options": [
+            "Declining",
+            "Stable",
+            "Expanding",
+            "Zero growth"
+        ],
+        "answer": 2,
+        "explanation": "Expanding populations have a large proportion of young individuals."
+    },
+    {
+        "id": 407,
+        "question": "Which factor is included under environmental resistance?",
+        "options": [
+            "High fecundity",
+            "Unlimited resources",
+            "Predators and diseases",
+            "Low mortality"
+        ],
+        "answer": 2,
+        "explanation": "Predators and diseases contribute to environmental resistance."
+    },
+    {
+        "id": 408,
+        "question": "Which interaction involves two species negatively affecting each other?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Competition is a -/- interaction."
+    },
+    {
+        "id": 409,
+        "question": "Which population parameter reflects proportion of individuals capable of reproduction?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Sex ratio",
+            "Mortality"
+        ],
+        "answer": 1,
+        "explanation": "Age structure includes reproductive age group proportion."
+    },
+    {
+        "id": 410,
+        "question": "Which population growth model includes the concept of carrying capacity?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth model includes carrying capacity."
+    },
+    {
+        "id": 411,
+        "question": "Which interaction shows benefit to one species and no effect on the other?",
+        "options": [
+            "Mutualism",
+            "Parasitism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism is a +/0 interaction."
+    },
+    {
+        "id": 412,
+        "question": "Which age pyramid indicates declining population?",
+        "options": [
+            "Pyramid-shaped",
+            "Bell-shaped",
+            "Urn-shaped",
+            "Rectangular"
+        ],
+        "answer": 2,
+        "explanation": "Urn-shaped age pyramid represents declining population."
+    },
+    {
+        "id": 413,
+        "question": "Which factor directly removes individuals from a population?",
+        "options": [
+            "Natality",
+            "Immigration",
+            "Mortality",
+            "Biotic potential"
+        ],
+        "answer": 2,
+        "explanation": "Mortality refers to death rate."
+    },
+    {
+        "id": 414,
+        "question": "Which interaction involves benefit to both species and is essential for survival?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism is essential for both partners."
+    },
+    {
+        "id": 415,
+        "question": "Which population growth phase shows maximum growth rate?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 1,
+        "explanation": "Log phase shows rapid exponential increase."
+    },
+    {
+        "id": 416,
+        "question": "Which interaction involves a parasite living outside the host body?",
+        "options": [
+            "Endoparasitism",
+            "Ectoparasitism",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Ectoparasites live on the surface of the host."
+    },
+    {
+        "id": 417,
+        "question": "Which factor determines the intrinsic rate of natural increase?",
+        "options": [
+            "Carrying capacity",
+            "Natality and mortality",
+            "Immigration",
+            "Population density"
+        ],
+        "answer": 1,
+        "explanation": "Intrinsic rate depends on natality and mortality."
+    },
+    {
+        "id": 418,
+        "question": "Which interaction involves chemical substances inhibiting growth of another species?",
+        "options": [
+            "Competition",
+            "Amensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Amensalism involves chemical inhibition."
+    },
+    {
+        "id": 419,
+        "question": "Which population parameter is expressed as males:females?",
+        "options": [
+            "Density",
+            "Natality",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 2,
+        "explanation": "Sex ratio is expressed as ratio of males to females."
+    },
+    {
+        "id": 420,
+        "question": "Which population shows zero population growth?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Exponential"
+        ],
+        "answer": 1,
+        "explanation": "Stable population shows zero growth."
+    },
+    {
+        "id": 421,
+        "question": "Which interaction is shown by algae and fungus in lichen?",
+        "options": [
+            "Parasitism",
+            "Competition",
+            "Mutualism",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Lichen is a mutualistic association."
+    },
+    {
+        "id": 422,
+        "question": "Which factor increases with increasing population density?",
+        "options": [
+            "Biotic potential",
+            "Environmental resistance",
+            "Carrying capacity",
+            "Immigration"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance increases with density."
+    },
+    {
+        "id": 423,
+        "question": "Which population attribute best predicts future growth trend?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Age structure predicts future population growth."
+    },
+    {
+        "id": 424,
+        "question": "Which interaction reduces prey population but maintains community stability?",
+        "options": [
+            "Mutualism",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation regulates prey population."
+    },
+    {
+        "id": 425,
+        "question": "Which population growth curve assumes unlimited resources?",
+        "options": [
+            "Logistic",
+            "Stable",
+            "Exponential",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth assumes unlimited resources."
+    },
+    {
+        "id": 426,
+        "question": "Which interaction involves sharing of shelter without nutrient transfer?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Commensalism may involve shelter only."
+    },
+    {
+        "id": 427,
+        "question": "Which population parameter changes due to migration?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Migration directly affects population density."
+    },
+    {
+        "id": 428,
+        "question": "Which interaction involves benefit to parasite without killing host immediately?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Parasites depend on host survival."
+    },
+    {
+        "id": 429,
+        "question": "Which growth phase shows equilibrium between natality and mortality?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "Stationary phase shows zero net growth."
+    },
+    {
+        "id": 430,
+        "question": "Which interaction is represented as +/+?",
+        "options": [
+            "Competition",
+            "Mutualism",
+            "Amensalism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism benefits both species."
+    },
+    {
+        "id": 431,
+        "question": "Which factor is density-independent?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Disease",
+            "Cyclone"
+        ],
+        "answer": 3,
+        "explanation": "Cyclones affect populations irrespective of density."
+    },
+    {
+        "id": 432,
+        "question": "Which population attribute reflects reproductive potential of a population?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Biomass",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure reflects reproductive potential."
+    },
+    {
+        "id": 433,
+        "question": "Which interaction involves Rhizobium and legume roots?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Rhizobium-legume association is mutualistic."
+    },
+    {
+        "id": 434,
+        "question": "Which population shows negative growth rate?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Logistic"
+        ],
+        "answer": 2,
+        "explanation": "Declining population shows negative growth."
+    },
+    {
+        "id": 435,
+        "question": "Which interaction can lead to niche differentiation?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 1,
+        "explanation": "Competition can lead to niche differentiation."
+    },
+    {
+        "id": 436,
+        "question": "Which population parameter indicates crowding?",
+        "options": [
+            "Natality",
+            "Density",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Density reflects crowding."
+    },
+    {
+        "id": 437,
+        "question": "Which interaction involves benefit to one species only?",
+        "options": [
+            "Mutualism",
+            "Competition",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism benefits one species."
+    },
+    {
+        "id": 438,
+        "question": "Which growth model best represents natural populations?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Natural populations usually show logistic growth."
+    },
+    {
+        "id": 439,
+        "question": "Which interaction involves chemical warning coloration in prey?",
+        "options": [
+            "Camouflage",
+            "Mimicry",
+            "Aposematism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Aposematism involves warning coloration."
+    },
+    {
+        "id": 440,
+        "question": "Which population attribute is least affected by short-term environmental changes?",
+        "options": [
+            "Density",
+            "Natality",
+            "Mortality",
+            "Sex ratio"
+        ],
+        "answer": 3,
+        "explanation": "Sex ratio remains relatively stable."
+    },
+    {
+        "id": 441,
+        "question": "Which interaction is shown by barnacles attached to whales?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Barnacles benefit; whale unaffected."
+    },
+    {
+        "id": 442,
+        "question": "Which population parameter is expressed as number of deaths per unit time?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Density",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Mortality refers to death rate."
+    },
+    {
+        "id": 443,
+        "question": "Which interaction reduces dominance of a single species in a community?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation prevents dominance."
+    },
+    {
+        "id": 444,
+        "question": "Which population growth curve is J-shaped?",
+        "options": [
+            "Logistic",
+            "Linear",
+            "Exponential",
+            "Stable"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth shows J-shaped curve."
+    },
+    {
+        "id": 445,
+        "question": "Which interaction is rare in nature?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Neutralism is rare in nature."
+    },
+    {
+        "id": 446,
+        "question": "Which population attribute reflects past growth history?",
+        "options": [
+            "Density",
+            "Age pyramid",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age pyramid reflects past population growth."
+    },
+    {
+        "id": 447,
+        "question": "Which interaction involves epiphytes growing on trees?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Epiphytes benefit without harming host."
+    },
+    {
+        "id": 448,
+        "question": "Which factor reduces intrinsic rate of increase?",
+        "options": [
+            "High natality",
+            "Low mortality",
+            "Environmental resistance",
+            "Immigration"
+        ],
+        "answer": 2,
+        "explanation": "Environmental resistance lowers growth rate."
+    },
+    {
+        "id": 449,
+        "question": "Which population parameter is most sensitive to environmental stress?",
+        "options": [
+            "Sex ratio",
+            "Natality",
+            "Density",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Natality responds quickly to environmental stress."
+    },
+    {
+        "id": 450,
+        "question": "Which interaction involves mutual nutritional benefit?",
+        "options": [
+            "Commensalism",
+            "Mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism provides nutritional benefit to both."
+    },
+    {
+        "id": 451,
+        "question": "Which population growth phase shows decline due to high mortality?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 3,
+        "explanation": "Decline phase shows decreasing population size."
+    },
+    {
+        "id": 452,
+        "question": "Which interaction involves nitrogen fixation in plants?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Nitrogen fixation occurs in mutualistic association with Rhizobium."
+    },
+    {
+        "id": 453,
+        "question": "Which population attribute is least useful in predicting growth trend?",
+        "options": [
+            "Age structure",
+            "Density",
+            "Sex ratio",
+            "Natality"
+        ],
+        "answer": 2,
+        "explanation": "Sex ratio alone poorly predicts growth."
+    },
+    {
+        "id": 454,
+        "question": "Which interaction involves transfer of energy by killing prey?",
+        "options": [
+            "Parasitism",
+            "Competition",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Predation involves killing and energy transfer."
+    },
+    {
+        "id": 455,
+        "question": "Which population growth model ignores environmental limits?",
+        "options": [
+            "Logistic",
+            "Stable",
+            "Exponential",
+            "Declining"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth ignores environmental limits."
+    },
+    {
+        "id": 456,
+        "question": "Which interaction benefits both species and involves co-evolution?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 2,
+        "explanation": "Mutualistic partners often co-evolve."
+    },
+    {
+        "id": 457,
+        "question": "Which population parameter indicates pressure on resources?",
+        "options": [
+            "Sex ratio",
+            "Density",
+            "Age structure",
+            "Natality"
+        ],
+        "answer": 1,
+        "explanation": "Density reflects resource pressure."
+    },
+    {
+        "id": 458,
+        "question": "Which interaction involves use of host for shelter only?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensals may use host for shelter."
+    },
+    {
+        "id": 459,
+        "question": "Which factor causes sudden population decline irrespective of density?",
+        "options": [
+            "Competition",
+            "Disease",
+            "Flood",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Floods are density-independent."
+    },
+    {
+        "id": 460,
+        "question": "Which population growth pattern stabilizes around carrying capacity?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth stabilizes at carrying capacity."
+    },
+    {
+        "id": 461,
+        "question": "Which interaction involves one species unaffected?",
+        "options": [
+            "Mutualism",
+            "Parasitism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensalism leaves one species unaffected."
+    },
+    {
+        "id": 462,
+        "question": "Which population parameter reflects survival of different age groups?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure reflects survival pattern."
+    },
+    {
+        "id": 463,
+        "question": "Which interaction is represented as -/0?",
+        "options": [
+            "Amensalism",
+            "Commensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Amensalism harms one species, other unaffected."
+    },
+    {
+        "id": 464,
+        "question": "Which population growth curve is S-shaped?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Declining"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth curve is S-shaped."
+    },
+    {
+        "id": 465,
+        "question": "Which interaction involves host tolerance over time?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Hosts tolerate parasites for long durations."
+    },
+    {
+        "id": 466,
+        "question": "Which population attribute is most affected by disasters?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Disasters cause sudden increase in mortality."
+    },
+    {
+        "id": 467,
+        "question": "Which interaction involves fungus and plant roots?",
+        "options": [
+            "Lichen",
+            "Mycorrhiza",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Mycorrhiza is association between fungus and roots."
+    },
+    {
+        "id": 468,
+        "question": "Which factor directly increases population size?",
+        "options": [
+            "Mortality",
+            "Emigration",
+            "Natality",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Natality adds individuals to population."
+    },
+    {
+        "id": 469,
+        "question": "Which interaction benefits one species without harming the other?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Commensalism benefits one species."
+    },
+    {
+        "id": 470,
+        "question": "Which population growth stage shows maximum competition?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "Competition is highest near carrying capacity."
+    },
+    {
+        "id": 471,
+        "question": "Which interaction involves nitrogen-fixing bacteria?",
+        "options": [
+            "Parasitism",
+            "Commensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen-fixing bacteria form mutualism with legumes."
+    },
+    {
+        "id": 472,
+        "question": "Which population attribute is useful to compare populations over time?",
+        "options": [
+            "Sex ratio",
+            "Density",
+            "Age pyramid",
+            "Natality"
+        ],
+        "answer": 2,
+        "explanation": "Age pyramid reflects changes over time."
+    },
+    {
+        "id": 473,
+        "question": "Which interaction involves chemical inhibition without direct contact?",
+        "options": [
+            "Competition",
+            "Amensalism",
+            "Mutualism",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Amensalism involves chemical inhibition."
+    },
+    {
+        "id": 474,
+        "question": "Which population growth model best explains population regulation?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Logistic model explains regulation by carrying capacity."
+    },
+    {
+        "id": 475,
+        "question": "Which interaction reduces prey density and increases predator fitness?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Mutualism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Predation benefits predator and reduces prey."
+    },
+    {
+        "id": 476,
+        "question": "Which population parameter is expressed as proportion of age groups?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure shows proportion of age groups."
+    },
+    {
+        "id": 477,
+        "question": "Which interaction benefits parasite nutritionally?",
+        "options": [
+            "Predation",
+            "Mutualism",
+            "Parasitism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Parasite gains nutrition from host."
+    },
+    {
+        "id": 478,
+        "question": "Which factor limits population growth under natural conditions?",
+        "options": [
+            "Unlimited resources",
+            "Environmental resistance",
+            "High natality",
+            "Low mortality"
+        ],
+        "answer": 1,
+        "explanation": "Environmental resistance limits population growth."
+    },
+    {
+        "id": 479,
+        "question": "Which population shows zero growth?",
+        "options": [
+            "Expanding",
+            "Stable",
+            "Declining",
+            "Exponential"
+        ],
+        "answer": 1,
+        "explanation": "Stable population shows zero growth."
+    },
+    {
+        "id": 480,
+        "question": "Which interaction involves obligatory dependence for survival?",
+        "options": [
+            "Facultative mutualism",
+            "Obligatory mutualism",
+            "Commensalism",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Obligatory mutualism is essential for survival."
+    },
+    {
+        "id": 481,
+        "question": "Which population attribute best predicts extinction risk?",
+        "options": [
+            "Density",
+            "Age structure",
+            "Biomass",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age structure predicts future decline or extinction."
+    },
+    {
+        "id": 482,
+        "question": "Which interaction results in energy transfer through killing?",
+        "options": [
+            "Parasitism",
+            "Competition",
+            "Predation",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Predation involves killing and energy transfer."
+    },
+    {
+        "id": 483,
+        "question": "Which population growth pattern ignores carrying capacity?",
+        "options": [
+            "Logistic",
+            "Stable",
+            "Exponential",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Exponential growth ignores carrying capacity."
+    },
+    {
+        "id": 484,
+        "question": "Which interaction benefits host and symbiont?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Competition",
+            "Amensalism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism benefits both partners."
+    },
+    {
+        "id": 485,
+        "question": "Which population attribute reflects past population trend?",
+        "options": [
+            "Density",
+            "Age pyramid",
+            "Natality",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Age pyramid reflects past growth trend."
+    },
+    {
+        "id": 486,
+        "question": "Which interaction involves use of host for support only?",
+        "options": [
+            "Parasitism",
+            "Mutualism",
+            "Commensalism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Commensals may use host for support."
+    },
+    {
+        "id": 487,
+        "question": "Which factor reduces intrinsic growth rate?",
+        "options": [
+            "High natality",
+            "Low mortality",
+            "Environmental resistance",
+            "Immigration"
+        ],
+        "answer": 2,
+        "explanation": "Environmental resistance reduces growth rate."
+    },
+    {
+        "id": 488,
+        "question": "Which population parameter responds fastest to environmental change?",
+        "options": [
+            "Sex ratio",
+            "Natality",
+            "Age structure",
+            "Biomass"
+        ],
+        "answer": 1,
+        "explanation": "Natality changes rapidly with environment."
+    },
+    {
+        "id": 489,
+        "question": "Which interaction involves mutual exchange of nutrients?",
+        "options": [
+            "Commensalism",
+            "Mutualism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Mutualism involves nutrient exchange."
+    },
+    {
+        "id": 490,
+        "question": "Which population growth stage shows population equilibrium?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "Stationary phase shows equilibrium."
+    },
+    {
+        "id": 491,
+        "question": "Which interaction reduces community dominance of superior species?",
+        "options": [
+            "Competition",
+            "Predation",
+            "Neutralism",
+            "Commensalism"
+        ],
+        "answer": 1,
+        "explanation": "Predation reduces dominance."
+    },
+    {
+        "id": 492,
+        "question": "Which population attribute is expressed as number of births per unit time?",
+        "options": [
+            "Density",
+            "Natality",
+            "Age structure",
+            "Sex ratio"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 493,
+        "question": "Which interaction is least common in nature?",
+        "options": [
+            "Predation",
+            "Competition",
+            "Neutralism",
+            "Mutualism"
+        ],
+        "answer": 2,
+        "explanation": "Neutralism is rare in nature."
+    },
+    {
+        "id": 494,
+        "question": "Which population growth curve is sigmoid?",
+        "options": [
+            "Exponential",
+            "Logistic",
+            "Linear",
+            "Declining"
+        ],
+        "answer": 1,
+        "explanation": "Logistic growth curve is sigmoid."
+    },
+    {
+        "id": 495,
+        "question": "Which interaction involves long-term association without killing host?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism involves long-term association."
+    },
+    {
+        "id": 496,
+        "question": "Which population parameter increases due to sudden disasters?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Sex ratio",
+            "Age structure"
+        ],
+        "answer": 1,
+        "explanation": "Disasters cause sudden increase in mortality."
+    },
+    {
+        "id": 497,
+        "question": "Which interaction involves fungus and alga together?",
+        "options": [
+            "Lichen",
+            "Mycorrhiza",
+            "Parasitism",
+            "Predation"
+        ],
+        "answer": 0,
+        "explanation": "Lichen is association of fungus and alga."
+    },
+    {
+        "id": 498,
+        "question": "Which factor adds individuals to population besides birth?",
+        "options": [
+            "Mortality",
+            "Immigration",
+            "Competition",
+            "Environmental resistance"
+        ],
+        "answer": 1,
+        "explanation": "Immigration adds individuals from outside."
+    },
+    {
+        "id": 499,
+        "question": "Which interaction benefits one species and harms the other without immediate death?",
+        "options": [
+            "Predation",
+            "Parasitism",
+            "Competition",
+            "Neutralism"
+        ],
+        "answer": 1,
+        "explanation": "Parasitism harms host without immediate death."
+    },
+    {
+        "id": 500,
+        "question": "Which population growth model best fits real ecosystems?",
+        "options": [
+            "Exponential",
+            "Linear",
+            "Logistic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Logistic growth best represents natural populations."
+    }
+]

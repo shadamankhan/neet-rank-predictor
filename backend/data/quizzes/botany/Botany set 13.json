@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic rank includes one or more related genera?",
+        "options": [
+            "Species",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "A family consists of one or more related genera."
+    },
+    {
+        "id": 2,
+        "question": "Which algal group has flagellated cells with unequal flagella?",
+        "options": [
+            "Chlorophyceae",
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Cyanophyceae"
+        ],
+        "answer": 2,
+        "explanation": "Brown algae have heterokont flagella."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group has sporophyte completely dependent on gametophyte?",
+        "options": [
+            "Algae",
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms"
+        ],
+        "answer": 1,
+        "explanation": "In bryophytes, sporophyte is dependent on gametophyte."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of gram seed is:",
+        "options": [
+            "Endosperm",
+            "Cotyledons",
+            "Pericarp",
+            "Testa"
+        ],
+        "answer": 1,
+        "explanation": "Gram seed stores food in cotyledons."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue forms cork in woody plants?",
+        "options": [
+            "Vascular cambium",
+            "Cork cambium",
+            "Apical meristem",
+            "Intercalary meristem"
+        ],
+        "answer": 1,
+        "explanation": "Cork cambium (phellogen) forms cork."
+    },
+    {
+        "id": 6,
+        "question": "Which component makes plant cell wall hydrophobic?",
+        "options": [
+            "Cellulose",
+            "Pectin",
+            "Lignin",
+            "Suberin"
+        ],
+        "answer": 3,
+        "explanation": "Suberin makes cell wall impermeable to water."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle is the site of protein synthesis?",
+        "options": [
+            "Golgi apparatus",
+            "Ribosome",
+            "Lysosome",
+            "Peroxisome"
+        ],
+        "answer": 1,
+        "explanation": "Ribosomes are sites of protein synthesis."
+    },
+    {
+        "id": 8,
+        "question": "Which biomolecule shows the highest molecular diversity?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Proteins show highest molecular diversity."
+    },
+    {
+        "id": 9,
+        "question": "Which phase of cell cycle is called synthesis phase?",
+        "options": [
+            "G1",
+            "S",
+            "G2",
+            "M"
+        ],
+        "answer": 1,
+        "explanation": "DNA synthesis occurs during S phase."
+    },
+    {
+        "id": 10,
+        "question": "Movement of ions across membrane against concentration gradient requires:",
+        "options": [
+            "Diffusion",
+            "Osmosis",
+            "ATP",
+            "Mass flow"
+        ],
+        "answer": 2,
+        "explanation": "Active transport requires ATP."
+    },
+    {
+        "id": 11,
+        "question": "Which mineral nutrient is part of cytochrome oxidase?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Manganese"
+        ],
+        "answer": 1,
+        "explanation": "Copper is a component of cytochrome oxidase."
+    },
+    {
+        "id": 12,
+        "question": "Which pigment acts as accessory pigment in photosynthesis?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "P700",
+            "P680"
+        ],
+        "answer": 1,
+        "explanation": "Chlorophyll b is an accessory pigment."
+    },
+    {
+        "id": 13,
+        "question": "Which compound is regenerated during Calvin cycle?",
+        "options": [
+            "PEP",
+            "RuBP",
+            "OAA",
+            "Malate"
+        ],
+        "answer": 1,
+        "explanation": "RuBP is regenerated in Calvin cycle."
+    },
+    {
+        "id": 14,
+        "question": "Which respiratory step occurs on inner mitochondrial membrane?",
+        "options": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transport chain",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Electron transport chain occurs on inner mitochondrial membrane."
+    },
+    {
+        "id": 15,
+        "question": "Which plant hormone is known as growth inhibitor?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "Abscisic acid inhibits plant growth."
+    },
+    {
+        "id": 16,
+        "question": "Which cell of embryo sac guides pollen tube?",
+        "options": [
+            "Egg cell",
+            "Synergids",
+            "Antipodals",
+            "Central cell"
+        ],
+        "answer": 1,
+        "explanation": "Synergids guide pollen tube via filiform apparatus."
+    },
+    {
+        "id": 17,
+        "question": "Which breeding method maintains genetic purity?",
+        "options": [
+            "Mass selection",
+            "Pureline selection",
+            "Hybridisation",
+            "Backcrossing"
+        ],
+        "answer": 1,
+        "explanation": "Pureline selection maintains genetic purity."
+    },
+    {
+        "id": 18,
+        "question": "Which microorganism is used for production of biocontrol agent Trichoderma?",
+        "options": [
+            "Aspergillus",
+            "Penicillium",
+            "Trichoderma",
+            "Rhizobium"
+        ],
+        "answer": 2,
+        "explanation": "Trichoderma species act as biocontrol agents."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme is used to synthesise cDNA?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesises cDNA."
+    },
+    {
+        "id": 20,
+        "question": "Which population parameter represents deaths per unit time?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Density",
+            "Dispersion"
+        ],
+        "answer": 1,
+        "explanation": "Mortality refers to death rate."
+    },
+    {
+        "id": 21,
+        "question": "Which trophic level has maximum energy content?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Top carnivores"
+        ],
+        "answer": 0,
+        "explanation": "Producers capture maximum energy."
+    },
+    {
+        "id": 22,
+        "question": "Which biodiversity pattern shows decrease in species from equator to poles?",
+        "options": [
+            "Species-area relationship",
+            "Latitudinal gradient",
+            "Island biogeography",
+            "Succession"
+        ],
+        "answer": 1,
+        "explanation": "Latitudinal gradient shows higher species richness near equator."
+    },
+    {
+        "id": 23,
+        "question": "Which pollutant causes Minamata disease?",
+        "options": [
+            "Cadmium",
+            "Mercury",
+            "Lead",
+            "Arsenic"
+        ],
+        "answer": 1,
+        "explanation": "Mercury causes Minamata disease."
+    },
+    {
+        "id": 24,
+        "question": "Which taxonomic aid lists scientific names of plants alphabetically?",
+        "options": [
+            "Flora",
+            "Manual",
+            "Monograph",
+            "Catalogue"
+        ],
+        "answer": 3,
+        "explanation": "Catalogue lists names alphabetically."
+    },
+    {
+        "id": 25,
+        "question": "Which algae shows haplodiplontic life cycle?",
+        "options": [
+            "Ulothrix",
+            "Spirogyra",
+            "Ectocarpus",
+            "Chlamydomonas"
+        ],
+        "answer": 2,
+        "explanation": "Ectocarpus shows haplodiplontic life cycle."
+    },
+    {
+        "id": 26,
+        "question": "Which tissue provides mechanical strength to mature plant parts?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": 2,
+        "explanation": "Sclerenchyma provides mechanical strength."
+    },
+    {
+        "id": 27,
+        "question": "Which plastid is colourless and stores food?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Leucoplast",
+            "Gerontoplast"
+        ],
+        "answer": 2,
+        "explanation": "Leucoplasts are colourless and store food."
+    },
+    {
+        "id": 28,
+        "question": "Which nitrogenous base pairs with adenine in RNA?",
+        "options": [
+            "Thymine",
+            "Cytosine",
+            "Guanine",
+            "Uracil"
+        ],
+        "answer": 3,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 29,
+        "question": "Which stage of meiosis shows formation of bivalents?",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 1,
+        "explanation": "Synapsis forming bivalents occurs in zygotene."
+    },
+    {
+        "id": 30,
+        "question": "Which force is mainly responsible for ascent of sap?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull is the main force."
+    },
+    {
+        "id": 31,
+        "question": "Which micronutrient is part of nitrogenase enzyme?",
+        "options": [
+            "Iron",
+            "Zinc",
+            "Copper",
+            "Manganese"
+        ],
+        "answer": 0,
+        "explanation": "Iron is a component of nitrogenase."
+    },
+    {
+        "id": 32,
+        "question": "Which pathway fixes CO₂ at night?",
+        "options": [
+            "C3 pathway",
+            "C4 pathway",
+            "CAM pathway",
+            "Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "CAM pathway fixes CO₂ at night."
+    },
+    {
+        "id": 33,
+        "question": "Which respiratory substrate gives RQ greater than 1?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Fats",
+            "Organic acids"
+        ],
+        "answer": 3,
+        "explanation": "Organic acids have RQ greater than 1."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone promotes fruit ripening?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "Ethylene promotes fruit ripening."
+    },
+    {
+        "id": 35,
+        "question": "Which part of ovule develops into seed coat?",
+        "options": [
+            "Nucellus",
+            "Integuments",
+            "Funiculus",
+            "Chalaza"
+        ],
+        "answer": 1,
+        "explanation": "Integuments form seed coat."
+    },
+    {
+        "id": 36,
+        "question": "Which breeding method is used to transfer disease resistance gene?",
+        "options": [
+            "Mass selection",
+            "Pureline selection",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Backcrossing transfers disease resistance genes."
+    },
+    {
+        "id": 37,
+        "question": "Which microorganism is used in production of penicillin?",
+        "options": [
+            "Aspergillus",
+            "Penicillium",
+            "Rhizopus",
+            "Trichoderma"
+        ],
+        "answer": 1,
+        "explanation": "Penicillium produces penicillin."
+    },
+    {
+        "id": 38,
+        "question": "Which technique is used to separate DNA fragments based on size?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Gel electrophoresis",
+            "Southern blotting"
+        ],
+        "answer": 2,
+        "explanation": "Gel electrophoresis separates DNA fragments by size."
+    },
+    {
+        "id": 39,
+        "question": "Which dispersion pattern shows individuals clumped together?",
+        "options": [
+            "Random",
+            "Uniform",
+            "Clumped",
+            "Regular"
+        ],
+        "answer": 2,
+        "explanation": "Clumped dispersion shows aggregation."
+    },
+    {
+        "id": 40,
+        "question": "Which ecological pyramid is always upright?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "All pyramids"
+        ],
+        "answer": 2,
+        "explanation": "Pyramid of energy is always upright."
+    },
+    {
+        "id": 41,
+        "question": "Which biome is characterised by low rainfall and sparse vegetation?",
+        "options": [
+            "Savanna",
+            "Taiga",
+            "Desert",
+            "Tundra"
+        ],
+        "answer": 2,
+        "explanation": "Deserts have low rainfall and sparse vegetation."
+    },
+    {
+        "id": 42,
+        "question": "Which gas is responsible for global warming?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide is a greenhouse gas."
+    },
+    {
+        "id": 43,
+        "question": "Which system of classification is based on evolutionary relationships?",
+        "options": [
+            "Artificial",
+            "Natural",
+            "Phylogenetic",
+            "Numerical"
+        ],
+        "answer": 2,
+        "explanation": "Phylogenetic classification is evolutionary."
+    },
+    {
+        "id": 44,
+        "question": "Which algae is source of agar?",
+        "options": [
+            "Ulothrix",
+            "Sargassum",
+            "Gelidium",
+            "Chlorella"
+        ],
+        "answer": 2,
+        "explanation": "Gelidium is source of agar."
+    },
+    {
+        "id": 45,
+        "question": "Which tissue lies between epidermis and vascular tissue?",
+        "options": [
+            "Pith",
+            "Cambium",
+            "Cortex",
+            "Pericycle"
+        ],
+        "answer": 2,
+        "explanation": "Cortex lies between epidermis and vascular tissue."
+    },
+    {
+        "id": 46,
+        "question": "Which plastid imparts colour to fruits?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Leucoplast",
+            "Amyloplast"
+        ],
+        "answer": 1,
+        "explanation": "Chromoplast imparts colour to fruits."
+    },
+    {
+        "id": 47,
+        "question": "Which nitrogenous base pairs with guanine?",
+        "options": [
+            "Adenine",
+            "Thymine",
+            "Cytosine",
+            "Uracil"
+        ],
+        "answer": 2,
+        "explanation": "Guanine pairs with cytosine."
+    },
+    {
+        "id": 48,
+        "question": "Which stage of mitosis involves alignment of chromosomes at equator?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 1,
+        "explanation": "Metaphase shows equatorial alignment."
+    },
+    {
+        "id": 49,
+        "question": "Which force explains ascent of sap according to cohesion-tension theory?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull explains ascent of sap."
+    },
+    {
+        "id": 50,
+        "question": "Which international agreement focuses on climate change mitigation?",
+        "options": [
+            "Montreal Protocol",
+            "Kyoto Protocol",
+            "Ramsar Convention",
+            "Convention on Biological Diversity"
+        ],
+        "answer": 1,
+        "explanation": "Kyoto Protocol aims at reducing greenhouse gas emissions."
+    }
+]

@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Work done by a constant force \\(\\vec{F}\\) acting on a particle displaced by \\(\\vec{s}\\) is given by:",
+        "options": [
+            "\\(F s\\)",
+            "\\(F s \\cos \\theta\\)",
+            "\\(F s \\sin \\theta\\)",
+            "\\(\\vec{F} \\times \\vec{s}\\)"
+        ],
+        "answer": 1,
+        "explanation": "Work done is the scalar product of force and displacement: \\(W = \\vec{F} \\cdot \\vec{s} = F s \\cos \\theta\\)."
+    },
+    {
+        "id": 2,
+        "question": "The work done by centripetal force in circular motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is always perpendicular to displacement, so work done is zero."
+    },
+    {
+        "id": 3,
+        "question": "If displacement of a particle is zero, the work done by any force is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Undefined"
+        ],
+        "answer": 0,
+        "explanation": "Work depends on displacement; zero displacement implies zero work."
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is a scalar quantity?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Work",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Work is a scalar quantity as it has magnitude only."
+    },
+    {
+        "id": 5,
+        "question": "The SI unit of work is:",
+        "options": [
+            "Newton",
+            "Watt",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "The SI unit of work is joule (J)."
+    },
+    {
+        "id": 6,
+        "question": "1 joule is equal to:",
+        "options": [
+            "1 N m",
+            "1 kg m s⁻¹",
+            "1 W s⁻¹",
+            "1 N s"
+        ],
+        "answer": 0,
+        "explanation": "1 joule = 1 newton × 1 metre."
+    },
+    {
+        "id": 7,
+        "question": "When the angle between force and displacement is 90°, the work done is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "At 90°, \\(\\cos 90° = 0\\), so work done is zero."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following forces is conservative?",
+        "options": [
+            "Friction",
+            "Air resistance",
+            "Gravitational force",
+            "Viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is a conservative force."
+    },
+    {
+        "id": 9,
+        "question": "Work done by a conservative force over a closed path is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Non-zero",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "Work done by a conservative force over a closed loop is zero."
+    },
+    {
+        "id": 10,
+        "question": "Kinetic energy of a particle of mass \\(m\\) moving with velocity \\(v\\) is:",
+        "options": [
+            "\\(mv\\)",
+            "\\(mv^2\\)",
+            "\\(\\frac{1}{2}mv^2\\)",
+            "\\(\\frac{1}{2}mv\\)"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is given by \\(K = \\frac{1}{2}mv^2\\)."
+    },
+    {
+        "id": 11,
+        "question": "If the speed of a particle is doubled, its kinetic energy becomes:",
+        "options": [
+            "Double",
+            "Four times",
+            "Half",
+            "Same"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 12,
+        "question": "Work-energy theorem states that work done by net force equals change in:",
+        "options": [
+            "Momentum",
+            "Potential energy",
+            "Kinetic energy",
+            "Total energy"
+        ],
+        "answer": 2,
+        "explanation": "Net work done equals change in kinetic energy."
+    },
+    {
+        "id": 13,
+        "question": "The work-energy theorem is valid for:",
+        "options": [
+            "Only conservative forces",
+            "Only non-conservative forces",
+            "Only frictionless motion",
+            "All forces"
+        ],
+        "answer": 3,
+        "explanation": "Work-energy theorem is valid for all kinds of forces."
+    },
+    {
+        "id": 14,
+        "question": "Potential energy associated with a conservative force depends on:",
+        "options": [
+            "Velocity",
+            "Path",
+            "Position",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy is a function of position only."
+    },
+    {
+        "id": 15,
+        "question": "Gravitational potential energy near Earth's surface is:",
+        "options": [
+            "\\(mg\\)",
+            "\\(mgh\\)",
+            "\\(\\frac{1}{2}mgh\\)",
+            "\\(\\frac{mgh}{2}\\)"
+        ],
+        "answer": 1,
+        "explanation": "Near Earth surface, gravitational potential energy is \\(U = mgh\\)."
+    },
+    {
+        "id": 16,
+        "question": "The reference level for gravitational potential energy is:",
+        "options": [
+            "Always ground",
+            "Always centre of Earth",
+            "Arbitrary",
+            "Sea level only"
+        ],
+        "answer": 2,
+        "explanation": "Reference level can be chosen arbitrarily."
+    },
+    {
+        "id": 17,
+        "question": "Potential energy of a spring stretched by \\(x\\) is:",
+        "options": [
+            "\\(kx\\)",
+            "\\(\\frac{1}{2}kx^2\\)",
+            "\\(kx^2\\)",
+            "\\(\\frac{1}{2}kx\\)"
+        ],
+        "answer": 1,
+        "explanation": "Elastic potential energy is \\(\\frac{1}{2}kx^2\\)."
+    },
+    {
+        "id": 18,
+        "question": "The spring force is a:",
+        "options": [
+            "Non-conservative force",
+            "Dissipative force",
+            "Conservative force",
+            "Frictional force"
+        ],
+        "answer": 2,
+        "explanation": "Spring force is conservative."
+    },
+    {
+        "id": 19,
+        "question": "Mechanical energy is the sum of:",
+        "options": [
+            "Kinetic and thermal energy",
+            "Potential and thermal energy",
+            "Kinetic and potential energy",
+            "Work and power"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy = kinetic energy + potential energy."
+    },
+    {
+        "id": 20,
+        "question": "In absence of non-conservative forces, mechanical energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is conserved if only conservative forces act."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following causes mechanical energy to decrease?",
+        "options": [
+            "Gravitational force",
+            "Elastic force",
+            "Friction",
+            "Spring force"
+        ],
+        "answer": 2,
+        "explanation": "Friction is a non-conservative force causing energy dissipation."
+    },
+    {
+        "id": 22,
+        "question": "Power is defined as:",
+        "options": [
+            "Work per unit displacement",
+            "Work per unit time",
+            "Force per unit time",
+            "Energy per unit distance"
+        ],
+        "answer": 1,
+        "explanation": "Power is the rate of doing work."
+    },
+    {
+        "id": 23,
+        "question": "The SI unit of power is:",
+        "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "SI unit of power is watt."
+    },
+    {
+        "id": 24,
+        "question": "1 watt is equal to:",
+        "options": [
+            "1 J s⁻¹",
+            "1 N m⁻¹",
+            "1 J m⁻¹",
+            "1 N s"
+        ],
+        "answer": 0,
+        "explanation": "1 watt = 1 joule per second."
+    },
+    {
+        "id": 25,
+        "question": "Instantaneous power delivered by a force \\(\\vec{F}\\) to a particle moving with velocity \\(\\vec{v}\\) is:",
+        "options": [
+            "\\(Fv\\)",
+            "\\(Fv \\sin \\theta\\)",
+            "\\(\\vec{F} \\cdot \\vec{v}\\)",
+            "\\(\\vec{F} \\times \\vec{v}\\)"
+        ],
+        "answer": 2,
+        "explanation": "Instantaneous power is the dot product of force and velocity."
+    },
+    {
+        "id": 26,
+        "question": "If force is perpendicular to velocity, instantaneous power is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "Dot product is zero when vectors are perpendicular."
+    },
+    {
+        "id": 27,
+        "question": "Which of the following quantities has the same dimensions as work?",
+        "options": [
+            "Torque",
+            "Momentum",
+            "Power",
+            "Pressure"
+        ],
+        "answer": 0,
+        "explanation": "Torque and work have same dimensions but different nature."
+    },
+    {
+        "id": 28,
+        "question": "The area under a force-displacement graph represents:",
+        "options": [
+            "Power",
+            "Momentum",
+            "Work",
+            "Energy per unit mass"
+        ],
+        "answer": 2,
+        "explanation": "Area under F–x graph gives work done."
+    },
+    {
+        "id": 29,
+        "question": "The area under a power-time graph represents:",
+        "options": [
+            "Work done",
+            "Force",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 0,
+        "explanation": "Area under P–t graph gives total work done."
+    },
+    {
+        "id": 30,
+        "question": "A body moving with constant speed in a circle has:",
+        "options": [
+            "Constant kinetic energy",
+            "Changing kinetic energy",
+            "Zero kinetic energy",
+            "Increasing kinetic energy"
+        ],
+        "answer": 0,
+        "explanation": "Speed is constant, so kinetic energy remains constant."
+    },
+    {
+        "id": 31,
+        "question": "Which quantity is always conserved in elastic collisions?",
+        "options": [
+            "Kinetic energy only",
+            "Momentum only",
+            "Mechanical energy only",
+            "Momentum and kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Both momentum and kinetic energy are conserved."
+    },
+    {
+        "id": 32,
+        "question": "In inelastic collision, which quantity is not conserved?",
+        "options": [
+            "Momentum",
+            "Energy",
+            "Kinetic energy",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is not conserved in inelastic collisions."
+    },
+    {
+        "id": 33,
+        "question": "The work done by friction is generally:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Friction opposes motion, so work done is negative."
+    },
+    {
+        "id": 34,
+        "question": "The unit of potential energy is:",
+        "options": [
+            "Newton",
+            "Watt",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy has the same unit as work."
+    },
+    {
+        "id": 35,
+        "question": "Mechanical energy of a freely falling body (neglecting air resistance):",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is conserved."
+    },
+    {
+        "id": 36,
+        "question": "Which of the following is NOT a form of energy?",
+        "options": [
+            "Heat",
+            "Work",
+            "Kinetic energy",
+            "Potential energy"
+        ],
+        "answer": 1,
+        "explanation": "Work is energy transfer, not a form of energy."
+    },
+    {
+        "id": 37,
+        "question": "The slope of kinetic energy vs velocity squared graph represents:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Force",
+            "Power"
+        ],
+        "answer": 0,
+        "explanation": "Slope equals \\(\\frac{1}{2}m\\), proportional to mass."
+    },
+    {
+        "id": 38,
+        "question": "Which of the following is path-independent?",
+        "options": [
+            "Work by friction",
+            "Work by air resistance",
+            "Work by gravity",
+            "Work by viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative, so work is path-independent."
+    },
+    {
+        "id": 39,
+        "question": "The work done in stretching a spring slowly from 0 to x is:",
+        "options": [
+            "\\(kx^2\\)",
+            "\\(\\frac{1}{2}kx^2\\)",
+            "\\(kx\\)",
+            "\\(\\frac{1}{2}kx\\)"
+        ],
+        "answer": 1,
+        "explanation": "Work done equals elastic potential energy stored."
+    },
+    {
+        "id": 40,
+        "question": "The efficiency of a machine is always:",
+        "options": [
+            "Greater than 1",
+            "Equal to 1",
+            "Less than or equal to 1",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Due to losses, efficiency cannot exceed unity."
+    },
+    {
+        "id": 41,
+        "question": "Which of the following has maximum power?",
+        "options": [
+            "High work in long time",
+            "Low work in short time",
+            "High work in short time",
+            "Low work in long time"
+        ],
+        "answer": 2,
+        "explanation": "Power depends on work done per unit time."
+    },
+    {
+        "id": 42,
+        "question": "A body of mass m moving with velocity v is stopped by friction. The work done by friction equals:",
+        "options": [
+            "\\(mv^2\\)",
+            "\\(\\frac{1}{2}mv^2\\)",
+            "\\(-\\frac{1}{2}mv^2\\)",
+            "\\(-mv^2\\)"
+        ],
+        "answer": 2,
+        "explanation": "Work done by friction equals negative of initial kinetic energy."
+    },
+    {
+        "id": 43,
+        "question": "The kinetic energy of a system depends on:",
+        "options": [
+            "Choice of origin",
+            "Reference frame",
+            "Path",
+            "Time"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on the frame of reference."
+    },
+    {
+        "id": 44,
+        "question": "Which quantity changes when only conservative forces act?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Mechanical energy",
+            "Total energy"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic and potential energies change, but their sum remains constant."
+    },
+    {
+        "id": 45,
+        "question": "The dimension of power is:",
+        "options": [
+            "\\(ML^2T^{-2}\\)",
+            "\\(ML^2T^{-3}\\)",
+            "\\(MLT^{-2}\\)",
+            "\\(MLT^{-1}\\)"
+        ],
+        "answer": 1,
+        "explanation": "Power = work per unit time."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is always positive?",
+        "options": [
+            "Work",
+            "Power",
+            "Kinetic energy",
+            "Potential energy"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is always non-negative."
+    },
+    {
+        "id": 47,
+        "question": "The work done by gravitational force depends on:",
+        "options": [
+            "Path",
+            "Time",
+            "Initial and final positions",
+            "Velocity"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 48,
+        "question": "If no external force acts on a system, which quantity is conserved?",
+        "options": [
+            "Energy",
+            "Momentum",
+            "Power",
+            "Work"
+        ],
+        "answer": 1,
+        "explanation": "Momentum is conserved in absence of external force."
+    },
+    {
+        "id": 49,
+        "question": "Negative work is done when force and displacement are:",
+        "options": [
+            "Parallel",
+            "Perpendicular",
+            "At acute angle",
+            "At obtuse angle"
+        ],
+        "answer": 3,
+        "explanation": "For obtuse angle, \\(\\cos \\theta\\) is negative."
+    },
+    {
+        "id": 50,
+        "question": "Which statement is correct according to NCERT?",
+        "options": [
+            "Work and energy are vectors",
+            "Power is scalar",
+            "Force and work have same dimensions",
+            "Energy is path-dependent"
+        ],
+        "answer": 1,
+        "explanation": "Power is a scalar quantity."
+    },
+    {
+        "id": 51,
+        "question": "A body is projected vertically upward. The work done by gravity during its ascent is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 1,
+        "explanation": "During ascent, displacement is upward while gravitational force acts downward, so work done is negative."
+    },
+    {
+        "id": 52,
+        "question": "The work done by gravity during free fall from height h is equal to:",
+        "options": [
+            "\\(mgh\\)",
+            "\\(-mgh\\)",
+            "\\(\\frac{1}{2}mgh\\)",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Force and displacement are in same direction during fall, so work done is positive and equals mgh."
+    },
+    {
+        "id": 53,
+        "question": "A block slides on a rough horizontal surface with constant velocity. The net work done on the block is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero net force, hence net work done is zero."
+    },
+    {
+        "id": 54,
+        "question": "Which graph represents constant power delivered to a particle?",
+        "options": [
+            "Work vs time is linear",
+            "Force vs time is linear",
+            "Velocity vs time is linear",
+            "Acceleration vs time is linear"
+        ],
+        "answer": 0,
+        "explanation": "Constant power means work increases linearly with time."
+    },
+    {
+        "id": 55,
+        "question": "The kinetic energy of a body becomes zero when its velocity is:",
+        "options": [
+            "Maximum",
+            "Constant",
+            "Zero",
+            "Minimum"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on square of velocity and becomes zero when velocity is zero."
+    },
+    {
+        "id": 56,
+        "question": "The work done by a variable force is given by:",
+        "options": [
+            "Area under F–x graph",
+            "Slope of F–x graph",
+            "Area under F–t graph",
+            "Slope of v–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Work done equals the area under force–displacement graph."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following quantities is frame dependent?",
+        "options": [
+            "Potential energy",
+            "Kinetic energy",
+            "Mechanical energy",
+            "Work by gravity"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on velocity and hence on reference frame."
+    },
+    {
+        "id": 58,
+        "question": "A particle moves under a conservative force. Which quantity is conserved?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Mechanical energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "In absence of non-conservative forces, mechanical energy is conserved."
+    },
+    {
+        "id": 59,
+        "question": "The potential energy of a system is minimum in:",
+        "options": [
+            "Unstable equilibrium",
+            "Neutral equilibrium",
+            "Stable equilibrium",
+            "Dynamic equilibrium"
+        ],
+        "answer": 2,
+        "explanation": "Stable equilibrium corresponds to minimum potential energy."
+    },
+    {
+        "id": 60,
+        "question": "If the potential energy of a system increases, then the work done by conservative force is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Work done by conservative force equals negative change in potential energy."
+    },
+    {
+        "id": 61,
+        "question": "A spring is compressed slowly. The work done by the external agent is:",
+        "options": [
+            "Stored as potential energy",
+            "Lost as heat",
+            "Zero",
+            "Converted to kinetic energy"
+        ],
+        "answer": 0,
+        "explanation": "Slow compression ensures no kinetic energy; work is stored as elastic potential energy."
+    },
+    {
+        "id": 62,
+        "question": "Which quantity remains unchanged when only internal forces act in a system?",
+        "options": [
+            "Mechanical energy",
+            "Momentum",
+            "Power",
+            "Work"
+        ],
+        "answer": 1,
+        "explanation": "In absence of external force, momentum of the system is conserved."
+    },
+    {
+        "id": 63,
+        "question": "A body moves up a rough inclined plane at constant speed. The work done by gravity is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on friction"
+        ],
+        "answer": 1,
+        "explanation": "Gravity acts downward while displacement is upward along the plane, so work is negative."
+    },
+    {
+        "id": 64,
+        "question": "The work done by normal reaction on a block sliding on a rough horizontal surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement, hence work done is zero."
+    },
+    {
+        "id": 65,
+        "question": "Which of the following quantities can be negative?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Mass",
+            "Speed"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy depends on reference level and can be negative."
+    },
+    {
+        "id": 66,
+        "question": "A body is thrown vertically upward. At the highest point, its:",
+        "options": [
+            "Kinetic energy is maximum",
+            "Potential energy is zero",
+            "Kinetic energy is zero",
+            "Mechanical energy is zero"
+        ],
+        "answer": 2,
+        "explanation": "At highest point, velocity becomes zero, hence kinetic energy is zero."
+    },
+    {
+        "id": 67,
+        "question": "The slope of work versus time graph gives:",
+        "options": [
+            "Force",
+            "Power",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Rate of change of work with time is power."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is an example of non-conservative force?",
+        "options": [
+            "Gravitational force",
+            "Spring force",
+            "Electrostatic force",
+            "Frictional force"
+        ],
+        "answer": 3,
+        "explanation": "Friction is a non-conservative force."
+    },
+    {
+        "id": 69,
+        "question": "If a body moves in a straight line with uniform velocity, the power delivered by net force is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies zero net force, so power is zero."
+    },
+    {
+        "id": 70,
+        "question": "The dimensional formula of work is:",
+        "options": [
+            "\\(MLT^{-2}\\)",
+            "\\(ML^2T^{-2}\\)",
+            "\\(ML^2T^{-3}\\)",
+            "\\(MT^{-2}\\)"
+        ],
+        "answer": 1,
+        "explanation": "Work = force × displacement, dimensions are ML^2T^-2."
+    },
+    {
+        "id": 71,
+        "question": "Which statement is correct for conservative forces?",
+        "options": [
+            "Work depends on path",
+            "Potential energy cannot be defined",
+            "Work over closed loop is zero",
+            "Energy is dissipated"
+        ],
+        "answer": 2,
+        "explanation": "For conservative forces, work done over closed path is zero."
+    },
+    {
+        "id": 72,
+        "question": "The kinetic energy of a moving body is doubled. Its momentum becomes:",
+        "options": [
+            "Doubled",
+            "Halved",
+            "\\(\\sqrt{2}\\) times",
+            "Four times"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy proportional to square of momentum."
+    },
+    {
+        "id": 73,
+        "question": "A bullet embeds into a wooden block. The collision is:",
+        "options": [
+            "Elastic",
+            "Perfectly elastic",
+            "Inelastic",
+            "Perfectly inelastic"
+        ],
+        "answer": 3,
+        "explanation": "When bodies stick together after collision, it is perfectly inelastic."
+    },
+    {
+        "id": 74,
+        "question": "Which quantity is always conserved in all types of collisions?",
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions."
+    },
+    {
+        "id": 75,
+        "question": "If the speed of a particle becomes three times, its kinetic energy becomes:",
+        "options": [
+            "Three times",
+            "Six times",
+            "Nine times",
+            "Half"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 76,
+        "question": "The work done by a force is zero if the force is:",
+        "options": [
+            "Zero",
+            "Parallel to displacement",
+            "Perpendicular to displacement",
+            "Opposite to displacement"
+        ],
+        "answer": 2,
+        "explanation": "Work depends on component of force along displacement."
+    },
+    {
+        "id": 77,
+        "question": "The efficiency of an ideal machine is:",
+        "options": [
+            "Less than 1",
+            "Greater than 1",
+            "Equal to 1",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Ideal machine has no energy losses, so efficiency is unity."
+    },
+    {
+        "id": 78,
+        "question": "A body falls freely under gravity. Its kinetic energy:",
+        "options": [
+            "Decreases uniformly",
+            "Increases uniformly",
+            "Remains constant",
+            "First increases then decreases"
+        ],
+        "answer": 1,
+        "explanation": "As velocity increases, kinetic energy increases."
+    },
+    {
+        "id": 79,
+        "question": "Which quantity has same unit as energy?",
+        "options": [
+            "Power",
+            "Torque",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 1,
+        "explanation": "Torque and energy have same unit but different physical nature."
+    },
+    {
+        "id": 80,
+        "question": "The mechanical energy of a projectile at highest point is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Same as at projection"
+        ],
+        "answer": 3,
+        "explanation": "In absence of air resistance, mechanical energy remains constant."
+    },
+    {
+        "id": 81,
+        "question": "Which factor does not affect gravitational potential energy near Earth?",
+        "options": [
+            "Mass",
+            "Height",
+            "Acceleration due to gravity",
+            "Speed"
+        ],
+        "answer": 3,
+        "explanation": "Gravitational potential energy depends on m, g and h only."
+    },
+    {
+        "id": 82,
+        "question": "A body slides down a rough incline. The loss of mechanical energy is due to:",
+        "options": [
+            "Gravity",
+            "Normal reaction",
+            "Friction",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Friction converts mechanical energy into heat."
+    },
+    {
+        "id": 83,
+        "question": "The power delivered by a constant force at constant velocity is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Power = F·v, both are constant."
+    },
+    {
+        "id": 84,
+        "question": "Which quantity can be transferred from one body to another?",
+        "options": [
+            "Work",
+            "Mass",
+            "Momentum",
+            "Displacement"
+        ],
+        "answer": 0,
+        "explanation": "Work represents transfer of energy."
+    },
+    {
+        "id": 85,
+        "question": "A system has zero potential energy. Its total mechanical energy is:",
+        "options": [
+            "Zero",
+            "Equal to kinetic energy",
+            "Negative",
+            "Undefined"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy is sum of kinetic and potential energies."
+    },
+    {
+        "id": 86,
+        "question": "The kinetic energy of a particle is independent of:",
+        "options": [
+            "Mass",
+            "Speed",
+            "Direction of motion",
+            "Reference frame"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 87,
+        "question": "The work done by a force is maximum when the angle between force and displacement is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 0,
+        "explanation": "Work is maximum when force and displacement are parallel."
+    },
+    {
+        "id": 88,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Energy is a vector",
+            "Work is a vector",
+            "Energy is scalar",
+            "Force and energy are same"
+        ],
+        "answer": 2,
+        "explanation": "Energy has magnitude only and no direction."
+    },
+    {
+        "id": 89,
+        "question": "The rate of change of momentum with time is equal to:",
+        "options": [
+            "Power",
+            "Work",
+            "Force",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "According to Newton’s second law, force equals rate of change of momentum."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following is not an energy conversion?",
+        "options": [
+            "Mechanical to thermal",
+            "Electrical to mechanical",
+            "Energy to force",
+            "Chemical to electrical"
+        ],
+        "answer": 2,
+        "explanation": "Force is not a form of energy."
+    },
+    {
+        "id": 91,
+        "question": "A body is lifted vertically upward at constant speed. The work done by the lifting force is:",
+        "options": [
+            "Zero",
+            "Equal to mgh",
+            "Less than mgh",
+            "Greater than mgh"
+        ],
+        "answer": 1,
+        "explanation": "Lifting force does work equal to gain in potential energy."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following quantities is not conserved when friction acts?",
+        "options": [
+            "Momentum",
+            "Mechanical energy",
+            "Mass",
+            "Time"
+        ],
+        "answer": 1,
+        "explanation": "Friction dissipates mechanical energy."
+    },
+    {
+        "id": 93,
+        "question": "The kinetic energy of a system is minimum when the system is:",
+        "options": [
+            "At rest",
+            "In uniform motion",
+            "In accelerated motion",
+            "In circular motion"
+        ],
+        "answer": 0,
+        "explanation": "At rest, velocity is zero, so kinetic energy is minimum."
+    },
+    {
+        "id": 94,
+        "question": "Which of the following depends on the square of velocity?",
+        "options": [
+            "Momentum",
+            "Kinetic energy",
+            "Power",
+            "Force"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy is proportional to v^2."
+    },
+    {
+        "id": 95,
+        "question": "A force does no work if it causes:",
+        "options": [
+            "Change in speed",
+            "Change in direction only",
+            "Change in kinetic energy",
+            "Change in potential energy"
+        ],
+        "answer": 1,
+        "explanation": "Force perpendicular to velocity changes direction but does no work."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following graphs represents constant kinetic energy?",
+        "options": [
+            "v vs t horizontal line",
+            "v^2 vs t linear",
+            "KE vs t linear",
+            "KE vs t curved"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed implies constant kinetic energy."
+    },
+    {
+        "id": 97,
+        "question": "The unit of energy in CGS system is:",
+        "options": [
+            "Joule",
+            "Erg",
+            "Watt",
+            "Dyne"
+        ],
+        "answer": 1,
+        "explanation": "In CGS system, unit of energy is erg."
+    },
+    {
+        "id": 98,
+        "question": "Which statement is correct about work?",
+        "options": [
+            "It is a vector",
+            "It depends only on force",
+            "It depends on displacement",
+            "It is independent of direction"
+        ],
+        "answer": 2,
+        "explanation": "Work depends on both force and displacement."
+    },
+    {
+        "id": 99,
+        "question": "The work-energy theorem is derived using:",
+        "options": [
+            "Newton’s first law",
+            "Newton’s second law",
+            "Newton’s third law",
+            "Law of conservation of momentum"
+        ],
+        "answer": 1,
+        "explanation": "Work-energy theorem follows from Newton’s second law."
+    },
+    {
+        "id": 100,
+        "question": "Which of the following quantities can be zero even when a force is acting?",
+        "options": [
+            "Acceleration",
+            "Work done",
+            "Momentum",
+            "Energy"
+        ],
+        "answer": 1,
+        "explanation": "If force is perpendicular to displacement, work done is zero."
+    },
+    {
+        "id": 101,
+        "question": "A particle moves under a force \\(\\vec{F} = kx\\hat{i}\\). The work done by the force in moving the particle from x = 0 to x = a is:",
+        "options": [
+            "\\(ka\\)",
+            "\\(\\frac{1}{2}ka^2\\)",
+            "\\(ka^2\\)",
+            "\\(\\frac{1}{3}ka^3\\)"
+        ],
+        "answer": 1,
+        "explanation": "Work done by variable force is area under F–x graph: \\(W = \\int_0^a kx dx = \\frac{1}{2}ka^2\\)."
+    },
+    {
+        "id": 102,
+        "question": "A body of mass m is projected vertically upward with speed u. The maximum height reached is:",
+        "options": [
+            "\\(\\frac{u^2}{g}\\)",
+            "\\(\\frac{u^2}{2g}\\)",
+            "\\(\\frac{2u^2}{g}\\)",
+            "\\(\\frac{u}{2g}\\)"
+        ],
+        "answer": 1,
+        "explanation": "Using energy conservation: \\(\\frac{1}{2}mu^2 = mgh\\)."
+    },
+    {
+        "id": 103,
+        "question": "The work done by tension in an ideal string during motion of a body attached to it is:",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "Always zero",
+            "Depends on situation"
+        ],
+        "answer": 3,
+        "explanation": "Work by tension depends on direction of displacement relative to tension."
+    },
+    {
+        "id": 104,
+        "question": "A body moves in a circle of constant speed. Which statement is correct?",
+        "options": [
+            "Work is done by centripetal force",
+            "Kinetic energy changes",
+            "No work is done by centripetal force",
+            "Mechanical energy decreases"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is perpendicular to velocity, hence does no work."
+    },
+    {
+        "id": 105,
+        "question": "If the kinetic energy of a body is K, its momentum is:",
+        "options": [
+            "\\(\\sqrt{2mK}\\)",
+            "\\(2mK\\)",
+            "\\(\\frac{K}{2m}\\)",
+            "\\(mK\\)"
+        ],
+        "answer": 0,
+        "explanation": "Using \\(K = \\frac{p^2}{2m}\\), so \\(p = \\sqrt{2mK}\\)."
+    },
+    {
+        "id": 106,
+        "question": "A block slides down a frictionless incline. The decrease in its potential energy equals:",
+        "options": [
+            "Increase in kinetic energy",
+            "Work done by normal reaction",
+            "Loss of mechanical energy",
+            "Heat produced"
+        ],
+        "answer": 0,
+        "explanation": "On frictionless surface, loss in PE equals gain in KE."
+    },
+    {
+        "id": 107,
+        "question": "The unit of power in CGS system is:",
+        "options": [
+            "erg",
+            "dyne",
+            "erg s⁻¹",
+            "watt"
+        ],
+        "answer": 2,
+        "explanation": "Power = energy per unit time, so CGS unit is erg per second."
+    },
+    {
+        "id": 108,
+        "question": "If a force does negative work on a body, the kinetic energy of the body:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Negative work reduces kinetic energy."
+    },
+    {
+        "id": 109,
+        "question": "The work done by gravity on a satellite moving in a circular orbit is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force acts perpendicular to velocity in circular orbit."
+    },
+    {
+        "id": 110,
+        "question": "A body is lifted vertically upward with acceleration. The work done by gravity is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Gravity acts downward while displacement is upward."
+    },
+    {
+        "id": 111,
+        "question": "The total mechanical energy of a particle is conserved when:",
+        "options": [
+            "Only conservative forces act",
+            "Only friction acts",
+            "Net force is zero",
+            "Velocity is constant"
+        ],
+        "answer": 0,
+        "explanation": "Mechanical energy is conserved in presence of only conservative forces."
+    },
+    {
+        "id": 112,
+        "question": "The work done in stretching a spring depends on:",
+        "options": [
+            "Path",
+            "Velocity",
+            "Displacement only",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Elastic potential energy depends only on extension."
+    },
+    {
+        "id": 113,
+        "question": "A particle is moving with constant power. Its velocity:",
+        "options": [
+            "Remains constant",
+            "Increases linearly",
+            "Increases non-linearly",
+            "Decreases"
+        ],
+        "answer": 2,
+        "explanation": "For constant power, velocity increases non-linearly with time."
+    },
+    {
+        "id": 114,
+        "question": "The area under a force–displacement curve represents:",
+        "options": [
+            "Momentum",
+            "Power",
+            "Work",
+            "Energy per unit mass"
+        ],
+        "answer": 2,
+        "explanation": "Work done is area under F–x graph."
+    },
+    {
+        "id": 115,
+        "question": "A body of mass m moving with speed v has kinetic energy proportional to:",
+        "options": [
+            "v",
+            "v²",
+            "v³",
+            "1/v"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 116,
+        "question": "The potential energy of a stretched spring becomes zero when:",
+        "options": [
+            "Spring is compressed",
+            "Spring is stretched",
+            "Spring is at natural length",
+            "Force is zero"
+        ],
+        "answer": 2,
+        "explanation": "At natural length, extension is zero."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following is not a conservative force?",
+        "options": [
+            "Gravitational force",
+            "Spring force",
+            "Electrostatic force",
+            "Frictional force"
+        ],
+        "answer": 3,
+        "explanation": "Friction is non-conservative."
+    },
+    {
+        "id": 118,
+        "question": "The work done by a constant force is maximum when displacement is:",
+        "options": [
+            "Zero",
+            "Perpendicular",
+            "Opposite",
+            "Along the force"
+        ],
+        "answer": 3,
+        "explanation": "Maximum work occurs when force and displacement are parallel."
+    },
+    {
+        "id": 119,
+        "question": "The mechanical energy of a pendulum is maximum at:",
+        "options": [
+            "Mean position",
+            "Extreme position",
+            "All positions",
+            "Lowest point only"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy remains constant throughout motion."
+    },
+    {
+        "id": 120,
+        "question": "A body slides on a rough surface and finally stops. The initial kinetic energy is converted into:",
+        "options": [
+            "Potential energy",
+            "Mechanical energy",
+            "Heat",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Friction converts kinetic energy into heat."
+    },
+    {
+        "id": 121,
+        "question": "The instantaneous power delivered by a force is zero when:",
+        "options": [
+            "Velocity is zero",
+            "Force is zero",
+            "Force is perpendicular to velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power = \\(\\vec{F} \\cdot \\vec{v}\\), which becomes zero in all cases."
+    },
+    {
+        "id": 122,
+        "question": "Which quantity has the same dimensions as energy?",
+        "options": [
+            "Torque",
+            "Pressure",
+            "Momentum",
+            "Force"
+        ],
+        "answer": 0,
+        "explanation": "Torque and energy have same dimensions but different nature."
+    },
+    {
+        "id": 123,
+        "question": "The work-energy theorem relates work done to change in:",
+        "options": [
+            "Momentum",
+            "Potential energy",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Net work equals change in kinetic energy."
+    },
+    {
+        "id": 124,
+        "question": "A body is moving with constant kinetic energy. Which is possible?",
+        "options": [
+            "Straight line motion",
+            "Circular motion",
+            "Accelerated motion",
+            "Both straight and circular motion"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 125,
+        "question": "The efficiency of a real machine is always:",
+        "options": [
+            "Equal to 1",
+            "Greater than 1",
+            "Less than 1",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Energy losses reduce efficiency below unity."
+    },
+    {
+        "id": 126,
+        "question": "A particle is acted upon by a force opposite to its velocity. The power is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Opposite direction gives negative dot product."
+    },
+    {
+        "id": 127,
+        "question": "The potential energy of a body at infinite distance in gravitational field is taken as:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "Reference potential energy is zero at infinity."
+    },
+    {
+        "id": 128,
+        "question": "Which of the following depends on choice of reference level?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy depends on reference level."
+    },
+    {
+        "id": 129,
+        "question": "A body moves with constant velocity. The net power acting on it is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero net force."
+    },
+    {
+        "id": 130,
+        "question": "The work done by a variable force can be calculated using:",
+        "options": [
+            "Area under F–x curve",
+            "Slope of F–x curve",
+            "Area under v–t curve",
+            "Slope of x–t curve"
+        ],
+        "answer": 0,
+        "explanation": "Work equals area under force–displacement graph."
+    },
+    {
+        "id": 131,
+        "question": "The kinetic energy of a body becomes half when its speed becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "\\(1/\\sqrt{2}\\) times",
+            "\\(\\sqrt{2}\\) times"
+        ],
+        "answer": 2,
+        "explanation": "KE proportional to v²."
+    },
+    {
+        "id": 132,
+        "question": "Which quantity is always positive or zero?",
+        "options": [
+            "Work",
+            "Power",
+            "Kinetic energy",
+            "Potential energy"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy cannot be negative."
+    },
+    {
+        "id": 133,
+        "question": "A body moves up under gravity. Its mechanical energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In absence of air resistance, mechanical energy is conserved."
+    },
+    {
+        "id": 134,
+        "question": "Which statement is correct?",
+        "options": [
+            "Work is path-dependent for conservative forces",
+            "Potential energy cannot be defined for non-conservative forces",
+            "Mechanical energy is always conserved",
+            "Power is a vector"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy is defined only for conservative forces."
+    },
+    {
+        "id": 135,
+        "question": "The slope of KE versus v² graph is:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "KE = (1/2)mv²."
+    },
+    {
+        "id": 136,
+        "question": "The work done by air resistance on a moving object is generally:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 137,
+        "question": "Which quantity changes continuously during free fall?",
+        "options": [
+            "Mass",
+            "Potential energy",
+            "Mechanical energy",
+            "Momentum only"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy decreases continuously."
+    },
+    {
+        "id": 138,
+        "question": "The power required to lift a body vertically upward at constant speed depends on:",
+        "options": [
+            "Height only",
+            "Mass only",
+            "Speed of lifting",
+            "Time taken"
+        ],
+        "answer": 2,
+        "explanation": "Power = force × velocity."
+    },
+    {
+        "id": 139,
+        "question": "The work done by gravity on a body thrown upward and coming back to same point is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Work over closed path for conservative force is zero."
+    },
+    {
+        "id": 140,
+        "question": "Which of the following graphs shows zero work done?",
+        "options": [
+            "Force perpendicular to displacement",
+            "Force parallel to displacement",
+            "Increasing force",
+            "Decreasing force"
+        ],
+        "answer": 0,
+        "explanation": "Perpendicular force does no work."
+    },
+    {
+        "id": 141,
+        "question": "The mechanical energy of a system decreases when:",
+        "options": [
+            "Only conservative forces act",
+            "Friction acts",
+            "Net force is zero",
+            "Motion is uniform"
+        ],
+        "answer": 1,
+        "explanation": "Non-conservative forces dissipate mechanical energy."
+    },
+    {
+        "id": 142,
+        "question": "A body has momentum p. Its kinetic energy is:",
+        "options": [
+            "\\(\\frac{p}{2m}\\)",
+            "\\(\\frac{p^2}{2m}\\)",
+            "\\(pm\\)",
+            "\\(2pm\\)"
+        ],
+        "answer": 1,
+        "explanation": "KE expressed in terms of momentum."
+    },
+    {
+        "id": 143,
+        "question": "Which of the following is independent of path?",
+        "options": [
+            "Work by friction",
+            "Work by air drag",
+            "Work by gravity",
+            "Work by viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 144,
+        "question": "The SI unit of mechanical energy is:",
+        "options": [
+            "Watt",
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is measured in joule."
+    },
+    {
+        "id": 145,
+        "question": "If the speed of a body becomes zero, its momentum and kinetic energy become:",
+        "options": [
+            "Zero, zero",
+            "Zero, non-zero",
+            "Non-zero, zero",
+            "Non-zero, non-zero"
+        ],
+        "answer": 0,
+        "explanation": "Both depend on velocity."
+    },
+    {
+        "id": 146,
+        "question": "The work done by centripetal force is zero because:",
+        "options": [
+            "Force is zero",
+            "Displacement is zero",
+            "Force is perpendicular to displacement",
+            "Speed is constant"
+        ],
+        "answer": 2,
+        "explanation": "Dot product of perpendicular vectors is zero."
+    },
+    {
+        "id": 147,
+        "question": "Which quantity is conserved in absence of external forces?",
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Law of conservation of momentum."
+    },
+    {
+        "id": 148,
+        "question": "The rate of doing work is called:",
+        "options": [
+            "Energy",
+            "Power",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 1,
+        "explanation": "Definition of power."
+    },
+    {
+        "id": 149,
+        "question": "The work done by a force depends on:",
+        "options": [
+            "Force only",
+            "Displacement only",
+            "Angle between force and displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work = Fs cosθ."
+    },
+    {
+        "id": 150,
+        "question": "Which statement is correct as per NCERT?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is a vector"
+        ],
+        "answer": 2,
+        "explanation": "Law of conservation of energy allows transformation, not creation or destruction."
+    },
+    {
+        "id": 151,
+        "question": "A body of mass m is moving with speed v. The work required to bring it to rest is:",
+        "options": [
+            "\\(mv^2\\)",
+            "\\(\\frac{1}{2}mv^2\\)",
+            "\\(-\\frac{1}{2}mv^2\\)",
+            "\\(-mv^2\\)"
+        ],
+        "answer": 2,
+        "explanation": "Work required to stop the body equals negative of its initial kinetic energy."
+    },
+    {
+        "id": 152,
+        "question": "A particle is acted upon by a conservative force. Which of the following quantities remains constant?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Mechanical energy",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "In presence of only conservative forces, mechanical energy remains constant."
+    },
+    {
+        "id": 153,
+        "question": "The work done by a force acting on a body is independent of the path followed if the force is:",
+        "options": [
+            "Frictional",
+            "Viscous",
+            "Conservative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Work done by conservative forces is path-independent."
+    },
+    {
+        "id": 154,
+        "question": "The kinetic energy of a particle moving in a straight line changes due to:",
+        "options": [
+            "Change in direction only",
+            "Change in speed",
+            "Change in path only",
+            "Change in position"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 155,
+        "question": "A block is pulled on a rough horizontal surface with constant speed. The work done by applied force is:",
+        "options": [
+            "Zero",
+            "Equal to work done by friction",
+            "Greater than work by friction",
+            "Less than work by friction"
+        ],
+        "answer": 1,
+        "explanation": "Constant speed implies zero net work; applied force balances friction."
+    },
+    {
+        "id": 156,
+        "question": "The unit of work in SI system is equivalent to:",
+        "options": [
+            "kg m s⁻¹",
+            "kg m² s⁻²",
+            "kg m s⁻²",
+            "kg s⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "1 joule = 1 kg m² s⁻²."
+    },
+    {
+        "id": 157,
+        "question": "Which of the following quantities is not a form of mechanical energy?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Elastic energy",
+            "Heat energy"
+        ],
+        "answer": 3,
+        "explanation": "Heat energy is not a form of mechanical energy."
+    },
+    {
+        "id": 158,
+        "question": "The power delivered by a force is maximum when the angle between force and velocity is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 0,
+        "explanation": "Power = Fv cosθ is maximum when cosθ = 1."
+    },
+    {
+        "id": 159,
+        "question": "A body is projected vertically upward. The work done by gravity during the complete journey is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 160,
+        "question": "If the momentum of a particle is doubled, its kinetic energy becomes:",
+        "options": [
+            "Double",
+            "Four times",
+            "Half",
+            "Same"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy is proportional to square of momentum."
+    },
+    {
+        "id": 161,
+        "question": "The work done by a force is zero when displacement is:",
+        "options": [
+            "Parallel to force",
+            "Opposite to force",
+            "Perpendicular to force",
+            "Along force"
+        ],
+        "answer": 2,
+        "explanation": "When force is perpendicular to displacement, work done is zero."
+    },
+    {
+        "id": 162,
+        "question": "A spring is stretched by x. The force constant of the spring has unit:",
+        "options": [
+            "N m",
+            "N m⁻¹",
+            "J m⁻¹",
+            "kg m⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "From F = kx, k has unit N m⁻¹."
+    },
+    {
+        "id": 163,
+        "question": "The work done by gravity depends on:",
+        "options": [
+            "Path followed",
+            "Time taken",
+            "Initial and final positions",
+            "Speed of body"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 164,
+        "question": "The kinetic energy of a particle becomes four times when its speed becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "One-fourth"
+        ],
+        "answer": 0,
+        "explanation": "Kinetic energy is proportional to v²."
+    },
+    {
+        "id": 165,
+        "question": "A body slides on a smooth surface. The work done by normal reaction is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 166,
+        "question": "Which of the following quantities can be negative?",
+        "options": [
+            "Mass",
+            "Speed",
+            "Kinetic energy",
+            "Work"
+        ],
+        "answer": 3,
+        "explanation": "Work can be negative depending on direction of force."
+    },
+    {
+        "id": 167,
+        "question": "The total mechanical energy of a system is minimum at:",
+        "options": [
+            "Stable equilibrium",
+            "Unstable equilibrium",
+            "Neutral equilibrium",
+            "All positions"
+        ],
+        "answer": 0,
+        "explanation": "Stable equilibrium corresponds to minimum potential energy."
+    },
+    {
+        "id": 168,
+        "question": "A particle is moving with constant speed in a straight line. The net work done on it is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed implies no change in kinetic energy."
+    },
+    {
+        "id": 169,
+        "question": "Which of the following quantities is frame dependent?",
+        "options": [
+            "Potential energy",
+            "Kinetic energy",
+            "Work by gravity",
+            "Elastic potential energy"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on velocity, hence on frame of reference."
+    },
+    {
+        "id": 170,
+        "question": "The work done in compressing a spring is stored as:",
+        "options": [
+            "Heat energy",
+            "Kinetic energy",
+            "Elastic potential energy",
+            "Mechanical loss"
+        ],
+        "answer": 2,
+        "explanation": "Energy is stored as elastic potential energy."
+    },
+    {
+        "id": 171,
+        "question": "Which statement is correct regarding power?",
+        "options": [
+            "It is a vector",
+            "It can be negative",
+            "It has same unit as work",
+            "It depends only on force"
+        ],
+        "answer": 1,
+        "explanation": "Power can be negative if force opposes velocity."
+    },
+    {
+        "id": 172,
+        "question": "The work-energy theorem is applicable for:",
+        "options": [
+            "Only conservative forces",
+            "Only non-conservative forces",
+            "Only constant forces",
+            "All types of forces"
+        ],
+        "answer": 3,
+        "explanation": "Work-energy theorem is valid for all forces."
+    },
+    {
+        "id": 173,
+        "question": "A body falls freely from rest. Its mechanical energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In absence of air resistance, mechanical energy is conserved."
+    },
+    {
+        "id": 174,
+        "question": "The work done by a variable force can be calculated using:",
+        "options": [
+            "Average force × displacement",
+            "Area under F–x graph",
+            "Area under F–t graph",
+            "Slope of F–x graph"
+        ],
+        "answer": 1,
+        "explanation": "Work equals area under force–displacement graph."
+    },
+    {
+        "id": 175,
+        "question": "Which of the following has the same dimensions as work?",
+        "options": [
+            "Torque",
+            "Pressure",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 0,
+        "explanation": "Torque and work have same dimensions."
+    },
+    {
+        "id": 176,
+        "question": "A body is lifted vertically upward at constant speed. The net work done on the body is:",
+        "options": [
+            "Zero",
+            "mgh",
+            "-mgh",
+            "Depends on time"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed implies no change in kinetic energy."
+    },
+    {
+        "id": 177,
+        "question": "The kinetic energy of a particle is independent of:",
+        "options": [
+            "Mass",
+            "Speed",
+            "Direction of motion",
+            "Reference frame"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 178,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Energy is vector",
+            "Work is vector",
+            "Power is scalar",
+            "Force and energy are same"
+        ],
+        "answer": 2,
+        "explanation": "Power is a scalar quantity."
+    },
+    {
+        "id": 179,
+        "question": "The area under a power–time graph represents:",
+        "options": [
+            "Force",
+            "Momentum",
+            "Work",
+            "Velocity"
+        ],
+        "answer": 2,
+        "explanation": "Area under P–t graph gives work done."
+    },
+    {
+        "id": 180,
+        "question": "Which quantity is always conserved in absence of external forces?",
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved if no external force acts."
+    },
+    {
+        "id": 181,
+        "question": "A particle has zero kinetic energy. It must be:",
+        "options": [
+            "At rest",
+            "Moving with constant velocity",
+            "Moving in circle",
+            "Accelerating"
+        ],
+        "answer": 0,
+        "explanation": "Zero kinetic energy implies zero speed."
+    },
+    {
+        "id": 182,
+        "question": "The work done by friction on a moving body is generally:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Friction opposes motion."
+    },
+    {
+        "id": 183,
+        "question": "The efficiency of a machine is defined as ratio of:",
+        "options": [
+            "Output work to input work",
+            "Input work to output work",
+            "Output power to input power",
+            "Input power to output power"
+        ],
+        "answer": 0,
+        "explanation": "Efficiency = useful output work / input work."
+    },
+    {
+        "id": 184,
+        "question": "A body is thrown upward. At the highest point, its potential energy is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 0,
+        "explanation": "Height is maximum at highest point."
+    },
+    {
+        "id": 185,
+        "question": "Which of the following depends on the choice of reference level?",
+        "options": [
+            "Kinetic energy",
+            "Momentum",
+            "Potential energy",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy depends on reference level."
+    },
+    {
+        "id": 186,
+        "question": "The instantaneous power delivered by a force is given by:",
+        "options": [
+            "Fv",
+            "Fv sinθ",
+            "Fv cosθ",
+            "F/v"
+        ],
+        "answer": 2,
+        "explanation": "Instantaneous power equals dot product of force and velocity."
+    },
+    {
+        "id": 187,
+        "question": "A body moving in a straight line with uniform velocity has:",
+        "options": [
+            "Zero kinetic energy",
+            "Constant kinetic energy",
+            "Increasing kinetic energy",
+            "Decreasing kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Uniform velocity implies constant speed."
+    },
+    {
+        "id": 188,
+        "question": "The work done by gravitational force on a closed path is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 189,
+        "question": "Which quantity is not conserved in presence of friction?",
+        "options": [
+            "Momentum",
+            "Mechanical energy",
+            "Mass",
+            "Time"
+        ],
+        "answer": 1,
+        "explanation": "Friction dissipates mechanical energy."
+    },
+    {
+        "id": 190,
+        "question": "A body of mass m has kinetic energy K. Its speed is:",
+        "options": [
+            "\\(\\sqrt{2K/m}\\)",
+            "\\(2K/m\\)",
+            "\\(K/m\\)",
+            "\\(\\sqrt{K/m}\\)"
+        ],
+        "answer": 0,
+        "explanation": "From K = (1/2)mv²."
+    },
+    {
+        "id": 191,
+        "question": "The work done by air resistance is generally:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 192,
+        "question": "The SI unit of power is equivalent to:",
+        "options": [
+            "J s",
+            "J s⁻¹",
+            "N m",
+            "N s"
+        ],
+        "answer": 1,
+        "explanation": "Power = work per unit time."
+    },
+    {
+        "id": 193,
+        "question": "The slope of kinetic energy versus velocity squared graph is:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "KE = (1/2)mv²."
+    },
+    {
+        "id": 194,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is a vector"
+        ],
+        "answer": 2,
+        "explanation": "Energy can only be transformed from one form to another."
+    },
+    {
+        "id": 195,
+        "question": "The work done by centripetal force on a particle in circular motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is perpendicular to displacement."
+    },
+    {
+        "id": 196,
+        "question": "A system has zero potential energy. Its mechanical energy equals:",
+        "options": [
+            "Zero",
+            "Kinetic energy",
+            "Negative",
+            "Undefined"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy is sum of KE and PE."
+    },
+    {
+        "id": 197,
+        "question": "Which of the following quantities is scalar?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Power",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Power is a scalar quantity."
+    },
+    {
+        "id": 198,
+        "question": "The work done by a force depends on:",
+        "options": [
+            "Magnitude of force",
+            "Displacement",
+            "Angle between force and displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work = Fs cosθ."
+    },
+    {
+        "id": 199,
+        "question": "A body moves under gravity only. Which quantity remains constant?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 3,
+        "explanation": "In absence of air resistance, mechanical energy is conserved."
+    },
+    {
+        "id": 200,
+        "question": "The unit of work done per unit time is called:",
+        "options": [
+            "Energy",
+            "Force",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Work per unit time is power."
+    },
+    {
+        "id": 201,
+        "question": "A particle moves under a force \\(\\vec{F} = -kx\\hat{i}\\). The work done by the force in moving the particle from x = a to x = 0 is:",
+        "options": [
+            "\\(\\frac{1}{2}ka^2\\)",
+            "\\(-\\frac{1}{2}ka^2\\)",
+            "\\(ka^2\\)",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Work done by conservative spring force equals decrease in potential energy: \\(W = \\frac{1}{2}ka^2\\)."
+    },
+    {
+        "id": 202,
+        "question": "The potential energy of a particle in a force field is defined as:",
+        "options": [
+            "Work done by force",
+            "Negative of work done by conservative force",
+            "Work done against friction",
+            "Energy due to motion"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy is defined as negative of work done by conservative force."
+    },
+    {
+        "id": 203,
+        "question": "A body slides down an inclined plane with friction. The work done by friction is converted into:",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Heat energy",
+            "Mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Friction dissipates mechanical energy as heat."
+    },
+    {
+        "id": 204,
+        "question": "The power required to keep a body moving with constant velocity on a rough surface is:",
+        "options": [
+            "Zero",
+            "Increasing",
+            "Decreasing",
+            "Constant"
+        ],
+        "answer": 3,
+        "explanation": "At constant velocity, force equals friction and power = Fv remains constant."
+    },
+    {
+        "id": 205,
+        "question": "The work-energy theorem states that the net work done by all forces equals change in:",
+        "options": [
+            "Momentum",
+            "Potential energy",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Net work done equals change in kinetic energy."
+    },
+    {
+        "id": 206,
+        "question": "The mechanical energy of a system is conserved when:",
+        "options": [
+            "Friction acts",
+            "Only conservative forces act",
+            "External force acts",
+            "Velocity is zero"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy is conserved in presence of only conservative forces."
+    },
+    {
+        "id": 207,
+        "question": "The potential energy of a stretched spring depends on:",
+        "options": [
+            "Velocity",
+            "Path",
+            "Extension",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Elastic potential energy depends only on extension."
+    },
+    {
+        "id": 208,
+        "question": "A body moves in a vertical circle. The work done by gravity in one complete revolution is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 209,
+        "question": "Which quantity is always non-negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Kinetic energy",
+            "Potential energy"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy cannot be negative."
+    },
+    {
+        "id": 210,
+        "question": "A body moving under gravity alone has its mechanical energy:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "In absence of air resistance, mechanical energy is conserved."
+    },
+    {
+        "id": 211,
+        "question": "The work done by normal reaction on a body moving on a smooth curved surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 212,
+        "question": "The slope of work versus displacement graph gives:",
+        "options": [
+            "Power",
+            "Force",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Slope of W–x graph equals force."
+    },
+    {
+        "id": 213,
+        "question": "A body of mass m moving with velocity v has kinetic energy proportional to:",
+        "options": [
+            "v",
+            "v²",
+            "1/v",
+            "v³"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 214,
+        "question": "The work done by a force acting opposite to displacement is:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Opposite directions give negative work."
+    },
+    {
+        "id": 215,
+        "question": "Which of the following is not a conservative force?",
+        "options": [
+            "Gravitational force",
+            "Electrostatic force",
+            "Spring force",
+            "Air resistance"
+        ],
+        "answer": 3,
+        "explanation": "Air resistance is non-conservative."
+    },
+    {
+        "id": 216,
+        "question": "The efficiency of an ideal machine is:",
+        "options": [
+            "Less than 1",
+            "Greater than 1",
+            "Equal to 1",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Ideal machine has no energy loss."
+    },
+    {
+        "id": 217,
+        "question": "The instantaneous power delivered by a force is maximum when:",
+        "options": [
+            "Force is zero",
+            "Velocity is zero",
+            "Force is parallel to velocity",
+            "Force is perpendicular to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Power = Fv cosθ is maximum for θ = 0."
+    },
+    {
+        "id": 218,
+        "question": "A body slides down a rough incline. The loss of mechanical energy equals:",
+        "options": [
+            "Work done by gravity",
+            "Work done by normal reaction",
+            "Work done by friction",
+            "Change in potential energy"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy lost equals work done by friction."
+    },
+    {
+        "id": 219,
+        "question": "The unit of energy in SI system is:",
+        "options": [
+            "Watt",
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": 1,
+        "explanation": "SI unit of energy is joule."
+    },
+    {
+        "id": 220,
+        "question": "A body moving in uniform circular motion has:",
+        "options": [
+            "Constant speed",
+            "Constant velocity",
+            "Zero acceleration",
+            "Changing kinetic energy"
+        ],
+        "answer": 0,
+        "explanation": "Speed remains constant in uniform circular motion."
+    },
+    {
+        "id": 221,
+        "question": "The work done by gravity on a freely falling body of mass m through height h is:",
+        "options": [
+            "mgh",
+            "-mgh",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 0,
+        "explanation": "Force and displacement are in same direction."
+    },
+    {
+        "id": 222,
+        "question": "Which quantity is conserved in all collisions?",
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in all collisions."
+    },
+    {
+        "id": 223,
+        "question": "The potential energy of a body can be negative because:",
+        "options": [
+            "Energy is vector",
+            "Reference level is arbitrary",
+            "Force is conservative",
+            "Work is negative"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy depends on chosen reference level."
+    },
+    {
+        "id": 224,
+        "question": "A body moves with constant speed on a straight road. The net power acting on it is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed implies zero net force."
+    },
+    {
+        "id": 225,
+        "question": "The work done by friction is path dependent because friction is:",
+        "options": [
+            "Conservative",
+            "Central",
+            "Non-conservative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Non-conservative forces do path-dependent work."
+    },
+    {
+        "id": 226,
+        "question": "The kinetic energy of a particle depends on:",
+        "options": [
+            "Position",
+            "Direction of motion",
+            "Speed",
+            "Path followed"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on speed."
+    },
+    {
+        "id": 227,
+        "question": "Which of the following quantities can be zero even when force acts?",
+        "options": [
+            "Acceleration",
+            "Momentum",
+            "Work done",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "If force is perpendicular to displacement, work done is zero."
+    },
+    {
+        "id": 228,
+        "question": "The work done by centripetal force in circular motion is zero because:",
+        "options": [
+            "Force is zero",
+            "Displacement is zero",
+            "Force is perpendicular to velocity",
+            "Speed is constant"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is perpendicular to displacement."
+    },
+    {
+        "id": 229,
+        "question": "The SI unit of power is equivalent to:",
+        "options": [
+            "N m",
+            "J s",
+            "J s⁻¹",
+            "N s"
+        ],
+        "answer": 2,
+        "explanation": "Power equals joule per second."
+    },
+    {
+        "id": 230,
+        "question": "A body thrown vertically upward returns to the same point. The net work done by gravity is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 231,
+        "question": "Which of the following graphs gives work done directly?",
+        "options": [
+            "Force vs displacement",
+            "Velocity vs time",
+            "Acceleration vs time",
+            "Force vs time"
+        ],
+        "answer": 0,
+        "explanation": "Area under F–x graph gives work."
+    },
+    {
+        "id": 232,
+        "question": "A system has constant mechanical energy. Which force may be acting?",
+        "options": [
+            "Friction",
+            "Air resistance",
+            "Gravitational force",
+            "Viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 233,
+        "question": "The kinetic energy of a body becomes half when its speed becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "1/√2 times",
+            "√2 times"
+        ],
+        "answer": 2,
+        "explanation": "KE proportional to v²."
+    },
+    {
+        "id": 234,
+        "question": "The work done by an applied force in lifting a body at constant speed is equal to:",
+        "options": [
+            "Change in KE",
+            "Change in PE",
+            "Zero",
+            "Loss of energy"
+        ],
+        "answer": 1,
+        "explanation": "Work equals gain in gravitational potential energy."
+    },
+    {
+        "id": 235,
+        "question": "Which of the following quantities has same dimensions as work?",
+        "options": [
+            "Torque",
+            "Pressure",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 0,
+        "explanation": "Torque and work have same dimensions."
+    },
+    {
+        "id": 236,
+        "question": "The mechanical energy of a pendulum in ideal conditions is:",
+        "options": [
+            "Maximum at mean position",
+            "Minimum at extreme positions",
+            "Constant at all positions",
+            "Zero at extremes"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy remains constant in ideal SHM."
+    },
+    {
+        "id": 237,
+        "question": "The power delivered by a force depends on:",
+        "options": [
+            "Force only",
+            "Velocity only",
+            "Angle between force and velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power = Fv cosθ."
+    },
+    {
+        "id": 238,
+        "question": "Which quantity cannot be negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Potential energy",
+            "Kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy is always non-negative."
+    },
+    {
+        "id": 239,
+        "question": "The slope of power versus time graph gives:",
+        "options": [
+            "Work",
+            "Energy",
+            "Rate of change of power",
+            "Force"
+        ],
+        "answer": 2,
+        "explanation": "Slope of P–t graph gives rate of change of power."
+    },
+    {
+        "id": 240,
+        "question": "The unit of power in CGS system is:",
+        "options": [
+            "erg",
+            "dyne",
+            "erg s⁻¹",
+            "watt"
+        ],
+        "answer": 2,
+        "explanation": "CGS unit of power is erg per second."
+    },
+    {
+        "id": 241,
+        "question": "A body of mass m moves with velocity v. Its kinetic energy is:",
+        "options": [
+            "mv²",
+            "2mv²",
+            "½mv²",
+            "mv"
+        ],
+        "answer": 2,
+        "explanation": "Definition of kinetic energy."
+    },
+    {
+        "id": 242,
+        "question": "Which statement is correct regarding conservative forces?",
+        "options": [
+            "Work depends on path",
+            "Potential energy is undefined",
+            "Work over closed path is zero",
+            "Energy is dissipated"
+        ],
+        "answer": 2,
+        "explanation": "Closed path work is zero for conservative forces."
+    },
+    {
+        "id": 243,
+        "question": "The work done by air drag on a moving body is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Air drag opposes motion."
+    },
+    {
+        "id": 244,
+        "question": "A body is lifted vertically upward. Which quantity definitely increases?",
+        "options": [
+            "Speed",
+            "Kinetic energy",
+            "Potential energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Height increases, so potential energy increases."
+    },
+    {
+        "id": 245,
+        "question": "The rate of change of kinetic energy with time is equal to:",
+        "options": [
+            "Force",
+            "Power",
+            "Momentum",
+            "Work"
+        ],
+        "answer": 1,
+        "explanation": "Rate of change of energy is power."
+    },
+    {
+        "id": 246,
+        "question": "Which of the following quantities is scalar?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Velocity",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is a scalar quantity."
+    },
+    {
+        "id": 247,
+        "question": "The work done by a force does not depend on:",
+        "options": [
+            "Magnitude of force",
+            "Displacement",
+            "Angle between force and displacement",
+            "Mass of body"
+        ],
+        "answer": 3,
+        "explanation": "Work is independent of mass."
+    },
+    {
+        "id": 248,
+        "question": "Which of the following represents conservation of energy?",
+        "options": [
+            "Energy remains constant",
+            "Energy can be destroyed",
+            "Energy can be created",
+            "Energy is vector"
+        ],
+        "answer": 0,
+        "explanation": "Law of conservation of energy."
+    },
+    {
+        "id": 249,
+        "question": "The kinetic energy of a particle expressed in terms of momentum p is:",
+        "options": [
+            "p/2m",
+            "p²/2m",
+            "2p/m",
+            "pm"
+        ],
+        "answer": 1,
+        "explanation": "KE = p²/2m."
+    },
+    {
+        "id": 250,
+        "question": "The quantity that represents the capacity to do work is called:",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Energy is defined as capacity to do work."
+    },
+    {
+        "id": 251,
+        "question": "A body of mass m is moving with velocity v. The minimum work required to stop it is:",
+        "options": [
+            "\\(\\frac{1}{2}mv^2\\)",
+            "\\(-\\frac{1}{2}mv^2\\)",
+            "\\(mv^2\\)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "To stop the body, work equal to negative of its initial kinetic energy must be done."
+    },
+    {
+        "id": 252,
+        "question": "The work done by gravitational force on a body moving horizontally on Earth’s surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Displacement is horizontal while gravitational force acts vertically downward."
+    },
+    {
+        "id": 253,
+        "question": "The mechanical energy of a freely falling body decreases when:",
+        "options": [
+            "Only gravity acts",
+            "Air resistance acts",
+            "Velocity increases",
+            "Height decreases"
+        ],
+        "answer": 1,
+        "explanation": "Air resistance is non-conservative and dissipates mechanical energy."
+    },
+    {
+        "id": 254,
+        "question": "A spring of force constant k is compressed by x. The work done by spring force is:",
+        "options": [
+            "\\(\\frac{1}{2}kx^2\\)",
+            "\\(-\\frac{1}{2}kx^2\\)",
+            "\\(kx^2\\)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Spring force opposes compression, so work done by spring is negative."
+    },
+    {
+        "id": 255,
+        "question": "The kinetic energy of a particle becomes one-fourth of its initial value when its speed becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "One-fourth",
+            "\\(1/\\sqrt{2}\\)"
+        ],
+        "answer": 0,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 256,
+        "question": "Which quantity is transferred when work is done?",
+        "options": [
+            "Mass",
+            "Force",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Work represents transfer of energy."
+    },
+    {
+        "id": 257,
+        "question": "The work done by a force acting on a particle moving in a closed circular path is zero if the force is:",
+        "options": [
+            "Tangential",
+            "Radial",
+            "Constant",
+            "Variable"
+        ],
+        "answer": 1,
+        "explanation": "Radial force is perpendicular to displacement in circular motion."
+    },
+    {
+        "id": 258,
+        "question": "The potential energy of a body at height h above ground is mgh. The reference level is:",
+        "options": [
+            "Centre of Earth",
+            "Ground",
+            "Infinity",
+            "Arbitrary"
+        ],
+        "answer": 1,
+        "explanation": "mgh is measured relative to the chosen ground level."
+    },
+    {
+        "id": 259,
+        "question": "The net work done on a particle moving with constant speed in a straight line is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed implies no change in kinetic energy."
+    },
+    {
+        "id": 260,
+        "question": "The unit of torque and work are same because both have dimensions:",
+        "options": [
+            "\\(MLT^{-2}\\)",
+            "\\(ML^2T^{-2}\\)",
+            "\\(ML^2T^{-3}\\)",
+            "\\(MLT^{-1}\\)"
+        ],
+        "answer": 1,
+        "explanation": "Both torque and work have dimensions of force × distance."
+    },
+    {
+        "id": 261,
+        "question": "A body is moving with constant velocity. Which of the following quantities must be zero?",
+        "options": [
+            "Force",
+            "Power",
+            "Work",
+            "Momentum"
+        ],
+        "answer": 0,
+        "explanation": "Constant velocity implies zero net force."
+    },
+    {
+        "id": 262,
+        "question": "The work done by friction on a block sliding on a rough surface depends on:",
+        "options": [
+            "Path length",
+            "Initial speed",
+            "Time taken",
+            "Mass only"
+        ],
+        "answer": 0,
+        "explanation": "Work by friction depends on distance covered."
+    },
+    {
+        "id": 263,
+        "question": "The kinetic energy of a particle depends on:",
+        "options": [
+            "Velocity vector",
+            "Speed only",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on magnitude of velocity."
+    },
+    {
+        "id": 264,
+        "question": "Which of the following is true for conservative forces?",
+        "options": [
+            "Work depends on path",
+            "Potential energy can be defined",
+            "Energy is dissipated",
+            "Work is always positive"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy is associated with conservative forces."
+    },
+    {
+        "id": 265,
+        "question": "A body slides down a smooth inclined plane. Which quantity remains constant?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Mechanical energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "In absence of friction, mechanical energy is conserved."
+    },
+    {
+        "id": 266,
+        "question": "The rate of change of work with respect to displacement gives:",
+        "options": [
+            "Power",
+            "Force",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "dW/dx equals force."
+    },
+    {
+        "id": 267,
+        "question": "Which of the following quantities can be negative depending on reference frame?",
+        "options": [
+            "Kinetic energy",
+            "Momentum",
+            "Potential energy",
+            "Mass"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy depends on reference level."
+    },
+    {
+        "id": 268,
+        "question": "The work done by a force is maximum when the angle between force and displacement is:",
+        "options": [
+            "90°",
+            "45°",
+            "0°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "Maximum work occurs when force and displacement are parallel."
+    },
+    {
+        "id": 269,
+        "question": "The power delivered by a force is zero when:",
+        "options": [
+            "Force is zero",
+            "Velocity is zero",
+            "Force is perpendicular to velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power equals dot product of force and velocity."
+    },
+    {
+        "id": 270,
+        "question": "Which quantity is conserved when only internal forces act on a system?",
+        "options": [
+            "Mechanical energy",
+            "Kinetic energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum of a system is conserved if no external force acts."
+    },
+    {
+        "id": 271,
+        "question": "The work done by gravity on a projectile during its complete flight is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on angle"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 272,
+        "question": "The mechanical energy of a system decreases due to:",
+        "options": [
+            "Gravity",
+            "Spring force",
+            "Friction",
+            "Electrostatic force"
+        ],
+        "answer": 2,
+        "explanation": "Friction dissipates mechanical energy."
+    },
+    {
+        "id": 273,
+        "question": "The work done by a constant force F on a body displaced by s at angle θ is:",
+        "options": [
+            "Fs",
+            "Fs sinθ",
+            "Fs cosθ",
+            "F/s"
+        ],
+        "answer": 2,
+        "explanation": "Work equals dot product of force and displacement."
+    },
+    {
+        "id": 274,
+        "question": "The kinetic energy of a body is doubled. Its speed becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "\\(\\sqrt{2}\\) times",
+            "Four times"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 275,
+        "question": "The unit of power in SI system is equivalent to:",
+        "options": [
+            "J",
+            "N m",
+            "J s⁻¹",
+            "kg m² s⁻²"
+        ],
+        "answer": 2,
+        "explanation": "Power is work done per unit time."
+    },
+    {
+        "id": 276,
+        "question": "A body moving in uniform circular motion has constant:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant in uniform circular motion."
+    },
+    {
+        "id": 277,
+        "question": "Which quantity is always conserved in elastic collisions?",
+        "options": [
+            "Momentum",
+            "Kinetic energy",
+            "Mechanical energy",
+            "Both momentum and kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Elastic collisions conserve both momentum and kinetic energy."
+    },
+    {
+        "id": 278,
+        "question": "The work done by normal reaction on a body moving along a smooth surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 279,
+        "question": "The quantity which measures rate of energy transfer is:",
+        "options": [
+            "Work",
+            "Power",
+            "Force",
+            "Momentum"
+        ],
+        "answer": 1,
+        "explanation": "Power is rate of doing work or energy transfer."
+    },
+    {
+        "id": 280,
+        "question": "The kinetic energy of a body expressed in terms of momentum p is:",
+        "options": [
+            "\\(\\frac{p}{2m}\\)",
+            "\\(\\frac{p^2}{2m}\\)",
+            "\\(pm\\)",
+            "\\(2pm\\)"
+        ],
+        "answer": 1,
+        "explanation": "Relation between kinetic energy and momentum."
+    },
+    {
+        "id": 281,
+        "question": "Which of the following is a non-conservative force?",
+        "options": [
+            "Gravitational force",
+            "Electrostatic force",
+            "Spring force",
+            "Friction"
+        ],
+        "answer": 3,
+        "explanation": "Friction is non-conservative."
+    },
+    {
+        "id": 282,
+        "question": "The work done by a force is zero if:",
+        "options": [
+            "Force is large",
+            "Displacement is large",
+            "Force is perpendicular to displacement",
+            "Speed is constant"
+        ],
+        "answer": 2,
+        "explanation": "Dot product of perpendicular vectors is zero."
+    },
+    {
+        "id": 283,
+        "question": "A body has zero kinetic energy. It must be:",
+        "options": [
+            "Moving uniformly",
+            "At rest",
+            "Accelerating",
+            "In circular motion"
+        ],
+        "answer": 1,
+        "explanation": "Zero kinetic energy implies zero speed."
+    },
+    {
+        "id": 284,
+        "question": "The efficiency of a machine is defined as:",
+        "options": [
+            "Input work / output work",
+            "Output work / input work",
+            "Input power / output power",
+            "Energy lost / energy gained"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency equals useful output work divided by input work."
+    },
+    {
+        "id": 285,
+        "question": "The work done by air resistance on a moving body is generally:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 286,
+        "question": "Which of the following quantities is scalar?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Velocity",
+            "Work"
+        ],
+        "answer": 3,
+        "explanation": "Work has magnitude only."
+    },
+    {
+        "id": 287,
+        "question": "The work done by gravity on a satellite moving in circular orbit is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force acts perpendicular to velocity."
+    },
+    {
+        "id": 288,
+        "question": "The slope of a force–displacement graph gives:",
+        "options": [
+            "Work",
+            "Power",
+            "Force constant",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "For linear relation, slope represents force constant."
+    },
+    {
+        "id": 289,
+        "question": "The work done by friction depends on:",
+        "options": [
+            "Speed only",
+            "Path length",
+            "Time only",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Work by friction is proportional to distance covered."
+    },
+    {
+        "id": 290,
+        "question": "A body falls freely from rest. Its kinetic energy at any instant equals:",
+        "options": [
+            "Loss in potential energy",
+            "Gain in potential energy",
+            "Initial kinetic energy",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Loss in potential energy converts into kinetic energy."
+    },
+    {
+        "id": 291,
+        "question": "The mechanical energy of a system is conserved when:",
+        "options": [
+            "Non-conservative forces act",
+            "Only conservative forces act",
+            "Velocity is constant",
+            "Acceleration is zero"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy conservation holds with conservative forces only."
+    },
+    {
+        "id": 292,
+        "question": "Which of the following quantities is not conserved in inelastic collisions?",
+        "options": [
+            "Momentum",
+            "Mechanical energy",
+            "Mass",
+            "Time"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy is not conserved in inelastic collisions."
+    },
+    {
+        "id": 293,
+        "question": "The work done by a force in changing the direction of velocity only is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No change in speed implies no work done."
+    },
+    {
+        "id": 294,
+        "question": "The rate of change of momentum with time is called:",
+        "options": [
+            "Work",
+            "Energy",
+            "Force",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "According to Newton’s second law."
+    },
+    {
+        "id": 295,
+        "question": "Which quantity represents ability to do work?",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Energy is capacity to do work."
+    },
+    {
+        "id": 296,
+        "question": "The work done by a variable force can be calculated using:",
+        "options": [
+            "Slope of F–x graph",
+            "Area under F–x graph",
+            "Area under v–t graph",
+            "Slope of x–t graph"
+        ],
+        "answer": 1,
+        "explanation": "Work equals area under force–displacement graph."
+    },
+    {
+        "id": 297,
+        "question": "A particle is acted upon by a force perpendicular to its velocity. The kinetic energy of the particle:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Perpendicular force does no work."
+    },
+    {
+        "id": 298,
+        "question": "The unit of energy in CGS system is:",
+        "options": [
+            "Joule",
+            "Watt",
+            "Erg",
+            "Dyne"
+        ],
+        "answer": 2,
+        "explanation": "CGS unit of energy is erg."
+    },
+    {
+        "id": 299,
+        "question": "The quantity equal to work done per unit time is:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Definition of power."
+    },
+    {
+        "id": 300,
+        "question": "Which statement is correct according to law of conservation of energy?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is always mechanical"
+        ],
+        "answer": 2,
+        "explanation": "Energy can neither be created nor destroyed, only transformed."
+    },
+    {
+        "id": 301,
+        "question": "A body of mass m is moving with speed v on a horizontal rough surface. The work done by friction in stopping the body is:",
+        "options": [
+            "\\(\\frac{1}{2}mv^2\\)",
+            "\\(-\\frac{1}{2}mv^2\\)",
+            "\\(mv^2\\)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Work done by friction equals negative of initial kinetic energy."
+    },
+    {
+        "id": 302,
+        "question": "Which of the following quantities is independent of the choice of reference frame?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Mechanical energy",
+            "Momentum"
+        ],
+        "answer": 3,
+        "explanation": "Momentum conservation does not depend on inertial reference frame choice."
+    },
+    {
+        "id": 303,
+        "question": "The work done by a constant force on a body depends on:",
+        "options": [
+            "Magnitude of force",
+            "Displacement",
+            "Angle between force and displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work is given by \\(W = Fs\\cos\\theta\\)."
+    },
+    {
+        "id": 304,
+        "question": "A particle moves in a vertical circle. The net work done by gravity in half a revolution is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; work depends only on initial and final positions."
+    },
+    {
+        "id": 305,
+        "question": "The kinetic energy of a body becomes nine times when its speed becomes:",
+        "options": [
+            "Three times",
+            "Nine times",
+            "One-third",
+            "Square root of nine"
+        ],
+        "answer": 0,
+        "explanation": "Kinetic energy is proportional to square of speed."
+    },
+    {
+        "id": 306,
+        "question": "Which of the following quantities is always conserved in a system of particles?",
+        "options": [
+            "Mechanical energy",
+            "Kinetic energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved in absence of external forces."
+    },
+    {
+        "id": 307,
+        "question": "The work done by a force is zero if the body undergoes:",
+        "options": [
+            "Change in speed only",
+            "Change in direction only",
+            "Change in kinetic energy",
+            "Change in potential energy"
+        ],
+        "answer": 1,
+        "explanation": "Perpendicular force changes direction without doing work."
+    },
+    {
+        "id": 308,
+        "question": "A spring is stretched slowly. The work done by the spring force is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Spring force opposes stretching, so work done by spring is negative."
+    },
+    {
+        "id": 309,
+        "question": "The work done by gravity on a body moving upward is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 1,
+        "explanation": "Force of gravity acts opposite to displacement."
+    },
+    {
+        "id": 310,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Work is a vector",
+            "Power is a vector",
+            "Energy is a scalar",
+            "Force and energy are same"
+        ],
+        "answer": 2,
+        "explanation": "Energy has magnitude only."
+    },
+    {
+        "id": 311,
+        "question": "The work done by normal reaction on a body moving along a circular track is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 312,
+        "question": "The slope of potential energy versus displacement graph gives:",
+        "options": [
+            "Force",
+            "Power",
+            "Work",
+            "Momentum"
+        ],
+        "answer": 0,
+        "explanation": "Force equals negative gradient of potential energy."
+    },
+    {
+        "id": 313,
+        "question": "The mechanical energy of a body is sum of:",
+        "options": [
+            "Heat and work",
+            "Kinetic and potential energy",
+            "Force and displacement",
+            "Power and time"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy is KE + PE."
+    },
+    {
+        "id": 314,
+        "question": "A body moves with uniform velocity. The net work done on it in time t is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Uniform velocity implies no change in kinetic energy."
+    },
+    {
+        "id": 315,
+        "question": "The work done by a variable force can be calculated by:",
+        "options": [
+            "Fs",
+            "Area under F–x graph",
+            "Slope of F–x graph",
+            "Area under v–t graph"
+        ],
+        "answer": 1,
+        "explanation": "Work equals area under force–displacement curve."
+    },
+    {
+        "id": 316,
+        "question": "Which of the following quantities depends on reference frame?",
+        "options": [
+            "Momentum",
+            "Mass",
+            "Kinetic energy",
+            "Charge"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on velocity, which is frame dependent."
+    },
+    {
+        "id": 317,
+        "question": "A body slides down a frictionless incline. Which quantity remains unchanged?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Mechanical energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is conserved on frictionless surface."
+    },
+    {
+        "id": 318,
+        "question": "The work done by a force is negative when angle between force and displacement is:",
+        "options": [
+            "0°",
+            "90°",
+            "Acute",
+            "Obtuse"
+        ],
+        "answer": 3,
+        "explanation": "Cosine of obtuse angle is negative."
+    },
+    {
+        "id": 319,
+        "question": "The SI unit of power is equivalent to:",
+        "options": [
+            "N m",
+            "J s",
+            "J s⁻¹",
+            "kg m s⁻²"
+        ],
+        "answer": 2,
+        "explanation": "Power is joule per second."
+    },
+    {
+        "id": 320,
+        "question": "A body in uniform circular motion has constant:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant though direction changes."
+    },
+    {
+        "id": 321,
+        "question": "The work done by gravitational force on a projectile during ascent is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Gravity acts opposite to displacement during ascent."
+    },
+    {
+        "id": 322,
+        "question": "Which of the following quantities cannot be negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Potential energy",
+            "Kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy is always non-negative."
+    },
+    {
+        "id": 323,
+        "question": "The efficiency of a real machine is always:",
+        "options": [
+            "Greater than 1",
+            "Equal to 1",
+            "Less than 1",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Energy losses reduce efficiency."
+    },
+    {
+        "id": 324,
+        "question": "The work done by friction depends on:",
+        "options": [
+            "Time",
+            "Path length",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Work by friction is proportional to distance covered."
+    },
+    {
+        "id": 325,
+        "question": "A body has momentum p. Its kinetic energy is:",
+        "options": [
+            "\\(\\frac{p}{2m}\\)",
+            "\\(\\frac{p^2}{2m}\\)",
+            "\\(pm\\)",
+            "\\(2pm\\)"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy in terms of momentum is \\(p^2/2m\\)."
+    },
+    {
+        "id": 326,
+        "question": "The work done by air resistance on a moving object is generally:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 327,
+        "question": "The rate of change of work with respect to time is called:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Power is rate of doing work."
+    },
+    {
+        "id": 328,
+        "question": "Which of the following is a conservative force?",
+        "options": [
+            "Friction",
+            "Air resistance",
+            "Gravitational force",
+            "Viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 329,
+        "question": "A body is lifted vertically upward at constant speed. The net work done on it is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on height"
+        ],
+        "answer": 2,
+        "explanation": "No change in kinetic energy implies zero net work."
+    },
+    {
+        "id": 330,
+        "question": "The work done by gravity on a body thrown upward and returning to same point is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 331,
+        "question": "The slope of a force–displacement graph gives:",
+        "options": [
+            "Work",
+            "Power",
+            "Force constant",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "For linear spring, slope represents force constant."
+    },
+    {
+        "id": 332,
+        "question": "The work-energy theorem is derived using:",
+        "options": [
+            "Newton’s first law",
+            "Newton’s second law",
+            "Newton’s third law",
+            "Law of gravitation"
+        ],
+        "answer": 1,
+        "explanation": "Work-energy theorem follows from Newton’s second law."
+    },
+    {
+        "id": 333,
+        "question": "Which of the following quantities is scalar?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Acceleration",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is a scalar quantity."
+    },
+    {
+        "id": 334,
+        "question": "The mechanical energy of a pendulum in ideal conditions is:",
+        "options": [
+            "Maximum at mean position",
+            "Minimum at extremes",
+            "Constant at all positions",
+            "Zero at extremes"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy remains constant in absence of losses."
+    },
+    {
+        "id": 335,
+        "question": "The power delivered by a force is zero when:",
+        "options": [
+            "Velocity is zero",
+            "Force is zero",
+            "Force is perpendicular to velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power equals dot product of force and velocity."
+    },
+    {
+        "id": 336,
+        "question": "The unit of energy in CGS system is:",
+        "options": [
+            "Joule",
+            "Watt",
+            "Erg",
+            "Dyne"
+        ],
+        "answer": 2,
+        "explanation": "CGS unit of energy is erg."
+    },
+    {
+        "id": 337,
+        "question": "Which quantity represents capacity to do work?",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Energy is defined as capacity to do work."
+    },
+    {
+        "id": 338,
+        "question": "The work done by centripetal force on a particle in circular motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is perpendicular to displacement."
+    },
+    {
+        "id": 339,
+        "question": "The kinetic energy of a particle becomes zero when its:",
+        "options": [
+            "Acceleration is zero",
+            "Speed is zero",
+            "Momentum is constant",
+            "Displacement is zero"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on speed."
+    },
+    {
+        "id": 340,
+        "question": "The mechanical energy of a system decreases due to:",
+        "options": [
+            "Gravitational force",
+            "Spring force",
+            "Friction",
+            "Electrostatic force"
+        ],
+        "answer": 2,
+        "explanation": "Friction dissipates mechanical energy."
+    },
+    {
+        "id": 341,
+        "question": "The work done by a force is independent of path if the force is:",
+        "options": [
+            "Frictional",
+            "Variable",
+            "Conservative",
+            "Non-conservative"
+        ],
+        "answer": 2,
+        "explanation": "Work by conservative force is path independent."
+    },
+    {
+        "id": 342,
+        "question": "A particle moves under gravity only. Which quantity remains conserved?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 3,
+        "explanation": "Mechanical energy is conserved without air resistance."
+    },
+    {
+        "id": 343,
+        "question": "The work done by friction always results in:",
+        "options": [
+            "Increase in kinetic energy",
+            "Decrease in mechanical energy",
+            "Increase in potential energy",
+            "Zero energy change"
+        ],
+        "answer": 1,
+        "explanation": "Friction converts mechanical energy into heat."
+    },
+    {
+        "id": 344,
+        "question": "The slope of kinetic energy versus velocity squared graph is:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "KE = (1/2)mv²."
+    },
+    {
+        "id": 345,
+        "question": "Which of the following is not a form of mechanical energy?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Elastic energy",
+            "Heat energy"
+        ],
+        "answer": 3,
+        "explanation": "Heat energy is not mechanical energy."
+    },
+    {
+        "id": 346,
+        "question": "The work done by a force depends on:",
+        "options": [
+            "Force",
+            "Displacement",
+            "Angle between force and displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work equals Fs cosθ."
+    },
+    {
+        "id": 347,
+        "question": "A body has constant kinetic energy. Which motion is possible?",
+        "options": [
+            "Straight line motion",
+            "Circular motion",
+            "Accelerated motion",
+            "Both straight and circular motion"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 348,
+        "question": "The rate of change of kinetic energy with time is equal to:",
+        "options": [
+            "Force",
+            "Momentum",
+            "Power",
+            "Work"
+        ],
+        "answer": 2,
+        "explanation": "Rate of change of energy is power."
+    },
+    {
+        "id": 349,
+        "question": "The work done by a force changing only the direction of motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No change in speed implies no work done."
+    },
+    {
+        "id": 350,
+        "question": "Which statement is correct according to law of conservation of energy?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is always kinetic"
+        ],
+        "answer": 2,
+        "explanation": "Energy can neither be created nor destroyed, only transformed."
+    },
+    {
+        "id": 351,
+        "question": "A body of mass m is projected vertically upward with speed v. The total work done by gravity till it returns to the point of projection is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on v"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is a conservative force; net work over a closed path is zero."
+    },
+    {
+        "id": 352,
+        "question": "The kinetic energy of a particle depends on the choice of:",
+        "options": [
+            "Origin",
+            "Path",
+            "Reference frame",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on velocity, which depends on the reference frame."
+    },
+    {
+        "id": 353,
+        "question": "A body slides on a rough horizontal surface and stops. The initial kinetic energy is converted mainly into:",
+        "options": [
+            "Potential energy",
+            "Elastic energy",
+            "Heat",
+            "Mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Friction converts kinetic energy into heat."
+    },
+    {
+        "id": 354,
+        "question": "Which of the following statements is correct for work done by friction?",
+        "options": [
+            "It is always positive",
+            "It is always negative",
+            "It is zero",
+            "It may be positive or negative"
+        ],
+        "answer": 1,
+        "explanation": "Friction generally opposes motion, hence work done is negative."
+    },
+    {
+        "id": 355,
+        "question": "The work done by a force is independent of the path if the force is:",
+        "options": [
+            "Variable",
+            "Non-conservative",
+            "Conservative",
+            "Velocity dependent"
+        ],
+        "answer": 2,
+        "explanation": "Conservative forces do path-independent work."
+    },
+    {
+        "id": 356,
+        "question": "A body moves with constant speed in a circle. The net work done on the body is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant, so kinetic energy does not change."
+    },
+    {
+        "id": 357,
+        "question": "The work done by centripetal force is zero because:",
+        "options": [
+            "Force is zero",
+            "Displacement is zero",
+            "Force is perpendicular to displacement",
+            "Speed is zero"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal force is perpendicular to instantaneous displacement."
+    },
+    {
+        "id": 358,
+        "question": "The potential energy of a spring compressed by x is:",
+        "options": [
+            "kx",
+            "kx²",
+            "½kx²",
+            "½kx"
+        ],
+        "answer": 2,
+        "explanation": "Elastic potential energy stored in a spring is ½kx²."
+    },
+    {
+        "id": 359,
+        "question": "The mechanical energy of a freely falling body (neglecting air resistance) is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Only conservative force acts, so mechanical energy is conserved."
+    },
+    {
+        "id": 360,
+        "question": "The rate of doing work is called:",
+        "options": [
+            "Energy",
+            "Force",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Power is defined as work done per unit time."
+    },
+    {
+        "id": 361,
+        "question": "Which of the following has the same unit as work?",
+        "options": [
+            "Torque",
+            "Momentum",
+            "Power",
+            "Pressure"
+        ],
+        "answer": 0,
+        "explanation": "Torque and work have the same unit but different physical meaning."
+    },
+    {
+        "id": 362,
+        "question": "The work-energy theorem states that net work done equals change in:",
+        "options": [
+            "Momentum",
+            "Potential energy",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Net work done equals change in kinetic energy."
+    },
+    {
+        "id": 363,
+        "question": "The power delivered by a force is zero when:",
+        "options": [
+            "Force is zero",
+            "Velocity is zero",
+            "Force is perpendicular to velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power equals the dot product of force and velocity."
+    },
+    {
+        "id": 364,
+        "question": "The kinetic energy of a particle becomes four times when its speed becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "√2 times"
+        ],
+        "answer": 0,
+        "explanation": "Kinetic energy is proportional to the square of speed."
+    },
+    {
+        "id": 365,
+        "question": "A body is lifted vertically upward at constant speed. The net work done on it is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Equal to mgh"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed implies no change in kinetic energy."
+    },
+    {
+        "id": 366,
+        "question": "The unit of power in SI system is:",
+        "options": [
+            "Joule",
+            "Newton",
+            "Watt",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "The SI unit of power is watt."
+    },
+    {
+        "id": 367,
+        "question": "Which quantity is always non-negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Kinetic energy",
+            "Potential energy"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy is always zero or positive."
+    },
+    {
+        "id": 368,
+        "question": "The work done by gravity depends on:",
+        "options": [
+            "Path followed",
+            "Time taken",
+            "Initial and final positions",
+            "Speed of body"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is a conservative force."
+    },
+    {
+        "id": 369,
+        "question": "A body moving with constant velocity has:",
+        "options": [
+            "Zero kinetic energy",
+            "Constant kinetic energy",
+            "Increasing kinetic energy",
+            "Decreasing kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Speed remains constant, so kinetic energy is constant."
+    },
+    {
+        "id": 370,
+        "question": "Which of the following forces is non-conservative?",
+        "options": [
+            "Gravitational force",
+            "Spring force",
+            "Electrostatic force",
+            "Frictional force"
+        ],
+        "answer": 3,
+        "explanation": "Friction is a non-conservative force."
+    },
+    {
+        "id": 371,
+        "question": "The work done by a force is negative when the angle between force and displacement is:",
+        "options": [
+            "0°",
+            "90°",
+            "Acute",
+            "Obtuse"
+        ],
+        "answer": 3,
+        "explanation": "Cosine of obtuse angle is negative."
+    },
+    {
+        "id": 372,
+        "question": "The kinetic energy of a particle expressed in terms of momentum p is:",
+        "options": [
+            "p/2m",
+            "p²/2m",
+            "pm",
+            "2pm"
+        ],
+        "answer": 1,
+        "explanation": "K = p² / 2m."
+    },
+    {
+        "id": 373,
+        "question": "The efficiency of a machine is defined as:",
+        "options": [
+            "Input work / output work",
+            "Output work / input work",
+            "Input power / output power",
+            "Energy lost / energy gained"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency equals useful output work divided by input work."
+    },
+    {
+        "id": 374,
+        "question": "The work done by air resistance on a moving object is generally:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 375,
+        "question": "A body falls freely from rest. Its kinetic energy at any instant equals:",
+        "options": [
+            "Loss in potential energy",
+            "Gain in potential energy",
+            "Initial kinetic energy",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Loss in potential energy converts into kinetic energy."
+    },
+    {
+        "id": 376,
+        "question": "Which of the following is a scalar quantity?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Velocity",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy has magnitude only."
+    },
+    {
+        "id": 377,
+        "question": "The work done by normal reaction on a body sliding on a smooth surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 378,
+        "question": "The slope of kinetic energy versus velocity squared graph is:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "KE = ½mv²."
+    },
+    {
+        "id": 379,
+        "question": "Which of the following quantities is conserved in absence of external forces?",
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved if no external force acts."
+    },
+    {
+        "id": 380,
+        "question": "The power delivered by a force is maximum when the angle between force and velocity is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 0,
+        "explanation": "Power is maximum when force is parallel to velocity."
+    },
+    {
+        "id": 381,
+        "question": "The unit of energy in CGS system is:",
+        "options": [
+            "Joule",
+            "Erg",
+            "Watt",
+            "Dyne"
+        ],
+        "answer": 1,
+        "explanation": "CGS unit of energy is erg."
+    },
+    {
+        "id": 382,
+        "question": "The work done by gravity on a satellite in circular orbit is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is perpendicular to velocity."
+    },
+    {
+        "id": 383,
+        "question": "The mechanical energy of a pendulum in ideal conditions is:",
+        "options": [
+            "Maximum at mean position",
+            "Minimum at extremes",
+            "Constant at all positions",
+            "Zero at extremes"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy remains constant in ideal conditions."
+    },
+    {
+        "id": 384,
+        "question": "The work done by a force changing only the direction of velocity is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No change in speed implies no work done."
+    },
+    {
+        "id": 385,
+        "question": "Which of the following represents the capacity to do work?",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Energy is defined as capacity to do work."
+    },
+    {
+        "id": 386,
+        "question": "The work done by a force depends on:",
+        "options": [
+            "Force",
+            "Displacement",
+            "Angle between force and displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work equals Fs cosθ."
+    },
+    {
+        "id": 387,
+        "question": "A body has zero kinetic energy. It must be:",
+        "options": [
+            "Moving uniformly",
+            "At rest",
+            "Accelerating",
+            "In circular motion"
+        ],
+        "answer": 1,
+        "explanation": "Zero kinetic energy implies zero speed."
+    },
+    {
+        "id": 388,
+        "question": "The work done by gravity on a body thrown upward and returning to same point is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 389,
+        "question": "Which quantity is the rate of transfer of energy?",
+        "options": [
+            "Work",
+            "Force",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Power is the rate of energy transfer."
+    },
+    {
+        "id": 390,
+        "question": "The work done by friction always results in:",
+        "options": [
+            "Increase in kinetic energy",
+            "Decrease in mechanical energy",
+            "Increase in potential energy",
+            "Zero energy change"
+        ],
+        "answer": 1,
+        "explanation": "Friction dissipates mechanical energy."
+    },
+    {
+        "id": 391,
+        "question": "The kinetic energy of a particle is independent of:",
+        "options": [
+            "Mass",
+            "Speed",
+            "Direction of motion",
+            "Reference frame"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 392,
+        "question": "The slope of a force–displacement graph represents:",
+        "options": [
+            "Work",
+            "Power",
+            "Force constant",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "For a linear spring, slope gives force constant."
+    },
+    {
+        "id": 393,
+        "question": "The work done by gravity on a body depends on:",
+        "options": [
+            "Path",
+            "Time",
+            "Initial and final positions",
+            "Velocity"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative."
+    },
+    {
+        "id": 394,
+        "question": "Which of the following quantities cannot be negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Potential energy",
+            "Kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy is always non-negative."
+    },
+    {
+        "id": 395,
+        "question": "A body moves under gravity only. Which quantity remains conserved?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 3,
+        "explanation": "Mechanical energy is conserved without air resistance."
+    },
+    {
+        "id": 396,
+        "question": "The work-energy theorem is applicable for:",
+        "options": [
+            "Only conservative forces",
+            "Only non-conservative forces",
+            "Only constant forces",
+            "All forces"
+        ],
+        "answer": 3,
+        "explanation": "Work-energy theorem holds for all forces."
+    },
+    {
+        "id": 397,
+        "question": "The power delivered by a force depends on:",
+        "options": [
+            "Force only",
+            "Velocity only",
+            "Angle between force and velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power equals Fv cosθ."
+    },
+    {
+        "id": 398,
+        "question": "Which of the following is not a form of mechanical energy?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Elastic energy",
+            "Heat energy"
+        ],
+        "answer": 3,
+        "explanation": "Heat energy is not mechanical energy."
+    },
+    {
+        "id": 399,
+        "question": "The rate of change of kinetic energy with time is equal to:",
+        "options": [
+            "Force",
+            "Momentum",
+            "Power",
+            "Work"
+        ],
+        "answer": 2,
+        "explanation": "Rate of change of energy is power."
+    },
+    {
+        "id": 400,
+        "question": "Which statement is correct according to the law of conservation of energy?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is always mechanical"
+        ],
+        "answer": 2,
+        "explanation": "Energy can neither be created nor destroyed, only transformed."
+    },
+    {
+        "id": 401,
+        "question": "A body of mass m is moving with speed v. The work done by a retarding force to reduce its speed to v/2 is:",
+        "options": [
+            "\\(-\\frac{3}{8}mv^2\\)",
+            "\\(-\\frac{1}{4}mv^2\\)",
+            "\\(-\\frac{1}{2}mv^2\\)",
+            "\\(-\\frac{3}{4}mv^2\\)"
+        ],
+        "answer": 0,
+        "explanation": "Change in kinetic energy = \\(\\frac{1}{2}m(\\frac{v^2}{4}-v^2) = -\\frac{3}{8}mv^2\\)."
+    },
+    {
+        "id": 402,
+        "question": "The work done by a constant force on a body moving with constant velocity on a rough surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on path"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero net work since kinetic energy does not change."
+    },
+    {
+        "id": 403,
+        "question": "The potential energy of a particle in a conservative force field is defined as the negative of:",
+        "options": [
+            "Work done by the particle",
+            "Work done by the force",
+            "Work done by friction",
+            "Change in kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy is defined as the negative of work done by the conservative force."
+    },
+    {
+        "id": 404,
+        "question": "A particle moves under a force \\(F = ax\\). The work done in moving it from x = 0 to x = x0 is:",
+        "options": [
+            "\\(ax_0\\)",
+            "\\(\\frac{1}{2}ax_0^2\\)",
+            "\\(ax_0^2\\)",
+            "\\(\\frac{1}{3}ax_0^3\\)"
+        ],
+        "answer": 1,
+        "explanation": "Work done = \\(\\int_0^{x_0} ax \\, dx = \\frac{1}{2}ax_0^2\\)."
+    },
+    {
+        "id": 405,
+        "question": "The mechanical energy of a body moving under gravity and air resistance:",
+        "options": [
+            "Remains constant",
+            "Increases",
+            "Decreases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Air resistance is non-conservative and dissipates mechanical energy."
+    },
+    {
+        "id": 406,
+        "question": "Which quantity remains unchanged when only conservative forces act?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Mechanical energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Sum of kinetic and potential energies remains constant."
+    },
+    {
+        "id": 407,
+        "question": "The work done by gravity on a body depends on:",
+        "options": [
+            "Path followed",
+            "Speed of the body",
+            "Initial and final positions",
+            "Time taken"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is a conservative force."
+    },
+    {
+        "id": 408,
+        "question": "A block slides down a smooth incline. The increase in its kinetic energy equals:",
+        "options": [
+            "Work done by normal reaction",
+            "Loss of potential energy",
+            "Work done by friction",
+            "Change in momentum"
+        ],
+        "answer": 1,
+        "explanation": "On smooth surface, loss in potential energy converts to kinetic energy."
+    },
+    {
+        "id": 409,
+        "question": "The instantaneous power delivered by a force \\(\\vec{F}\\) to a particle with velocity \\(\\vec{v}\\) is:",
+        "options": [
+            "\\(Fv\\)",
+            "\\(Fv\\sin\\theta\\)",
+            "\\(\\vec{F}\\cdot\\vec{v}\\)",
+            "\\(\\vec{F}\\times\\vec{v}\\)"
+        ],
+        "answer": 2,
+        "explanation": "Instantaneous power equals the dot product of force and velocity."
+    },
+    {
+        "id": 410,
+        "question": "Which of the following quantities has the same dimensions as work?",
+        "options": [
+            "Torque",
+            "Pressure",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 0,
+        "explanation": "Torque and work have dimensions of force multiplied by distance."
+    },
+    {
+        "id": 411,
+        "question": "A body is lifted vertically upward with constant acceleration. The work done by gravity is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Gravity acts opposite to displacement."
+    },
+    {
+        "id": 412,
+        "question": "The work done by a force is maximum when the angle between force and displacement is:",
+        "options": [
+            "90°",
+            "60°",
+            "45°",
+            "0°"
+        ],
+        "answer": 3,
+        "explanation": "Work = Fs cosθ is maximum for θ = 0°."
+    },
+    {
+        "id": 413,
+        "question": "A particle moves with constant speed along a circular path. Its kinetic energy:",
+        "options": [
+            "Changes continuously",
+            "Is zero",
+            "Remains constant",
+            "Increases uniformly"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant in uniform circular motion."
+    },
+    {
+        "id": 414,
+        "question": "The work-energy theorem relates the net work done to the change in:",
+        "options": [
+            "Momentum",
+            "Potential energy",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Net work done equals change in kinetic energy."
+    },
+    {
+        "id": 415,
+        "question": "The power delivered by a force is negative when:",
+        "options": [
+            "Force and velocity are perpendicular",
+            "Force and velocity are opposite",
+            "Velocity is zero",
+            "Force is zero"
+        ],
+        "answer": 1,
+        "explanation": "Dot product is negative when vectors are opposite."
+    },
+    {
+        "id": 416,
+        "question": "Which of the following quantities is always non-negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Potential energy",
+            "Kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy cannot be negative."
+    },
+    {
+        "id": 417,
+        "question": "A body moves on a horizontal rough surface with constant speed. The work done by friction is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on mass"
+        ],
+        "answer": 1,
+        "explanation": "Friction opposes motion, so work done is negative."
+    },
+    {
+        "id": 418,
+        "question": "The efficiency of a machine is defined as:",
+        "options": [
+            "Input work / output work",
+            "Output work / input work",
+            "Input power / output power",
+            "Energy lost / energy supplied"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency equals useful output work divided by input work."
+    },
+    {
+        "id": 419,
+        "question": "The mechanical energy of a system is minimum at:",
+        "options": [
+            "Stable equilibrium",
+            "Unstable equilibrium",
+            "Neutral equilibrium",
+            "Any position"
+        ],
+        "answer": 0,
+        "explanation": "Stable equilibrium corresponds to minimum potential energy."
+    },
+    {
+        "id": 420,
+        "question": "The work done by a force depends on:",
+        "options": [
+            "Magnitude of force",
+            "Displacement",
+            "Angle between force and displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work equals Fs cosθ."
+    },
+    {
+        "id": 421,
+        "question": "The kinetic energy of a body expressed in terms of momentum p is:",
+        "options": [
+            "\\(\\frac{p}{2m}\\)",
+            "\\(\\frac{p^2}{2m}\\)",
+            "\\(pm\\)",
+            "\\(2pm\\)"
+        ],
+        "answer": 1,
+        "explanation": "Relation between kinetic energy and momentum."
+    },
+    {
+        "id": 422,
+        "question": "The unit of power in CGS system is:",
+        "options": [
+            "Watt",
+            "Erg",
+            "Dyne",
+            "Erg s⁻¹"
+        ],
+        "answer": 3,
+        "explanation": "CGS unit of power is erg per second."
+    },
+    {
+        "id": 423,
+        "question": "The work done by normal reaction on a body moving on a smooth surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 424,
+        "question": "A body is projected vertically upward. At the highest point its:",
+        "options": [
+            "Kinetic energy is maximum",
+            "Potential energy is minimum",
+            "Kinetic energy is zero",
+            "Mechanical energy is zero"
+        ],
+        "answer": 2,
+        "explanation": "Speed becomes zero at the highest point."
+    },
+    {
+        "id": 425,
+        "question": "The rate of change of work with time is called:",
+        "options": [
+            "Force",
+            "Energy",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Power is defined as work done per unit time."
+    },
+    {
+        "id": 426,
+        "question": "The work done by gravity on a satellite in circular orbit is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is perpendicular to velocity."
+    },
+    {
+        "id": 427,
+        "question": "Which of the following is a conservative force?",
+        "options": [
+            "Friction",
+            "Air resistance",
+            "Gravitational force",
+            "Viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 428,
+        "question": "A body moving with constant velocity has:",
+        "options": [
+            "Zero kinetic energy",
+            "Constant kinetic energy",
+            "Increasing kinetic energy",
+            "Decreasing kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Speed remains constant."
+    },
+    {
+        "id": 429,
+        "question": "The work done by friction depends on:",
+        "options": [
+            "Time taken",
+            "Distance covered",
+            "Acceleration",
+            "Velocity only"
+        ],
+        "answer": 1,
+        "explanation": "Work by friction is proportional to path length."
+    },
+    {
+        "id": 430,
+        "question": "The mechanical energy of a pendulum in ideal conditions is:",
+        "options": [
+            "Maximum at mean position",
+            "Minimum at extremes",
+            "Constant at all positions",
+            "Zero at extremes"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is conserved."
+    },
+    {
+        "id": 431,
+        "question": "The power delivered by a force is maximum when the angle between force and velocity is:",
+        "options": [
+            "90°",
+            "60°",
+            "45°",
+            "0°"
+        ],
+        "answer": 3,
+        "explanation": "Power is maximum when force is parallel to velocity."
+    },
+    {
+        "id": 432,
+        "question": "Which of the following quantities cannot be negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Potential energy",
+            "Kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy is always non-negative."
+    },
+    {
+        "id": 433,
+        "question": "The work done by a force changing only the direction of motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No change in speed implies no work done."
+    },
+    {
+        "id": 434,
+        "question": "The slope of kinetic energy versus velocity squared graph represents:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "KE = (1/2)mv^2."
+    },
+    {
+        "id": 435,
+        "question": "Which quantity represents the capacity to do work?",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Energy is defined as capacity to do work."
+    },
+    {
+        "id": 436,
+        "question": "The work done by air resistance on a moving body is generally:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 437,
+        "question": "The SI unit of mechanical energy is:",
+        "options": [
+            "Watt",
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is measured in joule."
+    },
+    {
+        "id": 438,
+        "question": "Which of the following quantities is scalar?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Velocity",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Power is a scalar quantity."
+    },
+    {
+        "id": 439,
+        "question": "The work done by gravity on a body thrown upward and returning to the same point is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over closed path is zero."
+    },
+    {
+        "id": 440,
+        "question": "The rate of transfer of energy is called:",
+        "options": [
+            "Force",
+            "Work",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Power is rate of energy transfer."
+    },
+    {
+        "id": 441,
+        "question": "Which of the following is not a form of mechanical energy?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Elastic energy",
+            "Heat energy"
+        ],
+        "answer": 3,
+        "explanation": "Heat energy is not mechanical energy."
+    },
+    {
+        "id": 442,
+        "question": "The work done by a conservative force over a closed path is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Closed path work is zero for conservative forces."
+    },
+    {
+        "id": 443,
+        "question": "A body moves under gravity only. Which quantity remains conserved?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 3,
+        "explanation": "Mechanical energy is conserved in absence of air resistance."
+    },
+    {
+        "id": 444,
+        "question": "The work-energy theorem is applicable for:",
+        "options": [
+            "Only conservative forces",
+            "Only non-conservative forces",
+            "Only constant forces",
+            "All forces"
+        ],
+        "answer": 3,
+        "explanation": "Work-energy theorem holds for all forces."
+    },
+    {
+        "id": 445,
+        "question": "The power delivered by a force depends on:",
+        "options": [
+            "Force only",
+            "Velocity only",
+            "Angle between force and velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power = Fv cosθ."
+    },
+    {
+        "id": 446,
+        "question": "Which of the following quantities is independent of path?",
+        "options": [
+            "Work by friction",
+            "Work by air drag",
+            "Work by gravity",
+            "Work by viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 447,
+        "question": "The kinetic energy of a particle becomes zero when its:",
+        "options": [
+            "Acceleration is zero",
+            "Speed is zero",
+            "Momentum is constant",
+            "Displacement is zero"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on speed."
+    },
+    {
+        "id": 448,
+        "question": "The slope of force versus displacement graph for a spring represents:",
+        "options": [
+            "Work",
+            "Power",
+            "Force constant",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "Slope gives spring constant."
+    },
+    {
+        "id": 449,
+        "question": "The work done by friction always results in:",
+        "options": [
+            "Increase in kinetic energy",
+            "Decrease in mechanical energy",
+            "Increase in potential energy",
+            "No energy change"
+        ],
+        "answer": 1,
+        "explanation": "Friction converts mechanical energy into heat."
+    },
+    {
+        "id": 450,
+        "question": "Which statement is correct according to the law of conservation of energy?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is always kinetic"
+        ],
+        "answer": 2,
+        "explanation": "Energy can neither be created nor destroyed, only transformed."
+    },
+    {
+        "id": 451,
+        "question": "A particle of mass m moves with speed v. The work required to increase its speed to 2v is:",
+        "options": [
+            "\\(\\frac{1}{2}mv^2\\)",
+            "\\(\\frac{3}{2}mv^2\\)",
+            "\\(2mv^2\\)",
+            "\\(mv^2\\)"
+        ],
+        "answer": 1,
+        "explanation": "Change in kinetic energy = \\(\\frac{1}{2}m(4v^2 - v^2) = \\frac{3}{2}mv^2\\)."
+    },
+    {
+        "id": 452,
+        "question": "The work done by gravity on a body projected horizontally from a height h till it reaches the ground is:",
+        "options": [
+            "Zero",
+            "\\(mgh\\)",
+            "\\(-mgh\\)",
+            "\\(\\frac{1}{2}mgh\\)"
+        ],
+        "answer": 1,
+        "explanation": "Gravity does work equal to loss in gravitational potential energy, which is mgh."
+    },
+    {
+        "id": 453,
+        "question": "The mechanical energy of a system decreases continuously when:",
+        "options": [
+            "Only conservative forces act",
+            "Friction acts",
+            "Velocity is constant",
+            "Net force is zero"
+        ],
+        "answer": 1,
+        "explanation": "Friction is a non-conservative force that dissipates mechanical energy."
+    },
+    {
+        "id": 454,
+        "question": "A block slides on a rough surface and comes to rest. The work done by friction equals:",
+        "options": [
+            "Final kinetic energy",
+            "Initial kinetic energy",
+            "Negative of initial kinetic energy",
+            "Change in potential energy"
+        ],
+        "answer": 2,
+        "explanation": "Work done by friction equals change in kinetic energy, which is negative of initial KE."
+    },
+    {
+        "id": 455,
+        "question": "The work done by a force is zero when:",
+        "options": [
+            "Force is zero",
+            "Displacement is zero",
+            "Force is perpendicular to displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Work = Fs cosθ becomes zero in all these cases."
+    },
+    {
+        "id": 456,
+        "question": "The power delivered by a force of magnitude F to a particle moving with velocity v at an angle θ to the force is:",
+        "options": [
+            "Fv",
+            "Fv sinθ",
+            "Fv cosθ",
+            "F/v"
+        ],
+        "answer": 2,
+        "explanation": "Instantaneous power equals the dot product of force and velocity."
+    },
+    {
+        "id": 457,
+        "question": "A body of mass m falls freely from rest. After falling through a height h, its kinetic energy is:",
+        "options": [
+            "mgh",
+            "\\(\\frac{1}{2}mgh\\)",
+            "2mgh",
+            "Depends on time"
+        ],
+        "answer": 0,
+        "explanation": "Loss in gravitational potential energy mgh converts into kinetic energy."
+    },
+    {
+        "id": 458,
+        "question": "The work done by a conservative force around a closed loop is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Work done over a closed path by a conservative force is zero."
+    },
+    {
+        "id": 459,
+        "question": "The unit of energy in CGS system is:",
+        "options": [
+            "Joule",
+            "Watt",
+            "Erg",
+            "Dyne"
+        ],
+        "answer": 2,
+        "explanation": "In CGS system, energy is measured in erg."
+    },
+    {
+        "id": 460,
+        "question": "The work-energy theorem is derived using:",
+        "options": [
+            "Newton’s first law",
+            "Newton’s second law",
+            "Newton’s third law",
+            "Law of gravitation"
+        ],
+        "answer": 1,
+        "explanation": "Work-energy theorem follows directly from Newton’s second law."
+    },
+    {
+        "id": 461,
+        "question": "A body is lifted vertically upward with uniform speed. The work done by the lifting force equals:",
+        "options": [
+            "Zero",
+            "Change in kinetic energy",
+            "Change in potential energy",
+            "Negative of mgh"
+        ],
+        "answer": 2,
+        "explanation": "Work done by lifting force equals gain in gravitational potential energy."
+    },
+    {
+        "id": 462,
+        "question": "Which of the following quantities can be negative?",
+        "options": [
+            "Mass",
+            "Speed",
+            "Kinetic energy",
+            "Work"
+        ],
+        "answer": 3,
+        "explanation": "Work can be negative if force opposes displacement."
+    },
+    {
+        "id": 463,
+        "question": "The kinetic energy of a particle is independent of:",
+        "options": [
+            "Mass",
+            "Speed",
+            "Direction of motion",
+            "Reference frame"
+        ],
+        "answer": 2,
+        "explanation": "Kinetic energy depends on speed, not direction."
+    },
+    {
+        "id": 464,
+        "question": "The power delivered by a force is maximum when the angle between force and velocity is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 0,
+        "explanation": "Power is maximum when force and velocity are parallel."
+    },
+    {
+        "id": 465,
+        "question": "The mechanical energy of a pendulum in ideal conditions is:",
+        "options": [
+            "Maximum at mean position",
+            "Minimum at extremes",
+            "Constant at all positions",
+            "Zero at extremes"
+        ],
+        "answer": 2,
+        "explanation": "In absence of losses, mechanical energy remains constant."
+    },
+    {
+        "id": 466,
+        "question": "The work done by gravity on a satellite in a circular orbit is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is perpendicular to velocity in circular orbit."
+    },
+    {
+        "id": 467,
+        "question": "The quantity that represents the rate of doing work is:",
+        "options": [
+            "Energy",
+            "Force",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Power is defined as work done per unit time."
+    },
+    {
+        "id": 468,
+        "question": "Which of the following is a non-conservative force?",
+        "options": [
+            "Gravitational force",
+            "Spring force",
+            "Electrostatic force",
+            "Friction"
+        ],
+        "answer": 3,
+        "explanation": "Friction is a non-conservative force."
+    },
+    {
+        "id": 469,
+        "question": "The slope of kinetic energy versus velocity squared graph is:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "From KE = (1/2)mv², slope equals m/2."
+    },
+    {
+        "id": 470,
+        "question": "A particle moves with constant speed in a straight line. The net work done on it is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No change in kinetic energy implies zero net work."
+    },
+    {
+        "id": 471,
+        "question": "The unit of power in SI system is equivalent to:",
+        "options": [
+            "Joule",
+            "Newton",
+            "J s⁻¹",
+            "kg m² s⁻²"
+        ],
+        "answer": 2,
+        "explanation": "Power is measured in joule per second."
+    },
+    {
+        "id": 472,
+        "question": "The work done by normal reaction on a body moving along a smooth surface is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Normal reaction is perpendicular to displacement."
+    },
+    {
+        "id": 473,
+        "question": "Which of the following quantities is always conserved in elastic collisions?",
+        "options": [
+            "Momentum only",
+            "Kinetic energy only",
+            "Both momentum and kinetic energy",
+            "Mechanical energy only"
+        ],
+        "answer": 2,
+        "explanation": "In elastic collisions, both momentum and kinetic energy are conserved."
+    },
+    {
+        "id": 474,
+        "question": "The work done by friction depends on:",
+        "options": [
+            "Time taken",
+            "Path length",
+            "Velocity only",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Work done by friction is proportional to distance covered."
+    },
+    {
+        "id": 475,
+        "question": "The potential energy of a body depends on:",
+        "options": [
+            "Speed",
+            "Path",
+            "Reference level",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy is defined relative to a chosen reference level."
+    },
+    {
+        "id": 476,
+        "question": "The mechanical energy of a system is conserved when:",
+        "options": [
+            "Friction acts",
+            "Only conservative forces act",
+            "Velocity is constant",
+            "Acceleration is zero"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical energy is conserved in presence of only conservative forces."
+    },
+    {
+        "id": 477,
+        "question": "The kinetic energy of a body becomes half when its speed becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "1/√2 times",
+            "√2 times"
+        ],
+        "answer": 2,
+        "explanation": "Since KE ∝ v², halving KE requires speed to be 1/√2 times."
+    },
+    {
+        "id": 478,
+        "question": "Which of the following quantities cannot be negative?",
+        "options": [
+            "Work",
+            "Power",
+            "Potential energy",
+            "Kinetic energy"
+        ],
+        "answer": 3,
+        "explanation": "Kinetic energy is always non-negative."
+    },
+    {
+        "id": 479,
+        "question": "The work done by gravity on a body thrown upward and returning to the same point is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on speed"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative, so net work over a closed path is zero."
+    },
+    {
+        "id": 480,
+        "question": "The rate of transfer of energy is called:",
+        "options": [
+            "Force",
+            "Work",
+            "Power",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Power is the rate of energy transfer."
+    },
+    {
+        "id": 481,
+        "question": "Which of the following is not a form of mechanical energy?",
+        "options": [
+            "Kinetic energy",
+            "Potential energy",
+            "Elastic energy",
+            "Heat energy"
+        ],
+        "answer": 3,
+        "explanation": "Heat energy is not classified as mechanical energy."
+    },
+    {
+        "id": 482,
+        "question": "The work done by a force changing only the direction of motion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No change in speed implies no work done."
+    },
+    {
+        "id": 483,
+        "question": "The slope of force versus displacement graph for a spring gives:",
+        "options": [
+            "Work",
+            "Power",
+            "Spring constant",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "Slope represents the force constant of the spring."
+    },
+    {
+        "id": 484,
+        "question": "Which quantity represents the capacity to do work?",
+        "options": [
+            "Force",
+            "Power",
+            "Energy",
+            "Momentum"
+        ],
+        "answer": 2,
+        "explanation": "Energy is defined as the capacity to do work."
+    },
+    {
+        "id": 485,
+        "question": "The work done by air resistance on a moving object is generally:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Air resistance opposes motion."
+    },
+    {
+        "id": 486,
+        "question": "The SI unit of mechanical energy is:",
+        "options": [
+            "Watt",
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical energy is measured in joule."
+    },
+    {
+        "id": 487,
+        "question": "Which of the following quantities is scalar?",
+        "options": [
+            "Force",
+            "Momentum",
+            "Velocity",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Power is a scalar quantity."
+    },
+    {
+        "id": 488,
+        "question": "The work done by a conservative force over a closed path is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Closed-path work is zero for conservative forces."
+    },
+    {
+        "id": 489,
+        "question": "A body moves under gravity only. Which quantity remains conserved?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Kinetic energy",
+            "Mechanical energy"
+        ],
+        "answer": 3,
+        "explanation": "Mechanical energy is conserved without air resistance."
+    },
+    {
+        "id": 490,
+        "question": "The work-energy theorem is applicable for:",
+        "options": [
+            "Only conservative forces",
+            "Only non-conservative forces",
+            "Only constant forces",
+            "All forces"
+        ],
+        "answer": 3,
+        "explanation": "Work-energy theorem holds for all types of forces."
+    },
+    {
+        "id": 491,
+        "question": "The power delivered by a force depends on:",
+        "options": [
+            "Force only",
+            "Velocity only",
+            "Angle between force and velocity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Power equals Fv cosθ."
+    },
+    {
+        "id": 492,
+        "question": "Which of the following quantities is independent of path?",
+        "options": [
+            "Work by friction",
+            "Work by air drag",
+            "Work by gravity",
+            "Work by viscous force"
+        ],
+        "answer": 2,
+        "explanation": "Gravitational force is conservative."
+    },
+    {
+        "id": 493,
+        "question": "The kinetic energy of a particle becomes zero when its:",
+        "options": [
+            "Acceleration is zero",
+            "Speed is zero",
+            "Momentum is constant",
+            "Displacement is zero"
+        ],
+        "answer": 1,
+        "explanation": "Kinetic energy depends on speed."
+    },
+    {
+        "id": 494,
+        "question": "The work done by friction always results in:",
+        "options": [
+            "Increase in kinetic energy",
+            "Decrease in mechanical energy",
+            "Increase in potential energy",
+            "No energy change"
+        ],
+        "answer": 1,
+        "explanation": "Friction converts mechanical energy into heat."
+    },
+    {
+        "id": 495,
+        "question": "The slope of kinetic energy versus velocity squared graph represents:",
+        "options": [
+            "m",
+            "2m",
+            "m/2",
+            "1/m"
+        ],
+        "answer": 2,
+        "explanation": "From KE = (1/2)mv², slope equals m/2."
+    },
+    {
+        "id": 496,
+        "question": "Which of the following is always conserved in absence of external forces?",
+        "options": [
+            "Kinetic energy",
+            "Mechanical energy",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "Momentum is conserved when no external force acts."
+    },
+    {
+        "id": 497,
+        "question": "The work done by gravity on a projectile during its complete flight is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Depends on angle"
+        ],
+        "answer": 2,
+        "explanation": "Gravity is conservative; net work over complete flight is zero."
+    },
+    {
+        "id": 498,
+        "question": "The rate of change of kinetic energy with time is equal to:",
+        "options": [
+            "Force",
+            "Momentum",
+            "Power",
+            "Work"
+        ],
+        "answer": 2,
+        "explanation": "Rate of change of energy is power."
+    },
+    {
+        "id": 499,
+        "question": "Which statement is correct according to the law of conservation of energy?",
+        "options": [
+            "Energy can be created",
+            "Energy can be destroyed",
+            "Energy can be transformed",
+            "Energy is always kinetic"
+        ],
+        "answer": 2,
+        "explanation": "Energy can neither be created nor destroyed, only transformed."
+    },
+    {
+        "id": 500,
+        "question": "The quantity that represents energy transfer per unit time is:",
+        "options": [
+            "Work",
+            "Force",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 3,
+        "explanation": "Power is defined as energy transferred per unit time."
+    }
+]

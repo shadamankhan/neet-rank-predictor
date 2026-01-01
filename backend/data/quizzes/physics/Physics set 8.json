@@ -1,0 +1,590 @@
+[
+    {
+        "id": 1,
+        "question": "A body is projected horizontally from the top of a tower with speed 10 m/s. If the height of the tower is 20 m (g = 10 m/s^2), the time taken to reach the ground is:",
+        "options": [
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s"
+        ],
+        "answer": 1,
+        "explanation": "Time depends only on vertical motion: h = (1/2)gt^2 ⇒ 20 = 5t^2 ⇒ t = 2 s."
+    },
+    {
+        "id": 2,
+        "question": "The range of a projectile is maximum when the angle of projection is:",
+        "options": [
+            "30°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "answer": 1,
+        "explanation": "Range R = u^2 sin2θ/g is maximum when sin2θ = 1 ⇒ θ = 45°."
+    },
+    {
+        "id": 3,
+        "question": "A constant force F acts on a body. The work done by the force in moving the body by displacement s is:",
+        "options": [
+            "Fs",
+            "Fs cosθ",
+            "F/s",
+            "Fs sinθ"
+        ],
+        "answer": 1,
+        "explanation": "Work done W = F·s = Fs cosθ."
+    },
+    {
+        "id": 4,
+        "question": "A body of mass M breaks into two parts m and (M−m). If no external force acts, which quantity is conserved?",
+        "options": [
+            "Linear momentum",
+            "Kinetic energy",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 0,
+        "explanation": "In absence of external force, linear momentum is conserved."
+    },
+    {
+        "id": 5,
+        "question": "The rotational kinetic energy of a body rotating with angular speed ω and moment of inertia I is:",
+        "options": [
+            "(1/2)Iω^2",
+            "Iω",
+            "Iω^2",
+            "(1/2)ω^2/I"
+        ],
+        "answer": 0,
+        "explanation": "Rotational kinetic energy = (1/2)Iω^2."
+    },
+    {
+        "id": 6,
+        "question": "The escape velocity from Earth depends on:",
+        "options": [
+            "Radius of Earth",
+            "Mass of Earth",
+            "Mass of the body",
+            "Both A and B"
+        ],
+        "answer": 3,
+        "explanation": "ve = √(2GM/R), depends on Earth's mass and radius."
+    },
+    {
+        "id": 7,
+        "question": "The buoyant force acting on a body immersed in a liquid is equal to:",
+        "options": [
+            "Weight of the body",
+            "Weight of displaced liquid",
+            "Density of liquid",
+            "Volume of body"
+        ],
+        "answer": 1,
+        "explanation": "According to Archimedes’ principle, buoyant force equals weight of displaced liquid."
+    },
+    {
+        "id": 8,
+        "question": "The SI unit of coefficient of volume expansion is:",
+        "options": [
+            "K^−1",
+            "K",
+            "m^3",
+            "m^3/K"
+        ],
+        "answer": 0,
+        "explanation": "Coefficient of volume expansion is defined per kelvin."
+    },
+    {
+        "id": 9,
+        "question": "For an ideal gas, the internal energy depends only on:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Density"
+        ],
+        "answer": 0,
+        "explanation": "Internal energy of ideal gas is a function of temperature only."
+    },
+    {
+        "id": 10,
+        "question": "The mean position in SHM corresponds to:",
+        "options": [
+            "Maximum velocity",
+            "Maximum acceleration",
+            "Zero velocity",
+            "Maximum displacement"
+        ],
+        "answer": 0,
+        "explanation": "At mean position, velocity is maximum and acceleration is zero."
+    },
+    {
+        "id": 11,
+        "question": "The wavelength of a sound wave is related to its speed v and frequency f by:",
+        "options": [
+            "λ = v/f",
+            "λ = vf",
+            "λ = f/v",
+            "λ = v^2/f"
+        ],
+        "answer": 0,
+        "explanation": "Wavelength λ = v/f."
+    },
+    {
+        "id": 12,
+        "question": "The electric field inside a charged spherical conductor is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Maximum",
+            "Depends on radius"
+        ],
+        "answer": 0,
+        "explanation": "Electric field inside a conductor in electrostatic equilibrium is zero."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of electric flux is:",
+        "options": [
+            "N·m^2/C",
+            "N/C",
+            "V/m",
+            "C/m^2"
+        ],
+        "answer": 0,
+        "explanation": "Electric flux Φ = E·A, unit N·m^2/C."
+    },
+    {
+        "id": 14,
+        "question": "If the separation between plates of a parallel plate capacitor is doubled, its capacitance becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "C = ε0A/d, so doubling d halves the capacitance."
+    },
+    {
+        "id": 15,
+        "question": "The drift velocity of electrons is directly proportional to:",
+        "options": [
+            "Electric field",
+            "Temperature",
+            "Length of conductor",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "vd ∝ E."
+    },
+    {
+        "id": 16,
+        "question": "The magnetic field at the center of a current carrying circular loop is proportional to:",
+        "options": [
+            "Current",
+            "Radius",
+            "Resistance",
+            "Voltage"
+        ],
+        "answer": 0,
+        "explanation": "B ∝ I."
+    },
+    {
+        "id": 17,
+        "question": "The SI unit of magnetic permeability is:",
+        "options": [
+            "H/m",
+            "T",
+            "Wb",
+            "A/m"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic permeability μ has unit henry per meter."
+    },
+    {
+        "id": 18,
+        "question": "The induced emf in a conductor moving in a magnetic field is given by:",
+        "options": [
+            "Blv",
+            "Bv/l",
+            "B/lv",
+            "Bl/v"
+        ],
+        "answer": 0,
+        "explanation": "Motional emf ε = Blv."
+    },
+    {
+        "id": 19,
+        "question": "The average power consumed in an AC circuit depends on:",
+        "options": [
+            "Power factor",
+            "Frequency only",
+            "Amplitude only",
+            "Phase only"
+        ],
+        "answer": 0,
+        "explanation": "P_avg = Vrms Irms cosφ."
+    },
+    {
+        "id": 20,
+        "question": "The focal length of a plane mirror is:",
+        "options": [
+            "Infinite",
+            "Zero",
+            "Positive",
+            "Negative"
+        ],
+        "answer": 0,
+        "explanation": "Plane mirror has infinite focal length."
+    },
+    {
+        "id": 21,
+        "question": "The refractive index of a medium is the ratio of:",
+        "options": [
+            "Speed of light in vacuum to that in medium",
+            "Speed in medium to vacuum",
+            "Wavelengths",
+            "Frequencies"
+        ],
+        "answer": 0,
+        "explanation": "n = c/v."
+    },
+    {
+        "id": 22,
+        "question": "In Young’s double slit experiment, destructive interference occurs when path difference is:",
+        "options": [
+            "(2n+1)λ/2",
+            "nλ",
+            "λ",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Destructive interference when Δx = (2n+1)λ/2."
+    },
+    {
+        "id": 23,
+        "question": "The stopping potential in photoelectric effect measures:",
+        "options": [
+            "Maximum kinetic energy of electrons",
+            "Intensity of light",
+            "Work function",
+            "Frequency"
+        ],
+        "answer": 0,
+        "explanation": "eV0 = KE_max."
+    },
+    {
+        "id": 24,
+        "question": "The de Broglie wavelength of a particle decreases when its:",
+        "options": [
+            "Velocity increases",
+            "Mass decreases",
+            "Energy decreases",
+            "Momentum decreases"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p, increasing momentum reduces wavelength."
+    },
+    {
+        "id": 25,
+        "question": "The radius of a nucleus varies with mass number A as:",
+        "options": [
+            "A^(1/3)",
+            "A",
+            "1/A",
+            "A^2"
+        ],
+        "answer": 0,
+        "explanation": "R = R0A^(1/3)."
+    },
+    {
+        "id": 26,
+        "question": "The energy released in nuclear fission is due to:",
+        "options": [
+            "Mass defect",
+            "Charge defect",
+            "Volume defect",
+            "Energy absorption"
+        ],
+        "answer": 0,
+        "explanation": "Energy released E = Δmc^2."
+    },
+    {
+        "id": 27,
+        "question": "The SI unit of dose equivalent is:",
+        "options": [
+            "Sievert",
+            "Gray",
+            "Becquerel",
+            "Curie"
+        ],
+        "answer": 0,
+        "explanation": "Dose equivalent is measured in sievert."
+    },
+    {
+        "id": 28,
+        "question": "The conductivity of a semiconductor increases when it is:",
+        "options": [
+            "Heated",
+            "Cooled",
+            "Compressed",
+            "Stretched"
+        ],
+        "answer": 0,
+        "explanation": "Heating increases charge carriers."
+    },
+    {
+        "id": 29,
+        "question": "In an n-type semiconductor, the majority charge carriers are:",
+        "options": [
+            "Electrons",
+            "Holes",
+            "Protons",
+            "Ions"
+        ],
+        "answer": 0,
+        "explanation": "n-type has electrons as majority carriers."
+    },
+    {
+        "id": 30,
+        "question": "The SI unit of angular acceleration is:",
+        "options": [
+            "rad/s^2",
+            "rad/s",
+            "m/s^2",
+            "N·m"
+        ],
+        "answer": 0,
+        "explanation": "Angular acceleration is measured in rad/s^2."
+    },
+    {
+        "id": 31,
+        "question": "The center of mass of an isolated system moves with constant velocity due to conservation of:",
+        "options": [
+            "Momentum",
+            "Energy",
+            "Force",
+            "Torque"
+        ],
+        "answer": 0,
+        "explanation": "Conservation of linear momentum."
+    },
+    {
+        "id": 32,
+        "question": "The SI unit of torque is:",
+        "options": [
+            "N·m",
+            "J",
+            "W",
+            "kg·m^2"
+        ],
+        "answer": 0,
+        "explanation": "Torque = force × distance."
+    },
+    {
+        "id": 33,
+        "question": "The speed of sound in air is maximum when air is:",
+        "options": [
+            "Hot",
+            "Cold",
+            "Humid only",
+            "At low pressure"
+        ],
+        "answer": 0,
+        "explanation": "Speed of sound increases with temperature."
+    },
+    {
+        "id": 34,
+        "question": "The electric potential at infinity due to a point charge is:",
+        "options": [
+            "Zero",
+            "Infinite",
+            "Maximum",
+            "Minimum"
+        ],
+        "answer": 0,
+        "explanation": "Reference potential at infinity is taken as zero."
+    },
+    {
+        "id": 35,
+        "question": "The magnetic field inside a toroid is:",
+        "options": [
+            "Confined within core",
+            "Zero everywhere",
+            "Uniform outside",
+            "Maximum outside"
+        ],
+        "answer": 0,
+        "explanation": "Field lines are confined inside the toroid."
+    },
+    {
+        "id": 36,
+        "question": "In an AC generator, electrical energy is obtained from:",
+        "options": [
+            "Mechanical energy",
+            "Thermal energy",
+            "Chemical energy",
+            "Nuclear energy"
+        ],
+        "answer": 0,
+        "explanation": "AC generator converts mechanical energy into electrical energy."
+    },
+    {
+        "id": 37,
+        "question": "The power factor of a purely resistive AC circuit is:",
+        "options": [
+            "1",
+            "0",
+            "0.5",
+            "Depends on frequency"
+        ],
+        "answer": 0,
+        "explanation": "For resistor, current and voltage are in phase."
+    },
+    {
+        "id": 38,
+        "question": "The magnification produced by a plane mirror is:",
+        "options": [
+            "+1",
+            "−1",
+            "0",
+            "Depends on distance"
+        ],
+        "answer": 0,
+        "explanation": "Plane mirror gives unit magnification."
+    },
+    {
+        "id": 39,
+        "question": "The angular resolution of a telescope improves when:",
+        "options": [
+            "Aperture increases",
+            "Wavelength increases",
+            "Focal length decreases",
+            "Intensity increases"
+        ],
+        "answer": 0,
+        "explanation": "Resolving power ∝ aperture diameter."
+    },
+    {
+        "id": 40,
+        "question": "The work function of a metal is defined as the minimum energy required to:",
+        "options": [
+            "Eject an electron",
+            "Excite an atom",
+            "Ionize nucleus",
+            "Produce radiation"
+        ],
+        "answer": 0,
+        "explanation": "Work function is minimum energy to remove an electron."
+    },
+    {
+        "id": 41,
+        "question": "The energy of a photon is proportional to its:",
+        "options": [
+            "Frequency",
+            "Wavelength",
+            "Amplitude",
+            "Speed"
+        ],
+        "answer": 0,
+        "explanation": "E = hν."
+    },
+    {
+        "id": 42,
+        "question": "The decay constant of a radioactive substance depends on:",
+        "options": [
+            "Nature of nucleus",
+            "Temperature",
+            "Pressure",
+            "Chemical state"
+        ],
+        "answer": 0,
+        "explanation": "Decay constant is a nuclear property."
+    },
+    {
+        "id": 43,
+        "question": "The Fermi level of an intrinsic semiconductor lies:",
+        "options": [
+            "At mid-gap",
+            "Near conduction band",
+            "Near valence band",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Intrinsic Fermi level lies at middle of band gap."
+    },
+    {
+        "id": 44,
+        "question": "The logic gate that gives output 0 only when all inputs are 1 is:",
+        "options": [
+            "NAND",
+            "AND",
+            "OR",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "NAND gate outputs 0 only when all inputs are 1."
+    },
+    {
+        "id": 45,
+        "question": "The SI unit of capacitance is named after:",
+        "options": [
+            "Faraday",
+            "Tesla",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Capacitance unit farad is named after Michael Faraday."
+    },
+    {
+        "id": 46,
+        "question": "The phenomenon responsible for mirage is:",
+        "options": [
+            "Total internal reflection",
+            "Refraction only",
+            "Diffraction",
+            "Scattering"
+        ],
+        "answer": 0,
+        "explanation": "Mirage occurs due to total internal reflection."
+    },
+    {
+        "id": 47,
+        "question": "The SI unit of electric current density is:",
+        "options": [
+            "A/m^2",
+            "A/m",
+            "C/m^2",
+            "V/m"
+        ],
+        "answer": 0,
+        "explanation": "Current density J = I/A."
+    },
+    {
+        "id": 48,
+        "question": "The unit of magnetic susceptibility is:",
+        "options": [
+            "Dimensionless",
+            "T",
+            "H/m",
+            "A/m"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic susceptibility is a ratio, hence dimensionless."
+    },
+    {
+        "id": 49,
+        "question": "The law which relates induced emf to rate of change of magnetic flux is:",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Ampere’s law",
+            "Gauss’s law"
+        ],
+        "answer": 0,
+        "explanation": "Faraday’s law: ε = −dΦ/dt."
+    }
+]

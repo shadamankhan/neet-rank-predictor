@@ -1,0 +1,152 @@
+const express = require("express");
+const fs = require("fs");
+const path = require("path");
+
+const router = express.Router();
+
+// ----------------------
+// In-memory cache
+// ----------------------
+let distributionCache = {};   // { "<year>": { buckets: [...], total: N } }
+
+// ----------------------
+// Utility: load distribution file and parse buckets
+// ----------------------
+function loadDistribution(year) {
+  const filePath = path.join(__dirname, "..", "data", `distribution_${year}.json`);
+  if (!fs.existsSync(filePath)) {
+    throw new Error(`Distribution file missing for year ${year}`);
+  }
+
+  const raw = JSON.parse(fs.readFileSync(filePath, "utf8"));
+
+  let buckets = null;
+  let totalCandidates = 0;
+
+  if (Array.isArray(raw)) {
+    // Format 1: array of {score,count}
+    buckets = raw;
+    totalCandidates = raw.reduce((sum, b) => sum + b.count, 0);
+  } else if (raw && Array.isArray(raw.buckets)) {
+    // Format 2: object with buckets
+    buckets = raw.buckets;
+    totalCandidates = raw.total_candidates || buckets.reduce((sum, b) => sum + b.count, 0);
+  } else {
+    throw new Error("Invalid distribution JSON format");
+  }
+
+  return { buckets, totalCandidates };
+}
+
+// ----------------------
+// Read or load cache
+// ----------------------
+function getDistribution(year) {
+  if (!distributionCache[year]) {
+    distributionCache[year] = loadDistribution(year);
+  }
+  return distributionCache[year];
+}
+
+// ----------------------
+// Cache invalidation
+// ----------------------
+router.invalidateDistributionCache = (year) => {
+  delete distributionCache[year];
+  console.log(`♻️ predict: invalidated cache for year ${year}`);
+};
+
+router.invalidateAllDistributionCache = () => {
+  distributionCache = {};
+  console.log("♻️ predict: invalidated ALL distribution caches");
+};
+
+// ----------------------
+// Core prediction logic
+// ----------------------
+function predictUsingDistribution(score, year) {
+  const { buckets, totalCandidates } = getDistribution(year);
+
+  // sort descending: high score → top
+  const sorted = buckets.slice().sort((a, b) => b.score - a.score);
+
+  // cumulative count
+  let cumAbove = 0;
+  for (const b of sorted) {
+    if (score < b.score) {
+      cumAbove += b.count;
+    }
+  }
+
+  const rank = cumAbove + 1;
+
+  const percentile = ((totalCandidates - rank) / totalCandidates) * 100;
+
+  return {
+    // keep original keys as well for internal use
+    score,
+    year,
+    total_candidates: totalCandidates,
+    predicted_rank: rank,
+    rank_range: {
+      low: Math.max(1, rank - 250),
+      high: rank + 250
+    },
+    percentile: Number(percentile.toFixed(4)),
+    method: "cumulative_distribution_v1"
+  };
+}
+
+// ----------------------
+// Helper: normalize result to camelCase + keep legacy keys
+// ----------------------
+function buildResponseFromResult(result) {
+  const response = {
+    ok: true,
+    score: result.score,
+    year: result.year,
+    // camelCase totalCandidates
+    totalCandidates: result.total_candidates ?? result.totalCandidates ?? null,
+    // camelCase predictedRank
+    predictedRank: result.predicted_rank ?? result.predictedRank ?? result.rank ?? null,
+    // camelCase rankRange
+    rankRange: result.rank_range ?? result.rankRange ?? null,
+    percentile: Number(result.percentile ?? 0),
+    method: result.method ?? "cumulative_distribution_v1"
+  };
+
+  // keep legacy snake_case keys for backward compatibility
+  if (typeof result.total_candidates !== "undefined") response.total_candidates = result.total_candidates;
+  if (typeof result.predicted_rank !== "undefined") response.predicted_rank = result.predicted_rank;
+  if (typeof result.rank_range !== "undefined") response.rank_range = result.rank_range;
+
+  return response;
+}
+
+// ----------------------
+// POST /api
+// ----------------------
+router.post("/", (req, res) => {
+  try {
+    const year = Number(req.body.year);
+    const score = Number(req.body.score);
+
+    if (!year || (!score && score !== 0)) {
+      return res.status(400).json({ ok: false, message: "Missing year or score" });
+    }
+
+    const result = predictUsingDistribution(score, year);
+
+    // Build normalized response (camelCase) while preserving legacy keys
+    const resp = buildResponseFromResult(result);
+
+    return res.json(resp);
+
+  } catch (err) {
+    console.error("❌ predict error:", err);
+    return res.status(500).json({ ok: false, message: err.message || "Predict failed" });
+  }
+});
+
+// ----------------------
+module.exports = router;

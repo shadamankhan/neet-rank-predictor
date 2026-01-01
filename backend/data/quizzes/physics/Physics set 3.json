@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves with position given by x = 4t^3 − 2t^2 + 6 (m). The velocity at t = 2 s is:",
+        "options": [
+            "40 m/s",
+            "44 m/s",
+            "48 m/s",
+            "52 m/s"
+        ],
+        "answer": 1,
+        "explanation": "v = dx/dt = 12t^2 − 4t. At t = 2, v = 48 − 8 = 40 m/s."
+    },
+    {
+        "id": 2,
+        "question": "A body of mass 1 kg moving with velocity 10 m/s collides elastically with a stationary body of mass 3 kg. The final velocity of the 1 kg body is:",
+        "options": [
+            "−5 m/s",
+            "0 m/s",
+            "5 m/s",
+            "−10 m/s"
+        ],
+        "answer": 0,
+        "explanation": "v = (m1−m2)/(m1+m2)·u = (1−3)/4·10 = −5 m/s."
+    },
+    {
+        "id": 3,
+        "question": "A force F = 5x acts on a particle. The work done in moving it from x = 0 to x = 2 m is:",
+        "options": [
+            "5 J",
+            "10 J",
+            "20 J",
+            "25 J"
+        ],
+        "answer": 1,
+        "explanation": "W = ∫Fdx = ∫0^2 5x dx = 5·(4/2) = 10 J."
+    },
+    {
+        "id": 4,
+        "question": "A disc of radius R rolls without slipping. The ratio of translational KE to rotational KE is:",
+        "options": [
+            "1:1",
+            "2:1",
+            "1:2",
+            "3:2"
+        ],
+        "answer": 0,
+        "explanation": "For disc, I = (1/2)MR^2. KE_t = (1/2)Mv^2, KE_r = (1/4)Mv^2."
+    },
+    {
+        "id": 5,
+        "question": "The escape velocity from a planet of mass M and radius R is:",
+        "options": [
+            "√(2GM/R)",
+            "√(GM/R)",
+            "GM/R",
+            "2GM/R"
+        ],
+        "answer": 0,
+        "explanation": "Escape velocity ve = √(2GM/R)."
+    },
+    {
+        "id": 6,
+        "question": "If the density of water becomes double, the pressure at a given depth will:",
+        "options": [
+            "Double",
+            "Become half",
+            "Remain same",
+            "Become four times"
+        ],
+        "answer": 0,
+        "explanation": "P = ρgh, so pressure ∝ density."
+    },
+    {
+        "id": 7,
+        "question": "The average kinetic energy of gas molecules is proportional to:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Density"
+        ],
+        "answer": 0,
+        "explanation": "Average KE = (3/2)kT."
+    },
+    {
+        "id": 8,
+        "question": "For an adiabatic process, the correct relation is:",
+        "options": [
+            "PV^γ = constant",
+            "PV = constant",
+            "T/V = constant",
+            "P/T = constant"
+        ],
+        "answer": 0,
+        "explanation": "Adiabatic condition: PV^γ = constant."
+    },
+    {
+        "id": 9,
+        "question": "The total energy of a particle executing SHM is proportional to:",
+        "options": [
+            "Amplitude^2",
+            "Amplitude",
+            "Frequency",
+            "Time period"
+        ],
+        "answer": 0,
+        "explanation": "E = (1/2)kA^2."
+    },
+    {
+        "id": 10,
+        "question": "In a standing wave, the distance between two consecutive nodes is:",
+        "options": [
+            "λ/2",
+            "λ",
+            "λ/4",
+            "2λ"
+        ],
+        "answer": 0,
+        "explanation": "Distance between adjacent nodes is λ/2."
+    },
+    {
+        "id": 11,
+        "question": "The electric field inside a conductor in electrostatic equilibrium is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Infinite",
+            "Depends on charge"
+        ],
+        "answer": 0,
+        "explanation": "Electric field inside a conductor is zero."
+    },
+    {
+        "id": 12,
+        "question": "If the distance between plates of a capacitor is halved, capacitance becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "Same"
+        ],
+        "answer": 0,
+        "explanation": "C = ε0A/d, so halving d doubles C."
+    },
+    {
+        "id": 13,
+        "question": "Drift velocity of electrons in a conductor is of the order of:",
+        "options": [
+            "10^−4 m/s",
+            "10^4 m/s",
+            "10^8 m/s",
+            "1 m/s"
+        ],
+        "answer": 0,
+        "explanation": "Drift velocity is very small (~10^−4 m/s)."
+    },
+    {
+        "id": 14,
+        "question": "The magnetic field at the center of a circular loop is maximum when:",
+        "options": [
+            "Radius is minimum",
+            "Radius is maximum",
+            "Current is zero",
+            "Turns are zero"
+        ],
+        "answer": 0,
+        "explanation": "B ∝ 1/R, so smaller radius gives larger field."
+    },
+    {
+        "id": 15,
+        "question": "The direction of induced current is given by:",
+        "options": [
+            "Lenz’s law",
+            "Faraday’s law",
+            "Ohm’s law",
+            "Ampere’s law"
+        ],
+        "answer": 0,
+        "explanation": "Lenz’s law gives direction of induced current."
+    },
+    {
+        "id": 16,
+        "question": "The power factor of an LCR circuit at resonance is:",
+        "options": [
+            "1",
+            "0",
+            "0.5",
+            "Depends on L"
+        ],
+        "answer": 0,
+        "explanation": "At resonance, phase difference is zero."
+    },
+    {
+        "id": 17,
+        "question": "A convex lens has focal length 20 cm. Its power is:",
+        "options": [
+            "5 D",
+            "−5 D",
+            "10 D",
+            "−10 D"
+        ],
+        "answer": 0,
+        "explanation": "P = 1/f = 1/0.2 = 5 D."
+    },
+    {
+        "id": 18,
+        "question": "Total internal reflection occurs when light travels from:",
+        "options": [
+            "Denser to rarer medium",
+            "Rarer to denser medium",
+            "Vacuum to air",
+            "Air to glass always"
+        ],
+        "answer": 0,
+        "explanation": "TIR occurs from denser to rarer medium."
+    },
+    {
+        "id": 19,
+        "question": "The angular width of central maximum in diffraction is proportional to:",
+        "options": [
+            "λ/a",
+            "a/λ",
+            "λD",
+            "D/λ"
+        ],
+        "answer": 0,
+        "explanation": "Angular width ∝ λ/a."
+    },
+    {
+        "id": 20,
+        "question": "The threshold frequency depends on:",
+        "options": [
+            "Nature of metal",
+            "Intensity",
+            "Distance",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "Threshold frequency depends on work function."
+    },
+    {
+        "id": 21,
+        "question": "The kinetic energy of photoelectrons depends on:",
+        "options": [
+            "Frequency",
+            "Intensity",
+            "Area",
+            "Distance"
+        ],
+        "answer": 0,
+        "explanation": "KE_max = hν − φ."
+    },
+    {
+        "id": 22,
+        "question": "The number of neutrons in an atom is equal to:",
+        "options": [
+            "Mass number − atomic number",
+            "Atomic number",
+            "Mass number",
+            "Protons"
+        ],
+        "answer": 0,
+        "explanation": "Neutrons = A − Z."
+    },
+    {
+        "id": 23,
+        "question": "In beta decay, the particle emitted is:",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Alpha particle"
+        ],
+        "answer": 0,
+        "explanation": "Beta decay emits electron."
+    },
+    {
+        "id": 24,
+        "question": "The energy band gap of a conductor is:",
+        "options": [
+            "Zero",
+            "Large",
+            "Small",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Conductors have zero band gap."
+    },
+    {
+        "id": 25,
+        "question": "In p-type semiconductor, majority carriers are:",
+        "options": [
+            "Holes",
+            "Electrons",
+            "Neutrons",
+            "Ions"
+        ],
+        "answer": 0,
+        "explanation": "p-type has holes as majority carriers."
+    },
+    {
+        "id": 26,
+        "question": "The base of a transistor is lightly doped to:",
+        "options": [
+            "Reduce recombination",
+            "Increase current",
+            "Increase voltage",
+            "Reduce resistance"
+        ],
+        "answer": 0,
+        "explanation": "Light doping reduces recombination."
+    },
+    {
+        "id": 27,
+        "question": "The SI unit of angular momentum is:",
+        "options": [
+            "kg·m^2/s",
+            "kg·m/s",
+            "N·m",
+            "J·s"
+        ],
+        "answer": 0,
+        "explanation": "Angular momentum unit is kg·m^2/s."
+    },
+    {
+        "id": 28,
+        "question": "If the radius of orbit of a satellite is doubled, its orbital speed becomes:",
+        "options": [
+            "1/√2 times",
+            "2 times",
+            "√2 times",
+            "1/2 times"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ 1/√r."
+    },
+    {
+        "id": 29,
+        "question": "The coefficient of friction depends on:",
+        "options": [
+            "Nature of surfaces",
+            "Area of contact",
+            "Speed",
+            "Mass"
+        ],
+        "answer": 0,
+        "explanation": "Friction coefficient depends on surface nature."
+    },
+    {
+        "id": 30,
+        "question": "The SI unit of surface tension is:",
+        "options": [
+            "N/m",
+            "N/m^2",
+            "J",
+            "kg/s"
+        ],
+        "answer": 0,
+        "explanation": "Surface tension is force per unit length."
+    },
+    {
+        "id": 31,
+        "question": "In SHM, acceleration is proportional to:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Square of displacement",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "a = −ω^2x."
+    },
+    {
+        "id": 32,
+        "question": "The speed of sound in air increases with:",
+        "options": [
+            "Temperature",
+            "Pressure only",
+            "Density only",
+            "Humidity only"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ √T."
+    },
+    {
+        "id": 33,
+        "question": "Electric potential energy of two charges q1 and q2 separated by r is:",
+        "options": [
+            "kq1q2/r",
+            "kq1q2/r^2",
+            "kq1q2r",
+            "q1q2/r"
+        ],
+        "answer": 0,
+        "explanation": "U = kq1q2/r."
+    },
+    {
+        "id": 34,
+        "question": "The time constant of an RC circuit is:",
+        "options": [
+            "RC",
+            "R/C",
+            "1/RC",
+            "C/R"
+        ],
+        "answer": 0,
+        "explanation": "Time constant τ = RC."
+    },
+    {
+        "id": 35,
+        "question": "The magnetic moment of a current loop is:",
+        "options": [
+            "IA",
+            "I/A",
+            "A/I",
+            "I^2A"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic moment μ = IA."
+    },
+    {
+        "id": 36,
+        "question": "In an AC circuit, average power is zero when phase angle is:",
+        "options": [
+            "90°",
+            "0°",
+            "45°",
+            "30°"
+        ],
+        "answer": 0,
+        "explanation": "Power ∝ cosφ, cos90° = 0."
+    },
+    {
+        "id": 37,
+        "question": "The unit of focal length is:",
+        "options": [
+            "Meter",
+            "Diopter",
+            "Second",
+            "Radian"
+        ],
+        "answer": 0,
+        "explanation": "Focal length is measured in meters."
+    },
+    {
+        "id": 38,
+        "question": "The resolving power of a microscope increases when:",
+        "options": [
+            "Wavelength decreases",
+            "Wavelength increases",
+            "Aperture decreases",
+            "Magnification decreases"
+        ],
+        "answer": 0,
+        "explanation": "Resolving power ∝ 1/λ."
+    },
+    {
+        "id": 39,
+        "question": "The rest mass of photon is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Depends on frequency",
+            "Large"
+        ],
+        "answer": 0,
+        "explanation": "Photon has zero rest mass."
+    },
+    {
+        "id": 40,
+        "question": "The nuclear force is:",
+        "options": [
+            "Short range",
+            "Long range",
+            "Repulsive only",
+            "Electromagnetic"
+        ],
+        "answer": 0,
+        "explanation": "Nuclear force acts over short range."
+    },
+    {
+        "id": 41,
+        "question": "Zener diode is used as:",
+        "options": [
+            "Voltage regulator",
+            "Rectifier",
+            "Amplifier",
+            "Switch"
+        ],
+        "answer": 0,
+        "explanation": "Zener diode maintains constant voltage."
+    },
+    {
+        "id": 42,
+        "question": "The SI unit of resistivity is:",
+        "options": [
+            "Ω·m",
+            "Ω",
+            "m/Ω",
+            "Ω/m"
+        ],
+        "answer": 0,
+        "explanation": "Resistivity unit is ohm-meter."
+    },
+    {
+        "id": 43,
+        "question": "If no external torque acts on a system, then:",
+        "options": [
+            "Angular momentum is conserved",
+            "Linear momentum is zero",
+            "Energy is zero",
+            "Force is zero"
+        ],
+        "answer": 0,
+        "explanation": "Law of conservation of angular momentum."
+    },
+    {
+        "id": 44,
+        "question": "The unit of Young’s modulus is same as:",
+        "options": [
+            "Pressure",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 0,
+        "explanation": "Young’s modulus = stress/strain."
+    },
+    {
+        "id": 45,
+        "question": "The speed of light in glass is less than in vacuum due to:",
+        "options": [
+            "Refractive index",
+            "Absorption",
+            "Reflection",
+            "Scattering"
+        ],
+        "answer": 0,
+        "explanation": "v = c/n, n > 1 for glass."
+    },
+    {
+        "id": 46,
+        "question": "If the frequency of AC source is doubled, inductive reactance becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "Same"
+        ],
+        "answer": 0,
+        "explanation": "XL = ωL ∝ f."
+    },
+    {
+        "id": 47,
+        "question": "The phenomenon used in optical fiber communication is:",
+        "options": [
+            "Total internal reflection",
+            "Refraction",
+            "Diffraction",
+            "Scattering"
+        ],
+        "answer": 0,
+        "explanation": "Optical fibers use TIR."
+    },
+    {
+        "id": 48,
+        "question": "The stopping potential in photoelectric effect is a measure of:",
+        "options": [
+            "Maximum kinetic energy",
+            "Intensity",
+            "Work function",
+            "Charge"
+        ],
+        "answer": 0,
+        "explanation": "eV0 = KE_max."
+    },
+    {
+        "id": 49,
+        "question": "The SI unit of activity of a radioactive substance is:",
+        "options": [
+            "Becquerel",
+            "Curie",
+            "Gray",
+            "Sievert"
+        ],
+        "answer": 0,
+        "explanation": "1 Bq = 1 decay per second."
+    },
+    {
+        "id": 50,
+        "question": "The output of an XOR gate is 1 when:",
+        "options": [
+            "Inputs are different",
+            "Inputs are same",
+            "Both 1",
+            "Both 0"
+        ],
+        "answer": 0,
+        "explanation": "XOR gives 1 for unequal inputs."
+    }
+]

@@ -1,0 +1,109 @@
+﻿// src/components/PredictionHistory.jsx
+import React, { useEffect, useState } from "react";
+import { getAuth } from "firebase/auth";
+import {
+  getFirestore,
+  collection,
+  query,
+  where,
+  orderBy,
+  getDocs
+} from "firebase/firestore";
+
+export default function PredictionHistory() {
+  const [loading, setLoading] = useState(true);
+  const [history, setHistory] = useState([]);
+  const [error, setError] = useState(null);
+
+  const auth = getAuth();
+  const db = getFirestore();
+
+  useEffect(() => {
+    let mounted = true;
+
+    async function fetchHistory() {
+      const user = auth.currentUser;
+      if (!user) {
+        if (mounted) {
+          setHistory([]);
+          setLoading(false);
+        }
+        return;
+      }
+
+      try {
+        const q = query(
+          collection(db, "predictions"),
+          where("userId", "==", user.uid),
+          orderBy("timestamp", "desc")
+        );
+
+        const snapshot = await getDocs(q);
+        const items = snapshot.docs.map((doc) => {
+          const data = doc.data();
+          return {
+            id: doc.id,
+            ...data
+          };
+        });
+
+        if (mounted) {
+          setHistory(items);
+        }
+      } catch (err) {
+        console.error("Error loading history:", err);
+        if (mounted) setError("Failed to load prediction history.");
+      } finally {
+        if (mounted) setLoading(false);
+      }
+    }
+
+    fetchHistory();
+
+    return () => {
+      mounted = false;
+    };
+  }, [auth, db]);
+
+  if (loading) return <p style={{ padding: 20 }}>Loading prediction history...</p>;
+  if (error) return <p style={{ padding: 20, color: "red" }}>{error}</p>;
+  if (!history.length) return <p style={{ padding: 20 }}>No previous predictions found.</p>;
+
+  return (
+    <div style={{ padding: 20 }}>
+      <h2>Your Prediction History</h2>
+
+      <div style={{ overflowX: "auto", marginTop: 16 }}>
+        <table style={{ width: "100%", borderCollapse: "collapse", minWidth: 700 }}>
+          <thead>
+            <tr>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Date</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Score</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Percentile</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Rank</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Range</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Method</th>
+            </tr>
+          </thead>
+          <tbody>
+            {history.map((p) => (
+              <tr key={p.id}>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>
+                  {p.timestamp ? new Date(p.timestamp.seconds ? p.timestamp.seconds * 1000 : p.timestamp).toLocaleString() : "—"}
+                </td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.score ?? "—"}</td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.percentile ?? "—"}</td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.predictedRank ?? "—"}</td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>
+                  {Array.isArray(p.rankRange) ? p.rankRange.join(" - ") : p.rankRange ?? "—"}
+                </td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.method ?? "—"}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+

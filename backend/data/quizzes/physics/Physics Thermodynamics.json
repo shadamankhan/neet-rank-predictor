@@ -1,0 +1,6020 @@
+[
+    {
+        "id": 1,
+        "question": "In thermodynamics, the term internal energy of a system refers to:",
+        "options": [
+            "Only kinetic energy of molecules",
+            "Only potential energy of molecules",
+            "Sum of kinetic and potential energies of molecules",
+            "Energy possessed by the system due to its macroscopic motion"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy is the sum of microscopic kinetic and potential energies of molecules as per NCERT."
+    },
+    {
+        "id": 2,
+        "question": "The SI unit of heat is:",
+        "options": [
+            "Calorie",
+            "Erg",
+            "Joule",
+            "Kelvin"
+        ],
+        "answer": 2,
+        "explanation": "Heat is a form of energy and its SI unit is joule."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is an intensive property?",
+        "options": [
+            "Volume",
+            "Mass",
+            "Internal energy",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Temperature does not depend on the amount of substance, hence intensive."
+    },
+    {
+        "id": 4,
+        "question": "The first law of thermodynamics is a statement of conservation of:",
+        "options": [
+            "Mass",
+            "Momentum",
+            "Energy",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "First law expresses conservation of energy in thermodynamic processes."
+    },
+    {
+        "id": 5,
+        "question": "For an isolated system, the change in internal energy ΔU is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinity"
+        ],
+        "answer": 2,
+        "explanation": "In an isolated system, no heat or work is exchanged, so ΔU = 0."
+    },
+    {
+        "id": 6,
+        "question": "Which thermodynamic process occurs at constant pressure?",
+        "options": [
+            "Isochoric",
+            "Isothermal",
+            "Adiabatic",
+            "Isobaric"
+        ],
+        "answer": 3,
+        "explanation": "Isobaric process takes place at constant pressure."
+    },
+    {
+        "id": 7,
+        "question": "Work done in an isochoric process is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Equal to heat supplied"
+        ],
+        "answer": 2,
+        "explanation": "In isochoric process, volume is constant, so work done is zero."
+    },
+    {
+        "id": 8,
+        "question": "The slope of an isothermal curve on a P–V diagram is:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "For isothermal process, pressure decreases with increase in volume."
+    },
+    {
+        "id": 9,
+        "question": "In an adiabatic process, which of the following remains constant?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Heat exchanged",
+            "Volume"
+        ],
+        "answer": 2,
+        "explanation": "In adiabatic process, no heat is exchanged with surroundings."
+    },
+    {
+        "id": 10,
+        "question": "For an ideal gas, internal energy depends only on:",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Pressure and volume"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states internal energy of an ideal gas is a function of temperature only."
+    },
+    {
+        "id": 11,
+        "question": "The work done in a cyclic process is equal to:",
+        "options": [
+            "Change in internal energy",
+            "Zero",
+            "Area enclosed by the cycle on P–V diagram",
+            "Heat absorbed"
+        ],
+        "answer": 2,
+        "explanation": "Work done in a cycle equals the area enclosed on the P–V diagram."
+    },
+    {
+        "id": 12,
+        "question": "In a reversible process, the system is always in:",
+        "options": [
+            "Thermal equilibrium only",
+            "Mechanical equilibrium only",
+            "Chemical equilibrium only",
+            "Thermodynamic equilibrium"
+        ],
+        "answer": 3,
+        "explanation": "Reversible process proceeds through a series of equilibrium states."
+    },
+    {
+        "id": 13,
+        "question": "Which of the following processes is irreversible?",
+        "options": [
+            "Quasi-static expansion",
+            "Frictionless motion",
+            "Free expansion of gas",
+            "Infinitesimal temperature difference heat flow"
+        ],
+        "answer": 2,
+        "explanation": "Free expansion is a highly irreversible process as per NCERT."
+    },
+    {
+        "id": 14,
+        "question": "The specific heat of a gas at constant volume is denoted by:",
+        "options": [
+            "Cp",
+            "Cv",
+            "γ",
+            "R"
+        ],
+        "answer": 1,
+        "explanation": "Cv represents specific heat at constant volume."
+    },
+    {
+        "id": 15,
+        "question": "For an ideal gas, the relation between Cp and Cv is:",
+        "options": [
+            "Cp = Cv",
+            "Cp − Cv = R",
+            "Cp + Cv = R",
+            "Cp/Cv = R"
+        ],
+        "answer": 1,
+        "explanation": "Mayer’s relation: Cp − Cv = R for an ideal gas."
+    },
+    {
+        "id": 16,
+        "question": "The ratio Cp/Cv for a monoatomic ideal gas is:",
+        "options": [
+            "1",
+            "4/3",
+            "5/3",
+            "7/5"
+        ],
+        "answer": 2,
+        "explanation": "For monoatomic ideal gas, γ = 5/3."
+    },
+    {
+        "id": 17,
+        "question": "Which law of thermodynamics defines absolute temperature?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 0,
+        "explanation": "Zeroth law provides the basis for temperature measurement."
+    },
+    {
+        "id": 18,
+        "question": "Heat capacity of a body is:",
+        "options": [
+            "Heat required to raise its temperature by 1 K",
+            "Heat required per unit mass per 1 K",
+            "Heat required per mole per 1 K",
+            "Heat lost during cooling"
+        ],
+        "answer": 0,
+        "explanation": "Heat capacity is heat required to raise temperature of whole body by 1 K."
+    },
+    {
+        "id": 19,
+        "question": "Which thermodynamic quantity is path dependent?",
+        "options": [
+            "Internal energy",
+            "Entropy",
+            "Work",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Work depends on the path followed during the process."
+    },
+    {
+        "id": 20,
+        "question": "Entropy is a measure of:",
+        "options": [
+            "Energy",
+            "Randomness",
+            "Temperature",
+            "Heat"
+        ],
+        "answer": 1,
+        "explanation": "Entropy measures disorder or randomness of a system."
+    },
+    {
+        "id": 21,
+        "question": "According to the second law of thermodynamics, heat flows spontaneously:",
+        "options": [
+            "From colder to hotter body",
+            "From hotter to colder body",
+            "Only in cyclic processes",
+            "Only in isolated systems"
+        ],
+        "answer": 1,
+        "explanation": "Second law states heat flows naturally from higher to lower temperature."
+    },
+    {
+        "id": 22,
+        "question": "The efficiency of a Carnot engine depends on:",
+        "options": [
+            "Working substance",
+            "Size of engine",
+            "Temperatures of source and sink",
+            "Pressure of gas"
+        ],
+        "answer": 2,
+        "explanation": "Carnot efficiency depends only on temperatures of heat reservoirs."
+    },
+    {
+        "id": 23,
+        "question": "The efficiency of a Carnot engine operating between temperatures T1 and T2 is:",
+        "options": [
+            "T2/T1",
+            "1 − T1/T2",
+            "1 − T2/T1",
+            "T1 − T2"
+        ],
+        "answer": 2,
+        "explanation": "Efficiency η = 1 − T2/T1, where T1 > T2."
+    },
+    {
+        "id": 24,
+        "question": "Which statement is correct for a refrigerator?",
+        "options": [
+            "Efficiency is always less than Carnot engine",
+            "It converts heat completely into work",
+            "It transfers heat from low to high temperature using work",
+            "It violates first law"
+        ],
+        "answer": 2,
+        "explanation": "Refrigerator uses external work to transfer heat from cold to hot reservoir."
+    },
+    {
+        "id": 25,
+        "question": "The coefficient of performance (COP) of a refrigerator is defined as:",
+        "options": [
+            "Work done/heat extracted",
+            "Heat extracted/work done",
+            "Heat rejected/work done",
+            "Work done/heat rejected"
+        ],
+        "answer": 1,
+        "explanation": "COP = heat extracted from cold reservoir divided by work done."
+    },
+    {
+        "id": 26,
+        "question": "Which of the following processes is isothermal for an ideal gas?",
+        "options": [
+            "ΔT = 0",
+            "ΔP = 0",
+            "ΔV = 0",
+            "Q = 0"
+        ],
+        "answer": 0,
+        "explanation": "In isothermal process, temperature remains constant."
+    },
+    {
+        "id": 27,
+        "question": "The PV diagram for an adiabatic process is:",
+        "options": [
+            "Steeper than isothermal curve",
+            "Less steep than isothermal curve",
+            "A straight line",
+            "A circle"
+        ],
+        "answer": 0,
+        "explanation": "Adiabatic curve is steeper than isothermal on PV diagram."
+    },
+    {
+        "id": 28,
+        "question": "Which quantity remains conserved in all thermodynamic processes?",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is conserved according to first law of thermodynamics."
+    },
+    {
+        "id": 29,
+        "question": "For an isothermal expansion of an ideal gas, internal energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy depends only on temperature, which is constant."
+    },
+    {
+        "id": 30,
+        "question": "The area under a P–V curve represents:",
+        "options": [
+            "Heat supplied",
+            "Change in internal energy",
+            "Work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area under PV curve gives work done during the process."
+    },
+    {
+        "id": 31,
+        "question": "Which thermodynamic law forbids complete conversion of heat into work?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Second law states no heat engine can be 100% efficient."
+    },
+    {
+        "id": 32,
+        "question": "The change in entropy for a reversible process is given by:",
+        "options": [
+            "dS = dQ",
+            "dS = dQ/T",
+            "dS = TdQ",
+            "dS = dW/T"
+        ],
+        "answer": 1,
+        "explanation": "Entropy change is defined as dS = dQ/T for reversible processes."
+    },
+    {
+        "id": 33,
+        "question": "In an irreversible process, entropy of the universe:",
+        "options": [
+            "Decreases",
+            "Remains constant",
+            "Increases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of universe increases for irreversible processes."
+    },
+    {
+        "id": 34,
+        "question": "Which of the following has maximum efficiency?",
+        "options": [
+            "Diesel engine",
+            "Petrol engine",
+            "Carnot engine",
+            "Steam engine"
+        ],
+        "answer": 2,
+        "explanation": "Carnot engine has maximum possible efficiency."
+    },
+    {
+        "id": 35,
+        "question": "The third law of thermodynamics states that entropy at absolute zero is:",
+        "options": [
+            "Maximum",
+            "Infinite",
+            "Minimum",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "Entropy approaches minimum value at absolute zero temperature."
+    },
+    {
+        "id": 36,
+        "question": "A thermodynamic system that can exchange both heat and matter is called:",
+        "options": [
+            "Closed system",
+            "Open system",
+            "Isolated system",
+            "Adiabatic system"
+        ],
+        "answer": 1,
+        "explanation": "Open system exchanges both energy and matter with surroundings."
+    },
+    {
+        "id": 37,
+        "question": "Which quantity is NOT a state function?",
+        "options": [
+            "Pressure",
+            "Temperature",
+            "Work",
+            "Internal energy"
+        ],
+        "answer": 2,
+        "explanation": "Work depends on path and hence is not a state function."
+    },
+    {
+        "id": 38,
+        "question": "For an adiabatic expansion of an ideal gas, temperature:",
+        "options": [
+            "Remains constant",
+            "Increases",
+            "Decreases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In adiabatic expansion, gas does work at the cost of internal energy."
+    },
+    {
+        "id": 39,
+        "question": "The equation PVγ = constant represents:",
+        "options": [
+            "Isothermal process",
+            "Isobaric process",
+            "Adiabatic process",
+            "Isochoric process"
+        ],
+        "answer": 2,
+        "explanation": "Adiabatic process obeys PVγ = constant."
+    },
+    {
+        "id": 40,
+        "question": "Which of the following is an extensive property?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Density",
+            "Entropy"
+        ],
+        "answer": 3,
+        "explanation": "Entropy depends on amount of substance, hence extensive."
+    },
+    {
+        "id": 41,
+        "question": "In a cyclic process, the net change in internal energy is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy is a state function, so net change over a cycle is zero."
+    },
+    {
+        "id": 42,
+        "question": "Which statement is correct for entropy?",
+        "options": [
+            "Defined only for irreversible process",
+            "Path dependent",
+            "State function",
+            "Always decreases"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is a state function as per NCERT."
+    },
+    {
+        "id": 43,
+        "question": "In an isobaric process, heat supplied is used for:",
+        "options": [
+            "Only work",
+            "Only increase in internal energy",
+            "Both work and increase in internal energy",
+            "Only temperature change"
+        ],
+        "answer": 2,
+        "explanation": "Heat goes into work done and change in internal energy."
+    },
+    {
+        "id": 44,
+        "question": "Which thermodynamic variable defines thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium is defined by equality of temperature."
+    },
+    {
+        "id": 45,
+        "question": "The unit of entropy is:",
+        "options": [
+            "J",
+            "J/K",
+            "K/J",
+            "W/K"
+        ],
+        "answer": 1,
+        "explanation": "Entropy has unit joule per kelvin."
+    },
+    {
+        "id": 46,
+        "question": "The area enclosed in a PV cycle represents:",
+        "options": [
+            "Heat absorbed",
+            "Heat rejected",
+            "Net work done",
+            "Change in entropy"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by PV loop gives net work done."
+    },
+    {
+        "id": 47,
+        "question": "Which condition is necessary for reversible process?",
+        "options": [
+            "Large temperature difference",
+            "Fast process",
+            "Infinitesimal gradients",
+            "High friction"
+        ],
+        "answer": 2,
+        "explanation": "Reversible process requires infinitesimal gradients."
+    },
+    {
+        "id": 48,
+        "question": "In free expansion of a gas, work done is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "No external pressure, hence no work is done."
+    },
+    {
+        "id": 49,
+        "question": "Which thermodynamic process has maximum work done for given expansion?",
+        "options": [
+            "Adiabatic",
+            "Isochoric",
+            "Isothermal",
+            "Isobaric"
+        ],
+        "answer": 2,
+        "explanation": "Isothermal process gives maximum work for given expansion."
+    },
+    {
+        "id": 50,
+        "question": "The zeroth law of thermodynamics helps in defining:",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Zeroth law establishes the concept of temperature."
+    }
+]
+[
+    {
+        "id": 51,
+        "question": "For an ideal gas undergoing a reversible isothermal expansion from volume V1 to V2 at temperature T, the work done is:",
+        "options": [
+            "nRT ln(V1/V2)",
+            "nRT ln(V2/V1)",
+            "P(V2 − V1)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "For reversible isothermal process, work done W = nRT ln(V2/V1) as per NCERT."
+    },
+    {
+        "id": 52,
+        "question": "In an adiabatic process for an ideal gas, which relation is correct?",
+        "options": [
+            "PV = constant",
+            "PV/T = constant",
+            "PV^γ = constant",
+            "PT = constant"
+        ],
+        "answer": 2,
+        "explanation": "NCERT gives PV^γ = constant for adiabatic processes."
+    },
+    {
+        "id": 53,
+        "question": "For a monoatomic ideal gas, the molar specific heat at constant volume is:",
+        "options": [
+            "3R/2",
+            "5R/2",
+            "R",
+            "2R"
+        ],
+        "answer": 0,
+        "explanation": "Cv = 3R/2 for monoatomic ideal gas as per NCERT."
+    },
+    {
+        "id": 54,
+        "question": "During an isochoric process for an ideal gas, the heat supplied is equal to:",
+        "options": [
+            "Work done",
+            "Change in internal energy",
+            "Zero",
+            "Pressure change"
+        ],
+        "answer": 1,
+        "explanation": "At constant volume, work done is zero, so Q = ΔU."
+    },
+    {
+        "id": 55,
+        "question": "The relation between temperatures and volumes in an adiabatic process is:",
+        "options": [
+            "TV = constant",
+            "TV^(γ−1) = constant",
+            "T/V = constant",
+            "T^γ V = constant"
+        ],
+        "answer": 1,
+        "explanation": "For adiabatic process, TV^(γ−1) = constant as per NCERT."
+    },
+    {
+        "id": 56,
+        "question": "The work done in an adiabatic expansion of an ideal gas is given by:",
+        "options": [
+            "(P1V1 − P2V2)",
+            "(P1V1 − P2V2)/(γ − 1)",
+            "(P2V2 − P1V1)/(γ − 1)",
+            "nRT ln(V2/V1)"
+        ],
+        "answer": 1,
+        "explanation": "NCERT formula for work in adiabatic process is (P1V1 − P2V2)/(γ − 1)."
+    },
+    {
+        "id": 57,
+        "question": "Which process has zero heat exchange with surroundings?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 3,
+        "explanation": "By definition, adiabatic process has Q = 0."
+    },
+    {
+        "id": 58,
+        "question": "The efficiency of a heat engine can never be equal to 1 because:",
+        "options": [
+            "First law is violated",
+            "Some heat must be rejected to sink",
+            "Work done is always zero",
+            "Entropy remains constant"
+        ],
+        "answer": 1,
+        "explanation": "Second law requires rejection of some heat to sink."
+    },
+    {
+        "id": 59,
+        "question": "If the temperature of sink is 300 K and source is 600 K, the efficiency of Carnot engine is:",
+        "options": [
+            "0.25",
+            "0.33",
+            "0.5",
+            "0.75"
+        ],
+        "answer": 2,
+        "explanation": "η = 1 − T2/T1 = 1 − 300/600 = 0.5."
+    },
+    {
+        "id": 60,
+        "question": "The coefficient of performance of an ideal refrigerator operating between temperatures T1 and T2 (T1 > T2) is:",
+        "options": [
+            "T1/(T1 − T2)",
+            "T2/(T1 − T2)",
+            "(T1 − T2)/T2",
+            "T2/T1"
+        ],
+        "answer": 1,
+        "explanation": "COP of refrigerator = T2/(T1 − T2) as per NCERT."
+    },
+    {
+        "id": 61,
+        "question": "In a cyclic process, the net heat absorbed by the system is equal to:",
+        "options": [
+            "Zero",
+            "Change in internal energy",
+            "Work done by the system",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "For a cycle, ΔU = 0, hence Q = W."
+    },
+    {
+        "id": 62,
+        "question": "Which of the following quantities remains unchanged in an isothermal process of an ideal gas?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Internal energy"
+        ],
+        "answer": 3,
+        "explanation": "For ideal gas, internal energy depends only on temperature, which is constant."
+    },
+    {
+        "id": 63,
+        "question": "The slope of an adiabatic curve on a PV diagram is:",
+        "options": [
+            "Less than isothermal curve",
+            "Greater than isothermal curve",
+            "Zero",
+            "Positive"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic curve is steeper than isothermal curve."
+    },
+    {
+        "id": 64,
+        "question": "Which process gives maximum work output between two fixed volumes?",
+        "options": [
+            "Adiabatic",
+            "Isothermal",
+            "Isochoric",
+            "Isobaric"
+        ],
+        "answer": 1,
+        "explanation": "Isothermal expansion gives maximum work for given limits."
+    },
+    {
+        "id": 65,
+        "question": "Entropy change of an isolated system in a spontaneous process is:",
+        "options": [
+            "Negative",
+            "Zero",
+            "Positive",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system increases in spontaneous processes."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "All reversible processes are quasi-static",
+            "All quasi-static processes are reversible",
+            "All irreversible processes are quasi-static",
+            "Free expansion is reversible"
+        ],
+        "answer": 0,
+        "explanation": "Reversible processes must be quasi-static as per NCERT."
+    },
+    {
+        "id": 67,
+        "question": "The specific heat at constant pressure is greater than that at constant volume because:",
+        "options": [
+            "More heat is needed to increase temperature",
+            "Gas does external work at constant pressure",
+            "Internal energy change is larger",
+            "Volume remains constant"
+        ],
+        "answer": 1,
+        "explanation": "At constant pressure, part of heat goes into work done by gas."
+    },
+    {
+        "id": 68,
+        "question": "The unit of coefficient of performance (COP) is:",
+        "options": [
+            "J/K",
+            "No unit",
+            "W",
+            "K"
+        ],
+        "answer": 1,
+        "explanation": "COP is a ratio of energies, hence dimensionless."
+    },
+    {
+        "id": 69,
+        "question": "Which law introduces the concept of entropy?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Second law leads to definition of entropy."
+    },
+    {
+        "id": 70,
+        "question": "For a reversible adiabatic process, entropy change of the system is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic process is isentropic."
+    },
+    {
+        "id": 71,
+        "question": "Which thermodynamic parameter determines the direction of heat flow?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Heat flows from higher to lower temperature."
+    },
+    {
+        "id": 72,
+        "question": "The efficiency of all real heat engines compared to Carnot engine is:",
+        "options": [
+            "Equal",
+            "Greater",
+            "Less",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can exceed Carnot efficiency."
+    },
+    {
+        "id": 73,
+        "question": "The entropy change in an irreversible process is calculated using:",
+        "options": [
+            "Actual path",
+            "Any reversible path between same states",
+            "Only adiabatic path",
+            "Cyclic path"
+        ],
+        "answer": 1,
+        "explanation": "Entropy is a state function; reversible path is used."
+    },
+    {
+        "id": 74,
+        "question": "Which of the following cannot be achieved practically?",
+        "options": [
+            "Isothermal process",
+            "Adiabatic process",
+            "Reversible process",
+            "Isochoric process"
+        ],
+        "answer": 2,
+        "explanation": "Perfectly reversible processes are idealizations."
+    },
+    {
+        "id": 75,
+        "question": "In a refrigerator, work is done on the system to:",
+        "options": [
+            "Increase entropy",
+            "Transfer heat from cold to hot reservoir",
+            "Convert heat into work",
+            "Maintain constant temperature"
+        ],
+        "answer": 1,
+        "explanation": "External work is required to pump heat from cold to hot body."
+    },
+    {
+        "id": 76,
+        "question": "The entropy change of the universe in a reversible process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Total entropy remains constant for reversible processes."
+    },
+    {
+        "id": 77,
+        "question": "For an ideal gas, the change in internal energy during an isothermal compression is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Temperature remains constant, so internal energy does not change."
+    },
+    {
+        "id": 78,
+        "question": "Which of the following statements is correct for a heat engine?",
+        "options": [
+            "It converts all heat into work",
+            "It operates in a cycle",
+            "It transfers heat from cold to hot body",
+            "It violates second law"
+        ],
+        "answer": 1,
+        "explanation": "Heat engines must operate in cycles."
+    },
+    {
+        "id": 79,
+        "question": "The minimum temperature that can be theoretically achieved is:",
+        "options": [
+            "0 °C",
+            "−273 °C",
+            "−100 °C",
+            "273 K"
+        ],
+        "answer": 1,
+        "explanation": "Absolute zero corresponds to −273 °C as per NCERT."
+    },
+    {
+        "id": 80,
+        "question": "The third law of thermodynamics implies that at absolute zero:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is minimum",
+            "Entropy is undefined",
+            "Entropy is infinite"
+        ],
+        "answer": 1,
+        "explanation": "Entropy tends to minimum value at absolute zero."
+    },
+    {
+        "id": 81,
+        "question": "Which of the following is correct regarding state variables?",
+        "options": [
+            "They depend on path",
+            "They depend on initial state only",
+            "They depend on final state only",
+            "They depend only on the state of system"
+        ],
+        "answer": 3,
+        "explanation": "State variables depend only on the state of the system."
+    },
+    {
+        "id": 82,
+        "question": "Which of the following is NOT a thermodynamic equilibrium condition?",
+        "options": [
+            "Thermal equilibrium",
+            "Mechanical equilibrium",
+            "Chemical equilibrium",
+            "Electrical equilibrium"
+        ],
+        "answer": 3,
+        "explanation": "Thermodynamic equilibrium requires thermal, mechanical and chemical equilibrium."
+    },
+    {
+        "id": 83,
+        "question": "For a diatomic ideal gas at room temperature, the value of γ is approximately:",
+        "options": [
+            "5/3",
+            "7/5",
+            "4/3",
+            "3/2"
+        ],
+        "answer": 1,
+        "explanation": "For diatomic gas, γ ≈ 7/5 as per NCERT."
+    },
+    {
+        "id": 84,
+        "question": "The work done in free expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "No external pressure acts, so work done is zero."
+    },
+    {
+        "id": 85,
+        "question": "Which process is represented by a vertical line on a PV diagram?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Constant volume process is shown as vertical line."
+    },
+    {
+        "id": 86,
+        "question": "In which process does temperature increase without heat exchange?",
+        "options": [
+            "Isothermal compression",
+            "Adiabatic compression",
+            "Isochoric heating",
+            "Isobaric expansion"
+        ],
+        "answer": 1,
+        "explanation": "In adiabatic compression, work done increases temperature."
+    },
+    {
+        "id": 87,
+        "question": "The entropy change for an isothermal expansion of an ideal gas is:",
+        "options": [
+            "nR ln(V1/V2)",
+            "nR ln(V2/V1)",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "ΔS = nR ln(V2/V1) for isothermal expansion."
+    },
+    {
+        "id": 88,
+        "question": "Which statement is correct for internal energy?",
+        "options": [
+            "Path dependent",
+            "Depends on volume only",
+            "State function",
+            "Always zero"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy is a state function."
+    },
+    {
+        "id": 89,
+        "question": "The first law of thermodynamics in differential form is:",
+        "options": [
+            "dQ = dU − dW",
+            "dQ = dU + dW",
+            "dU = dW − dQ",
+            "dW = dU + dQ"
+        ],
+        "answer": 1,
+        "explanation": "NCERT gives first law as dQ = dU + dW."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following increases the efficiency of a Carnot engine?",
+        "options": [
+            "Increasing sink temperature",
+            "Decreasing source temperature",
+            "Increasing source temperature",
+            "Increasing both temperatures equally"
+        ],
+        "answer": 2,
+        "explanation": "Efficiency increases when temperature of source increases."
+    },
+    {
+        "id": 91,
+        "question": "Which of the following quantities has dimensions of energy per kelvin?",
+        "options": [
+            "Heat",
+            "Entropy",
+            "Work",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Entropy has unit J/K."
+    },
+    {
+        "id": 92,
+        "question": "A process in which pressure remains constant is called:",
+        "options": [
+            "Isochoric",
+            "Isothermal",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Isobaric process occurs at constant pressure."
+    },
+    {
+        "id": 93,
+        "question": "Which statement is correct according to the second law?",
+        "options": [
+            "Heat can spontaneously flow from cold to hot",
+            "Entropy of universe always decreases",
+            "No engine can be 100% efficient",
+            "Work can be converted fully into heat only"
+        ],
+        "answer": 2,
+        "explanation": "Second law forbids 100% efficient heat engines."
+    },
+    {
+        "id": 94,
+        "question": "The work done by an ideal gas in an isochoric process is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "Volume is constant, so work done is zero."
+    },
+    {
+        "id": 95,
+        "question": "The Carnot cycle consists of:",
+        "options": [
+            "Two isothermal and two adiabatic processes",
+            "Two isobaric and two isochoric processes",
+            "Four isothermal processes",
+            "Four adiabatic processes"
+        ],
+        "answer": 0,
+        "explanation": "Carnot cycle has two isothermal and two adiabatic processes."
+    },
+    {
+        "id": 96,
+        "question": "Entropy change of the universe in any real process is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "Real processes are irreversible, so entropy increases."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Heat is a state function",
+            "Work is a state function",
+            "Entropy is a state function",
+            "Heat depends only on temperature"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on state, not path."
+    },
+    {
+        "id": 98,
+        "question": "In a heat engine, the ratio of work done to heat absorbed is called:",
+        "options": [
+            "Coefficient of performance",
+            "Efficiency",
+            "Entropy",
+            "Mechanical equivalent of heat"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency = work output / heat absorbed."
+    },
+    {
+        "id": 99,
+        "question": "For an isolated system, entropy can:",
+        "options": [
+            "Only decrease",
+            "Only increase",
+            "Remain constant or increase",
+            "Remain constant or decrease"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of isolated system never decreases."
+    },
+    {
+        "id": 100,
+        "question": "The concept of absolute zero temperature is obtained from:",
+        "options": [
+            "First law",
+            "Second law",
+            "Third law",
+            "Zeroth law"
+        ],
+        "answer": 2,
+        "explanation": "Third law leads to the concept of absolute zero."
+    }
+]
+[
+    {
+        "id": 101,
+        "question": "For an ideal gas, which of the following quantities depends only on temperature?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Internal energy",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states that internal energy of an ideal gas is a function of temperature only."
+    },
+    {
+        "id": 102,
+        "question": "In an adiabatic free expansion of an ideal gas, the change in temperature is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion, Q = 0 and W = 0, so ΔU = 0 and temperature remains constant."
+    },
+    {
+        "id": 103,
+        "question": "The work done by a gas in a cyclic process is represented by:",
+        "options": [
+            "Area under the PV curve",
+            "Area enclosed by the PV loop",
+            "Change in internal energy",
+            "Product of pressure and volume"
+        ],
+        "answer": 1,
+        "explanation": "Net work done in a cycle equals the area enclosed by the PV loop."
+    },
+    {
+        "id": 104,
+        "question": "Which of the following statements is correct for an adiabatic process?",
+        "options": [
+            "Temperature remains constant",
+            "Heat exchanged is zero",
+            "Pressure remains constant",
+            "Volume remains constant"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic process is defined by Q = 0."
+    },
+    {
+        "id": 105,
+        "question": "For an ideal gas, the equation T^γ P^(1−γ) = constant represents:",
+        "options": [
+            "Isothermal process",
+            "Isobaric process",
+            "Isochoric process",
+            "Adiabatic process"
+        ],
+        "answer": 3,
+        "explanation": "This is one of the equivalent adiabatic relations given in NCERT."
+    },
+    {
+        "id": 106,
+        "question": "The change in entropy of a system during a reversible isothermal expansion of an ideal gas is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Entropy increases during isothermal expansion of an ideal gas."
+    },
+    {
+        "id": 107,
+        "question": "In which process does the entire heat supplied go into increasing internal energy?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "In isochoric process, work done is zero, so Q = ΔU."
+    },
+    {
+        "id": 108,
+        "question": "The thermodynamic variable which decides mechanical equilibrium is:",
+        "options": [
+            "Temperature",
+            "Entropy",
+            "Pressure",
+            "Internal energy"
+        ],
+        "answer": 2,
+        "explanation": "Mechanical equilibrium requires equality of pressure."
+    },
+    {
+        "id": 109,
+        "question": "Which of the following is correct about entropy?",
+        "options": [
+            "It is path dependent",
+            "It is not defined for irreversible processes",
+            "It is a state function",
+            "It is always zero"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 110,
+        "question": "For an adiabatic compression of an ideal gas, which of the following increases?",
+        "options": [
+            "Volume",
+            "Entropy",
+            "Temperature",
+            "Heat content"
+        ],
+        "answer": 2,
+        "explanation": "Work done on the gas increases its temperature in adiabatic compression."
+    },
+    {
+        "id": 111,
+        "question": "The first law of thermodynamics for a cyclic process reduces to:",
+        "options": [
+            "Q = 0",
+            "W = 0",
+            "Q = W",
+            "ΔU = W"
+        ],
+        "answer": 2,
+        "explanation": "For a cycle, ΔU = 0, hence Q = W."
+    },
+    {
+        "id": 112,
+        "question": "The slope of a PV curve at any point represents:",
+        "options": [
+            "Work done",
+            "Pressure",
+            "Rate of change of pressure with volume",
+            "Change in internal energy"
+        ],
+        "answer": 2,
+        "explanation": "Slope gives dP/dV at that point on PV diagram."
+    },
+    {
+        "id": 113,
+        "question": "Which of the following processes is both adiabatic and reversible?",
+        "options": [
+            "Free expansion",
+            "Quasi-static expansion without heat exchange",
+            "Rapid expansion",
+            "Isochoric heating"
+        ],
+        "answer": 1,
+        "explanation": "A quasi-static process with no heat exchange is reversible adiabatic."
+    },
+    {
+        "id": 114,
+        "question": "The efficiency of a Carnot engine increases when:",
+        "options": [
+            "Sink temperature increases",
+            "Source temperature decreases",
+            "Difference between source and sink temperatures increases",
+            "Both temperatures decrease equally"
+        ],
+        "answer": 2,
+        "explanation": "η = 1 − T2/T1 increases when temperature difference increases."
+    },
+    {
+        "id": 115,
+        "question": "Which thermodynamic quantity always increases for an isolated system?",
+        "options": [
+            "Internal energy",
+            "Work",
+            "Entropy",
+            "Heat"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 116,
+        "question": "For a monoatomic ideal gas, the value of Cv in terms of J is:",
+        "options": [
+            "J",
+            "3J/2",
+            "5J/2",
+            "7J/2"
+        ],
+        "answer": 1,
+        "explanation": "For monoatomic gas, Cv = 3J/2 as per NCERT notation."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following is NOT a thermodynamic process?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isotropic",
+            "Isochoric"
+        ],
+        "answer": 2,
+        "explanation": "Isotropic is not a thermodynamic process."
+    },
+    {
+        "id": 118,
+        "question": "The efficiency of a refrigerator compared to a heat engine operating between same temperatures is:",
+        "options": [
+            "Less",
+            "Greater",
+            "Equal",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "COP of refrigerator is numerically greater than efficiency of heat engine."
+    },
+    {
+        "id": 119,
+        "question": "For an isothermal compression of an ideal gas, work done by the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "During compression, work is done on the gas, so work by gas is negative."
+    },
+    {
+        "id": 120,
+        "question": "The zeroth law of thermodynamics deals with:",
+        "options": [
+            "Conservation of energy",
+            "Direction of heat flow",
+            "Thermal equilibrium",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Zeroth law establishes the concept of thermal equilibrium."
+    },
+    {
+        "id": 121,
+        "question": "Which of the following quantities is additive for a composite system?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is an extensive and additive property."
+    },
+    {
+        "id": 122,
+        "question": "In a reversible process, entropy change of the universe is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "For reversible processes, total entropy change is zero."
+    },
+    {
+        "id": 123,
+        "question": "Which process is represented by a horizontal line on a PV diagram?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 1,
+        "explanation": "Constant pressure process appears as a horizontal line."
+    },
+    {
+        "id": 124,
+        "question": "The internal energy of an ideal gas at absolute zero temperature is:",
+        "options": [
+            "Maximum",
+            "Infinite",
+            "Minimum",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At absolute zero, internal energy attains minimum value."
+    },
+    {
+        "id": 125,
+        "question": "Which law of thermodynamics introduces the concept of absolute zero?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 3,
+        "explanation": "Third law predicts behavior of entropy near absolute zero."
+    },
+    {
+        "id": 126,
+        "question": "For a given mass of gas, which quantity remains constant in an isothermal process?",
+        "options": [
+            "PV",
+            "P/V",
+            "P+V",
+            "PV^γ"
+        ],
+        "answer": 0,
+        "explanation": "For isothermal process, PV = constant."
+    },
+    {
+        "id": 127,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Heat is a state variable",
+            "Work is a state variable",
+            "Entropy is a state variable",
+            "Heat depends only on temperature"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is a state function."
+    },
+    {
+        "id": 128,
+        "question": "For a reversible process, which of the following must be zero?",
+        "options": [
+            "Work done",
+            "Heat exchanged",
+            "Entropy production",
+            "Internal energy change"
+        ],
+        "answer": 2,
+        "explanation": "No entropy is produced in reversible processes."
+    },
+    {
+        "id": 129,
+        "question": "The unit of molar specific heat capacity is:",
+        "options": [
+            "J/kg K",
+            "J/mol",
+            "J/mol K",
+            "J/K"
+        ],
+        "answer": 2,
+        "explanation": "Molar heat capacity is measured in J/mol K."
+    },
+    {
+        "id": 130,
+        "question": "The area under an isobaric curve on a PV diagram represents:",
+        "options": [
+            "Heat supplied",
+            "Work done",
+            "Change in entropy",
+            "Change in internal energy"
+        ],
+        "answer": 1,
+        "explanation": "Area under PV curve always represents work done."
+    },
+    {
+        "id": 131,
+        "question": "Which statement is correct regarding quasi-static processes?",
+        "options": [
+            "They are always irreversible",
+            "They proceed through non-equilibrium states",
+            "They proceed through equilibrium states",
+            "They are always adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Quasi-static processes pass through equilibrium states."
+    },
+    {
+        "id": 132,
+        "question": "For an isolated system, which of the following remains constant?",
+        "options": [
+            "Entropy only",
+            "Internal energy only",
+            "Both internal energy and entropy",
+            "Pressure"
+        ],
+        "answer": 1,
+        "explanation": "Isolated system has constant internal energy."
+    },
+    {
+        "id": 133,
+        "question": "The entropy change of a system can be zero when the process is:",
+        "options": [
+            "Irreversible",
+            "Reversible adiabatic",
+            "Reversible isothermal",
+            "Isochoric"
+        ],
+        "answer": 1,
+        "explanation": "Reversible adiabatic process is isentropic."
+    },
+    {
+        "id": 134,
+        "question": "Which of the following is a correct PV relation for an adiabatic process?",
+        "options": [
+            "PV = constant",
+            "PV^γ = constant",
+            "P/V = constant",
+            "P^γ V = constant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT adiabatic condition is PV^γ = constant."
+    },
+    {
+        "id": 135,
+        "question": "The work done in an isothermal process depends on:",
+        "options": [
+            "Initial pressure only",
+            "Final volume only",
+            "Path of the process",
+            "Ratio of final and initial volumes"
+        ],
+        "answer": 3,
+        "explanation": "W = nRT ln(V2/V1), depends on volume ratio."
+    },
+    {
+        "id": 136,
+        "question": "The entropy of a perfectly ordered crystalline substance at 0 K is:",
+        "options": [
+            "Maximum",
+            "Infinite",
+            "Minimum",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Third law states entropy is minimum at absolute zero."
+    },
+    {
+        "id": 137,
+        "question": "Which thermodynamic process is impossible to realize exactly in practice?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Reversible"
+        ],
+        "answer": 3,
+        "explanation": "Perfectly reversible processes are ideal and not achievable."
+    },
+    {
+        "id": 138,
+        "question": "Which quantity determines the direction of spontaneous processes?",
+        "options": [
+            "Energy",
+            "Work",
+            "Entropy",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Spontaneous processes occur in direction of increasing entropy."
+    },
+    {
+        "id": 139,
+        "question": "In an irreversible process, entropy change of the system is:",
+        "options": [
+            "Always zero",
+            "Always negative",
+            "Positive or negative",
+            "Defined using a reversible path"
+        ],
+        "answer": 3,
+        "explanation": "Entropy change is calculated via an equivalent reversible path."
+    },
+    {
+        "id": 140,
+        "question": "Which thermodynamic quantity has the same value at all points of a system in thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium requires uniform temperature."
+    },
+    {
+        "id": 141,
+        "question": "The coefficient of performance of an ideal heat pump is:",
+        "options": [
+            "T1/(T1 − T2)",
+            "T2/(T1 − T2)",
+            "(T1 − T2)/T2",
+            "T2/T1"
+        ],
+        "answer": 0,
+        "explanation": "COP of heat pump = T1/(T1 − T2)."
+    },
+    {
+        "id": 142,
+        "question": "Which of the following is NOT a state function?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Work",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Work depends on path, not just state."
+    },
+    {
+        "id": 143,
+        "question": "For an isothermal expansion, the entropy change of surroundings is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Surroundings lose heat, so their entropy decreases."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following relations is valid for a reversible process?",
+        "options": [
+            "dS > dQ/T",
+            "dS < dQ/T",
+            "dS = dQ/T",
+            "dS = TdQ"
+        ],
+        "answer": 2,
+        "explanation": "Definition of entropy for reversible processes is dS = dQ/T."
+    },
+    {
+        "id": 145,
+        "question": "The concept of heat reservoir implies:",
+        "options": [
+            "Infinite temperature",
+            "Infinite heat capacity",
+            "Zero heat capacity",
+            "Constant entropy"
+        ],
+        "answer": 1,
+        "explanation": "Heat reservoir has very large heat capacity."
+    },
+    {
+        "id": 146,
+        "question": "Which statement correctly describes a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It is the most efficient engine",
+            "It violates second law",
+            "It works without sink"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine has maximum possible efficiency."
+    },
+    {
+        "id": 147,
+        "question": "In a reversible isothermal expansion, which quantity remains constant for an ideal gas?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Isothermal process is defined by constant temperature."
+    },
+    {
+        "id": 148,
+        "question": "Which thermodynamic quantity is always conserved?",
+        "options": [
+            "Entropy",
+            "Heat",
+            "Work",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is conserved according to the first law."
+    },
+    {
+        "id": 149,
+        "question": "The PV diagram of a cyclic process traced clockwise indicates:",
+        "options": [
+            "Net work done on the system",
+            "Net work done by the system",
+            "Zero work done",
+            "Only heat exchange"
+        ],
+        "answer": 1,
+        "explanation": "Clockwise cycle represents net work done by the system."
+    },
+    {
+        "id": 150,
+        "question": "Which thermodynamic law provides the direction of natural processes?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Second law governs direction of spontaneous processes."
+    }
+]
+[
+    {
+        "id": 151,
+        "question": "For an ideal gas undergoing a reversible isothermal process, the heat absorbed by the gas is equal to:",
+        "options": [
+            "Change in internal energy",
+            "Work done by the gas",
+            "Zero",
+            "Product of pressure and volume"
+        ],
+        "answer": 1,
+        "explanation": "For an isothermal process of an ideal gas, ΔU = 0, hence Q = W."
+    },
+    {
+        "id": 152,
+        "question": "Which of the following quantities is conserved in all thermodynamic processes?",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is conserved according to the first law of thermodynamics."
+    },
+    {
+        "id": 153,
+        "question": "For a given amount of an ideal gas, which of the following remains constant in an adiabatic process?",
+        "options": [
+            "PV",
+            "PV^γ",
+            "P/T",
+            "V/T"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic condition is PV^γ = constant as per NCERT."
+    },
+    {
+        "id": 154,
+        "question": "In an isobaric expansion of an ideal gas, the work done is given by:",
+        "options": [
+            "P(V2 − V1)",
+            "nRT ln(V2/V1)",
+            "Zero",
+            "(P1V1 − P2V2)/(γ − 1)"
+        ],
+        "answer": 0,
+        "explanation": "For constant pressure, work done W = PΔV."
+    },
+    {
+        "id": 155,
+        "question": "The internal energy of a real gas depends mainly on:",
+        "options": [
+            "Volume only",
+            "Pressure only",
+            "Temperature and volume",
+            "Temperature only"
+        ],
+        "answer": 2,
+        "explanation": "For real gases, internal energy depends on temperature and volume."
+    },
+    {
+        "id": 156,
+        "question": "Which of the following processes involves no work done but heat exchange may occur?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 1,
+        "explanation": "In isochoric process, volume is constant so work done is zero."
+    },
+    {
+        "id": 157,
+        "question": "For an ideal gas, the change in internal energy during an adiabatic expansion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "In adiabatic expansion, the gas does work at the expense of internal energy."
+    },
+    {
+        "id": 158,
+        "question": "The coefficient of performance (COP) of a refrigerator is always:",
+        "options": [
+            "Less than 1",
+            "Equal to 1",
+            "Greater than 1",
+            "Equal to efficiency of Carnot engine"
+        ],
+        "answer": 2,
+        "explanation": "COP of a refrigerator is generally greater than 1."
+    },
+    {
+        "id": 159,
+        "question": "Which thermodynamic quantity is equal for all parts of a system in mechanical equilibrium?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Internal energy"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical equilibrium requires uniform pressure."
+    },
+    {
+        "id": 160,
+        "question": "For a reversible process, which of the following must be infinitesimal?",
+        "options": [
+            "Pressure difference",
+            "Temperature difference",
+            "Both pressure and temperature differences",
+            "Volume change"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes require infinitesimal gradients of intensive variables."
+    },
+    {
+        "id": 161,
+        "question": "The efficiency of a heat engine is maximum when the process is:",
+        "options": [
+            "Irreversible",
+            "Adiabatic",
+            "Reversible",
+            "Isochoric"
+        ],
+        "answer": 2,
+        "explanation": "Reversible engines have maximum possible efficiency."
+    },
+    {
+        "id": 162,
+        "question": "Which of the following statements about entropy is correct?",
+        "options": [
+            "Entropy is path dependent",
+            "Entropy is not defined for irreversible processes",
+            "Entropy is a state function",
+            "Entropy always decreases in spontaneous processes"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 163,
+        "question": "In a reversible adiabatic process, the entropy of the system:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 164,
+        "question": "For an isothermal compression of an ideal gas, the entropy change of the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Volume decreases in isothermal compression, so entropy decreases."
+    },
+    {
+        "id": 165,
+        "question": "Which of the following quantities determines thermal equilibrium between systems?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium is defined by equality of temperature."
+    },
+    {
+        "id": 166,
+        "question": "The slope of an isobaric line on a PV diagram is:",
+        "options": [
+            "Zero",
+            "Infinite",
+            "Positive",
+            "Negative"
+        ],
+        "answer": 0,
+        "explanation": "An isobaric process is represented by a horizontal line with zero slope."
+    },
+    {
+        "id": 167,
+        "question": "Which of the following processes has maximum work output between two fixed temperatures?",
+        "options": [
+            "Isothermal",
+            "Adiabatic",
+            "Reversible",
+            "Isochoric"
+        ],
+        "answer": 2,
+        "explanation": "A reversible process gives maximum possible work."
+    },
+    {
+        "id": 168,
+        "question": "The entropy change of the universe for a spontaneous process is:",
+        "options": [
+            "Negative",
+            "Zero",
+            "Positive",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Spontaneous processes increase the entropy of the universe."
+    },
+    {
+        "id": 169,
+        "question": "For a given amount of gas, which quantity remains constant in an isochoric process?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 1,
+        "explanation": "Isochoric process occurs at constant volume."
+    },
+    {
+        "id": 170,
+        "question": "Which thermodynamic law states that entropy of a perfectly crystalline substance is zero at absolute zero?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 3,
+        "explanation": "Third law of thermodynamics gives entropy behavior at absolute zero."
+    },
+    {
+        "id": 171,
+        "question": "The work done in an isothermal expansion depends on:",
+        "options": [
+            "Pressure difference only",
+            "Temperature only",
+            "Volume ratio only",
+            "Both temperature and volume ratio"
+        ],
+        "answer": 3,
+        "explanation": "W = nRT ln(V2/V1), depends on T and volume ratio."
+    },
+    {
+        "id": 172,
+        "question": "In an irreversible process, which of the following is true?",
+        "options": [
+            "System passes through equilibrium states",
+            "Entropy production is zero",
+            "Entropy of universe increases",
+            "Work done is maximum"
+        ],
+        "answer": 2,
+        "explanation": "Irreversible processes increase total entropy."
+    },
+    {
+        "id": 173,
+        "question": "Which of the following statements is correct for internal energy?",
+        "options": [
+            "It is path dependent",
+            "It is zero for all gases",
+            "It is a state function",
+            "It depends on pressure only"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy depends only on the state of the system."
+    },
+    {
+        "id": 174,
+        "question": "For an isolated system, which of the following quantities remains constant?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Both internal energy and entropy",
+            "Temperature"
+        ],
+        "answer": 1,
+        "explanation": "In an isolated system, internal energy remains constant."
+    },
+    {
+        "id": 175,
+        "question": "The efficiency of a Carnot engine becomes zero when:",
+        "options": [
+            "Source temperature equals sink temperature",
+            "Source temperature is very high",
+            "Sink temperature is zero",
+            "Engine is irreversible"
+        ],
+        "answer": 0,
+        "explanation": "η = 1 − T2/T1 becomes zero when T1 = T2."
+    },
+    {
+        "id": 176,
+        "question": "Which of the following quantities is extensive?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on amount of substance, hence extensive."
+    },
+    {
+        "id": 177,
+        "question": "For a reversible isothermal process, the entropy change of the universe is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In reversible processes, total entropy change is zero."
+    },
+    {
+        "id": 178,
+        "question": "The condition for adiabatic free expansion of an ideal gas is:",
+        "options": [
+            "Q ≠ 0, W = 0",
+            "Q = 0, W ≠ 0",
+            "Q = 0, W = 0",
+            "Q ≠ 0, W ≠ 0"
+        ],
+        "answer": 2,
+        "explanation": "Free expansion has no heat exchange and no work done."
+    },
+    {
+        "id": 179,
+        "question": "Which thermodynamic variable remains uniform in a system in thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Temperature",
+            "Entropy",
+            "Internal energy"
+        ],
+        "answer": 1,
+        "explanation": "Thermal equilibrium requires uniform temperature."
+    },
+    {
+        "id": 180,
+        "question": "The area enclosed by a closed curve on a PV diagram represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Net work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by a PV loop equals net work done."
+    },
+    {
+        "id": 181,
+        "question": "For an ideal gas, which process keeps internal energy constant?",
+        "options": [
+            "Isobaric",
+            "Isochoric",
+            "Isothermal",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy depends only on temperature, constant in isothermal process."
+    },
+    {
+        "id": 182,
+        "question": "Which statement is correct for a heat pump?",
+        "options": [
+            "It transfers heat from hot to cold without work",
+            "It transfers heat from cold to hot using work",
+            "It converts work completely into heat",
+            "It violates second law"
+        ],
+        "answer": 1,
+        "explanation": "Heat pump uses external work to transfer heat from cold to hot."
+    },
+    {
+        "id": 183,
+        "question": "The entropy change of a system can be negative when:",
+        "options": [
+            "The process is spontaneous",
+            "The process is reversible",
+            "The system releases heat",
+            "The system absorbs heat"
+        ],
+        "answer": 2,
+        "explanation": "When a system releases heat, its entropy may decrease."
+    },
+    {
+        "id": 184,
+        "question": "Which thermodynamic process cannot be represented by a single valued PV relation?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Adiabatic",
+            "Cyclic"
+        ],
+        "answer": 3,
+        "explanation": "Cyclic process requires a closed loop, not a single relation."
+    },
+    {
+        "id": 185,
+        "question": "The zeroth law of thermodynamics is concerned with:",
+        "options": [
+            "Energy conservation",
+            "Direction of heat flow",
+            "Thermal equilibrium",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Zeroth law establishes thermal equilibrium."
+    },
+    {
+        "id": 186,
+        "question": "For an ideal gas, the ratio Cp/Cv depends on:",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Nature of the gas",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "γ depends on degrees of freedom of the gas."
+    },
+    {
+        "id": 187,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "All quasi-static processes are reversible",
+            "All reversible processes are quasi-static",
+            "Free expansion is quasi-static",
+            "Rapid expansion is reversible"
+        ],
+        "answer": 1,
+        "explanation": "Reversible processes must be quasi-static."
+    },
+    {
+        "id": 188,
+        "question": "The unit of entropy per mole is:",
+        "options": [
+            "J/K",
+            "J/mol",
+            "J/mol K",
+            "J/kg K"
+        ],
+        "answer": 2,
+        "explanation": "Molar entropy is measured in J/mol K."
+    },
+    {
+        "id": 189,
+        "question": "Which of the following is correct for a perfectly efficient heat engine?",
+        "options": [
+            "It violates the first law",
+            "It violates the second law",
+            "It absorbs no heat",
+            "It produces no work"
+        ],
+        "answer": 1,
+        "explanation": "A 100% efficient engine is forbidden by the second law."
+    },
+    {
+        "id": 190,
+        "question": "For a reversible isothermal expansion, the heat absorbed by the system equals:",
+        "options": [
+            "Change in internal energy",
+            "Work done by the system",
+            "Zero",
+            "Entropy change"
+        ],
+        "answer": 1,
+        "explanation": "For isothermal ideal gas process, Q = W."
+    },
+    {
+        "id": 191,
+        "question": "Which thermodynamic quantity is always positive for spontaneous processes of an isolated system?",
+        "options": [
+            "Work",
+            "Heat",
+            "Entropy change",
+            "Internal energy change"
+        ],
+        "answer": 2,
+        "explanation": "Entropy change of an isolated system is positive for spontaneous processes."
+    },
+    {
+        "id": 192,
+        "question": "In which process does the temperature of an ideal gas remain unchanged despite work being done?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Adiabatic",
+            "Isobaric"
+        ],
+        "answer": 0,
+        "explanation": "In isothermal process, temperature remains constant."
+    },
+    {
+        "id": 193,
+        "question": "The entropy change of the surroundings during isothermal expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Surroundings lose heat, so their entropy decreases."
+    },
+    {
+        "id": 194,
+        "question": "Which of the following is a correct statement for an isolated system?",
+        "options": [
+            "Entropy decreases",
+            "Entropy remains constant always",
+            "Entropy never decreases",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 195,
+        "question": "The third law of thermodynamics implies that at absolute zero temperature:",
+        "options": [
+            "Heat capacity is maximum",
+            "Heat capacity becomes zero",
+            "Internal energy is maximum",
+            "Entropy is maximum"
+        ],
+        "answer": 1,
+        "explanation": "Heat capacity tends to zero near absolute zero."
+    },
+    {
+        "id": 196,
+        "question": "For an isobaric heating of an ideal gas, the heat supplied is equal to:",
+        "options": [
+            "nCvΔT",
+            "nCpΔT",
+            "Work done only",
+            "Change in internal energy only"
+        ],
+        "answer": 1,
+        "explanation": "At constant pressure, Q = nCpΔT."
+    },
+    {
+        "id": 197,
+        "question": "Which of the following relations is valid for an adiabatic process of an ideal gas?",
+        "options": [
+            "TV = constant",
+            "T^γ V = constant",
+            "TV^(γ−1) = constant",
+            "T/V = constant"
+        ],
+        "answer": 2,
+        "explanation": "Adiabatic relation is TV^(γ−1) = constant."
+    },
+    {
+        "id": 198,
+        "question": "Which of the following statements correctly describes entropy?",
+        "options": [
+            "It measures disorder of the system",
+            "It measures temperature of the system",
+            "It measures pressure of the system",
+            "It measures volume of the system"
+        ],
+        "answer": 0,
+        "explanation": "Entropy is a measure of randomness or disorder."
+    },
+    {
+        "id": 199,
+        "question": "The efficiency of a Carnot engine operating between T1 and T2 increases when:",
+        "options": [
+            "T1 decreases",
+            "T2 increases",
+            "T1 increases",
+            "T1 and T2 increase equally"
+        ],
+        "answer": 2,
+        "explanation": "η = 1 − T2/T1 increases when T1 increases."
+    },
+    {
+        "id": 200,
+        "question": "Which thermodynamic law states that heat cannot be completely converted into work in a cyclic process?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Second law forbids complete conversion of heat into work."
+    }
+]
+[
+    {
+        "id": 201,
+        "question": "For an ideal gas undergoing a reversible isothermal expansion, the expression for entropy change of the gas is:",
+        "options": [
+            "nR ln(P2/P1)",
+            "nR ln(V2/V1)",
+            "nR ln(T2/T1)",
+            "nCv ln(T2/T1)"
+        ],
+        "answer": 1,
+        "explanation": "For reversible isothermal expansion of an ideal gas, ΔS = nR ln(V2/V1)."
+    },
+    {
+        "id": 202,
+        "question": "In an adiabatic process for an ideal gas, which of the following quantities remains constant?",
+        "options": [
+            "PV",
+            "P/T",
+            "TV^(γ−1)",
+            "V/T"
+        ],
+        "answer": 2,
+        "explanation": "NCERT gives the adiabatic relation TV^(γ−1) = constant."
+    },
+    {
+        "id": 203,
+        "question": "The work done by an ideal gas during a reversible adiabatic expansion from (P1,V1) to (P2,V2) is:",
+        "options": [
+            "nRT ln(V2/V1)",
+            "(P1V1 − P2V2)/(γ − 1)",
+            "P(V2 − V1)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "For a reversible adiabatic process, W = (P1V1 − P2V2)/(γ − 1)."
+    },
+    {
+        "id": 204,
+        "question": "Which thermodynamic quantity determines the direction of a spontaneous process in an isolated system?",
+        "options": [
+            "Internal energy",
+            "Heat",
+            "Entropy",
+            "Work"
+        ],
+        "answer": 2,
+        "explanation": "Spontaneous processes in an isolated system occur with increase in entropy."
+    },
+    {
+        "id": 205,
+        "question": "For an isochoric heating of an ideal gas, the heat supplied is given by:",
+        "options": [
+            "nCpΔT",
+            "nRΔT",
+            "nCvΔT",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At constant volume, Q = nCvΔT."
+    },
+    {
+        "id": 206,
+        "question": "Which of the following statements is correct regarding the zeroth law of thermodynamics?",
+        "options": [
+            "It defines entropy",
+            "It defines internal energy",
+            "It provides the basis for temperature measurement",
+            "It explains heat engines"
+        ],
+        "answer": 2,
+        "explanation": "Zeroth law establishes the concept of temperature."
+    },
+    {
+        "id": 207,
+        "question": "In a cyclic thermodynamic process, the net change in entropy of the system is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is a state function, so its net change over a cycle is zero."
+    },
+    {
+        "id": 208,
+        "question": "For an irreversible process, the entropy change of the universe is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Irreversible processes always increase the entropy of the universe."
+    },
+    {
+        "id": 209,
+        "question": "Which of the following quantities is NOT a state function?",
+        "options": [
+            "Pressure",
+            "Temperature",
+            "Entropy",
+            "Heat"
+        ],
+        "answer": 3,
+        "explanation": "Heat is path dependent and hence not a state function."
+    },
+    {
+        "id": 210,
+        "question": "The efficiency of a Carnot engine operating between temperatures T1 and T2 (T1 > T2) is:",
+        "options": [
+            "T2/T1",
+            "1 − T2/T1",
+            "T1/T2",
+            "1 − T1/T2"
+        ],
+        "answer": 1,
+        "explanation": "Carnot efficiency is given by η = 1 − T2/T1."
+    },
+    {
+        "id": 211,
+        "question": "For a reversible process, which of the following conditions must be satisfied?",
+        "options": [
+            "Finite temperature difference between system and surroundings",
+            "No friction and infinitesimal gradients",
+            "Rapid change of state variables",
+            "No work done"
+        ],
+        "answer": 1,
+        "explanation": "Reversible processes require absence of friction and infinitesimal gradients."
+    },
+    {
+        "id": 212,
+        "question": "Which thermodynamic quantity is extensive?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on the amount of substance, hence extensive."
+    },
+    {
+        "id": 213,
+        "question": "The work done in a free expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion, external pressure is zero, so work done is zero."
+    },
+    {
+        "id": 214,
+        "question": "Which of the following processes has zero work done but non-zero heat exchange?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Adiabatic",
+            "Isobaric"
+        ],
+        "answer": 1,
+        "explanation": "In isochoric process, volume is constant, so work done is zero."
+    },
+    {
+        "id": 215,
+        "question": "For an ideal gas, the internal energy during an isothermal process:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas depends only on temperature, which is constant."
+    },
+    {
+        "id": 216,
+        "question": "Which of the following relations correctly represents an adiabatic process?",
+        "options": [
+            "PV = constant",
+            "PV^γ = constant",
+            "P/T = constant",
+            "V/T = constant"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic process obeys PV^γ = constant."
+    },
+    {
+        "id": 217,
+        "question": "The entropy change of the surroundings during an isothermal expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Surroundings lose heat during expansion, so their entropy decreases."
+    },
+    {
+        "id": 218,
+        "question": "Which of the following statements is correct for a heat engine?",
+        "options": [
+            "It converts all absorbed heat into work",
+            "It operates between two heat reservoirs",
+            "It works without rejecting heat",
+            "It violates the first law"
+        ],
+        "answer": 1,
+        "explanation": "A heat engine operates between a hot source and a cold sink."
+    },
+    {
+        "id": 219,
+        "question": "The coefficient of performance of an ideal refrigerator operating between temperatures T1 and T2 (T1 > T2) is:",
+        "options": [
+            "T1/(T1 − T2)",
+            "T2/(T1 − T2)",
+            "(T1 − T2)/T2",
+            "T2/T1"
+        ],
+        "answer": 1,
+        "explanation": "COP of refrigerator is T2/(T1 − T2)."
+    },
+    {
+        "id": 220,
+        "question": "For a reversible adiabatic process, the entropy change of the system is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 221,
+        "question": "Which thermodynamic law states that no process is possible whose sole result is the transfer of heat from a colder to a hotter body?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "This is the Clausius statement of the second law."
+    },
+    {
+        "id": 222,
+        "question": "The area enclosed by a closed loop on a PV diagram represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Net work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by a PV loop gives net work done in a cycle."
+    },
+    {
+        "id": 223,
+        "question": "Which of the following processes gives maximum work output between two fixed states?",
+        "options": [
+            "Irreversible",
+            "Reversible",
+            "Adiabatic",
+            "Isochoric"
+        ],
+        "answer": 1,
+        "explanation": "Reversible processes yield maximum possible work."
+    },
+    {
+        "id": 224,
+        "question": "For an isolated system, which of the following statements is correct?",
+        "options": [
+            "Entropy always decreases",
+            "Entropy always increases",
+            "Entropy never decreases",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 225,
+        "question": "The unit of entropy is:",
+        "options": [
+            "J",
+            "J/K",
+            "K/J",
+            "W"
+        ],
+        "answer": 1,
+        "explanation": "Entropy is measured in joule per kelvin."
+    },
+    {
+        "id": 226,
+        "question": "For an isobaric process, the heat supplied to an ideal gas is:",
+        "options": [
+            "nCvΔT",
+            "nRΔT",
+            "nCpΔT",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At constant pressure, heat supplied is Q = nCpΔT."
+    },
+    {
+        "id": 227,
+        "question": "Which of the following statements correctly describes entropy?",
+        "options": [
+            "It depends on path",
+            "It is defined only for irreversible processes",
+            "It is a state function",
+            "It always decreases"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 228,
+        "question": "The third law of thermodynamics implies that at absolute zero temperature:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is infinite",
+            "Entropy is minimum",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy approaches minimum value at absolute zero."
+    },
+    {
+        "id": 229,
+        "question": "Which of the following is a necessary condition for a reversible process?",
+        "options": [
+            "Finite temperature difference",
+            "Rapid change of state",
+            "Infinitesimal gradients",
+            "Large friction"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes require infinitesimal gradients."
+    },
+    {
+        "id": 230,
+        "question": "The entropy change of the universe in a reversible process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Total entropy remains constant for reversible processes."
+    },
+    {
+        "id": 231,
+        "question": "Which thermodynamic variable remains uniform in a system at thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium requires uniform temperature."
+    },
+    {
+        "id": 232,
+        "question": "For an ideal gas, which process results in zero change in internal energy?",
+        "options": [
+            "Isothermal",
+            "Adiabatic",
+            "Isochoric",
+            "Isobaric"
+        ],
+        "answer": 0,
+        "explanation": "Internal energy depends only on temperature, constant in isothermal process."
+    },
+    {
+        "id": 233,
+        "question": "Which of the following statements is correct regarding quasi-static processes?",
+        "options": [
+            "They are always irreversible",
+            "They pass through equilibrium states",
+            "They involve large gradients",
+            "They have zero work done"
+        ],
+        "answer": 1,
+        "explanation": "Quasi-static processes proceed through equilibrium states."
+    },
+    {
+        "id": 234,
+        "question": "The efficiency of a real heat engine is always:",
+        "options": [
+            "Equal to Carnot efficiency",
+            "Greater than Carnot efficiency",
+            "Less than Carnot efficiency",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can exceed Carnot efficiency."
+    },
+    {
+        "id": 235,
+        "question": "Which of the following quantities is intensive?",
+        "options": [
+            "Entropy",
+            "Volume",
+            "Temperature",
+            "Internal energy"
+        ],
+        "answer": 2,
+        "explanation": "Temperature does not depend on the amount of substance."
+    },
+    {
+        "id": 236,
+        "question": "In an isothermal compression of an ideal gas, the work done by the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Work is done on the gas, so work done by the gas is negative."
+    },
+    {
+        "id": 237,
+        "question": "Which of the following relations is valid for a reversible process?",
+        "options": [
+            "dS > dQ/T",
+            "dS < dQ/T",
+            "dS = dQ/T",
+            "dS = TdQ"
+        ],
+        "answer": 2,
+        "explanation": "For reversible processes, dS = dQ/T."
+    },
+    {
+        "id": 238,
+        "question": "The concept of heat reservoir implies a body with:",
+        "options": [
+            "Very small heat capacity",
+            "Very large heat capacity",
+            "Zero entropy",
+            "Zero temperature"
+        ],
+        "answer": 1,
+        "explanation": "A heat reservoir has very large heat capacity."
+    },
+    {
+        "id": 239,
+        "question": "Which of the following statements correctly describes a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It has maximum possible efficiency",
+            "It violates second law",
+            "It operates without a sink"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine is an ideal engine with maximum efficiency."
+    },
+    {
+        "id": 240,
+        "question": "The coefficient of performance of a heat pump operating between temperatures T1 and T2 (T1 > T2) is:",
+        "options": [
+            "T2/(T1 − T2)",
+            "T1/(T1 − T2)",
+            "(T1 − T2)/T2",
+            "T2/T1"
+        ],
+        "answer": 1,
+        "explanation": "COP of heat pump is T1/(T1 − T2)."
+    },
+    {
+        "id": 241,
+        "question": "Which of the following statements is correct for an isolated system?",
+        "options": [
+            "Internal energy can change",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Temperature always remains constant"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 242,
+        "question": "For an adiabatic compression of an ideal gas, the temperature of the gas:",
+        "options": [
+            "Remains constant",
+            "Decreases",
+            "Increases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Work done on the gas increases its temperature."
+    },
+    {
+        "id": 243,
+        "question": "Which thermodynamic law introduces the concept of entropy?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is introduced through the second law."
+    },
+    {
+        "id": 244,
+        "question": "The entropy change of a system in an irreversible process is calculated using:",
+        "options": [
+            "Actual irreversible path",
+            "Any reversible path between same states",
+            "Only adiabatic path",
+            "Only isothermal path"
+        ],
+        "answer": 1,
+        "explanation": "Entropy change is calculated via an equivalent reversible path."
+    },
+    {
+        "id": 245,
+        "question": "Which of the following is correct for an isochoric process?",
+        "options": [
+            "Work done is maximum",
+            "Heat exchanged is zero",
+            "Volume remains constant",
+            "Pressure remains constant"
+        ],
+        "answer": 2,
+        "explanation": "Isochoric process occurs at constant volume."
+    },
+    {
+        "id": 246,
+        "question": "The work done in a reversible isothermal process of an ideal gas depends on:",
+        "options": [
+            "Pressure only",
+            "Temperature only",
+            "Volume ratio only",
+            "Temperature and volume ratio"
+        ],
+        "answer": 3,
+        "explanation": "W = nRT ln(V2/V1), depends on T and volume ratio."
+    },
+    {
+        "id": 247,
+        "question": "Which of the following statements is correct regarding the second law of thermodynamics?",
+        "options": [
+            "It defines internal energy",
+            "It forbids 100% efficient heat engines",
+            "It defines temperature",
+            "It applies only to isolated systems"
+        ],
+        "answer": 1,
+        "explanation": "Second law forbids complete conversion of heat into work."
+    },
+    {
+        "id": 248,
+        "question": "For an ideal gas, which thermodynamic quantity remains constant during an adiabatic free expansion?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Volume"
+        ],
+        "answer": 0,
+        "explanation": "In free expansion of ideal gas, ΔU = 0, so temperature remains constant."
+    },
+    {
+        "id": 249,
+        "question": "Which of the following processes has zero entropy change of the system?",
+        "options": [
+            "Irreversible process",
+            "Reversible adiabatic process",
+            "Reversible isothermal process",
+            "Isochoric heating"
+        ],
+        "answer": 1,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 250,
+        "question": "Which thermodynamic law states that it is impossible to construct a heat engine that converts all absorbed heat into work?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "This is the Kelvin–Planck statement of the second law."
+    }
+]
+[
+    {
+        "id": 251,
+        "question": "For an ideal gas, the change in internal energy in a cyclic process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy is a state function, so its net change over a cycle is zero."
+    },
+    {
+        "id": 252,
+        "question": "Which of the following relations is valid for a reversible adiabatic process of an ideal gas?",
+        "options": [
+            "PV = constant",
+"PV^\gamma = constant",
+            "P/T = constant",
+            "V/T = constant"
+        ],
+        "answer": 1,
+        "explanation": "For a reversible adiabatic process, PV^\gamma remains constant as per NCERT."
+    },
+    {
+        "id": 253,
+        "question": "The entropy change of the system in a reversible isothermal compression of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "During isothermal compression, volume decreases, hence entropy of the gas decreases."
+    },
+    {
+        "id": 254,
+        "question": "In which process does the entire heat supplied appear as work done by the system for an ideal gas?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 0,
+        "explanation": "For an isothermal process of an ideal gas, \(\Delta U = 0\), so Q = W."
+    },
+    {
+        "id": 255,
+        "question": "The efficiency of a Carnot engine depends only on:",
+        "options": [
+            "Working substance",
+            "Design of engine",
+            "Temperatures of source and sink",
+            "Pressure of gas"
+        ],
+        "answer": 2,
+        "explanation": "Carnot efficiency depends only on the temperatures of the reservoirs."
+    },
+    {
+        "id": 256,
+        "question": "Which of the following quantities remains unchanged for all points of a system in thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium implies uniform temperature throughout the system."
+    },
+    {
+        "id": 257,
+        "question": "The work done in an isochoric process is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "In isochoric process, volume is constant, so work done is zero."
+    },
+    {
+        "id": 258,
+        "question": "For an isolated system, which statement is correct according to the second law of thermodynamics?",
+        "options": [
+            "Entropy always decreases",
+            "Entropy remains constant always",
+            "Entropy never decreases",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 259,
+        "question": "Which of the following processes is necessarily irreversible?",
+        "options": [
+            "Quasi-static expansion",
+            "Free expansion of a gas",
+            "Reversible adiabatic expansion",
+            "Slow isothermal expansion"
+        ],
+        "answer": 1,
+        "explanation": "Free expansion is highly irreversible as per NCERT."
+    },
+    {
+        "id": 260,
+        "question": "The unit of molar heat capacity is:",
+        "options": [
+            "J K",
+            "J/K",
+            "J/mol K",
+            "J/mol"
+        ],
+        "answer": 2,
+        "explanation": "Molar heat capacity is measured in joule per mole per kelvin."
+    },
+    {
+        "id": 261,
+        "question": "For a reversible process, the entropy change of the universe is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In a reversible process, total entropy change of the universe is zero."
+    },
+    {
+        "id": 262,
+        "question": "Which thermodynamic quantity decides mechanical equilibrium between two systems?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Internal energy"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical equilibrium requires equality of pressure."
+    },
+    {
+        "id": 263,
+        "question": "For an adiabatic expansion of an ideal gas, the temperature of the gas:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "In adiabatic expansion, the gas does work at the expense of internal energy, so temperature decreases."
+    },
+    {
+        "id": 264,
+        "question": "Which of the following is NOT a state function?",
+        "options": [
+            "Pressure",
+            "Entropy",
+            "Internal energy",
+            "Work"
+        ],
+        "answer": 3,
+        "explanation": "Work depends on the path followed, so it is not a state function."
+    },
+    {
+        "id": 265,
+        "question": "The slope of an isothermal curve on a PV diagram is:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "For an isothermal process, pressure decreases with increase in volume."
+    },
+    {
+        "id": 266,
+        "question": "The entropy change of the surroundings in an isothermal expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Surroundings lose heat to the gas, hence their entropy decreases."
+    },
+    {
+        "id": 267,
+        "question": "Which of the following processes gives maximum work output between two given states?",
+        "options": [
+            "Irreversible process",
+            "Reversible process",
+            "Adiabatic process",
+            "Isochoric process"
+        ],
+        "answer": 1,
+        "explanation": "A reversible process yields maximum possible work between two states."
+    },
+    {
+        "id": 268,
+        "question": "For an ideal gas, which of the following quantities depends only on temperature?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Internal energy",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas is a function of temperature only."
+    },
+    {
+        "id": 269,
+        "question": "The coefficient of performance of a refrigerator is defined as:",
+        "options": [
+            "Work done divided by heat extracted",
+            "Heat extracted divided by work done",
+            "Heat rejected divided by work done",
+            "Work done divided by heat rejected"
+        ],
+        "answer": 1,
+        "explanation": "COP of a refrigerator is the ratio of heat extracted from cold reservoir to work done."
+    },
+    {
+        "id": 270,
+        "question": "In an isobaric process, the work done by the gas is equal to:",
+        "options": [
+            "nRT ln(V2/V1)",
+            "P(V2 − V1)",
+            "Zero",
+"(P1V1 − P2V2)/(\gamma − 1)"
+        ],
+        "answer": 1,
+        "explanation": "For constant pressure, work done is W = PΔV."
+    },
+    {
+        "id": 271,
+        "question": "Which thermodynamic law provides the basis for the definition of absolute temperature?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 0,
+        "explanation": "The zeroth law forms the basis for temperature measurement."
+    },
+    {
+        "id": 272,
+        "question": "The entropy of a perfectly crystalline substance at absolute zero temperature is:",
+        "options": [
+            "Maximum",
+            "Infinite",
+            "Minimum",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "According to the third law, entropy is minimum at absolute zero."
+    },
+    {
+        "id": 273,
+        "question": "For a cyclic process, the net heat absorbed by the system is equal to:",
+        "options": [
+            "Zero",
+            "Change in internal energy",
+            "Work done by the system",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "In a cyclic process, ΔU = 0, hence Q = W."
+    },
+    {
+        "id": 274,
+        "question": "Which of the following is a necessary condition for reversibility?",
+        "options": [
+            "Finite temperature difference",
+            "Large pressure difference",
+            "Infinitesimal gradients of state variables",
+            "Rapid process"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes require infinitesimal gradients of intensive variables."
+    },
+    {
+        "id": 275,
+        "question": "The work done in free expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion, external pressure is zero, so no work is done."
+    },
+    {
+        "id": 276,
+        "question": "Which thermodynamic quantity remains conserved in all processes?",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is conserved according to the first law of thermodynamics."
+    },
+    {
+        "id": 277,
+        "question": "For an isothermal compression of an ideal gas, the work done by the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "During compression, work is done on the gas, so work by the gas is negative."
+    },
+    {
+        "id": 278,
+        "question": "The area enclosed by a closed loop on a PV diagram represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Net work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by the PV loop equals net work done in a cycle."
+    },
+    {
+        "id": 279,
+        "question": "Which of the following is an extensive property?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on the amount of substance and is extensive."
+    },
+    {
+        "id": 280,
+        "question": "For an ideal gas, which process keeps internal energy constant?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 0,
+        "explanation": "Internal energy of an ideal gas depends only on temperature, which is constant in isothermal process."
+    },
+    {
+        "id": 281,
+        "question": "Which statement is correct regarding quasi-static processes?",
+        "options": [
+            "They are always irreversible",
+            "They pass through equilibrium states",
+            "They involve large gradients",
+            "They require finite temperature difference"
+        ],
+        "answer": 1,
+        "explanation": "Quasi-static processes proceed through a series of equilibrium states."
+    },
+    {
+        "id": 282,
+        "question": "The efficiency of a real heat engine compared to a Carnot engine operating between same temperatures is:",
+        "options": [
+            "Equal",
+            "Greater",
+            "Less",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can be more efficient than a Carnot engine."
+    },
+    {
+        "id": 283,
+        "question": "Which of the following quantities is intensive?",
+        "options": [
+            "Entropy",
+            "Volume",
+            "Temperature",
+            "Internal energy"
+        ],
+        "answer": 2,
+        "explanation": "Temperature does not depend on the amount of substance."
+    },
+    {
+        "id": 284,
+        "question": "For a reversible isothermal process, the entropy change of the universe is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In reversible processes, total entropy change of the universe is zero."
+    },
+    {
+        "id": 285,
+        "question": "Which thermodynamic law forbids the construction of a 100% efficient heat engine?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "The second law forbids complete conversion of heat into work."
+    },
+    {
+        "id": 286,
+        "question": "For an adiabatic free expansion of an ideal gas, which of the following is correct?",
+        "options": [
+            "Q ≠ 0, W = 0",
+            "Q = 0, W ≠ 0",
+            "Q = 0, W = 0",
+            "Q ≠ 0, W ≠ 0"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion, no heat is exchanged and no work is done."
+    },
+    {
+        "id": 287,
+        "question": "The coefficient of performance of an ideal heat pump operating between temperatures T1 and T2 (T1 > T2) is:",
+        "options": [
+            "T2/(T1 − T2)",
+            "T1/(T1 − T2)",
+            "(T1 − T2)/T2",
+            "T2/T1"
+        ],
+        "answer": 1,
+        "explanation": "COP of a heat pump is T1/(T1 − T2)."
+    },
+    {
+        "id": 288,
+        "question": "Which thermodynamic quantity determines the direction of heat flow?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Heat flows from higher temperature to lower temperature."
+    },
+    {
+        "id": 289,
+        "question": "For an isolated system, which of the following can remain constant during a spontaneous process?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Work",
+            "Heat"
+        ],
+        "answer": 1,
+        "explanation": "In an isolated system, internal energy remains constant."
+    },
+    {
+        "id": 290,
+        "question": "Which of the following relations gives the work done in an adiabatic process?",
+        "options": [
+            "nRT ln(V2/V1)",
+"(P1V1 − P2V2)/(\gamma − 1)",
+            "P(V2 − V1)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(\gamma − 1)."
+    },
+    {
+        "id": 291,
+        "question": "The entropy change of a system can be zero when the process is:",
+        "options": [
+            "Irreversible",
+            "Reversible adiabatic",
+            "Reversible isothermal",
+            "Isochoric heating"
+        ],
+        "answer": 1,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 292,
+        "question": "Which of the following processes is represented by a vertical line on a PV diagram?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Constant volume process is shown as a vertical line on PV diagram."
+    },
+    {
+        "id": 293,
+        "question": "For an ideal gas, the ratio Cp/Cv depends on:",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Nature of the gas"
+        ],
+        "answer": 3,
+        "explanation": "Cp/Cv depends on degrees of freedom, i.e., nature of the gas."
+    },
+    {
+        "id": 294,
+        "question": "The third law of thermodynamics implies that at absolute zero:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is infinite",
+            "Entropy is minimum",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy approaches minimum value at absolute zero temperature."
+    },
+    {
+        "id": 295,
+        "question": "Which of the following is a correct statement for a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It has maximum possible efficiency",
+            "It violates the second law",
+            "It operates without a sink"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine is an ideal reversible engine with maximum efficiency."
+    },
+    {
+        "id": 296,
+        "question": "For an isobaric heating of an ideal gas, the heat supplied is:",
+        "options": [
+            "nCvΔT",
+            "nRΔT",
+            "nCpΔT",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At constant pressure, heat supplied is nCpΔT."
+    },
+    {
+        "id": 297,
+        "question": "Which of the following statements is correct about entropy?",
+        "options": [
+            "It is path dependent",
+            "It is defined only for reversible processes",
+            "It is a state function",
+            "It always decreases"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 298,
+        "question": "The area under an isothermal curve on a PV diagram between V1 and V2 represents:",
+        "options": [
+            "Change in internal energy",
+            "Heat absorbed",
+            "Work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area under the PV curve represents work done."
+    },
+    {
+        "id": 299,
+        "question": "Which thermodynamic law gives the direction of natural processes?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "The second law governs the direction of spontaneous processes."
+    },
+    {
+        "id": 300,
+        "question": "Which of the following statements is correct for an isolated system?",
+        "options": [
+            "Internal energy changes",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Heat exchange is possible"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases as per the second law."
+    }
+]
+[
+    {
+        "id": 301,
+        "question": "For an ideal gas, the differential form of the first law of thermodynamics is:",
+        "options": [
+            "dQ = dW − dU",
+            "dQ = dU + dW",
+            "dU = dQ + dW",
+            "dW = dQ + dU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT writes the first law as dQ = dU + dW, where dW is work done by the system."
+    },
+    {
+        "id": 302,
+        "question": "Which of the following quantities is path dependent?",
+        "options": [
+            "Internal energy",
+            "Entropy",
+            "Work",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Work depends on the path followed during the process."
+    },
+    {
+        "id": 303,
+        "question": "In a reversible isothermal expansion of an ideal gas, the change in internal energy is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas depends only on temperature, which remains constant."
+    },
+    {
+        "id": 304,
+        "question": "The slope of an adiabatic curve on a PV diagram is compared to an isothermal curve at the same point:",
+        "options": [
+            "Smaller in magnitude",
+            "Larger in magnitude",
+            "Equal in magnitude",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic curves are steeper than isothermal curves on a PV diagram."
+    },
+    {
+        "id": 305,
+        "question": "Which of the following statements is correct for a reversible process?",
+        "options": [
+            "It occurs rapidly",
+            "It involves finite gradients",
+            "It passes through equilibrium states",
+            "It produces entropy"
+        ],
+        "answer": 2,
+        "explanation": "A reversible process proceeds through a continuous sequence of equilibrium states."
+    },
+    {
+        "id": 306,
+        "question": "For an ideal gas undergoing free expansion, which of the following is correct?",
+        "options": [
+            "Q = 0, W > 0",
+            "Q = 0, W = 0",
+            "Q > 0, W = 0",
+            "Q > 0, W > 0"
+        ],
+        "answer": 1,
+        "explanation": "In free expansion, no heat is exchanged and no work is done."
+    },
+    {
+        "id": 307,
+        "question": "The efficiency of a Carnot engine operating between T1 and T2 (T1 > T2) becomes maximum when:",
+        "options": [
+            "T2 increases",
+            "T1 decreases",
+            "T2 decreases",
+            "T1 = T2"
+        ],
+        "answer": 2,
+        "explanation": "η = 1 − T2/T1 increases when sink temperature T2 decreases."
+    },
+    {
+        "id": 308,
+        "question": "Which of the following is an intensive thermodynamic variable?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Volume",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Temperature does not depend on the amount of substance."
+    },
+    {
+        "id": 309,
+        "question": "For a cyclic process, which of the following is always zero?",
+        "options": [
+            "Net work done",
+            "Net heat absorbed",
+            "Change in internal energy",
+            "Entropy change of surroundings"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy is a state function, so its net change in a cycle is zero."
+    },
+    {
+        "id": 310,
+        "question": "The Kelvin–Planck statement of the second law of thermodynamics states that:",
+        "options": [
+            "Heat cannot flow from cold to hot body",
+            "Entropy of the universe always increases",
+            "It is impossible to convert all heat into work in a cyclic process",
+            "Energy is conserved"
+        ],
+        "answer": 2,
+        "explanation": "Kelvin–Planck statement forbids 100% efficient heat engines."
+    },
+    {
+        "id": 311,
+        "question": "Which thermodynamic quantity remains the same for all points of a system in mechanical equilibrium?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Internal energy"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical equilibrium requires uniform pressure."
+    },
+    {
+        "id": 312,
+        "question": "For an adiabatic expansion of an ideal gas, which of the following decreases?",
+        "options": [
+            "Entropy",
+            "Temperature",
+            "Volume",
+            "Internal energy and temperature"
+        ],
+        "answer": 3,
+        "explanation": "In adiabatic expansion, the gas does work at the cost of internal energy, lowering temperature."
+    },
+    {
+        "id": 313,
+        "question": "The work done by an ideal gas in an isothermal process depends on:",
+        "options": [
+            "Pressure difference only",
+            "Temperature only",
+            "Volume ratio only",
+            "Temperature and volume ratio"
+        ],
+        "answer": 3,
+        "explanation": "W = nRT ln(V2/V1), so it depends on T and the volume ratio."
+    },
+    {
+        "id": 314,
+        "question": "Which of the following statements about entropy is correct?",
+        "options": [
+            "Entropy is path dependent",
+            "Entropy is always conserved",
+            "Entropy is a state function",
+            "Entropy is defined only for isolated systems"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 315,
+        "question": "In a reversible adiabatic process, the entropy of the system:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes maximum"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 316,
+        "question": "Which of the following processes is represented by a horizontal line on a PV diagram?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 1,
+        "explanation": "An isobaric process occurs at constant pressure and appears as a horizontal line."
+    },
+    {
+        "id": 317,
+        "question": "For an isolated system undergoing a spontaneous process, which statement is correct?",
+        "options": [
+            "Entropy decreases",
+            "Entropy remains constant",
+            "Entropy increases",
+            "Internal energy decreases"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system increases in spontaneous processes."
+    },
+    {
+        "id": 318,
+        "question": "The unit of entropy is equivalent to:",
+        "options": [
+            "J",
+            "J s",
+            "J/K",
+            "W/K"
+        ],
+        "answer": 2,
+        "explanation": "Entropy has SI unit joule per kelvin."
+    },
+    {
+        "id": 319,
+        "question": "Which of the following quantities is additive for a composite system?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is an extensive and additive property."
+    },
+    {
+        "id": 320,
+        "question": "The coefficient of performance of a refrigerator can be greater than 1 because:",
+        "options": [
+            "It violates the first law",
+            "It violates the second law",
+            "Heat extracted can be larger than work input",
+            "It converts heat into work"
+        ],
+        "answer": 2,
+        "explanation": "COP compares heat extracted with work input and is not an efficiency."
+    },
+    {
+        "id": 321,
+        "question": "For an ideal gas, which process leads to maximum work for given initial and final volumes?",
+        "options": [
+            "Adiabatic",
+            "Isochoric",
+            "Isothermal",
+            "Isobaric"
+        ],
+        "answer": 2,
+        "explanation": "Isothermal expansion gives maximum work between given volumes."
+    },
+    {
+        "id": 322,
+        "question": "The entropy change of the surroundings in a reversible process is:",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "Equal in magnitude and opposite in sign to system",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "In a reversible process, total entropy change is zero."
+    },
+    {
+        "id": 323,
+        "question": "Which of the following is a correct statement for an isolated system?",
+        "options": [
+            "Internal energy can change",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Heat exchange is possible"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 324,
+        "question": "For an isochoric process of an ideal gas, the heat supplied is used to:",
+        "options": [
+            "Do work only",
+            "Increase internal energy only",
+            "Increase entropy only",
+            "Increase pressure only"
+        ],
+        "answer": 1,
+        "explanation": "At constant volume, work done is zero, so Q = ΔU."
+    },
+    {
+        "id": 325,
+        "question": "The third law of thermodynamics implies that at absolute zero temperature:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is minimum",
+            "Entropy is undefined",
+            "Internal energy is infinite"
+        ],
+        "answer": 1,
+        "explanation": "Entropy approaches a minimum value at absolute zero."
+    },
+    {
+        "id": 326,
+        "question": "Which of the following statements is correct for real gases?",
+        "options": [
+            "Internal energy depends only on temperature",
+            "Internal energy depends on temperature and volume",
+            "Internal energy is zero",
+            "Internal energy depends only on pressure"
+        ],
+        "answer": 1,
+        "explanation": "For real gases, intermolecular interactions make U depend on T and V."
+    },
+    {
+        "id": 327,
+        "question": "The work done in an adiabatic compression of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Work is done on the gas during compression, so work done by gas is negative."
+    },
+    {
+        "id": 328,
+        "question": "Which thermodynamic quantity determines the direction of heat flow?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Heat flows spontaneously from higher to lower temperature."
+    },
+    {
+        "id": 329,
+        "question": "For an isothermal expansion of an ideal gas, the entropy change of the gas is:",
+        "options": [
+            "Negative",
+            "Zero",
+            "Positive",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "ΔS = nR ln(V2/V1), which is positive for expansion."
+    },
+    {
+        "id": 330,
+        "question": "The efficiency of a real heat engine is always:",
+        "options": [
+            "Equal to Carnot efficiency",
+            "Greater than Carnot efficiency",
+            "Less than Carnot efficiency",
+            "Independent of temperatures"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can be more efficient than a Carnot engine."
+    },
+    {
+        "id": 331,
+        "question": "Which of the following quantities is extensive?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on the amount of substance."
+    },
+    {
+        "id": 332,
+        "question": "For an adiabatic free expansion of an ideal gas, the temperature of the gas:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion, ΔU = 0, so temperature remains constant."
+    },
+    {
+        "id": 333,
+        "question": "Which thermodynamic law introduces the concept of entropy?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Entropy arises from the second law of thermodynamics."
+    },
+    {
+        "id": 334,
+        "question": "For a reversible isothermal compression, the entropy change of the surroundings is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 0,
+        "explanation": "Surroundings gain heat during compression, so their entropy increases."
+    },
+    {
+        "id": 335,
+        "question": "Which of the following is a correct relation for a reversible adiabatic process?",
+        "options": [
+            "PV = constant",
+"PV^\gamma = constant",
+            "PT = constant",
+            "VT = constant"
+        ],
+        "answer": 1,
+        "explanation": "PV^γ = constant is the adiabatic condition."
+    },
+    {
+        "id": 336,
+        "question": "In which process is the heat absorbed equal to the change in internal energy?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 1,
+        "explanation": "In isochoric process, work done is zero, so Q = ΔU."
+    },
+    {
+        "id": 337,
+        "question": "The entropy change of the universe for any real process is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "All real processes are irreversible and increase total entropy."
+    },
+    {
+        "id": 338,
+        "question": "Which of the following statements is correct regarding quasi-static processes?",
+        "options": [
+            "They are always reversible",
+            "They involve finite gradients",
+            "They pass through equilibrium states",
+            "They have zero entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Quasi-static processes proceed through equilibrium states."
+    },
+    {
+        "id": 339,
+        "question": "The coefficient of performance of an ideal heat pump operating between T1 and T2 (T1 > T2) is:",
+        "options": [
+            "T2/(T1 − T2)",
+            "T1/(T1 − T2)",
+            "(T1 − T2)/T2",
+            "T2/T1"
+        ],
+        "answer": 1,
+        "explanation": "COP of a heat pump is T1/(T1 − T2)."
+    },
+    {
+        "id": 340,
+        "question": "For an ideal gas, which process results in zero work done?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "At constant volume, work done is zero."
+    },
+    {
+        "id": 341,
+        "question": "Which thermodynamic quantity remains conserved in all processes?",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is conserved according to the first law."
+    },
+    {
+        "id": 342,
+        "question": "For an isothermal compression of an ideal gas, the entropy change of the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Volume decreases in compression, so entropy decreases."
+    },
+    {
+        "id": 343,
+        "question": "Which of the following statements correctly describes a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It has maximum possible efficiency",
+            "It works without a sink",
+            "It violates the second law"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine is an ideal reversible engine with maximum efficiency."
+    },
+    {
+        "id": 344,
+        "question": "The entropy change of a system in an irreversible process is calculated using:",
+        "options": [
+            "Actual irreversible path",
+            "Any reversible path between same states",
+            "Only adiabatic path",
+            "Only isothermal path"
+        ],
+        "answer": 1,
+        "explanation": "Entropy change is evaluated using an equivalent reversible path."
+    },
+    {
+        "id": 345,
+        "question": "Which of the following processes cannot be exactly realized in practice?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Reversible"
+        ],
+        "answer": 3,
+        "explanation": "Perfectly reversible processes are idealizations."
+    },
+    {
+        "id": 346,
+        "question": "For an ideal gas, the ratio Cp/Cv depends on:",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Nature of the gas"
+        ],
+        "answer": 3,
+        "explanation": "Cp/Cv depends on degrees of freedom of the gas."
+    },
+    {
+        "id": 347,
+        "question": "The area enclosed by a closed loop on a PV diagram represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Net work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by a PV loop gives net work done."
+    },
+    {
+        "id": 348,
+        "question": "Which of the following is a correct statement for entropy?",
+        "options": [
+            "It always decreases in natural processes",
+            "It is a measure of disorder",
+            "It is not defined for reversible processes",
+            "It depends on the path"
+        ],
+        "answer": 1,
+        "explanation": "Entropy is a measure of randomness or disorder."
+    },
+    {
+        "id": 349,
+        "question": "Which thermodynamic law gives the direction of natural processes?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "The second law governs the direction of spontaneous processes."
+    },
+    {
+        "id": 350,
+        "question": "For an isolated system, which of the following statements is always true?",
+        "options": [
+            "Internal energy decreases",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Heat exchange occurs"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    }
+]
+[
+    {
+        "id": 351,
+        "question": "For an ideal gas, the relation between pressure and volume during a reversible isothermal process is:",
+        "options": [
+            "PV = constant",
+"PV^\gamma = constant",
+            "P/V = constant",
+            "P + V = constant"
+        ],
+        "answer": 0,
+        "explanation": "In an isothermal process for an ideal gas, temperature remains constant and PV = constant."
+    },
+    {
+        "id": 352,
+        "question": "Which of the following quantities remains constant throughout a reversible adiabatic process of an ideal gas?",
+        "options": [
+            "Temperature",
+            "Entropy",
+            "Pressure",
+            "Volume"
+        ],
+        "answer": 1,
+        "explanation": "A reversible adiabatic process is isentropic, so entropy remains constant."
+    },
+    {
+        "id": 353,
+        "question": "The work done by an ideal gas in an isobaric expansion from volume V1 to V2 is:",
+        "options": [
+            "nRT ln(V2/V1)",
+            "P(V2 − V1)",
+"(P1V1 − P2V2)/(\gamma − 1)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "For constant pressure, work done is W = P(V2 − V1)."
+    },
+    {
+        "id": 354,
+        "question": "In an irreversible process, the entropy change of the system can be evaluated by:",
+        "options": [
+            "Actual irreversible path",
+            "Any reversible path between the same states",
+            "Only isothermal path",
+            "Only adiabatic path"
+        ],
+        "answer": 1,
+        "explanation": "Entropy is a state function, so its change is evaluated using a reversible path between the same states."
+    },
+    {
+        "id": 355,
+        "question": "Which of the following statements is correct for an isolated system?",
+        "options": [
+            "Internal energy can change",
+            "Entropy always decreases",
+            "Entropy never decreases",
+            "Heat exchange is possible"
+        ],
+        "answer": 2,
+        "explanation": "According to the second law, entropy of an isolated system never decreases."
+    },
+    {
+        "id": 356,
+        "question": "The slope of an isothermal curve on a PV diagram at any point is:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "For an isothermal process, pressure decreases as volume increases, giving a negative slope."
+    },
+    {
+        "id": 357,
+        "question": "For an ideal gas, which process results in zero change in internal energy?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 0,
+        "explanation": "Internal energy of an ideal gas depends only on temperature, which remains constant in an isothermal process."
+    },
+    {
+        "id": 358,
+        "question": "The entropy change of the surroundings during an isothermal compression of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 0,
+        "explanation": "During isothermal compression, heat is released to the surroundings, increasing their entropy."
+    },
+    {
+        "id": 359,
+        "question": "Which of the following statements about reversible processes is correct?",
+        "options": [
+            "They occur rapidly",
+            "They involve finite temperature differences",
+            "They pass through equilibrium states",
+            "They produce entropy"
+        ],
+        "answer": 2,
+        "explanation": "A reversible process proceeds through a series of equilibrium states."
+    },
+    {
+        "id": 360,
+        "question": "The efficiency of a Carnot engine becomes maximum when:",
+        "options": [
+            "The source temperature is minimum",
+            "The sink temperature is maximum",
+            "The temperature difference between source and sink is maximum",
+            "Source and sink temperatures are equal"
+        ],
+        "answer": 2,
+        "explanation": "Carnot efficiency increases with an increase in temperature difference between source and sink."
+    },
+    {
+        "id": 361,
+        "question": "For a cyclic process, which of the following quantities has zero net change?",
+        "options": [
+            "Work done",
+            "Heat absorbed",
+            "Internal energy",
+            "Entropy of surroundings"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy is a state function, so its net change in a cycle is zero."
+    },
+    {
+        "id": 362,
+        "question": "Which thermodynamic variable remains uniform throughout a system in thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium requires the temperature to be uniform throughout the system."
+    },
+    {
+        "id": 363,
+        "question": "For an adiabatic expansion of an ideal gas, which of the following decreases?",
+        "options": [
+            "Pressure only",
+            "Temperature only",
+            "Internal energy and temperature",
+            "Volume"
+        ],
+        "answer": 2,
+        "explanation": "In adiabatic expansion, the gas does work at the expense of internal energy, reducing temperature."
+    },
+    {
+        "id": 364,
+        "question": "The unit of entropy can also be written as:",
+        "options": [
+            "N m",
+            "J s",
+            "J K^−1",
+            "W s"
+        ],
+        "answer": 2,
+        "explanation": "Entropy has SI unit joule per kelvin."
+    },
+    {
+        "id": 365,
+        "question": "Which of the following quantities is intensive?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Volume",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Temperature does not depend on the amount of substance and is an intensive quantity."
+    },
+    {
+        "id": 366,
+        "question": "For an isochoric heating of an ideal gas, the heat supplied is used to:",
+        "options": [
+            "Do work only",
+            "Increase internal energy only",
+            "Increase volume",
+            "Decrease pressure"
+        ],
+        "answer": 1,
+        "explanation": "In an isochoric process, volume is constant and no work is done, so heat increases internal energy."
+    },
+    {
+        "id": 367,
+        "question": "The Kelvin–Planck statement of the second law of thermodynamics implies that:",
+        "options": [
+            "Heat cannot flow from cold to hot body",
+            "No heat engine can be 100% efficient",
+            "Entropy of the universe always increases",
+            "Energy is conserved"
+        ],
+        "answer": 1,
+        "explanation": "Kelvin–Planck statement forbids complete conversion of heat into work in a cyclic process."
+    },
+    {
+        "id": 368,
+        "question": "For an ideal gas undergoing free expansion, which statement is correct?",
+        "options": [
+            "Work done is maximum",
+            "Work done is zero",
+            "Heat absorbed is positive",
+            "Temperature increases"
+        ],
+        "answer": 1,
+        "explanation": "In free expansion, external pressure is zero, so work done is zero."
+    },
+    {
+        "id": 369,
+        "question": "Which of the following relations represents an adiabatic process for an ideal gas?",
+        "options": [
+            "PV = constant",
+"PV^\gamma = constant",
+            "P/T = constant",
+            "V/T = constant"
+        ],
+        "answer": 1,
+        "explanation": "The adiabatic condition for an ideal gas is PV^\gamma = constant."
+    },
+    {
+        "id": 370,
+        "question": "The coefficient of performance of a refrigerator is defined as:",
+        "options": [
+            "Work done divided by heat extracted",
+            "Heat extracted divided by work done",
+            "Heat rejected divided by work done",
+            "Work done divided by heat rejected"
+        ],
+        "answer": 1,
+        "explanation": "COP of a refrigerator equals heat extracted from the cold reservoir divided by work done."
+    },
+    {
+        "id": 371,
+        "question": "Which of the following processes gives maximum work output between two fixed states?",
+        "options": [
+            "Irreversible process",
+            "Reversible process",
+            "Isochoric process",
+            "Free expansion"
+        ],
+        "answer": 1,
+        "explanation": "A reversible process yields the maximum possible work between two states."
+    },
+    {
+        "id": 372,
+        "question": "For an isolated system undergoing a spontaneous process, the entropy:",
+        "options": [
+            "Decreases",
+            "Remains constant",
+            "Increases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system increases during spontaneous processes."
+    },
+    {
+        "id": 373,
+        "question": "Which of the following quantities is additive for a composite system?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is an extensive property and hence additive."
+    },
+    {
+        "id": 374,
+        "question": "For an isothermal expansion of an ideal gas, the work done is proportional to:",
+        "options": [
+            "Pressure difference",
+            "Volume difference",
+            "Temperature and logarithm of volume ratio",
+            "Temperature and pressure difference"
+        ],
+        "answer": 2,
+        "explanation": "Work done W = nRT ln(V2/V1) depends on temperature and volume ratio."
+    },
+    {
+        "id": 375,
+        "question": "Which thermodynamic law introduces the concept of entropy?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Entropy arises from the second law of thermodynamics."
+    },
+    {
+        "id": 376,
+        "question": "For a reversible adiabatic process, which of the following remains constant?",
+        "options": [
+            "Temperature",
+            "Internal energy",
+            "Entropy",
+            "Volume"
+        ],
+        "answer": 2,
+        "explanation": "A reversible adiabatic process is isentropic."
+    },
+    {
+        "id": 377,
+        "question": "The work done in an isothermal compression of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "During compression, work is done on the gas, so work done by the gas is negative."
+    },
+    {
+        "id": 378,
+        "question": "Which of the following statements correctly describes a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It has maximum possible efficiency",
+            "It works without a sink",
+            "It violates the second law"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine is an ideal reversible engine with maximum efficiency."
+    },
+    {
+        "id": 379,
+        "question": "For an ideal gas, which process results in zero work done?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "At constant volume, no work is done."
+    },
+    {
+        "id": 380,
+        "question": "Which thermodynamic quantity remains conserved in all processes?",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Energy"
+        ],
+        "answer": 3,
+        "explanation": "Energy is conserved according to the first law of thermodynamics."
+    },
+    {
+        "id": 381,
+        "question": "For an isothermal compression of an ideal gas, the entropy change of the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Volume decreases during compression, so entropy decreases."
+    },
+    {
+        "id": 382,
+        "question": "Which of the following is a necessary condition for a reversible process?",
+        "options": [
+            "Finite gradients",
+            "Large friction",
+            "Infinitesimal gradients",
+            "Rapid process"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes require infinitesimal gradients of intensive variables."
+    },
+    {
+        "id": 383,
+        "question": "The entropy change of the universe in a reversible process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "For a reversible process, total entropy change of the universe is zero."
+    },
+    {
+        "id": 384,
+        "question": "Which of the following quantities depends only on temperature for an ideal gas?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Internal energy",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas depends only on temperature."
+    },
+    {
+        "id": 385,
+        "question": "The efficiency of a real heat engine compared to a Carnot engine operating between the same temperatures is:",
+        "options": [
+            "Equal",
+            "Greater",
+            "Less",
+            "Independent"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can exceed the efficiency of a Carnot engine."
+    },
+    {
+        "id": 386,
+        "question": "For an adiabatic free expansion of an ideal gas, the temperature of the gas:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion of an ideal gas, internal energy remains constant, so temperature remains constant."
+    },
+    {
+        "id": 387,
+        "question": "Which of the following relations gives the work done in a reversible adiabatic process?",
+        "options": [
+            "nRT ln(V2/V1)",
+"(P1V1 − P2V2)/(\gamma − 1)",
+            "P(V2 − V1)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(\gamma − 1)."
+    },
+    {
+        "id": 388,
+        "question": "Which thermodynamic law states that it is impossible to construct a heat engine that converts all absorbed heat into work?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "This is the Kelvin–Planck statement of the second law."
+    },
+    {
+        "id": 389,
+        "question": "For an ideal gas, which of the following processes has maximum work done for given initial and final states?",
+        "options": [
+            "Adiabatic",
+            "Isochoric",
+            "Reversible",
+            "Irreversible"
+        ],
+        "answer": 2,
+        "explanation": "A reversible process yields the maximum possible work between given states."
+    },
+    {
+        "id": 390,
+        "question": "The entropy change of the system can be zero when the process is:",
+        "options": [
+            "Irreversible",
+            "Reversible adiabatic",
+            "Reversible isothermal",
+            "Isochoric heating"
+        ],
+        "answer": 1,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 391,
+        "question": "Which of the following is an extensive thermodynamic property?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on the amount of substance."
+    },
+    {
+        "id": 392,
+        "question": "For an isobaric process, the heat supplied to an ideal gas is:",
+        "options": [
+            "nCvΔT",
+            "nRΔT",
+            "nCpΔT",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At constant pressure, heat supplied equals nCpΔT."
+    },
+    {
+        "id": 393,
+        "question": "Which of the following statements is correct regarding quasi-static processes?",
+        "options": [
+            "They are always reversible",
+            "They involve finite gradients",
+            "They pass through equilibrium states",
+            "They have zero work done"
+        ],
+        "answer": 2,
+        "explanation": "Quasi-static processes proceed through equilibrium states."
+    },
+    {
+        "id": 394,
+        "question": "For an isolated system, which quantity can remain constant during a spontaneous process?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Heat",
+            "Work"
+        ],
+        "answer": 1,
+        "explanation": "In an isolated system, internal energy remains constant."
+    },
+    {
+        "id": 395,
+        "question": "Which thermodynamic law provides the direction of natural processes?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "The second law determines the direction of spontaneous processes."
+    },
+    {
+        "id": 396,
+        "question": "For an ideal gas, which process keeps temperature constant while work is done?",
+        "options": [
+            "Isobaric",
+            "Isochoric",
+            "Isothermal",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "In an isothermal process, temperature remains constant even though work is done."
+    },
+    {
+        "id": 397,
+        "question": "The entropy change of the surroundings during a reversible process is:",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "Equal and opposite to system entropy change",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "In a reversible process, total entropy change is zero, so surroundings entropy change cancels system change."
+    },
+    {
+        "id": 398,
+        "question": "Which of the following is NOT a state function?",
+        "options": [
+            "Pressure",
+            "Entropy",
+            "Internal energy",
+            "Heat"
+        ],
+        "answer": 3,
+        "explanation": "Heat depends on the path followed and is not a state function."
+    },
+    {
+        "id": 399,
+        "question": "The third law of thermodynamics implies that at absolute zero temperature:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is infinite",
+            "Entropy is minimum",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy approaches a minimum value at absolute zero."
+    },
+    {
+        "id": 400,
+        "question": "Which of the following statements is correct for an isolated system?",
+        "options": [
+            "Entropy always decreases",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Entropy remains zero"
+        ],
+        "answer": 2,
+        "explanation": "According to the second law, entropy of an isolated system never decreases."
+    }
+]
+[
+    {
+        "id": 401,
+        "question": "For an ideal gas undergoing a reversible isothermal expansion at temperature T, the work done per mole is:",
+        "options": [
+            "RT ln(V2/V1)",
+            "RT ln(P2/P1)",
+            "P(V2 − V1)",
+"(P1V1 − P2V2)/(\gamma − 1)"
+        ],
+        "answer": 0,
+        "explanation": "For one mole, reversible isothermal work is W = RT ln(V2/V1)."
+    },
+    {
+        "id": 402,
+        "question": "Which of the following relations is correct for a reversible adiabatic process of an ideal gas?",
+        "options": [
+            "TV = constant",
+"T^\gamma V = constant",
+"TV^{\gamma−1} = constant",
+            "T/V = constant"
+        ],
+        "answer": 2,
+        "explanation": "For adiabatic processes, TV^{\gamma−1} = constant as per NCERT."
+    },
+    {
+        "id": 403,
+        "question": "In an isothermal process of an ideal gas, the heat absorbed is used to:",
+        "options": [
+            "Increase internal energy only",
+            "Do work only",
+            "Increase temperature only",
+            "Increase pressure only"
+        ],
+        "answer": 1,
+        "explanation": "For isothermal process, ΔU = 0, so absorbed heat is fully converted into work."
+    },
+    {
+        "id": 404,
+        "question": "The entropy change of a system undergoing a reversible isothermal compression is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "During compression, volume decreases, so entropy of the system decreases."
+    },
+    {
+        "id": 405,
+        "question": "Which of the following statements is correct regarding internal energy?",
+        "options": [
+            "It depends on the path followed",
+            "It is a state function",
+            "It depends only on pressure",
+            "It is zero for all gases"
+        ],
+        "answer": 1,
+        "explanation": "Internal energy depends only on the state of the system."
+    },
+    {
+        "id": 406,
+        "question": "For an ideal gas in an isochoric process, the pressure is directly proportional to:",
+        "options": [
+            "Volume",
+            "Temperature",
+            "Entropy",
+            "Internal energy"
+        ],
+        "answer": 1,
+        "explanation": "At constant volume, P ∝ T according to the ideal gas equation."
+    },
+    {
+        "id": 407,
+        "question": "Which thermodynamic process is represented by a vertical line on a PV diagram?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Constant volume processes appear as vertical lines on PV diagrams."
+    },
+    {
+        "id": 408,
+        "question": "For an isolated system, the change in entropy during a reversible process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "For reversible processes, entropy of the isolated system remains constant."
+    },
+    {
+        "id": 409,
+        "question": "Which of the following quantities is intensive?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Volume",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Temperature does not depend on the amount of substance."
+    },
+    {
+        "id": 410,
+        "question": "For an adiabatic compression of an ideal gas, which quantity increases?",
+        "options": [
+            "Volume",
+            "Entropy",
+            "Temperature",
+            "Heat exchanged"
+        ],
+        "answer": 2,
+        "explanation": "Work done on the gas increases its temperature in adiabatic compression."
+    },
+    {
+        "id": 411,
+        "question": "The coefficient of performance of a refrigerator can be greater than unity because:",
+        "options": [
+            "It violates the first law",
+            "It violates the second law",
+            "Heat extracted can exceed work input",
+            "It converts heat completely into work"
+        ],
+        "answer": 2,
+        "explanation": "COP compares heat extracted to work input and is not limited like efficiency."
+    },
+    {
+        "id": 412,
+        "question": "The area enclosed by a cyclic process on a PV diagram represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Net work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by a PV loop equals the net work done in a cycle."
+    },
+    {
+        "id": 413,
+        "question": "Which statement correctly describes a heat reservoir?",
+        "options": [
+            "It has zero temperature",
+            "It has infinite temperature",
+            "It has very large heat capacity",
+            "It has zero entropy"
+        ],
+        "answer": 2,
+        "explanation": "A heat reservoir exchanges heat without appreciable temperature change due to large heat capacity."
+    },
+    {
+        "id": 414,
+        "question": "For a reversible adiabatic process, which of the following remains constant?",
+        "options": [
+            "Temperature",
+            "Internal energy",
+            "Entropy",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 415,
+        "question": "The Kelvin–Planck statement of the second law implies that:",
+        "options": [
+            "Heat cannot flow from cold to hot body",
+            "No cyclic engine can convert all heat into work",
+            "Entropy of an isolated system is constant",
+            "Energy is conserved"
+        ],
+        "answer": 1,
+        "explanation": "Kelvin–Planck statement forbids complete conversion of heat into work in a cycle."
+    },
+    {
+        "id": 416,
+        "question": "For an isothermal expansion of an ideal gas, the entropy change of the gas is:",
+        "options": [
+            "Negative",
+            "Zero",
+            "Positive",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "ΔS = nR ln(V2/V1) which is positive for expansion."
+    },
+    {
+        "id": 417,
+        "question": "Which of the following processes yields maximum work between two given states?",
+        "options": [
+            "Free expansion",
+            "Irreversible process",
+            "Reversible process",
+            "Isochoric process"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes give maximum possible work."
+    },
+    {
+        "id": 418,
+        "question": "For an ideal gas, the change in internal energy during free expansion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion, Q = 0 and W = 0, so ΔU = 0."
+    },
+    {
+        "id": 419,
+        "question": "Which thermodynamic quantity determines mechanical equilibrium?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Internal energy"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical equilibrium requires equality of pressure."
+    },
+    {
+        "id": 420,
+        "question": "For an isobaric process of an ideal gas, the heat supplied is equal to:",
+        "options": [
+            "nCvΔT",
+            "nRΔT",
+            "nCpΔT",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At constant pressure, Q = nCpΔT."
+    },
+    {
+        "id": 421,
+        "question": "Which of the following quantities is not a state function?",
+        "options": [
+            "Pressure",
+            "Entropy",
+            "Internal energy",
+            "Work"
+        ],
+        "answer": 3,
+        "explanation": "Work depends on the path of the process."
+    },
+    {
+        "id": 422,
+        "question": "The entropy change of the universe for any real process is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Real processes are irreversible and increase total entropy."
+    },
+    {
+        "id": 423,
+        "question": "For an ideal gas, which process keeps temperature constant?",
+        "options": [
+            "Isochoric",
+            "Isobaric",
+            "Isothermal",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "Isothermal processes occur at constant temperature."
+    },
+    {
+        "id": 424,
+        "question": "The efficiency of a real heat engine compared to a Carnot engine operating between the same temperatures is:",
+        "options": [
+            "Equal",
+            "Greater",
+            "Less",
+            "Independent"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can be more efficient than a Carnot engine."
+    },
+    {
+        "id": 425,
+        "question": "For an isolated system, which of the following always remains constant?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 1,
+        "explanation": "An isolated system exchanges neither heat nor work, so internal energy remains constant."
+    },
+    {
+        "id": 426,
+        "question": "Which of the following relations represents an adiabatic process?",
+        "options": [
+            "PV = constant",
+"PV^\gamma = constant",
+            "P/T = constant",
+            "V/T = constant"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic processes satisfy PV^\gamma = constant."
+    },
+    {
+        "id": 427,
+        "question": "The work done in an isothermal compression of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Work is done on the gas during compression, so work by the gas is negative."
+    },
+    {
+        "id": 428,
+        "question": "Which thermodynamic law introduces the concept of entropy?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is introduced through the second law of thermodynamics."
+    },
+    {
+        "id": 429,
+        "question": "For a reversible process, which condition must be satisfied?",
+        "options": [
+            "Finite gradients of temperature",
+            "Large friction",
+            "Infinitesimal gradients",
+            "Rapid change"
+        ],
+        "answer": 2,
+        "explanation": "Reversibility requires infinitesimal gradients of intensive variables."
+    },
+    {
+        "id": 430,
+        "question": "The third law of thermodynamics implies that at absolute zero temperature:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is infinite",
+            "Entropy is minimum",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy approaches a minimum value at absolute zero."
+    },
+    {
+        "id": 431,
+        "question": "Which of the following processes has zero work done?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "At constant volume, no work is done."
+    },
+    {
+        "id": 432,
+        "question": "For an ideal gas, which quantity depends only on temperature?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Internal energy",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas is a function of temperature only."
+    },
+    {
+        "id": 433,
+        "question": "The entropy change of the surroundings during a reversible isothermal expansion is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Surroundings lose heat during expansion, so their entropy decreases."
+    },
+    {
+        "id": 434,
+        "question": "Which of the following quantities is extensive?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on the amount of substance."
+    },
+    {
+        "id": 435,
+        "question": "For an adiabatic free expansion of an ideal gas, the temperature of the gas:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "For ideal gas free expansion, ΔU = 0, so temperature remains constant."
+    },
+    {
+        "id": 436,
+        "question": "The efficiency of a Carnot engine is zero when:",
+        "options": [
+            "Source temperature is zero",
+            "Sink temperature is zero",
+            "Source and sink temperatures are equal",
+            "Source temperature is very high"
+        ],
+        "answer": 2,
+        "explanation": "η = 1 − T2/T1 becomes zero when T1 = T2."
+    },
+    {
+        "id": 437,
+        "question": "Which of the following statements is correct for entropy?",
+        "options": [
+            "It is path dependent",
+            "It is defined only for reversible processes",
+            "It is a state function",
+            "It always decreases"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 438,
+        "question": "For an ideal gas, which process results in maximum work between given volumes?",
+        "options": [
+            "Adiabatic",
+            "Isothermal",
+            "Isochoric",
+            "Free expansion"
+        ],
+        "answer": 1,
+        "explanation": "Isothermal expansion gives maximum work for given initial and final volumes."
+    },
+    {
+        "id": 439,
+        "question": "The area under a PV curve between two volumes represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area under a PV curve corresponds to work done."
+    },
+    {
+        "id": 440,
+        "question": "Which thermodynamic law gives the direction of natural processes?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "The second law determines the direction of spontaneous processes."
+    },
+    {
+        "id": 441,
+        "question": "For an isothermal expansion, the heat absorbed by the system is equal to:",
+        "options": [
+            "Change in internal energy",
+            "Work done by the system",
+            "Zero",
+            "Entropy change"
+        ],
+        "answer": 1,
+        "explanation": "In isothermal ideal gas processes, Q = W."
+    },
+    {
+        "id": 442,
+        "question": "Which of the following quantities remains uniform in a system at thermal equilibrium?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Thermal equilibrium requires uniform temperature."
+    },
+    {
+        "id": 443,
+        "question": "For a reversible adiabatic compression of an ideal gas, the entropy of the system:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes maximum"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 444,
+        "question": "Which of the following is a necessary condition for a reversible process?",
+        "options": [
+            "Finite temperature difference",
+            "Large friction",
+            "Infinitesimal gradients",
+            "Rapid change"
+        ],
+        "answer": 2,
+        "explanation": "Infinitesimal gradients of intensive variables are required for reversibility."
+    },
+    {
+        "id": 445,
+        "question": "The unit of entropy is equivalent to:",
+        "options": [
+            "N m",
+            "J",
+            "J/K",
+            "W"
+        ],
+        "answer": 2,
+        "explanation": "Entropy has SI unit joule per kelvin."
+    },
+    {
+        "id": 446,
+        "question": "For an ideal gas, the ratio Cp/Cv depends on:",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Nature of the gas"
+        ],
+        "answer": 3,
+        "explanation": "Cp/Cv depends on degrees of freedom of the gas."
+    },
+    {
+        "id": 447,
+        "question": "The entropy change of the universe in a reversible process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "For reversible processes, total entropy change is zero."
+    },
+    {
+        "id": 448,
+        "question": "Which of the following statements correctly describes a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It has maximum possible efficiency",
+            "It operates without a sink",
+            "It violates the second law"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine is an ideal reversible engine with maximum efficiency."
+    },
+    {
+        "id": 449,
+        "question": "For an isolated system, which statement is always true?",
+        "options": [
+            "Entropy always decreases",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Heat exchange occurs"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 450,
+        "question": "Which of the following processes cannot be realized perfectly in practice?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Reversible"
+        ],
+        "answer": 3,
+        "explanation": "Perfectly reversible processes are idealizations and cannot be achieved exactly."
+    }
+]
+[
+    {
+        "id": 451,
+        "question": "For an ideal gas, the molar heat capacity at constant volume for a monoatomic gas is:",
+        "options": [
+            "R",
+            "3R/2",
+            "5R/2",
+            "7R/2"
+        ],
+        "answer": 1,
+        "explanation": "For a monoatomic ideal gas, Cv = 3R/2 as given in NCERT."
+    },
+    {
+        "id": 452,
+        "question": "The relation between Cp and Cv for an ideal gas is:",
+        "options": [
+            "Cp = Cv",
+            "Cp − Cv = R",
+            "Cp/Cv = R",
+            "Cp + Cv = R"
+        ],
+        "answer": 1,
+        "explanation": "According to Mayer’s relation, Cp − Cv = R."
+    },
+    {
+        "id": 453,
+        "question": "For a diatomic ideal gas at room temperature, the value of γ is approximately:",
+        "options": [
+            "5/3",
+            "4/3",
+            "7/5",
+            "3/2"
+        ],
+        "answer": 2,
+        "explanation": "For diatomic gases at ordinary temperatures, γ ≈ 7/5."
+    },
+    {
+        "id": 454,
+        "question": "In an isothermal process for an ideal gas, which of the following remains constant?",
+        "options": [
+            "PV",
+            "PV^γ",
+            "P/T",
+            "V/T"
+        ],
+        "answer": 0,
+        "explanation": "For isothermal processes, PV remains constant."
+    },
+    {
+        "id": 455,
+        "question": "The work done by an ideal gas in a cyclic process is equal to:",
+        "options": [
+            "Zero",
+            "Change in internal energy",
+            "Heat absorbed",
+            "Area enclosed by the PV loop"
+        ],
+        "answer": 3,
+        "explanation": "Net work done in a cycle equals the area enclosed by the PV diagram."
+    },
+    {
+        "id": 456,
+        "question": "Which thermodynamic process has zero heat exchange with surroundings?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 3,
+        "explanation": "By definition, adiabatic processes have Q = 0."
+    },
+    {
+        "id": 457,
+        "question": "For an ideal gas undergoing adiabatic expansion, the temperature:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "In adiabatic expansion, the gas does work at the cost of internal energy, reducing temperature."
+    },
+    {
+        "id": 458,
+        "question": "Which of the following quantities is a state function?",
+        "options": [
+            "Heat",
+            "Work",
+            "Entropy",
+            "Path length"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 459,
+        "question": "The entropy change of the universe for a spontaneous process is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Spontaneous processes increase the entropy of the universe."
+    },
+    {
+        "id": 460,
+        "question": "The efficiency of a Carnot engine operating between temperatures T1 and T2 is:",
+        "options": [
+            "T2/T1",
+            "1 − T1/T2",
+            "1 − T2/T1",
+            "T1 − T2"
+        ],
+        "answer": 2,
+        "explanation": "Carnot efficiency is η = 1 − T2/T1, where T1 > T2."
+    },
+    {
+        "id": 461,
+        "question": "Which of the following statements is correct regarding a refrigerator?",
+        "options": [
+            "It converts heat completely into work",
+            "It transfers heat from cold to hot using work",
+            "It violates the second law",
+            "Its efficiency is less than 1"
+        ],
+        "answer": 1,
+        "explanation": "A refrigerator uses external work to transfer heat from a colder body to a hotter body."
+    },
+    {
+        "id": 462,
+        "question": "The coefficient of performance (COP) of a refrigerator is defined as:",
+        "options": [
+            "Work done/heat extracted",
+            "Heat extracted/work done",
+            "Heat rejected/work done",
+            "Work done/heat rejected"
+        ],
+        "answer": 1,
+        "explanation": "COP = heat extracted from cold reservoir divided by work done."
+    },
+    {
+        "id": 463,
+        "question": "For an isochoric process of an ideal gas, which quantity remains constant?",
+        "options": [
+            "Pressure",
+            "Temperature",
+            "Volume",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Isochoric processes occur at constant volume."
+    },
+    {
+        "id": 464,
+        "question": "Which thermodynamic law provides the basis for the concept of temperature?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 0,
+        "explanation": "The zeroth law defines thermal equilibrium and temperature."
+    },
+    {
+        "id": 465,
+        "question": "For a reversible process, the entropy change of the universe is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes have zero total entropy change."
+    },
+    {
+        "id": 466,
+        "question": "Which of the following is an extensive property?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends on the amount of substance."
+    },
+    {
+        "id": 467,
+        "question": "For an ideal gas, the internal energy during an isothermal process:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas depends only on temperature, which is constant."
+    },
+    {
+        "id": 468,
+        "question": "Which of the following processes gives maximum work between two given states?",
+        "options": [
+            "Free expansion",
+            "Irreversible process",
+            "Reversible process",
+            "Isochoric process"
+        ],
+        "answer": 2,
+        "explanation": "Reversible processes yield maximum possible work."
+    },
+    {
+        "id": 469,
+        "question": "The area under a PV curve between two volumes represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area under a PV curve gives the work done."
+    },
+    {
+        "id": 470,
+        "question": "For an ideal gas, which process results in zero work done?",
+        "options": [
+            "Isothermal",
+            "Isobaric",
+            "Isochoric",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "In an isochoric process, volume is constant, so work done is zero."
+    },
+    {
+        "id": 471,
+        "question": "Which of the following quantities depends only on temperature for an ideal gas?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Internal energy",
+            "Entropy"
+        ],
+        "answer": 2,
+        "explanation": "Internal energy of an ideal gas is a function of temperature only."
+    },
+    {
+        "id": 472,
+        "question": "The entropy change of the surroundings during isothermal expansion of an ideal gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Surroundings lose heat to the gas, so their entropy decreases."
+    },
+    {
+        "id": 473,
+        "question": "Which of the following relations is valid for an adiabatic process?",
+        "options": [
+            "PV = constant",
+            "PV^γ = constant",
+            "P/T = constant",
+            "V/T = constant"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic processes obey PV^γ = constant."
+    },
+    {
+        "id": 474,
+        "question": "The efficiency of a real heat engine compared to a Carnot engine operating between the same temperatures is:",
+        "options": [
+            "Equal",
+            "Greater",
+            "Less",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "No real engine can be more efficient than a Carnot engine."
+    },
+    {
+        "id": 475,
+        "question": "For an isolated system, which of the following statements is always true?",
+        "options": [
+            "Entropy always decreases",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Heat exchange occurs"
+        ],
+        "answer": 2,
+        "explanation": "Entropy of an isolated system never decreases."
+    },
+    {
+        "id": 476,
+        "question": "Which thermodynamic quantity determines the direction of heat flow?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Heat flows from higher temperature to lower temperature."
+    },
+    {
+        "id": 477,
+        "question": "For a reversible adiabatic process, which quantity remains constant?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Volume"
+        ],
+        "answer": 2,
+        "explanation": "Reversible adiabatic processes are isentropic."
+    },
+    {
+        "id": 478,
+        "question": "The third law of thermodynamics implies that at absolute zero temperature:",
+        "options": [
+            "Entropy is maximum",
+            "Entropy is infinite",
+            "Entropy is minimum",
+            "Entropy is undefined"
+        ],
+        "answer": 2,
+        "explanation": "Entropy approaches a minimum value at absolute zero."
+    },
+    {
+        "id": 479,
+        "question": "Which of the following processes cannot be realized perfectly in practice?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Reversible"
+        ],
+        "answer": 3,
+        "explanation": "Perfectly reversible processes are idealizations."
+    },
+    {
+        "id": 480,
+        "question": "For an isothermal compression of an ideal gas, the work done by the gas is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 1,
+        "explanation": "Work is done on the gas, so work done by the gas is negative."
+    },
+    {
+        "id": 481,
+        "question": "Which of the following quantities is intensive?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Volume",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Temperature does not depend on the amount of substance."
+    },
+    {
+        "id": 482,
+        "question": "The entropy change of the universe in a reversible process is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 2,
+        "explanation": "For reversible processes, total entropy change is zero."
+    },
+    {
+        "id": 483,
+        "question": "Which of the following statements correctly describes a Carnot engine?",
+        "options": [
+            "It is irreversible",
+            "It has maximum possible efficiency",
+            "It operates without a sink",
+            "It violates the second law"
+        ],
+        "answer": 1,
+        "explanation": "Carnot engine is an ideal reversible engine with maximum efficiency."
+    },
+    {
+        "id": 484,
+        "question": "For an ideal gas, which process keeps temperature constant while work is done?",
+        "options": [
+            "Isobaric",
+            "Isochoric",
+            "Isothermal",
+            "Adiabatic"
+        ],
+        "answer": 2,
+        "explanation": "In an isothermal process, temperature remains constant even though work is done."
+    },
+    {
+        "id": 485,
+        "question": "Which of the following quantities is NOT a state function?",
+        "options": [
+            "Pressure",
+            "Entropy",
+            "Internal energy",
+            "Heat"
+        ],
+        "answer": 3,
+        "explanation": "Heat depends on the path of the process."
+    },
+    {
+        "id": 486,
+        "question": "The area enclosed by a closed PV curve represents:",
+        "options": [
+            "Heat absorbed",
+            "Change in internal energy",
+            "Net work done",
+            "Entropy change"
+        ],
+        "answer": 2,
+        "explanation": "Area enclosed by a PV loop equals net work done."
+    },
+    {
+        "id": 487,
+        "question": "For an ideal gas, which process gives maximum work for given initial and final volumes?",
+        "options": [
+            "Adiabatic",
+            "Isothermal",
+            "Isochoric",
+            "Free expansion"
+        ],
+        "answer": 1,
+        "explanation": "Isothermal expansion gives maximum work for given volumes."
+    },
+    {
+        "id": 488,
+        "question": "Which thermodynamic law states that heat cannot be completely converted into work in a cyclic process?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 2,
+        "explanation": "This is the Kelvin–Planck statement of the second law."
+    },
+    {
+        "id": 489,
+        "question": "For an isolated system, which quantity remains constant during any process?",
+        "options": [
+            "Entropy",
+            "Internal energy",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 1,
+        "explanation": "An isolated system exchanges neither heat nor work, so internal energy remains constant."
+    },
+    {
+        "id": 490,
+        "question": "Which of the following statements is correct regarding entropy?",
+        "options": [
+            "It depends on the path",
+            "It is defined only for reversible processes",
+            "It is a state function",
+            "It always decreases"
+        ],
+        "answer": 2,
+        "explanation": "Entropy depends only on the state of the system."
+    },
+    {
+        "id": 491,
+        "question": "For an adiabatic free expansion of an ideal gas, the temperature of the gas:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "In free expansion of an ideal gas, ΔU = 0, so temperature remains constant."
+    },
+    {
+        "id": 492,
+        "question": "Which of the following quantities is additive for a composite system?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Entropy",
+            "Density"
+        ],
+        "answer": 2,
+        "explanation": "Entropy is an extensive and additive property."
+    },
+    {
+        "id": 493,
+        "question": "The efficiency of a Carnot engine becomes zero when:",
+        "options": [
+            "Source temperature is zero",
+            "Sink temperature is zero",
+            "Source and sink temperatures are equal",
+            "Source temperature is very high"
+        ],
+        "answer": 2,
+        "explanation": "η = 1 − T2/T1 becomes zero when T1 = T2."
+    },
+    {
+        "id": 494,
+        "question": "Which thermodynamic law introduces the concept of absolute zero temperature?",
+        "options": [
+            "Zeroth law",
+            "First law",
+            "Second law",
+            "Third law"
+        ],
+        "answer": 3,
+        "explanation": "The third law introduces the concept of absolute zero."
+    },
+    {
+        "id": 495,
+        "question": "For an isobaric heating of an ideal gas, the heat supplied is:",
+        "options": [
+            "nCvΔT",
+            "nRΔT",
+            "nCpΔT",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At constant pressure, heat supplied equals nCpΔT."
+    },
+    {
+        "id": 496,
+        "question": "Which of the following statements is correct for a reversible process?",
+        "options": [
+            "It produces entropy",
+            "It occurs with finite gradients",
+            "It passes through equilibrium states",
+            "It is always rapid"
+        ],
+        "answer": 2,
+        "explanation": "A reversible process proceeds through a sequence of equilibrium states."
+    },
+    {
+        "id": 497,
+        "question": "For an ideal gas, which process results in zero heat exchange?",
+        "options": [
+            "Isothermal",
+            "Isochoric",
+            "Isobaric",
+            "Adiabatic"
+        ],
+        "answer": 3,
+        "explanation": "Adiabatic processes involve no heat exchange."
+    },
+    {
+        "id": 498,
+        "question": "Which of the following relations correctly represents work done in an adiabatic process?",
+        "options": [
+            "nRT ln(V2/V1)",
+"(P1V1 − P2V2)/(\gamma − 1)",
+            "P(V2 − V1)",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(γ − 1)."
+    },
+    {
+        "id": 499,
+        "question": "Which thermodynamic quantity determines the direction of spontaneous processes?",
+        "options": [
+            "Energy",
+            "Work",
+            "Entropy",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Spontaneous processes occur in the direction of increasing entropy."
+    },
+    {
+        "id": 500,
+        "question": "Which of the following statements is always true for an isolated system?",
+        "options": [
+            "Entropy always decreases",
+            "Entropy can decrease",
+            "Entropy never decreases",
+            "Entropy remains zero"
+        ],
+        "answer": 2,
+        "explanation": "According to the second law, entropy of an isolated system never decreases."
+    }
+]

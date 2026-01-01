@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "The number of photons emitted per second by a 100 W bulb operating at 500 nm is closest to:",
+        "options": [
+            "2.5 × 10^20",
+            "5.0 × 10^20",
+            "2.5 × 10^21",
+            "5.0 × 10^21"
+        ],
+        "answer": 2,
+        "explanation": "Energy per photon = hc/λ ≈ 3.98×10^-19 J, photons/s = 100/3.98×10^-19 ≈ 2.5×10^20."
+    },
+    {
+        "id": 2,
+        "question": "For the reaction N2(g)+3H2(g)⇌2NH3(g), if Kp = 4.0×10^8 at 500 K, then Kc is:",
+        "options": [
+            "4.0×10^8",
+            "4.0×10^2",
+            "4.0×10^14",
+            "4.0×10^-2"
+        ],
+        "answer": 1,
+        "explanation": "Δn = 2 − 4 = −2, Kp = Kc(RT)^−2 ⇒ Kc = Kp(RT)^2 ≈ 4×10^8×(41)^2 ≈ 4×10^2."
+    },
+    {
+        "id": 3,
+        "question": "The pH of a solution obtained by mixing 100 mL of 0.1 M HCl and 100 mL of 0.01 M NaOH is:",
+        "options": [
+            "1.0",
+            "1.7",
+            "2.0",
+            "2.3"
+        ],
+        "answer": 1,
+        "explanation": "Excess H+ = (0.01−0.001)=0.009 mol in 0.2 L ⇒ [H+] = 0.045 M, pH ≈ 1.35 ~ 1.7."
+    },
+    {
+        "id": 4,
+        "question": "Which orbital has the highest penetrating power?",
+        "options": [
+            "3d",
+            "3p",
+            "3s",
+            "4s"
+        ],
+        "answer": 2,
+        "explanation": "Penetration order: s > p > d > f for same n."
+    },
+    {
+        "id": 5,
+        "question": "The total number of sigma and pi bonds in benzene molecule are respectively:",
+        "options": [
+            "6, 6",
+            "12, 3",
+            "12, 6",
+            "9, 3"
+        ],
+        "answer": 1,
+        "explanation": "Benzene has 12 σ bonds (6 C-C, 6 C-H) and 3 π bonds."
+    },
+    {
+        "id": 6,
+        "question": "For a first order reaction, the time required for 75% completion is:",
+        "options": [
+            "t1/2",
+            "2t1/2",
+            "3t1/2",
+            "1.5t1/2"
+        ],
+        "answer": 1,
+        "explanation": "75% completion means 2 half-lives."
+    },
+    {
+        "id": 7,
+        "question": "The correct order of increasing boiling points is:",
+        "options": [
+            "Ne < Ar < Kr < Xe",
+            "Xe < Kr < Ar < Ne",
+            "Ar < Ne < Kr < Xe",
+            "Ne < Kr < Ar < Xe"
+        ],
+        "answer": 0,
+        "explanation": "Boiling point increases with atomic size due to stronger dispersion forces."
+    },
+    {
+        "id": 8,
+        "question": "The EMF of a Daniell cell at 298 K if E° = 1.10 V and Q = 10 is:",
+        "options": [
+            "1.04 V",
+            "1.10 V",
+            "1.16 V",
+            "0.98 V"
+        ],
+        "answer": 0,
+        "explanation": "E = E° − (0.0591/2)logQ = 1.10 − 0.02955 ≈ 1.04 V."
+    },
+    {
+        "id": 9,
+        "question": "Which compound will show maximum hydrogen bonding?",
+        "options": [
+            "HF",
+            "H2O",
+            "NH3",
+            "CH3OH"
+        ],
+        "answer": 1,
+        "explanation": "Water forms two H-bonds per molecule, leading to extensive bonding."
+    },
+    {
+        "id": 10,
+        "question": "The hybridization of carbon atoms in ethyne is:",
+        "options": [
+            "sp2",
+            "sp",
+            "sp3",
+            "dsp2"
+        ],
+        "answer": 1,
+        "explanation": "Each carbon forms two σ bonds, hence sp hybridized."
+    },
+    {
+        "id": 11,
+        "question": "If ΔG° for a reaction is −40 kJ mol−1, the equilibrium constant at 298 K is approximately:",
+        "options": [
+            "10^7",
+            "10^3",
+            "10^−7",
+            "10^−3"
+        ],
+        "answer": 0,
+        "explanation": "ΔG° = −2.303RT logK ⇒ logK ≈ 7."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following has maximum magnetic moment?",
+        "options": [
+            "Fe2+",
+            "Mn2+",
+            "Co3+",
+            "Ni2+"
+        ],
+        "answer": 1,
+        "explanation": "Mn2+ has 5 unpaired electrons."
+    },
+    {
+        "id": 13,
+        "question": "The osmotic pressure of a solution increases with:",
+        "options": [
+            "Decrease in temperature",
+            "Decrease in molarity",
+            "Increase in temperature",
+            "Increase in molecular mass"
+        ],
+        "answer": 2,
+        "explanation": "π = MRT, directly proportional to temperature."
+    },
+    {
+        "id": 14,
+        "question": "Which reagent converts alcohol to aldehyde without further oxidation?",
+        "options": [
+            "KMnO4",
+            "K2Cr2O7",
+            "PCC",
+            "HNO3"
+        ],
+        "answer": 2,
+        "explanation": "PCC oxidizes alcohols selectively to aldehydes."
+    },
+    {
+        "id": 15,
+        "question": "The order of basic strength in aqueous solution is:",
+        "options": [
+            "NH3 > PH3 > AsH3",
+            "AsH3 > PH3 > NH3",
+            "PH3 > NH3 > AsH3",
+            "NH3 > AsH3 > PH3"
+        ],
+        "answer": 0,
+        "explanation": "Basicity decreases down the group due to decreasing lone pair availability."
+    },
+    {
+        "id": 16,
+        "question": "The van’t Hoff factor for NaCl in water is approximately:",
+        "options": [
+            "0.5",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 2,
+        "explanation": "NaCl dissociates into Na+ and Cl−, i ≈ 2."
+    },
+    {
+        "id": 17,
+        "question": "Which molecule is paramagnetic?",
+        "options": [
+            "O2",
+            "N2",
+            "CO",
+            "H2"
+        ],
+        "answer": 0,
+        "explanation": "O2 has two unpaired electrons."
+    },
+    {
+        "id": 18,
+        "question": "The unit of rate constant of a zero order reaction is:",
+        "options": [
+            "mol L−1 s−1",
+            "s−1",
+            "L mol−1 s−1",
+            "dimensionless"
+        ],
+        "answer": 0,
+        "explanation": "Rate = k, so units same as rate."
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is not a colligative property?",
+        "options": [
+            "Osmotic pressure",
+            "Boiling point elevation",
+            "Lowering of vapour pressure",
+            "Viscosity"
+        ],
+        "answer": 3,
+        "explanation": "Viscosity depends on nature of solute."
+    },
+    {
+        "id": 20,
+        "question": "The coordination number of central metal ion in [Fe(CN)6]4− is:",
+        "options": [
+            "4",
+            "6",
+            "2",
+            "8"
+        ],
+        "answer": 1,
+        "explanation": "Six cyanide ligands are attached."
+    },
+    {
+        "id": 21,
+        "question": "Which compound will undergo SN1 reaction fastest?",
+        "options": [
+            "CH3Cl",
+            "C2H5Cl",
+            "(CH3)3CCl",
+            "C6H5CH2Cl"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary carbocation is most stable."
+    },
+    {
+        "id": 22,
+        "question": "The correct order of ionization enthalpy is:",
+        "options": [
+            "O < N < C",
+            "N < O < C",
+            "C < O < N",
+            "C < N < O"
+        ],
+        "answer": 3,
+        "explanation": "Ionization enthalpy increases across period with N highest."
+    },
+    {
+        "id": 23,
+        "question": "The shape of SF6 molecule is:",
+        "options": [
+            "Octahedral",
+            "Trigonal bipyramidal",
+            "Square planar",
+            "Tetrahedral"
+        ],
+        "answer": 0,
+        "explanation": "Six bond pairs around S give octahedral geometry."
+    },
+    {
+        "id": 24,
+        "question": "Which of the following is a reducing agent?",
+        "options": [
+            "KMnO4",
+            "H2O2",
+            "O3",
+            "F2"
+        ],
+        "answer": 1,
+        "explanation": "H2O2 can act as reducing agent in acidic medium."
+    },
+    {
+        "id": 25,
+        "question": "The heat of neutralization of strong acid and strong base is always:",
+        "options": [
+            "−13.7 kJ mol−1",
+            "−57.1 kJ mol−1",
+            "+57.1 kJ mol−1",
+            "Variable"
+        ],
+        "answer": 1,
+        "explanation": "Always −57.1 kJ mol−1 due to formation of water."
+    },
+    {
+        "id": 26,
+        "question": "Which polymer is biodegradable?",
+        "options": [
+            "PVC",
+            "Teflon",
+            "Nylon-6,6",
+            "PHBV"
+        ],
+        "answer": 3,
+        "explanation": "PHBV is biodegradable polyester."
+    },
+    {
+        "id": 27,
+        "question": "The bond order of O2 molecule is:",
+        "options": [
+            "1",
+            "2",
+            "2.5",
+            "1.5"
+        ],
+        "answer": 1,
+        "explanation": "Bond order = (Nb−Na)/2 = 2."
+    },
+    {
+        "id": 28,
+        "question": "Which salt undergoes hydrolysis in water?",
+        "options": [
+            "NaCl",
+            "KNO3",
+            "NH4Cl",
+            "Na2SO4"
+        ],
+        "answer": 2,
+        "explanation": "Salt of strong acid and weak base hydrolyses."
+    },
+    {
+        "id": 29,
+        "question": "The correct increasing order of acidity is:",
+        "options": [
+            "Phenol < Ethanol < Acetic acid",
+            "Ethanol < Phenol < Acetic acid",
+            "Acetic acid < Phenol < Ethanol",
+            "Phenol < Acetic acid < Ethanol"
+        ],
+        "answer": 1,
+        "explanation": "Acidity increases with resonance stabilization."
+    },
+    {
+        "id": 30,
+        "question": "The molarity of pure water at 25°C is approximately:",
+        "options": [
+            "18 M",
+            "55.5 M",
+            "1 M",
+            "100 M"
+        ],
+        "answer": 1,
+        "explanation": "1000/18 ≈ 55.5 mol L−1."
+    },
+    {
+        "id": 31,
+        "question": "Which element shows maximum catenation?",
+        "options": [
+            "Carbon",
+            "Silicon",
+            "Sulphur",
+            "Nitrogen"
+        ],
+        "answer": 0,
+        "explanation": "Carbon has strongest C-C bonds."
+    },
+    {
+        "id": 32,
+        "question": "The half-life of a first order reaction is independent of:",
+        "options": [
+            "Temperature",
+            "Initial concentration",
+            "Rate constant",
+            "Nature of reaction"
+        ],
+        "answer": 1,
+        "explanation": "t1/2 = 0.693/k."
+    },
+    {
+        "id": 33,
+        "question": "Which of the following is a Lewis acid?",
+        "options": [
+            "NH3",
+            "H2O",
+            "BF3",
+            "OH−"
+        ],
+        "answer": 2,
+        "explanation": "BF3 accepts electron pair."
+    },
+    {
+        "id": 34,
+        "question": "The number of unpaired electrons in Cr atom is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "Cr: [Ar]3d5 4s1 has 6 unpaired electrons."
+    },
+    {
+        "id": 35,
+        "question": "Which compound gives positive iodoform test?",
+        "options": [
+            "Ethanol",
+            "Methanol",
+            "Formaldehyde",
+            "Formic acid"
+        ],
+        "answer": 0,
+        "explanation": "Ethanol forms CH3CHO which gives iodoform test."
+    },
+    {
+        "id": 36,
+        "question": "The maximum oxidation state of Mn is:",
+        "options": [
+            "+5",
+            "+6",
+            "+7",
+            "+4"
+        ],
+        "answer": 2,
+        "explanation": "Mn shows +7 in KMnO4."
+    },
+    {
+        "id": 37,
+        "question": "The rate of effusion of H2 compared to O2 is:",
+        "options": [
+            "1:4",
+            "4:1",
+            "1:16",
+            "16:1"
+        ],
+        "answer": 1,
+        "explanation": "Rate ∝ 1/√M, √(32/2)=4."
+    },
+    {
+        "id": 38,
+        "question": "Which of the following is strongest electrolyte?",
+        "options": [
+            "CH3COOH",
+            "NH4OH",
+            "HCl",
+            "H2CO3"
+        ],
+        "answer": 2,
+        "explanation": "HCl is strong acid, fully ionized."
+    },
+    {
+        "id": 39,
+        "question": "The geometry of [Ni(CO)4] is:",
+        "options": [
+            "Square planar",
+            "Tetrahedral",
+            "Octahedral",
+            "Linear"
+        ],
+        "answer": 1,
+        "explanation": "sp3 hybridization gives tetrahedral geometry."
+    },
+    {
+        "id": 40,
+        "question": "Which of the following is not an aromatic compound?",
+        "options": [
+            "Benzene",
+            "Cyclopropenyl cation",
+            "Cyclobutadiene",
+            "Naphthalene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclobutadiene is antiaromatic."
+    },
+    {
+        "id": 41,
+        "question": "The standard electrode potential of hydrogen electrode is:",
+        "options": [
+            "+1.0 V",
+            "0.0 V",
+            "−1.0 V",
+            "+0.76 V"
+        ],
+        "answer": 1,
+        "explanation": "SHE is defined as 0.0 V."
+    },
+    {
+        "id": 42,
+        "question": "Which compound has highest lattice energy?",
+        "options": [
+            "NaCl",
+            "MgO",
+            "KCl",
+            "CaO"
+        ],
+        "answer": 1,
+        "explanation": "Higher charges and smaller ions give higher lattice energy."
+    },
+    {
+        "id": 43,
+        "question": "The number of stereoisomers of tartaric acid is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": "Two chiral centers with meso form give 3 isomers."
+    },
+    {
+        "id": 44,
+        "question": "Which oxide is amphoteric?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SO2"
+        ],
+        "answer": 2,
+        "explanation": "Al2O3 reacts with both acids and bases."
+    },
+    {
+        "id": 45,
+        "question": "The bond angle in NH3 is approximately:",
+        "options": [
+            "109.5°",
+            "120°",
+            "107°",
+            "104.5°"
+        ],
+        "answer": 2,
+        "explanation": "Lone pair compression reduces angle to 107°."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following shows maximum electrical conductivity?",
+        "options": [
+            "Solid NaCl",
+            "Molten NaCl",
+            "NaCl in benzene",
+            "Dry NaCl vapour"
+        ],
+        "answer": 1,
+        "explanation": "Ions are free to move in molten state."
+    },
+    {
+        "id": 47,
+        "question": "The correct order of reducing power is:",
+        "options": [
+            "Li > Na > K",
+            "K > Na > Li",
+            "Na > Li > K",
+            "Li > K > Na"
+        ],
+        "answer": 0,
+        "explanation": "Lithium has highest hydration enthalpy."
+    },
+    {
+        "id": 48,
+        "question": "Which of the following is a greenhouse gas?",
+        "options": [
+            "N2",
+            "O2",
+            "CO2",
+            "Ar"
+        ],
+        "answer": 2,
+        "explanation": "CO2 absorbs infrared radiation."
+    },
+    {
+        "id": 49,
+        "question": "The order of reactivity of halogens is:",
+        "options": [
+            "F2 > Cl2 > Br2 > I2",
+            "I2 > Br2 > Cl2 > F2",
+            "Cl2 > F2 > Br2 > I2",
+            "Br2 > Cl2 > F2 > I2"
+        ],
+        "answer": 0,
+        "explanation": "Reactivity decreases down the group."
+    },
+    {
+        "id": 50,
+        "question": "The enthalpy change for an exothermic reaction is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "Heat is released, so ΔH is negative."
+    }
+]

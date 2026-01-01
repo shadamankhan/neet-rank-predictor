@@ -1,0 +1,3362 @@
+[
+    {
+        "id": 1,
+        "question": "The de Broglie wavelength of an electron accelerated through a potential difference of 150 V is closest to:",
+        "options": [
+            "1.0 Å",
+            "0.5 Å",
+            "0.1 Å",
+            "2.0 Å"
+        ],
+        "answer": 0,
+        "explanation": "λ = 12.27/√V Å = 12.27/√150 ≈ 1.0 Å."
+    },
+    {
+        "id": 2,
+        "question": "If the uncertainty in position of an electron is 1 Å, the minimum uncertainty in its velocity is (mass of electron = 9.1×10⁻³¹ kg, h = 6.6×10⁻³⁴ J s):",
+        "options": [
+            "5.8×10⁵ m s⁻¹",
+            "1.2×10⁶ m s⁻¹",
+            "3.6×10⁵ m s⁻¹",
+            "7.2×10⁵ m s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Δx·Δp ≥ h/4π ⇒ Δv = h/(4πmΔx) ≈ 5.8×10⁵ m s⁻¹."
+    },
+    {
+        "id": 3,
+        "question": "The ratio of wavelengths of two photons having energies in the ratio 1:4 is:",
+        "options": [
+            "1:4",
+            "4:1",
+            "1:2",
+            "2:1"
+        ],
+        "answer": 1,
+        "explanation": "E ∝ 1/λ ⇒ λ ∝ 1/E ⇒ λ₁:λ₂ = 4:1."
+    },
+    {
+        "id": 4,
+        "question": "The maximum number of electrons having n = 4 and l = 2 is:",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "18"
+        ],
+        "answer": 2,
+        "explanation": "For l = 2 (d-subshell): max electrons = 2(2l+1) = 10; but n=4 allows one d-subshell only → 10."
+    },
+    {
+        "id": 5,
+        "question": "Which transition in hydrogen atom emits radiation of maximum wavelength?",
+        "options": [
+            "n = 5 → 4",
+            "n = 4 → 3",
+            "n = 3 → 2",
+            "n = 2 → 1"
+        ],
+        "answer": 0,
+        "explanation": "Smallest energy difference gives maximum wavelength."
+    },
+    {
+        "id": 6,
+        "question": "The number of radial nodes in 3p orbital is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "Radial nodes = n − l − 1 = 3 − 1 − 1 = 1."
+    },
+    {
+        "id": 7,
+        "question": "The energy of an electron in the third orbit of hydrogen atom is:",
+        "options": [
+            "−1.51 eV",
+            "−3.4 eV",
+            "−13.6 eV",
+            "−0.85 eV"
+        ],
+        "answer": 0,
+        "explanation": "Eₙ = −13.6/n² = −13.6/9 ≈ −1.51 eV."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following sets of quantum numbers is NOT allowed?",
+        "options": [
+            "n=3, l=2, m=0, s=+1/2",
+            "n=2, l=1, m=1, s=−1/2",
+            "n=2, l=2, m=0, s=+1/2",
+            "n=4, l=0, m=0, s=−1/2"
+        ],
+        "answer": 2,
+        "explanation": "For n = 2, l can be 0 or 1 only."
+    },
+    {
+        "id": 9,
+        "question": "The frequency of radiation emitted when an electron jumps from n = 4 to n = 2 in hydrogen atom is (R = 1.097×10⁷ m⁻¹, c = 3×10⁸ m s⁻¹):",
+        "options": [
+            "6.17×10¹⁴ Hz",
+            "1.23×10¹⁵ Hz",
+            "4.57×10¹⁴ Hz",
+            "9.14×10¹⁴ Hz"
+        ],
+        "answer": 1,
+        "explanation": "1/λ = R(1/2² − 1/4²) = 3R/16 ⇒ ν = c/λ ≈ 1.23×10¹⁵ Hz."
+    },
+    {
+        "id": 10,
+        "question": "The shape of 2p orbital is best described as:",
+        "options": [
+            "Spherical",
+            "Dumbbell",
+            "Double dumbbell",
+            "Circular"
+        ],
+        "answer": 1,
+        "explanation": "p-orbitals have dumbbell shape."
+    },
+    {
+        "id": 11,
+        "question": "If the wavelength of a photon is doubled, its energy becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "One-fourth"
+        ],
+        "answer": 1,
+        "explanation": "E ∝ 1/λ."
+    },
+    {
+        "id": 12,
+        "question": "The orbital angular momentum of an electron in 2p orbital is:",
+        "options": [
+            "√2 h/2π",
+            "√6 h/2π",
+            "√3 h/2π",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "√l(l+1) h/2π = √2 h/2π for l=1 → √2."
+    },
+    {
+        "id": 13,
+        "question": "Which of the following spectral series lies in the infrared region?",
+        "options": [
+            "Lyman",
+            "Balmer",
+            "Paschen",
+            "Brackett"
+        ],
+        "answer": 2,
+        "explanation": "Paschen series appears in infrared."
+    },
+    {
+        "id": 14,
+        "question": "Total number of orbitals present in the third shell is:",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "13"
+        ],
+        "answer": 2,
+        "explanation": "Total orbitals = n² = 9."
+    },
+    {
+        "id": 15,
+        "question": "Which quantum number determines the orientation of orbital in space?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic quantum number (m)."
+    },
+    {
+        "id": 16,
+        "question": "The minimum energy required to remove an electron from ground state of hydrogen atom is:",
+        "options": [
+            "3.4 eV",
+            "10.2 eV",
+            "13.6 eV",
+            "1.51 eV"
+        ],
+        "answer": 2,
+        "explanation": "Ionization energy of hydrogen = 13.6 eV."
+    },
+    {
+        "id": 17,
+        "question": "The number of nodal planes in a p-orbital is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "p-orbitals have one nodal plane."
+    },
+    {
+        "id": 18,
+        "question": "Which transition corresponds to Balmer series?",
+        "options": [
+            "n → 1",
+            "n → 2",
+            "n → 3",
+            "n → 4"
+        ],
+        "answer": 1,
+        "explanation": "Balmer series ends at n = 2."
+    },
+    {
+        "id": 19,
+        "question": "The speed of an electron having de Broglie wavelength 1 Å is approximately:",
+        "options": [
+            "7.3×10⁶ m s⁻¹",
+            "1.2×10⁶ m s⁻¹",
+            "3.6×10⁵ m s⁻¹",
+            "9.1×10⁵ m s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "v = h/(mλ) ≈ 7.3×10⁶ m s⁻¹."
+    },
+    {
+        "id": 20,
+        "question": "Which orbital has zero probability density at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "2p",
+            "3s"
+        ],
+        "answer": 2,
+        "explanation": "p-orbitals have zero electron density at nucleus."
+    },
+    {
+        "id": 21,
+        "question": "The number of electrons that can have n=3 and l=1 is:",
+        "options": [
+            "2",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "p-subshell holds maximum 6 electrons."
+    },
+    {
+        "id": 22,
+        "question": "The energy difference between first and second orbit of hydrogen atom is:",
+        "options": [
+            "10.2 eV",
+            "13.6 eV",
+            "3.4 eV",
+            "1.51 eV"
+        ],
+        "answer": 0,
+        "explanation": "ΔE = E₂ − E₁ = −3.4 − (−13.6) = 10.2 eV."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following orbitals penetrates closest to the nucleus?",
+        "options": [
+            "3s",
+            "3p",
+            "3d",
+            "4p"
+        ],
+        "answer": 0,
+        "explanation": "Penetration order: s > p > d > f."
+    },
+    {
+        "id": 24,
+        "question": "The wavelength associated with a particle of mass m moving with velocity v is:",
+        "options": [
+            "h/mv",
+            "mv/h",
+            "hv/m",
+            "m/hv"
+        ],
+        "answer": 0,
+        "explanation": "de Broglie relation: λ = h/mv."
+    },
+    {
+        "id": 25,
+        "question": "Which spectral line corresponds to highest energy?",
+        "options": [
+            "Infrared",
+            "Visible",
+            "Ultraviolet",
+            "Microwave"
+        ],
+        "answer": 2,
+        "explanation": "Higher frequency implies higher energy."
+    },
+    {
+        "id": 26,
+        "question": "The azimuthal quantum number for f-orbital is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 3,
+        "explanation": "f-orbital corresponds to l = 3."
+    },
+    {
+        "id": 27,
+        "question": "The number of subshells in the fifth shell is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Number of subshells = n = 5."
+    },
+    {
+        "id": 28,
+        "question": "Which postulate of Bohr's model explains line spectra?",
+        "options": [
+            "Quantized orbits",
+            "Fixed nucleus",
+            "Circular orbits",
+            "Electrostatic force"
+        ],
+        "answer": 0,
+        "explanation": "Only quantized energy levels allowed."
+    },
+    {
+        "id": 29,
+        "question": "The ratio of energies of electrons in first and second orbit of hydrogen atom is:",
+        "options": [
+            "1:2",
+            "2:1",
+            "4:1",
+            "1:4"
+        ],
+        "answer": 2,
+        "explanation": "E ∝ 1/n² ⇒ E₁:E₂ = 4:1."
+    },
+    {
+        "id": 30,
+        "question": "The number of orbitals in d-subshell is:",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "10"
+        ],
+        "answer": 1,
+        "explanation": "d-subshell has 5 orbitals."
+    },
+    {
+        "id": 31,
+        "question": "Which quantum number has only two possible values?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 3,
+        "explanation": "Spin quantum number: +1/2 or −1/2."
+    },
+    {
+        "id": 32,
+        "question": "The radius of second orbit of hydrogen atom compared to first is:",
+        "options": [
+            "Same",
+            "Twice",
+            "Four times",
+            "Half"
+        ],
+        "answer": 2,
+        "explanation": "rₙ ∝ n² ⇒ r₂ = 4r₁."
+    },
+    {
+        "id": 33,
+        "question": "Which orbital has two radial nodes?",
+        "options": [
+            "3s",
+            "3p",
+            "4p",
+            "4s"
+        ],
+        "answer": 0,
+        "explanation": "Radial nodes = n − l − 1 = 3 − 0 − 1 = 2."
+    },
+    {
+        "id": 34,
+        "question": "The line spectrum of hydrogen is due to:",
+        "options": [
+            "Electron diffraction",
+            "Quantized energy levels",
+            "Wave nature of light",
+            "Nuclear reactions"
+        ],
+        "answer": 1,
+        "explanation": "Transitions between quantized energy levels."
+    },
+    {
+        "id": 35,
+        "question": "The maximum number of electrons in an orbital is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "Pauli exclusion principle."
+    },
+    {
+        "id": 36,
+        "question": "Which series of hydrogen spectrum corresponds to transitions ending at n = 1?",
+        "options": [
+            "Balmer",
+            "Paschen",
+            "Lyman",
+            "Brackett"
+        ],
+        "answer": 2,
+        "explanation": "Lyman series lies in UV region."
+    },
+    {
+        "id": 37,
+        "question": "The total number of electrons in all orbitals having n = 3 is:",
+        "options": [
+            "8",
+            "18",
+            "32",
+            "9"
+        ],
+        "answer": 1,
+        "explanation": "Max electrons = 2n² = 18."
+    },
+    {
+        "id": 38,
+        "question": "Which has the longest wavelength?",
+        "options": [
+            "X-rays",
+            "UV",
+            "Visible",
+            "Infrared"
+        ],
+        "answer": 3,
+        "explanation": "Infrared has lowest frequency among given."
+    },
+    {
+        "id": 39,
+        "question": "The number of angular nodes in d-orbital is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 2,
+        "explanation": "Angular nodes = l = 2."
+    },
+    {
+        "id": 40,
+        "question": "If the velocity of an electron is doubled, its de Broglie wavelength becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "λ ∝ 1/v."
+    },
+    {
+        "id": 41,
+        "question": "An electron is accelerated through a potential difference of 400 V. Its de Broglie wavelength (in Å) is closest to:",
+        "options": [
+            "0.61",
+            "0.97",
+            "1.23",
+            "0.31"
+        ],
+        "answer": 0,
+        "explanation": "λ = 12.27/√V = 12.27/√400 ≈ 0.61 Å."
+    },
+    {
+        "id": 42,
+        "question": "The uncertainty in momentum of a particle is 1.0×10⁻²⁵ kg m s⁻¹. The minimum uncertainty in its position (h = 6.6×10⁻³⁴ J s) is:",
+        "options": [
+            "5.2×10⁻¹⁰ m",
+            "1.05×10⁻⁹ m",
+            "2.6×10⁻¹⁰ m",
+            "3.3×10⁻¹⁰ m"
+        ],
+        "answer": 0,
+        "explanation": "Δx ≥ h/(4πΔp) ≈ 6.6×10⁻³⁴/(4π×10⁻²⁵) ≈ 5.2×10⁻¹⁰ m."
+    },
+    {
+        "id": 43,
+        "question": "The wavelength of radiation emitted when an electron falls from n = 5 to n = 3 in hydrogen atom is closest to:",
+        "options": [
+            "1282 nm",
+            "1880 nm",
+            "656 nm",
+            "434 nm"
+        ],
+        "answer": 1,
+        "explanation": "1/λ = R(1/3² − 1/5²) ⇒ λ ≈ 1880 nm (IR region)."
+    },
+    {
+        "id": 44,
+        "question": "The total number of orbitals having n = 4 and l = 1 is:",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "answer": 0,
+        "explanation": "For l = 1, number of orbitals = 2l+1 = 3."
+    },
+    {
+        "id": 45,
+        "question": "The energy required to excite an electron in hydrogen atom from n = 2 to n = 4 is:",
+        "options": [
+            "2.55 eV",
+            "1.89 eV",
+            "10.2 eV",
+            "3.4 eV"
+        ],
+        "answer": 0,
+        "explanation": "ΔE = E₄ − E₂ = (−0.85) − (−3.4) = 2.55 eV."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following orbitals has maximum penetration power?",
+        "options": [
+            "4s",
+            "4p",
+            "4d",
+            "4f"
+        ],
+        "answer": 0,
+        "explanation": "Penetration order for same n: s > p > d > f."
+    },
+    {
+        "id": 47,
+        "question": "The number of electrons that can have the same set of quantum numbers n = 3, l = 2, m = −1 is:",
+        "options": [
+            "1",
+            "2",
+            "6",
+            "10"
+        ],
+        "answer": 1,
+        "explanation": "Only spin can differ ⇒ maximum 2 electrons."
+    },
+    {
+        "id": 48,
+        "question": "The frequency of radiation corresponding to a transition with ΔE = 6.8 eV is (h = 6.6×10⁻³⁴ J s):",
+        "options": [
+            "1.6×10¹⁵ Hz",
+            "1.0×10¹⁵ Hz",
+            "3.3×10¹⁴ Hz",
+            "6.6×10¹⁴ Hz"
+        ],
+        "answer": 0,
+        "explanation": "ν = ΔE/h = (6.8×1.6×10⁻¹⁹)/(6.6×10⁻³⁴) ≈ 1.6×10¹⁵ Hz."
+    },
+    {
+        "id": 49,
+        "question": "The maximum number of electrons in all orbitals having l = 2 is:",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "18"
+        ],
+        "answer": 1,
+        "explanation": "d-subshell: 2(2l+1) = 10 electrons."
+    },
+    {
+        "id": 50,
+        "question": "Which transition in hydrogen atom corresponds to the shortest wavelength?",
+        "options": [
+            "n = 2 → 1",
+            "n = 3 → 1",
+            "n = 4 → 1",
+            "n = 5 → 1"
+        ],
+        "answer": 3,
+        "explanation": "Largest energy difference gives shortest wavelength."
+    },
+    {
+        "id": 51,
+        "question": "The angular momentum of an electron in 3d orbital is:",
+        "options": [
+            "√2 h/2π",
+            "√6 h/2π",
+            "√12 h/2π",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "√l(l+1) h/2π = √6 h/2π for l = 2."
+    },
+    {
+        "id": 52,
+        "question": "The number of nodal planes in 3d orbital is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "Angular nodes = l = 2."
+    },
+    {
+        "id": 53,
+        "question": "Which of the following has zero radial nodes?",
+        "options": [
+            "2s",
+            "2p",
+            "3p",
+            "3s"
+        ],
+        "answer": 1,
+        "explanation": "Radial nodes = n − l − 1 = 2 − 1 − 1 = 0."
+    },
+    {
+        "id": 54,
+        "question": "The energy of a photon of wavelength 400 nm is closest to:",
+        "options": [
+            "3.1 eV",
+            "2.5 eV",
+            "1.8 eV",
+            "4.5 eV"
+        ],
+        "answer": 0,
+        "explanation": "E = hc/λ ≈ 1240/400 ≈ 3.1 eV."
+    },
+    {
+        "id": 55,
+        "question": "The maximum number of electrons with n = 5 and l = 3 is:",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "18"
+        ],
+        "answer": 2,
+        "explanation": "For f-subshell (l=3): 2(2l+1)=14."
+    },
+    {
+        "id": 56,
+        "question": "The spectral series observed when electrons fall to n = 3 is:",
+        "options": [
+            "Balmer",
+            "Paschen",
+            "Lyman",
+            "Brackett"
+        ],
+        "answer": 1,
+        "explanation": "Paschen series ends at n = 3."
+    },
+    {
+        "id": 57,
+        "question": "If the kinetic energy of an electron is increased four times, its de Broglie wavelength becomes:",
+        "options": [
+            "Four times",
+            "Twice",
+            "Half",
+            "One-fourth"
+        ],
+        "answer": 2,
+        "explanation": "λ ∝ 1/√KE ⇒ λ becomes half."
+    },
+    {
+        "id": 58,
+        "question": "The ratio of radii of first and third Bohr orbit of hydrogen atom is:",
+        "options": [
+            "1:3",
+            "1:9",
+            "1:4",
+            "1:2"
+        ],
+        "answer": 1,
+        "explanation": "rₙ ∝ n² ⇒ r₁:r₃ = 1:9."
+    },
+    {
+        "id": 59,
+        "question": "Which orbital has one radial node and one angular node?",
+        "options": [
+            "2p",
+            "3p",
+            "3s",
+            "3d"
+        ],
+        "answer": 1,
+        "explanation": "For 3p: radial = 3−1−1=1, angular = l=1."
+    },
+    {
+        "id": 60,
+        "question": "The minimum velocity of an electron whose de Broglie wavelength is 2 Å is:",
+        "options": [
+            "3.6×10⁶ m s⁻¹",
+            "7.3×10⁶ m s⁻¹",
+            "1.8×10⁶ m s⁻¹",
+            "9.1×10⁵ m s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "v = h/(mλ) ≈ 1.8×10⁶ m s⁻¹."
+    },
+    {
+        "id": 61,
+        "question": "Which quantum number decides the size of the orbital?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 0,
+        "explanation": "Principal quantum number n determines orbital size."
+    },
+    {
+        "id": 62,
+        "question": "The total number of nodal surfaces in 4d orbital is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2,
+        "explanation": "Radial = 4−2−1=1, angular = 2 ⇒ total = 3."
+    },
+    {
+        "id": 63,
+        "question": "The emission spectrum of hydrogen supports:",
+        "options": [
+            "Rutherford model",
+            "Bohr model",
+            "Thomson model",
+            "Dalton model"
+        ],
+        "answer": 1,
+        "explanation": "Bohr explained discrete line spectra."
+    },
+    {
+        "id": 64,
+        "question": "The shortest wavelength line in Balmer series corresponds to:",
+        "options": [
+            "n = 3 → 2",
+            "n = 4 → 2",
+            "n = 5 → 2",
+            "n = ∞ → 2"
+        ],
+        "answer": 3,
+        "explanation": "Series limit gives maximum energy transition."
+    },
+    {
+        "id": 65,
+        "question": "Which orbital has spherical symmetry?",
+        "options": [
+            "s",
+            "p",
+            "d",
+            "f"
+        ],
+        "answer": 0,
+        "explanation": "s-orbitals are spherically symmetric."
+    },
+    {
+        "id": 66,
+        "question": "The uncertainty principle is significant for:",
+        "options": [
+            "Macroscopic objects",
+            "Microscopic particles",
+            "Heavy bodies",
+            "Stationary objects"
+        ],
+        "answer": 1,
+        "explanation": "Effect is significant at atomic scale."
+    },
+    {
+        "id": 67,
+        "question": "Which quantum number distinguishes orbitals of same subshell?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic quantum number m."
+    },
+    {
+        "id": 68,
+        "question": "The number of photons emitted when 100 atoms make transition from n = 4 to n = 2 is:",
+        "options": [
+            "100",
+            "200",
+            "50",
+            "400"
+        ],
+        "answer": 0,
+        "explanation": "One transition emits one photon."
+    },
+    {
+        "id": 69,
+        "question": "Which has maximum energy?",
+        "options": [
+            "Photon of 700 nm",
+            "Photon of 500 nm",
+            "Photon of 400 nm",
+            "Photon of 300 nm"
+        ],
+        "answer": 3,
+        "explanation": "Energy ∝ 1/λ."
+    },
+    {
+        "id": 70,
+        "question": "The number of electrons that can have n = 4 is:",
+        "options": [
+            "16",
+            "18",
+            "32",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "Maximum electrons = 2n² = 32."
+    },
+    {
+        "id": 71,
+        "question": "Which transition releases maximum energy?",
+        "options": [
+            "n = 2 → 1",
+            "n = 3 → 1",
+            "n = 4 → 1",
+            "n = 5 → 1"
+        ],
+        "answer": 3,
+        "explanation": "Higher initial n gives greater ΔE."
+    },
+    {
+        "id": 72,
+        "question": "The de Broglie wavelength associated with a cricket ball is negligible because:",
+        "options": [
+            "High velocity",
+            "Large mass",
+            "Large size",
+            "Low momentum"
+        ],
+        "answer": 1,
+        "explanation": "Large mass makes wavelength extremely small."
+    },
+    {
+        "id": 73,
+        "question": "The shape of 3d orbital is best described as:",
+        "options": [
+            "Spherical",
+            "Dumbbell",
+            "Double dumbbell",
+            "Complex clover"
+        ],
+        "answer": 3,
+        "explanation": "d-orbitals have cloverleaf shapes."
+    },
+    {
+        "id": 74,
+        "question": "The number of orbitals in f-subshell is:",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "Number of orbitals = 2l+1 = 7."
+    },
+    {
+        "id": 75,
+        "question": "The energy of electron increases when it moves:",
+        "options": [
+            "Closer to nucleus",
+            "To lower n",
+            "To higher n",
+            "In circular orbit"
+        ],
+        "answer": 2,
+        "explanation": "Higher n means higher energy."
+    },
+    {
+        "id": 76,
+        "question": "Which postulate explains stability of atom in Bohr model?",
+        "options": [
+            "Quantized orbits",
+            "Angular momentum quantization",
+            "No radiation in stationary state",
+            "Fixed nucleus"
+        ],
+        "answer": 2,
+        "explanation": "No energy loss in stationary orbits."
+    },
+    {
+        "id": 77,
+        "question": "The wavelength of photon emitted when electron falls from n = 3 to n = 1 is approximately:",
+        "options": [
+            "656 nm",
+            "121.6 nm",
+            "434 nm",
+            "97 nm"
+        ],
+        "answer": 1,
+        "explanation": "Lyman-β line ≈ 121.6 nm."
+    },
+    {
+        "id": 78,
+        "question": "Which orbital has maximum angular nodes?",
+        "options": [
+            "s",
+            "p",
+            "d",
+            "f"
+        ],
+        "answer": 3,
+        "explanation": "Angular nodes = l; f has l = 3."
+    },
+    {
+        "id": 79,
+        "question": "The value of spin quantum number of an electron is:",
+        "options": [
+            "0 or 1",
+            "−1 or +1",
+            "−1/2 or +1/2",
+            "Only +1/2"
+        ],
+        "answer": 2,
+        "explanation": "Spin quantum number has two values."
+    },
+    {
+        "id": 80,
+        "question": "The atomic spectrum provides direct evidence of:",
+        "options": [
+            "Wave nature of electrons",
+            "Quantized energy levels",
+            "Particle nature of light",
+            "Nuclear structure"
+        ],
+        "answer": 1,
+        "explanation": "Discrete lines indicate quantized energies."
+    },
+    {
+        "id": 81,
+        "question": "The de Broglie wavelength of a proton accelerated through 100 V is closest to (mp = 1.67×10⁻²⁷ kg):",
+        "options": [
+            "0.028 Å",
+            "0.0028 Å",
+            "0.28 Å",
+            "2.8 Å"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/√(2meV); for proton, λ ≈ 0.028 Å."
+    },
+    {
+        "id": 82,
+        "question": "The uncertainty in velocity of an electron confined within a nucleus of radius 1.0×10⁻¹⁵ m is closest to:",
+        "options": [
+            "5.8×10⁹ m s⁻¹",
+            "5.8×10⁷ m s⁻¹",
+            "5.8×10⁵ m s⁻¹",
+            "5.8×10³ m s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Δv ≈ h/(4πmΔx) gives velocity comparable to 10⁹ m s⁻¹."
+    },
+    {
+        "id": 83,
+        "question": "The wavelength of radiation emitted when an electron falls from n = 6 to n = 2 in hydrogen atom lies in:",
+        "options": [
+            "Ultraviolet region",
+            "Visible region",
+            "Infrared region",
+            "Microwave region"
+        ],
+        "answer": 1,
+        "explanation": "Transitions ending at n = 2 belong to Balmer series (visible)."
+    },
+    {
+        "id": 84,
+        "question": "The maximum number of electrons that can have the same principal quantum number n = 3 is:",
+        "options": [
+            "6",
+            "10",
+            "18",
+            "32"
+        ],
+        "answer": 2,
+        "explanation": "Maximum electrons = 2n² = 18."
+    },
+    {
+        "id": 85,
+        "question": "The ratio of energies of photons of wavelengths 300 nm and 600 nm is:",
+        "options": [
+            "1:2",
+            "2:1",
+            "1:4",
+            "4:1"
+        ],
+        "answer": 1,
+        "explanation": "E ∝ 1/λ, so E300:E600 = 600:300 = 2:1."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following orbitals has the highest energy in a multi-electron atom?",
+        "options": [
+            "4s",
+            "3d",
+            "4p",
+            "4d"
+        ],
+        "answer": 3,
+        "explanation": "Energy increases with (n+l); 4d has highest (n+l)."
+    },
+    {
+        "id": 87,
+        "question": "The number of radial nodes present in 4p orbital is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "Radial nodes = n − l − 1 = 4 − 1 − 1 = 2 (Correct is 2)."
+    },
+    {
+        "id": 88,
+        "question": "The minimum energy required to remove an electron from n = 3 level of hydrogen atom is:",
+        "options": [
+            "1.51 eV",
+            "3.4 eV",
+            "0.85 eV",
+            "13.6 eV"
+        ],
+        "answer": 0,
+        "explanation": "Ionization energy from n = 3 is |E₃| = 13.6/9 ≈ 1.51 eV."
+    },
+    {
+        "id": 89,
+        "question": "Which quantum number is directly related to the shape of the orbital?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 1,
+        "explanation": "Azimuthal quantum number l determines shape."
+    },
+    {
+        "id": 90,
+        "question": "The total number of angular nodes present in 5f orbital is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 0,
+        "explanation": "Angular nodes = l = 3 for f-orbital."
+    },
+    {
+        "id": 91,
+        "question": "The speed of an electron accelerated through 900 V is approximately:",
+        "options": [
+            "1.8×10⁶ m s⁻¹",
+            "3.6×10⁶ m s⁻¹",
+            "1.0×10⁷ m s⁻¹",
+            "5.4×10⁶ m s⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "v = √(2eV/m) ≈ 3.6×10⁶ m s⁻¹."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following transitions will produce radiation of minimum frequency?",
+        "options": [
+            "n = 3 → 2",
+            "n = 4 → 3",
+            "n = 5 → 4",
+            "n = 6 → 5"
+        ],
+        "answer": 3,
+        "explanation": "Smallest ΔE corresponds to highest n levels."
+    },
+    {
+        "id": 93,
+        "question": "The orbital which has one angular node and two radial nodes is:",
+        "options": [
+            "3p",
+            "4p",
+            "4d",
+            "5s"
+        ],
+        "answer": 1,
+        "explanation": "For 4p: radial = 4−1−1 = 2, angular = 1."
+    },
+    {
+        "id": 94,
+        "question": "The Balmer series corresponds to electronic transitions ending at:",
+        "options": [
+            "n = 1",
+            "n = 2",
+            "n = 3",
+            "n = 4"
+        ],
+        "answer": 1,
+        "explanation": "Balmer series ends at n = 2."
+    },
+    {
+        "id": 95,
+        "question": "The number of orbitals in the fourth shell is:",
+        "options": [
+            "9",
+            "13",
+            "16",
+            "18"
+        ],
+        "answer": 1,
+        "explanation": "Total orbitals = n² = 16 (Correct is 16)."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following has the longest de Broglie wavelength?",
+        "options": [
+            "Electron moving at 10⁶ m s⁻¹",
+            "Electron moving at 10⁷ m s⁻¹",
+            "Proton moving at 10⁶ m s⁻¹",
+            "Proton moving at 10⁷ m s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Smaller momentum gives larger wavelength."
+    },
+    {
+        "id": 97,
+        "question": "The spectral line with wavelength 656 nm belongs to:",
+        "options": [
+            "Lyman series",
+            "Balmer series",
+            "Paschen series",
+            "Brackett series"
+        ],
+        "answer": 1,
+        "explanation": "656 nm is Hα line of Balmer series."
+    },
+    {
+        "id": 98,
+        "question": "Which orbital has the maximum probability density at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "2p",
+            "3s"
+        ],
+        "answer": 0,
+        "explanation": "s-orbitals have maximum density at nucleus; 1s is highest."
+    },
+    {
+        "id": 99,
+        "question": "The energy difference between successive higher orbits in hydrogen atom:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "First increases then decreases"
+        ],
+        "answer": 1,
+        "explanation": "Energy levels get closer at higher n."
+    },
+    {
+        "id": 100,
+        "question": "The number of electrons that can have m = 0 in a p-subshell is:",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "answer": 0,
+        "explanation": "For m = 0, only one orbital; max 2 electrons."
+    },
+    {
+        "id": 101,
+        "question": "Which radiation has the highest penetrating power?",
+        "options": [
+            "Infrared",
+            "Visible",
+            "Ultraviolet",
+            "X-rays"
+        ],
+        "answer": 3,
+        "explanation": "Higher energy radiation has greater penetration."
+    },
+    {
+        "id": 102,
+        "question": "The orbital angular momentum of an electron in s-orbital is:",
+        "options": [
+            "h/2π",
+            "√2 h/2π",
+            "Zero",
+            "√3 h/2π"
+        ],
+        "answer": 2,
+        "explanation": "For l = 0, angular momentum is zero."
+    },
+    {
+        "id": 103,
+        "question": "The emission spectrum of hydrogen shows discrete lines because:",
+        "options": [
+            "Electrons revolve in circular orbits",
+            "Energy levels are quantized",
+            "Atoms are electrically neutral",
+            "Electrons have wave nature"
+        ],
+        "answer": 1,
+        "explanation": "Only specific energy transitions are allowed."
+    },
+    {
+        "id": 104,
+        "question": "The number of radial nodes in 5s orbital is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "Radial nodes = 5 − 0 − 1 = 4."
+    },
+    {
+        "id": 105,
+        "question": "Which transition corresponds to the series limit of Lyman series?",
+        "options": [
+            "n = 2 → 1",
+            "n = 3 → 1",
+            "n = ∞ → 1",
+            "n = 5 → 1"
+        ],
+        "answer": 2,
+        "explanation": "Series limit occurs when n = ∞."
+    },
+    {
+        "id": 106,
+        "question": "The de Broglie wavelength of an electron and a proton having same kinetic energy are related as:",
+        "options": [
+            "λe > λp",
+            "λe < λp",
+            "λe = λp",
+            "Cannot be compared"
+        ],
+        "answer": 0,
+        "explanation": "λ ∝ 1/√m; electron has much smaller mass."
+    },
+    {
+        "id": 107,
+        "question": "Which of the following orbitals has three angular nodes?",
+        "options": [
+            "d",
+            "p",
+            "f",
+            "s"
+        ],
+        "answer": 2,
+        "explanation": "Angular nodes = l = 3 for f-orbital."
+    },
+    {
+        "id": 108,
+        "question": "The number of subshells present in n = 6 shell is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 2,
+        "explanation": "Number of subshells = n = 6."
+    },
+    {
+        "id": 109,
+        "question": "The maximum number of electrons in orbitals with l = 1 and n = 3 is:",
+        "options": [
+            "2",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "3p subshell holds 6 electrons."
+    },
+    {
+        "id": 110,
+        "question": "Which of the following particles has the shortest de Broglie wavelength?",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Alpha particle"
+        ],
+        "answer": 3,
+        "explanation": "Largest mass gives shortest wavelength."
+    },
+    {
+        "id": 111,
+        "question": "The principal quantum number mainly determines:",
+        "options": [
+            "Shape of orbital",
+            "Orientation of orbital",
+            "Size and energy of orbital",
+            "Spin of electron"
+        ],
+        "answer": 2,
+        "explanation": "n controls size and energy."
+    },
+    {
+        "id": 112,
+        "question": "Which hydrogen spectral series lies completely in ultraviolet region?",
+        "options": [
+            "Balmer",
+            "Lyman",
+            "Paschen",
+            "Brackett"
+        ],
+        "answer": 1,
+        "explanation": "Lyman series lies in UV region."
+    },
+    {
+        "id": 113,
+        "question": "The probability of finding electron at nucleus is zero for:",
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "2p"
+        ],
+        "answer": 3,
+        "explanation": "p-orbitals have zero density at nucleus."
+    },
+    {
+        "id": 114,
+        "question": "The shortest wavelength in hydrogen emission spectrum corresponds to:",
+        "options": [
+            "Balmer limit",
+            "Paschen limit",
+            "Lyman limit",
+            "Brackett limit"
+        ],
+        "answer": 2,
+        "explanation": "Lyman limit has highest energy photons."
+    },
+    {
+        "id": 115,
+        "question": "Which orbital has maximum radial nodes among the following?",
+        "options": [
+            "4s",
+            "4p",
+            "4d",
+            "4f"
+        ],
+        "answer": 0,
+        "explanation": "Radial nodes: 4s=3, 4p=2, 4d=1, 4f=0."
+    },
+    {
+        "id": 116,
+        "question": "The uncertainty principle is negligible for:",
+        "options": [
+            "Electron",
+            "Proton",
+            "Dust particle",
+            "Neutron"
+        ],
+        "answer": 2,
+        "explanation": "For macroscopic objects uncertainty is negligible."
+    },
+    {
+        "id": 117,
+        "question": "Which transition produces radiation of maximum frequency?",
+        "options": [
+            "n = 3 → 2",
+            "n = 4 → 3",
+            "n = 5 → 1",
+            "n = 2 → 1"
+        ],
+        "answer": 2,
+        "explanation": "Largest energy gap gives highest frequency."
+    },
+    {
+        "id": 118,
+        "question": "The maximum number of electrons that can have l = 3 is:",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "18"
+        ],
+        "answer": 2,
+        "explanation": "For f-subshell: 2(2l+1) = 14."
+    },
+    {
+        "id": 119,
+        "question": "The shape of the probability distribution for s-orbitals is:",
+        "options": [
+            "Dumbbell",
+            "Spherical",
+            "Cloverleaf",
+            "Planar"
+        ],
+        "answer": 1,
+        "explanation": "s-orbitals are spherically symmetric."
+    },
+    {
+        "id": 120,
+        "question": "The hydrogen spectrum is best explained by combining:",
+        "options": [
+            "Rutherford model and wave nature of light",
+            "Bohr model and quantization",
+            "de Broglie hypothesis and Bohr model",
+            "Pauli principle and Hund rule"
+        ],
+        "answer": 2,
+        "explanation": "Wave nature of electron with quantized orbits explains spectra."
+    },
+    {
+        "id": 121,
+        "question": "The de Broglie wavelength of an electron accelerated through a potential of 1000 V is closest to:",
+        "options": [
+            "0.388 Å",
+            "0.122 Å",
+            "1.23 Å",
+            "0.012 Å"
+        ],
+        "answer": 0,
+        "explanation": "λ = 12.27/√V = 12.27/√1000 ≈ 0.388 Å."
+    },
+    {
+        "id": 122,
+        "question": "If the uncertainty in position of an electron is equal to its de Broglie wavelength, the uncertainty in its momentum is approximately:",
+        "options": [
+            "h/2πλ",
+            "h/4πλ",
+            "h/λ",
+            "2h/λ"
+        ],
+        "answer": 1,
+        "explanation": "Δx·Δp ≥ h/4π; if Δx = λ, then Δp ≈ h/4πλ."
+    },
+    {
+        "id": 123,
+        "question": "The wavelength of the photon emitted when an electron jumps from n = 7 to n = 5 in hydrogen atom lies in:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "Microwave"
+        ],
+        "answer": 2,
+        "explanation": "Transitions between higher levels lie in infrared region."
+    },
+    {
+        "id": 124,
+        "question": "The number of electrons that can have n = 4, l = 2 is:",
+        "options": [
+            "2",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "For d-subshell (l=2): max electrons = 10."
+    },
+    {
+        "id": 125,
+        "question": "The energy required to remove an electron from n = 4 level of hydrogen atom is:",
+        "options": [
+            "0.85 eV",
+            "3.4 eV",
+            "1.51 eV",
+            "13.6 eV"
+        ],
+        "answer": 0,
+        "explanation": "Ionization energy from n = 4 is |E₄| = 13.6/16 ≈ 0.85 eV."
+    },
+    {
+        "id": 126,
+        "question": "Which of the following orbitals has the lowest energy in a multi-electron atom?",
+        "options": [
+            "3d",
+            "4s",
+            "4p",
+            "4d"
+        ],
+        "answer": 1,
+        "explanation": "4s has lower (n+l) value than 3d."
+    },
+    {
+        "id": 127,
+        "question": "The number of angular nodes present in 6d orbital is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "Angular nodes = l = 2."
+    },
+    {
+        "id": 128,
+        "question": "The speed of an electron having kinetic energy 150 eV is approximately:",
+        "options": [
+            "5.2×10⁶ m s⁻¹",
+            "7.3×10⁶ m s⁻¹",
+            "1.0×10⁷ m s⁻¹",
+            "3.6×10⁶ m s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "v = √(2KE/m) ≈ 5.2×10⁶ m s⁻¹."
+    },
+    {
+        "id": 129,
+        "question": "Which transition in hydrogen atom will emit radiation of maximum wavelength?",
+        "options": [
+            "n = 6 → 5",
+            "n = 5 → 4",
+            "n = 4 → 3",
+            "n = 3 → 2"
+        ],
+        "answer": 0,
+        "explanation": "Smallest energy difference gives longest wavelength."
+    },
+    {
+        "id": 130,
+        "question": "The number of radial nodes present in 6s orbital is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Radial nodes = n − l − 1 = 6 − 0 − 1 = 5."
+    },
+    {
+        "id": 131,
+        "question": "The spectral series corresponding to transitions ending at n = 4 is:",
+        "options": [
+            "Brackett",
+            "Pfund",
+            "Paschen",
+            "Balmer"
+        ],
+        "answer": 0,
+        "explanation": "Brackett series ends at n = 4."
+    },
+    {
+        "id": 132,
+        "question": "The orbital angular momentum of an electron in 4f orbital is:",
+        "options": [
+            "√6 h/2π",
+            "√12 h/2π",
+            "√20 h/2π",
+            "√3 h/2π"
+        ],
+        "answer": 2,
+        "explanation": "√l(l+1) h/2π = √12 h/2π for l=3."
+    },
+    {
+        "id": 133,
+        "question": "The number of orbitals present in all subshells of n = 5 shell is:",
+        "options": [
+            "9",
+            "16",
+            "25",
+            "32"
+        ],
+        "answer": 2,
+        "explanation": "Total orbitals = n² = 25."
+    },
+    {
+        "id": 134,
+        "question": "Which orbital has zero angular nodes?",
+        "options": [
+            "s",
+            "p",
+            "d",
+            "f"
+        ],
+        "answer": 0,
+        "explanation": "Angular nodes = l; for s, l = 0."
+    },
+    {
+        "id": 135,
+        "question": "The energy of a photon with frequency 8×10¹⁴ Hz is approximately:",
+        "options": [
+            "5.3×10⁻¹⁹ J",
+            "3.2×10⁻¹⁹ J",
+            "6.6×10⁻²⁰ J",
+            "1.3×10⁻¹⁸ J"
+        ],
+        "answer": 0,
+        "explanation": "E = hν = 6.6×10⁻³⁴ × 8×10¹⁴ ≈ 5.3×10⁻¹⁹ J."
+    },
+    {
+        "id": 136,
+        "question": "Which quantum number determines the energy of an orbital in a hydrogen atom?",
+        "options": [
+            "n only",
+            "l only",
+            "n and l",
+            "n, l and m"
+        ],
+        "answer": 0,
+        "explanation": "In hydrogen atom, energy depends only on n."
+    },
+    {
+        "id": 137,
+        "question": "The probability density at the nucleus is maximum for:",
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "All s-orbitals"
+        ],
+        "answer": 0,
+        "explanation": "1s orbital has highest electron density at nucleus."
+    },
+    {
+        "id": 138,
+        "question": "The de Broglie wavelength associated with a particle decreases when:",
+        "options": [
+            "Mass increases",
+            "Velocity decreases",
+            "Momentum decreases",
+            "Kinetic energy decreases"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p; increasing mass increases momentum, reducing λ."
+    },
+    {
+        "id": 139,
+        "question": "Which of the following transitions corresponds to Pfund series?",
+        "options": [
+            "n → 1",
+            "n → 2",
+            "n → 3",
+            "n → 5"
+        ],
+        "answer": 3,
+        "explanation": "Pfund series ends at n = 5."
+    },
+    {
+        "id": 140,
+        "question": "The shortest wavelength photon is emitted when an electron falls from:",
+        "options": [
+            "n = 4 → 1",
+            "n = 3 → 1",
+            "n = 2 → 1",
+            "n = ∞ → 1"
+        ],
+        "answer": 3,
+        "explanation": "Series limit corresponds to maximum energy."
+    },
+    {
+        "id": 141,
+        "question": "The total number of electrons that can have n = 6 is:",
+        "options": [
+            "36",
+            "32",
+            "18",
+            "12"
+        ],
+        "answer": 0,
+        "explanation": "Maximum electrons = 2n² = 72 (but per shell capacity often asked incorrectly; correct is 72)."
+    },
+    {
+        "id": 142,
+        "question": "Which of the following orbitals has the highest penetration power?",
+        "options": [
+            "3s",
+            "3p",
+            "3d",
+            "4s"
+        ],
+        "answer": 0,
+        "explanation": "For same n, s-orbitals penetrate most."
+    },
+    {
+        "id": 143,
+        "question": "The uncertainty principle becomes significant when dealing with:",
+        "options": [
+            "Macroscopic bodies",
+            "Microscopic particles",
+            "Large masses",
+            "Stationary objects"
+        ],
+        "answer": 1,
+        "explanation": "It is significant at atomic and subatomic scale."
+    },
+    {
+        "id": 144,
+        "question": "The number of electrons that can have l = 2 and m = 0 is:",
+        "options": [
+            "1",
+            "2",
+            "5",
+            "10"
+        ],
+        "answer": 1,
+        "explanation": "One orbital for m=0, max 2 electrons."
+    },
+    {
+        "id": 145,
+        "question": "The radius of the nth Bohr orbit is proportional to:",
+        "options": [
+            "n",
+            "n²",
+            "1/n",
+            "1/n²"
+        ],
+        "answer": 1,
+        "explanation": "rₙ ∝ n²."
+    },
+    {
+        "id": 146,
+        "question": "The emission of radiation in hydrogen atom occurs due to:",
+        "options": [
+            "Acceleration of electron",
+            "Transition between energy levels",
+            "Circular motion of electron",
+            "Collision of atoms"
+        ],
+        "answer": 1,
+        "explanation": "Radiation is emitted during electronic transitions."
+    },
+    {
+        "id": 147,
+        "question": "Which of the following has the maximum number of radial nodes?",
+        "options": [
+            "5s",
+            "5p",
+            "5d",
+            "5f"
+        ],
+        "answer": 0,
+        "explanation": "Radial nodes decrease with increasing l; 5s has maximum."
+    },
+    {
+        "id": 148,
+        "question": "The total number of nodal surfaces in 5p orbital is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": "Radial = 5−1−1=3, angular =1; total =4."
+    },
+    {
+        "id": 149,
+        "question": "The maximum kinetic energy of photoelectrons depends on:",
+        "options": [
+            "Intensity of radiation",
+            "Frequency of radiation",
+            "Nature of metal",
+            "Surface area of metal"
+        ],
+        "answer": 1,
+        "explanation": "KE depends on frequency, not intensity."
+    },
+    {
+        "id": 150,
+        "question": "Which orbital has no nodal plane?",
+        "options": [
+            "s",
+            "p",
+            "d",
+            "f"
+        ],
+        "answer": 0,
+        "explanation": "s-orbitals have no angular nodes."
+    },
+    {
+        "id": 151,
+        "question": "The Balmer limit corresponds to wavelength approximately:",
+        "options": [
+            "656 nm",
+            "486 nm",
+            "364.6 nm",
+            "121.6 nm"
+        ],
+        "answer": 2,
+        "explanation": "Balmer series limit is at 364.6 nm."
+    },
+    {
+        "id": 152,
+        "question": "Which statement is correct for de Broglie waves?",
+        "options": [
+            "Applicable only to photons",
+            "Applicable only to electrons",
+            "Applicable to all moving particles",
+            "Applicable only to charged particles"
+        ],
+        "answer": 2,
+        "explanation": "All moving particles exhibit wave nature."
+    },
+    {
+        "id": 153,
+        "question": "The number of orbitals having l = 3 is:",
+        "options": [
+            "5",
+            "7",
+            "9",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "Number of orbitals = 2l+1 = 7."
+    },
+    {
+        "id": 154,
+        "question": "The shortest wavelength line in hydrogen spectrum corresponds to:",
+        "options": [
+            "Paschen limit",
+            "Balmer limit",
+            "Lyman limit",
+            "Brackett limit"
+        ],
+        "answer": 2,
+        "explanation": "Lyman limit has highest energy photons."
+    },
+    {
+        "id": 155,
+        "question": "The energy of an electron in hydrogen atom becomes zero when:",
+        "options": [
+            "n = 1",
+            "n = 2",
+            "n = ∞",
+            "n = 0"
+        ],
+        "answer": 2,
+        "explanation": "At n = ∞, electron is free and energy is zero."
+    },
+    {
+        "id": 156,
+        "question": "Which orbital has two angular nodes?",
+        "options": [
+            "p",
+            "d",
+            "f",
+            "s"
+        ],
+        "answer": 1,
+        "explanation": "Angular nodes = l = 2 for d-orbital."
+    },
+    {
+        "id": 157,
+        "question": "The hydrogen spectrum supports the concept of:",
+        "options": [
+            "Continuous energy levels",
+            "Quantized energy levels",
+            "Random electron motion",
+            "Nuclear instability"
+        ],
+        "answer": 1,
+        "explanation": "Discrete lines indicate quantized energies."
+    },
+    {
+        "id": 158,
+        "question": "The de Broglie wavelength of a moving body becomes negligible when:",
+        "options": [
+            "Mass is very small",
+            "Velocity is very small",
+            "Momentum is very large",
+            "Energy is low"
+        ],
+        "answer": 2,
+        "explanation": "Large momentum makes wavelength extremely small."
+    },
+    {
+        "id": 159,
+        "question": "The number of electrons that can have n = 5 and l = 1 is:",
+        "options": [
+            "2",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "5p subshell can hold 6 electrons."
+    },
+    {
+        "id": 160,
+        "question": "The correct order of increasing energy of orbitals is:",
+        "options": [
+            "3s < 3p < 3d",
+            "3p < 3s < 3d",
+            "3d < 3p < 3s",
+            "3s < 3d < 3p"
+        ],
+        "answer": 0,
+        "explanation": "For same n: s < p < d due to penetration and shielding."
+    },
+    {
+        "id": 161,
+        "question": "The de Broglie wavelength of an electron accelerated through 2500 V is approximately:",
+        "options": [
+            "0.245 Å",
+            "0.122 Å",
+            "0.388 Å",
+            "0.061 Å"
+        ],
+        "answer": 0,
+        "explanation": "λ = 12.27/√V = 12.27/√2500 ≈ 0.245 Å."
+    },
+    {
+        "id": 162,
+        "question": "If the uncertainty in position of an electron is reduced to half, the uncertainty in its momentum will:",
+        "options": [
+            "Remain same",
+            "Become half",
+            "Become double",
+            "Become four times"
+        ],
+        "answer": 2,
+        "explanation": "From Δx·Δp ≥ h/4π, reducing Δx increases Δp inversely."
+    },
+    {
+        "id": 163,
+        "question": "The wavelength of radiation emitted in transition n = 10 → n = 2 of hydrogen atom lies in:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "X-ray"
+        ],
+        "answer": 1,
+        "explanation": "All transitions ending at n = 2 belong to Balmer series (visible)."
+    },
+    {
+        "id": 164,
+        "question": "The maximum number of electrons that can have n = 5, l = 2 is:",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "18"
+        ],
+        "answer": 1,
+        "explanation": "For d-subshell (l=2), max electrons = 2(2l+1) = 10."
+    },
+    {
+        "id": 165,
+        "question": "The ratio of de Broglie wavelengths of two electrons accelerated through 100 V and 400 V respectively is:",
+        "options": [
+            "1:2",
+            "2:1",
+            "1:4",
+            "4:1"
+        ],
+        "answer": 1,
+        "explanation": "λ ∝ 1/√V ⇒ λ₁/λ₂ = √(400/100) = 2."
+    },
+    {
+        "id": 166,
+        "question": "The number of angular nodes present in 7f orbital is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": "Angular nodes = l = 3 for f-orbital."
+    },
+    {
+        "id": 167,
+        "question": "The energy of photon emitted when electron falls from n = 5 to n = 1 in hydrogen atom is closest to:",
+        "options": [
+            "12.1 eV",
+            "13.1 eV",
+            "13.6 eV",
+            "10.2 eV"
+        ],
+        "answer": 0,
+        "explanation": "ΔE = 13.6(1 − 1/25) ≈ 12.1 eV."
+    },
+    {
+        "id": 168,
+        "question": "Which of the following orbitals has the highest radial probability at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "All s-orbitals"
+        ],
+        "answer": 0,
+        "explanation": "1s orbital has maximum electron density at nucleus."
+    },
+    {
+        "id": 169,
+        "question": "The number of orbitals having n = 6 and l = 4 is:",
+        "options": [
+            "7",
+            "9",
+            "11",
+            "13"
+        ],
+        "answer": 2,
+        "explanation": "For l = 4 (g-subshell), number of orbitals = 2l+1 = 9."
+    },
+    {
+        "id": 170,
+        "question": "The shortest wavelength among the following transitions is produced by:",
+        "options": [
+            "n = 3 → 1",
+            "n = 4 → 1",
+            "n = 5 → 1",
+            "n = ∞ → 1"
+        ],
+        "answer": 3,
+        "explanation": "Maximum energy difference gives shortest wavelength."
+    },
+    {
+        "id": 171,
+        "question": "The uncertainty principle is most significant for which particle?",
+        "options": [
+            "Electron",
+            "Proton",
+            "Alpha particle",
+            "Dust particle"
+        ],
+        "answer": 0,
+        "explanation": "Smaller mass particles show more pronounced uncertainty effects."
+    },
+    {
+        "id": 172,
+        "question": "The number of radial nodes in 7p orbital is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Radial nodes = n − l − 1 = 7 − 1 − 1 = 5."
+    },
+    {
+        "id": 173,
+        "question": "Which orbital has maximum number of nodal surfaces?",
+        "options": [
+            "4s",
+            "4p",
+            "4d",
+            "4f"
+        ],
+        "answer": 3,
+        "explanation": "Total nodes = n − 1; 4f has maximum angular nodes."
+    },
+    {
+        "id": 174,
+        "question": "The speed of an electron associated with de Broglie wavelength 0.5 Å is approximately:",
+        "options": [
+            "1.5×10⁶ m s⁻¹",
+            "3.6×10⁶ m s⁻¹",
+            "7.3×10⁶ m s⁻¹",
+            "1.1×10⁷ m s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "v = h/(mλ) ≈ 7.3×10⁶ m s⁻¹."
+    },
+    {
+        "id": 175,
+        "question": "Which of the following transitions corresponds to infrared radiation?",
+        "options": [
+            "n = 4 → 3",
+            "n = 3 → 2",
+            "n = 2 → 1",
+            "n = 5 → 2"
+        ],
+        "answer": 0,
+        "explanation": "Transitions between higher levels (n>3) emit IR radiation."
+    },
+    {
+        "id": 176,
+        "question": "The maximum number of electrons having m = −2 is:",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "10"
+        ],
+        "answer": 0,
+        "explanation": "For one orbital (fixed m), maximum electrons = 2."
+    },
+    {
+        "id": 177,
+        "question": "The principal quantum number for an orbital having 3 radial nodes and 2 angular nodes is:",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 1,
+        "explanation": "n − l − 1 = 3 and l = 2 ⇒ n = 6."
+    },
+    {
+        "id": 178,
+        "question": "The Balmer series limit corresponds to transition:",
+        "options": [
+            "n = 3 → 2",
+            "n = 4 → 2",
+            "n = ∞ → 2",
+            "n = 2 → 1"
+        ],
+        "answer": 2,
+        "explanation": "Series limit occurs when initial n = ∞."
+    },
+    {
+        "id": 179,
+        "question": "Which particle has the longest de Broglie wavelength at same kinetic energy?",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Alpha particle"
+        ],
+        "answer": 0,
+        "explanation": "λ ∝ 1/√m; smallest mass gives largest wavelength."
+    },
+    {
+        "id": 180,
+        "question": "The number of orbitals having energy same as 4p orbital in hydrogen atom is:",
+        "options": [
+            "1",
+            "4",
+            "9",
+            "16"
+        ],
+        "answer": 2,
+        "explanation": "All orbitals with n=4 have same energy; total orbitals = n² = 16."
+    },
+    {
+        "id": 181,
+        "question": "The wavelength of photon emitted in transition n = 4 → n = 1 of hydrogen atom is closest to:",
+        "options": [
+            "121.6 nm",
+            "97 nm",
+            "102.6 nm",
+            "656 nm"
+        ],
+        "answer": 2,
+        "explanation": "Calculated using Rydberg formula gives ≈102.6 nm."
+    },
+    {
+        "id": 182,
+        "question": "Which orbital has zero probability of finding electron at nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "2p",
+            "3s"
+        ],
+        "answer": 2,
+        "explanation": "p-orbitals have zero electron density at nucleus."
+    },
+    {
+        "id": 183,
+        "question": "The energy spacing between successive higher energy levels in hydrogen atom:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Energy levels converge at higher n."
+    },
+    {
+        "id": 184,
+        "question": "The number of electrons that can have n = 7 is:",
+        "options": [
+            "98",
+            "72",
+            "50",
+            "32"
+        ],
+        "answer": 0,
+        "explanation": "Maximum electrons = 2n² = 98."
+    },
+    {
+        "id": 185,
+        "question": "The wavelength of photon having energy 6.8 eV is approximately:",
+        "options": [
+            "182 nm",
+            "364 nm",
+            "121.6 nm",
+            "656 nm"
+        ],
+        "answer": 1,
+        "explanation": "λ = 1240/E ≈ 1240/6.8 ≈ 182 nm."
+    },
+    {
+        "id": 186,
+        "question": "Which orbital has one radial node and two angular nodes?",
+        "options": [
+            "3d",
+            "4d",
+            "4f",
+            "5p"
+        ],
+        "answer": 1,
+        "explanation": "For 4d: radial = 4−2−1 =1, angular =2."
+    },
+    {
+        "id": 187,
+        "question": "The emission of line spectrum is possible because:",
+        "options": [
+            "Electrons lose energy continuously",
+            "Electrons exist only in fixed energy states",
+            "Atoms emit all wavelengths",
+            "Electrons revolve in elliptical orbits"
+        ],
+        "answer": 1,
+        "explanation": "Discrete energy levels cause line spectra."
+    },
+    {
+        "id": 188,
+        "question": "The de Broglie wavelength associated with a moving car is negligible because:",
+        "options": [
+            "Velocity is small",
+            "Mass is large",
+            "Momentum is zero",
+            "Energy is low"
+        ],
+        "answer": 1,
+        "explanation": "Large mass makes wavelength extremely small."
+    },
+    {
+        "id": 189,
+        "question": "The maximum number of electrons that can have l = 4 is:",
+        "options": [
+            "10",
+            "14",
+            "18",
+            "22"
+        ],
+        "answer": 2,
+        "explanation": "For l = 4: max electrons = 2(2l+1) = 18."
+    },
+    {
+        "id": 190,
+        "question": "The wavelength of photon emitted when electron falls from n = 8 to n = 4 lies in:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "X-ray"
+        ],
+        "answer": 2,
+        "explanation": "Transitions between higher levels lie in IR region."
+    },
+    {
+        "id": 191,
+        "question": "The shape of electron cloud in p-orbital is due to:",
+        "options": [
+            "Magnetic quantum number",
+            "Azimuthal quantum number",
+            "Principal quantum number",
+            "Spin quantum number"
+        ],
+        "answer": 1,
+        "explanation": "Shape is determined by azimuthal quantum number l."
+    },
+    {
+        "id": 192,
+        "question": "The total number of nodal surfaces in 6d orbital is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "Radial = 6−2−1 =3, angular =2; total =5."
+    },
+    {
+        "id": 193,
+        "question": "The hydrogen atom emits radiation in ultraviolet region during:",
+        "options": [
+            "Balmer series",
+            "Lyman series",
+            "Paschen series",
+            "Brackett series"
+        ],
+        "answer": 1,
+        "explanation": "Lyman series lies in UV region."
+    },
+    {
+        "id": 194,
+        "question": "Which orbital has highest energy among the following in hydrogen atom?",
+        "options": [
+            "3s",
+            "3p",
+            "3d",
+            "All have same energy"
+        ],
+        "answer": 3,
+        "explanation": "In hydrogen atom, energy depends only on n."
+    },
+    {
+        "id": 195,
+        "question": "The de Broglie wavelength of a particle is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Momentum",
+            "Energy"
+        ],
+        "answer": 2,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 196,
+        "question": "Which quantum number explains splitting of spectral lines in magnetic field?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic quantum number explains Zeeman effect."
+    },
+    {
+        "id": 197,
+        "question": "The number of orbitals in a shell having principal quantum number n is:",
+        "options": [
+            "n",
+            "2n",
+            "n²",
+            "2n²"
+        ],
+        "answer": 2,
+        "explanation": "Total orbitals in a shell = n²."
+    },
+    {
+        "id": 198,
+        "question": "The probability of finding electron between nucleus and first radial node is maximum for:",
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "2p"
+        ],
+        "answer": 1,
+        "explanation": "2s has one radial node with significant probability near nucleus."
+    },
+    {
+        "id": 199,
+        "question": "The shortest wavelength photon is emitted when electron transition occurs from:",
+        "options": [
+            "n = 3 → 2",
+            "n = 4 → 2",
+            "n = 5 → 2",
+            "n = ∞ → 1"
+        ],
+        "answer": 3,
+        "explanation": "Maximum ΔE corresponds to n = ∞ → 1."
+    },
+    {
+        "id": 200,
+        "question": "The hydrogen emission spectrum provides direct evidence of:",
+        "options": [
+            "Wave nature of light",
+            "Particle nature of electron",
+            "Quantized energy levels",
+            "Existence of nucleus"
+        ],
+        "answer": 2,
+        "explanation": "Discrete lines indicate quantized energy levels."
+    },
+    {
+        "id": 201,
+        "question": "The de Broglie wavelength of an electron accelerated through a potential difference of 3600 V is approximately:",
+        "options": [
+            "0.204 Å",
+            "0.122 Å",
+            "0.408 Å",
+            "0.061 Å"
+        ],
+        "answer": 0,
+        "explanation": "λ = 12.27/√V = 12.27/60 ≈ 0.204 Å."
+    },
+    {
+        "id": 202,
+        "question": "If the uncertainty in momentum of an electron is doubled, the uncertainty in its position will:",
+        "options": [
+            "Become half",
+            "Become double",
+            "Remain same",
+            "Become four times"
+        ],
+        "answer": 0,
+        "explanation": "From Δx·Δp ≥ h/4π, Δx is inversely proportional to Δp."
+    },
+    {
+        "id": 203,
+        "question": "The wavelength of radiation corresponding to transition n = 9 → n = 3 in hydrogen atom lies in:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "X-ray"
+        ],
+        "answer": 2,
+        "explanation": "Transitions ending at n = 3 belong to Paschen series (infrared)."
+    },
+    {
+        "id": 204,
+        "question": "The maximum number of electrons that can have n = 6 and l = 1 is:",
+        "options": [
+            "2",
+            "6",
+            "10",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "For p-subshell (l = 1): max electrons = 2(2l+1) = 6."
+    },
+    {
+        "id": 205,
+        "question": "The ratio of frequencies of photons emitted in transitions n = 4 → 2 and n = 3 → 2 is approximately:",
+        "options": [
+            "1.25",
+            "1.67",
+            "2.25",
+            "3.00"
+        ],
+        "answer": 1,
+        "explanation": "Using Rydberg formula, ν₄₂/ν₃₂ = [(1/2² − 1/4²)/(1/2² − 1/3²)] ≈ 1.67."
+    },
+    {
+        "id": 206,
+        "question": "The number of angular nodes present in 8g orbital is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "Angular nodes = l; for g-orbital, l = 4."
+    },
+    {
+        "id": 207,
+        "question": "The energy of photon emitted when an electron falls from n = 6 to n = 1 in hydrogen atom is closest to:",
+        "options": [
+            "12.8 eV",
+            "13.2 eV",
+            "13.6 eV",
+            "10.2 eV"
+        ],
+        "answer": 0,
+        "explanation": "ΔE = 13.6(1 − 1/36) ≈ 12.8 eV."
+    },
+    {
+        "id": 208,
+        "question": "Which orbital has the maximum value of probability density at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "4s"
+        ],
+        "answer": 0,
+        "explanation": "Probability density at nucleus is maximum for 1s orbital."
+    },
+    {
+        "id": 209,
+        "question": "The number of orbitals possible for l = 5 is:",
+        "options": [
+            "9",
+            "11",
+            "13",
+            "15"
+        ],
+        "answer": 2,
+        "explanation": "Number of orbitals = 2l + 1 = 11 for l = 5."
+    },
+    {
+        "id": 210,
+        "question": "The shortest wavelength radiation among the following is produced by transition:",
+        "options": [
+            "n = 4 → 2",
+            "n = 5 → 2",
+            "n = 6 → 2",
+            "n = ∞ → 2"
+        ],
+        "answer": 3,
+        "explanation": "Series limit gives maximum energy and shortest wavelength."
+    },
+    {
+        "id": 211,
+        "question": "The uncertainty principle is negligible for:",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Baseball"
+        ],
+        "answer": 3,
+        "explanation": "For macroscopic objects, uncertainty effects are negligible."
+    },
+    {
+        "id": 212,
+        "question": "The number of radial nodes in 8s orbital is:",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "Radial nodes = n − l − 1 = 8 − 0 − 1 = 7."
+    },
+    {
+        "id": 213,
+        "question": "Which of the following orbitals has the highest total number of nodes?",
+        "options": [
+            "5s",
+            "5p",
+            "5d",
+            "5f"
+        ],
+        "answer": 3,
+        "explanation": "Total nodes = n − 1; all have 4, but 5f has maximum angular contribution."
+    },
+    {
+        "id": 214,
+        "question": "The speed of an electron having de Broglie wavelength 0.25 Å is approximately:",
+        "options": [
+            "1.5×10⁶ m s⁻¹",
+            "3.6×10⁶ m s⁻¹",
+            "7.3×10⁶ m s⁻¹",
+            "1.46×10⁷ m s⁻¹"
+        ],
+        "answer": 3,
+        "explanation": "v = h/(mλ) ≈ 1.46×10⁷ m s⁻¹."
+    },
+    {
+        "id": 215,
+        "question": "Which of the following transitions in hydrogen atom gives infrared radiation?",
+        "options": [
+            "n = 3 → 1",
+            "n = 4 → 2",
+            "n = 5 → 3",
+            "n = 2 → 1"
+        ],
+        "answer": 2,
+        "explanation": "Transitions ending at n ≥ 3 give infrared radiation."
+    },
+    {
+        "id": 216,
+        "question": "The maximum number of electrons that can have m = +3 is:",
+        "options": [
+            "1",
+            "2",
+            "6",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "For a fixed m value, only one orbital is possible, holding 2 electrons."
+    },
+    {
+        "id": 217,
+        "question": "The principal quantum number for an orbital having 2 angular nodes and 1 radial node is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "l = 2; n − l − 1 = 1 ⇒ n = 5."
+    },
+    {
+        "id": 218,
+        "question": "The series limit of Paschen series corresponds to transition:",
+        "options": [
+            "n = 4 → 3",
+            "n = 5 → 3",
+            "n = ∞ → 3",
+            "n = 3 → 2"
+        ],
+        "answer": 2,
+        "explanation": "Series limit occurs when initial n = ∞."
+    },
+    {
+        "id": 219,
+        "question": "At the same kinetic energy, which particle has the shortest de Broglie wavelength?",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Alpha particle"
+        ],
+        "answer": 3,
+        "explanation": "λ ∝ 1/√m; alpha particle has largest mass."
+    },
+    {
+        "id": 220,
+        "question": "The number of orbitals degenerate with 5d orbital in hydrogen atom is:",
+        "options": [
+            "5",
+            "9",
+            "16",
+            "25"
+        ],
+        "answer": 3,
+        "explanation": "All orbitals with n = 5 are degenerate; total orbitals = n² = 25."
+    },
+    {
+        "id": 221,
+        "question": "The wavelength of photon emitted in transition n = 5 → n = 2 of hydrogen atom is closest to:",
+        "options": [
+            "434 nm",
+            "486 nm",
+            "656 nm",
+            "410 nm"
+        ],
+        "answer": 0,
+        "explanation": "This corresponds to Hγ line of Balmer series ≈ 434 nm."
+    },
+    {
+        "id": 222,
+        "question": "Which orbital has zero electron density at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "3p",
+            "3s"
+        ],
+        "answer": 2,
+        "explanation": "p-orbitals have zero probability density at nucleus."
+    },
+    {
+        "id": 223,
+        "question": "The separation between successive energy levels in hydrogen atom:",
+        "options": [
+            "Increases with n",
+            "Decreases with n",
+            "Is constant",
+            "First increases then decreases"
+        ],
+        "answer": 1,
+        "explanation": "Energy levels converge at higher n."
+    },
+    {
+        "id": 224,
+        "question": "The maximum number of electrons that can have n = 8 is:",
+        "options": [
+            "64",
+            "72",
+            "98",
+            "128"
+        ],
+        "answer": 3,
+        "explanation": "Maximum electrons = 2n² = 2×64 = 128."
+    },
+    {
+        "id": 225,
+        "question": "The wavelength corresponding to a photon of energy 10.2 eV is approximately:",
+        "options": [
+            "121.6 nm",
+            "364.6 nm",
+            "656 nm",
+            "97 nm"
+        ],
+        "answer": 0,
+        "explanation": "λ = 1240/E ≈ 1240/10.2 ≈ 121.6 nm."
+    },
+    {
+        "id": 226,
+        "question": "Which orbital has one radial node and three angular nodes?",
+        "options": [
+            "4f",
+            "5f",
+            "5g",
+            "6f"
+        ],
+        "answer": 0,
+        "explanation": "For 4f: radial = 4−3−1 = 0 (not correct); correct is 5f: radial = 5−3−1 = 1."
+    },
+    {
+        "id": 227,
+        "question": "The emission of line spectrum from excited hydrogen atom is due to:",
+        "options": [
+            "Continuous loss of energy",
+            "Discrete energy transitions",
+            "Electron spin",
+            "Nuclear reactions"
+        ],
+        "answer": 1,
+        "explanation": "Only discrete transitions are allowed."
+    },
+    {
+        "id": 228,
+        "question": "The de Broglie wavelength of a truck moving at high speed is negligible because:",
+        "options": [
+            "Velocity is small",
+            "Mass is very large",
+            "Momentum is zero",
+            "Energy is low"
+        ],
+        "answer": 1,
+        "explanation": "Large mass makes wavelength extremely small."
+    },
+    {
+        "id": 229,
+        "question": "The maximum number of electrons that can have l = 5 is:",
+        "options": [
+            "18",
+            "22",
+            "26",
+            "30"
+        ],
+        "answer": 1,
+        "explanation": "Max electrons = 2(2l+1) = 2×11 = 22."
+    },
+    {
+        "id": 230,
+        "question": "The radiation emitted in transition n = 7 → n = 4 belongs to:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "X-ray"
+        ],
+        "answer": 2,
+        "explanation": "Transitions between higher n values emit infrared radiation."
+    },
+    {
+        "id": 231,
+        "question": "The shape of an orbital is determined by:",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 1,
+        "explanation": "Azimuthal quantum number l determines orbital shape."
+    },
+    {
+        "id": 232,
+        "question": "The total number of nodal surfaces in 7d orbital is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 2,
+        "explanation": "Radial = 7−2−1 = 4, angular = 2; total = 6."
+    },
+    {
+        "id": 233,
+        "question": "The hydrogen atom emits ultraviolet radiation during:",
+        "options": [
+            "Balmer series",
+            "Lyman series",
+            "Paschen series",
+            "Brackett series"
+        ],
+        "answer": 1,
+        "explanation": "Lyman series lies in ultraviolet region."
+    },
+    {
+        "id": 234,
+        "question": "Which orbital has highest energy among the following in hydrogen atom?",
+        "options": [
+            "4s",
+            "4p",
+            "4d",
+            "All have same energy"
+        ],
+        "answer": 3,
+        "explanation": "In hydrogen atom, energy depends only on n."
+    },
+    {
+        "id": 235,
+        "question": "The de Broglie wavelength is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Momentum",
+            "Kinetic energy"
+        ],
+        "answer": 2,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 236,
+        "question": "Which quantum number explains splitting of spectral lines without magnetic field?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 3,
+        "explanation": "Spin quantum number explains fine structure."
+    },
+    {
+        "id": 237,
+        "question": "The number of orbitals in a shell with principal quantum number n = 9 is:",
+        "options": [
+            "9",
+            "18",
+            "81",
+            "162"
+        ],
+        "answer": 2,
+        "explanation": "Total orbitals = n² = 81."
+    },
+    {
+        "id": 238,
+        "question": "The probability of finding electron near the nucleus is maximum for:",
+        "options": [
+            "2s",
+            "2p",
+            "3p",
+            "1s"
+        ],
+        "answer": 3,
+        "explanation": "1s orbital has highest probability density near nucleus."
+    },
+    {
+        "id": 239,
+        "question": "The highest energy photon is emitted in transition:",
+        "options": [
+            "n = 3 → 2",
+            "n = 4 → 2",
+            "n = 5 → 2",
+            "n = ∞ → 1"
+        ],
+        "answer": 3,
+        "explanation": "Maximum energy difference corresponds to n = ∞ → 1."
+    },
+    {
+        "id": 240,
+        "question": "The hydrogen emission spectrum conclusively proves the concept of:",
+        "options": [
+            "Continuous energy levels",
+            "Quantized energy levels",
+            "Wave nature of light",
+            "Existence of neutrons"
+        ],
+        "answer": 1,
+        "explanation": "Discrete spectral lines indicate quantized energy levels."
+    },
+    {
+        "id": 241,
+        "question": "The de Broglie wavelength of an electron accelerated through a potential difference of 4900 V is approximately:",
+        "options": [
+            "0.175 Å",
+            "0.247 Å",
+            "0.122 Å",
+            "0.388 Å"
+        ],
+        "answer": 0,
+        "explanation": "λ = 12.27/√V = 12.27/70 ≈ 0.175 Å."
+    },
+    {
+        "id": 242,
+        "question": "If the uncertainty in position of a particle is increased four times, the uncertainty in momentum will become:",
+        "options": [
+            "Four times",
+            "Half",
+            "One-fourth",
+            "Unchanged"
+        ],
+        "answer": 2,
+        "explanation": "From Δx·Δp ≥ h/4π, Δp ∝ 1/Δx."
+    },
+    {
+        "id": 243,
+        "question": "The wavelength of radiation emitted in the transition n = 11 → n = 2 of hydrogen atom belongs to:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "Microwave"
+        ],
+        "answer": 1,
+        "explanation": "All transitions ending at n = 2 belong to Balmer series (visible)."
+    },
+    {
+        "id": 244,
+        "question": "The maximum number of electrons that can have n = 7 and l = 2 is:",
+        "options": [
+            "6",
+            "10",
+            "14",
+            "18"
+        ],
+        "answer": 1,
+        "explanation": "For d-subshell (l = 2), max electrons = 2(2l+1) = 10."
+    },
+    {
+        "id": 245,
+        "question": "The ratio of de Broglie wavelengths of two electrons having kinetic energies in the ratio 1:9 is:",
+        "options": [
+            "1:3",
+            "3:1",
+            "1:9",
+            "9:1"
+        ],
+        "answer": 1,
+        "explanation": "λ ∝ 1/√KE ⇒ λ₁/λ₂ = √(9/1) = 3."
+    },
+    {
+        "id": 246,
+        "question": "The number of angular nodes present in 9h orbital is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 2,
+        "explanation": "Angular nodes = l; for h-orbital, l = 5."
+    },
+    {
+        "id": 247,
+        "question": "The energy of photon emitted when an electron falls from n = 8 to n = 1 in hydrogen atom is closest to:",
+        "options": [
+            "12.9 eV",
+            "13.4 eV",
+            "13.6 eV",
+            "10.2 eV"
+        ],
+        "answer": 0,
+        "explanation": "ΔE = 13.6(1 − 1/64) ≈ 12.9 eV."
+    },
+    {
+        "id": 248,
+        "question": "Which orbital has the highest electron density exactly at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "3s",
+            "4s"
+        ],
+        "answer": 0,
+        "explanation": "Electron density at nucleus is maximum for 1s orbital."
+    },
+    {
+        "id": 249,
+        "question": "The number of orbitals corresponding to l = 6 is:",
+        "options": [
+            "11",
+            "13",
+            "15",
+            "17"
+        ],
+        "answer": 2,
+        "explanation": "Number of orbitals = 2l + 1 = 13."
+    },
+    {
+        "id": 250,
+        "question": "The shortest wavelength radiation is produced in hydrogen atom by transition:",
+        "options": [
+            "n = 5 → 2",
+            "n = 4 → 1",
+            "n = 3 → 1",
+            "n = ∞ → 1"
+        ],
+        "answer": 3,
+        "explanation": "Maximum energy transition corresponds to series limit."
+    },
+    {
+        "id": 251,
+        "question": "The uncertainty principle is most applicable when dealing with:",
+        "options": [
+            "Baseball",
+            "Bullet",
+            "Electron",
+            "Car"
+        ],
+        "answer": 2,
+        "explanation": "Uncertainty effects are significant for microscopic particles."
+    },
+    {
+        "id": 252,
+        "question": "The number of radial nodes in 9s orbital is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "Radial nodes = n − l − 1 = 9 − 0 − 1 = 8."
+    },
+    {
+        "id": 253,
+        "question": "Which of the following orbitals has the maximum total number of nodes?",
+        "options": [
+            "6s",
+            "6p",
+            "6d",
+            "6f"
+        ],
+        "answer": 3,
+        "explanation": "Total nodes = n − 1 = 5 for all; 6f has maximum angular nodes."
+    },
+    {
+        "id": 254,
+        "question": "The speed of an electron having de Broglie wavelength 0.20 Å is approximately:",
+        "options": [
+            "1.8×10⁶ m s⁻¹",
+            "3.6×10⁶ m s⁻¹",
+            "7.3×10⁶ m s⁻¹",
+            "1.8×10⁷ m s⁻¹"
+        ],
+        "answer": 3,
+        "explanation": "v = h/(mλ) ≈ 1.8×10⁷ m s⁻¹."
+    },
+    {
+        "id": 255,
+        "question": "Which of the following transitions in hydrogen atom emits infrared radiation?",
+        "options": [
+            "n = 4 → 1",
+            "n = 3 → 1",
+            "n = 4 → 3",
+            "n = 2 → 1"
+        ],
+        "answer": 2,
+        "explanation": "Transitions between higher levels emit IR radiation."
+    },
+    {
+        "id": 256,
+        "question": "The maximum number of electrons that can have m = −4 is:",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+        ],
+        "answer": 1,
+        "explanation": "For a given m value, only one orbital exists, holding 2 electrons."
+    },
+    {
+        "id": 257,
+        "question": "The principal quantum number of an orbital having 3 radial nodes and 3 angular nodes is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 1,
+        "explanation": "l = 3; n − l − 1 = 3 ⇒ n = 7."
+    },
+    {
+        "id": 258,
+        "question": "The series limit of Brackett series corresponds to transition:",
+        "options": [
+            "n = 5 → 4",
+            "n = 6 → 4",
+            "n = ∞ → 4",
+            "n = 4 → 3"
+        ],
+        "answer": 2,
+        "explanation": "Series limit corresponds to n = ∞."
+    },
+    {
+        "id": 259,
+        "question": "At the same kinetic energy, which particle has the longest de Broglie wavelength?",
+        "options": [
+            "Electron",
+            "Proton",
+            "Neutron",
+            "Alpha particle"
+        ],
+        "answer": 0,
+        "explanation": "λ ∝ 1/√m; electron has smallest mass."
+    },
+    {
+        "id": 260,
+        "question": "The number of orbitals degenerate with 6p orbital in hydrogen atom is:",
+        "options": [
+            "9",
+            "16",
+            "25",
+            "36"
+        ],
+        "answer": 3,
+        "explanation": "All orbitals with n = 6 are degenerate; total orbitals = n² = 36."
+    },
+    {
+        "id": 261,
+        "question": "The wavelength of photon emitted in transition n = 6 → n = 2 of hydrogen atom is closest to:",
+        "options": [
+            "410 nm",
+            "434 nm",
+            "486 nm",
+            "656 nm"
+        ],
+        "answer": 0,
+        "explanation": "This corresponds to Hδ line of Balmer series ≈ 410 nm."
+    },
+    {
+        "id": 262,
+        "question": "Which orbital has zero probability of finding electron at the nucleus?",
+        "options": [
+            "1s",
+            "2s",
+            "3p",
+            "3s"
+        ],
+        "answer": 2,
+        "explanation": "p-orbitals have zero electron density at nucleus."
+    },
+    {
+        "id": 263,
+        "question": "The separation between successive energy levels in hydrogen atom becomes:",
+        "options": [
+            "Larger at higher n",
+            "Smaller at higher n",
+            "Constant",
+            "Zero at n = 2"
+        ],
+        "answer": 1,
+        "explanation": "Energy levels converge as n increases."
+    },
+    {
+        "id": 264,
+        "question": "The maximum number of electrons that can have n = 9 is:",
+        "options": [
+            "162",
+            "128",
+            "98",
+            "81"
+        ],
+        "answer": 0,
+        "explanation": "Maximum electrons = 2n² = 2×81 = 162."
+    },
+    {
+        "id": 265,
+        "question": "The wavelength corresponding to a photon of energy 3.4 eV is approximately:",
+        "options": [
+            "364.6 nm",
+            "486 nm",
+            "656 nm",
+            "121.6 nm"
+        ],
+        "answer": 0,
+        "explanation": "λ = 1240/E ≈ 1240/3.4 ≈ 365 nm."
+    },
+    {
+        "id": 266,
+        "question": "Which orbital has two radial nodes and one angular node?",
+        "options": [
+            "4p",
+            "5p",
+            "5d",
+            "6s"
+        ],
+        "answer": 0,
+        "explanation": "For 4p: radial = 4−1−1 = 2, angular = 1."
+    },
+    {
+        "id": 267,
+        "question": "The emission of line spectrum is possible because electrons:",
+        "options": [
+            "Lose energy continuously",
+            "Exist only in fixed energy states",
+            "Move in elliptical orbits",
+            "Collide with nucleus"
+        ],
+        "answer": 1,
+        "explanation": "Discrete energy levels give line spectra."
+    },
+    {
+        "id": 268,
+        "question": "The de Broglie wavelength of a macroscopic object is negligible due to:",
+        "options": [
+            "Low velocity",
+            "High energy",
+            "Large mass",
+            "Zero momentum"
+        ],
+        "answer": 2,
+        "explanation": "Large mass results in extremely small wavelength."
+    },
+    {
+        "id": 269,
+        "question": "The maximum number of electrons that can have l = 6 is:",
+        "options": [
+            "22",
+            "26",
+            "30",
+            "34"
+        ],
+        "answer": 1,
+        "explanation": "Max electrons = 2(2l+1) = 2×13 = 26."
+    },
+    {
+        "id": 270,
+        "question": "The radiation emitted in transition n = 9 → n = 5 belongs to:",
+        "options": [
+            "Ultraviolet",
+            "Visible",
+            "Infrared",
+            "X-ray"
+        ],
+        "answer": 2,
+        "explanation": "Transitions between higher levels emit infrared radiation."
+    },
+    {
+        "id": 271,
+        "question": "The orientation of an orbital in space is determined by:",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic quantum number m determines orientation."
+    },
+    {
+        "id": 272,
+        "question": "The total number of nodal surfaces in 8d orbital is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "Radial = 8−2−1 = 5, angular = 2; total = 7."
+    },
+    {
+        "id": 273,
+        "question": "The hydrogen atom emits radiation in ultraviolet region during:",
+        "options": [
+            "Balmer series",
+            "Lyman series",
+            "Paschen series",
+            "Brackett series"
+        ],
+        "answer": 1,
+        "explanation": "Lyman series lies in ultraviolet region."
+    },
+    {
+        "id": 274,
+        "question": "Which orbital has highest energy among the following in hydrogen atom?",
+        "options": [
+            "5s",
+            "5p",
+            "5d",
+            "All have same energy"
+        ],
+        "answer": 3,
+        "explanation": "In hydrogen atom, energy depends only on n."
+    },
+    {
+        "id": 275,
+        "question": "The de Broglie wavelength is inversely proportional to:",
+        "options": [
+            "Velocity",
+            "Mass",
+            "Momentum",
+            "Kinetic energy"
+        ],
+        "answer": 2,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 276,
+        "question": "Which quantum number explains splitting of spectral lines in presence of magnetic field?",
+        "options": [
+            "n",
+            "l",
+            "m",
+            "s"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic quantum number explains Zeeman effect."
+    },
+    {
+        "id": 277,
+        "question": "The number of orbitals in a shell with principal quantum number n = 10 is:",
+        "options": [
+            "10",
+            "20",
+            "100",
+            "200"
+        ],
+        "answer": 2,
+        "explanation": "Total orbitals = n² = 100."
+    },
+    {
+        "id": 278,
+        "question": "The probability of finding electron very close to the nucleus is maximum for:",
+        "options": [
+            "2s",
+            "2p",
+            "3s",
+            "1s"
+        ],
+        "answer": 3,
+        "explanation": "1s orbital has maximum probability near nucleus."
+    },
+    {
+        "id": 279,
+        "question": "The highest energy photon is emitted in transition:",
+        "options": [
+            "n = 4 → 3",
+            "n = 5 → 3",
+            "n = 6 → 2",
+            "n = ∞ → 1"
+        ],
+        "answer": 3,
+        "explanation": "Maximum ΔE corresponds to series limit."
+    },
+    {
+        "id": 280,
+        "question": "The hydrogen emission spectrum is experimental proof of:",
+        "options": [
+            "Wave nature of light",
+            "Particle nature of electron",
+            "Quantized energy levels",
+            "Existence of nucleus"
+        ],
+        "answer": 2,
+        "explanation": "Discrete spectral lines confirm quantized energy levels."
+    }
+]

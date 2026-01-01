@@ -1,0 +1,482 @@
+[
+    {
+        "id": 1,
+        "question": "A body moves with constant acceleration. If its velocity becomes double in time t, the initial velocity was:",
+        "options": [
+            "Zero",
+            "Equal to final velocity",
+            "Half of final velocity",
+            "One-third of final velocity"
+        ],
+        "answer": 2,
+        "explanation": "v = u + at, if v = 2u ⇒ u = v/2."
+    },
+    {
+        "id": 2,
+        "question": "A projectile is thrown with speed u at angle θ. The horizontal range is proportional to:",
+        "options": [
+            "sin2θ",
+            "sinθ",
+            "cosθ",
+            "tanθ"
+        ],
+        "answer": 0,
+        "explanation": "R = u^2 sin2θ/g."
+    },
+    {
+        "id": 3,
+        "question": "If two bodies have same kinetic energy, their momenta are proportional to:",
+        "options": [
+            "√mass",
+            "Mass",
+            "1/mass",
+            "Same"
+        ],
+        "answer": 0,
+        "explanation": "K = p^2/2m ⇒ p ∝ √m."
+    },
+    {
+        "id": 4,
+        "question": "A block is pulled on a rough surface at constant speed. The net force on the block is:",
+        "options": [
+            "Zero",
+            "Equal to friction",
+            "Maximum",
+            "Minimum"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed implies zero acceleration, hence net force is zero."
+    },
+    {
+        "id": 5,
+        "question": "The work done by friction over a closed path is:",
+        "options": [
+            "Negative",
+            "Zero",
+            "Positive",
+            "Maximum"
+        ],
+        "answer": 0,
+        "explanation": "Friction is non-conservative and always opposes motion."
+    },
+    {
+        "id": 6,
+        "question": "The orbital velocity of a satellite near Earth surface is about:",
+        "options": [
+            "7.9 km/s",
+            "11.2 km/s",
+            "5 km/s",
+            "15 km/s"
+        ],
+        "answer": 0,
+        "explanation": "Orbital velocity near Earth ≈ 7.9 km/s."
+    },
+    {
+        "id": 7,
+        "question": "Terminal velocity of a body falling through a viscous fluid is attained when:",
+        "options": [
+            "Net force becomes zero",
+            "Acceleration is maximum",
+            "Velocity is zero",
+            "Mass becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "At terminal velocity, drag force balances weight."
+    },
+    {
+        "id": 8,
+        "question": "The dimensional formula of coefficient of viscosity is:",
+        "options": [
+            "ML^−1T^−1",
+            "ML^−1T^−2",
+            "MT^−1",
+            "M^0LT^−1"
+        ],
+        "answer": 0,
+        "explanation": "η has dimension of force×time/area."
+    },
+    {
+        "id": 9,
+        "question": "In an isothermal process for ideal gas, the internal energy:",
+        "options": [
+            "Remains constant",
+            "Increases",
+            "Decreases",
+            "Becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "Internal energy depends only on temperature."
+    },
+    {
+        "id": 10,
+        "question": "The restoring force in SHM is maximum at:",
+        "options": [
+            "Extreme position",
+            "Mean position",
+            "Half amplitude",
+            "Any position"
+        ],
+        "answer": 0,
+        "explanation": "F = −kx, maximum at x = A."
+    },
+    {
+        "id": 11,
+        "question": "The speed of sound in a gas is independent of:",
+        "options": [
+            "Pressure at constant temperature",
+            "Temperature",
+            "Density",
+            "Humidity"
+        ],
+        "answer": 0,
+        "explanation": "v = √(γRT/M), independent of pressure at constant T."
+    },
+    {
+        "id": 12,
+        "question": "The electric field inside a conductor in electrostatic equilibrium is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Uniform",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Charges rearrange to cancel internal field."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of electric potential energy is:",
+        "options": [
+            "Joule",
+            "Volt",
+            "Coulomb",
+            "Newton"
+        ],
+        "answer": 0,
+        "explanation": "Energy is measured in joule."
+    },
+    {
+        "id": 14,
+        "question": "The capacitance of a parallel plate capacitor increases if:",
+        "options": [
+            "Dielectric is inserted",
+            "Plate separation increases",
+            "Area decreases",
+            "Charge decreases"
+        ],
+        "answer": 0,
+        "explanation": "C = kε0A/d."
+    },
+    {
+        "id": 15,
+        "question": "Drift velocity of electrons in a conductor is of the order of:",
+        "options": [
+            "10^−4 m/s",
+            "10^2 m/s",
+            "10^5 m/s",
+            "10^8 m/s"
+        ],
+        "answer": 0,
+        "explanation": "Drift velocity is very small."
+    },
+    {
+        "id": 16,
+        "question": "Two parallel current carrying conductors attract each other when currents are:",
+        "options": [
+            "In same direction",
+            "In opposite direction",
+            "Zero",
+            "Alternating"
+        ],
+        "answer": 0,
+        "explanation": "Same direction currents attract."
+    },
+    {
+        "id": 17,
+        "question": "Lenz’s law is a consequence of conservation of:",
+        "options": [
+            "Energy",
+            "Charge",
+            "Momentum",
+            "Mass"
+        ],
+        "answer": 0,
+        "explanation": "Opposition to change ensures energy conservation."
+    },
+    {
+        "id": 18,
+        "question": "The average power consumed in an AC circuit is maximum when circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive",
+            "Purely capacitive",
+            "LC circuit"
+        ],
+        "answer": 0,
+        "explanation": "cosφ = 1 for resistive circuit."
+    },
+    {
+        "id": 19,
+        "question": "The image formed by a plane mirror is:",
+        "options": [
+            "Virtual and erect",
+            "Real and inverted",
+            "Real and erect",
+            "Virtual and inverted"
+        ],
+        "answer": 0,
+        "explanation": "Plane mirror always forms virtual erect image."
+    },
+    {
+        "id": 20,
+        "question": "A convex lens has focal length f. Its power is:",
+        "options": [
+            "1/f",
+            "f",
+            "f^2",
+            "1/f^2"
+        ],
+        "answer": 0,
+        "explanation": "Power P = 1/f (in meters)."
+    },
+    {
+        "id": 21,
+        "question": "The fringe width in Young’s double slit experiment is inversely proportional to:",
+        "options": [
+            "Slit separation",
+            "Wavelength",
+            "Screen distance",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 22,
+        "question": "In photoelectric effect, maximum kinetic energy of electrons depends on:",
+        "options": [
+            "Frequency of incident light",
+            "Intensity",
+            "Exposure time",
+            "Area of metal"
+        ],
+        "answer": 0,
+        "explanation": "KE_max = hν − φ."
+    },
+    {
+        "id": 23,
+        "question": "The de Broglie wavelength of a particle decreases when its:",
+        "options": [
+            "Momentum increases",
+            "Velocity decreases",
+            "Energy decreases",
+            "Mass decreases"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 24,
+        "question": "The binding energy per nucleon is highest for:",
+        "options": [
+            "Iron",
+            "Uranium",
+            "Hydrogen",
+            "Helium"
+        ],
+        "answer": 0,
+        "explanation": "Peak binding energy near iron."
+    },
+    {
+        "id": 25,
+        "question": "The SI unit of radioactive activity is:",
+        "options": [
+            "Becquerel",
+            "Gray",
+            "Sievert",
+            "Curie"
+        ],
+        "answer": 0,
+        "explanation": "Activity is measured in becquerel."
+    },
+    {
+        "id": 26,
+        "question": "The conductivity of a semiconductor increases with increase in:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Length"
+        ],
+        "answer": 0,
+        "explanation": "More charge carriers are generated."
+    },
+    {
+        "id": 27,
+        "question": "Majority charge carriers in n-type semiconductor are:",
+        "options": [
+            "Electrons",
+            "Holes",
+            "Protons",
+            "Ions"
+        ],
+        "answer": 0,
+        "explanation": "Donor impurities supply electrons."
+    },
+    {
+        "id": 28,
+        "question": "The logic gate whose output is 0 only when all inputs are 1 is:",
+        "options": [
+            "NAND",
+            "AND",
+            "OR",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "NAND gives false only when all inputs are true."
+    },
+    {
+        "id": 29,
+        "question": "Escape velocity from Earth depends on:",
+        "options": [
+            "Mass and radius of Earth",
+            "Mass of object",
+            "Atmosphere",
+            "Temperature"
+        ],
+        "answer": 0,
+        "explanation": "v_e = √(2GM/R)."
+    },
+    {
+        "id": 30,
+        "question": "The SI unit of electric field intensity is:",
+        "options": [
+            "N/C",
+            "V",
+            "J/C",
+            "C/N"
+        ],
+        "answer": 0,
+        "explanation": "Electric field = force per unit charge."
+    },
+    {
+        "id": 31,
+        "question": "The blue colour of sky is due to:",
+        "options": [
+            "Rayleigh scattering",
+            "Refraction",
+            "Diffraction",
+            "Reflection"
+        ],
+        "answer": 0,
+        "explanation": "Short wavelengths scatter more."
+    },
+    {
+        "id": 32,
+        "question": "The energy of a photon is inversely proportional to its:",
+        "options": [
+            "Wavelength",
+            "Frequency",
+            "Amplitude",
+            "Speed"
+        ],
+        "answer": 0,
+        "explanation": "E = hc/λ."
+    },
+    {
+        "id": 33,
+        "question": "The Fermi level in intrinsic semiconductor lies:",
+        "options": [
+            "At mid-gap",
+            "Near conduction band",
+            "Near valence band",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Equal electron and hole concentration."
+    },
+    {
+        "id": 34,
+        "question": "The SI unit of resistance is:",
+        "options": [
+            "Ohm",
+            "Volt",
+            "Ampere",
+            "Farad"
+        ],
+        "answer": 0,
+        "explanation": "Resistance is measured in ohm."
+    },
+    {
+        "id": 35,
+        "question": "The electric potential energy of a charge q at potential V is:",
+        "options": [
+            "qV",
+            "V/q",
+            "q/V",
+            "V^2"
+        ],
+        "answer": 0,
+        "explanation": "U = qV."
+    },
+    {
+        "id": 36,
+        "question": "The average kinetic energy of gas molecules depends only on:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Mass"
+        ],
+        "answer": 0,
+        "explanation": "KE_avg = (3/2)kT."
+    },
+    {
+        "id": 37,
+        "question": "Moment of inertia of a body depends on:",
+        "options": [
+            "Axis of rotation",
+            "Angular velocity",
+            "Torque",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "Depends on mass distribution about axis."
+    },
+    {
+        "id": 38,
+        "question": "The power factor of a purely inductive AC circuit is:",
+        "options": [
+            "Zero",
+            "One",
+            "0.5",
+            "Depends on frequency"
+        ],
+        "answer": 0,
+        "explanation": "cosφ = 0 for inductive circuit."
+    },
+    {
+        "id": 39,
+        "question": "The SI unit of magnetic moment is:",
+        "options": [
+            "A·m^2",
+            "Tesla",
+            "Weber",
+            "N·m"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic moment = IA."
+    },
+    {
+        "id": 40,
+        "question": "The center of mass of an isolated system remains at rest if:",
+        "options": [
+            "Initial momentum is zero",
+            "Energy is zero",
+            "Force is zero",
+            "Velocity is zero"
+        ],
+        "answer": 0,
+        "explanation": "Momentum conservation."
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves along x-axis with acceleration a = 4 m/s^2. If its initial velocity is 2 m/s, its velocity after 5 s is:",
+        "options": [
+            "12 m/s",
+            "18 m/s",
+            "22 m/s",
+            "24 m/s"
+        ],
+        "answer": 1,
+        "explanation": "v = u + at = 2 + 4×5 = 22 m/s."
+    },
+    {
+        "id": 2,
+        "question": "A stone is dropped from rest from a height of 80 m. The time taken to reach the ground (g = 10 m/s^2) is:",
+        "options": [
+            "2 s",
+            "3 s",
+            "4 s",
+            "5 s"
+        ],
+        "answer": 2,
+        "explanation": "h = (1/2)gt^2 ⇒ 80 = 5t^2 ⇒ t = 4 s."
+    },
+    {
+        "id": 3,
+        "question": "Two blocks of masses 2 kg and 3 kg are connected by a light string and pulled by a force of 10 N on a smooth surface. The acceleration of the system is:",
+        "options": [
+            "1 m/s^2",
+            "2 m/s^2",
+            "3 m/s^2",
+            "5 m/s^2"
+        ],
+        "answer": 1,
+        "explanation": "Total mass = 5 kg, a = F/m = 10/5 = 2 m/s^2."
+    },
+    {
+        "id": 4,
+        "question": "A body of mass 1 kg moves in a circle of radius 1 m with speed 5 m/s. The centripetal force is:",
+        "options": [
+            "5 N",
+            "10 N",
+            "25 N",
+            "50 N"
+        ],
+        "answer": 2,
+        "explanation": "F = mv^2/r = 1×25/1 = 25 N."
+    },
+    {
+        "id": 5,
+        "question": "The work done by gravity in lifting a mass m through height h is:",
+        "options": [
+            "mgh",
+            "−mgh",
+            "Zero",
+            "Depends on path"
+        ],
+        "answer": 1,
+        "explanation": "Work done by gravity is −mgh."
+    },
+    {
+        "id": 6,
+        "question": "A flywheel rotating at constant angular speed has:",
+        "options": [
+            "Angular acceleration zero",
+            "Linear acceleration zero",
+            "Torque zero always",
+            "Momentum zero"
+        ],
+        "answer": 0,
+        "explanation": "Constant angular speed implies zero angular acceleration."
+    },
+    {
+        "id": 7,
+        "question": "If the radius of gyration of a body is k, its moment of inertia about the axis is:",
+        "options": [
+            "Mk^2",
+            "Mk",
+            "M/k^2",
+            "k^2/M"
+        ],
+        "answer": 0,
+        "explanation": "I = Mk^2."
+    },
+    {
+        "id": 8,
+        "question": "The gravitational potential energy of a mass m at distance r from Earth’s center is:",
+        "options": [
+            "−GMm/r",
+            "GMm/r",
+            "−Gm/r",
+            "GM/r^2"
+        ],
+        "answer": 0,
+        "explanation": "U = −GMm/r."
+    },
+    {
+        "id": 9,
+        "question": "The unit of pressure is equivalent to:",
+        "options": [
+            "J/m^3",
+            "N/m",
+            "kg·m/s^2",
+            "J·m"
+        ],
+        "answer": 0,
+        "explanation": "Pressure = N/m^2 = J/m^3."
+    },
+    {
+        "id": 10,
+        "question": "For an ideal gas undergoing isochoric process, the work done is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Volume constant ⇒ W = 0."
+    },
+    {
+        "id": 11,
+        "question": "The rms speed of oxygen molecules is greater than nitrogen at same temperature because:",
+        "options": [
+            "Lower molar mass",
+            "Higher pressure",
+            "Higher density",
+            "Larger size"
+        ],
+        "answer": 0,
+        "explanation": "v_rms ∝ 1/√M."
+    },
+    {
+        "id": 12,
+        "question": "The phase difference between displacement and velocity in SHM is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "2π"
+        ],
+        "answer": 0,
+        "explanation": "Velocity leads displacement by π/2."
+    },
+    {
+        "id": 13,
+        "question": "The speed of sound in a gas depends on:",
+        "options": [
+            "Temperature",
+            "Pressure only",
+            "Density only",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ √T."
+    },
+    {
+        "id": 14,
+        "question": "The electric field at the center of a charged ring is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Infinite",
+            "Depends on charge"
+        ],
+        "answer": 0,
+        "explanation": "Symmetry gives zero net field."
+    },
+    {
+        "id": 15,
+        "question": "The unit of electric potential is:",
+        "options": [
+            "Volt",
+            "Joule",
+            "Coulomb",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Electric potential is measured in volt."
+    },
+    {
+        "id": 16,
+        "question": "If a dielectric is inserted between capacitor plates, the capacitance:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Becomes zero",
+            "Remains same"
+        ],
+        "answer": 0,
+        "explanation": "C increases by factor k."
+    },
+    {
+        "id": 17,
+        "question": "The microscopic form of Ohm’s law is:",
+        "options": [
+            "J = σE",
+            "V = IR",
+            "E = V/d",
+            "I = nqAv"
+        ],
+        "answer": 0,
+        "explanation": "Current density J = σE."
+    },
+    {
+        "id": 18,
+        "question": "A current carrying conductor placed in magnetic field experiences:",
+        "options": [
+            "Magnetic force",
+            "Electric force",
+            "No force",
+            "Gravitational force"
+        ],
+        "answer": 0,
+        "explanation": "F = BIL sinθ."
+    },
+    {
+        "id": 19,
+        "question": "The magnetic field due to Earth at equator is:",
+        "options": [
+            "Horizontal",
+            "Vertical",
+            "Zero",
+            "Maximum"
+        ],
+        "answer": 0,
+        "explanation": "At equator, field is horizontal."
+    },
+    {
+        "id": 20,
+        "question": "The energy stored in an inductor is:",
+        "options": [
+            "(1/2)LI^2",
+            "LI",
+            "I^2/L",
+            "L/I^2"
+        ],
+        "answer": 0,
+        "explanation": "U = (1/2)LI^2."
+    },
+    {
+        "id": 21,
+        "question": "In AC circuit, impedance is minimum at:",
+        "options": [
+            "Resonance",
+            "High frequency",
+            "Low frequency",
+            "Zero frequency"
+        ],
+        "answer": 0,
+        "explanation": "At resonance, Z = R."
+    },
+    {
+        "id": 22,
+        "question": "The unit of power factor is:",
+        "options": [
+            "No unit",
+            "Watt",
+            "Volt",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Power factor = cosφ, dimensionless."
+    },
+    {
+        "id": 23,
+        "question": "A concave mirror produces a virtual image when the object is placed:",
+        "options": [
+            "Between pole and focus",
+            "Beyond center",
+            "At focus",
+            "At infinity"
+        ],
+        "answer": 0,
+        "explanation": "Object within focal length gives virtual image."
+    },
+    {
+        "id": 24,
+        "question": "The magnification produced by a convex lens for a virtual image is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Less than 1"
+        ],
+        "answer": 0,
+        "explanation": "Virtual image is erect ⇒ positive magnification."
+    },
+    {
+        "id": 25,
+        "question": "The fringe width in YDSE is directly proportional to:",
+        "options": [
+            "Wavelength",
+            "Slit separation",
+            "1/screen distance",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "β ∝ λ."
+    },
+    {
+        "id": 26,
+        "question": "The stopping potential in photoelectric effect is independent of:",
+        "options": [
+            "Intensity",
+            "Frequency",
+            "Nature of metal",
+            "Work function"
+        ],
+        "answer": 0,
+        "explanation": "Stopping potential depends on frequency."
+    },
+    {
+        "id": 27,
+        "question": "The de Broglie wavelength of a particle is inversely proportional to:",
+        "options": [
+            "Momentum",
+            "Velocity",
+            "Mass",
+            "Energy"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 28,
+        "question": "The number of protons in a nucleus is called:",
+        "options": [
+            "Atomic number",
+            "Mass number",
+            "Neutron number",
+            "Isotope number"
+        ],
+        "answer": 0,
+        "explanation": "Atomic number = number of protons."
+    },
+    {
+        "id": 29,
+        "question": "The radius of a nucleus varies as:",
+        "options": [
+            "A^(1/3)",
+            "A",
+            "1/A",
+            "A^2"
+        ],
+        "answer": 0,
+        "explanation": "R = R0A^(1/3)."
+    },
+    {
+        "id": 30,
+        "question": "The decay constant of a radioactive substance is related to half-life by:",
+        "options": [
+            "λ = 0.693/T1/2",
+            "λ = T1/2/0.693",
+            "λ = 1/T1/2",
+            "λ = T1/2"
+        ],
+        "answer": 0,
+        "explanation": "T1/2 = 0.693/λ."
+    },
+    {
+        "id": 31,
+        "question": "In intrinsic semiconductor, number of electrons is equal to:",
+        "options": [
+            "Number of holes",
+            "Zero",
+            "Number of atoms",
+            "Dopant atoms"
+        ],
+        "answer": 0,
+        "explanation": "ne = nh in intrinsic semiconductor."
+    },
+    {
+        "id": 32,
+        "question": "The current gain α of a transistor is related to β by:",
+        "options": [
+            "α = β/(1+β)",
+            "α = 1+β",
+            "α = 1/β",
+            "α = β−1"
+        ],
+        "answer": 0,
+        "explanation": "α = β/(1+β)."
+    },
+    {
+        "id": 33,
+        "question": "The dimensional formula of electric field is:",
+        "options": [
+            "MLT−3I−1",
+            "MLT−2",
+            "MT−2I−1",
+            "LT−1"
+        ],
+        "answer": 0,
+        "explanation": "E = F/q ⇒ MLT−3I−1."
+    },
+    {
+        "id": 34,
+        "question": "The escape speed from Earth does not depend on:",
+        "options": [
+            "Mass of body",
+            "Radius of Earth",
+            "Mass of Earth",
+            "g"
+        ],
+        "answer": 0,
+        "explanation": "Escape speed independent of mass of body."
+    },
+    {
+        "id": 35,
+        "question": "The coefficient of linear expansion has unit:",
+        "options": [
+            "K−1",
+            "K",
+            "m",
+            "m/K"
+        ],
+        "answer": 0,
+        "explanation": "Coefficient of expansion is per kelvin."
+    },
+    {
+        "id": 36,
+        "question": "The restoring force in SHM is proportional to:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Acceleration",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "F = −kx."
+    },
+    {
+        "id": 37,
+        "question": "The Doppler effect is applicable for:",
+        "options": [
+            "Sound and light",
+            "Sound only",
+            "Light only",
+            "Mechanical waves only"
+        ],
+        "answer": 0,
+        "explanation": "Doppler effect applies to all waves."
+    },
+    {
+        "id": 38,
+        "question": "The electric potential inside a hollow charged conductor is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Infinite",
+            "Maximum"
+        ],
+        "answer": 0,
+        "explanation": "Potential is constant inside conductor."
+    },
+    {
+        "id": 39,
+        "question": "The direction of magnetic field around a current carrying conductor is given by:",
+        "options": [
+            "Right hand thumb rule",
+            "Fleming’s left hand rule",
+            "Lenz’s law",
+            "Ampere’s law"
+        ],
+        "answer": 0,
+        "explanation": "Right hand thumb rule gives direction."
+    },
+    {
+        "id": 40,
+        "question": "The quality factor of an LCR circuit at resonance depends on:",
+        "options": [
+            "L, C and R",
+            "Only R",
+            "Only L",
+            "Only C"
+        ],
+        "answer": 0,
+        "explanation": "Q = ω0L/R."
+    },
+    {
+        "id": 41,
+        "question": "A real image is always:",
+        "options": [
+            "Inverted",
+            "Erect",
+            "Magnified",
+            "Virtual"
+        ],
+        "answer": 0,
+        "explanation": "Real images are inverted."
+    },
+    {
+        "id": 42,
+        "question": "The refractive index of water with respect to air is:",
+        "options": [
+            "Greater than 1",
+            "Less than 1",
+            "Equal to 1",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Water is optically denser than air."
+    },
+    {
+        "id": 43,
+        "question": "The work function of a metal is expressed in:",
+        "options": [
+            "eV",
+            "Watt",
+            "Newton",
+            "Tesla"
+        ],
+        "answer": 0,
+        "explanation": "Work function is energy, measured in eV."
+    },
+    {
+        "id": 44,
+        "question": "The wavelength associated with a moving car is extremely small because:",
+        "options": [
+            "Mass is large",
+            "Velocity is small",
+            "h is small",
+            "Energy is large"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/mv, large mass gives very small λ."
+    },
+    {
+        "id": 45,
+        "question": "The unit of magnetic flux density is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux density is measured in tesla."
+    },
+    {
+        "id": 46,
+        "question": "The half-life of a radioactive substance is 10 days. The time taken for activity to become one-fourth is:",
+        "options": [
+            "20 days",
+            "10 days",
+            "5 days",
+            "40 days"
+        ],
+        "answer": 0,
+        "explanation": "Two half-lives ⇒ 2×10 = 20 days."
+    },
+    {
+        "id": 47,
+        "question": "The conductivity of metals decreases with increase in:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Length",
+            "Area"
+        ],
+        "answer": 0,
+        "explanation": "Metal conductivity decreases with temperature."
+    },
+    {
+        "id": 48,
+        "question": "The logic gate whose output is always opposite to input is:",
+        "options": [
+            "NOT",
+            "AND",
+            "OR",
+            "XOR"
+        ],
+        "answer": 0,
+        "explanation": "NOT gate inverts input."
+    },
+    {
+        "id": 49,
+        "question": "The SI unit of capacitance is:",
+        "options": [
+            "Farad",
+            "Henry",
+            "Ohm",
+            "Volt"
+        ],
+        "answer": 0,
+        "explanation": "Capacitance is measured in farad."
+    },
+    {
+        "id": 50,
+        "question": "The center of mass of a system remains at rest if:",
+        "options": [
+            "Net external force is zero",
+            "Internal forces are zero",
+            "Energy is conserved",
+            "Momentum is zero"
+        ],
+        "answer": 0,
+        "explanation": "Zero external force ⇒ COM velocity constant."
+    }
+]

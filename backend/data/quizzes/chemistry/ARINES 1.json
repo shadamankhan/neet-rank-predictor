@@ -1,0 +1,1254 @@
+[
+    {
+        "id": 1,
+        "question": "What is the general formula of a haloarene?",
+        "options": [
+            "CₙH₂ₙ₊₂X",
+            "Ar-X",
+            "CₙH₂ₙX",
+            "CₙH₂ₙ₋₂X"
+        ],
+        "answer": 1,
+        "explanation": "Haloarenes (aryl halides) have the halogen directly attached to an aromatic ring (Ar-X)."
+    },
+    {
+        "id": 2,
+        "question": "Which hybridisation does the carbon to which halogen is bonded in haloarenes have?",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "sp3d"
+        ],
+        "answer": 1,
+        "explanation": "The carbon bearing halogen in an aryl halide is sp² hybridised as part of the aromatic ring."
+    },
+    {
+        "id": 3,
+        "question": "Why are haloarenes less reactive towards SN1 and SN2 substitution than haloalkanes?",
+        "options": [
+            "Better leaving group",
+            "Resonance stabilisation of C-X bond",
+            "Lower polarity",
+            "Higher boiling point"
+        ],
+        "answer": 1,
+        "explanation": "Aryl halides resist nucleophilic substitution due to the strong resonance stabilised C-X bond."
+    },
+    {
+        "id": 4,
+        "question": "Which reagent converts diazonium salt to an aryl chloride?",
+        "options": [
+            "NaBH₄",
+            "CuCl (Sandmeyer)",
+            "LiAlH₄",
+            "H₂/Pd"
+        ],
+        "answer": 1,
+        "explanation": "The Sandmeyer reaction with CuCl converts an aryl diazonium salt to aryl chloride."
+    },
+    {
+        "id": 5,
+        "question": "Which reaction introduces fluorine into an aromatic ring from diazonium salt?",
+        "options": [
+            "Sandmeyer",
+            "Finkelstein",
+            "Balz-Schiemann",
+            "Cannizzaro"
+        ],
+        "answer": 2,
+        "explanation": "The Balz-Schiemann reaction thermally decomposes diazonium BF₄⁻ to give aryl fluoride."
+    },
+    {
+        "id": 6,
+        "question": "Halogenation of benzene is an example of:",
+        "options": [
+            "SN2",
+            "Electrophilic aromatic substitution",
+            "Free-radical substitution",
+            "Nucleophilic addition"
+        ],
+        "answer": 1,
+        "explanation": "Aromatic halogenation proceeds via electrophilic aromatic substitution with a Lewis acid catalyst."
+    },
+    {
+        "id": 7,
+        "question": "Which catalyst is commonly used for chlorination of benzene?",
+        "options": [
+            "FeCl₃",
+            "AlCl₃",
+            "Both FeCl₃ and AlCl₃",
+            "NaOH"
+        ],
+        "answer": 2,
+        "explanation": "Lewis acids such as FeCl₃ or AlCl₃ act as catalysts in electrophilic aromatic chlorination."
+    },
+    {
+        "id": 8,
+        "question": "Chlorobenzene reacts with hot aqueous KOH to give:",
+        "options": [
+            "Phenol",
+            "Aniline",
+            "Benzaldehyde",
+            "Benzoic acid"
+        ],
+        "answer": 0,
+        "explanation": "Under harsh conditions, chlorobenzene with hot aq. KOH forms phenol."
+    },
+    {
+        "id": 9,
+        "question": "In electrophilic aromatic substitution, chlorine on the ring directs new substitution to which positions?",
+        "options": [
+            "Ortho, para",
+            "Meta",
+            "Only para",
+            "Only meta"
+        ],
+        "answer": 0,
+        "explanation": "Though deactivating, chlorine directs ortho and para positions due to resonance donation."
+    },
+    {
+        "id": 10,
+        "question": "Which reaction converts benzene diazonium chloride to benzene?",
+        "options": [
+            "Sandmeyer",
+            "Reduction with hypophosphorous acid",
+            "Finkelstein",
+            "Wurtz"
+        ],
+        "answer": 1,
+        "explanation": "Diazonium salts reduce to benzene using H₃PO₂. (common organic chemistry knowledge)"
+    },
+    {
+        "id": 11,
+        "question": "Which reaction involves replacement of a halide by a nitro group on an aromatic ring?",
+        "options": [
+            "Electrophilic nitration",
+            "Nucleophilic aromatic substitution",
+            "Finkelstein",
+            "Wurtz"
+        ],
+        "answer": 1,
+        "explanation": "Nucleophilic aromatic substitution (S_NAr) can replace halogen with -NO₂ under specific conditions."
+    },
+    {
+        "id": 12,
+        "question": "Why does chlorobenzene not undergo simple SN2 substitution?",
+        "options": [
+            "Strong C-Cl bond",
+            "Resonance stabilization",
+            "High activation energy",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Aryl halides resist SN2 due to strong C-X bonding and resonance effects."
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is an aryl halide?",
+        "options": [
+            "C₆H₅Br",
+            "CH₃CH₂Br",
+            "CH₂Br₂",
+            "C₆H₅CH₂Cl"
+        ],
+        "answer": 0,
+        "explanation": "C₆H₅Br is a haloarene with bromine on the benzene ring."
+    },
+    {
+        "id": 14,
+        "question": "The Finkelstein reaction is primarily used to:",
+        "options": [
+            "Convert aryl halides to alcohols",
+            "Exchange halogens in alkyl halides",
+            "Nitrate benzene",
+            "Form Grignard reagents"
+        ],
+        "answer": 1,
+        "explanation": "Finkelstein exchanges halogen atoms in alkyl halides, not aryl halides."
+    },
+    {
+        "id": 15,
+        "question": "Aryl halides typically show which reactivity in electrophilic substitution?",
+        "options": [
+            "Activate benzene ring significantly",
+            "Deactivate ring but direct ortho/para",
+            "Meta directing and deactivating",
+            "No reaction"
+        ],
+        "answer": 1,
+        "explanation": "Halogen substituents deactivate by induction but still direct ortho/para due to resonance."
+    },
+    {
+        "id": 16,
+        "question": "Which of the following will undergo nucleophilic aromatic substitution most easily?",
+        "options": [
+            "Chlorobenzene",
+            "2,4-Dinitrochlorobenzene",
+            "Bromobenzene",
+            "Fluorobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing nitro groups promote nucleophilic aromatic substitution."
+    },
+    {
+        "id": 17,
+        "question": "Which reagent forms aryl iodides from diazonium salts?",
+        "options": [
+            "CuI",
+            "CuCl",
+            "CuBr",
+            "HCl"
+        ],
+        "answer": 0,
+        "explanation": "Sandmeyer with CuI gives aryl iodides from diazonium."
+    },
+    {
+        "id": 18,
+        "question": "In electrophilic aromatic substitution, which orientation does a nitro group direct?",
+        "options": [
+            "ortho/para",
+            "meta",
+            "para only",
+            "none"
+        ],
+        "answer": 1,
+        "explanation": "NO₂ is strongly deactivating and meta-directing. (standard EAS concept)"
+    },
+    {
+        "id": 19,
+        "question": "Which halogenation occurs via electrophilic aromatic substitution without requiring diazonium intermediates?",
+        "options": [
+            "Bromination of benzene",
+            "Finkelstein",
+            "Sandmeyer",
+            "Balz-Schiemann"
+        ],
+        "answer": 0,
+        "explanation": "Direct halogenation of benzene is electrophilic aromatic substitution with FeBr₃/FeCl₃."
+    },
+    {
+        "id": 20,
+        "question": "Which reaction sequence converts aniline to chlorobenzene?",
+        "options": [
+            "Diazotisation, then Sandmeyer with CuCl",
+            "Nitration then reduction",
+            "Finkelstein",
+            "Cannizzaro"
+        ],
+        "answer": 0,
+        "explanation": "Aniline → diazonium → Sandmeyer gives chlorobenzene."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following is a *deactivating group* in electrophilic aromatic substitution?",
+        "options": [
+            "-OH",
+            "-NO₂",
+            "-NH₂",
+            "-OCH₃"
+        ],
+        "answer": 1,
+        "explanation": "Nitro groups deactivate the aromatic ring."
+    },
+    {
+        "id": 22,
+        "question": "The carbon-halogen bond in haloarenes is usually:",
+        "options": [
+            "weaker than in haloalkanes",
+            "stronger than in haloalkanes",
+            "the same strength",
+            "not present"
+        ],
+        "answer": 1,
+        "explanation": "C-X bond in aryl halides has partial double bond character due to resonance."
+    },
+    {
+        "id": 23,
+        "question": "Which mechanism is *not common* for haloarenes under normal conditions?",
+        "options": [
+            "SN1",
+            "SN2",
+            "Electrophilic aromatic substitution",
+            "Sandmeyer"
+        ],
+        "answer": 1,
+        "explanation": "SN2 is not typical for aryl halides due to ring hindrance."
+    },
+    {
+        "id": 24,
+        "question": "Which reaction forms aryl bromides from diazonium salts?",
+        "options": [
+            "Sandmeyer with CuBr",
+            "Balz-Schiemann",
+            "Finkelstein",
+            "Wurtz"
+        ],
+        "answer": 0,
+        "explanation": "CuBr in Sandmeyer replaces diazonium with Br."
+    },
+    {
+        "id": 25,
+        "question": "Which of these does *not* easily undergo benzyne mechanism?",
+        "options": [
+            "Fluorobenzene",
+            "2-Chloronitrobenzene",
+            "Chlorobenzene with strong base",
+            "Bromobenzene with NaNH₂"
+        ],
+        "answer": 0,
+        "explanation": "Benzyne formation requires leaving groups and strong base; unsubstituted fluorobenzene is less reactive. (organic concept)"
+    },
+    {
+        "id": 26,
+        "question": "Which reagent introduces cyanide on aromatic ring via diazonium salt?",
+        "options": [
+            "CuCN",
+            "NaCN only, no catalyst",
+            "HCl",
+            "Zn"
+        ],
+        "answer": 0,
+        "explanation": "CuCN with diazonium salt yields aryl nitrile."
+    },
+    {
+        "id": 27,
+        "question": "Which of the following halogen substituents is *ortho/para directing* on benzene?",
+        "options": [
+            "Cl",
+            "NO₂",
+            "CN",
+            "SO₃H"
+        ],
+        "answer": 0,
+        "explanation": "Halogens are deactivating but ortho/para directing due to resonance effects."
+    },
+    {
+        "id": 28,
+        "question": "Aryl diazonium salts are typically formed from:",
+        "options": [
+            "Anilines with nitrous acid",
+            "Arenes with HNO₃",
+            "Phenols with HCl",
+            "Alkyl halides with NaNO₂"
+        ],
+        "answer": 0,
+        "explanation": "Anilines react with nitrous acid to form diazonium salts. (organic knowledge)"
+    },
+    {
+        "id": 29,
+        "question": "Which of the following is used to create aryl fluorides from diazonium salts?",
+        "options": [
+            "CuF",
+            "BF₄⁻ thermal decomposition",
+            "NaF in water",
+            "H₂F₂"
+        ],
+        "answer": 1,
+        "explanation": "Balz-Schiemann involves thermal decomposition of diazonium tetrafluoroborate."
+    },
+    {
+        "id": 30,
+        "question": "Which aromatic substitution avoids reformation of aromaticity directly?",
+        "options": [
+            "Electrophilic aromatic substitution",
+            "Nucleophilic aromatic substitution",
+            "Radical substitution",
+            "All of the above"
+        ],
+        "answer": 1,
+        "explanation": "Nucleophilic aromatic substitution proceeds via addition-elimination restoring aromaticity."
+    },
+    {
+        "id": 31,
+        "question": "In the Sandmeyer reaction, what role does the copper(I) salt play?",
+        "options": [
+            "Leaving group",
+            "Catalyst for substitution",
+            "Base",
+            "Oxidising agent"
+        ],
+        "answer": 1,
+        "explanation": "Cu(I) salt catalyses substitution of diazonium by halide."
+    },
+    {
+        "id": 32,
+        "question": "Which process would not normally occur with an aryl halide?",
+        "options": [
+            "Free radical addition across double bonds",
+            "Electrophilic substitution",
+            "Substitution via benzyne",
+            "Sandmeyer conversion"
+        ],
+        "answer": 0,
+        "explanation": "Aryl halides don’t undergo simple addition across a double bond."
+    },
+    {
+        "id": 33,
+        "question": "Nucleophilic aromatic substitution is more likely if the ring has strong **electron withdrawing groups** at:",
+        "options": [
+            "ortho/para positions",
+            "meta only",
+            "any position",
+            "no substituents"
+        ],
+        "answer": 0,
+        "explanation": "EWG at ortho/para activate SNAr by stabilising intermediate."
+    },
+    {
+        "id": 34,
+        "question": "The Finkelstein reaction is best for which type of halides?",
+        "options": [
+            "Aryl halides",
+            "Alkyl halides",
+            "Vinyl halides",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "Finkelstein is used for halogen exchange in alkyl halides, not aryl."
+    },
+    {
+        "id": 35,
+        "question": "Which type of aromatic substitution involves formation of arenium ion intermediate?",
+        "options": [
+            "Electrophilic aromatic substitution",
+            "SN2",
+            "SN1",
+            "Free radical substitution"
+        ],
+        "answer": 0,
+        "explanation": "EAS proceeds via arenium (σ-complex) intermediate."
+    },
+    {
+        "id": 36,
+        "question": "Which is true about leaving group ability in nucleophilic aromatic substitution?",
+        "options": [
+            "Iodide always best",
+            "Fluoride often best if EWG present",
+            "Chloride always best",
+            "No leaving group effects"
+        ],
+        "answer": 1,
+        "explanation": "In SNAr mechanisms with EWG, fluoride can be the best leaving group."
+    },
+    {
+        "id": 37,
+        "question": "Which of these processes is used to make aryl halides from benzene directly?",
+        "options": [
+            "Electrophilic aromatic halogenation",
+            "Sandmeyer",
+            "Finkelstein",
+            "Cannizzaro"
+        ],
+        "answer": 0,
+        "explanation": "Direct aromatic halogenation uses electrophilic substitution."
+    },
+    {
+        "id": 38,
+        "question": "In electrophilic aromatic substitution, a deactivating substituent typically:",
+        "options": [
+            "Increases rate",
+            "Decreases rate",
+            "No effect",
+            "Reverses direction"
+        ],
+        "answer": 1,
+        "explanation": "Deactivating groups slow down EAS."
+    },
+    {
+        "id": 39,
+        "question": "Which reagent is commonly used to halogenate benzene?",
+        "options": [
+            "Br₂/FeBr₃",
+            "HCl",
+            "NaOH",
+            "HNO₃"
+        ],
+        "answer": 0,
+        "explanation": "Br₂ with FeBr₃ catalyses bromination of benzene."
+    },
+    {
+        "id": 40,
+        "question": "Which of the following statements about haloarenes is true?",
+        "options": [
+            "They undergo SN2 reactions readily",
+            "They have sp2 carbon attached to halogen",
+            "They are more reactive than haloalkanes in substitution",
+            "They easily eliminate HX"
+        ],
+        "answer": 1,
+        "explanation": "Haloarenes have halogens on sp² carbons and resist simple nucleophilic substitution."
+    },
+    {
+        "id": 41,
+        "question": "Which substituent on a haloarene increases its reactivity toward nucleophilic aromatic substitution?",
+        "options": [
+            "-CH₃",
+            "-NO₂",
+            "-OCH₃",
+            "-NH₂"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing groups like nitro at ortho/para increase nucleophilic aromatic substitution reactivity."
+    },
+    {
+        "id": 42,
+        "question": "In the Sandmeyer reaction, an aryl diazonium salt gives an aryl chloride when treated with:",
+        "options": [
+            "CuCN",
+            "CuCl",
+            "HCl",
+            "NaCl"
+        ],
+        "answer": 1,
+        "explanation": "CuCl with diazonium salt gives aryl chloride in Sandmeyer reaction."
+    },
+    {
+        "id": 43,
+        "question": "The Balz-Schiemann reaction is used to prepare which of the following?",
+        "options": [
+            "Aryl fluorides",
+            "Aryl chlorides",
+            "Aryl bromides",
+            "Aryl iodides"
+        ],
+        "answer": 0,
+        "explanation": "Balz-Schiemann forms aryl fluorides by thermal decomposition of diazonium tetrafluoroborate."
+    },
+    {
+        "id": 44,
+        "question": "Which statement is true for chlorobenzene in electrophilic aromatic substitution?",
+        "options": [
+            "Strongly activating",
+            "Meta-directing",
+            "Deactivating but ortho/para directing",
+            "Does not undergo EAS"
+        ],
+        "answer": 2,
+        "explanation": "Halogen is deactivating by induction but directs ortho/para by resonance."
+    },
+    {
+        "id": 45,
+        "question": "Which reagent converts aniline to chlorobenzene via diazonium salt?",
+        "options": [
+            "NaNO₂ + HCl then CuCl",
+            "NaCl",
+            "Cl₂/FeCl₃",
+            "HCl alone"
+        ],
+        "answer": 0,
+        "explanation": "Diazotisation of aniline followed by Sandmeyer with CuCl gives chlorobenzene."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is a **radical nucleophilic aromatic substitution**?",
+        "options": [
+            "SN2 on benzene",
+            "SN1 on benzene",
+            "Sandmeyer reaction",
+            "Finkelstein reaction"
+        ],
+        "answer": 2,
+        "explanation": "Sandmeyer involves a radical pathway for substitution on aromatic ring."
+    },
+    {
+        "id": 47,
+        "question": "Which mechanism does NOT normally occur for haloarenes under standard conditions?",
+        "options": [
+            "Electrophilic aromatic substitution",
+            "SN1",
+            "Sandmeyer",
+            "Balz-Schiemann"
+        ],
+        "answer": 1,
+        "explanation": "Aryl halides do not undergo SN1 easily due to strong C-X bond and resonance stabilization."
+    },
+    {
+        "id": 48,
+        "question": "Which group is strongly **deactivating** for electrophilic aromatic substitution?",
+        "options": [
+            "-OH",
+            "-NO₂",
+            "-OCH₃",
+            "-CH₃"
+        ],
+        "answer": 1,
+        "explanation": "Nitro is a strong deactivating group in EAS."
+    },
+    {
+        "id": 49,
+        "question": "Which position does a halogen direct in electrophilic aromatic substitution?",
+        "options": [
+            "Ortho/para",
+            "Meta",
+            "Para only",
+            "Meta only"
+        ],
+        "answer": 0,
+        "explanation": "Halogen directs electrophilic substitution to ortho/para."
+    },
+    {
+        "id": 50,
+        "question": "Which compound is most likely to undergo nucleophilic aromatic substitution?",
+        "options": [
+            "Chlorobenzene",
+            "2-Nitrochlorobenzene",
+            "Toluene",
+            "Fluorobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing nitro groups enhance SNAr reactivity."
+    },
+    {
+        "id": 51,
+        "question": "Which halogen has greatest ability to leave in Sandmeyer reaction?",
+        "options": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ],
+        "answer": 3,
+        "explanation": "Among halides, iodide is the best leaving group generally. (common organic principle)"
+    },
+    {
+        "id": 52,
+        "question": "Which intermediate is formed in electrophilic aromatic substitution?",
+        "options": [
+            "Arenium ion",
+            "Carbocation",
+            "Free radical",
+            "Carbanion"
+        ],
+        "answer": 0,
+        "explanation": "EAS involves an arenium (σ-complex) intermediate. (standard org chem)"
+    },
+    {
+        "id": 53,
+        "question": "Which reaction is commonly used to prepare aryl cyanides from diazonium salts?",
+        "options": [
+            "Sandmeyer with CuCN",
+            "Balz-Schiemann",
+            "Finkelstein",
+            "Cannizzaro"
+        ],
+        "answer": 0,
+        "explanation": "CuCN replaces diazonium to give aryl nitriles."
+    },
+    {
+        "id": 54,
+        "question": "Which reagent is NOT typically used for electrophilic aromatic halogenation?",
+        "options": [
+            "FeCl₃",
+            "AlCl₃",
+            "FeBr₃",
+            "NaOH"
+        ],
+        "answer": 3,
+        "explanation": "NaOH is not a Lewis acid catalyst for aromatic halogenation."
+    },
+    {
+        "id": 55,
+        "question": "Halogenation of toluene in excess produces which major dichlorobenzene isomers?",
+        "options": [
+            "Ortho and meta",
+            "Ortho and para",
+            "Meta only",
+            "Para only"
+        ],
+        "answer": 1,
+        "explanation": "Toluene directs halogenation to ortho/para with excess halogen."
+    },
+    {
+        "id": 56,
+        "question": "Which reagent helps diazotize an aromatic amine to prepare diazonium salt?",
+        "options": [
+            "NaNO₂ + HCl",
+            "Br₂/FeBr₃",
+            "H₂/Pd",
+            "NaOH"
+        ],
+        "answer": 0,
+        "explanation": "NaNO₂ + HCl forms diazonium from aromatic amines. (standard org chem)"
+    },
+    {
+        "id": 57,
+        "question": "Which of the following enhances nucleophilic aromatic substitution by stabilizing intermediate?",
+        "options": [
+            "Electron-withdrawing groups at ortho/para",
+            "Electron-donating groups",
+            "Halogen itself",
+            "High temperature only"
+        ],
+        "answer": 0,
+        "explanation": "EWG at ortho/para positions stabilise SNAr intermediates."
+    },
+    {
+        "id": 58,
+        "question": "Why are haloarenes less reactive than haloalkanes in SN1/SN2?",
+        "options": [
+            "C-X bond stronger due to resonance",
+            "Ring stabilises transition",
+            "Carbon is sp hybridized",
+            "They do not form diazonium salts"
+        ],
+        "answer": 0,
+        "explanation": "Resonance increases bond strength, reducing reactivity."
+    },
+    {
+        "id": 59,
+        "question": "Which of the following is a *nucleophilic aromatic substitution* mechanism involving benzyne?",
+        "options": [
+            "Addition-elimination",
+            "Elimination-addition",
+            "Sandmeyer",
+            "Balz-Schiemann"
+        ],
+        "answer": 1,
+        "explanation": "Benzyne mechanism is elimination-addition type SNAr. (org chem concept)"
+    },
+    {
+        "id": 60,
+        "question": "Which functional transformation forms aryl iodide most efficiently from aniline?",
+        "options": [
+            "Diazotisation + CuI",
+            "CuCl",
+            "Br₂/FeBr₃",
+            "Finkelstein"
+        ],
+        "answer": 0,
+        "explanation": "CuI in Sandmeyer gives aryl iodide from diazonium."
+    },
+    {
+        "id": 61,
+        "question": "In electrophilic aromatic substitution, which condition is commonly used for halogenation of benzene?",
+        "options": [
+            "FeCl₃, dark room",
+            "FeCl₃, sunlight",
+            "No catalyst",
+            "Hot base"
+        ],
+        "answer": 0,
+        "explanation": "Halogenation uses Lewis acid catalysts at ambient conditions."
+    },
+    {
+        "id": 62,
+        "question": "Which of the following is an example of meta-directing deactivator?",
+        "options": [
+            "-NO₂",
+            "-Cl",
+            "-OH",
+            "-OCH₃"
+        ],
+        "answer": 0,
+        "explanation": "NO₂ group is a meta-director in EAS."
+    },
+    {
+        "id": 63,
+        "question": "Which reagent is used to make aryl bromides from diazonium salts?",
+        "options": [
+            "CuBr",
+            "CuCl",
+            "CuI",
+            "NaBr"
+        ],
+        "answer": 0,
+        "explanation": "CuBr replaces diazonium with Br in Sandmeyer."
+    },
+    {
+        "id": 64,
+        "question": "Aryl fluorides are generally prepared through which method?",
+        "options": [
+            "Electrophilic fluorination",
+            "Balz-Schiemann",
+            "Finkelstein",
+            "Wurtz"
+        ],
+        "answer": 1,
+        "explanation": "Balz-Schiemann yields aryl fluorides."
+    },
+    {
+        "id": 65,
+        "question": "Which group deactivates benzene most toward electrophilic substitution?",
+        "options": [
+            "-Br",
+            "-Cl",
+            "-NO₂",
+            "-F"
+        ],
+        "answer": 2,
+        "explanation": "NO₂ strongly deactivates EAS."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following is a strong π-donating substituent on benzene?",
+        "options": [
+            "-OH",
+            "-NO₂",
+            "-CN",
+            "-COOH"
+        ],
+        "answer": 0,
+        "explanation": "-OH donates electrons through resonance, activating ring in EAS. (organic knowledge)"
+    },
+    {
+        "id": 67,
+        "question": "Which reagent is used to test for halide ions as precipitates?",
+        "options": [
+            "AgNO₃",
+            "BaCl₂",
+            "Ag₂O",
+            "FeCl₃"
+        ],
+        "answer": 0,
+        "explanation": "AgNO₃ forms AgX precipitates with halides. (qualitative analysis)"
+    },
+    {
+        "id": 68,
+        "question": "Which substituent directs electrophilic substitution to meta position?",
+        "options": [
+            "-NO₂",
+            "-OH",
+            "-Cl",
+            "-CH₃"
+        ],
+        "answer": 0,
+        "explanation": "NO₂ directs substitution to meta."
+    },
+    {
+        "id": 69,
+        "question": "Which mechanism involves an aryl radical intermediate during halide substitution?",
+        "options": [
+            "Sandmeyer",
+            "SN1",
+            "SN2",
+            "E2"
+        ],
+        "answer": 0,
+        "explanation": "Sandmeyer includes aryl radical formation."
+    },
+    {
+        "id": 70,
+        "question": "Which halogenation of benzene requires a Lewis acid catalyst?",
+        "options": [
+            "Chlorination",
+            "Br₂ addition without catalyst",
+            "Free radical iodination",
+            "Fluorination"
+        ],
+        "answer": 0,
+        "explanation": "Chlorination uses FeCl₃/AlCl₃ catalysts in EAS."
+    },
+    {
+        "id": 71,
+        "question": "Which reaction is used to prepare aryl iodides from aromatic amines?",
+        "options": [
+            "Sandmeyer with CuI",
+            "Balz-Schiemann",
+            "Finkelstein",
+            "Claissen rearrangement"
+        ],
+        "answer": 0,
+        "explanation": "CuI in Sandmeyer gives aryl iodides."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following increases the rate of SNAr on an aryl chloride?",
+        "options": [
+            "Strong base",
+            "Electron-withdrawing group ortho/para",
+            "High temperature only",
+            "No substituents"
+        ],
+        "answer": 1,
+        "explanation": "EWG ortho/para enhance SNAr."
+    },
+    {
+        "id": 73,
+        "question": "Which is an example of directing effect in electrophilic aromatic substitution?",
+        "options": [
+            "Ortho/para by -Cl",
+            "Meta by -NO₂",
+            "Both A and B",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Both directing effects are seen in EAS."
+    },
+    {
+        "id": 74,
+        "question": "Which of these will NOT undergo nucleophilic aromatic substitution easily?",
+        "options": [
+            "2,4-Dinitrochlorobenzene",
+            "Chlorobenzene",
+            "2-Nitrochlorobenzene",
+            "4-Nitrochlorobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Simple chlorobenzene resists SNAr without EWG."
+    },
+    {
+        "id": 75,
+        "question": "Which reagent is used for nitration of benzene?",
+        "options": [
+            "HNO₃ + H₂SO₄",
+            "FeCl₃",
+            "NaNO₂",
+            "ZnCl₂"
+        ],
+        "answer": 0,
+        "explanation": "Nitration uses nitric and sulfuric acids. (EAS concept)"
+    },
+    {
+        "id": 76,
+        "question": "Which reagent is used for electrophilic chlorination of benzene?",
+        "options": [
+            "FeCl3",
+            "NaOH",
+            "HNO3",
+            "NaCl"
+        ],
+        "answer": 0,
+        "explanation": "Electrophilic aromatic chlorination uses Cl2 with a Lewis acid catalyst such as FeCl3."
+    },
+    {
+        "id": 77,
+        "question": "In electrophilic aromatic substitution, the formation of which intermediate is key?",
+        "options": [
+            "Carbanion",
+            "Arenium ion",
+            "Free radical",
+            "Carbocation with sp hybridisation"
+        ],
+        "answer": 1,
+        "explanation": "Arenium ion (σ-complex) is the intermediate in electrophilic aromatic substitution."
+    },
+    {
+        "id": 78,
+        "question": "Which reagent converts aromatic amines to diazonium salts?",
+        "options": [
+            "NaNO2 + HCl",
+            "FeCl3",
+            "NaOH",
+            "HNO3"
+        ],
+        "answer": 0,
+        "explanation": "Diazotisation of aromatic amines uses nitrous acid generated from NaNO2 and HCl."
+    },
+    {
+        "id": 79,
+        "question": "Which reaction is used to prepare aryl fluorides?",
+        "options": [
+            "Sandmeyer with CuF",
+            "Balz-Schiemann",
+            "Finkelstein",
+            "Free radical fluorination"
+        ],
+        "answer": 1,
+        "explanation": "Balz-Schiemann involves thermal decomposition of diazonium tetrafluoroborate to give aryl fluorides."
+    },
+    {
+        "id": 80,
+        "question": "Which of the following is the best condition for electrophilic aromatic substitution?",
+        "options": [
+            "UV light",
+            "Room temperature with Lewis acid",
+            "Cold & dark",
+            "Strong base"
+        ],
+        "answer": 1,
+        "explanation": "Electrophilic aromatic substitution requires a Lewis acid catalyst at moderate temperatures."
+    },
+    {
+        "id": 81,
+        "question": "Which group deactivates the benzene ring most strongly in electrophilic substitution?",
+        "options": [
+            "-OH",
+            "-NO2",
+            "-OCH3",
+            "-CH3"
+        ],
+        "answer": 1,
+        "explanation": "The nitro group is strongly deactivating due to electron withdrawal."
+    },
+    {
+        "id": 82,
+        "question": "Which of the following is a directing group for ortho/para positions in electrophilic substitution?",
+        "options": [
+            "-NO2",
+            "-Cl",
+            "-CN",
+            "-COOH"
+        ],
+        "answer": 1,
+        "explanation": "Halogens are deactivating but direct substituents to ortho/para positions by resonance."
+    },
+    {
+        "id": 83,
+        "question": "Which halogenated aromatic compound is most deactivated toward electrophilic substitution?",
+        "options": [
+            "Fluorobenzene",
+            "Chlorobenzene",
+            "Bromobenzene",
+            "Iodobenzene"
+        ],
+        "answer": 0,
+        "explanation": "Fluorobenzene has a strongly electronegative substituent that deactivates the ring more than other haloarenes."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following will undergo nucleophilic aromatic substitution most readily?",
+        "options": [
+            "Chlorobenzene",
+            "2-Nitrochlorobenzene",
+            "Toluene",
+            "Bromobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing nitro groups at ortho/para positions increase nucleophilic substitution rates."
+    },
+    {
+        "id": 85,
+        "question": "Which of the following mechanisms involves benzyne formation?",
+        "options": [
+            "Addition-elimination SNAr",
+            "Elimination-addition SNAr",
+            "SN1",
+            "Sandmeyer"
+        ],
+        "answer": 1,
+        "explanation": "Benzyne mechanism is the elimination-addition type of nucleophilic aromatic substitution."
+    },
+    {
+        "id": 86,
+        "question": "Aryl diazonium salts can undergo replacement of diazonium by which of these to form aryl bromides?",
+        "options": [
+            "CuBr",
+            "CuCl",
+            "CuI",
+            "AgNO3"
+        ],
+        "answer": 0,
+        "explanation": "CuBr in Sandmeyer replaces diazonium with bromide."
+    },
+    {
+        "id": 87,
+        "question": "Which of these transformations uses diazonium salt intermediate?",
+        "options": [
+            "Preparation of phenol",
+            "Free radical halogenation",
+            "Hydrogenation of benzene",
+            "Oxidative cleavage"
+        ],
+        "answer": 0,
+        "explanation": "Diazonium salts can be converted to phenols under suitable conditions."
+    },
+    {
+        "id": 88,
+        "question": "Which electrophile is generated in chlorination of benzene?",
+        "options": [
+            "Cl+",
+            "Cl−",
+            "Cl2",
+            "Cl radical"
+        ],
+        "answer": 0,
+        "explanation": "Electrophilic chlorination generates Cl+ in presence of a Lewis acid."
+    },
+    {
+        "id": 89,
+        "question": "The substitution pattern influenced by -NO2 group is mostly:",
+        "options": [
+            "Ortho/para directing",
+            "Meta directing",
+            "Para only",
+            "Ortho only"
+        ],
+        "answer": 1,
+        "explanation": "Nitro is strongly deactivating and meta directing in electrophilic substitution."
+    },
+    {
+        "id": 90,
+        "question": "Which reagent is used to nitrate benzene?",
+        "options": [
+            "HNO3 + H2SO4",
+            "FeCl3",
+            "Br2/FeBr3",
+            "NaNO2"
+        ],
+        "answer": 0,
+        "explanation": "Nitration uses nitric and sulfuric acids to generate the electrophile."
+    },
+    {
+        "id": 91,
+        "question": "Which of the following is least reactive toward electrophilic aromatic substitution?",
+        "options": [
+            "Benzene",
+            "Chlorobenzene",
+            "Toluene",
+            "Phenol"
+        ],
+        "answer": 1,
+        "explanation": "Chlorobenzene is deactivated relative to benzene due to the halogen’s electron-withdrawing effect."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following will not support a typical SN1 reaction on the aromatic ring?",
+        "options": [
+            "Chlorobenzene",
+            "2-Nitrochlorobenzene",
+            "p-Nitrochlorobenzene",
+            "3-Nitrochlorobenzene"
+        ],
+        "answer": 0,
+        "explanation": "Aryl halides typically do not undergo SN1 due to resonance stabilisation of C-X bond."
+    },
+    {
+        "id": 93,
+        "question": "Which reaction forms aryl cyanides from diazonium salts?",
+        "options": [
+            "Sandmeyer with CuCN",
+            "Balz-Schiemann",
+            "Finkelstein",
+            "Cannizzaro"
+        ],
+        "answer": 0,
+        "explanation": "CuCN replaces diazonium group with -CN."
+    },
+    {
+        "id": 94,
+        "question": "Which of these halogen substituents on benzene is most deactivating for electrophilic substitution?",
+        "options": [
+            "-F",
+            "-Cl",
+            "-Br",
+            "-I"
+        ],
+        "answer": 0,
+        "explanation": "Fluorine’s electronegativity gives strong inductive deactivation."
+    },
+    {
+        "id": 95,
+        "question": "In electrophilic aromatic substitution, which group increases the reactivity of benzene ring?",
+        "options": [
+            "-NO2",
+            "-OH",
+            "-Cl",
+            "-COOH"
+        ],
+        "answer": 1,
+        "explanation": "Hydroxyl group activates ring by resonance donation."
+    },
+    {
+        "id": 96,
+        "question": "Which reagent catalyses bromination of benzene?",
+        "options": [
+            "FeBr3",
+            "NaBr",
+            "HBr",
+            "KBr"
+        ],
+        "answer": 0,
+        "explanation": "FeBr3 acts as a Lewis acid catalyst in bromination of benzene."
+    },
+    {
+        "id": 97,
+        "question": "Which condition does NOT favour electrophilic aromatic substitution?",
+        "options": [
+            "Presence of Lewis acid",
+            "Electron-donating substituents",
+            "High concentrations of base",
+            "Moderate temperature"
+        ],
+        "answer": 2,
+        "explanation": "Strong bases do not promote electrophilic substitution which requires electrophiles."
+    },
+    {
+        "id": 98,
+        "question": "Which type of substitution is observed in nitration of chlorobenzene?",
+        "options": [
+            "Ortho/para",
+            "Meta",
+            "SN1",
+            "SN2"
+        ],
+        "answer": 0,
+        "explanation": "Chlorobenzene still directs nitration ortho/para despite deactivation."
+    },
+    {
+        "id": 99,
+        "question": "Which reagent pair is used for bromination of benzene?",
+        "options": [
+            "Br2/FeBr3",
+            "Cl2/FeCl3",
+            "I2/FeI2",
+            "HBr/Peroxides"
+        ],
+        "answer": 0,
+        "explanation": "Br2 with FeBr3 is the electrophilic bromination condition."
+    },
+    {
+        "id": 100,
+        "question": "Which of the following increases the rate of nucleophilic aromatic substitution?",
+        "options": [
+            "Electron-donating groups",
+            "Electron-withdrawing groups",
+            "Weak base",
+            "No substituents"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing groups enhance SNAr reactivity by stabilizing intermediates."
+    },
+    {
+        "id": 101,
+        "question": "Which statement correctly describes haloarenes?",
+        "options": [
+            "Undergo SN2 readily",
+            "Strongly activated toward EAS",
+            "Less reactive in nucleophilic substitution",
+            "Hydrophilic"
+        ],
+        "answer": 2,
+        "explanation": "Haloarenes resist simple nucleophilic substitution due to resonance stabilization of the C-X bond."
+    },
+    {
+        "id": 102,
+        "question": "In a Sandmeyer reaction, which of these can be used to introduce Cl into the aromatic ring?",
+        "options": [
+            "CuCl",
+            "CuBr",
+            "CuI",
+            "AgNO3"
+        ],
+        "answer": 0,
+        "explanation": "CuCl replaces diazonium to give aryl chloride."
+    },
+    {
+        "id": 103,
+        "question": "Which aromatic substitution is called electrophilic aromatic substitution?",
+        "options": [
+            "Halogenation",
+            "Nitration",
+            "Friedel-Crafts alkylation",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Halogenation, nitration, and Friedel-Crafts are EAS reactions."
+    },
+    {
+        "id": 104,
+        "question": "Which catalyst is used for chlorination in electrophilic aromatic substitution?",
+        "options": [
+            "FeCl3",
+            "NaCl",
+            "HCl",
+            "NaOH"
+        ],
+        "answer": 0,
+        "explanation": "FeCl3 activates Cl2 for chlorination of benzene."
+    },
+    {
+        "id": 105,
+        "question": "Which of the following is a meta-directing group?"
+    }
+]

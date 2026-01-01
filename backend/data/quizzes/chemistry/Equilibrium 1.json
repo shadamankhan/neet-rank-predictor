@@ -1,0 +1,1922 @@
+[
+    {
+        "id": 1,
+        "question": "For the reaction $\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$, the equilibrium constant $K_p$ is related to $K_c$ by:",
+        "options": [
+            "$K_p = K_c(RT)^2$",
+            "$K_p = K_c(RT)^{-2}$",
+            "$K_p = K_c(RT)^{-4}$",
+            "$K_p = K_c(RT)^4$"
+        ],
+        "answer": 1,
+        "explanation": "Δn = 2 − (1+3) = −2, so $K_p = K_c(RT)^{Δn} = K_c(RT)^{-2}$."
+    },
+    {
+        "id": 2,
+        "question": "For a reversible reaction at equilibrium, which of the following is always true?",
+        "options": [
+            "Rate of forward reaction is zero",
+            "Rate of backward reaction is zero",
+            "Rate of forward reaction equals rate of backward reaction",
+            "Concentrations of reactants and products are equal"
+        ],
+        "answer": 2,
+        "explanation": "At equilibrium, forward and backward reaction rates are equal."
+    },
+    {
+        "id": 3,
+        "question": "For the reaction $\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}$, decreasing the volume at constant temperature will:",
+        "options": [
+            "Shift equilibrium to the left",
+            "Shift equilibrium to the right",
+            "Have no effect",
+            "Decrease $K_c$"
+        ],
+        "answer": 1,
+        "explanation": "Decrease in volume favors side with fewer moles of gas (2 on RHS vs 3 on LHS)."
+    },
+    {
+        "id": 4,
+        "question": "If $K_c = 10^{-5}$ for a reaction, the reaction mixture at equilibrium contains:",
+        "options": [
+            "Mostly products",
+            "Mostly reactants",
+            "Equal reactants and products",
+            "Only products"
+        ],
+        "answer": 1,
+        "explanation": "Very small $K_c$ indicates equilibrium lies far to the reactant side."
+    },
+    {
+        "id": 5,
+        "question": "For the reaction $\\mathrm{A \\rightleftharpoons B}$, if $K = 1$, then:",
+        "options": [
+            "Reaction is complete",
+            "Only reactants are present",
+            "ΔG° = 0",
+            "ΔG < 0"
+        ],
+        "answer": 2,
+        "explanation": "$ΔG° = -RT\\ln K$. For $K=1$, $ΔG° = 0$."
+    },
+    {
+        "id": 6,
+        "question": "The equilibrium constant for a reaction depends on:",
+        "options": [
+            "Initial concentrations",
+            "Catalyst",
+            "Temperature",
+            "Pressure"
+        ],
+        "answer": 2,
+        "explanation": "Equilibrium constant depends only on temperature."
+    },
+    {
+        "id": 7,
+        "question": "Which of the following will not change the equilibrium position?",
+        "options": [
+            "Adding a catalyst",
+            "Changing concentration",
+            "Changing pressure",
+            "Changing temperature"
+        ],
+        "answer": 0,
+        "explanation": "Catalyst speeds up attainment of equilibrium but does not change equilibrium position."
+    },
+    {
+        "id": 8,
+        "question": "For an endothermic reaction, increase in temperature will:",
+        "options": [
+            "Decrease $K$",
+            "Increase $K$",
+            "Not affect $K$",
+            "Make $K=1$"
+        ],
+        "answer": 1,
+        "explanation": "Endothermic reaction is favored at higher temperature, increasing $K$."
+    },
+    {
+        "id": 9,
+        "question": "The value of equilibrium constant for a reaction is 1000. Which statement is correct?",
+        "options": [
+            "Reaction is slow",
+            "Reaction is fast",
+            "Products are favored",
+            "Reactants are favored"
+        ],
+        "answer": 2,
+        "explanation": "Large $K$ value means products are strongly favored at equilibrium."
+    },
+    {
+        "id": 10,
+        "question": "If the reaction quotient $Q < K$, then the reaction will proceed:",
+        "options": [
+            "In forward direction",
+            "In backward direction",
+            "Is already at equilibrium",
+            "Stops completely"
+        ],
+        "answer": 0,
+        "explanation": "When $Q < K$, reaction proceeds forward to reach equilibrium."
+    },
+    {
+        "id": 11,
+        "question": "For the reaction $\\mathrm{2A \\rightleftharpoons B}$, if the concentration of A is doubled, equilibrium will shift:",
+        "options": [
+            "To the left",
+            "To the right",
+            "No change",
+            "Reaction stops"
+        ],
+        "answer": 1,
+        "explanation": "Increase in reactant concentration shifts equilibrium towards product side."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following expressions is correct for $K_c$ of $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$?",
+        "options": [
+            "$[NO_2]^2/[N_2O_4]$",
+            "$[N_2O_4]/[NO_2]^2$",
+            "$[NO_2]/[N_2O_4]$",
+            "$[NO_2]^2[N_2O_4]$"
+        ],
+        "answer": 1,
+        "explanation": "Products raised to stoichiometric coefficient divided by reactants."
+    },
+    {
+        "id": 13,
+        "question": "For a reaction with $ΔH < 0$, decrease in temperature will:",
+        "options": [
+            "Shift equilibrium to reactants",
+            "Shift equilibrium to products",
+            "Have no effect",
+            "Decrease $K$"
+        ],
+        "answer": 1,
+        "explanation": "Exothermic reactions are favored at lower temperatures."
+    },
+    {
+        "id": 14,
+        "question": "The equilibrium constant of a reaction is unaffected by:",
+        "options": [
+            "Change in temperature",
+            "Change in pressure",
+            "Change in volume",
+            "Change in catalyst"
+        ],
+        "answer": 3,
+        "explanation": "Catalyst does not change the equilibrium constant."
+    },
+    {
+        "id": 15,
+        "question": "If $K_p = K_c(RT)^{Δn}$, what is $Δn$ for $\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}$?",
+        "options": [
+            "+1",
+            "-1",
+            "0",
+            "+2"
+        ],
+        "answer": 0,
+        "explanation": "Δn = (1+1) − 1 = +1."
+    },
+    {
+        "id": 16,
+        "question": "For which reaction does pressure have no effect on equilibrium?",
+        "options": [
+            "$\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$",
+            "$\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
+            "$\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$",
+            "$\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}$"
+        ],
+        "answer": 1,
+        "explanation": "Equal moles of gases on both sides (Δn = 0)."
+    },
+    {
+        "id": 17,
+        "question": "Which factor changes both equilibrium position and equilibrium constant?",
+        "options": [
+            "Catalyst",
+            "Pressure",
+            "Concentration",
+            "Temperature"
+        ],
+        "answer": 3,
+        "explanation": "Only temperature affects the value of equilibrium constant."
+    },
+    {
+        "id": 18,
+        "question": "If the equilibrium constant of a reaction is very large, the reaction is:",
+        "options": [
+            "Irreversible",
+            "Nearly complete",
+            "Very slow",
+            "Impossible"
+        ],
+        "answer": 1,
+        "explanation": "Large $K$ indicates reaction proceeds nearly to completion."
+    },
+    {
+        "id": 19,
+        "question": "For the reaction $\\mathrm{CO(g) + H_2O(g) \\rightleftharpoons CO_2(g) + H_2(g)}$, $Δn$ is:",
+        "options": [
+            "+1",
+            "-1",
+            "0",
+            "+2"
+        ],
+        "answer": 2,
+        "explanation": "Total moles of gaseous reactants = products = 2, so Δn = 0."
+    },
+    {
+        "id": 20,
+        "question": "If $K_c$ for a reaction is known, the unit of $K_c$ depends on:",
+        "options": [
+            "Temperature",
+            "Stoichiometry of reaction",
+            "Initial concentration",
+            "Catalyst"
+        ],
+        "answer": 1,
+        "explanation": "Units of $K_c$ depend on stoichiometric coefficients of the reaction."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following statements is correct for equilibrium?",
+        "options": [
+            "Macroscopic properties remain constant",
+            "Reaction stops",
+            "All reactants convert to products",
+            "Forward reaction stops"
+        ],
+        "answer": 0,
+        "explanation": "At equilibrium, macroscopic properties remain constant."
+    },
+    {
+        "id": 22,
+        "question": "For a reversible reaction, equilibrium is established when:",
+        "options": [
+            "Products are maximum",
+            "Reactants are minimum",
+            "Rate of forward reaction equals backward reaction",
+            "Concentration becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Dynamic equilibrium condition."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following will increase the yield of ammonia in Haber process?",
+        "options": [
+            "High temperature",
+            "Low pressure",
+            "High pressure",
+            "Removing catalyst"
+        ],
+        "answer": 2,
+        "explanation": "High pressure favors fewer moles of gas in ammonia synthesis."
+    },
+    {
+        "id": 24,
+        "question": "If equilibrium constant $K = 10^{-3}$, the standard Gibbs energy change $ΔG°$ is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Cannot be determined"
+        ],
+        "answer": 1,
+        "explanation": "$ΔG° = -RT\\ln K$; for $K<1$, $ΔG° > 0$."
+    },
+    {
+        "id": 25,
+        "question": "In Le Chatelier's principle, system counteracts the applied change to:",
+        "options": [
+            "Increase entropy",
+            "Minimize effect of change",
+            "Maximize reaction rate",
+            "Stop reaction"
+        ],
+        "answer": 1,
+        "explanation": "System shifts to oppose applied stress."
+    },
+    {
+        "id": 26,
+        "question": "For which reaction will increase in pressure favor products?",
+        "options": [
+            "$\\mathrm{N_2 + O_2 \\rightleftharpoons 2NO}$",
+            "$\\mathrm{2NO_2 \\rightleftharpoons N_2O_4}$",
+            "$\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
+            "$\\mathrm{CO + H_2 \\rightleftharpoons CH_3OH}$"
+        ],
+        "answer": 1,
+        "explanation": "Products have fewer moles of gas."
+    },
+    {
+        "id": 27,
+        "question": "Which condition favors dissociation of $\\mathrm{N_2O_4}$ into $\\mathrm{NO_2}$?",
+        "options": [
+            "High pressure",
+            "Low temperature",
+            "Low pressure",
+            "Adding inert gas at constant volume"
+        ],
+        "answer": 2,
+        "explanation": "Lower pressure favors side with more moles of gas."
+    },
+    {
+        "id": 28,
+        "question": "The equilibrium constant for reverse reaction is:",
+        "options": [
+            "Same as forward",
+            "Square of forward",
+            "Reciprocal of forward",
+            "Negative of forward"
+        ],
+        "answer": 2,
+        "explanation": "$K_{reverse} = 1/K_{forward}$."
+    },
+    {
+        "id": 29,
+        "question": "If the coefficients of a balanced equation are doubled, the new equilibrium constant becomes:",
+        "options": [
+            "$K^2$",
+            "$\\sqrt{K}$",
+            "$1/K$",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "When coefficients are multiplied by 2, $K$ becomes $K^2$."
+    },
+    {
+        "id": 30,
+        "question": "Which of the following best describes chemical equilibrium?",
+        "options": [
+            "Static",
+            "Dynamic",
+            "Irreversible",
+            "One-way"
+        ],
+        "answer": 1,
+        "explanation": "Equilibrium is dynamic in nature."
+    },
+    {
+        "id": 31,
+        "question": "Adding inert gas at constant volume to an equilibrium system will:",
+        "options": [
+            "Shift equilibrium",
+            "Change $K$",
+            "Not affect equilibrium",
+            "Stop reaction"
+        ],
+        "answer": 2,
+        "explanation": "Partial pressures of reacting gases remain unchanged."
+    },
+    {
+        "id": 32,
+        "question": "Which of the following quantities remains constant at equilibrium?",
+        "options": [
+            "Reaction rate",
+            "Concentration",
+            "Forward reaction rate",
+            "Ratio of rates"
+        ],
+        "answer": 3,
+        "explanation": "Ratio of forward and backward rates remains constant."
+    },
+    {
+        "id": 33,
+        "question": "For a reaction with $ΔH > 0$, which condition favors product formation?",
+        "options": [
+            "Low temperature",
+            "High temperature",
+            "High pressure",
+            "Low pressure"
+        ],
+        "answer": 1,
+        "explanation": "Endothermic reactions are favored at higher temperature."
+    },
+    {
+        "id": 34,
+        "question": "Which statement is true about $K_p$ and $K_c$?",
+        "options": [
+            "They are always equal",
+            "$K_p > K_c$ always",
+            "$K_p$ may be greater or smaller than $K_c$",
+            "They are unrelated"
+        ],
+        "answer": 2,
+        "explanation": "Relation depends on Δn value."
+    },
+    {
+        "id": 35,
+        "question": "For which reaction is $K_p = K_c$?",
+        "options": [
+            "$\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$",
+            "$\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
+            "$\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$",
+            "$\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}$"
+        ],
+        "answer": 1,
+        "explanation": "Δn = 0, so $K_p = K_c$."
+    },
+    {
+        "id": 36,
+        "question": "Which of the following is not included in equilibrium constant expression?",
+        "options": [
+            "Pure solids",
+            "Pure liquids",
+            "Gases",
+            "Aqueous ions"
+        ],
+        "answer": 0,
+        "explanation": "Activities of pure solids and liquids are taken as unity."
+    },
+    {
+        "id": 37,
+        "question": "For reaction $\\mathrm{A + B \\rightleftharpoons C}$, if $K_c = 4$, which statement is correct?",
+        "options": [
+            "Reaction is incomplete",
+            "Products favored",
+            "Reactants favored",
+            "Equilibrium impossible"
+        ],
+        "answer": 1,
+        "explanation": "$K_c > 1$ indicates products are favored."
+    },
+    {
+        "id": 38,
+        "question": "When equilibrium is disturbed by adding more reactant, the system responds by:",
+        "options": [
+            "Stopping reaction",
+            "Increasing backward reaction",
+            "Increasing forward reaction",
+            "Changing $K$"
+        ],
+        "answer": 2,
+        "explanation": "System shifts forward to consume added reactant."
+    },
+    {
+        "id": 39,
+        "question": "Which graph best represents equilibrium?",
+        "options": [
+            "Rate vs time intersecting and becoming equal",
+            "Concentration vs time dropping to zero",
+            "Rate vs time diverging",
+            "Constant concentration from start"
+        ],
+        "answer": 0,
+        "explanation": "At equilibrium, forward and backward rates become equal."
+    },
+    {
+        "id": 40,
+        "question": "For equilibrium $\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)}$, $K_p$ depends on:",
+        "options": [
+            "Amount of CaCO3",
+            "Amount of CaO",
+            "Partial pressure of CO2",
+            "Total pressure"
+        ],
+        "answer": 2,
+        "explanation": "Only gaseous species appear in $K_p$ expression."
+    },
+    {
+        "id": 41,
+        "question": "For the reaction $\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}$, initially 1 mol each of $H_2$ and $I_2$ are taken in a 1 L vessel. If at equilibrium 0.2 mol of $H_2$ remains, the equilibrium constant $K_c$ is:",
+        "options": [
+            "16",
+            "25",
+            "64",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "Consumed $H_2=0.8$, so $[HI]=1.6$. $K_c=(1.6)^2/(0.2×0.2)=2.56/0.04=64$."
+    },
+    {
+        "id": 42,
+        "question": "For a reaction $\\mathrm{A \\rightleftharpoons B}$, $ΔG° = +5.7\\,\\text{kJ mol}^{-1}$ at 300 K. The value of equilibrium constant is approximately:",
+        "options": [
+            "0.1",
+            "1",
+            "10",
+            "100"
+        ],
+        "answer": 0,
+        "explanation": "$K=e^{-ΔG°/RT}=e^{-5700/(8.314×300)}≈e^{-2.28}≈0.1$."
+    },
+    {
+        "id": 43,
+        "question": "For the reaction $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, if degree of dissociation of $N_2O_4$ is $α$, the equilibrium constant $K_p$ is:",
+        "options": [
+            "$\\dfrac{1-α}{4α^2}P$",
+            "$\\dfrac{α^2}{(1-α)P}$",
+            "$\\dfrac{4α^2}{(1-α)P}$",
+            "$\\dfrac{(1-α)P}{α^2}$"
+        ],
+        "answer": 2,
+        "explanation": "$K_p=\\frac{P_{NO_2}^2}{P_{N_2O_4}}=\\frac{(2αP/(1+α))^2}{(1-α)P/(1+α)}=\\frac{4α^2}{(1-α)P}$."
+    },
+    {
+        "id": 44,
+        "question": "For a gaseous reaction with $Δn = -1$, if temperature is doubled, the ratio $K_p/K_c$ becomes:",
+        "options": [
+            "$2R$",
+            "$1/(2R)$",
+            "$R$",
+            "$1/R$"
+        ],
+        "answer": 1,
+        "explanation": "$K_p=K_c(RT)^{-1}$, doubling T gives factor $1/(2R)$."
+    },
+    {
+        "id": 45,
+        "question": "For the reaction $\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$, which change will increase equilibrium yield of ammonia?",
+        "options": [
+            "Increase temperature",
+            "Decrease pressure",
+            "Add catalyst",
+            "Remove ammonia continuously"
+        ],
+        "answer": 3,
+        "explanation": "Removing product shifts equilibrium forward by Le Chatelier’s principle."
+    },
+    {
+        "id": 46,
+        "question": "If $K_c=4$ for $\\mathrm{A+B \\rightleftharpoons C}$ and initial concentrations of A and B are 1 M each, the equilibrium concentration of C is:",
+        "options": [
+            "0.5 M",
+            "0.67 M",
+            "0.8 M",
+            "0.25 M"
+        ],
+        "answer": 1,
+        "explanation": "Let formed C=x. Then $4=x/(1-x)^2$, solving gives $x≈0.67$."
+    },
+    {
+        "id": 47,
+        "question": "For an exothermic reaction, the van’t Hoff equation predicts that with increase in temperature:",
+        "options": [
+            "$K$ increases",
+            "$K$ decreases",
+            "$K$ remains constant",
+            "$ΔH$ becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "For exothermic reaction, increase in temperature decreases $K$."
+    },
+    {
+        "id": 48,
+        "question": "Which condition favors maximum dissociation of $\\mathrm{PCl_5(g)}$ into $\\mathrm{PCl_3(g)}$ and $\\mathrm{Cl_2(g)}$?",
+        "options": [
+            "High pressure, low temperature",
+            "Low pressure, high temperature",
+            "High pressure, high temperature",
+            "Low pressure, low temperature"
+        ],
+        "answer": 1,
+        "explanation": "Reaction increases moles and is endothermic, so low pressure and high temperature favor dissociation."
+    },
+    {
+        "id": 49,
+        "question": "If $Q>K$ for a reaction mixture, the reaction will proceed:",
+        "options": [
+            "Forward",
+            "Backward",
+            "To completion",
+            "Randomly"
+        ],
+        "answer": 1,
+        "explanation": "When $Q>K$, reaction proceeds in backward direction to attain equilibrium."
+    },
+    {
+        "id": 50,
+        "question": "For reaction $\\mathrm{2A \\rightleftharpoons B}$, if $K_c=1/4$, the reaction is:",
+        "options": [
+            "Product favored",
+            "Reactant favored",
+            "At equilibrium always",
+            "Irreversible"
+        ],
+        "answer": 1,
+        "explanation": "$K_c<1$ means equilibrium lies towards reactants."
+    },
+    {
+        "id": 51,
+        "question": "For which of the following reactions will $K_p$ decrease with increase in temperature?",
+        "options": [
+            "Endothermic reaction",
+            "Exothermic reaction",
+            "Δn=0 reaction",
+            "Irreversible reaction"
+        ],
+        "answer": 1,
+        "explanation": "Exothermic reactions show decrease in $K$ with increase in temperature."
+    },
+    {
+        "id": 52,
+        "question": "For the equilibrium $\\mathrm{CO + 3H_2 \\rightleftharpoons CH_4 + H_2O}$, increasing pressure will:",
+        "options": [
+            "Shift left",
+            "Shift right",
+            "Have no effect",
+            "Decrease $K_p$"
+        ],
+        "answer": 1,
+        "explanation": "Moles decrease from 4 to 2, so higher pressure favors products."
+    },
+    {
+        "id": 53,
+        "question": "If equilibrium constant of a reaction is 1 at all temperatures, then:",
+        "options": [
+            "ΔH°=0",
+            "ΔS°=0",
+            "ΔG°=0 only at one temperature",
+            "Reaction is slow"
+        ],
+        "answer": 0,
+        "explanation": "From van’t Hoff equation, $K$ independent of T implies $ΔH°=0$."
+    },
+    {
+        "id": 54,
+        "question": "For a reaction mixture at equilibrium, which quantity must be zero?",
+        "options": [
+            "$ΔH$",
+            "$ΔS$",
+            "$ΔG$",
+            "Reaction rate"
+        ],
+        "answer": 2,
+        "explanation": "At equilibrium, Gibbs free energy change $ΔG=0$."
+    },
+    {
+        "id": 55,
+        "question": "If equilibrium constant $K_c=10^5$, the value of $ΔG°$ at 298 K is approximately:",
+        "options": [
+            "−28.5 kJ mol⁻¹",
+            "+28.5 kJ mol⁻¹",
+            "0",
+            "−5.7 kJ mol⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "$ΔG°=-RT\\ln K≈-8.314×298×\\ln(10^5)≈-28.5$ kJ mol⁻¹."
+    },
+    {
+        "id": 56,
+        "question": "Which of the following does not change the value of reaction quotient $Q$?",
+        "options": [
+            "Adding reactant",
+            "Removing product",
+            "Adding catalyst",
+            "Changing concentration"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst does not affect concentrations, hence $Q$ remains unchanged."
+    },
+    {
+        "id": 57,
+        "question": "For equilibrium $\\mathrm{Fe^{3+} + SCN^- \\rightleftharpoons FeSCN^{2+}}$, addition of $Fe^{3+}$ will:",
+        "options": [
+            "Shift left",
+            "Shift right",
+            "Not affect equilibrium",
+            "Change $K$"
+        ],
+        "answer": 1,
+        "explanation": "Increase in reactant concentration shifts equilibrium to product side."
+    },
+    {
+        "id": 58,
+        "question": "If $K_p=K_c$, the reaction must have:",
+        "options": [
+            "Equal moles of reactants and products",
+            "$Δn=0$",
+            "Same phases",
+            "Only solids"
+        ],
+        "answer": 1,
+        "explanation": "$K_p=K_c(RT)^{Δn}$, equality implies $Δn=0$."
+    },
+    {
+        "id": 59,
+        "question": "For a gaseous equilibrium, addition of inert gas at constant pressure will:",
+        "options": [
+            "Shift towards fewer moles",
+            "Shift towards more moles",
+            "Not affect equilibrium",
+            "Change $K$"
+        ],
+        "answer": 1,
+        "explanation": "At constant pressure, volume increases favoring side with more moles."
+    },
+    {
+        "id": 60,
+        "question": "Which factor increases both forward and backward reaction rates equally?",
+        "options": [
+            "Temperature",
+            "Catalyst",
+            "Pressure",
+            "Concentration"
+        ],
+        "answer": 1,
+        "explanation": "Catalyst lowers activation energy for both directions equally."
+    },
+    {
+        "id": 61,
+        "question": "If equilibrium constant is extremely large, which is correct?",
+        "options": [
+            "Reaction is slow",
+            "Reaction is reversible",
+            "Reaction goes almost to completion",
+            "Reactants dominate"
+        ],
+        "answer": 2,
+        "explanation": "Very large $K$ indicates nearly complete reaction."
+    },
+    {
+        "id": 62,
+        "question": "For which equilibrium does temperature change have maximum effect?",
+        "options": [
+            "ΔH=0",
+            "Highly exothermic",
+            "Δn=0",
+            "Isothermal"
+        ],
+        "answer": 1,
+        "explanation": "Large enthalpy change reactions are more sensitive to temperature."
+    },
+    {
+        "id": 63,
+        "question": "If equilibrium constant is expressed in terms of mole fraction, it is denoted as:",
+        "options": [
+            "$K_p$",
+            "$K_c$",
+            "$K_x$",
+            "$K_m$"
+        ],
+        "answer": 2,
+        "explanation": "$K_x$ is equilibrium constant in terms of mole fractions."
+    },
+    {
+        "id": 64,
+        "question": "Which of the following statements is incorrect?",
+        "options": [
+            "Equilibrium is dynamic",
+            "$K$ depends on temperature",
+            "Catalyst changes $K$",
+            "Forward and backward rates are equal"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst does not change equilibrium constant."
+    },
+    {
+        "id": 65,
+        "question": "For the reaction $\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$, decrease in temperature will:",
+        "options": [
+            "Decrease yield of $SO_3$",
+            "Increase yield of $SO_3$",
+            "No change",
+            "Decrease $K$"
+        ],
+        "answer": 1,
+        "explanation": "Reaction is exothermic, lower temperature favors products."
+    },
+    {
+        "id": 66,
+        "question": "If $ΔG°<0$ and $ΔH°>0$, reaction will be spontaneous:",
+        "options": [
+            "At all temperatures",
+            "At high temperatures",
+            "At low temperatures",
+            "Never"
+        ],
+        "answer": 1,
+        "explanation": "Positive ΔH and negative ΔG imply spontaneity at high T due to entropy."
+    },
+    {
+        "id": 67,
+        "question": "Which equilibrium constant has no unit?",
+        "options": [
+            "$K_c$",
+            "$K_p$",
+            "$K_x$",
+            "Depends on reaction"
+        ],
+        "answer": 2,
+        "explanation": "$K_x$ based on mole fraction is dimensionless."
+    },
+    {
+        "id": 68,
+        "question": "For equilibrium $\\mathrm{NH_4Cl(s) \\rightleftharpoons NH_3(g)+HCl(g)}$, increasing pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Increase $K_p$"
+        ],
+        "answer": 1,
+        "explanation": "Increase in pressure favors fewer moles of gas."
+    },
+    {
+        "id": 69,
+        "question": "If reaction quotient $Q=K$, then the system is:",
+        "options": [
+            "At equilibrium",
+            "Moving forward",
+            "Moving backward",
+            "Unstable"
+        ],
+        "answer": 0,
+        "explanation": "$Q=K$ is the condition for equilibrium."
+    },
+    {
+        "id": 70,
+        "question": "Which of the following always increases entropy of reaction?",
+        "options": [
+            "Decrease in moles of gas",
+            "Increase in moles of gas",
+            "Formation of solid",
+            "Condensation"
+        ],
+        "answer": 1,
+        "explanation": "Increase in gaseous moles increases disorder."
+    },
+    {
+        "id": 71,
+        "question": "For a reaction, if $ΔS>0$ and $ΔH<0$, then:",
+        "options": [
+            "Never spontaneous",
+            "Spontaneous at all temperatures",
+            "Spontaneous at high T",
+            "Spontaneous at low T"
+        ],
+        "answer": 1,
+        "explanation": "Both entropy and enthalpy favor spontaneity at all temperatures."
+    },
+    {
+        "id": 72,
+        "question": "For equilibrium involving only solids and liquids, the equilibrium constant is:",
+        "options": [
+            "Zero",
+            "Infinity",
+            "One",
+            "Undefined"
+        ],
+        "answer": 2,
+        "explanation": "Activities of pure solids and liquids are unity, so $K=1$."
+    },
+    {
+        "id": 73,
+        "question": "If coefficients of a balanced equation are halved, new equilibrium constant becomes:",
+        "options": [
+            "$K^2$",
+            "$\\sqrt{K}$",
+            "$1/K$",
+            "Same"
+        ],
+        "answer": 1,
+        "explanation": "Halving coefficients makes $K$ equal to $\\sqrt{K}$."
+    },
+    {
+        "id": 74,
+        "question": "Which statement is correct regarding equilibrium constant?",
+        "options": [
+            "Depends on catalyst",
+            "Depends on initial concentrations",
+            "Depends on temperature",
+            "Depends on volume"
+        ],
+        "answer": 2,
+        "explanation": "Equilibrium constant depends only on temperature."
+    },
+    {
+        "id": 75,
+        "question": "For reaction $\\mathrm{A \\rightleftharpoons B}$, if $K=10$, then:",
+        "options": [
+            "$ΔG°>0$",
+            "$ΔG°<0$",
+            "$ΔG°=0$",
+            "Reaction is slow"
+        ],
+        "answer": 1,
+        "explanation": "$ΔG°=-RT\\ln K$, so for $K>1$, $ΔG°<0$."
+    },
+    {
+        "id": 76,
+        "question": "Which of the following is a homogeneous equilibrium?",
+        "options": [
+            "$\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$",
+            "$\\mathrm{H_2(g)+I_2(g) \\rightleftharpoons 2HI(g)}$",
+            "$\\mathrm{AgCl(s) \\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$",
+            "$\\mathrm{NH_4Cl(s) \\rightleftharpoons NH_3(g)+HCl(g)}$"
+        ],
+        "answer": 1,
+        "explanation": "All species are in same phase (gas)."
+    },
+    {
+        "id": 77,
+        "question": "If equilibrium constant is small, the equilibrium lies:",
+        "options": [
+            "Towards products",
+            "Towards reactants",
+            "At middle",
+            "Outside reaction"
+        ],
+        "answer": 1,
+        "explanation": "Small $K$ means reactants are favored."
+    },
+    {
+        "id": 78,
+        "question": "Which term decides direction of spontaneity?",
+        "options": [
+            "$ΔH$",
+            "$ΔS$",
+            "$ΔG$",
+            "$K$"
+        ],
+        "answer": 2,
+        "explanation": "Sign of Gibbs free energy change decides spontaneity."
+    },
+    {
+        "id": 79,
+        "question": "For equilibrium $\\mathrm{2HI \\rightleftharpoons H_2 + I_2}$, if $K_c=0.25$, the forward reaction is:",
+        "options": [
+            "Favored",
+            "Not favored",
+            "Complete",
+            "Irreversible"
+        ],
+        "answer": 1,
+        "explanation": "$K_c<1$ indicates forward reaction is not favored."
+    },
+    {
+        "id": 80,
+        "question": "Which change will shift equilibrium but not change $K$?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Catalyst",
+            "Nature of reactants"
+        ],
+        "answer": 1,
+        "explanation": "Pressure shifts equilibrium position but does not change $K$."
+    },
+    {
+        "id": 81,
+        "question": "For the equilibrium $\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}$, initially 2 mol $SO_2$ and 1 mol $O_2$ are taken in a 1 L vessel. If at equilibrium 1 mol $SO_3$ is formed, the value of $K_c$ is:",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+        ],
+        "answer": 1,
+        "explanation": "Extent = 0.5. Equilibrium: $SO_2=1$, $O_2=0.5$, $SO_3=1$. $K_c=1^2/(1^2×0.5)=2$."
+    },
+    {
+        "id": 82,
+        "question": "For reaction $\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}$, if total pressure is $P$ and degree of dissociation is $α$, the partial pressure of $NO_2$ is:",
+        "options": [
+            "$\\dfrac{αP}{1+α}$",
+            "$\\dfrac{2αP}{1+α}$",
+            "$\\dfrac{(1-α)P}{1+α}$",
+            "$\\dfrac{2(1-α)P}{1+α}$"
+        ],
+        "answer": 1,
+        "explanation": "Moles of $NO_2=2α$, total moles $=1+α$, so $P_{NO_2}=2αP/(1+α)$."
+    },
+    {
+        "id": 83,
+        "question": "For a reaction $\\mathrm{A \\rightleftharpoons B}$, $K=0.01$ at 298 K. The value of $ΔG°$ (in kJ mol⁻¹) is approximately:",
+        "options": [
+            "+11.4",
+            "-11.4",
+            "+5.7",
+            "-5.7"
+        ],
+        "answer": 0,
+        "explanation": "$ΔG°=-RT\\ln K≈-8.314×298×\\ln(0.01)≈+11.4$."
+    },
+    {
+        "id": 84,
+        "question": "For equilibrium $\\mathrm{CO(g)+H_2O(g) \\rightleftharpoons CO_2(g)+H_2(g)}$, if $K_c=1$, then:",
+        "options": [
+            "$ΔG°>0$",
+            "$ΔG°<0$",
+            "$ΔG°=0$",
+            "Reaction is irreversible"
+        ],
+        "answer": 2,
+        "explanation": "$ΔG°=-RT\\ln K=0$ when $K=1$."
+    },
+    {
+        "id": 85,
+        "question": "For the reaction $\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g)+Cl_2(g)}$, if $K_p=1$ and total pressure is 1 atm, the degree of dissociation is:",
+        "options": [
+            "0.2",
+            "0.33",
+            "0.5",
+            "0.67"
+        ],
+        "answer": 2,
+        "explanation": "$K_p=\\frac{α^2P}{1-α^2}$. With $P=1$ and $K_p=1$, $α^2=1-α^2$ giving $α=0.5$."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following changes will increase both $Q$ and $K$ for an equilibrium system?",
+        "options": [
+            "Increase in temperature for exothermic reaction",
+            "Decrease in temperature for endothermic reaction",
+            "Increase in temperature for endothermic reaction",
+            "Adding catalyst"
+        ],
+        "answer": 2,
+        "explanation": "For endothermic reactions, increase in temperature increases $K$ and shifts equilibrium forward, increasing $Q$."
+    },
+    {
+        "id": 87,
+        "question": "For a reaction, $ΔH°=-40$ kJ mol⁻¹ and $ΔS°=-100$ J mol⁻¹ K⁻¹. The reaction will be spontaneous:",
+        "options": [
+            "At all temperatures",
+            "At high temperatures",
+            "At low temperatures",
+            "Never"
+        ],
+        "answer": 2,
+        "explanation": "$ΔG=ΔH-TΔS$. With both negative, reaction is spontaneous at low T."
+    },
+    {
+        "id": 88,
+        "question": "For equilibrium $\\mathrm{2HI(g) \\rightleftharpoons H_2(g)+I_2(g)}$, increasing pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Change $K_p$"
+        ],
+        "answer": 2,
+        "explanation": "Equal moles of gas on both sides, pressure has no effect."
+    },
+    {
+        "id": 89,
+        "question": "If equilibrium constant is written in terms of partial pressures, it is dimensionless because:",
+        "options": [
+            "Pressure has no unit",
+            "Standard state is used",
+            "Gas constant cancels units",
+            "Moles are equal"
+        ],
+        "answer": 1,
+        "explanation": "Partial pressures are divided by standard pressure making them dimensionless."
+    },
+    {
+        "id": 90,
+        "question": "For the reaction $\\mathrm{A+B \\rightleftharpoons C+D}$, $ΔH°=0$. If temperature is increased, equilibrium constant:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains unchanged",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "From van’t Hoff equation, if $ΔH°=0$, $K$ is independent of temperature."
+    },
+    {
+        "id": 91,
+        "question": "For equilibrium $\\mathrm{N_2(g)+3H_2(g) \\rightleftharpoons 2NH_3(g)}$, addition of inert gas at constant pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Increase $K_p$"
+        ],
+        "answer": 1,
+        "explanation": "At constant pressure, volume increases favoring side with more moles (reactants)."
+    },
+    {
+        "id": 92,
+        "question": "For which equilibrium does addition of inert gas at constant volume have no effect?",
+        "options": [
+            "Gaseous equilibrium",
+            "Heterogeneous equilibrium",
+            "Homogeneous gaseous equilibrium",
+            "All equilibria"
+        ],
+        "answer": 3,
+        "explanation": "At constant volume, partial pressures of reacting species remain unchanged."
+    },
+    {
+        "id": 93,
+        "question": "If equilibrium constant $K_c$ has unit $\\mathrm{mol^{-1}L}$, the reaction is:",
+        "options": [
+            "$\\mathrm{A \\rightleftharpoons B}$",
+            "$\\mathrm{2A \\rightleftharpoons B}$",
+            "$\\mathrm{A+B \\rightleftharpoons C}$",
+            "$\\mathrm{A \\rightleftharpoons 2B}$"
+        ],
+        "answer": 2,
+        "explanation": "For $A+B \\rightleftharpoons C$, $K_c=[C]/([A,B])$ has unit $L mol^{-1}$."
+    },
+    {
+        "id": 94,
+        "question": "For a reaction, $K_p=K_c(RT)^{Δn}$. If $Δn=+2$, then $K_p/K_c$ is proportional to:",
+        "options": [
+            "$T^2$",
+            "$1/T^2$",
+            "$T$",
+            "$1/T$"
+        ],
+        "answer": 0,
+        "explanation": "$K_p/K_c=(RT)^2$, proportional to $T^2$."
+    },
+    {
+        "id": 95,
+        "question": "For equilibrium $\\mathrm{AgCl(s) \\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$, the equilibrium constant expression is:",
+        "options": [
+            "$[Ag^+,Cl^-]$",
+            "$[AgCl]$",
+            "$[Ag^+]/[Cl^-]$",
+            "$1/[Ag^+,Cl^-]$"
+        ],
+        "answer": 0,
+        "explanation": "Activity of solid AgCl is unity, so $K=[Ag^+,Cl^-]$."
+    },
+    {
+        "id": 96,
+        "question": "For which reaction is entropy change maximum?",
+        "options": [
+            "Decrease in gaseous moles",
+            "Increase in gaseous moles",
+            "Solid to liquid",
+            "Liquid to solid"
+        ],
+        "answer": 1,
+        "explanation": "Increase in number of gaseous moles gives maximum entropy increase."
+    },
+    {
+        "id": 97,
+        "question": "For a reaction with $ΔG°=+10$ kJ mol⁻¹ at 298 K, the equilibrium constant is:",
+        "options": [
+            "Greater than 1",
+            "Equal to 1",
+            "Less than 1",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Positive $ΔG°$ implies $K<1$."
+    },
+    {
+        "id": 98,
+        "question": "For equilibrium $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, doubling the volume will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Change $K_c$"
+        ],
+        "answer": 1,
+        "explanation": "Increase in volume favors side with more moles (reactants)."
+    },
+    {
+        "id": 99,
+        "question": "Which condition favors product formation for an exothermic reaction with decrease in gaseous moles?",
+        "options": [
+            "High T, low P",
+            "High T, high P",
+            "Low T, high P",
+            "Low T, low P"
+        ],
+        "answer": 2,
+        "explanation": "Low temperature favors exothermic reaction and high pressure favors fewer moles."
+    },
+    {
+        "id": 100,
+        "question": "For equilibrium $\\mathrm{H_2(g)+Cl_2(g) \\rightleftharpoons 2HCl(g)}$, $Δn$ is:",
+        "options": [
+            "+1",
+            "-1",
+            "0",
+            "+2"
+        ],
+        "answer": 2,
+        "explanation": "Total moles of gas are equal on both sides."
+    },
+    {
+        "id": 101,
+        "question": "For which reaction will $K_c$ have unit $\\mathrm{mol^{-2}L^2}$?",
+        "options": [
+            "$\\mathrm{A \\rightleftharpoons B}$",
+            "$\\mathrm{2A \\rightleftharpoons B}$",
+            "$\\mathrm{A+B \\rightleftharpoons C}$",
+            "$\\mathrm{A \\rightleftharpoons 2B}$"
+        ],
+        "answer": 1,
+        "explanation": "$K_c=[B]/[A]^2$ gives unit $L^2 mol^{-2}$."
+    },
+    {
+        "id": 102,
+        "question": "If $K_c$ for a reaction is very large, then equilibrium concentration of reactants is:",
+        "options": [
+            "High",
+            "Low",
+            "Equal to products",
+            "Zero always"
+        ],
+        "answer": 1,
+        "explanation": "Large $K_c$ implies reactants are mostly consumed."
+    },
+    {
+        "id": 103,
+        "question": "For a reaction at equilibrium, which of the following ratios is constant?",
+        "options": [
+            "$[Products]/[Reactants]$",
+            "Rate forward/rate backward",
+            "Reaction quotient $Q$",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "At equilibrium, $Q=K$ and forward and backward rates are equal."
+    },
+    {
+        "id": 104,
+        "question": "For equilibrium $\\mathrm{2NO(g)+O_2(g) \\rightleftharpoons 2NO_2(g)}$, increasing concentration of $NO_2$ will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Increase $K$"
+        ],
+        "answer": 1,
+        "explanation": "Adding product shifts equilibrium to reactant side."
+    },
+    {
+        "id": 105,
+        "question": "If $K_x$ is equilibrium constant in terms of mole fraction, then:",
+        "options": [
+            "It has units",
+            "It is dimensionless",
+            "It equals $K_c$",
+            "It equals $K_p$ always"
+        ],
+        "answer": 1,
+        "explanation": "Mole fractions are dimensionless, so $K_x$ has no unit."
+    },
+    {
+        "id": 106,
+        "question": "For a reaction, if $ΔS°<0$ and $ΔH°>0$, the reaction will be:",
+        "options": [
+            "Spontaneous at all T",
+            "Spontaneous at high T",
+            "Spontaneous at low T",
+            "Never spontaneous"
+        ],
+        "answer": 3,
+        "explanation": "Both terms oppose spontaneity, so reaction is never spontaneous."
+    },
+    {
+        "id": 107,
+        "question": "For equilibrium $\\mathrm{A(g)+B(g) \\rightleftharpoons C(g)}$, decreasing temperature will favor products if:",
+        "options": [
+            "Reaction is endothermic",
+            "Reaction is exothermic",
+            "Δn=0",
+            "Catalyst is added"
+        ],
+        "answer": 1,
+        "explanation": "Lower temperature favors exothermic reactions."
+    },
+    {
+        "id": 108,
+        "question": "If equilibrium constant is expressed using concentrations in mol L⁻¹, it is denoted by:",
+        "options": [
+            "$K_p$",
+            "$K_x$",
+            "$K_c$",
+            "$K_m$"
+        ],
+        "answer": 2,
+        "explanation": "$K_c$ uses molar concentrations."
+    },
+    {
+        "id": 109,
+        "question": "For reaction $\\mathrm{A \\rightleftharpoons 2B}$, if $K_c=4$, starting with 1 M A only, the equilibrium concentration of B is approximately:",
+        "options": [
+            "0.8 M",
+            "1.0 M",
+            "1.2 M",
+            "1.6 M"
+        ],
+        "answer": 0,
+        "explanation": "Let A dissociated = x, B formed = 2x. $4=(2x)^2/(1-x)$. Solving gives $x≈0.4$, so $[B]=0.8$."
+    },
+    {
+        "id": 110,
+        "question": "For equilibrium involving gases, which factor changes equilibrium constant?",
+        "options": [
+            "Pressure",
+            "Volume",
+            "Temperature",
+            "Concentration"
+        ],
+        "answer": 2,
+        "explanation": "Only temperature affects equilibrium constant."
+    },
+    {
+        "id": 111,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Large $K$ means fast reaction",
+            "Small $K$ means irreversible reaction",
+            "$K$ indicates extent of reaction",
+            "$K$ depends on catalyst"
+        ],
+        "answer": 2,
+        "explanation": "Magnitude of $K$ indicates extent of reaction, not speed."
+    },
+    {
+        "id": 112,
+        "question": "For equilibrium $\\mathrm{NH_3(g)+HCl(g) \\rightleftharpoons NH_4Cl(s)}$, increasing pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Decrease $K$"
+        ],
+        "answer": 0,
+        "explanation": "Formation of solid from gases is favored at high pressure."
+    },
+    {
+        "id": 113,
+        "question": "For a reaction, if $ΔG°=0$ at a certain temperature, then:",
+        "options": [
+            "$K=0$",
+            "$K=1$",
+            "$K>1$",
+            "$K<1$"
+        ],
+        "answer": 1,
+        "explanation": "$ΔG°=-RT\\ln K=0$ gives $K=1$."
+    },
+    {
+        "id": 114,
+        "question": "For equilibrium $\\mathrm{2A(g)+B(g) \\rightleftharpoons 2C(g)}$, $Δn$ is:",
+        "options": [
+            "+1",
+            "-1",
+            "0",
+            "-2"
+        ],
+        "answer": 1,
+        "explanation": "Reactant moles = 3, product moles = 2, so $Δn=-1$."
+    },
+    {
+        "id": 115,
+        "question": "If $K_p$ is very small, then:",
+        "options": [
+            "Products dominate",
+            "Reactants dominate",
+            "Reaction is fast",
+            "Reaction is irreversible"
+        ],
+        "answer": 1,
+        "explanation": "Small $K_p$ implies equilibrium lies towards reactants."
+    },
+    {
+        "id": 116,
+        "question": "For equilibrium $\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$, adding more $CaCO_3$ will:",
+        "options": [
+            "Increase $CO_2$ pressure",
+            "Decrease $CO_2$ pressure",
+            "Have no effect",
+            "Change $K_p$"
+        ],
+        "answer": 2,
+        "explanation": "Amount of solid does not affect equilibrium."
+    },
+    {
+        "id": 117,
+        "question": "Which quantity decides the extent of reaction at equilibrium?",
+        "options": [
+            "$ΔH$",
+            "$ΔS$",
+            "$ΔG°$",
+            "$K$"
+        ],
+        "answer": 3,
+        "explanation": "Equilibrium constant $K$ indicates extent of reaction."
+    },
+    {
+        "id": 118,
+        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C}$, if initial concentrations are equal and $K_c=1$, then at equilibrium:",
+        "options": [
+            "All A and B react",
+            "More products than reactants",
+            "Equal extent of reactants and products",
+            "Reaction stops immediately"
+        ],
+        "answer": 2,
+        "explanation": "$K_c=1$ implies comparable amounts of reactants and products."
+    },
+    {
+        "id": 119,
+        "question": "Which of the following shifts equilibrium without changing $K$?",
+        "options": [
+            "Temperature change",
+            "Pressure change",
+            "Nature of reaction",
+            "Standard state"
+        ],
+        "answer": 1,
+        "explanation": "Pressure changes equilibrium position but not $K$."
+    },
+    {
+        "id": 120,
+        "question": "For equilibrium $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, lowering temperature will:",
+        "options": [
+            "Increase dissociation",
+            "Decrease dissociation",
+            "No effect",
+            "Change $K_c$ randomly"
+        ],
+        "answer": 1,
+        "explanation": "Formation of $N_2O_4$ is exothermic, so low temperature decreases dissociation."
+    },
+    {
+        "id": 121,
+        "question": "For the equilibrium $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, initially 1 mol of A is taken in a 1 L vessel. At equilibrium, total pressure is 2 atm and degree of dissociation of A is $α$. The equilibrium constant $K_p$ is:",
+        "options": [
+            "$\\dfrac{α^2}{(1-α)}P$",
+            "$\\dfrac{(1-α)P}{α^2}$",
+            "$\\dfrac{α^2P}{2(1-α)}$",
+            "$\\dfrac{α^2}{2(1-α)P}$"
+        ],
+        "answer": 2,
+        "explanation": "Moles: A = 1−α, B = α/2, total = 1−α/2. $K_p=P_B/(P_A)^2=\\frac{(α/2)/(1-α/2)P}{[(1-α)/(1-α/2)P]^2}=\\frac{α^2P}{2(1-α)}$."
+    },
+    {
+        "id": 122,
+        "question": "For a reaction at equilibrium, $ΔG=0$. If $ΔG°=-20\\,\\text{kJ mol}^{-1}$ at 298 K, the value of $Q$ is approximately:",
+        "options": [
+            "$10^{-4}$",
+            "$10^{-2}$",
+            "$10^{2}$",
+            "$10^{4}$"
+        ],
+        "answer": 3,
+        "explanation": "$ΔG=ΔG°+RT\\ln Q=0$. $\\ln Q=20\\times10^3/(8.314×298)≈8.1$, so $Q≈10^4$."
+    },
+    {
+        "id": 123,
+        "question": "For equilibrium $\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}$, at a fixed temperature, the degree of dissociation will be maximum at:",
+        "options": [
+            "High pressure",
+            "Low pressure",
+            "High volume",
+            "Low volume"
+        ],
+        "answer": 1,
+        "explanation": "Dissociation increases number of moles; low pressure favors dissociation."
+    },
+    {
+        "id": 124,
+        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C}$, if $K_c=10$ and initial concentrations are $[A]=[B]=1$ M, the equilibrium concentration of C is closest to:",
+        "options": [
+            "0.5 M",
+            "0.73 M",
+            "0.82 M",
+            "0.91 M"
+        ],
+        "answer": 2,
+        "explanation": "Let C = x. $10=x/(1-x)^2$. Solving gives $x≈0.82$."
+    },
+    {
+        "id": 125,
+        "question": "For the reaction $\\mathrm{CO(g)+2H_2(g) \\rightleftharpoons CH_3OH(g)}$, $Δn$ is:",
+        "options": [
+            "+1",
+            "0",
+            "-1",
+            "-2"
+        ],
+        "answer": 3,
+        "explanation": "Reactant moles = 3, product moles = 1, so $Δn=-2$."
+    },
+    {
+        "id": 126,
+        "question": "If $K_p=16$ for $\\mathrm{2A(g) \\rightleftharpoons B(g)}$ at a certain temperature, then $K_c$ at the same temperature is:",
+        "options": [
+            "$16RT$",
+            "$16/(RT)$",
+            "$16(RT)$",
+            "$16/(RT)^2$"
+        ],
+        "answer": 2,
+        "explanation": "$Δn=1-2=-1$. $K_p=K_c(RT)^{-1}$, so $K_c=K_p(RT)$."
+    },
+    {
+        "id": 127,
+        "question": "For a reaction, $ΔH°>0$ and $ΔS°>0$. The equilibrium constant will:",
+        "options": [
+            "Decrease with increase in temperature",
+            "Increase with increase in temperature",
+            "Be independent of temperature",
+            "Become zero at high temperature"
+        ],
+        "answer": 1,
+        "explanation": "Endothermic reaction with positive entropy is favored at higher temperature, increasing $K$."
+    },
+    {
+        "id": 128,
+        "question": "For equilibrium $\\mathrm{2NO(g)+O_2(g) \\rightleftharpoons 2NO_2(g)}$, if volume is suddenly decreased at constant temperature, immediately after change:",
+        "options": [
+            "$Q=K$",
+            "$Q<K$",
+            "$Q>K$",
+            "Reaction stops"
+        ],
+        "answer": 2,
+        "explanation": "Decrease in volume increases pressures; since products have fewer moles, $Q>K$ initially."
+    },
+    {
+        "id": 129,
+        "question": "For which of the following reactions does equilibrium constant decrease with increase in temperature?",
+        "options": [
+            "$\\mathrm{N_2+O_2 \\rightleftharpoons 2NO}$",
+            "$\\mathrm{H_2+I_2 \\rightleftharpoons 2HI}$",
+            "$\\mathrm{2SO_2+O_2 \\rightleftharpoons 2SO_3}$",
+            "$\\mathrm{CaCO_3 \\rightleftharpoons CaO+CO_2}$"
+        ],
+        "answer": 2,
+        "explanation": "Formation of $SO_3$ is exothermic; increasing temperature decreases $K$."
+    },
+    {
+        "id": 130,
+        "question": "For the equilibrium $\\mathrm{A(g) \\rightleftharpoons 2B(g)}$, if $K_p$ is small, which condition will increase the extent of reaction?",
+        "options": [
+            "High pressure",
+            "Low pressure",
+            "Low temperature",
+            "Adding inert gas at constant volume"
+        ],
+        "answer": 1,
+        "explanation": "More moles on product side; low pressure favors forward reaction."
+    },
+    {
+        "id": 131,
+        "question": "For a reaction at equilibrium, which of the following changes will not disturb equilibrium?",
+        "options": [
+            "Increase in temperature",
+            "Addition of catalyst",
+            "Increase in pressure",
+            "Addition of reactant"
+        ],
+        "answer": 1,
+        "explanation": "Catalyst does not alter equilibrium position."
+    },
+    {
+        "id": 132,
+        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C+D}$, $K_c=1$. Initially $[A]=[B]=[C]=[D]=1$ M. The reaction quotient $Q$ is:",
+        "options": [
+            "0.25",
+            "0.5",
+            "1",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "$Q=[C,D]/([A,B])=1$, equal to $K$."
+    },
+    {
+        "id": 133,
+        "question": "For equilibrium $\\mathrm{NH_3(g)+H_2O(l) \\rightleftharpoons NH_4^+(aq)+OH^-(aq)}$, which species is not included in equilibrium expression?",
+        "options": [
+            "$NH_3$",
+            "$NH_4^+$",
+            "$OH^-$",
+            "$H_2O$"
+        ],
+        "answer": 3,
+        "explanation": "Pure liquids have unit activity and are omitted."
+    },
+    {
+        "id": 134,
+        "question": "If equilibrium constant of a reaction is independent of pressure, then the reaction must have:",
+        "options": [
+            "$Δn=0$",
+            "$ΔH=0$",
+            "Equal concentrations",
+            "Equal rates always"
+        ],
+        "answer": 0,
+        "explanation": "Pressure affects equilibria only when $Δn≠0$."
+    },
+    {
+        "id": 135,
+        "question": "For reaction $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, if initially only A is present, then at equilibrium:",
+        "options": [
+            "$[A]=[B]$",
+            "$[A]>[B]$",
+            "$[A]<[B]$",
+            "Only B is present"
+        ],
+        "answer": 1,
+        "explanation": "Stoichiometry requires some A to remain unless $K$ is extremely large."
+    },
+    {
+        "id": 136,
+        "question": "For equilibrium $\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$, if temperature is increased:",
+        "options": [
+            "$K_p$ decreases",
+            "$K_p$ increases",
+            "$K_p$ unchanged",
+            "Reaction stops"
+        ],
+        "answer": 1,
+        "explanation": "Decomposition is endothermic; higher temperature increases $K_p$."
+    },
+    {
+        "id": 137,
+        "question": "For a reaction with $ΔG°<0$ but $K$ is small at room temperature, which statement is correct?",
+        "options": [
+            "Reaction is impossible",
+            "Reaction is spontaneous but equilibrium favors reactants",
+            "Reaction is non-spontaneous",
+            "Reaction is irreversible"
+        ],
+        "answer": 1,
+        "explanation": "Negative $ΔG°$ implies spontaneity, but small $K$ means limited extent."
+    },
+    {
+        "id": 138,
+        "question": "For equilibrium $\\mathrm{A(g)+B(g) \\rightleftharpoons C(g)}$, increasing pressure will shift equilibrium to the right only if:",
+        "options": [
+            "Reaction is endothermic",
+            "$Δn<0$",
+            "$ΔH<0$",
+            "$K>1$"
+        ],
+        "answer": 1,
+        "explanation": "Pressure favors the side with fewer moles; here $Δn=-1$."
+    },
+    {
+        "id": 139,
+        "question": "For a reaction, if $K_p$ is very large, then:",
+        "options": [
+            "$ΔG°$ is large and positive",
+            "$ΔG°$ is zero",
+            "$ΔG°$ is large and negative",
+            "Reaction is slow"
+        ],
+        "answer": 2,
+        "explanation": "$ΔG°=-RT\\ln K_p$; large $K_p$ gives large negative $ΔG°$."
+    },
+    {
+        "id": 140,
+        "question": "For equilibrium $\\mathrm{2SO_2(g)+O_2(g) \\rightleftharpoons 2SO_3(g)}$, addition of inert gas at constant pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Change $K$"
+        ],
+        "answer": 1,
+        "explanation": "At constant pressure, volume increases favoring side with more moles (reactants)."
+    },
+    {
+        "id": 141,
+        "question": "For a reaction, if $K=1$ at all temperatures, which statement is correct?",
+        "options": [
+            "$ΔH°=0$",
+            "$ΔS°=0$",
+            "$ΔG°=0$ at all temperatures",
+            "Reaction is slow"
+        ],
+        "answer": 2,
+        "explanation": "$K=1$ implies $ΔG°=0$ at that temperature; if true for all T, $ΔG°=0$ always."
+    },
+    {
+        "id": 142,
+        "question": "For equilibrium $\\mathrm{2HI(g) \\rightleftharpoons H_2(g)+I_2(g)}$, which change increases dissociation of HI?",
+        "options": [
+            "Increase pressure",
+            "Decrease temperature",
+            "Decrease pressure",
+            "Add catalyst"
+        ],
+        "answer": 2,
+        "explanation": "More moles on right side; low pressure favors dissociation."
+    },
+    {
+        "id": 143,
+        "question": "For a reaction mixture at equilibrium, which of the following is minimum?",
+        "options": [
+            "$ΔH$",
+            "$ΔS$",
+            "$ΔG$",
+            "Reaction rate"
+        ],
+        "answer": 2,
+        "explanation": "Gibbs free energy is minimum at equilibrium."
+    },
+    {
+        "id": 144,
+        "question": "For equilibrium $\\mathrm{A(g) \\rightleftharpoons B(g)}$, doubling pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "Have no effect",
+            "Change $K$"
+        ],
+        "answer": 2,
+        "explanation": "Equal moles on both sides; pressure has no effect."
+    },
+    {
+        "id": 145,
+        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C}$, if $K_c=0.01$, which is correct?",
+        "options": [
+            "Products dominate",
+            "Reactants dominate",
+            "Reaction is complete",
+            "Reaction is irreversible"
+        ],
+        "answer": 1,
+        "explanation": "Small $K_c$ indicates equilibrium lies towards reactants."
+    },
+    {
+        "id": 146,
+        "question": "For equilibrium $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, increasing temperature will:",
+        "options": [
+            "Increase $N_2O_4$",
+            "Increase $NO_2$",
+            "No change",
+            "Make $K=1$"
+        ],
+        "answer": 1,
+        "explanation": "Dimerization is exothermic; higher temperature favors dissociation."
+    },
+    {
+        "id": 147,
+        "question": "If reaction quotient $Q<K$, then:",
+        "options": [
+            "Reaction shifts backward",
+            "Reaction shifts forward",
+            "System is at equilibrium",
+            "Reaction stops"
+        ],
+        "answer": 1,
+        "explanation": "When $Q<K$, reaction proceeds forward to reach equilibrium."
+    },
+    {
+        "id": 148,
+        "question": "For a reaction, if $ΔH°=0$ but $ΔS°>0$, then:",
+        "options": [
+            "$K$ decreases with temperature",
+            "$K$ increases with temperature",
+            "$K$ independent of temperature",
+            "$K=1$ always"
+        ],
+        "answer": 2,
+        "explanation": "From van’t Hoff equation, if $ΔH°=0$, $K$ does not depend on temperature."
+    },
+    {
+        "id": 149,
+        "question": "For equilibrium $\\mathrm{NH_3(g)+HCl(g) \\rightleftharpoons NH_4Cl(s)}$, the equilibrium constant expression is:",
+        "options": [
+            "$[NH_3,HCl]$",
+            "$1/[NH_3,HCl]$",
+            "$[NH_4Cl]/[NH_3,HCl]$",
+            "$[NH_3]/[HCl]$"
+        ],
+        "answer": 1,
+        "explanation": "Solid is omitted; $K=1/([NH_3,HCl])$."
+    },
+    {
+        "id": 150,
+        "question": "Which of the following indicates maximum tendency of reaction to proceed forward?",
+        "options": [
+            "Large positive $ΔG°$",
+            "Large negative $ΔG°$",
+            "Small $K$",
+            "$K<1$"
+        ],
+        "answer": 1,
+        "explanation": "Large negative $ΔG°$ indicates strong spontaneity."
+    },
+    {
+        "id": 151,
+        "question": "For equilibrium $\\mathrm{A(g)+2B(g) \\rightleftharpoons C(g)}$, decreasing pressure will:",
+        "options": [
+            "Shift right",
+            "Shift left",
+            "No effect",
+            "Change $K$"
+        ],
+        "answer": 1,
+        "explanation": "More moles on reactant side; low pressure favors reactants."
+    },
+    {
+        "id": 152,
+        "question": "For a reaction at equilibrium, which of the following is true?",
+        "options": [
+            "Concentrations are equal",
+            "Rates are zero",
+            "Rates of forward and backward reactions are equal",
+            "Reaction stops"
+        ],
+        "answer": 2,
+        "explanation": "Equilibrium is dynamic with equal forward and backward rates."
+    },
+    {
+        "id": 153,
+        "question": "For equilibrium $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, if $K_c$ is very large, then at equilibrium:",
+        "options": [
+            "Mostly A present",
+            "Mostly B present",
+            "Equal A and B",
+            "Only A present"
+        ],
+        "answer": 1,
+        "explanation": "Large $K_c$ favors product side."
+    },
+    {
+        "id": 154,
+        "question": "For a reaction, which change alters both equilibrium position and equilibrium constant?",
+        "options": [
+            "Pressure change",
+            "Concentration change",
+            "Catalyst addition",
+            "Temperature change"
+        ],
+        "answer": 3,
+        "explanation": "Only temperature affects the value of equilibrium constant."
+    },
+    {
+        "id": 155,
+        "question": "For equilibrium $\\mathrm{A(g) \\rightleftharpoons B(g)}$, if $K_p=4$ at 300 K, then $ΔG°$ is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Cannot be predicted"
+        ],
+        "answer": 1,
+        "explanation": "$ΔG°=-RT\\ln K_p$; since $K_p>1$, $ΔG°<0$."
+    },
+    {
+        "id": 156,
+        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C+D}$, if $Δn=0$, which is correct?",
+        "options": [
+            "$K_p=K_c$",
+            "$K_p>K_c$",
+            "$K_p<K_c$",
+            "$K_p$ undefined"
+        ],
+        "answer": 0,
+        "explanation": "When $Δn=0$, $K_p=K_c$."
+    },
+    {
+        "id": 157,
+        "question": "For equilibrium $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, if pressure is doubled at constant temperature, the equilibrium constant:",
+        "options": [
+            "Doubles",
+            "Halves",
+            "Remains unchanged",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Equilibrium constant depends only on temperature."
+    },
+    {
+        "id": 158,
+        "question": "Which of the following best indicates direction of reaction at any instant?",
+        "options": [
+            "$K$",
+            "$ΔG°$",
+            "$Q$",
+            "$ΔH$"
+        ],
+        "answer": 2,
+        "explanation": "Reaction quotient $Q$ compared with $K$ indicates direction."
+    },
+    {
+        "id": 159,
+        "question": "For a reaction, if $Q>K$, then $ΔG$ is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Minimum"
+        ],
+        "answer": 1,
+        "explanation": "When $Q>K$, reaction proceeds backward and $ΔG>0$ for forward direction."
+    },
+    {
+        "id": 160,
+        "question": "For equilibrium $\\mathrm{CO(g)+H_2O(g) \\rightleftharpoons CO_2(g)+H_2(g)}$, which statement is correct?",
+        "options": [
+            "Pressure affects equilibrium position",
+            "Temperature affects equilibrium constant",
+            "Catalyst changes equilibrium composition",
+            "Initial concentrations fix equilibrium"
+        ],
+        "answer": 1,
+        "explanation": "Only temperature affects equilibrium constant."
+    }
+]

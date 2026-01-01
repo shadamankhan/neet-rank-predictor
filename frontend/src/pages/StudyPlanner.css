@@ -1,0 +1,411 @@
+/* StudyPlanner.css */
+
+/* --- Layout & Container --- */
+.study-planner-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* --- Main Card --- */
+.planner-card {
+    background: #ffffff;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.08);
+    /* Softer, deeper shadow */
+    padding: 3rem;
+    border: 1px solid rgba(226, 232, 240, 0.8);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Header Decoration */
+.planner-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 6px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6, #ec4899);
+}
+
+.planner-card h2 {
+    font-size: 2rem;
+    font-weight: 800;
+    background: linear-gradient(to right, #1e293b, #475569);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+}
+
+.planner-card p {
+    font-size: 1.1rem;
+    color: #64748b;
+}
+
+/* --- Form Grid --- */
+.planner-form-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 2.5rem 0;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.input-group label {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #475569;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+.input-group input,
+.input-group select {
+    padding: 0.85rem 1rem;
+    border: 2px solid #e2e8f0;
+    border-radius: 12px;
+    font-size: 1rem;
+    color: #1e293b;
+    background: #f8fafc;
+    transition: all 0.2s ease;
+    outline: none;
+}
+
+.input-group input:focus,
+.input-group select:focus {
+    border-color: #3b82f6;
+    background: #fff;
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
+}
+
+/* --- Syllabus Grid --- */
+.syllabus-selector-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.subject-column {
+    background: #fff;
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    overflow: hidden;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.subject-column:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 24px -10px rgba(0, 0, 0, 0.1);
+}
+
+.subject-title {
+    padding: 1rem 1.5rem;
+    font-weight: 700;
+    color: #fff;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+
+/* Subject Theming */
+.subject-column:nth-child(1) .subject-title {
+    background: linear-gradient(135deg, #3b82f6, #2563eb);
+}
+
+/* Physics */
+.subject-column:nth-child(2) .subject-title {
+    background: linear-gradient(135deg, #f59e0b, #d97706);
+}
+
+/* Chemistry */
+.subject-column:nth-child(3) .subject-title {
+    background: linear-gradient(135deg, #10b981, #059669);
+}
+
+/* Biology */
+
+.chapter-container {
+    padding: 1rem 1.5rem;
+}
+
+.class-header {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #94a3b8;
+    margin-bottom: 0.75rem;
+    letter-spacing: 0.05em;
+}
+
+.chapter-checkbox-list {
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: 0.5rem;
+}
+
+/* Custom Scrollbar */
+.chapter-checkbox-list::-webkit-scrollbar {
+    width: 4px;
+}
+
+.chapter-checkbox-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.chapter-checkbox-list::-webkit-scrollbar-thumb {
+    background-color: #cbd5e1;
+    border-radius: 10px;
+}
+
+.chapter-item {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.6rem 0.8rem;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+    margin-bottom: 4px;
+    border: 1px solid transparent;
+}
+
+.chapter-item:hover {
+    background: #f1f5f9;
+}
+
+.chapter-item[data-selected="true"] {
+    background: #eff6ff;
+    border-color: #bfdbfe;
+}
+
+.chapter-item input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    accent-color: #2563eb;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.chapter-label {
+    font-size: 0.95rem;
+    color: #334155;
+    flex-grow: 1;
+    font-weight: 500;
+}
+
+.chapter-weight {
+    font-size: 0.65rem;
+    padding: 3px 8px;
+    border-radius: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.weight-High {
+    background: #fee2e2;
+    color: #b91c1c;
+}
+
+.weight-Medium {
+    background: #ffedd5;
+    color: #c2410c;
+}
+
+.weight-Low {
+    background: #dcfce7;
+    color: #15803d;
+}
+
+/* --- Generate Button --- */
+.generate-btn {
+    width: 100%;
+    padding: 1.2rem;
+    background: linear-gradient(135deg, #2563eb 0%, #1d4ed8 100%);
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.3);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.generate-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.4);
+}
+
+.generate-btn:active {
+    transform: translateY(0);
+}
+
+/* --- Plan Results --- */
+.plan-results {
+    margin-top: 3rem;
+    animation: slideUp 0.5s ease-out;
+}
+
+@keyframes slideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.plan-header {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.plan-header h3 {
+    font-size: 2.2rem;
+    font-weight: 800;
+    color: #1e293b;
+    margin: 1rem 0;
+}
+
+/* --- Timeline --- */
+.timeline-container {
+    position: relative;
+    padding-left: 2rem;
+}
+
+.timeline-container::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #e2e8f0;
+    border-radius: 2px;
+}
+
+.week-plan-card {
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #f1f5f9;
+    margin-bottom: 2rem;
+    position: relative;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s;
+}
+
+.week-plan-card:hover {
+    transform: translateX(10px);
+    border-color: #cbd5e1;
+}
+
+/* Connector Dot */
+.week-plan-card::after {
+    content: '';
+    position: absolute;
+    left: -2.45rem;
+    top: 2rem;
+    width: 16px;
+    height: 16px;
+    background: #3b82f6;
+    border: 4px solid #eff6ff;
+    border-radius: 50%;
+    box-shadow: 0 0 0 2px #3b82f6;
+}
+
+.week-header {
+    background: linear-gradient(to right, #f8fafc, #ffffff);
+    padding: 1rem 1.5rem;
+    border-bottom: 1px solid #f1f5f9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.week-number {
+    font-size: 1.1rem;
+    font-weight: 800;
+    color: #334155;
+}
+
+.week-focus-tag {
+    background: #eff6ff;
+    color: #2563eb;
+    padding: 0.4rem 0.8rem;
+    border-radius: 8px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    border: 1px solid #bfdbfe;
+}
+
+.week-body {
+    padding: 1.5rem;
+}
+
+/* Task Tags */
+.task-tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background: #fff;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    color: #475569;
+    margin-right: 0.75rem;
+    margin-bottom: 0.75rem;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s;
+}
+
+.task-tag.priority {
+    background: #f0fdf4;
+    border-color: #bbf7d0;
+    color: #166534;
+}
+
+.task-tag.priority b {
+    color: #15803d;
+    margin-right: 6px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .planner-card {
+        padding: 1.5rem;
+    }
+
+    .timeline-container {
+        padding-left: 0.5rem;
+    }
+
+    .timeline-container::before {
+        display: none;
+    }
+
+    .week-plan-card::after {
+        display: none;
+    }
+
+    .week-plan-card:hover {
+        transform: none;
+    }
+}

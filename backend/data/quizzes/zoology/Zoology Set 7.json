@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which phylum shows radial symmetry, diploblastic organisation and presence of mesoglea?",
+        "options": [
+            "Porifera",
+            "Cnidaria",
+            "Platyhelminthes",
+            "Echinodermata"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cnidarians are diploblastic, radially symmetrical and possess mesoglea."
+    },
+    {
+        "id": 2,
+        "question": "Which cell junction prevents leakage of substances across epithelium?",
+        "options": [
+            "Adhering junctions",
+            "Tight junctions",
+            "Gap junctions",
+            "Desmosomes"
+        ],
+        "answer": 1,
+        "explanation": "Tight junctions prevent leakage of substances across epithelial layers as per NCERT."
+    },
+    {
+        "id": 3,
+        "question": "Which enzyme converts proteins into proteoses and peptones?",
+        "options": [
+            "Trypsin",
+            "Pepsin",
+            "Chymotrypsin",
+            "Carboxypeptidase"
+        ],
+        "answer": 1,
+        "explanation": "Pepsin converts proteins into proteoses and peptones according to NCERT."
+    },
+    {
+        "id": 4,
+        "question": "Which respiratory structure is present in fishes?",
+        "options": [
+            "Lungs",
+            "Tracheae",
+            "Gills",
+            "Skin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states fishes respire through gills."
+    },
+    {
+        "id": 5,
+        "question": "Which blood component forms fibrin during clotting?",
+        "options": [
+            "Fibrinogen",
+            "Prothrombin",
+            "Platelets",
+            "Calcium ions"
+        ],
+        "answer": 0,
+        "explanation": "Fibrinogen is converted into fibrin during blood clotting as per NCERT."
+    },
+    {
+        "id": 6,
+        "question": "Which nitrogenous waste is excreted by reptiles?",
+        "options": [
+            "Ammonia",
+            "Urea",
+            "Uric acid",
+            "Creatinine"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states reptiles are uricotelic and excrete uric acid."
+    },
+    {
+        "id": 7,
+        "question": "Which protein covers the active sites of actin during muscle relaxation?",
+        "options": [
+            "Troponin",
+            "Tropomyosin",
+            "Myosin",
+            "Actinin"
+        ],
+        "answer": 1,
+        "explanation": "Tropomyosin covers active sites on actin during muscle relaxation as per NCERT."
+    },
+    {
+        "id": 8,
+        "question": "Which part of brain controls intelligence, memory and reasoning?",
+        "options": [
+            "Cerebellum",
+            "Medulla oblongata",
+            "Cerebrum",
+            "Hypothalamus"
+        ],
+        "answer": 2,
+        "explanation": "Cerebrum controls intelligence, memory and reasoning according to NCERT."
+    },
+    {
+        "id": 9,
+        "question": "Which hormone stimulates milk synthesis in mammary glands?",
+        "options": [
+            "Oxytocin",
+            "Prolactin",
+            "Estrogen",
+            "Progesterone"
+        ],
+        "answer": 1,
+        "explanation": "Prolactin stimulates milk synthesis as per NCERT."
+    },
+    {
+        "id": 10,
+        "question": "Which organism shows oogamous reproduction?",
+        "options": [
+            "Chlamydomonas",
+            "Volvox",
+            "Spirogyra",
+            "Ulothrix"
+        ],
+        "answer": 1,
+        "explanation": "Volvox shows oogamous reproduction according to NCERT."
+    },
+    {
+        "id": 11,
+        "question": "Which hormone is secreted by placenta?",
+        "options": [
+            "Progesterone",
+            "hCG",
+            "Estrogen",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Placenta secretes progesterone, estrogen and hCG as stated in NCERT."
+    },
+    {
+        "id": 12,
+        "question": "Which assisted reproductive technique involves transfer of embryos into uterus?",
+        "options": [
+            "GIFT",
+            "ZIFT",
+            "IVF-ET",
+            "ICSI"
+        ],
+        "answer": 2,
+        "explanation": "In IVF-ET, embryos are transferred into uterus as per NCERT."
+    },
+    {
+        "id": 13,
+        "question": "Which inheritance pattern is shown by ABO blood group system?",
+        "options": [
+            "Incomplete dominance",
+            "Polygenic inheritance",
+            "Codominance",
+            "Epistasis"
+        ],
+        "answer": 3,
+        "explanation": "ABO blood group system shows multiple alleles with codominance and epistasis as per NCERT."
+    },
+    {
+        "id": 14,
+        "question": "Which enzyme synthesises RNA primer during DNA replication?",
+        "options": [
+            "Helicase",
+            "Primase",
+            "Ligase",
+            "Polymerase III"
+        ],
+        "answer": 1,
+        "explanation": "Primase synthesises RNA primer during DNA replication as stated in NCERT."
+    },
+    {
+        "id": 15,
+        "question": "Which nitrogenous base is present only in DNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Cytosine",
+            "Thymine"
+        ],
+        "answer": 3,
+        "explanation": "Thymine is present only in DNA as per NCERT."
+    },
+    {
+        "id": 16,
+        "question": "Which hominid was first to use language?",
+        "options": [
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens",
+            "Australopithecus"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Homo sapiens developed language."
+    },
+    {
+        "id": 17,
+        "question": "Which immunity involves transfer of antibodies through placenta?",
+        "options": [
+            "Natural active",
+            "Natural passive",
+            "Artificial active",
+            "Artificial passive"
+        ],
+        "answer": 1,
+        "explanation": "Maternal antibodies transferred through placenta provide natural passive immunity."
+    },
+    {
+        "id": 18,
+        "question": "Which microbe is used for production of citric acid?",
+        "options": [
+            "Saccharomyces",
+            "Aspergillus niger",
+            "Penicillium",
+            "Rhizopus"
+        ],
+        "answer": 1,
+        "explanation": "Aspergillus niger is used for commercial production of citric acid as per NCERT."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme seals nicks in DNA backbone during replication?",
+        "options": [
+            "Helicase",
+            "Primase",
+            "DNA ligase",
+            "Topoisomerase"
+        ],
+        "answer": 2,
+        "explanation": "DNA ligase seals nicks in DNA backbone as stated in NCERT."
+    },
+    {
+        "id": 20,
+        "question": "Which population interaction benefits one species and harms the other?",
+        "options": [
+            "Mutualism",
+            "Commensalism",
+            "Parasitism",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "In parasitism one species benefits while the other is harmed according to NCERT."
+    },
+    {
+        "id": 21,
+        "question": "Which ecological pyramid represents flow of energy?",
+        "options": [
+            "Pyramid of number",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "All of these"
+        ],
+        "answer": 2,
+        "explanation": "Pyramid of energy represents flow of energy as per NCERT."
+    },
+    {
+        "id": 22,
+        "question": "Which region has maximum biodiversity on Earth?",
+        "options": [
+            "Temperate region",
+            "Polar region",
+            "Tropical region",
+            "Desert region"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states tropical regions have maximum biodiversity."
+    },
+    {
+        "id": 23,
+        "question": "Which connective tissue forms framework of bones?",
+        "options": [
+            "Cartilage",
+            "Bone",
+            "Areolar tissue",
+            "Adipose tissue"
+        ],
+        "answer": 1,
+        "explanation": "Bone forms the framework of the body as per NCERT."
+    },
+    {
+        "id": 24,
+        "question": "Which hormone stimulates uterine contraction during parturition?",
+        "options": [
+            "Prolactin",
+            "Oxytocin",
+            "Estrogen",
+            "Progesterone"
+        ],
+        "answer": 1,
+        "explanation": "Oxytocin stimulates uterine contraction during parturition as stated in NCERT."
+    },
+    {
+        "id": 25,
+        "question": "Which part of oviduct is funnel shaped?",
+        "options": [
+            "Ampulla",
+            "Infundibulum",
+            "Isthmus",
+            "Uterus"
+        ],
+        "answer": 1,
+        "explanation": "Infundibulum is funnel shaped as per NCERT."
+    },
+    {
+        "id": 26,
+        "question": "Which chromosomal disorder is caused by trisomy of chromosome 18?",
+        "options": [
+            "Down syndrome",
+            "Edward syndrome",
+            "Turner syndrome",
+            "Klinefelter syndrome"
+        ],
+        "answer": 1,
+        "explanation": "Edward syndrome is caused by trisomy of chromosome 18 according to NCERT."
+    },
+    {
+        "id": 27,
+        "question": "Which RNA is synthesised during transcription?",
+        "options": [
+            "DNA",
+            "mRNA",
+            "Protein",
+            "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "mRNA is synthesised during transcription as per NCERT."
+    },
+    {
+        "id": 28,
+        "question": "Which evolutionary process results in speciation due to geographic isolation?",
+        "options": [
+            "Sympatric speciation",
+            "Allopatric speciation",
+            "Convergent evolution",
+            "Adaptive radiation"
+        ],
+        "answer": 1,
+        "explanation": "Allopatric speciation occurs due to geographic isolation as stated in NCERT."
+    },
+    {
+        "id": 29,
+        "question": "Which disease is caused by Mycobacterium tuberculosis?",
+        "options": [
+            "Typhoid",
+            "Cholera",
+            "Tuberculosis",
+            "Plague"
+        ],
+        "answer": 2,
+        "explanation": "Mycobacterium tuberculosis causes tuberculosis according to NCERT."
+    },
+    {
+        "id": 30,
+        "question": "Which microbe is used for production of bread?",
+        "options": [
+            "Lactobacillus",
+            "Yeast",
+            "Penicillium",
+            "Rhizobium"
+        ],
+        "answer": 1,
+        "explanation": "Yeast is used in bread making as per NCERT."
+    },
+    {
+        "id": 31,
+        "question": "Which vector is used for cloning genes in plants?",
+        "options": [
+            "Plasmid pBR322",
+            "BAC",
+            "Ti plasmid",
+            "Cosmid"
+        ],
+        "answer": 2,
+        "explanation": "Ti plasmid is used as a vector for cloning genes in plants as per NCERT."
+    },
+    {
+        "id": 32,
+        "question": "Which population parameter refers to number of individuals added from outside?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 2,
+        "explanation": "Immigration refers to individuals entering a population according to NCERT."
+    },
+    {
+        "id": 33,
+        "question": "Which biome shows long dry season and scattered trees?",
+        "options": [
+            "Grassland",
+            "Savanna",
+            "Tundra",
+            "Taiga"
+        ],
+        "answer": 1,
+        "explanation": "Savanna biome has long dry season and scattered trees as per NCERT."
+    },
+    {
+        "id": 34,
+        "question": "Which conservation method involves protection of sacred groves?",
+        "options": [
+            "In situ conservation",
+            "Ex situ conservation",
+            "Cryopreservation",
+            "Seed bank"
+        ],
+        "answer": 0,
+        "explanation": "Sacred groves are examples of in situ conservation according to NCERT."
+    },
+    {
+        "id": 35,
+        "question": "Which hormone increases blood calcium level?",
+        "options": [
+            "Calcitonin",
+            "Parathormone",
+            "Thyroxine",
+            "Insulin"
+        ],
+        "answer": 1,
+        "explanation": "Parathormone increases blood calcium level as per NCERT."
+    },
+    {
+        "id": 36,
+        "question": "Which part of brain controls posture and balance?",
+        "options": [
+            "Cerebrum",
+            "Cerebellum",
+            "Medulla",
+            "Hypothalamus"
+        ],
+        "answer": 1,
+        "explanation": "Cerebellum controls posture and balance according to NCERT."
+    },
+    {
+        "id": 37,
+        "question": "Which extra embryonic membrane protects embryo from shock?",
+        "options": [
+            "Amnion",
+            "Chorion",
+            "Allantois",
+            "Yolk sac"
+        ],
+        "answer": 0,
+        "explanation": "Amnion protects embryo from shock as per NCERT."
+    },
+    {
+        "id": 38,
+        "question": "Which inheritance pattern involves multiple genes affecting a single trait?",
+        "options": [
+            "Pleiotropy",
+            "Epistasis",
+            "Polygenic inheritance",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "Polygenic inheritance involves multiple genes affecting one trait according to NCERT."
+    },
+    {
+        "id": 39,
+        "question": "Which RNA molecule is shortest?",
+        "options": [
+            "mRNA",
+            "tRNA",
+            "rRNA",
+            "hnRNA"
+        ],
+        "answer": 1,
+        "explanation": "tRNA is the shortest RNA molecule as stated in NCERT."
+    },
+    {
+        "id": 40,
+        "question": "Which evolutionary theory was proposed by Charles Darwin?",
+        "options": [
+            "Mutation theory",
+            "Theory of acquired characters",
+            "Theory of natural selection",
+            "Pangenesis"
+        ],
+        "answer": 2,
+        "explanation": "Charles Darwin proposed the theory of natural selection according to NCERT."
+    },
+    {
+        "id": 41,
+        "question": "Which disease is transmitted by female Culex mosquito?",
+        "options": [
+            "Dengue",
+            "Filariasis",
+            "Malaria",
+            "Chikungunya"
+        ],
+        "answer": 1,
+        "explanation": "Female Culex mosquito transmits filariasis as per NCERT."
+    },
+    {
+        "id": 42,
+        "question": "Which microbe is used for production of bioactive molecules cyclosporin A?",
+        "options": [
+            "Trichoderma polysporum",
+            "Penicillium",
+            "Aspergillus",
+            "Rhizopus"
+        ],
+        "answer": 0,
+        "explanation": "Trichoderma polysporum produces cyclosporin A as per NCERT."
+    },
+    {
+        "id": 43,
+        "question": "Which step in biotechnology involves joining of DNA fragments?",
+        "options": [
+            "Transformation",
+            "Restriction digestion",
+            "Ligation",
+            "PCR"
+        ],
+        "answer": 2,
+        "explanation": "Ligation joins DNA fragments to form recombinant DNA as stated in NCERT."
+    },
+    {
+        "id": 44,
+        "question": "Which population interaction harms both species involved?",
+        "options": [
+            "Mutualism",
+            "Parasitism",
+            "Competition",
+            "Commensalism"
+        ],
+        "answer": 2,
+        "explanation": "Competition harms both interacting species according to NCERT."
+    },
+    {
+        "id": 45,
+        "question": "Which nutrient cycle is gaseous?",
+        "options": [
+            "Phosphorus cycle",
+            "Nitrogen cycle",
+            "Sulphur cycle",
+            "Both nitrogen and sulphur"
+        ],
+        "answer": 3,
+        "explanation": "Nitrogen and sulphur cycles have gaseous phases as per NCERT."
+    },
+    {
+        "id": 46,
+        "question": "Which Indian act is related to biodiversity conservation?",
+        "options": [
+            "Wildlife Protection Act",
+            "Environment Protection Act",
+            "Biodiversity Act",
+            "Forest Act"
+        ],
+        "answer": 2,
+        "explanation": "Biodiversity Act is related to conservation of biodiversity in India according to NCERT."
+    },
+    {
+        "id": 47,
+        "question": "Which bone forms the pelvic girdle?",
+        "options": [
+            "Ilium",
+            "Femur",
+            "Tibia",
+            "Radius"
+        ],
+        "answer": 0,
+        "explanation": "Ilium is part of pelvic girdle as per NCERT."
+    },
+    {
+        "id": 48,
+        "question": "Which hormone inhibits ovulation during pregnancy?",
+        "options": [
+            "Estrogen",
+            "Progesterone",
+            "FSH",
+            "LH"
+        ],
+        "answer": 1,
+        "explanation": "Progesterone inhibits ovulation during pregnancy as stated in NCERT."
+    },
+    {
+        "id": 49,
+        "question": "Which structure blocks polyspermy by cortical reaction?",
+        "options": [
+            "Zona pellucida",
+            "Corona radiata",
+            "Acrosome",
+            "Vitelline membrane"
+        ],
+        "answer": 0,
+        "explanation": "Zona pellucida undergoes changes to prevent polyspermy according to NCERT."
+    },
+    {
+        "id": 50,
+        "question": "Which environmental issue is caused by accumulation of toxic substances in food chain?",
+        "options": [
+            "Eutrophication",
+            "Biomagnification",
+            "Global warming",
+            "Acid rain"
+        ],
+        "answer": 1,
+        "explanation": "Accumulation of toxic substances in food chain leads to biomagnification as per NCERT."
+    }
+]

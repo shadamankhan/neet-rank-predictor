@@ -1,0 +1,5420 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following quantities can be zero even when the particle is in motion?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Distance travelled",
+            "Time interval"
+        ],
+        "answer": 1,
+        "explanation": "Velocity can be zero when average displacement is zero even though motion has occurred, as per NCERT definition."
+    },
+    {
+        "id": 2,
+        "question": "A particle moves along a straight line. Which of the following statements is correct?",
+        "options": [
+            "Speed is always equal to magnitude of velocity",
+            "Speed can be negative",
+            "Velocity can change without change in speed",
+            "Distance can be zero for a moving particle"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on direction; speed does not. Change in direction changes velocity without changing speed."
+    },
+    {
+        "id": 3,
+        "question": "The slope of displacement–time graph of a particle represents its:",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of displacement–time graph gives velocity according to NCERT."
+    },
+    {
+        "id": 4,
+        "question": "The area under velocity–time graph represents:",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Displacement",
+            "Distance always"
+        ],
+        "answer": 2,
+        "explanation": "Area under velocity–time graph gives displacement; distance only if velocity does not change sign."
+    },
+    {
+        "id": 5,
+        "question": "If a body covers equal distances in equal intervals of time, its motion is:",
+        "options": [
+            "Uniformly accelerated",
+            "Uniform",
+            "Non-uniform",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Equal distances in equal time intervals defines uniform motion (NCERT)."
+    },
+    {
+        "id": 6,
+        "question": "Which of the following is a vector quantity?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Displacement",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Displacement has both magnitude and direction."
+    },
+    {
+        "id": 7,
+        "question": "A particle returns to its initial position after moving along a straight line. Its displacement is:",
+        "options": [
+            "Equal to distance travelled",
+            "Zero",
+            "Maximum",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "Displacement depends only on initial and final positions; here both are same."
+    },
+    {
+        "id": 8,
+        "question": "Average velocity is defined as:",
+        "options": [
+            "Total distance / total time",
+            "Instantaneous velocity at midpoint",
+            "Total displacement / total time",
+            "Arithmetic mean of velocities"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines average velocity as total displacement divided by total time."
+    },
+    {
+        "id": 9,
+        "question": "The SI unit of acceleration is:",
+        "options": [
+            "m s",
+            "m s⁻¹",
+            "m s⁻²",
+            "kg m s⁻²"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration is change in velocity per unit time; SI unit is m s⁻²."
+    },
+    {
+        "id": 10,
+        "question": "Instantaneous velocity is defined as:",
+        "options": [
+            "Velocity at start of motion",
+            "Average velocity over small interval",
+            "Limit of average velocity as Δt → 0",
+            "Slope of velocity–time graph"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines instantaneous velocity as the limiting value of average velocity as time interval approaches zero."
+    },
+    {
+        "id": 11,
+        "question": "The slope of velocity–time graph gives:",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph represents acceleration."
+    },
+    {
+        "id": 12,
+        "question": "A body is said to have uniform acceleration if:",
+        "options": [
+            "Velocity is constant",
+            "Acceleration is zero",
+            "Velocity changes by equal amounts in equal intervals of time",
+            "Speed remains constant"
+        ],
+        "answer": 2,
+        "explanation": "Uniform acceleration means equal change in velocity in equal time intervals."
+    },
+    {
+        "id": 13,
+        "question": "Which equation of motion is independent of time?",
+        "options": [
+            "v = u + at",
+            "s = ut + 1/2 at²",
+            "v² = u² + 2as",
+            "s = (u + v)t/2"
+        ],
+        "answer": 2,
+        "explanation": "v² = u² + 2as does not contain time explicitly."
+    },
+    {
+        "id": 14,
+        "question": "If acceleration is negative and velocity is positive, the motion is:",
+        "options": [
+            "Uniform",
+            "Accelerated",
+            "Decelerated",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Negative acceleration opposite to velocity reduces speed (retardation)."
+    },
+    {
+        "id": 15,
+        "question": "A freely falling body near Earth has acceleration equal to:",
+        "options": [
+            "Zero",
+            "9.8 m s⁻² downward",
+            "9.8 m s⁻² upward",
+            "Variable"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration due to gravity near Earth is constant and downward."
+    },
+    {
+        "id": 16,
+        "question": "The motion of a freely falling body is an example of:",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Non-uniform acceleration",
+            "Circular motion"
+        ],
+        "answer": 1,
+        "explanation": "Free fall has constant acceleration g."
+    },
+    {
+        "id": 17,
+        "question": "Which of the following graphs represents uniform velocity?",
+        "options": [
+            "Straight line s–t graph with slope changing",
+            "Horizontal v–t graph",
+            "Curved v–t graph",
+            "Sloping a–t graph"
+        ],
+        "answer": 1,
+        "explanation": "Constant velocity corresponds to horizontal line in velocity–time graph."
+    },
+    {
+        "id": 18,
+        "question": "If displacement–time graph is a straight line parallel to time axis, the particle is:",
+        "options": [
+            "At rest",
+            "In uniform motion",
+            "Uniformly accelerated",
+            "Moving with variable speed"
+        ],
+        "answer": 0,
+        "explanation": "No change in displacement with time implies rest."
+    },
+    {
+        "id": 19,
+        "question": "The dimensional formula of acceleration is:",
+        "options": [
+            "[LT⁻¹]",
+            "[LT⁻²]",
+            "[L²T⁻¹]",
+            "[MT⁻²]"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration = change in velocity per unit time → LT⁻²."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is always positive or zero?",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance is a scalar and cannot be negative."
+    },
+    {
+        "id": 21,
+        "question": "The magnitude of average velocity can never be:",
+        "options": [
+            "Equal to average speed",
+            "Greater than average speed",
+            "Less than average speed",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Average speed ≥ magnitude of average velocity (NCERT)."
+    },
+    {
+        "id": 22,
+        "question": "For one-dimensional motion, which of the following quantities can be negative?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Displacement",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Displacement depends on chosen direction and can be negative."
+    },
+    {
+        "id": 23,
+        "question": "A car moves with constant speed but changing velocity. This is possible when:",
+        "options": [
+            "Motion is linear",
+            "Motion is circular",
+            "Acceleration is zero",
+            "Displacement is zero"
+        ],
+        "answer": 1,
+        "explanation": "In circular motion, direction changes continuously causing velocity change."
+    },
+    {
+        "id": 24,
+        "question": "The graphical method of determining displacement uses:",
+        "options": [
+            "Slope of v–t graph",
+            "Area under v–t graph",
+            "Slope of s–t graph",
+            "Area under s–t graph"
+        ],
+        "answer": 1,
+        "explanation": "Displacement equals area under velocity–time graph."
+    },
+    {
+        "id": 25,
+        "question": "Which equation of motion is applicable only for uniform acceleration?",
+        "options": [
+            "v = u + at",
+            "v = ds/dt",
+            "a = dv/dt",
+            "Speed = distance/time"
+        ],
+        "answer": 0,
+        "explanation": "v = u + at is derived assuming constant acceleration."
+    },
+    {
+        "id": 26,
+        "question": "The area under acceleration–time graph gives:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph gives change in velocity."
+    },
+    {
+        "id": 27,
+        "question": "If velocity of a particle is zero but acceleration is not zero, the particle is:",
+        "options": [
+            "At rest permanently",
+            "In uniform motion",
+            "Momentarily at rest",
+            "Moving with constant speed"
+        ],
+        "answer": 2,
+        "explanation": "At turning points, velocity is zero but acceleration can be non-zero."
+    },
+    {
+        "id": 28,
+        "question": "Which of the following is not an equation of motion?",
+        "options": [
+            "v = u + at",
+            "s = ut + at²",
+            "v² = u² + 2as",
+            "s = (u + v)t/2"
+        ],
+        "answer": 1,
+        "explanation": "Correct form is s = ut + 1/2 at²; missing factor 1/2."
+    },
+    {
+        "id": 29,
+        "question": "The velocity–time graph of a particle is a straight line with negative slope. The motion represents:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Uniform retardation",
+            "Variable acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Negative constant slope indicates uniform retardation."
+    },
+    {
+        "id": 30,
+        "question": "Which physical quantity is equal to the slope of position–time graph at any instant?",
+        "options": [
+            "Speed",
+            "Average velocity",
+            "Instantaneous velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Instantaneous velocity is slope of displacement–time graph at that instant."
+    },
+    {
+        "id": 31,
+        "question": "If acceleration of a body is zero, which of the following is true?",
+        "options": [
+            "Velocity must be zero",
+            "Velocity must be constant",
+            "Body must be at rest",
+            "Speed must increase"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity (may be zero or non-zero)."
+    },
+    {
+        "id": 32,
+        "question": "The distance travelled by a particle in one complete round of circular path of radius r is:",
+        "options": [
+            "2πr",
+            "πr²",
+            "4πr",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Distance equals circumference of circle."
+    },
+    {
+        "id": 33,
+        "question": "The displacement in one complete round of circular motion is:",
+        "options": [
+            "2πr",
+            "πr",
+            "Zero",
+            "r"
+        ],
+        "answer": 2,
+        "explanation": "Initial and final positions coincide, so displacement is zero."
+    },
+    {
+        "id": 34,
+        "question": "Which of the following graphs indicates increasing acceleration?",
+        "options": [
+            "Straight line v–t graph",
+            "Curved v–t graph with increasing slope",
+            "Horizontal v–t graph",
+            "Straight line a–t graph parallel to time axis"
+        ],
+        "answer": 1,
+        "explanation": "Increasing slope of v–t graph implies increasing acceleration."
+    },
+    {
+        "id": 35,
+        "question": "A particle moves along x-axis. Which of the following quantities does not depend on choice of origin?",
+        "options": [
+            "Position",
+            "Displacement",
+            "Distance",
+            "Velocity"
+        ],
+        "answer": 2,
+        "explanation": "Distance is independent of origin and direction."
+    },
+    {
+        "id": 36,
+        "question": "If displacement of a body is proportional to square of time, the acceleration of the body is:",
+        "options": [
+            "Constant",
+            "Increasing linearly with time",
+            "Decreasing with time",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "s ∝ t² implies uniform acceleration."
+    },
+    {
+        "id": 37,
+        "question": "Which of the following motions is not possible?",
+        "options": [
+            "Constant velocity with zero acceleration",
+            "Zero velocity with non-zero acceleration",
+            "Constant speed with changing velocity",
+            "Zero displacement with non-zero distance"
+        ],
+        "answer": 0,
+        "explanation": "Constant velocity implies zero acceleration, so statement is redundant; question tests NCERT logic—others are possible."
+    },
+    {
+        "id": 38,
+        "question": "The SI unit of displacement is:",
+        "options": [
+            "cm",
+            "m",
+            "km",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "SI unit of length and displacement is metre."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following quantities remains same in uniform circular motion?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant though velocity changes direction."
+    },
+    {
+        "id": 40,
+        "question": "If a particle has zero displacement, then which of the following must be zero?",
+        "options": [
+            "Distance",
+            "Speed",
+            "Average velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Zero displacement implies average velocity is zero."
+    },
+    {
+        "id": 41,
+        "question": "The acceleration of a particle moving with constant speed in a circular path is directed towards:",
+        "options": [
+            "Direction of motion",
+            "Centre of circle",
+            "Tangential direction",
+            "Outward normal"
+        ],
+        "answer": 1,
+        "explanation": "Centripetal acceleration is directed towards centre."
+    },
+    {
+        "id": 42,
+        "question": "A particle moves along a straight line with constant acceleration. Its velocity–time graph is:",
+        "options": [
+            "Parabola",
+            "Straight line",
+            "Hyperbola",
+            "Circle"
+        ],
+        "answer": 1,
+        "explanation": "Constant acceleration gives linear v–t graph."
+    },
+    {
+        "id": 43,
+        "question": "The magnitude of instantaneous velocity is equal to:",
+        "options": [
+            "Average speed always",
+            "Slope of s–t graph",
+            "Area under v–t graph",
+            "Slope of a–t graph"
+        ],
+        "answer": 1,
+        "explanation": "Instantaneous velocity equals slope of displacement–time graph."
+    },
+    {
+        "id": 44,
+        "question": "If velocity of a body increases linearly with time, the acceleration is:",
+        "options": [
+            "Variable",
+            "Constant",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "Linear increase of velocity implies constant acceleration."
+    },
+    {
+        "id": 45,
+        "question": "The motion of a body projected vertically upward is an example of:",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Circular motion"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration due to gravity is constant throughout motion."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following quantities has both magnitude and direction but does not obey vector addition laws?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Displacement",
+            "Speed"
+        ],
+        "answer": 3,
+        "explanation": "Speed has magnitude only; question tests NCERT distinction—speed is scalar."
+    },
+    {
+        "id": 47,
+        "question": "The displacement of a particle moving with uniform velocity is proportional to:",
+        "options": [
+            "t²",
+            "t",
+            "1/t",
+            "√t"
+        ],
+        "answer": 1,
+        "explanation": "For uniform velocity, s = vt."
+    },
+    {
+        "id": 48,
+        "question": "Which of the following quantities can be obtained from slope of velocity–time graph?",
+        "options": [
+            "Displacement",
+            "Distance",
+            "Acceleration",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph gives acceleration."
+    },
+    {
+        "id": 49,
+        "question": "A particle is said to be in accelerated motion if:",
+        "options": [
+            "Speed changes only",
+            "Velocity changes only",
+            "Direction changes only",
+            "Velocity changes in magnitude or direction or both"
+        ],
+        "answer": 3,
+        "explanation": "Acceleration is rate of change of velocity, including change in magnitude or direction."
+    },
+    {
+        "id": 50,
+        "question": "The distance travelled by a particle is equal to the magnitude of displacement when:",
+        "options": [
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Motion is along a straight line without change in direction",
+            "Motion is random"
+        ],
+        "answer": 2,
+        "explanation": "Distance equals displacement magnitude only when motion is along straight line without reversal."
+    }
+]
+```json
+[
+    {
+        "id": 51,
+        "question": "A particle moves along a straight line with velocity given by v = 3t^2 (in m s^-1). The acceleration of the particle at time t is:",
+        "options": [
+            "6t m s^-2",
+            "3t m s^-2",
+            "6t^2 m s^-2",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration a = dv/dt = d(3t^2)/dt = 6t."
+    },
+    {
+        "id": 52,
+        "question": "The displacement of a particle is given by s = 2t^3 − 3t^2 (in m). The velocity at time t is:",
+        "options": [
+            "6t^2 − 6t",
+            "6t − 6",
+            "4t^3 − 6t",
+            "2t^2 − 3t"
+        ],
+        "answer": 0,
+        "explanation": "Velocity v = ds/dt = 6t^2 − 6t."
+    },
+    {
+        "id": 53,
+        "question": "If v–t graph of a particle is a straight line parallel to time axis, then the particle has:",
+        "options": [
+            "Uniform acceleration",
+            "Zero acceleration",
+            "Increasing acceleration",
+            "Variable acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Parallel to time axis implies constant velocity, hence zero acceleration."
+    },
+    {
+        "id": 54,
+        "question": "A particle moves with uniform acceleration. The ratio of distances travelled in the 1st, 2nd and 3rd second is:",
+        "options": [
+            "1 : 2 : 3",
+            "1 : 3 : 5",
+            "1 : 4 : 9",
+            "1 : 1 : 1"
+        ],
+        "answer": 1,
+        "explanation": "For uniform acceleration, distances in successive seconds are in ratio of odd numbers 1:3:5."
+    },
+    {
+        "id": 55,
+        "question": "A body starts from rest and moves with uniform acceleration. Its velocity after covering distance s is proportional to:",
+        "options": [
+            "s",
+            "√s",
+            "1/s",
+            "s^2"
+        ],
+        "answer": 1,
+        "explanation": "From v^2 = 2as, v ∝ √s."
+    },
+    {
+        "id": 56,
+        "question": "Which of the following quantities is obtained by differentiating displacement with respect to time twice?",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Second derivative of displacement with respect to time gives acceleration."
+    },
+    {
+        "id": 57,
+        "question": "If acceleration of a particle is constant, which of the following graphs is a straight line?",
+        "options": [
+            "s–t",
+            "v–t",
+            "a–t with non-zero slope",
+            "s–v"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration, velocity varies linearly with time."
+    },
+    {
+        "id": 58,
+        "question": "A particle is projected vertically upward with velocity u. The time taken to reach maximum height is:",
+        "options": [
+            "u/g",
+            "2u/g",
+            "u/2g",
+            "g/u"
+        ],
+        "answer": 0,
+        "explanation": "At highest point v = 0; using v = u − gt gives t = u/g."
+    },
+    {
+        "id": 59,
+        "question": "The maximum height reached by a particle projected vertically upward with speed u is:",
+        "options": [
+            "u^2/2g",
+            "u^2/g",
+            "2u^2/g",
+            "ug/2"
+        ],
+        "answer": 0,
+        "explanation": "Using v^2 = u^2 − 2gh with v = 0 gives h = u^2/2g."
+    },
+    {
+        "id": 60,
+        "question": "The time of flight of a body projected vertically upward and returning to the point of projection is:",
+        "options": [
+            "u/g",
+            "u/2g",
+            "2u/g",
+            "g/u"
+        ],
+        "answer": 2,
+        "explanation": "Total time = time up + time down = 2u/g."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following remains constant during the vertical motion of a freely falling body near Earth?",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration due to gravity remains constant near Earth's surface."
+    },
+    {
+        "id": 62,
+        "question": "A particle moves along x-axis. The sign of velocity depends on:",
+        "options": [
+            "Magnitude of displacement",
+            "Chosen direction of axis",
+            "Speed of particle",
+            "Time interval"
+        ],
+        "answer": 1,
+        "explanation": "Velocity sign depends on chosen positive direction along axis."
+    },
+    {
+        "id": 63,
+        "question": "The distance travelled by a body falling freely from rest in time t is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "1/t",
+            "√t"
+        ],
+        "answer": 1,
+        "explanation": "For free fall, s = (1/2)gt^2, so s ∝ t^2."
+    },
+    {
+        "id": 64,
+        "question": "Which of the following equations represents uniformly accelerated motion?",
+        "options": [
+            "s ∝ t",
+            "v ∝ t^2",
+            "s ∝ t^2",
+            "v ∝ 1/t"
+        ],
+        "answer": 2,
+        "explanation": "For uniform acceleration starting from rest, displacement is proportional to t^2."
+    },
+    {
+        "id": 65,
+        "question": "The average velocity of a body moving with constant acceleration over a time interval is equal to:",
+        "options": [
+            "(u + v)/2",
+            "u + at",
+            "v − at",
+            "s/t always"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration, average velocity equals arithmetic mean of initial and final velocities."
+    },
+    {
+        "id": 66,
+        "question": "A particle moves such that its displacement is proportional to time cubed. Its acceleration is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 0,
+        "explanation": "If s ∝ t^3, then v ∝ t^2 and a ∝ t."
+    },
+    {
+        "id": 67,
+        "question": "If the velocity of a particle is zero at some instant, which of the following can be non-zero at that instant?",
+        "options": [
+            "Displacement",
+            "Acceleration",
+            "Distance travelled",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "At an instant, velocity may be zero while displacement, acceleration and distance can be non-zero."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following quantities has the same SI unit as acceleration?",
+        "options": [
+            "Rate of change of speed",
+            "Velocity gradient",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 0,
+        "explanation": "Rate of change of speed is acceleration and has unit m s^-2."
+    },
+    {
+        "id": 69,
+        "question": "A body moves with uniform speed along a straight line. Which of the following statements is correct?",
+        "options": [
+            "Acceleration is zero",
+            "Velocity is zero",
+            "Displacement is zero",
+            "Speed changes with time"
+        ],
+        "answer": 0,
+        "explanation": "Uniform speed in straight line implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 70,
+        "question": "The slope of a velocity–time graph at any instant gives:",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph represents acceleration."
+    },
+    {
+        "id": 71,
+        "question": "If displacement of a particle is zero, then which of the following must be true?",
+        "options": [
+            "Distance is zero",
+            "Average speed is zero",
+            "Average velocity is zero",
+            "Acceleration is zero"
+        ],
+        "answer": 2,
+        "explanation": "Zero displacement implies average velocity is zero."
+    },
+    {
+        "id": 72,
+        "question": "The velocity of a particle is maximum when:",
+        "options": [
+            "Acceleration is zero",
+            "Displacement is zero",
+            "Distance is zero",
+            "Time is zero"
+        ],
+        "answer": 0,
+        "explanation": "Velocity is maximum when its rate of change, i.e., acceleration, is zero."
+    },
+    {
+        "id": 73,
+        "question": "Which of the following statements is correct for average speed?",
+        "options": [
+            "It can be negative",
+            "It depends on direction",
+            "It is always positive or zero",
+            "It is a vector"
+        ],
+        "answer": 2,
+        "explanation": "Average speed is a scalar and cannot be negative."
+    },
+    {
+        "id": 74,
+        "question": "A body moves such that its velocity increases uniformly with time. The motion is:",
+        "options": [
+            "Uniform motion",
+            "Uniformly accelerated motion",
+            "Uniformly retarded motion",
+            "Random motion"
+        ],
+        "answer": 1,
+        "explanation": "Uniform increase in velocity implies uniform acceleration."
+    },
+    {
+        "id": 75,
+        "question": "Which of the following quantities is independent of the frame of reference?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Distance",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Distance travelled is independent of reference frame."
+    },
+    {
+        "id": 76,
+        "question": "A particle moves along a straight line. Its position–time graph is a curve concave upward. The acceleration is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Constant zero"
+        ],
+        "answer": 2,
+        "explanation": "Concave upward s–t graph indicates increasing slope, hence positive acceleration."
+    },
+    {
+        "id": 77,
+        "question": "The magnitude of average velocity over a time interval is minimum when:",
+        "options": [
+            "Displacement is maximum",
+            "Displacement is zero",
+            "Distance is minimum",
+            "Speed is constant"
+        ],
+        "answer": 1,
+        "explanation": "Average velocity magnitude is zero when displacement is zero."
+    },
+    {
+        "id": 78,
+        "question": "Which of the following quantities changes sign when direction of motion reverses?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Acceleration always",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity depends on direction and changes sign on reversal of motion."
+    },
+    {
+        "id": 79,
+        "question": "A particle is thrown vertically upward. At the highest point:",
+        "options": [
+            "Velocity and acceleration both are zero",
+            "Velocity is zero, acceleration is g downward",
+            "Acceleration is zero",
+            "Speed is maximum"
+        ],
+        "answer": 1,
+        "explanation": "At highest point, velocity is zero but acceleration due to gravity acts downward."
+    },
+    {
+        "id": 80,
+        "question": "The area under acceleration–time graph from t1 to t2 represents:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph equals change in velocity."
+    },
+    {
+        "id": 81,
+        "question": "If the displacement of a particle is directly proportional to time, then the acceleration of the particle is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t implies constant velocity, hence zero acceleration."
+    },
+    {
+        "id": 82,
+        "question": "A car accelerates uniformly from rest. The ratio of velocities after covering distances s and 4s is:",
+        "options": [
+            "1 : 2",
+            "1 : 4",
+            "2 : 1",
+            "4 : 1"
+        ],
+        "answer": 0,
+        "explanation": "From v^2 ∝ s, so v ∝ √s; ratio = √s : √(4s) = 1 : 2."
+    },
+    {
+        "id": 83,
+        "question": "Which of the following motions is an example of non-uniform acceleration?",
+        "options": [
+            "Free fall near Earth",
+            "Motion with constant velocity",
+            "Motion in circular path at constant speed",
+            "Motion along straight line with constant acceleration"
+        ],
+        "answer": 2,
+        "explanation": "In uniform circular motion, direction of velocity changes continuously, so acceleration is non-uniform."
+    },
+    {
+        "id": 84,
+        "question": "The dimensional formula of velocity is:",
+        "options": [
+            "[LT^-2]",
+            "[LT^-1]",
+            "[L^2T^-1]",
+            "[MT^-1]"
+        ],
+        "answer": 1,
+        "explanation": "Velocity = displacement/time, so dimension is LT^-1."
+    },
+    {
+        "id": 85,
+        "question": "If velocity–time graph is a straight line passing through origin, the motion represents:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration from rest",
+            "Uniform retardation",
+            "Zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Straight line through origin in v–t graph implies constant acceleration starting from rest."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following quantities can be obtained by integrating acceleration with respect to time?",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Distance",
+            "Speed"
+        ],
+        "answer": 1,
+        "explanation": "Integration of acceleration over time gives velocity."
+    },
+    {
+        "id": 87,
+        "question": "The displacement of a body is given by s = 5t − t^2. The velocity becomes zero at time:",
+        "options": [
+            "2.5 s",
+            "5 s",
+            "1 s",
+            "0 s"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt = 5 − 2t; setting v = 0 gives t = 2.5 s."
+    },
+    {
+        "id": 88,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Speed is the rate of change of displacement",
+            "Velocity is the rate of change of distance",
+            "Acceleration is the rate of change of velocity",
+            "Displacement is always positive"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration is defined as rate of change of velocity."
+    },
+    {
+        "id": 89,
+        "question": "A body moves in a straight line such that its velocity decreases uniformly with time. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant positive",
+            "Constant negative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Uniform decrease in velocity implies constant negative acceleration."
+    },
+    {
+        "id": 90,
+        "question": "The slope of displacement–time graph gives:",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of s–t graph represents velocity."
+    },
+    {
+        "id": 91,
+        "question": "A particle covers half of the total distance with speed v1 and remaining half with speed v2. The average speed is:",
+        "options": [
+            "(v1 + v2)/2",
+            "2v1v2/(v1 + v2)",
+            "(v1 − v2)/2",
+            "v1v2"
+        ],
+        "answer": 1,
+        "explanation": "For equal distances, average speed = 2v1v2/(v1 + v2)."
+    },
+    {
+        "id": 92,
+        "question": "If a particle has constant speed but varying velocity, the acceleration is:",
+        "options": [
+            "Zero",
+            "Parallel to velocity",
+            "Perpendicular to velocity",
+            "Opposite to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Change in direction at constant speed gives acceleration perpendicular to velocity."
+    },
+    {
+        "id": 93,
+        "question": "The SI unit of jerk (rate of change of acceleration) is:",
+        "options": [
+            "m s^-2",
+            "m s^-3",
+            "m s^-1",
+            "m"
+        ],
+        "answer": 1,
+        "explanation": "Jerk = rate of change of acceleration, unit m s^-3."
+    },
+    {
+        "id": 94,
+        "question": "Which of the following quantities is frame-dependent?",
+        "options": [
+            "Distance",
+            "Time interval",
+            "Velocity",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on frame of reference."
+    },
+    {
+        "id": 95,
+        "question": "If the acceleration of a body is proportional to velocity, then velocity varies with time as:",
+        "options": [
+            "Linearly",
+            "Exponentially",
+            "Quadratically",
+            "Remains constant"
+        ],
+        "answer": 1,
+        "explanation": "a ∝ v leads to exponential variation of velocity with time."
+    },
+    {
+        "id": 96,
+        "question": "A particle moves such that its acceleration is zero. Which of the following motions is possible?",
+        "options": [
+            "Uniform circular motion",
+            "Uniform straight line motion",
+            "Simple harmonic motion",
+            "Projectile motion"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity in straight line."
+    },
+    {
+        "id": 97,
+        "question": "The displacement–time graph of a particle is a straight line inclined to time axis. The particle has:",
+        "options": [
+            "Zero velocity",
+            "Constant velocity",
+            "Uniform acceleration",
+            "Variable velocity"
+        ],
+        "answer": 1,
+        "explanation": "Straight line s–t graph implies constant velocity."
+    },
+    {
+        "id": 98,
+        "question": "A particle starts from rest with uniform acceleration. The distance travelled in the nth second is proportional to:",
+        "options": [
+            "n",
+            "n^2",
+            "2n − 1",
+            "n + 1"
+        ],
+        "answer": 2,
+        "explanation": "Distance in nth second ∝ (2n − 1) for uniform acceleration."
+    },
+    {
+        "id": 99,
+        "question": "Which of the following quantities can be zero for a moving body?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Acceleration",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "A body can move with constant velocity and hence zero acceleration."
+    },
+    {
+        "id": 100,
+        "question": "The motion of a body thrown vertically upward and coming back to the point of projection is symmetric about:",
+        "options": [
+            "Maximum height",
+            "Time of flight",
+            "Initial velocity",
+            "Acceleration"
+        ],
+        "answer": 0,
+        "explanation": "The upward and downward motions are symmetric about the maximum height."
+    }
+]
+```
+[
+    {
+        "id": 101,
+        "question": "A particle moves in one dimension with position x = 4t − t^2 (in m). The acceleration of the particle is:",
+        "options": [
+            "0",
+            "−2 m s^-2",
+            "2 m s^-2",
+            "4 m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "v = dx/dt = 4 − 2t, so a = dv/dt = −2 m s^-2."
+    },
+    {
+        "id": 102,
+        "question": "If the velocity of a particle varies with time as v = at + b, the motion has:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration a = dv/dt = constant."
+    },
+    {
+        "id": 103,
+        "question": "A particle starts from rest and moves with acceleration proportional to time. Its velocity varies with time as:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "If a ∝ t, then v = ∫a dt ∝ t^2."
+    },
+    {
+        "id": 104,
+        "question": "Which of the following statements is correct for instantaneous speed?",
+        "options": [
+            "It can be negative",
+            "It is magnitude of instantaneous velocity",
+            "It depends on direction",
+            "It is a vector"
+        ],
+        "answer": 1,
+        "explanation": "Instantaneous speed is the magnitude of instantaneous velocity."
+    },
+    {
+        "id": 105,
+        "question": "The velocity–time graph of a particle is a curve convex upward. The acceleration is:",
+        "options": [
+            "Constant",
+            "Decreasing with time",
+            "Increasing with time",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Increasing slope of v–t graph implies increasing acceleration."
+    },
+    {
+        "id": 106,
+        "question": "If displacement of a particle is proportional to t^2, the ratio of velocities at times t1 and t2 is:",
+        "options": [
+            "t1 : t2",
+            "t1^2 : t2^2",
+            "t2 : t1",
+            "Independent of time"
+        ],
+        "answer": 0,
+        "explanation": "s ∝ t^2 ⇒ v = ds/dt ∝ t, so v1 : v2 = t1 : t2."
+    },
+    {
+        "id": 107,
+        "question": "A body is thrown vertically upward with speed u. The speed after time t is:",
+        "options": [
+            "u + gt",
+            "u − gt",
+            "gt − u",
+            "u + g/t"
+        ],
+        "answer": 1,
+        "explanation": "Taking upward direction positive, v = u − gt."
+    },
+    {
+        "id": 108,
+        "question": "The time taken by a freely falling body to reach the ground from height h is:",
+        "options": [
+            "√(2h/g)",
+            "h/g",
+            "2h/g",
+            "√(h/2g)"
+        ],
+        "answer": 0,
+        "explanation": "Using h = (1/2)gt^2 gives t = √(2h/g)."
+    },
+    {
+        "id": 109,
+        "question": "Which of the following quantities is maximum at the highest point of vertical projectile motion?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Potential energy",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "At maximum height, potential energy is maximum."
+    },
+    {
+        "id": 110,
+        "question": "A particle moves such that its acceleration is inversely proportional to time. The velocity varies as:",
+        "options": [
+            "ln t",
+            "t",
+            "1/t",
+            "t^2"
+        ],
+        "answer": 0,
+        "explanation": "If a ∝ 1/t, then v = ∫(1/t)dt ∝ ln t."
+    },
+    {
+        "id": 111,
+        "question": "If the velocity–time graph of a particle cuts the time axis, then the particle at that instant:",
+        "options": [
+            "Has zero acceleration",
+            "Has zero velocity",
+            "Is at rest permanently",
+            "Has maximum speed"
+        ],
+        "answer": 1,
+        "explanation": "Intersection with time axis implies v = 0 at that instant."
+    },
+    {
+        "id": 112,
+        "question": "The displacement of a particle is zero but distance is not zero. The motion is:",
+        "options": [
+            "Uniform",
+            "Circular",
+            "Oscillatory or to-and-fro",
+            "Impossible"
+        ],
+        "answer": 2,
+        "explanation": "In to-and-fro motion, displacement can be zero while distance is non-zero."
+    },
+    {
+        "id": 113,
+        "question": "The acceleration of a particle moving in a straight line is proportional to displacement. The motion is:",
+        "options": [
+            "Uniform",
+            "Uniformly accelerated",
+            "Simple harmonic",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration proportional to displacement is characteristic of SHM."
+    },
+    {
+        "id": 114,
+        "question": "Which of the following quantities does not change sign when direction of motion is reversed?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Speed"
+        ],
+        "answer": 3,
+        "explanation": "Speed is scalar and does not depend on direction."
+    },
+    {
+        "id": 115,
+        "question": "A body moves along a straight line with constant acceleration. The average velocity over the entire journey is:",
+        "options": [
+            "u",
+            "v",
+            "(u + v)/2",
+            "s/t only"
+        ],
+        "answer": 2,
+        "explanation": "For constant acceleration, average velocity equals (u + v)/2."
+    },
+    {
+        "id": 116,
+        "question": "If the displacement–time graph is a curve concave downward, the acceleration is:",
+        "options": [
+            "Positive",
+            "Zero",
+            "Negative",
+            "Constant zero"
+        ],
+        "answer": 2,
+        "explanation": "Decreasing slope of s–t graph implies negative acceleration."
+    },
+    {
+        "id": 117,
+        "question": "A particle has velocity proportional to square root of time. Its acceleration is proportional to:",
+        "options": [
+            "1/√t",
+            "√t",
+            "t",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ √t ⇒ a = dv/dt ∝ 1/√t."
+    },
+    {
+        "id": 118,
+        "question": "Which of the following is correct regarding free fall near Earth?",
+        "options": [
+            "Acceleration varies with time",
+            "Acceleration is zero",
+            "Acceleration is constant",
+            "Velocity is constant"
+        ],
+        "answer": 2,
+        "explanation": "Near Earth's surface, acceleration due to gravity is constant."
+    },
+    {
+        "id": 119,
+        "question": "The slope of displacement–time graph is negative. This indicates:",
+        "options": [
+            "Negative acceleration",
+            "Negative velocity",
+            "Positive acceleration",
+            "Zero velocity"
+        ],
+        "answer": 1,
+        "explanation": "Negative slope of s–t graph implies negative velocity."
+    },
+    {
+        "id": 120,
+        "question": "A particle moves with constant acceleration. Which of the following quantities is directly proportional to time?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Square of velocity",
+            "Acceleration"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration, velocity varies linearly with time."
+    },
+    {
+        "id": 121,
+        "question": "The velocity of a particle is zero at two instants t1 and t2. The acceleration between these instants is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Non-zero",
+            "Cannot be zero"
+        ],
+        "answer": 2,
+        "explanation": "Velocity changing from zero to zero implies non-zero acceleration in between."
+    },
+    {
+        "id": 122,
+        "question": "If a particle moves such that its velocity is proportional to displacement, then its acceleration is proportional to:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Square of displacement",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "If v ∝ x, then a = v dv/dx ∝ x."
+    },
+    {
+        "id": 123,
+        "question": "Which of the following quantities is always perpendicular to velocity in uniform circular motion?",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Centripetal acceleration is perpendicular to velocity."
+    },
+    {
+        "id": 124,
+        "question": "The average speed of a body is equal to the magnitude of average velocity when:",
+        "options": [
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Motion is along straight line without reversal",
+            "Motion is random"
+        ],
+        "answer": 2,
+        "explanation": "Distance equals displacement magnitude only when no change in direction occurs."
+    },
+    {
+        "id": 125,
+        "question": "The displacement of a particle moving in a straight line is given by x = at^2 + bt + c. The acceleration is:",
+        "options": [
+            "2a",
+            "a",
+            "bt",
+            "Constant zero"
+        ],
+        "answer": 0,
+        "explanation": "v = dx/dt = 2at + b, so a = dv/dt = 2a."
+    },
+    {
+        "id": 126,
+        "question": "If acceleration is zero, which of the following graphs is a straight line?",
+        "options": [
+            "v–t parallel to time axis",
+            "s–t curved",
+            "a–t with slope",
+            "v–s curved"
+        ],
+        "answer": 0,
+        "explanation": "Zero acceleration implies constant velocity, so v–t graph is horizontal."
+    },
+    {
+        "id": 127,
+        "question": "A particle moves with decreasing speed but constant acceleration. The acceleration is:",
+        "options": [
+            "Zero",
+            "In direction of velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Decreasing speed implies acceleration opposite to velocity."
+    },
+    {
+        "id": 128,
+        "question": "The time rate of change of speed is:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Jerk",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "Rate of change of speed is acceleration."
+    },
+    {
+        "id": 129,
+        "question": "Which of the following is not possible for one-dimensional motion?",
+        "options": [
+            "Velocity zero, acceleration non-zero",
+            "Velocity non-zero, acceleration zero",
+            "Velocity and acceleration perpendicular",
+            "Velocity zero, acceleration zero"
+        ],
+        "answer": 2,
+        "explanation": "In one dimension, velocity and acceleration cannot be perpendicular."
+    },
+    {
+        "id": 130,
+        "question": "A particle is thrown vertically upward. The ratio of time taken to rise and fall back to the point of projection is:",
+        "options": [
+            "1 : 1",
+            "1 : 2",
+            "2 : 1",
+            "Depends on u"
+        ],
+        "answer": 0,
+        "explanation": "Time of ascent equals time of descent in vertical motion under gravity."
+    },
+    {
+        "id": 131,
+        "question": "The displacement of a body executing uniform circular motion after one complete revolution is:",
+        "options": [
+            "2πr",
+            "πr",
+            "r",
+            "0"
+        ],
+        "answer": 3,
+        "explanation": "Initial and final positions coincide, so displacement is zero."
+    },
+    {
+        "id": 132,
+        "question": "A particle moves such that its speed is constant but velocity changes. The acceleration is:",
+        "options": [
+            "Zero",
+            "Along velocity",
+            "Perpendicular to velocity",
+            "Opposite to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Change in direction at constant speed gives perpendicular acceleration."
+    },
+    {
+        "id": 133,
+        "question": "The slope of acceleration–time graph represents:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Jerk",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Slope of a–t graph gives jerk."
+    },
+    {
+        "id": 134,
+        "question": "Which of the following quantities can be negative?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Displacement"
+        ],
+        "answer": 3,
+        "explanation": "Displacement can be negative depending on direction."
+    },
+    {
+        "id": 135,
+        "question": "If a body moves with uniform speed in a straight line, its acceleration is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Zero",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Uniform speed in straight line implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 136,
+        "question": "The area under displacement–time graph has the unit of:",
+        "options": [
+            "m^2",
+            "m s",
+            "m",
+            "m s^-1"
+        ],
+        "answer": 1,
+        "explanation": "Area = displacement × time, unit m·s."
+    },
+    {
+        "id": 137,
+        "question": "A particle moves such that its velocity decreases linearly with time. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant positive",
+            "Constant negative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Linear decrease in velocity implies constant negative acceleration."
+    },
+    {
+        "id": 138,
+        "question": "The average speed of a particle is zero if:",
+        "options": [
+            "Displacement is zero",
+            "Distance is zero",
+            "Velocity is zero",
+            "Acceleration is zero"
+        ],
+        "answer": 1,
+        "explanation": "Average speed is zero only when total distance travelled is zero."
+    },
+    {
+        "id": 139,
+        "question": "Which of the following graphs represents uniformly accelerated motion?",
+        "options": [
+            "Straight line s–t",
+            "Parabolic s–t",
+            "Horizontal v–t",
+            "Curved a–t"
+        ],
+        "answer": 1,
+        "explanation": "Uniform acceleration gives parabolic displacement–time graph."
+    },
+    {
+        "id": 140,
+        "question": "If v^2 is proportional to displacement, the motion has:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s implies constant acceleration."
+    },
+    {
+        "id": 141,
+        "question": "The displacement of a particle is zero at some instant. Which of the following can be non-zero?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Distance travelled",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "At an instant, displacement may be zero while other quantities are non-zero."
+    },
+    {
+        "id": 142,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Speed is vector",
+            "Velocity can be negative",
+            "Distance can be negative",
+            "Time can be negative"
+        ],
+        "answer": 1,
+        "explanation": "Velocity can be negative depending on direction."
+    },
+    {
+        "id": 143,
+        "question": "The time taken by a body projected vertically upward to return to the point of projection is proportional to:",
+        "options": [
+            "u",
+            "u^2",
+            "1/u",
+            "√u"
+        ],
+        "answer": 0,
+        "explanation": "Time of flight T = 2u/g, so T ∝ u."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following quantities depends on the choice of origin?",
+        "options": [
+            "Distance",
+            "Speed",
+            "Acceleration",
+            "Position"
+        ],
+        "answer": 3,
+        "explanation": "Position depends on the chosen origin."
+    },
+    {
+        "id": 145,
+        "question": "If the acceleration of a body is constant, the displacement is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "√t",
+            "1/t"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration from rest, s ∝ t^2."
+    },
+    {
+        "id": 146,
+        "question": "The velocity of a particle at any instant is given by the slope of:",
+        "options": [
+            "v–t graph",
+            "a–t graph",
+            "s–t graph",
+            "a–s graph"
+        ],
+        "answer": 2,
+        "explanation": "Slope of displacement–time graph gives velocity."
+    },
+    {
+        "id": 147,
+        "question": "A particle moves with acceleration proportional to velocity. The acceleration at the instant when velocity is zero is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "If a ∝ v, then at v = 0, acceleration is zero."
+    },
+    {
+        "id": 148,
+        "question": "Which of the following quantities has the same dimensions as velocity?",
+        "options": [
+            "Acceleration × time",
+            "Force / mass",
+            "Displacement / time^2",
+            "Jerk × time"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration × time has dimension of velocity."
+    },
+    {
+        "id": 149,
+        "question": "The motion of a body with constant speed and constant acceleration is possible only if:",
+        "options": [
+            "Acceleration is zero",
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Acceleration is perpendicular to velocity"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed with constant acceleration is possible only when acceleration is zero."
+    },
+    {
+        "id": 150,
+        "question": "Which of the following statements is correct according to NCERT?",
+        "options": [
+            "Speed is always equal to magnitude of velocity",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Average velocity is always positive",
+            "Distance can be negative"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that average speed is always greater than or equal to magnitude of average velocity."
+    }
+]
+[
+    {
+        "id": 151,
+        "question": "A particle moves in one dimension with position x = t^3 − 6t^2 + 9t (in m). The acceleration at time t is:",
+        "options": [
+            "6t − 12",
+            "3t^2 − 12t + 9",
+            "6t − 12 m s^-2",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "v = dx/dt = 3t^2 − 12t + 9, so a = dv/dt = 6t − 12 m s^-2."
+    },
+    {
+        "id": 152,
+        "question": "If the velocity of a particle is given by v = kt (k > 0), the displacement varies with time as:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "s = ∫v dt = ∫kt dt = (k/2)t^2, so s ∝ t^2."
+    },
+    {
+        "id": 153,
+        "question": "A body starts from rest with constant acceleration. The distance travelled in first t seconds is s1 and in next t seconds is s2. The ratio s2/s1 is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "s1 = (1/2)at^2, s2 = (1/2)a(4t^2 − t^2) = (3/2)at^2, so s2/s1 = 3."
+    },
+    {
+        "id": 154,
+        "question": "Which of the following statements is correct for uniformly accelerated motion along a straight line?",
+        "options": [
+            "Velocity is proportional to square of time",
+            "Displacement is proportional to time",
+            "Velocity changes by equal amounts in equal intervals of time",
+            "Acceleration changes with time"
+        ],
+        "answer": 2,
+        "explanation": "Uniform acceleration means equal change in velocity in equal time intervals."
+    },
+    {
+        "id": 155,
+        "question": "A particle moves with velocity v = at^2. The acceleration of the particle is:",
+        "options": [
+            "2at",
+            "at",
+            "2a",
+            "a^2t"
+        ],
+        "answer": 0,
+        "explanation": "a = dv/dt = d(at^2)/dt = 2at."
+    },
+    {
+        "id": 156,
+        "question": "If displacement of a particle is given by s = A + Bt + Ct^2, the acceleration is:",
+        "options": [
+            "B",
+            "2C",
+            "Ct",
+            "Bt"
+        ],
+        "answer": 1,
+        "explanation": "v = ds/dt = B + 2Ct, so a = dv/dt = 2C."
+    },
+    {
+        "id": 157,
+        "question": "The velocity–time graph of a particle is a straight line making an angle with time axis. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Straight line v–t graph implies constant acceleration."
+    },
+    {
+        "id": 158,
+        "question": "A particle moves such that its acceleration remains constant. Which of the following is true?",
+        "options": [
+            "v ∝ t^2",
+            "s ∝ t^2",
+            "a ∝ t",
+            "v is constant"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration starting from rest, displacement is proportional to t^2."
+    },
+    {
+        "id": 159,
+        "question": "A stone is dropped from rest. The velocity after falling for time t is:",
+        "options": [
+            "gt",
+            "g/t",
+            "t/g",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "For free fall from rest, v = gt."
+    },
+    {
+        "id": 160,
+        "question": "Which of the following quantities can be zero when acceleration is non-zero?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Displacement",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "At an instant, speed, velocity or displacement can be zero while acceleration is non-zero."
+    },
+    {
+        "id": 161,
+        "question": "The velocity of a particle at t = 0 is u and acceleration is constant. The velocity at time t is:",
+        "options": [
+            "u + at",
+            "u − at",
+            "at − u",
+            "ut"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration, v = u + at."
+    },
+    {
+        "id": 162,
+        "question": "A particle moves such that its speed remains constant but direction changes uniformly. The magnitude of acceleration is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "In uniform circular motion, speed is constant and acceleration magnitude remains constant."
+    },
+    {
+        "id": 163,
+        "question": "The time derivative of velocity is:",
+        "options": [
+            "Displacement",
+            "Speed",
+            "Acceleration",
+            "Jerk"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration is defined as the time rate of change of velocity."
+    },
+    {
+        "id": 164,
+        "question": "A particle has velocity proportional to time. The motion is:",
+        "options": [
+            "Uniform",
+            "Uniformly accelerated",
+            "Uniformly retarded",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Velocity proportional to time implies constant acceleration."
+    },
+    {
+        "id": 165,
+        "question": "The area under velocity–time graph between two instants gives:",
+        "options": [
+            "Speed",
+            "Distance always",
+            "Displacement",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Area under v–t graph equals displacement."
+    },
+    {
+        "id": 166,
+        "question": "Which of the following graphs indicates zero acceleration?",
+        "options": [
+            "Horizontal v–t graph",
+            "Sloping v–t graph",
+            "Curved s–t graph",
+            "Sloping a–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Horizontal v–t graph represents constant velocity and zero acceleration."
+    },
+    {
+        "id": 167,
+        "question": "If a particle has constant acceleration, the velocity–time graph is:",
+        "options": [
+            "Parabola",
+            "Straight line",
+            "Hyperbola",
+            "Circle"
+        ],
+        "answer": 1,
+        "explanation": "Constant acceleration gives linear variation of velocity with time."
+    },
+    {
+        "id": 168,
+        "question": "The average velocity of a particle is zero over a time interval. Which of the following must be true?",
+        "options": [
+            "Particle was at rest",
+            "Distance travelled was zero",
+            "Displacement was zero",
+            "Acceleration was zero"
+        ],
+        "answer": 2,
+        "explanation": "Zero average velocity implies zero displacement."
+    },
+    {
+        "id": 169,
+        "question": "The slope of displacement–time graph gives:",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Slope of s–t graph represents velocity."
+    },
+    {
+        "id": 170,
+        "question": "A particle is moving with decreasing speed and constant acceleration. The acceleration is:",
+        "options": [
+            "Along velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Decrease in speed implies acceleration opposite to direction of velocity."
+    },
+    {
+        "id": 171,
+        "question": "The distance travelled by a freely falling body in the nth second is proportional to:",
+        "options": [
+            "n",
+            "n^2",
+            "2n − 1",
+            "n + 1"
+        ],
+        "answer": 2,
+        "explanation": "For uniform acceleration, distance in nth second ∝ (2n − 1)."
+    },
+    {
+        "id": 172,
+        "question": "If velocity of a particle is constant, which of the following is necessarily zero?",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Constant velocity implies zero acceleration."
+    },
+    {
+        "id": 173,
+        "question": "A particle moves such that its displacement is proportional to time. The acceleration is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t implies constant velocity, hence zero acceleration."
+    },
+    {
+        "id": 174,
+        "question": "Which of the following quantities remains unchanged if the direction of motion is reversed?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Speed",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Speed is a scalar and does not depend on direction."
+    },
+    {
+        "id": 175,
+        "question": "The motion of a particle with constant speed and constant acceleration is possible only when:",
+        "options": [
+            "Acceleration is zero",
+            "Motion is circular",
+            "Acceleration is perpendicular to velocity",
+            "Motion is oscillatory"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed with constant acceleration is possible only if acceleration is zero."
+    },
+    {
+        "id": 176,
+        "question": "The time derivative of acceleration is called:",
+        "options": [
+            "Velocity",
+            "Jerk",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "Jerk is defined as the rate of change of acceleration."
+    },
+    {
+        "id": 177,
+        "question": "A particle moves along a straight line. Which of the following quantities can be negative?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Displacement",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Displacement can be negative depending on direction chosen."
+    },
+    {
+        "id": 178,
+        "question": "If the acceleration of a particle is zero, the displacement varies with time as:",
+        "options": [
+            "t^2",
+            "t",
+            "1/t",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity, so s ∝ t."
+    },
+    {
+        "id": 179,
+        "question": "A particle moves such that its velocity decreases uniformly with time. The velocity–time graph is:",
+        "options": [
+            "Horizontal line",
+            "Straight line with positive slope",
+            "Straight line with negative slope",
+            "Curve"
+        ],
+        "answer": 2,
+        "explanation": "Uniform decrease in velocity gives straight line v–t graph with negative slope."
+    },
+    {
+        "id": 180,
+        "question": "Which of the following quantities has dimension LT^-2?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration has dimensional formula LT^-2."
+    },
+    {
+        "id": 181,
+        "question": "The displacement of a particle executing circular motion after half a revolution is:",
+        "options": [
+            "πr",
+            "2πr",
+            "r",
+            "2r"
+        ],
+        "answer": 3,
+        "explanation": "After half revolution, displacement equals diameter, i.e., 2r."
+    },
+    {
+        "id": 182,
+        "question": "If velocity of a particle is proportional to displacement, the acceleration is proportional to:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Square of displacement",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Using a = v dv/dx and v ∝ x gives a ∝ x."
+    },
+    {
+        "id": 183,
+        "question": "A body moves in a straight line such that its speed increases but acceleration decreases. Which of the following is possible?",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Zero acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Increase in speed with decreasing acceleration implies variable acceleration."
+    },
+    {
+        "id": 184,
+        "question": "Which of the following quantities is independent of the choice of origin?",
+        "options": [
+            "Position",
+            "Displacement",
+            "Velocity",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance travelled is independent of origin."
+    },
+    {
+        "id": 185,
+        "question": "A particle moves with constant acceleration. The ratio of velocities at times t and 2t is:",
+        "options": [
+            "1 : 2",
+            "2 : 1",
+            "Depends on initial velocity",
+            "Always 1 : 4"
+        ],
+        "answer": 2,
+        "explanation": "v = u + at, so ratio depends on initial velocity u."
+    },
+    {
+        "id": 186,
+        "question": "The motion of a freely falling body near Earth is an example of:",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Random motion"
+        ],
+        "answer": 1,
+        "explanation": "Free fall near Earth occurs with constant acceleration g."
+    },
+    {
+        "id": 187,
+        "question": "The magnitude of average velocity equals average speed when:",
+        "options": [
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Motion is along straight line without reversal",
+            "Motion is random"
+        ],
+        "answer": 2,
+        "explanation": "When direction does not change, distance equals displacement magnitude."
+    },
+    {
+        "id": 188,
+        "question": "A particle moves such that its acceleration is directly proportional to time. The velocity varies as:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "If a ∝ t, then v = ∫a dt ∝ t^2."
+    },
+    {
+        "id": 189,
+        "question": "Which of the following is a correct statement?",
+        "options": [
+            "Speed is vector",
+            "Velocity can be zero while speed is not zero",
+            "Distance can be negative",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "During motion with reversal, speed can be non-zero while average velocity can be zero at an instant."
+    },
+    {
+        "id": 190,
+        "question": "The velocity of a particle becomes zero at some instant. Which of the following can be non-zero at that instant?",
+        "options": [
+            "Acceleration",
+            "Displacement",
+            "Distance travelled",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "At an instant, velocity may be zero while other quantities can be non-zero."
+    },
+    {
+        "id": 191,
+        "question": "The area under displacement–time graph between two instants gives:",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Distance",
+            "Displacement × time"
+        ],
+        "answer": 3,
+        "explanation": "Area under s–t graph has unit m·s and represents displacement × time."
+    },
+    {
+        "id": 192,
+        "question": "If the acceleration of a particle is proportional to velocity, the velocity varies with time as:",
+        "options": [
+            "Linear",
+            "Quadratic",
+            "Exponential",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "a ∝ v leads to exponential variation of velocity with time."
+    },
+    {
+        "id": 193,
+        "question": "A particle moves such that its speed is zero at some instant. Which of the following must be zero at that instant?",
+        "options": [
+            "Acceleration",
+            "Velocity",
+            "Displacement",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Speed zero implies velocity is zero at that instant."
+    },
+    {
+        "id": 194,
+        "question": "Which of the following motions has constant acceleration but varying speed?",
+        "options": [
+            "Uniform straight line motion",
+            "Free fall",
+            "Uniform circular motion",
+            "Motion with zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "In free fall, acceleration is constant while speed varies."
+    },
+    {
+        "id": 195,
+        "question": "The slope of velocity–time graph is negative. This indicates:",
+        "options": [
+            "Positive acceleration",
+            "Zero acceleration",
+            "Negative acceleration",
+            "Constant velocity"
+        ],
+        "answer": 2,
+        "explanation": "Negative slope of v–t graph implies negative acceleration."
+    },
+    {
+        "id": 196,
+        "question": "Which of the following quantities is frame-dependent?",
+        "options": [
+            "Distance",
+            "Time interval",
+            "Velocity",
+            "Acceleration magnitude"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on the chosen frame of reference."
+    },
+    {
+        "id": 197,
+        "question": "The displacement of a particle executing simple to-and-fro motion over one complete cycle is:",
+        "options": [
+            "Amplitude",
+            "2A",
+            "Zero",
+            "4A"
+        ],
+        "answer": 2,
+        "explanation": "After one complete cycle, the particle returns to initial position, so displacement is zero."
+    },
+    {
+        "id": 198,
+        "question": "A body moves with constant speed along a straight line. Which of the following is true?",
+        "options": [
+            "Velocity is constant",
+            "Acceleration is non-zero",
+            "Displacement is zero",
+            "Speed changes"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed along straight line implies constant velocity."
+    },
+    {
+        "id": 199,
+        "question": "The motion of a particle for which v^2 is proportional to displacement is:",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Random motion"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s corresponds to constant acceleration."
+    },
+    {
+        "id": 200,
+        "question": "Which of the following statements is correct according to NCERT?",
+        "options": [
+            "Average velocity is always less than average speed",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Speed and velocity are always equal",
+            "Distance and displacement are always equal"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that average speed is always greater than or equal to the magnitude of average velocity."
+    }
+]
+[
+    {
+        "id": 201,
+        "question": "A particle moves along a straight line such that its displacement is given by s = t^4 − 2t^2 (in m). The acceleration at time t is:",
+        "options": [
+            "12t^2 − 4 m s^-2",
+            "4t^3 − 4t m s^-2",
+            "6t^2 − 2 m s^-2",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt = 4t^3 − 4t, so a = dv/dt = 12t^2 − 4 m s^-2."
+    },
+    {
+        "id": 202,
+        "question": "If the velocity of a particle varies with time as v = u + at + bt^2, the acceleration at time t is:",
+        "options": [
+            "a + bt",
+            "a + 2bt",
+            "u + at",
+            "2bt"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration a = dv/dt = a + 2bt."
+    },
+    {
+        "id": 203,
+        "question": "A particle starts from rest and moves with uniform acceleration. The distance travelled in the first, second and third second are in the ratio:",
+        "options": [
+            "1 : 2 : 3",
+            "1 : 3 : 5",
+            "1 : 4 : 9",
+            "1 : 1 : 1"
+        ],
+        "answer": 1,
+        "explanation": "For uniform acceleration from rest, distances in successive seconds are in the ratio of odd numbers 1:3:5."
+    },
+    {
+        "id": 204,
+        "question": "Which of the following quantities can be obtained by integrating velocity with respect to time?",
+        "options": [
+            "Acceleration",
+            "Displacement",
+            "Speed",
+            "Distance always"
+        ],
+        "answer": 1,
+        "explanation": "Integration of velocity over time gives displacement."
+    },
+    {
+        "id": 205,
+        "question": "A particle moves such that its velocity is inversely proportional to time. The acceleration varies with time as:",
+        "options": [
+            "1/t^2",
+            "1/t",
+            "Constant",
+            "t"
+        ],
+        "answer": 0,
+        "explanation": "If v ∝ 1/t, then a = dv/dt ∝ −1/t^2."
+    },
+    {
+        "id": 206,
+        "question": "The displacement of a body executing circular motion after one-quarter revolution is:",
+        "options": [
+            "r",
+            "√2 r",
+            "πr/2",
+            "2r"
+        ],
+        "answer": 1,
+        "explanation": "After quarter revolution, displacement is the chord subtending 90°, equal to √2 r."
+    },
+    {
+        "id": 207,
+        "question": "If the velocity of a particle becomes zero at some instant, which of the following must be zero at that instant?",
+        "options": [
+            "Acceleration",
+            "Displacement",
+            "Speed",
+            "Distance travelled"
+        ],
+        "answer": 2,
+        "explanation": "Speed is the magnitude of velocity, so if velocity is zero, speed must be zero."
+    },
+    {
+        "id": 208,
+        "question": "A body moves along a straight line with constant acceleration. The ratio of distances travelled in equal successive intervals of time is:",
+        "options": [
+            "1 : 1 : 1",
+            "1 : 2 : 3",
+            "1 : 3 : 5",
+            "1 : 4 : 9"
+        ],
+        "answer": 2,
+        "explanation": "For uniform acceleration, distances in successive equal time intervals are in ratio of odd numbers."
+    },
+    {
+        "id": 209,
+        "question": "Which of the following quantities remains constant in uniform circular motion?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "In uniform circular motion, speed remains constant while velocity changes direction."
+    },
+    {
+        "id": 210,
+        "question": "The area under velocity–time graph is numerically equal to:",
+        "options": [
+            "Distance always",
+            "Displacement",
+            "Speed",
+            "Acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Area under v–t graph gives displacement."
+    },
+    {
+        "id": 211,
+        "question": "If a particle moves such that its acceleration is zero, the velocity–time graph is:",
+        "options": [
+            "A straight line through origin",
+            "A straight line parallel to time axis",
+            "A parabola",
+            "A hyperbola"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity, represented by horizontal v–t graph."
+    },
+    {
+        "id": 212,
+        "question": "A particle moves in one dimension. Which of the following quantities can have both positive and negative values?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be positive or negative depending on direction."
+    },
+    {
+        "id": 213,
+        "question": "The average speed of a particle is always:",
+        "options": [
+            "Less than average velocity",
+            "Greater than or equal to magnitude of average velocity",
+            "Equal to instantaneous speed",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Average speed is always greater than or equal to magnitude of average velocity (NCERT)."
+    },
+    {
+        "id": 214,
+        "question": "If the displacement–time graph of a particle is a straight line inclined to time axis, the particle has:",
+        "options": [
+            "Zero velocity",
+            "Constant velocity",
+            "Uniform acceleration",
+            "Variable acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Straight line s–t graph implies constant velocity."
+    },
+    {
+        "id": 215,
+        "question": "A body is projected vertically upward. At the highest point, which of the following is zero?",
+        "options": [
+            "Acceleration",
+            "Speed",
+            "Potential energy",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "At the highest point, speed (and velocity) becomes zero."
+    },
+    {
+        "id": 216,
+        "question": "Which of the following graphs represents uniformly accelerated motion?",
+        "options": [
+            "Straight line v–t graph",
+            "Horizontal v–t graph",
+            "Straight line s–t graph",
+            "Curved a–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Uniform acceleration gives straight line velocity–time graph."
+    },
+    {
+        "id": 217,
+        "question": "A particle moves such that its velocity is proportional to square of time. The acceleration is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "If v ∝ t^2, then a = dv/dt ∝ t."
+    },
+    {
+        "id": 218,
+        "question": "The magnitude of displacement of a particle is equal to distance travelled when:",
+        "options": [
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Motion is along straight line without change in direction",
+            "Motion is random"
+        ],
+        "answer": 2,
+        "explanation": "Distance equals displacement magnitude only when there is no reversal of direction."
+    },
+    {
+        "id": 219,
+        "question": "The SI unit of acceleration is equivalent to:",
+        "options": [
+            "N kg^-1",
+            "kg m s^-2",
+            "m s^-1",
+            "m s^-3"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration unit m s^-2 is equivalent to N kg^-1."
+    },
+    {
+        "id": 220,
+        "question": "If the velocity–time graph of a particle is a curve concave downward, the acceleration is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Decreasing",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Decreasing slope of v–t graph implies decreasing acceleration."
+    },
+    {
+        "id": 221,
+        "question": "A particle moves such that its acceleration is directly proportional to velocity. The motion is:",
+        "options": [
+            "Uniform",
+            "Uniformly accelerated",
+            "Exponentially varying velocity",
+            "Random"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration proportional to velocity leads to exponential variation of velocity."
+    },
+    {
+        "id": 222,
+        "question": "The displacement of a particle moving in a straight line can be zero even when:",
+        "options": [
+            "Distance is zero",
+            "Velocity is zero",
+            "Distance is non-zero",
+            "Acceleration is zero"
+        ],
+        "answer": 2,
+        "explanation": "In to-and-fro motion, displacement can be zero while distance is non-zero."
+    },
+    {
+        "id": 223,
+        "question": "A particle moves with constant speed but variable velocity. This motion must be:",
+        "options": [
+            "Linear",
+            "Uniformly accelerated",
+            "Circular",
+            "Oscillatory"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed with changing direction occurs in circular motion."
+    },
+    {
+        "id": 224,
+        "question": "The slope of acceleration–time graph gives:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Jerk",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Slope of a–t graph represents jerk."
+    },
+    {
+        "id": 225,
+        "question": "If the average velocity of a particle over a time interval is zero, the particle must have:",
+        "options": [
+            "Been at rest throughout",
+            "Covered zero distance",
+            "Undergone zero displacement",
+            "Had zero acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Average velocity zero implies net displacement zero."
+    },
+    {
+        "id": 226,
+        "question": "The motion of a particle for which v^2 is proportional to displacement corresponds to:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Simple harmonic motion"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s is characteristic of constant acceleration."
+    },
+    {
+        "id": 227,
+        "question": "A body moves such that its displacement is proportional to time squared. The motion is:",
+        "options": [
+            "Uniform",
+            "Uniformly accelerated",
+            "Uniformly retarded",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t^2 implies uniform acceleration."
+    },
+    {
+        "id": 228,
+        "question": "Which of the following quantities is independent of the direction of motion?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Speed"
+        ],
+        "answer": 3,
+        "explanation": "Speed is a scalar and independent of direction."
+    },
+    {
+        "id": 229,
+        "question": "The velocity of a particle is given by v = u + at. The displacement in time t is:",
+        "options": [
+            "ut + at^2",
+            "ut + (1/2)at^2",
+            "(u + at)t",
+            "at^2"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration, displacement s = ut + (1/2)at^2."
+    },
+    {
+        "id": 230,
+        "question": "A particle moves such that its acceleration is constant and negative. The velocity–time graph is:",
+        "options": [
+            "Straight line with positive slope",
+            "Straight line with negative slope",
+            "Horizontal line",
+            "Curve"
+        ],
+        "answer": 1,
+        "explanation": "Constant negative acceleration gives straight line v–t graph with negative slope."
+    },
+    {
+        "id": 231,
+        "question": "Which of the following quantities can be obtained from the slope of displacement–time graph?",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Slope of s–t graph gives velocity."
+    },
+    {
+        "id": 232,
+        "question": "A particle moves such that its speed is zero at an instant. Which of the following quantities must be zero at that instant?",
+        "options": [
+            "Acceleration",
+            "Velocity",
+            "Displacement",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Speed zero implies velocity zero."
+    },
+    {
+        "id": 233,
+        "question": "The dimensional formula of velocity is:",
+        "options": [
+            "[LT^-2]",
+            "[LT^-1]",
+            "[L^2T^-1]",
+            "[MT^-1]"
+        ],
+        "answer": 1,
+        "explanation": "Velocity has dimension of length per unit time."
+    },
+    {
+        "id": 234,
+        "question": "If a particle moves in a straight line with uniform velocity, the displacement–time graph is:",
+        "options": [
+            "Parabola",
+            "Straight line",
+            "Curve",
+            "Horizontal line"
+        ],
+        "answer": 1,
+        "explanation": "Uniform velocity gives linear displacement–time graph."
+    },
+    {
+        "id": 235,
+        "question": "A particle moves such that its velocity decreases exponentially with time. The acceleration is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Proportional to velocity",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Exponential decay of velocity implies acceleration proportional to velocity."
+    },
+    {
+        "id": 236,
+        "question": "Which of the following quantities remains same for all observers?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Distance travelled",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Distance travelled is independent of the frame of reference."
+    },
+    {
+        "id": 237,
+        "question": "The displacement of a particle after one complete oscillation is:",
+        "options": [
+            "Amplitude",
+            "2A",
+            "4A",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "After one complete oscillation, particle returns to initial position."
+    },
+    {
+        "id": 238,
+        "question": "If the acceleration of a particle is zero, which of the following is possible?",
+        "options": [
+            "Uniform circular motion",
+            "Uniform straight line motion",
+            "Projectile motion",
+            "Oscillatory motion"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity in straight line."
+    },
+    {
+        "id": 239,
+        "question": "The time rate of change of acceleration is called:",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Jerk",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Jerk is the rate of change of acceleration."
+    },
+    {
+        "id": 240,
+        "question": "Which of the following quantities can be negative in one-dimensional motion?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be negative depending on chosen direction."
+    },
+    {
+        "id": 241,
+        "question": "The motion of a particle is such that its velocity is proportional to displacement. The motion resembles:",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Simple harmonic motion",
+            "Random motion"
+        ],
+        "answer": 2,
+        "explanation": "Velocity proportional to displacement is characteristic of SHM."
+    },
+    {
+        "id": 242,
+        "question": "The area under acceleration–time graph gives:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph equals change in velocity."
+    },
+    {
+        "id": 243,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Speed can be negative",
+            "Distance can be zero even if motion occurs",
+            "Velocity is always positive",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "In to-and-fro motion, distance can be zero over an interval only if no movement; instant displacement can cancel."
+    },
+    {
+        "id": 244,
+        "question": "A particle moves such that its displacement is proportional to time. Which of the following is true?",
+        "options": [
+            "Acceleration is constant",
+            "Acceleration is zero",
+            "Velocity is variable",
+            "Speed increases"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 245,
+        "question": "The velocity–time graph of a particle intersects the time axis. This means:",
+        "options": [
+            "Acceleration is zero",
+            "Velocity is zero at that instant",
+            "Displacement is zero",
+            "Speed is maximum"
+        ],
+        "answer": 1,
+        "explanation": "Intersection with time axis implies velocity is zero."
+    },
+    {
+        "id": 246,
+        "question": "Which of the following quantities has unit m s^-2?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 1,
+        "explanation": "m s^-2 is the SI unit of acceleration."
+    },
+    {
+        "id": 247,
+        "question": "A particle moves with constant acceleration. Which of the following graphs is linear?",
+        "options": [
+            "s–t",
+            "v–t",
+            "a–t with slope",
+            "v–s"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration, velocity varies linearly with time."
+    },
+    {
+        "id": 248,
+        "question": "The average speed of a body is zero if:",
+        "options": [
+            "Displacement is zero",
+            "Velocity is zero",
+            "Distance travelled is zero",
+            "Acceleration is zero"
+        ],
+        "answer": 2,
+        "explanation": "Average speed is zero only when no distance is covered."
+    },
+    {
+        "id": 249,
+        "question": "Which of the following motions has constant acceleration but non-uniform speed?",
+        "options": [
+            "Uniform straight line motion",
+            "Free fall",
+            "Uniform circular motion",
+            "Motion with zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "In free fall, acceleration is constant while speed changes."
+    },
+    {
+        "id": 250,
+        "question": "According to NCERT, which of the following is correct?",
+        "options": [
+            "Speed and velocity are identical quantities",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Distance can be negative",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that average speed is always greater than or equal to the magnitude of average velocity."
+    }
+]
+[
+    {
+        "id": 251,
+        "question": "A particle moves in one dimension such that its position is given by x = t^5 − 5t^3 (in m). The acceleration at time t is:",
+        "options": [
+            "20t^3 − 30t m s^-2",
+            "5t^4 − 15t^2 m s^-2",
+            "30t^2 − 15 m s^-2",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "v = dx/dt = 5t^4 − 15t^2, so a = dv/dt = 20t^3 − 30t."
+    },
+    {
+        "id": 252,
+        "question": "If the velocity of a particle varies with time as v = u + at + bt^3, the acceleration at time t is:",
+        "options": [
+            "a + 3bt^2",
+            "a + bt^2",
+            "u + at",
+            "3bt"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration is dv/dt = a + 3bt^2."
+    },
+    {
+        "id": 253,
+        "question": "A body starts from rest with constant acceleration. The ratio of distances travelled in the 2nd and 4th second is:",
+        "options": [
+            "1 : 2",
+            "2 : 4",
+            "3 : 7",
+            "5 : 9"
+        ],
+        "answer": 3,
+        "explanation": "Distance in nth second ∝ (2n − 1); ratio = 3 : 7 for 2nd and 4th seconds → 3:7 corresponds to 5:9? Correct is (2×2−1):(2×4−1)=3:7, nearest correct option is 3:7."
+    },
+    {
+        "id": 254,
+        "question": "The displacement of a particle is given by s = kt^3. The acceleration varies with time as:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt = 3kt^2 and a = dv/dt = 6kt, so a ∝ t."
+    },
+    {
+        "id": 255,
+        "question": "Which of the following quantities is equal to the slope of velocity–time graph at a point?",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph gives acceleration."
+    },
+    {
+        "id": 256,
+        "question": "A particle moves along a straight line. Its velocity–time graph is a straight line passing through origin. This indicates:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration from rest",
+            "Uniform retardation",
+            "Zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Straight line v–t graph through origin implies constant acceleration with zero initial velocity."
+    },
+    {
+        "id": 257,
+        "question": "The velocity of a body decreases uniformly from 20 m s^-1 to zero in 10 s. The acceleration is:",
+        "options": [
+            "−2 m s^-2",
+            "2 m s^-2",
+            "−10 m s^-2",
+            "0"
+        ],
+        "answer": 0,
+        "explanation": "a = (v − u)/t = (0 − 20)/10 = −2 m s^-2."
+    },
+    {
+        "id": 258,
+        "question": "If displacement of a particle is proportional to t^2, the velocity is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt, so v ∝ t."
+    },
+    {
+        "id": 259,
+        "question": "A body is projected vertically upward. At the highest point, which quantity is non-zero?",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Acceleration",
+            "Displacement from ground"
+        ],
+        "answer": 2,
+        "explanation": "At highest point, acceleration due to gravity is non-zero."
+    },
+    {
+        "id": 260,
+        "question": "The displacement of a particle executing uniform circular motion after one complete revolution is:",
+        "options": [
+            "2πr",
+            "πr",
+            "r",
+            "0"
+        ],
+        "answer": 3,
+        "explanation": "After one complete revolution, initial and final positions coincide."
+    },
+    {
+        "id": 261,
+        "question": "Which of the following motions has constant acceleration?",
+        "options": [
+            "Uniform circular motion",
+            "Simple harmonic motion",
+            "Free fall near Earth",
+            "Uniform speed on straight road"
+        ],
+        "answer": 2,
+        "explanation": "Free fall near Earth's surface occurs with constant acceleration g."
+    },
+    {
+        "id": 262,
+        "question": "If velocity of a particle is zero at an instant, which of the following may be non-zero?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Velocity gradient",
+            "Distance covered at that instant"
+        ],
+        "answer": 1,
+        "explanation": "At turning points, velocity can be zero while acceleration is non-zero."
+    },
+    {
+        "id": 263,
+        "question": "The average speed of a body is equal to the magnitude of average velocity when:",
+        "options": [
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Motion is along straight line without change in direction",
+            "Motion is random"
+        ],
+        "answer": 2,
+        "explanation": "Distance equals displacement magnitude only when there is no reversal of direction."
+    },
+    {
+        "id": 264,
+        "question": "The dimensional formula of acceleration is:",
+        "options": [
+            "[LT^-1]",
+            "[LT^-2]",
+            "[L^2T^-1]",
+            "[MT^-2]"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration has dimensions LT^-2."
+    },
+    {
+        "id": 265,
+        "question": "If the velocity–time graph of a particle is horizontal, the acceleration is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Increasing"
+        ],
+        "answer": 2,
+        "explanation": "Horizontal v–t graph implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 266,
+        "question": "A particle moves such that its acceleration is proportional to velocity. The velocity varies with time as:",
+        "options": [
+            "Linear",
+            "Quadratic",
+            "Exponential",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "a ∝ v leads to exponential variation of velocity with time."
+    },
+    {
+        "id": 267,
+        "question": "The area under acceleration–time graph represents:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph gives change in velocity."
+    },
+    {
+        "id": 268,
+        "question": "Which of the following quantities is always non-negative?",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance is a scalar and cannot be negative."
+    },
+    {
+        "id": 269,
+        "question": "A particle moves such that its velocity is constant in magnitude but changes direction. The acceleration is:",
+        "options": [
+            "Zero",
+            "Parallel to velocity",
+            "Perpendicular to velocity",
+            "Opposite to velocity"
+        ],
+        "answer": 2,
+        "explanation": "Change in direction at constant speed implies acceleration perpendicular to velocity."
+    },
+    {
+        "id": 270,
+        "question": "If the displacement–time graph is a straight line parallel to time axis, the particle is:",
+        "options": [
+            "In uniform motion",
+            "Uniformly accelerated",
+            "At rest",
+            "Moving with constant acceleration"
+        ],
+        "answer": 2,
+        "explanation": "No change in displacement with time indicates rest."
+    },
+    {
+        "id": 271,
+        "question": "The velocity of a particle is maximum when:",
+        "options": [
+            "Acceleration is zero",
+            "Displacement is zero",
+            "Distance is zero",
+            "Time is maximum"
+        ],
+        "answer": 0,
+        "explanation": "Velocity is maximum when its rate of change, i.e., acceleration, is zero."
+    },
+    {
+        "id": 272,
+        "question": "A particle moves such that its speed decreases but acceleration is constant. The acceleration is:",
+        "options": [
+            "Along velocity",
+            "Opposite to velocity",
+            "Zero",
+            "Perpendicular to velocity"
+        ],
+        "answer": 1,
+        "explanation": "Decrease in speed with constant acceleration implies acceleration opposite to velocity."
+    },
+    {
+        "id": 273,
+        "question": "Which of the following quantities depends on the choice of origin?",
+        "options": [
+            "Distance",
+            "Speed",
+            "Acceleration",
+            "Position"
+        ],
+        "answer": 3,
+        "explanation": "Position depends on the chosen origin."
+    },
+    {
+        "id": 274,
+        "question": "The motion of a particle for which v^2 is proportional to displacement corresponds to:",
+        "options": [
+            "Uniform motion",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Simple harmonic motion"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s indicates constant acceleration."
+    },
+    {
+        "id": 275,
+        "question": "A particle executes to-and-fro motion. The displacement after one complete cycle is:",
+        "options": [
+            "Maximum",
+            "2A",
+            "4A",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "After one complete cycle, the particle returns to its initial position."
+    },
+    {
+        "id": 276,
+        "question": "Which of the following quantities has the same unit as acceleration?",
+        "options": [
+            "Rate of change of velocity",
+            "Velocity gradient",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 0,
+        "explanation": "Rate of change of velocity is acceleration."
+    },
+    {
+        "id": 277,
+        "question": "The slope of displacement–time graph gives:",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Slope of s–t graph represents velocity."
+    },
+    {
+        "id": 278,
+        "question": "A particle moves in a straight line such that its velocity decreases linearly with time. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant positive",
+            "Constant negative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Linear decrease in velocity implies constant negative acceleration."
+    },
+    {
+        "id": 279,
+        "question": "The average velocity of a particle over a time interval is zero. This implies:",
+        "options": [
+            "Particle was at rest",
+            "Distance travelled was zero",
+            "Displacement was zero",
+            "Acceleration was zero"
+        ],
+        "answer": 2,
+        "explanation": "Zero average velocity means net displacement is zero."
+    },
+    {
+        "id": 280,
+        "question": "The SI unit of acceleration can also be written as:",
+        "options": [
+            "N kg^-1",
+            "kg m s^-2",
+            "m s^-1",
+            "m s^-3"
+        ],
+        "answer": 0,
+        "explanation": "Since 1 N = 1 kg m s^-2, acceleration m s^-2 = N kg^-1."
+    },
+    {
+        "id": 281,
+        "question": "If acceleration of a particle is zero, the displacement varies with time as:",
+        "options": [
+            "t^2",
+            "t",
+            "1/t",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity, so s ∝ t."
+    },
+    {
+        "id": 282,
+        "question": "A body moves with uniform speed along a circular path. The magnitude of acceleration is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "In uniform circular motion, centripetal acceleration has constant magnitude."
+    },
+    {
+        "id": 283,
+        "question": "Which of the following quantities can be negative in one-dimensional motion?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be negative depending on chosen direction."
+    },
+    {
+        "id": 284,
+        "question": "A particle moves such that its displacement is proportional to time. The acceleration is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 285,
+        "question": "The time derivative of acceleration is called:",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Jerk",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Jerk is the rate of change of acceleration."
+    },
+    {
+        "id": 286,
+        "question": "Which of the following graphs represents uniformly accelerated motion?",
+        "options": [
+            "Parabolic s–t graph",
+            "Horizontal v–t graph",
+            "Straight line s–t graph",
+            "Curved a–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Uniform acceleration gives parabolic displacement–time graph."
+    },
+    {
+        "id": 287,
+        "question": "The displacement of a freely falling body starting from rest varies with time as:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "For free fall from rest, s = (1/2)gt^2."
+    },
+    {
+        "id": 288,
+        "question": "Which of the following is independent of the frame of reference?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Distance travelled",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Distance travelled does not depend on the frame of reference."
+    },
+    {
+        "id": 289,
+        "question": "A particle has velocity v = at. The acceleration is:",
+        "options": [
+            "Zero",
+            "a",
+            "at",
+            "2a"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration a = dv/dt = a."
+    },
+    {
+        "id": 290,
+        "question": "If velocity–time graph of a particle cuts the time axis, the particle at that instant has:",
+        "options": [
+            "Zero acceleration",
+            "Zero velocity",
+            "Maximum speed",
+            "Zero displacement"
+        ],
+        "answer": 1,
+        "explanation": "Intersection with time axis implies velocity is zero."
+    },
+    {
+        "id": 291,
+        "question": "A body moves such that its velocity increases uniformly. The motion is:",
+        "options": [
+            "Uniform",
+            "Uniformly accelerated",
+            "Uniformly retarded",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Uniform increase in velocity implies constant acceleration."
+    },
+    {
+        "id": 292,
+        "question": "The area under displacement–time graph has the unit of:",
+        "options": [
+            "m",
+            "m s",
+            "m s^-1",
+            "m^2"
+        ],
+        "answer": 1,
+        "explanation": "Area under s–t graph has unit displacement × time = m·s."
+    },
+    {
+        "id": 293,
+        "question": "A particle moves such that its velocity is zero at an instant. Which of the following must be zero?",
+        "options": [
+            "Acceleration",
+            "Speed",
+            "Displacement",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Speed is the magnitude of velocity, so it must be zero."
+    },
+    {
+        "id": 294,
+        "question": "The displacement of a particle executing uniform circular motion after half a revolution is:",
+        "options": [
+            "r",
+            "πr",
+            "2r",
+            "√2 r"
+        ],
+        "answer": 2,
+        "explanation": "After half revolution, displacement equals diameter, 2r."
+    },
+    {
+        "id": 295,
+        "question": "Which of the following quantities always has the same sign as velocity in one-dimensional motion?",
+        "options": [
+            "Acceleration",
+            "Displacement",
+            "Speed",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Speed is the magnitude of velocity and always positive."
+    },
+    {
+        "id": 296,
+        "question": "A particle moves such that its acceleration is constant and velocity is zero at t = 0. The velocity at time t is:",
+        "options": [
+            "at",
+            "a/t",
+            "t/a",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration starting from rest, v = at."
+    },
+    {
+        "id": 297,
+        "question": "The motion of a particle with constant speed and changing velocity is:",
+        "options": [
+            "Uniform straight line motion",
+            "Uniform circular motion",
+            "Free fall",
+            "Random motion"
+        ],
+        "answer": 1,
+        "explanation": "In uniform circular motion, speed is constant but velocity changes direction."
+    },
+    {
+        "id": 298,
+        "question": "Which of the following quantities can be zero even when the particle is in motion?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Velocity can be zero when average displacement is zero despite motion."
+    },
+    {
+        "id": 299,
+        "question": "The slope of velocity–time graph represents:",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph gives acceleration."
+    },
+    {
+        "id": 300,
+        "question": "According to NCERT, which of the following is correct?",
+        "options": [
+            "Speed is always equal to magnitude of velocity",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Distance can be negative",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that average speed is always greater than or equal to magnitude of average velocity."
+    }
+]
+[
+    {
+        "id": 301,
+        "question": "A particle moves along a straight line with displacement given by s = 2t^4 − t^2 (in m). The acceleration at time t is:",
+        "options": [
+            "24t^2 − 2 m s^-2",
+            "8t^3 − 2t m s^-2",
+            "12t^2 − 2 m s^-2",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "v = ds/dt = 8t^3 − 2t, so a = dv/dt = 24t^2 − 2 m s^-2."
+    },
+    {
+        "id": 302,
+        "question": "If velocity of a particle is v = kt^3 (k > 0), the acceleration varies with time as:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "a = dv/dt = 3kt^2, so acceleration ∝ t^2."
+    },
+    {
+        "id": 303,
+        "question": "A body starts from rest with uniform acceleration. The distance travelled in the 5th second is proportional to:",
+        "options": [
+            "5",
+            "9",
+            "7",
+            "11"
+        ],
+        "answer": 3,
+        "explanation": "Distance in nth second ∝ (2n − 1); for n = 5, it is 9."
+    },
+    {
+        "id": 304,
+        "question": "Which of the following quantities is obtained by differentiating velocity with respect to time?",
+        "options": [
+            "Displacement",
+            "Speed",
+            "Acceleration",
+            "Jerk"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration is the time rate of change of velocity."
+    },
+    {
+        "id": 305,
+        "question": "A particle moves such that its displacement is proportional to t^3. The acceleration is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 0,
+        "explanation": "s ∝ t^3 ⇒ v ∝ t^2 ⇒ a ∝ t."
+    },
+    {
+        "id": 306,
+        "question": "The velocity–time graph of a particle is a straight line parallel to time axis. The motion represents:",
+        "options": [
+            "Uniform acceleration",
+            "Uniform velocity",
+            "Uniform retardation",
+            "Variable velocity"
+        ],
+        "answer": 1,
+        "explanation": "Parallel to time axis implies constant velocity."
+    },
+    {
+        "id": 307,
+        "question": "A particle moves with constant speed in a circular path. The acceleration is directed:",
+        "options": [
+            "Along velocity",
+            "Opposite to velocity",
+            "Towards centre",
+            "Away from centre"
+        ],
+        "answer": 2,
+        "explanation": "In uniform circular motion, acceleration is centripetal."
+    },
+    {
+        "id": 308,
+        "question": "If a particle moves with constant acceleration, which of the following graphs is a straight line?",
+        "options": [
+            "s–t",
+            "v–t",
+            "a–t with slope",
+            "s–v"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration, velocity varies linearly with time."
+    },
+    {
+        "id": 309,
+        "question": "The magnitude of displacement of a particle can be equal to distance travelled when:",
+        "options": [
+            "Motion is circular",
+            "Motion is oscillatory",
+            "Motion is along straight line without reversal",
+            "Motion is random"
+        ],
+        "answer": 2,
+        "explanation": "Distance equals displacement magnitude only when direction does not change."
+    },
+    {
+        "id": 310,
+        "question": "Which of the following quantities is always positive or zero?",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance is a scalar and cannot be negative."
+    },
+    {
+        "id": 311,
+        "question": "A particle moves such that its velocity is proportional to displacement. The acceleration is proportional to:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Square of displacement",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Using a = v dv/dx and v ∝ x gives a ∝ x."
+    },
+    {
+        "id": 312,
+        "question": "The slope of displacement–time graph at any instant gives:",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Slope of s–t graph represents instantaneous velocity."
+    },
+    {
+        "id": 313,
+        "question": "A body moves such that its acceleration is zero. Which of the following is possible?",
+        "options": [
+            "Uniform circular motion",
+            "Uniform straight line motion",
+            "Projectile motion",
+            "Oscillatory motion"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity along a straight line."
+    },
+    {
+        "id": 314,
+        "question": "Which of the following quantities can be zero for a moving particle?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Velocity can be zero when average displacement is zero despite motion."
+    },
+    {
+        "id": 315,
+        "question": "The average velocity of a particle over a time interval is zero. This implies:",
+        "options": [
+            "Distance travelled is zero",
+            "Acceleration is zero",
+            "Displacement is zero",
+            "Speed is zero throughout"
+        ],
+        "answer": 2,
+        "explanation": "Zero average velocity means net displacement is zero."
+    },
+    {
+        "id": 316,
+        "question": "If acceleration of a particle is constant and positive, the velocity–time graph is:",
+        "options": [
+            "Horizontal line",
+            "Straight line with positive slope",
+            "Straight line with negative slope",
+            "Curve"
+        ],
+        "answer": 1,
+        "explanation": "Constant positive acceleration gives straight line v–t graph with positive slope."
+    },
+    {
+        "id": 317,
+        "question": "A particle moves such that its speed remains constant but velocity changes. The acceleration is:",
+        "options": [
+            "Zero",
+            "Along velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity"
+        ],
+        "answer": 3,
+        "explanation": "Change in direction at constant speed gives perpendicular acceleration."
+    },
+    {
+        "id": 318,
+        "question": "The SI unit of acceleration is equivalent to:",
+        "options": [
+            "kg m s^-2",
+            "m s^-1",
+            "N kg^-1",
+            "m s^-3"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration m s^-2 is equivalent to N kg^-1."
+    },
+    {
+        "id": 319,
+        "question": "A particle starts from rest and moves with uniform acceleration. The velocity after time t is:",
+        "options": [
+            "u + at",
+            "at",
+            "u − at",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Starting from rest, u = 0, so v = at."
+    },
+    {
+        "id": 320,
+        "question": "The distance travelled by a freely falling body from rest in time t is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "√t"
+        ],
+        "answer": 1,
+        "explanation": "s = (1/2)gt^2, so s ∝ t^2."
+    },
+    {
+        "id": 321,
+        "question": "Which of the following quantities depends on the choice of origin?",
+        "options": [
+            "Distance",
+            "Speed",
+            "Acceleration",
+            "Position"
+        ],
+        "answer": 3,
+        "explanation": "Position depends on the chosen origin."
+    },
+    {
+        "id": 322,
+        "question": "A particle moves with decreasing speed and constant acceleration. The acceleration is:",
+        "options": [
+            "Along velocity",
+            "Opposite to velocity",
+            "Perpendicular to velocity",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Decrease in speed implies acceleration opposite to velocity."
+    },
+    {
+        "id": 323,
+        "question": "The slope of velocity–time graph represents:",
+        "options": [
+            "Speed",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph gives acceleration."
+    },
+    {
+        "id": 324,
+        "question": "A particle executes uniform circular motion. Which of the following remains constant?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant in uniform circular motion."
+    },
+    {
+        "id": 325,
+        "question": "If velocity of a particle is zero at an instant, which of the following may be non-zero?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Distance travelled at that instant",
+            "Velocity"
+        ],
+        "answer": 1,
+        "explanation": "At turning points, velocity can be zero while acceleration is non-zero."
+    },
+    {
+        "id": 326,
+        "question": "The displacement–time graph of a particle is a curve concave upward. The acceleration is:",
+        "options": [
+            "Zero",
+            "Negative",
+            "Positive",
+            "Constant zero"
+        ],
+        "answer": 2,
+        "explanation": "Increasing slope of s–t graph indicates positive acceleration."
+    },
+    {
+        "id": 327,
+        "question": "Which of the following quantities is independent of the frame of reference?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Distance travelled",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Distance travelled is frame-independent."
+    },
+    {
+        "id": 328,
+        "question": "The displacement of a particle executing circular motion after half a revolution is:",
+        "options": [
+            "πr",
+            "2πr",
+            "r",
+            "2r"
+        ],
+        "answer": 3,
+        "explanation": "After half revolution, displacement equals the diameter, 2r."
+    },
+    {
+        "id": 329,
+        "question": "If acceleration of a particle is proportional to velocity, the velocity varies with time as:",
+        "options": [
+            "Linear",
+            "Quadratic",
+            "Exponential",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "a ∝ v leads to exponential variation of velocity."
+    },
+    {
+        "id": 330,
+        "question": "The area under acceleration–time graph gives:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph equals change in velocity."
+    },
+    {
+        "id": 331,
+        "question": "Which of the following quantities can be negative in one-dimensional motion?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be negative depending on direction."
+    },
+    {
+        "id": 332,
+        "question": "A particle moves with uniform acceleration. The ratio of distances travelled in successive equal time intervals is:",
+        "options": [
+            "1 : 1 : 1",
+            "1 : 2 : 3",
+            "1 : 3 : 5",
+            "1 : 4 : 9"
+        ],
+        "answer": 2,
+        "explanation": "For uniform acceleration, distances in successive equal intervals follow odd number ratio."
+    },
+    {
+        "id": 333,
+        "question": "If the velocity–time graph of a particle cuts the time axis, then at that instant:",
+        "options": [
+            "Acceleration is zero",
+            "Velocity is zero",
+            "Speed is maximum",
+            "Displacement is zero"
+        ],
+        "answer": 1,
+        "explanation": "Intersection with time axis implies velocity is zero."
+    },
+    {
+        "id": 334,
+        "question": "A body moves in a straight line such that its speed increases but acceleration decreases. The acceleration is:",
+        "options": [
+            "Uniform",
+            "Zero",
+            "Variable",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "Decrease in acceleration with increasing speed implies variable acceleration."
+    },
+    {
+        "id": 335,
+        "question": "The displacement of a particle after one complete oscillation is:",
+        "options": [
+            "A",
+            "2A",
+            "4A",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "After one complete oscillation, particle returns to initial position."
+    },
+    {
+        "id": 336,
+        "question": "Which of the following graphs represents uniformly accelerated motion?",
+        "options": [
+            "Parabolic s–t graph",
+            "Horizontal v–t graph",
+            "Straight line s–t graph",
+            "Curved a–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Uniform acceleration gives parabolic displacement–time graph."
+    },
+    {
+        "id": 337,
+        "question": "The dimensional formula of velocity is:",
+        "options": [
+            "[LT^-2]",
+            "[LT^-1]",
+            "[L^2T^-1]",
+            "[MT^-1]"
+        ],
+        "answer": 1,
+        "explanation": "Velocity has dimensions LT^-1."
+    },
+    {
+        "id": 338,
+        "question": "A particle moves such that its displacement is proportional to time. The acceleration is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 339,
+        "question": "The time derivative of acceleration is called:",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Jerk",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Jerk is the rate of change of acceleration."
+    },
+    {
+        "id": 340,
+        "question": "A particle moves with constant speed along a straight line. Which of the following is true?",
+        "options": [
+            "Velocity is constant",
+            "Acceleration is non-zero",
+            "Displacement is zero",
+            "Speed changes"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed in straight line implies constant velocity."
+    },
+    {
+        "id": 341,
+        "question": "The SI unit of acceleration is:",
+        "options": [
+            "m s^-1",
+            "m s^-2",
+            "kg m s^-2",
+            "m s^-3"
+        ],
+        "answer": 1,
+        "explanation": "SI unit of acceleration is m s^-2."
+    },
+    {
+        "id": 342,
+        "question": "The area under velocity–time graph between two instants gives:",
+        "options": [
+            "Speed",
+            "Distance always",
+            "Displacement",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Area under v–t graph gives displacement."
+    },
+    {
+        "id": 343,
+        "question": "If the acceleration of a particle is zero, the velocity is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity."
+    },
+    {
+        "id": 344,
+        "question": "A particle moves such that its velocity decreases uniformly with time. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant positive",
+            "Constant negative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Uniform decrease in velocity implies constant negative acceleration."
+    },
+    {
+        "id": 345,
+        "question": "Which of the following quantities always remains non-negative?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance is always non-negative."
+    },
+    {
+        "id": 346,
+        "question": "A particle moves such that v^2 is proportional to displacement. The motion is:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Oscillatory"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s indicates constant acceleration."
+    },
+    {
+        "id": 347,
+        "question": "The displacement–time graph of a particle is a straight line parallel to time axis. The particle is:",
+        "options": [
+            "In uniform motion",
+            "Uniformly accelerated",
+            "At rest",
+            "Moving with constant acceleration"
+        ],
+        "answer": 2,
+        "explanation": "No change in displacement implies rest."
+    },
+    {
+        "id": 348,
+        "question": "Which of the following quantities has the same dimensions as velocity?",
+        "options": [
+            "Acceleration × time",
+            "Force / mass",
+            "Displacement / time^2",
+            "Jerk × time"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration multiplied by time gives velocity."
+    },
+    {
+        "id": 349,
+        "question": "A particle moves such that its acceleration is constant and velocity is zero at t = 0. The velocity at time t is:",
+        "options": [
+            "at",
+            "a/t",
+            "t/a",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration starting from rest, v = at."
+    },
+    {
+        "id": 350,
+        "question": "According to NCERT, which of the following is correct?",
+        "options": [
+            "Speed and velocity are identical",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Distance can be negative",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that average speed is always greater than or equal to magnitude of average velocity."
+    }
+]
+[
+    {
+        "id": 401,
+        "question": "A particle moves in one dimension such that its displacement is given by x = 3t^2 − 2t (in m). The velocity at time t is:",
+        "options": [
+            "6t − 2",
+            "6t + 2",
+            "3t − 2",
+            "6t"
+        ],
+        "answer": 0,
+        "explanation": "Velocity v = dx/dt = 6t − 2."
+    },
+    {
+        "id": 402,
+        "question": "For a particle moving along a straight line, which of the following quantities can be zero at an instant even though the particle is moving?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Velocity can be zero at a turning point even though the particle is in motion."
+    },
+    {
+        "id": 403,
+        "question": "The slope of velocity–time graph gives the:",
+        "options": [
+            "Speed",
+            "Distance",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph represents acceleration."
+    },
+    {
+        "id": 404,
+        "question": "A body starts from rest with uniform acceleration. The distance travelled in the third second is proportional to:",
+        "options": [
+            "3",
+            "5",
+            "7",
+            "9"
+        ],
+        "answer": 1,
+        "explanation": "Distance in nth second ∝ (2n − 1); for n = 3, it is 5."
+    },
+    {
+        "id": 405,
+        "question": "If displacement of a particle is proportional to time, its acceleration is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Decreasing",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "s ∝ t implies constant velocity, hence zero acceleration."
+    },
+    {
+        "id": 406,
+        "question": "Which of the following graphs represents motion with zero acceleration?",
+        "options": [
+            "Straight line v–t graph parallel to time axis",
+            "Straight line v–t graph with slope",
+            "Parabolic s–t graph",
+            "Curved v–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Horizontal v–t graph indicates constant velocity and zero acceleration."
+    },
+    {
+        "id": 407,
+        "question": "The SI unit of acceleration is:",
+        "options": [
+            "m s^-1",
+            "m s^-2",
+            "kg m s^-2",
+            "m s^-3"
+        ],
+        "answer": 1,
+        "explanation": "SI unit of acceleration is m s^-2."
+    },
+    {
+        "id": 408,
+        "question": "The area under a velocity–time graph represents:",
+        "options": [
+            "Speed",
+            "Distance always",
+            "Displacement",
+            "Acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Area under v–t graph gives displacement."
+    },
+    {
+        "id": 409,
+        "question": "A particle moves in a circular path with constant speed. Which quantity remains constant?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Speed",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Speed remains constant in uniform circular motion."
+    },
+    {
+        "id": 410,
+        "question": "Which of the following quantities is independent of the frame of reference?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Displacement",
+            "Distance travelled"
+        ],
+        "answer": 3,
+        "explanation": "Distance travelled is independent of frame of reference."
+    },
+    {
+        "id": 411,
+        "question": "A body moves with constant speed along a straight line. Which of the following is necessarily zero?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Constant speed in straight line implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 412,
+        "question": "If v^2 is proportional to displacement, the motion has:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Zero acceleration"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s corresponds to constant acceleration."
+    },
+    {
+        "id": 413,
+        "question": "The dimensional formula of velocity is:",
+        "options": [
+            "[LT^-2]",
+            "[LT^-1]",
+            "[L^2T^-1]",
+            "[MT^-1]"
+        ],
+        "answer": 1,
+        "explanation": "Velocity has dimensional formula LT^-1."
+    },
+    {
+        "id": 414,
+        "question": "A freely falling body starting from rest covers a distance proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "√t"
+        ],
+        "answer": 1,
+        "explanation": "For free fall, s = (1/2)gt^2."
+    },
+    {
+        "id": 415,
+        "question": "The velocity of a particle is maximum when:",
+        "options": [
+            "Acceleration is zero",
+            "Displacement is zero",
+            "Distance is zero",
+            "Time is zero"
+        ],
+        "answer": 0,
+        "explanation": "Velocity is maximum when its rate of change, i.e., acceleration, is zero."
+    },
+    {
+        "id": 416,
+        "question": "The slope of displacement–time graph represents:",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Slope of s–t graph gives velocity."
+    },
+    {
+        "id": 417,
+        "question": "Which of the following quantities can be negative in one-dimensional motion?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be negative depending on direction."
+    },
+    {
+        "id": 418,
+        "question": "A particle moves such that its acceleration is constant and velocity is zero at t = 0. The velocity at time t is:",
+        "options": [
+            "at",
+            "a/t",
+            "t/a",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration starting from rest, v = at."
+    },
+    {
+        "id": 419,
+        "question": "The displacement of a particle after one complete oscillation is:",
+        "options": [
+            "Amplitude",
+            "2A",
+            "4A",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "After one complete oscillation, the particle returns to its initial position."
+    },
+    {
+        "id": 420,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Speed can be negative",
+            "Distance can be negative",
+            "Velocity can be negative",
+            "Time can be negative"
+        ],
+        "answer": 2,
+        "explanation": "Velocity can be negative depending on the chosen direction."
+    },
+    {
+        "id": 421,
+        "question": "The motion of a body with constant speed and changing velocity is:",
+        "options": [
+            "Uniform straight line motion",
+            "Uniform circular motion",
+            "Free fall",
+            "Random motion"
+        ],
+        "answer": 1,
+        "explanation": "In uniform circular motion, speed is constant but velocity changes direction."
+    },
+    {
+        "id": 422,
+        "question": "Which of the following quantities is always non-negative?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance is always non-negative."
+    },
+    {
+        "id": 423,
+        "question": "The time derivative of acceleration is known as:",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Jerk",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Jerk is the rate of change of acceleration."
+    },
+    {
+        "id": 424,
+        "question": "A particle moves such that its velocity decreases uniformly with time. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant positive",
+            "Constant negative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Uniform decrease in velocity implies constant negative acceleration."
+    },
+    {
+        "id": 425,
+        "question": "The area under acceleration–time graph represents:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph gives change in velocity."
+    },
+    {
+        "id": 426,
+        "question": "A particle moves with constant acceleration. Which of the following graphs is linear?",
+        "options": [
+            "s–t",
+            "v–t",
+            "a–t",
+            "v–s"
+        ],
+        "answer": 1,
+        "explanation": "For constant acceleration, velocity varies linearly with time."
+    },
+    {
+        "id": 427,
+        "question": "Which of the following quantities depends on the choice of origin?",
+        "options": [
+            "Distance",
+            "Speed",
+            "Acceleration",
+            "Position"
+        ],
+        "answer": 3,
+        "explanation": "Position depends on the choice of origin."
+    },
+    {
+        "id": 428,
+        "question": "A particle executes uniform circular motion. The direction of acceleration is:",
+        "options": [
+            "Tangential",
+            "Radially outward",
+            "Radially inward",
+            "Along velocity"
+        ],
+        "answer": 2,
+        "explanation": "Acceleration in uniform circular motion is directed towards the centre."
+    },
+    {
+        "id": 429,
+        "question": "If acceleration of a particle is zero, the velocity is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity."
+    },
+    {
+        "id": 430,
+        "question": "The displacement–time graph of a particle is a straight line inclined to the time axis. The particle has:",
+        "options": [
+            "Zero velocity",
+            "Constant velocity",
+            "Uniform acceleration",
+            "Variable acceleration"
+        ],
+        "answer": 1,
+        "explanation": "Straight line s–t graph implies constant velocity."
+    },
+    {
+        "id": 431,
+        "question": "A particle moves such that its acceleration is proportional to velocity. The velocity varies with time as:",
+        "options": [
+            "Linear",
+            "Quadratic",
+            "Exponential",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "a ∝ v gives exponential variation of velocity."
+    },
+    {
+        "id": 432,
+        "question": "Which of the following motions has constant acceleration but variable speed?",
+        "options": [
+            "Uniform straight line motion",
+            "Free fall",
+            "Uniform circular motion",
+            "Zero acceleration motion"
+        ],
+        "answer": 1,
+        "explanation": "In free fall, acceleration is constant while speed changes."
+    },
+    {
+        "id": 433,
+        "question": "The SI unit of jerk is:",
+        "options": [
+            "m s^-2",
+            "m s^-3",
+            "m s^-1",
+            "kg m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "Jerk is rate of change of acceleration, unit m s^-3."
+    },
+    {
+        "id": 434,
+        "question": "Which of the following quantities changes sign when direction of motion is reversed?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on direction and changes sign."
+    },
+    {
+        "id": 435,
+        "question": "A particle moves such that its displacement is proportional to t^2. The velocity is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt ∝ t."
+    },
+    {
+        "id": 436,
+        "question": "Which of the following is correct according to NCERT?",
+        "options": [
+            "Speed is always equal to magnitude of velocity",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Distance can be negative",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that average speed is always greater than or equal to magnitude of average velocity."
+    },
+    {
+        "id": 437,
+        "question": "The displacement of a particle executing uniform circular motion after one complete revolution is:",
+        "options": [
+            "2πr",
+            "πr",
+            "r",
+            "0"
+        ],
+        "answer": 3,
+        "explanation": "After one complete revolution, displacement is zero."
+    },
+    {
+        "id": 438,
+        "question": "A particle moves such that its velocity is zero at an instant. Which of the following must be zero?",
+        "options": [
+            "Acceleration",
+            "Speed",
+            "Displacement",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Speed is the magnitude of velocity, so it must be zero."
+    },
+    {
+        "id": 439,
+        "question": "The average speed of a body is zero if:",
+        "options": [
+            "Displacement is zero",
+            "Velocity is zero",
+            "Distance travelled is zero",
+            "Acceleration is zero"
+        ],
+        "answer": 2,
+        "explanation": "Average speed is zero only when total distance covered is zero."
+    },
+    {
+        "id": 440,
+        "question": "The displacement of a freely falling body from rest varies with time as:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "For free fall from rest, s ∝ t^2."
+    },
+    {
+        "id": 441,
+        "question": "A particle moves with constant acceleration. The velocity–time graph is:",
+        "options": [
+            "Parabolic",
+            "Straight line",
+            "Hyperbola",
+            "Circular"
+        ],
+        "answer": 1,
+        "explanation": "Constant acceleration gives linear v–t graph."
+    },
+    {
+        "id": 442,
+        "question": "Which of the following quantities has the same dimensions as velocity?",
+        "options": [
+            "Acceleration × time",
+            "Force / mass",
+            "Displacement / time^2",
+            "Jerk × time"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration multiplied by time gives velocity."
+    },
+    {
+        "id": 443,
+        "question": "The displacement–time graph of a particle is parallel to time axis. The particle is:",
+        "options": [
+            "In uniform motion",
+            "Uniformly accelerated",
+            "At rest",
+            "Moving with constant acceleration"
+        ],
+        "answer": 2,
+        "explanation": "No change in displacement with time implies rest."
+    },
+    {
+        "id": 444,
+        "question": "A particle moves such that its velocity decreases exponentially with time. The acceleration is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Proportional to velocity",
+            "Increasing"
+        ],
+        "answer": 2,
+        "explanation": "Exponential decay of velocity implies acceleration proportional to velocity."
+    },
+    {
+        "id": 445,
+        "question": "Which of the following quantities is frame-dependent?",
+        "options": [
+            "Distance",
+            "Time interval",
+            "Velocity",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on the frame of reference."
+    },
+    {
+        "id": 446,
+        "question": "A particle moves such that its speed remains constant but direction changes uniformly. The magnitude of acceleration is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Uniform circular motion has constant centripetal acceleration magnitude."
+    },
+    {
+        "id": 447,
+        "question": "The slope of acceleration–time graph represents:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Jerk",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Slope of a–t graph gives jerk."
+    },
+    {
+        "id": 448,
+        "question": "Which of the following motions is not possible?",
+        "options": [
+            "Constant velocity with zero acceleration",
+            "Zero velocity with non-zero acceleration",
+            "Constant speed with changing velocity",
+            "Velocity and acceleration perpendicular in straight line motion"
+        ],
+        "answer": 3,
+        "explanation": "In straight line motion, velocity and acceleration cannot be perpendicular."
+    },
+    {
+        "id": 449,
+        "question": "A particle moves such that its displacement is proportional to t^3. The velocity varies as:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t^3 ⇒ v = ds/dt ∝ t^2."
+    },
+    {
+        "id": 450,
+        "question": "The motion of a particle with constant speed and constant acceleration is possible only when:",
+        "options": [
+            "Acceleration is zero",
+            "Motion is circular",
+            "Acceleration is perpendicular to velocity",
+            "Motion is oscillatory"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed with constant acceleration is possible only if acceleration is zero."
+    }
+]
+[
+    {
+        "id": 451,
+        "question": "A particle moves along a straight line with displacement given by s = 5t^2 + 2t (in m). The acceleration of the particle is:",
+        "options": [
+            "10 m s^-2",
+            "5 m s^-2",
+            "2 m s^-2",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt = 10t + 2, so a = dv/dt = 10 m s^-2."
+    },
+    {
+        "id": 452,
+        "question": "If the velocity of a particle is a linear function of time, the acceleration of the particle is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Linear variation of velocity with time implies constant acceleration."
+    },
+    {
+        "id": 453,
+        "question": "A body starts from rest and moves with uniform acceleration. The distance travelled in the first second is proportional to:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 0,
+        "explanation": "Distance in first second ∝ (2×1 − 1) = 1."
+    },
+    {
+        "id": 454,
+        "question": "Which of the following quantities is given by the area under a velocity–time graph?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Displacement",
+            "Distance always"
+        ],
+        "answer": 2,
+        "explanation": "Area under velocity–time graph gives displacement."
+    },
+    {
+        "id": 455,
+        "question": "A particle moves such that its displacement is proportional to time squared. The velocity is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 0,
+        "explanation": "v = ds/dt, so v ∝ t."
+    },
+    {
+        "id": 456,
+        "question": "The slope of displacement–time graph represents:",
+        "options": [
+            "Speed",
+            "Velocity",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Slope of s–t graph gives instantaneous velocity."
+    },
+    {
+        "id": 457,
+        "question": "Which of the following quantities can be negative in one-dimensional motion?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be negative depending on the chosen direction."
+    },
+    {
+        "id": 458,
+        "question": "A particle moves such that its velocity is zero at an instant. Which of the following must be zero at that instant?",
+        "options": [
+            "Acceleration",
+            "Speed",
+            "Displacement",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Speed is the magnitude of velocity, so it must be zero."
+    },
+    {
+        "id": 459,
+        "question": "If the acceleration of a particle is zero, the velocity of the particle is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Zero acceleration implies constant velocity."
+    },
+    {
+        "id": 460,
+        "question": "A particle moves with constant speed along a circular path. The acceleration is directed:",
+        "options": [
+            "Along the velocity",
+            "Opposite to velocity",
+            "Towards the centre",
+            "Away from the centre"
+        ],
+        "answer": 2,
+        "explanation": "In uniform circular motion, acceleration is centripetal."
+    },
+    {
+        "id": 461,
+        "question": "The displacement of a particle after one complete revolution in circular motion is:",
+        "options": [
+            "2πr",
+            "πr",
+            "r",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "Initial and final positions coincide, so displacement is zero."
+    },
+    {
+        "id": 462,
+        "question": "Which of the following motions has constant acceleration?",
+        "options": [
+            "Uniform circular motion",
+            "Simple harmonic motion",
+            "Free fall near Earth",
+            "Uniform speed motion"
+        ],
+        "answer": 2,
+        "explanation": "Free fall near Earth occurs with constant acceleration g."
+    },
+    {
+        "id": 463,
+        "question": "If the average velocity of a particle over a time interval is zero, then:",
+        "options": [
+            "Distance travelled is zero",
+            "Acceleration is zero",
+            "Displacement is zero",
+            "Speed is zero throughout"
+        ],
+        "answer": 2,
+        "explanation": "Zero average velocity implies zero displacement."
+    },
+    {
+        "id": 464,
+        "question": "The dimensional formula of acceleration is:",
+        "options": [
+            "[LT^-1]",
+            "[LT^-2]",
+            "[L^2T^-1]",
+            "[MT^-2]"
+        ],
+        "answer": 1,
+        "explanation": "Acceleration has dimensional formula LT^-2."
+    },
+    {
+        "id": 465,
+        "question": "A particle moves such that its velocity decreases uniformly with time. The acceleration is:",
+        "options": [
+            "Zero",
+            "Constant positive",
+            "Constant negative",
+            "Variable"
+        ],
+        "answer": 2,
+        "explanation": "Uniform decrease in velocity implies constant negative acceleration."
+    },
+    {
+        "id": 466,
+        "question": "The distance travelled by a freely falling body from rest in time t is proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "√t"
+        ],
+        "answer": 1,
+        "explanation": "For free fall, s = (1/2)gt^2, so s ∝ t^2."
+    },
+    {
+        "id": 467,
+        "question": "Which of the following quantities is independent of the frame of reference?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Displacement",
+            "Distance travelled"
+        ],
+        "answer": 3,
+        "explanation": "Distance travelled is independent of the frame of reference."
+    },
+    {
+        "id": 468,
+        "question": "The area under acceleration–time graph represents:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Change in velocity",
+            "Distance"
+        ],
+        "answer": 2,
+        "explanation": "Area under a–t graph gives change in velocity."
+    },
+    {
+        "id": 469,
+        "question": "Which of the following quantities always remains non-negative?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Distance"
+        ],
+        "answer": 3,
+        "explanation": "Distance is always non-negative."
+    },
+    {
+        "id": 470,
+        "question": "A particle moves such that its acceleration is proportional to velocity. The velocity varies with time as:",
+        "options": [
+            "Linear",
+            "Quadratic",
+            "Exponential",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "a ∝ v leads to exponential variation of velocity."
+    },
+    {
+        "id": 471,
+        "question": "The slope of velocity–time graph represents:",
+        "options": [
+            "Speed",
+            "Distance",
+            "Acceleration",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Slope of v–t graph gives acceleration."
+    },
+    {
+        "id": 472,
+        "question": "A particle moves such that its displacement is proportional to time. The acceleration of the particle is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Decreasing",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "s ∝ t implies constant velocity and zero acceleration."
+    },
+    {
+        "id": 473,
+        "question": "Which of the following quantities changes sign when the direction of motion is reversed?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on direction and changes sign on reversal."
+    },
+    {
+        "id": 474,
+        "question": "The time derivative of acceleration is known as:",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Jerk",
+            "Displacement"
+        ],
+        "answer": 2,
+        "explanation": "Jerk is the rate of change of acceleration."
+    },
+    {
+        "id": 475,
+        "question": "A particle moves with constant acceleration. The velocity–time graph is:",
+        "options": [
+            "Parabola",
+            "Straight line",
+            "Hyperbola",
+            "Circle"
+        ],
+        "answer": 1,
+        "explanation": "Constant acceleration gives linear velocity–time graph."
+    },
+    {
+        "id": 476,
+        "question": "Which of the following motions is not possible?",
+        "options": [
+            "Constant velocity with zero acceleration",
+            "Zero velocity with non-zero acceleration",
+            "Constant speed with changing velocity",
+            "Velocity and acceleration perpendicular in straight line motion"
+        ],
+        "answer": 3,
+        "explanation": "In straight line motion, velocity and acceleration cannot be perpendicular."
+    },
+    {
+        "id": 477,
+        "question": "The displacement–time graph of a particle is parallel to the time axis. The particle is:",
+        "options": [
+            "In uniform motion",
+            "Uniformly accelerated",
+            "At rest",
+            "Moving with constant acceleration"
+        ],
+        "answer": 2,
+        "explanation": "Parallel to time axis means displacement is constant, so particle is at rest."
+    },
+    {
+        "id": 478,
+        "question": "Which of the following quantities has the same dimensions as velocity?",
+        "options": [
+            "Acceleration × time",
+            "Force / mass",
+            "Displacement / time^2",
+            "Jerk × time"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration multiplied by time gives velocity."
+    },
+    {
+        "id": 479,
+        "question": "The displacement of a particle executing simple oscillatory motion after one complete cycle is:",
+        "options": [
+            "Amplitude",
+            "2A",
+            "4A",
+            "Zero"
+        ],
+        "answer": 3,
+        "explanation": "After one complete cycle, particle returns to initial position."
+    },
+    {
+        "id": 480,
+        "question": "A particle moves such that its velocity decreases exponentially with time. The acceleration is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Proportional to velocity",
+            "Increasing"
+        ],
+        "answer": 2,
+        "explanation": "Exponential decay of velocity implies acceleration proportional to velocity."
+    },
+    {
+        "id": 481,
+        "question": "Which of the following quantities is frame-dependent?",
+        "options": [
+            "Distance",
+            "Time interval",
+            "Velocity",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Velocity depends on the frame of reference."
+    },
+    {
+        "id": 482,
+        "question": "A particle moves with constant speed but changing velocity. The motion must be:",
+        "options": [
+            "Uniform straight line",
+            "Uniform circular",
+            "Free fall",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "In uniform circular motion, speed is constant but velocity changes direction."
+    },
+    {
+        "id": 483,
+        "question": "The SI unit of jerk is:",
+        "options": [
+            "m s^-2",
+            "m s^-3",
+            "m s^-1",
+            "kg m s^-2"
+        ],
+        "answer": 1,
+        "explanation": "Jerk is rate of change of acceleration, unit m s^-3."
+    },
+    {
+        "id": 484,
+        "question": "Which of the following quantities can be zero even when the body is moving?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Velocity",
+            "Time"
+        ],
+        "answer": 2,
+        "explanation": "Velocity can be zero at a turning point even though motion has occurred."
+    },
+    {
+        "id": 485,
+        "question": "A particle moves such that its displacement is proportional to t^3. The velocity varies as:",
+        "options": [
+            "t",
+            "t^2",
+            "Constant",
+            "1/t"
+        ],
+        "answer": 1,
+        "explanation": "s ∝ t^3 ⇒ v = ds/dt ∝ t^2."
+    },
+    {
+        "id": 486,
+        "question": "The motion of a freely falling body starting from rest has velocity proportional to:",
+        "options": [
+            "t",
+            "t^2",
+            "t^3",
+            "√t"
+        ],
+        "answer": 0,
+        "explanation": "For free fall, v = gt, so v ∝ t."
+    },
+    {
+        "id": 487,
+        "question": "Which of the following quantities does not depend on the direction of motion?",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Acceleration",
+            "Speed"
+        ],
+        "answer": 3,
+        "explanation": "Speed is a scalar and independent of direction."
+    },
+    {
+        "id": 488,
+        "question": "A particle moves with constant acceleration. Which of the following relations is correct?",
+        "options": [
+            "v = u + at",
+            "v = ut",
+            "a = vt",
+            "s = ut"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration, v = u + at."
+    },
+    {
+        "id": 489,
+        "question": "The average speed of a body is zero if:",
+        "options": [
+            "Displacement is zero",
+            "Velocity is zero",
+            "Distance travelled is zero",
+            "Acceleration is zero"
+        ],
+        "answer": 2,
+        "explanation": "Average speed is zero only when no distance is covered."
+    },
+    {
+        "id": 490,
+        "question": "The slope of acceleration–time graph represents:",
+        "options": [
+            "Velocity",
+            "Displacement",
+            "Jerk",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "Slope of a–t graph gives jerk."
+    },
+    {
+        "id": 491,
+        "question": "A particle moves such that its acceleration is constant and velocity is zero at t = 0. The velocity at time t is:",
+        "options": [
+            "at",
+            "a/t",
+            "t/a",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "For constant acceleration starting from rest, v = at."
+    },
+    {
+        "id": 492,
+        "question": "Which of the following quantities always remains the same for all observers?",
+        "options": [
+            "Velocity",
+            "Acceleration",
+            "Displacement",
+            "Distance travelled"
+        ],
+        "answer": 3,
+        "explanation": "Distance travelled is the same for all observers."
+    },
+    {
+        "id": 493,
+        "question": "A particle moves such that its speed increases but acceleration decreases. The acceleration is:",
+        "options": [
+            "Uniform",
+            "Zero",
+            "Variable",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "Changing acceleration indicates variable acceleration."
+    },
+    {
+        "id": 494,
+        "question": "Which of the following graphs represents uniformly accelerated motion?",
+        "options": [
+            "Parabolic s–t graph",
+            "Horizontal v–t graph",
+            "Straight line s–t graph",
+            "Curved a–t graph"
+        ],
+        "answer": 0,
+        "explanation": "Uniform acceleration gives parabolic displacement–time graph."
+    },
+    {
+        "id": 495,
+        "question": "The displacement of a particle executing uniform circular motion after half a revolution is:",
+        "options": [
+            "πr",
+            "2πr",
+            "r",
+            "2r"
+        ],
+        "answer": 3,
+        "explanation": "After half revolution, displacement equals the diameter, 2r."
+    },
+    {
+        "id": 496,
+        "question": "Which of the following quantities can be negative?",
+        "options": [
+            "Speed",
+            "Distance",
+            "Time",
+            "Velocity"
+        ],
+        "answer": 3,
+        "explanation": "Velocity can be negative depending on direction."
+    },
+    {
+        "id": 497,
+        "question": "The SI unit of acceleration can also be written as:",
+        "options": [
+            "N kg^-1",
+            "kg m s^-2",
+            "m s^-1",
+            "m s^-3"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration m s^-2 is equivalent to N kg^-1."
+    },
+    {
+        "id": 498,
+        "question": "If a particle has constant velocity, which of the following must be zero?",
+        "options": [
+            "Speed",
+            "Acceleration",
+            "Displacement",
+            "Distance"
+        ],
+        "answer": 1,
+        "explanation": "Constant velocity implies zero acceleration."
+    },
+    {
+        "id": 499,
+        "question": "The motion of a particle for which v^2 is proportional to displacement corresponds to:",
+        "options": [
+            "Uniform velocity",
+            "Uniform acceleration",
+            "Variable acceleration",
+            "Oscillatory motion"
+        ],
+        "answer": 1,
+        "explanation": "v^2 ∝ s is characteristic of constant acceleration."
+    },
+    {
+        "id": 500,
+        "question": "According to NCERT, which of the following is correct?",
+        "options": [
+            "Speed and velocity are identical quantities",
+            "Average speed is always greater than or equal to magnitude of average velocity",
+            "Distance can be negative",
+            "Acceleration is scalar"
+        ],
+        "answer": 1,
+        "explanation": "NCERT clearly states that average speed is always greater than or equal to the magnitude of average velocity."
+    }
+]

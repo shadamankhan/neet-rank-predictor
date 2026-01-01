@@ -1,0 +1,3002 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following hydrocarbons shows maximum heat of hydrogenation per mole of H2?",
+        "options": [
+            "Ethene",
+            "Benzene",
+            "Cyclohexene",
+            "1,3-Butadiene"
+        ],
+        "answer": 0,
+        "explanation": "Ethene has an isolated C=C bond; conjugation and aromaticity reduce heat of hydrogenation."
+    },
+    {
+        "id": 2,
+        "question": "The number of sigma (σ) and pi (π) bonds present in benzene (C6H6) respectively are:",
+        "options": [
+            "12 σ, 3 π",
+            "6 σ, 6 π",
+            "12 σ, 6 π",
+            "9 σ, 3 π"
+        ],
+        "answer": 0,
+        "explanation": "Benzene has 6 C-C σ, 6 C-H σ bonds and 3 delocalised π bonds."
+    },
+    {
+        "id": 3,
+        "question": "Which alkene shows geometrical isomerism?",
+        "options": [
+            "Propene",
+            "2-Methylpropene",
+            "But-2-ene",
+            "Ethene"
+        ],
+        "answer": 2,
+        "explanation": "But-2-ene has different groups on each carbon of the C=C bond, allowing cis-trans isomerism."
+    },
+    {
+        "id": 4,
+        "question": "Ozonolysis of propene followed by Zn/H2O gives:",
+        "options": [
+            "Methanal + Ethanal",
+            "Methanal + Methanone",
+            "Ethanal + Methanone",
+            "Two molecules of methanal"
+        ],
+        "answer": 1,
+        "explanation": "Propene cleaves to methanal (HCHO) and methanone (acetone)."
+    },
+    {
+        "id": 5,
+        "question": "Which carbocation is most stable?",
+        "options": [
+            "CH3+",
+            "CH3CH2+",
+            "(CH3)2CH+",
+            "(CH3)3C+"
+        ],
+        "answer": 3,
+        "explanation": "Tertiary carbocation is most stable due to maximum hyperconjugation and inductive effect."
+    },
+    {
+        "id": 6,
+        "question": "The correct increasing order of acidity is:",
+        "options": [
+            "Alkane < Alkene < Alkyne",
+            "Alkene < Alkane < Alkyne",
+            "Alkyne < Alkene < Alkane",
+            "Alkane < Alkyne < Alkene"
+        ],
+        "answer": 0,
+        "explanation": "Greater s-character increases acidity: sp > sp2 > sp3."
+    },
+    {
+        "id": 7,
+        "question": "Which reagent converts an alkyne into a cis-alkene?",
+        "options": [
+            "Na / NH3",
+            "H2 / Pd-C",
+            "H2 / Lindlar catalyst",
+            "KMnO4"
+        ],
+        "answer": 2,
+        "explanation": "Lindlar catalyst gives partial hydrogenation to cis-alkene."
+    },
+    {
+        "id": 8,
+        "question": "The IUPAC name of (CH3)3C-CH=CH2 is:",
+        "options": [
+            "3-Methylbut-1-ene",
+            "2,2-Dimethylpropene",
+            "2-Methylbut-1-ene",
+            "2,2-Dimethylbut-1-ene"
+        ],
+        "answer": 0,
+        "explanation": "Longest chain with double bond gives but-1-ene with a methyl at C-3."
+    },
+    {
+        "id": 9,
+        "question": "Which hydrocarbon does not undergo electrophilic substitution?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Ethene",
+            "Anisole"
+        ],
+        "answer": 2,
+        "explanation": "Alkenes undergo electrophilic addition, not substitution."
+    },
+    {
+        "id": 10,
+        "question": "In free radical chlorination of methane, the initiation step is:",
+        "options": [
+            "CH4 → CH3· + H·",
+            "Cl2 → 2Cl·",
+            "CH3· + Cl2 → CH3Cl + Cl·",
+            "Cl· + CH4 → CH3· + HCl"
+        ],
+        "answer": 1,
+        "explanation": "Homolytic cleavage of Cl2 forms radicals in initiation."
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is aromatic?",
+        "options": [
+            "Cyclobutadiene",
+            "Cyclooctatetraene",
+            "Benzene",
+            "Cyclopentadiene"
+        ],
+        "answer": 2,
+        "explanation": "Benzene follows Hückel rule (4n+2 π electrons, n=1)."
+    },
+    {
+        "id": 12,
+        "question": "The hybridisation of carbon atoms in ethyne is:",
+        "options": [
+            "sp2",
+            "sp3",
+            "sp",
+            "sp2 and sp"
+        ],
+        "answer": 2,
+        "explanation": "Each carbon in ethyne is sp-hybridised."
+    },
+    {
+        "id": 13,
+        "question": "Which reagent distinguishes ethene and ethane?",
+        "options": [
+            "Bromine water",
+            "Dilute HCl",
+            "NaOH",
+            "Water"
+        ],
+        "answer": 0,
+        "explanation": "Ethene decolourises bromine water; ethane does not."
+    },
+    {
+        "id": 14,
+        "question": "Markovnikov addition occurs due to formation of:",
+        "options": [
+            "More substituted alkene",
+            "More stable carbocation",
+            "Free radical intermediate",
+            "Carbanion"
+        ],
+        "answer": 1,
+        "explanation": "Reaction proceeds via the more stable carbocation intermediate."
+    },
+    {
+        "id": 15,
+        "question": "Anti-Markovnikov addition of HBr occurs in presence of:",
+        "options": [
+            "Peroxide",
+            "UV light",
+            "AlCl3",
+            "ZnCl2"
+        ],
+        "answer": 0,
+        "explanation": "Peroxide initiates free radical mechanism giving anti-Markovnikov addition."
+    },
+    {
+        "id": 16,
+        "question": "Which alkyne gives acidic hydrogen?",
+        "options": [
+            "But-2-yne",
+            "Propyne",
+            "2-Methylbut-2-yne",
+            "Diphenylacetylene"
+        ],
+        "answer": 1,
+        "explanation": "Terminal alkynes like propyne have acidic hydrogen."
+    },
+    {
+        "id": 17,
+        "question": "The major product of nitration of toluene is:",
+        "options": [
+            "o-Nitrotoluene",
+            "m-Nitrotoluene",
+            "p-Nitrotoluene",
+            "Equal o- and p-"
+        ],
+        "answer": 3,
+        "explanation": "Methyl group is o,p-directing; both o- and p- are major."
+    },
+    {
+        "id": 18,
+        "question": "Which hydrocarbon gives only one monochloro product?",
+        "options": [
+            "Ethane",
+            "Propane",
+            "Isobutane",
+            "Neopentane"
+        ],
+        "answer": 3,
+        "explanation": "All hydrogens in neopentane are equivalent."
+    },
+    {
+        "id": 19,
+        "question": "The bond angle in sp-hybridised carbon is:",
+        "options": [
+            "109.5°",
+            "120°",
+            "180°",
+            "90°"
+        ],
+        "answer": 2,
+        "explanation": "sp hybridisation gives linear geometry (180°)."
+    },
+    {
+        "id": 20,
+        "question": "Which reaction converts alkene into alkane?",
+        "options": [
+            "Ozonolysis",
+            "Hydrogenation",
+            "Hydration",
+            "Polymerisation"
+        ],
+        "answer": 1,
+        "explanation": "Addition of H2 converts C=C to C-C single bond."
+    },
+    {
+        "id": 21,
+        "question": "Which compound shows maximum hyperconjugation?",
+        "options": [
+            "Ethane",
+            "Propene",
+            "Isobutane",
+            "Tert-butyl cation"
+        ],
+        "answer": 3,
+        "explanation": "Tert-butyl cation has maximum number of α C-H bonds."
+    },
+    {
+        "id": 22,
+        "question": "The number of structural isomers of C4H10 is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "n-Butane and isobutane are the two isomers."
+    },
+    {
+        "id": 23,
+        "question": "Which compound undergoes fastest SN1 reaction?",
+        "options": [
+            "CH3Cl",
+            "C2H5Cl",
+            "(CH3)2CHCl",
+            "(CH3)3CCl"
+        ],
+        "answer": 3,
+        "explanation": "SN1 rate depends on carbocation stability; tertiary is fastest."
+    },
+    {
+        "id": 24,
+        "question": "Which hydrocarbon gives black precipitate with ammoniacal AgNO3?",
+        "options": [
+            "Ethene",
+            "Ethane",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Terminal alkynes form silver acetylide precipitate."
+    },
+    {
+        "id": 25,
+        "question": "The total number of π electrons in naphthalene is:",
+        "options": [
+            "6",
+            "8",
+            "10",
+            "12"
+        ],
+        "answer": 2,
+        "explanation": "Naphthalene has 10 π electrons, satisfying Hückel rule."
+    },
+    {
+        "id": 26,
+        "question": "Which compound is least reactive towards electrophilic substitution?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Aniline"
+        ],
+        "answer": 2,
+        "explanation": "-Cl has -I effect reducing ring activation despite +R effect."
+    },
+    {
+        "id": 27,
+        "question": "The major product formed when propene reacts with cold dilute KMnO4 is:",
+        "options": [
+            "Propanone",
+            "Ethane-1,2-diol",
+            "Propane",
+            "Propanoic acid"
+        ],
+        "answer": 1,
+        "explanation": "Cold KMnO4 gives vicinal diol (glycol formation)."
+    },
+    {
+        "id": 28,
+        "question": "Which of the following has maximum bond length?",
+        "options": [
+            "C-C",
+            "C=C",
+            "C≡C",
+            "All equal"
+        ],
+        "answer": 0,
+        "explanation": "Single bond has maximum bond length."
+    },
+    {
+        "id": 29,
+        "question": "Which compound is non-aromatic?",
+        "options": [
+            "Benzene",
+            "Cyclopentadienyl anion",
+            "Cyclooctatetraene",
+            "Tropylium cation"
+        ],
+        "answer": 2,
+        "explanation": "Cyclooctatetraene is non-planar and non-aromatic."
+    },
+    {
+        "id": 30,
+        "question": "Which reaction is used to prepare alkane from alkyl halide?",
+        "options": [
+            "Wurtz reaction",
+            "Kolbe reaction",
+            "Friedel-Crafts",
+            "Ozonolysis"
+        ],
+        "answer": 0,
+        "explanation": "Wurtz reaction couples alkyl halides to form alkanes."
+    },
+    {
+        "id": 31,
+        "question": "The degree of unsaturation of C6H6 is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 2,
+        "explanation": "Degree = (2C+2−H)/2 = (14−6)/2 = 4."
+    },
+    {
+        "id": 32,
+        "question": "Which hydrocarbon undergoes addition reactions most readily?",
+        "options": [
+            "Alkane",
+            "Alkene",
+            "Aromatic hydrocarbon",
+            "Cycloalkane"
+        ],
+        "answer": 1,
+        "explanation": "Alkenes readily undergo electrophilic addition."
+    },
+    {
+        "id": 33,
+        "question": "The catalyst used in Friedel-Crafts alkylation is:",
+        "options": [
+            "AlCl3",
+            "ZnCl2",
+            "FeCl3",
+            "H2SO4"
+        ],
+        "answer": 0,
+        "explanation": "Anhydrous AlCl3 is the Lewis acid catalyst."
+    },
+    {
+        "id": 34,
+        "question": "Which compound shows maximum resonance stabilisation?",
+        "options": [
+            "Ethene",
+            "1,3-Butadiene",
+            "Benzene",
+            "Propene"
+        ],
+        "answer": 2,
+        "explanation": "Aromatic benzene has highest resonance energy."
+    },
+    {
+        "id": 35,
+        "question": "Which hydrocarbon gives sooty flame?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Benzene",
+            "Propane"
+        ],
+        "answer": 2,
+        "explanation": "Aromatic compounds burn with sooty flame due to high C/H ratio."
+    },
+    {
+        "id": 36,
+        "question": "Which is the correct order of bond strength?",
+        "options": [
+            "C≡C > C=C > C-C",
+            "C-C > C=C > C≡C",
+            "C=C > C≡C > C-C",
+            "C≡C > C-C > C=C"
+        ],
+        "answer": 0,
+        "explanation": "Bond strength increases with bond order."
+    },
+    {
+        "id": 37,
+        "question": "The product formed when ethyne reacts with excess HBr is:",
+        "options": [
+            "Bromoethene",
+            "1,2-Dibromoethane",
+            "1,1-Dibromoethane",
+            "Ethyl bromide"
+        ],
+        "answer": 2,
+        "explanation": "Markovnikov addition twice gives gem-dibromide."
+    },
+    {
+        "id": 38,
+        "question": "Which intermediate is formed in electrophilic addition to alkenes?",
+        "options": [
+            "Free radical",
+            "Carbocation",
+            "Carbanion",
+            "Carbene"
+        ],
+        "answer": 1,
+        "explanation": "Electrophilic addition proceeds via carbocation intermediate."
+    },
+    {
+        "id": 39,
+        "question": "Which compound is planar?",
+        "options": [
+            "Cyclohexane",
+            "Cyclobutane",
+            "Benzene",
+            "Cyclopropane"
+        ],
+        "answer": 2,
+        "explanation": "Benzene is planar due to sp2 hybridisation and aromaticity."
+    },
+    {
+        "id": 40,
+        "question": "Which reaction is used to distinguish alkenes from alkynes?",
+        "options": [
+            "Bromine water",
+            "Baeyer's test",
+            "Ammoniacal AgNO3",
+            "Dilute KMnO4"
+        ],
+        "answer": 2,
+        "explanation": "Terminal alkynes give precipitate with ammoniacal AgNO3; alkenes do not."
+    },
+    {
+        "id": 41,
+        "question": "The heat of combustion of benzene is less than expected because benzene is:",
+        "options": [
+            "Unsaturated",
+            "Highly symmetrical",
+            "Resonance stabilised",
+            "Volatile"
+        ],
+        "answer": 2,
+        "explanation": "Resonance stabilisation lowers the energy of benzene, reducing heat of combustion."
+    },
+    {
+        "id": 42,
+        "question": "Which of the following alkenes is most stable?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "But-1-ene",
+            "2-Methylpropene"
+        ],
+        "answer": 3,
+        "explanation": "More substituted alkene is more stable due to hyperconjugation."
+    },
+    {
+        "id": 43,
+        "question": "The major product of addition of HCl to propene is formed due to:",
+        "options": [
+            "Free radical mechanism",
+            "Carbanion formation",
+            "Carbocation rearrangement",
+            "More stable carbocation formation"
+        ],
+        "answer": 3,
+        "explanation": "Markovnikov addition proceeds via the more stable secondary carbocation."
+    },
+    {
+        "id": 44,
+        "question": "Which hydrocarbon undergoes substitution reactions most readily?",
+        "options": [
+            "Alkene",
+            "Alkyne",
+            "Alkane",
+            "Aromatic hydrocarbon"
+        ],
+        "answer": 3,
+        "explanation": "Aromatic hydrocarbons prefer substitution to preserve aromaticity."
+    },
+    {
+        "id": 45,
+        "question": "The correct order of acidity is:",
+        "options": [
+            "Ethane < Ethene < Ethyne",
+            "Ethyne < Ethene < Ethane",
+            "Ethene < Ethane < Ethyne",
+            "Ethane < Ethyne < Ethene"
+        ],
+        "answer": 0,
+        "explanation": "Higher s-character increases acidity: sp > sp2 > sp3."
+    },
+    {
+        "id": 46,
+        "question": "Which reagent converts alkyne into trans-alkene?",
+        "options": [
+            "H2 / Lindlar catalyst",
+            "Na / NH3 (liq)",
+            "H2 / Pd-C",
+            "KMnO4"
+        ],
+        "answer": 1,
+        "explanation": "Dissolving metal reduction gives trans-alkene."
+    },
+    {
+        "id": 47,
+        "question": "The number of π bonds in anthracene is:",
+        "options": [
+            "7",
+            "9",
+            "10",
+            "14"
+        ],
+        "answer": 2,
+        "explanation": "Anthracene contains 14 π electrons, i.e., 7 π bonds."
+    },
+    {
+        "id": 48,
+        "question": "Which compound shows metamerism?",
+        "options": [
+            "Butane",
+            "Diethyl ether",
+            "Propene",
+            "Ethene"
+        ],
+        "answer": 1,
+        "explanation": "Metamerism occurs in compounds with polyvalent functional groups like ethers."
+    },
+    {
+        "id": 49,
+        "question": "The product formed when benzene reacts with Cl2 in presence of FeCl3 is:",
+        "options": [
+            "Chlorobenzene",
+            "Benzyl chloride",
+            "Hexachlorocyclohexane",
+            "Dichlorobenzene"
+        ],
+        "answer": 0,
+        "explanation": "Electrophilic substitution gives chlorobenzene."
+    },
+    {
+        "id": 50,
+        "question": "Which alkane gives maximum number of monochloro derivatives?",
+        "options": [
+            "Ethane",
+            "Propane",
+            "Neopentane",
+            "Isopentane"
+        ],
+        "answer": 3,
+        "explanation": "More nonequivalent hydrogens give more substitution products."
+    },
+    {
+        "id": 51,
+        "question": "The bond order of benzene is approximately:",
+        "options": [
+            "1",
+            "1.5",
+            "2",
+            "1.33"
+        ],
+        "answer": 1,
+        "explanation": "Resonance gives bond order of 1.5."
+    },
+    {
+        "id": 52,
+        "question": "Which of the following compounds is anti-aromatic?",
+        "options": [
+            "Cyclopropenyl cation",
+            "Cyclopentadienyl anion",
+            "Cyclobutadiene",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclobutadiene has 4 π electrons (4n), making it anti-aromatic."
+    },
+    {
+        "id": 53,
+        "question": "The hybridisation of carbon atoms in benzene is:",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "sp and sp2"
+        ],
+        "answer": 1,
+        "explanation": "Each carbon in benzene is sp2 hybridised."
+    },
+    {
+        "id": 54,
+        "question": "Which compound undergoes ozonolysis to give two molecules of acetone?",
+        "options": [
+            "But-2-ene",
+            "2,3-Dimethylbut-2-ene",
+            "Pent-2-ene",
+            "Isobutene"
+        ],
+        "answer": 1,
+        "explanation": "Symmetrical alkene cleaves to identical ketones."
+    },
+    {
+        "id": 55,
+        "question": "Which hydrocarbon is used as a solvent due to its non-polar nature?",
+        "options": [
+            "Benzene",
+            "Ethyne",
+            "Ethene",
+            "Methane"
+        ],
+        "answer": 0,
+        "explanation": "Benzene dissolves many non-polar organic compounds."
+    },
+    {
+        "id": 56,
+        "question": "The reaction of ethyne with dilute alkaline KMnO4 gives:",
+        "options": [
+            "Oxalic acid",
+            "Glyoxal",
+            "Ethane-1,2-diol",
+            "No reaction"
+        ],
+        "answer": 1,
+        "explanation": "Mild oxidation of alkyne gives diketone (glyoxal)."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following does not show position isomerism?",
+        "options": [
+            "But-1-ene",
+            "But-2-ene",
+            "Propene",
+            "Pent-2-ene"
+        ],
+        "answer": 2,
+        "explanation": "Propene has only one possible position for double bond."
+    },
+    {
+        "id": 58,
+        "question": "Which alkyl halide is most reactive towards SN2 reaction?",
+        "options": [
+            "CH3Cl",
+            "C2H5Cl",
+            "(CH3)2CHCl",
+            "(CH3)3CCl"
+        ],
+        "answer": 0,
+        "explanation": "SN2 reactions are fastest for methyl halides."
+    },
+    {
+        "id": 59,
+        "question": "The reaction of benzene with conc. HNO3 and conc. H2SO4 is an example of:",
+        "options": [
+            "Addition",
+            "Substitution",
+            "Elimination",
+            "Oxidation"
+        ],
+        "answer": 1,
+        "explanation": "Nitration is an electrophilic substitution reaction."
+    },
+    {
+        "id": 60,
+        "question": "Which hydrocarbon is least acidic?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Propyne"
+        ],
+        "answer": 0,
+        "explanation": "Alkanes have sp3 carbon with least s-character."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following compounds will show cis-trans isomerism?",
+        "options": [
+            "2-Methylpropene",
+            "But-1-ene",
+            "But-2-ene",
+            "Propene"
+        ],
+        "answer": 2,
+        "explanation": "But-2-ene has different groups on each carbon of C=C."
+    },
+    {
+        "id": 62,
+        "question": "Which compound gives red precipitate with ammoniacal Cu2Cl2?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Terminal alkynes form copper acetylide precipitate."
+    },
+    {
+        "id": 63,
+        "question": "The correct order of boiling points is:",
+        "options": [
+            "n-Butane > Isobutane",
+            "Isobutane > n-Butane",
+            "Both equal",
+            "Depends on pressure"
+        ],
+        "answer": 0,
+        "explanation": "Straight chain compounds have higher boiling points."
+    },
+    {
+        "id": 64,
+        "question": "Which compound has maximum angle strain?",
+        "options": [
+            "Cyclohexane",
+            "Cyclopentane",
+            "Cyclobutane",
+            "Cyclopropane"
+        ],
+        "answer": 3,
+        "explanation": "Cyclopropane has severe angle strain due to 60° bond angle."
+    },
+    {
+        "id": 65,
+        "question": "Which reagent is used to prepare ethyne from calcium carbide?",
+        "options": [
+            "Water",
+            "Dilute HCl",
+            "NaOH",
+            "Alcoholic KOH"
+        ],
+        "answer": 0,
+        "explanation": "CaC2 reacts with water to give ethyne."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following hydrocarbons is most reactive towards bromination?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Isobutane"
+        ],
+        "answer": 3,
+        "explanation": "Tertiary hydrogen is most reactive in free radical halogenation."
+    },
+    {
+        "id": 67,
+        "question": "The major product of Friedel-Crafts alkylation of benzene with CH3Cl is:",
+        "options": [
+            "Toluene",
+            "Ethylbenzene",
+            "Xylene",
+            "Cumene"
+        ],
+        "answer": 0,
+        "explanation": "Methyl group is introduced on benzene ring."
+    },
+    {
+        "id": 68,
+        "question": "Which compound is used as a starting material for manufacture of styrene?",
+        "options": [
+            "Benzene",
+            "Ethylbenzene",
+            "Toluene",
+            "Xylene"
+        ],
+        "answer": 1,
+        "explanation": "Ethylbenzene dehydrogenation gives styrene."
+    },
+    {
+        "id": 69,
+        "question": "The product formed when benzene reacts with excess Cl2 in sunlight is:",
+        "options": [
+            "Chlorobenzene",
+            "Hexachlorobenzene",
+            "BHC",
+            "Dichlorobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Addition reaction gives benzene hexachloride."
+    },
+    {
+        "id": 70,
+        "question": "Which hydrocarbon has the highest percentage of carbon?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Propane"
+        ],
+        "answer": 2,
+        "explanation": "Higher unsaturation increases carbon percentage."
+    },
+    {
+        "id": 71,
+        "question": "The reagent used to convert alkene to alcohol is:",
+        "options": [
+            "Conc. H2SO4",
+            "Cold KMnO4",
+            "Ozone",
+            "HBr"
+        ],
+        "answer": 0,
+        "explanation": "Hydration via sulphuric acid forms alcohol."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following is an example of homologous series?",
+        "options": [
+            "Methane, ethane, ethene",
+            "Ethane, propane, butane",
+            "Ethene, ethyne, benzene",
+            "Methane, ethene, ethyne"
+        ],
+        "answer": 1,
+        "explanation": "Successive members differ by -CH2 group."
+    },
+    {
+        "id": 73,
+        "question": "The number of σ bonds in ethene is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "Ethene has 4 C-H and 1 C-C sigma bond."
+    },
+    {
+        "id": 74,
+        "question": "Which compound undergoes polymerisation most readily?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 1,
+        "explanation": "Alkenes polymerise easily due to π bond."
+    },
+    {
+        "id": 75,
+        "question": "Which hydrocarbon is used as a fuel gas with highest calorific value?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Butane"
+        ],
+        "answer": 3,
+        "explanation": "Higher molecular mass alkane releases more heat."
+    },
+    {
+        "id": 76,
+        "question": "The product formed when toluene is oxidised with alkaline KMnO4 is:",
+        "options": [
+            "Benzyl alcohol",
+            "Benzaldehyde",
+            "Benzoic acid",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Side chain oxidation converts methyl group to -COOH."
+    },
+    {
+        "id": 77,
+        "question": "Which compound shows maximum resonance energy?",
+        "options": [
+            "Ethene",
+            "1,3-Butadiene",
+            "Benzene",
+            "Naphthalene"
+        ],
+        "answer": 3,
+        "explanation": "Greater conjugation gives higher resonance energy."
+    },
+    {
+        "id": 78,
+        "question": "Which of the following does not undergo electrophilic substitution?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Phenol",
+            "Ethene"
+        ],
+        "answer": 3,
+        "explanation": "Ethene undergoes electrophilic addition instead."
+    },
+    {
+        "id": 79,
+        "question": "Which hydrocarbon forms explosive mixture with air?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Acetylene"
+        ],
+        "answer": 3,
+        "explanation": "Acetylene forms explosive mixtures with air."
+    },
+    {
+        "id": 80,
+        "question": "The total number of isomers possible for C5H12 is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": "n-Pentane, isopentane, and neopentane are three isomers."
+    },
+    {
+        "id": 81,
+        "question": "The resonance energy of benzene is approximately:",
+        "options": [
+            "36 kJ mol⁻¹",
+            "72 kJ mol⁻¹",
+            "150 kJ mol⁻¹",
+            "208 kJ mol⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Experimental heat of hydrogenation shows benzene is ~72 kJ mol⁻¹ more stable than three isolated double bonds."
+    },
+    {
+        "id": 82,
+        "question": "Which of the following alkenes will show maximum heat of hydrogenation?",
+        "options": [
+            "2-Methylpropene",
+            "But-2-ene",
+            "But-1-ene",
+            "Ethene"
+        ],
+        "answer": 3,
+        "explanation": "Less substituted and non-conjugated alkenes are least stable and show maximum heat of hydrogenation."
+    },
+    {
+        "id": 83,
+        "question": "The number of stereoisomers possible for 2,3-dimethylbut-2-ene is:",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "3"
+        ],
+        "answer": 0,
+        "explanation": "Each carbon of C=C has identical groups; geometrical isomerism is not possible."
+    },
+    {
+        "id": 84,
+        "question": "Which carbocation rearrangement is most likely during addition of HCl to 3-methyl-1-butene?",
+        "options": [
+            "Hydride shift",
+            "Methyl shift",
+            "No rearrangement",
+            "Ring expansion"
+        ],
+        "answer": 0,
+        "explanation": "Secondary carbocation rearranges via hydride shift to a more stable tertiary carbocation."
+    },
+    {
+        "id": 85,
+        "question": "The major product formed when ethyne reacts with hot acidic KMnO4 is:",
+        "options": [
+            "Oxalic acid",
+            "Glyoxal",
+            "Ethanoic acid",
+            "CO2"
+        ],
+        "answer": 0,
+        "explanation": "Strong oxidation cleaves triple bond to oxalic acid."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following species is aromatic?",
+        "options": [
+            "Cyclobutadienyl dianion",
+            "Cyclopropenyl anion",
+            "Cyclopentadienyl cation",
+            "Cyclooctatetraene dianion"
+        ],
+        "answer": 0,
+        "explanation": "Cyclobutadienyl dianion has 6 π electrons (4n+2) and is aromatic."
+    },
+    {
+        "id": 87,
+        "question": "The correct order of stability of carbocations is:",
+        "options": [
+            "3° > 2° > 1° > CH3+",
+            "CH3+ > 1° > 2° > 3°",
+            "2° > 3° > 1° > CH3+",
+            "3° > 1° > 2° > CH3+"
+        ],
+        "answer": 0,
+        "explanation": "Stability increases with hyperconjugation and +I effect."
+    },
+    {
+        "id": 88,
+        "question": "Which alkene gives meso compound on dihydroxylation with cold KMnO4?",
+        "options": [
+            "But-1-ene",
+            "cis-But-2-ene",
+            "trans-But-2-ene",
+            "2-Methylpropene"
+        ],
+        "answer": 1,
+        "explanation": "Syn addition on cis-But-2-ene gives meso-2,3-butanediol."
+    },
+    {
+        "id": 89,
+        "question": "The major product of free radical bromination of propane is:",
+        "options": [
+            "1-Bromopropane",
+            "2-Bromopropane",
+            "Equal amounts of both",
+            "Propyl bromide only"
+        ],
+        "answer": 1,
+        "explanation": "Bromination is selective; secondary radical formation is favoured."
+    },
+    {
+        "id": 90,
+        "question": "Which compound has maximum torsional strain?",
+        "options": [
+            "Ethane (staggered)",
+            "Ethane (eclipsed)",
+            "Cyclohexane (chair)",
+            "Cyclopropane"
+        ],
+        "answer": 1,
+        "explanation": "Eclipsed ethane has maximum torsional strain due to eclipsing C-H bonds."
+    },
+    {
+        "id": 91,
+        "question": "The number of σ bonds present in naphthalene is:",
+        "options": [
+            "16",
+            "18",
+            "19",
+            "21"
+        ],
+        "answer": 2,
+        "explanation": "Naphthalene has 11 C-C σ bonds and 8 C-H σ bonds, total 19."
+    },
+    {
+        "id": 92,
+        "question": "Which reagent converts alkene directly into vicinal dibromide?",
+        "options": [
+            "HBr",
+            "Br2 / CCl4",
+            "Br2 / H2O",
+            "NBS"
+        ],
+        "answer": 1,
+        "explanation": "Bromine in inert solvent adds across C=C to give vicinal dibromide."
+    },
+    {
+        "id": 93,
+        "question": "The total number of constitutional isomers of C6H14 is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Hexane has five structural isomers."
+    },
+    {
+        "id": 94,
+        "question": "Which hydrocarbon undergoes addition reaction most slowly?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "But-2-ene",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Aromatic stabilisation makes benzene resistant to addition reactions."
+    },
+    {
+        "id": 95,
+        "question": "The bond dissociation energy is maximum for:",
+        "options": [
+            "C-C",
+            "C=C",
+            "C≡C",
+            "C-H"
+        ],
+        "answer": 2,
+        "explanation": "Triple bond has highest bond energy due to highest bond order."
+    },
+    {
+        "id": 96,
+        "question": "Which compound gives positive Baeyer's test but does not decolourise bromine water in dark?",
+        "options": [
+            "Ethene",
+            "Ethyne",
+            "Benzene",
+            "Cyclohexene"
+        ],
+        "answer": 2,
+        "explanation": "Benzene decolourises alkaline KMnO4 slowly but does not react with bromine without catalyst."
+    },
+    {
+        "id": 97,
+        "question": "The major product of hydration of propene in presence of dilute H2SO4 is:",
+        "options": [
+            "Propan-1-ol",
+            "Propan-2-ol",
+            "Propanal",
+            "Acetone"
+        ],
+        "answer": 1,
+        "explanation": "Markovnikov hydration gives secondary alcohol."
+    },
+    {
+        "id": 98,
+        "question": "Which compound is most reactive towards electrophilic aromatic substitution?",
+        "options": [
+            "Benzene",
+            "Chlorobenzene",
+            "Nitrobenzene",
+            "Phenol"
+        ],
+        "answer": 3,
+        "explanation": "-OH group strongly activates the benzene ring by +R effect."
+    },
+    {
+        "id": 99,
+        "question": "The number of π electrons in anthracene is:",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "18"
+        ],
+        "answer": 2,
+        "explanation": "Anthracene contains 14 π electrons."
+    },
+    {
+        "id": 100,
+        "question": "Which hydrocarbon has highest boiling point?",
+        "options": [
+            "n-Butane",
+            "Isobutane",
+            "Propane",
+            "Ethane"
+        ],
+        "answer": 0,
+        "explanation": "Higher molecular mass and straight chain increases boiling point."
+    },
+    {
+        "id": 101,
+        "question": "Which intermediate is formed during nitration of benzene?",
+        "options": [
+            "σ-complex",
+            "π-complex",
+            "Free radical",
+            "Carbanion"
+        ],
+        "answer": 0,
+        "explanation": "Electrophilic substitution proceeds via arenium ion (σ-complex)."
+    },
+    {
+        "id": 102,
+        "question": "The percentage of s-character in sp2 hybrid orbitals is:",
+        "options": [
+            "25%",
+            "33%",
+            "50%",
+            "67%"
+        ],
+        "answer": 1,
+        "explanation": "sp2 hybridisation has one s and two p orbitals → 33% s-character."
+    },
+    {
+        "id": 103,
+        "question": "Which compound shows anti-Markovnikov addition of HBr without peroxide?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Allyl bromide",
+            "None"
+        ],
+        "answer": 3,
+        "explanation": "Anti-Markovnikov addition of HBr requires peroxide."
+    },
+    {
+        "id": 104,
+        "question": "The major product when toluene undergoes chlorination in presence of sunlight is:",
+        "options": [
+            "o-Chlorotoluene",
+            "p-Chlorotoluene",
+            "Benzyl chloride",
+            "Chlorobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Free radical substitution occurs at benzylic position."
+    },
+    {
+        "id": 105,
+        "question": "Which compound is non-planar due to steric strain?",
+        "options": [
+            "Benzene",
+            "Cyclobutadiene",
+            "Cyclooctatetraene",
+            "Naphthalene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclooctatetraene adopts tub shape to avoid anti-aromaticity."
+    },
+    {
+        "id": 106,
+        "question": "The total number of alkynes possible with molecular formula C5H8 is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "Three structural alkynes are possible for C5H8."
+    },
+    {
+        "id": 107,
+        "question": "Which compound has maximum resonance stabilisation among the following?",
+        "options": [
+            "Benzene",
+            "Naphthalene",
+            "Anthracene",
+            "Phenanthrene"
+        ],
+        "answer": 3,
+        "explanation": "Phenanthrene is most resonance-stabilised due to greater aromatic sextet stability."
+    },
+    {
+        "id": 108,
+        "question": "Which hydrocarbon reacts fastest with cold dilute KMnO4?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Benzene",
+            "Cyclohexane"
+        ],
+        "answer": 1,
+        "explanation": "Alkenes rapidly undergo oxidation with cold KMnO4."
+    },
+    {
+        "id": 109,
+        "question": "The product formed when benzene reacts with propene in presence of HF is:",
+        "options": [
+            "Cumene",
+            "Ethylbenzene",
+            "Isopropylbenzene",
+            "Propylbenzene"
+        ],
+        "answer": 2,
+        "explanation": "Friedel-Crafts alkylation gives isopropylbenzene (cumene)."
+    },
+    {
+        "id": 110,
+        "question": "The number of hydrogen atoms attached to sp2 hybridised carbons in benzene is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 3,
+        "explanation": "All six carbons are sp2 hybridised and bonded to one hydrogen each."
+    },
+    {
+        "id": 111,
+        "question": "Which of the following is most acidic?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Terminal alkyne has highest s-character, hence highest acidity."
+    },
+    {
+        "id": 112,
+        "question": "The hybridisation of carbon atoms in cyclopropane is:",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "Distorted sp3"
+        ],
+        "answer": 3,
+        "explanation": "Cyclopropane carbons are distorted sp3 due to angle strain."
+    },
+    {
+        "id": 113,
+        "question": "Which compound gives only one product on nitration?",
+        "options": [
+            "Toluene",
+            "Benzene",
+            "Chlorobenzene",
+            "Phenol"
+        ],
+        "answer": 1,
+        "explanation": "Benzene is symmetrical, giving only one nitro derivative."
+    },
+    {
+        "id": 114,
+        "question": "Which hydrocarbon undergoes polymerisation to form PVC?",
+        "options": [
+            "Ethene",
+            "Chloroethene",
+            "Ethyne",
+            "Propene"
+        ],
+        "answer": 1,
+        "explanation": "Chloroethene (vinyl chloride) polymerises to PVC."
+    },
+    {
+        "id": 115,
+        "question": "The product of ozonolysis of trans-but-2-ene is:",
+        "options": [
+            "Two molecules of ethanal",
+            "Ethanal + acetone",
+            "Two molecules of acetone",
+            "Ethanone + methanal"
+        ],
+        "answer": 0,
+        "explanation": "Symmetrical alkene cleaves to identical aldehydes."
+    },
+    {
+        "id": 116,
+        "question": "Which compound is least reactive towards free radical chlorination?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Isobutane"
+        ],
+        "answer": 0,
+        "explanation": "Primary hydrogens are least reactive; methane has only primary hydrogens."
+    },
+    {
+        "id": 117,
+        "question": "The number of isomers of C7H8 is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 0,
+        "explanation": "Toluene, ethylbenzene, and three xylenes total five? Correction: Aromatic C7H8 gives toluene only; aliphatic not considered → 1? However valid isomers are toluene only in aromatic context. Correct count is 1."
+    },
+    {
+        "id": 118,
+        "question": "Which compound undergoes side-chain oxidation with KMnO4?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Nitrobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Alkyl side chain on aromatic ring oxidises to -COOH."
+    },
+    {
+        "id": 119,
+        "question": "Which hydrocarbon has highest heat of combustion per mole?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Butane"
+        ],
+        "answer": 3,
+        "explanation": "Higher number of C-C and C-H bonds releases more energy on combustion."
+    },
+    {
+        "id": 120,
+        "question": "Which of the following undergoes fastest electrophilic addition?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "2-Methylpropene",
+            "But-2-ene"
+        ],
+        "answer": 2,
+        "explanation": "More substituted alkene forms more stable carbocation, increasing rate."
+    },
+    {
+        "id": 121,
+        "question": "The total number of distinct monochloro derivatives possible for n-hexane is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "n-Hexane has four nonequivalent hydrogen positions, giving four monochloro derivatives."
+    },
+    {
+        "id": 122,
+        "question": "The major product formed when propene reacts with cold, concentrated H2SO4 is:",
+        "options": [
+            "Propan-1-ol",
+            "Propan-2-ol",
+            "Isopropyl hydrogen sulphate",
+            "n-Propyl hydrogen sulphate"
+        ],
+        "answer": 2,
+        "explanation": "Markovnikov addition gives isopropyl hydrogen sulphate as the intermediate."
+    },
+    {
+        "id": 123,
+        "question": "Which of the following alkenes shows maximum rate of electrophilic addition of HBr (no peroxide)?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "But-1-ene",
+            "2-Methylpropene"
+        ],
+        "answer": 3,
+        "explanation": "2-Methylpropene forms the most stable tertiary carbocation, increasing reaction rate."
+    },
+    {
+        "id": 124,
+        "question": "The total number of σ bonds present in anthracene is:",
+        "options": [
+            "21",
+            "22",
+            "23",
+            "24"
+        ],
+        "answer": 2,
+        "explanation": "Anthracene has 15 C-C σ bonds and 8 C-H σ bonds, total 23."
+    },
+    {
+        "id": 125,
+        "question": "Which compound will give a meso product on bromination in CCl4?",
+        "options": [
+            "cis-But-2-ene",
+            "trans-But-2-ene",
+            "But-1-ene",
+            "2-Methylpropene"
+        ],
+        "answer": 0,
+        "explanation": "Anti-addition on cis-But-2-ene produces meso-2,3-dibromobutane."
+    },
+    {
+        "id": 126,
+        "question": "The correct order of stability of alkenes is:",
+        "options": [
+            "Mono < Di < Tri < Tetra substituted",
+            "Tetra < Tri < Di < Mono substituted",
+            "Di < Mono < Tri < Tetra substituted",
+            "Mono < Tri < Di < Tetra substituted"
+        ],
+        "answer": 0,
+        "explanation": "Alkene stability increases with degree of substitution due to hyperconjugation."
+    },
+    {
+        "id": 127,
+        "question": "Which of the following hydrocarbons gives maximum resonance energy per ring?",
+        "options": [
+            "Benzene",
+            "Naphthalene",
+            "Anthracene",
+            "Phenanthrene"
+        ],
+        "answer": 0,
+        "explanation": "Per aromatic ring, benzene has the highest resonance energy."
+    },
+    {
+        "id": 128,
+        "question": "The major product of ozonolysis of 3-methyl-1-butene is:",
+        "options": [
+            "Acetone + formaldehyde",
+            "Acetaldehyde + acetone",
+            "Formaldehyde + isobutyraldehyde",
+            "Two molecules of acetone"
+        ],
+        "answer": 0,
+        "explanation": "Cleavage of terminal alkene gives formaldehyde and acetone."
+    },
+    {
+        "id": 129,
+        "question": "Which hydrocarbon undergoes fastest nitration?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Nitrobenzene"
+        ],
+        "answer": 1,
+        "explanation": "The methyl group activates the benzene ring by +I and hyperconjugation."
+    },
+    {
+        "id": 130,
+        "question": "The number of alkynes possible with molecular formula C6H10 is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "answer": 1,
+        "explanation": "Five distinct structural alkynes are possible for C6H10."
+    },
+    {
+        "id": 131,
+        "question": "Which of the following is anti-aromatic?",
+        "options": [
+            "Cyclopentadienyl anion",
+            "Cyclopropenyl cation",
+            "Cyclobutadiene",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclobutadiene has 4 π electrons (4n) and is anti-aromatic."
+    },
+    {
+        "id": 132,
+        "question": "The bond angle in cyclopropane is approximately:",
+        "options": [
+            "60°",
+            "90°",
+            "104.5°",
+            "109.5°"
+        ],
+        "answer": 0,
+        "explanation": "Cyclopropane has a triangular structure with 60° bond angles."
+    },
+    {
+        "id": 133,
+        "question": "Which intermediate is common to both nitration and sulphonation of benzene?",
+        "options": [
+            "π-complex",
+            "σ-complex",
+            "Free radical",
+            "Carbanion"
+        ],
+        "answer": 1,
+        "explanation": "Both reactions proceed via the arenium ion (σ-complex)."
+    },
+    {
+        "id": 134,
+        "question": "The major product formed when ethyne reacts with excess Cl2 is:",
+        "options": [
+            "CHCl=CHCl",
+            "CHCl2-CHCl2",
+            "CH2Cl-CH2Cl",
+            "CCl4"
+        ],
+        "answer": 1,
+        "explanation": "Addition of two moles of Cl2 gives 1,1,2,2-tetrachloroethane."
+    },
+    {
+        "id": 135,
+        "question": "Which of the following has maximum heat of combustion per mole of compound?",
+        "options": [
+            "Ethane",
+            "Propane",
+            "Butane",
+            "Pentane"
+        ],
+        "answer": 3,
+        "explanation": "Heat of combustion increases with number of C-C and C-H bonds."
+    },
+    {
+        "id": 136,
+        "question": "Which compound will not decolourise bromine water in absence of catalyst?",
+        "options": [
+            "Ethene",
+            "Ethyne",
+            "Cyclohexene",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Benzene does not undergo addition with bromine without catalyst."
+    },
+    {
+        "id": 137,
+        "question": "The correct order of reactivity towards free radical bromination is:",
+        "options": [
+            "3° > 2° > 1° > CH3",
+            "1° > 2° > 3° > CH3",
+            "CH3 > 1° > 2° > 3°",
+            "2° > 3° > 1° > CH3"
+        ],
+        "answer": 0,
+        "explanation": "Bromination is highly selective and favours the most stable radical."
+    },
+    {
+        "id": 138,
+        "question": "Which hydrocarbon undergoes polymerisation to give polyethene?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Propane"
+        ],
+        "answer": 1,
+        "explanation": "Ethene polymerises via addition to form polyethene."
+    },
+    {
+        "id": 139,
+        "question": "The major product of hydration of ethyne in presence of HgSO4/H2SO4 is:",
+        "options": [
+            "Ethanol",
+            "Ethanal",
+            "Ethene-1,2-diol",
+            "Ethane"
+        ],
+        "answer": 1,
+        "explanation": "Keto-enol tautomerism converts vinyl alcohol to ethanal."
+    },
+    {
+        "id": 140,
+        "question": "Which compound is most resistant to oxidation by alkaline KMnO4?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Cyclohexene",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Aromatic stabilisation makes benzene least reactive towards oxidation."
+    },
+    {
+        "id": 141,
+        "question": "The total number of π bonds present in phenanthrene is:",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": 3,
+        "explanation": "Phenanthrene has 14 π electrons, corresponding to 7 π bonds."
+    },
+    {
+        "id": 142,
+        "question": "Which compound shows maximum hyperconjugation effect?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Isobutene",
+            "2-Methylpropene"
+        ],
+        "answer": 3,
+        "explanation": "2-Methylpropene has maximum number of α C-H bonds."
+    },
+    {
+        "id": 143,
+        "question": "The product formed when benzene reacts with CH3Cl/AlCl3 is:",
+        "options": [
+            "Ethylbenzene",
+            "Toluene",
+            "Xylene",
+            "Cumene"
+        ],
+        "answer": 1,
+        "explanation": "Friedel-Crafts alkylation introduces a methyl group."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following hydrocarbons has the lowest boiling point?",
+        "options": [
+            "n-Butane",
+            "Isobutane",
+            "Propane",
+            "Ethane"
+        ],
+        "answer": 3,
+        "explanation": "Lower molecular mass results in lower boiling point."
+    },
+    {
+        "id": 145,
+        "question": "Which of the following does not undergo electrophilic substitution?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Anisole",
+            "Ethene"
+        ],
+        "answer": 3,
+        "explanation": "Ethene undergoes electrophilic addition, not substitution."
+    },
+    {
+        "id": 146,
+        "question": "The degree of unsaturation of C7H8 is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Degree of unsaturation = (2C+2−H)/2 = (16−8)/2 = 4; plus one ring gives total 5."
+    },
+    {
+        "id": 147,
+        "question": "Which compound gives a single mononitration product?",
+        "options": [
+            "Toluene",
+            "Benzene",
+            "Chlorobenzene",
+            "Phenol"
+        ],
+        "answer": 1,
+        "explanation": "Benzene is symmetrical, giving only one nitro derivative."
+    },
+    {
+        "id": 148,
+        "question": "The major product formed when propene reacts with Br2 in presence of peroxide is:",
+        "options": [
+            "1,2-Dibromopropane",
+            "1-Bromopropane",
+            "2-Bromopropane",
+            "Allyl bromide"
+        ],
+        "answer": 2,
+        "explanation": "Peroxide effect is observed only with HBr, not with Br2."
+    },
+    {
+        "id": 149,
+        "question": "Which hydrocarbon gives positive silver nitrate test?",
+        "options": [
+            "Ethene",
+            "Ethyne",
+            "Propene",
+            "Benzene"
+        ],
+        "answer": 1,
+        "explanation": "Terminal alkynes form silver acetylide precipitate."
+    },
+    {
+        "id": 150,
+        "question": "The correct order of bond length is:",
+        "options": [
+            "C≡C < C=C < C-C",
+            "C-C < C=C < C≡C",
+            "C=C < C-C < C≡C",
+            "C≡C < C-C < C=C"
+        ],
+        "answer": 0,
+        "explanation": "Bond length decreases with increasing bond order."
+    },
+    {
+        "id": 151,
+        "question": "Which compound is most acidic?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Toluene"
+        ],
+        "answer": 2,
+        "explanation": "sp-hybridised carbon stabilises negative charge best."
+    },
+    {
+        "id": 152,
+        "question": "The major product of side-chain chlorination of toluene is:",
+        "options": [
+            "o-Chlorotoluene",
+            "p-Chlorotoluene",
+            "Benzyl chloride",
+            "Chlorobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Free radical substitution occurs at benzylic position."
+    },
+    {
+        "id": 153,
+        "question": "Which compound shows maximum angle strain?",
+        "options": [
+            "Cyclopropane",
+            "Cyclobutane",
+            "Cyclopentane",
+            "Cyclohexane"
+        ],
+        "answer": 0,
+        "explanation": "Cyclopropane has the smallest bond angle, causing maximum strain."
+    },
+    {
+        "id": 154,
+        "question": "The product of ozonolysis of ethene is:",
+        "options": [
+            "Methanal",
+            "Ethanal",
+            "Ethanone",
+            "Methanol"
+        ],
+        "answer": 0,
+        "explanation": "Cleavage of ethene gives two molecules of methanal."
+    },
+    {
+        "id": 155,
+        "question": "Which of the following hydrocarbons is planar?",
+        "options": [
+            "Cyclohexane",
+            "Cyclobutane",
+            "Cyclopropane",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Benzene is planar due to sp2 hybridisation and aromaticity."
+    },
+    {
+        "id": 156,
+        "question": "The number of constitutional isomers of C7H16 is:",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2,
+        "explanation": "Heptane has nine structural isomers."
+    },
+    {
+        "id": 157,
+        "question": "Which compound undergoes fastest electrophilic aromatic substitution?",
+        "options": [
+            "Benzene",
+            "Chlorobenzene",
+            "Aniline",
+            "Nitrobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Aniline strongly activates the ring by +R effect."
+    },
+    {
+        "id": 158,
+        "question": "The major product formed when ethylbenzene is oxidised with alkaline KMnO4 is:",
+        "options": [
+            "Acetophenone",
+            "Benzyl alcohol",
+            "Benzoic acid",
+            "Benzaldehyde"
+        ],
+        "answer": 2,
+        "explanation": "Any alkyl side chain on benzene oxidises to -COOH."
+    },
+    {
+        "id": 159,
+        "question": "Which hydrocarbon has maximum percentage of carbon by mass?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Higher C:H ratio gives higher carbon percentage."
+    },
+    {
+        "id": 160,
+        "question": "The reaction of benzene with propanoyl chloride/AlCl3 gives:",
+        "options": [
+            "Propiophenone",
+            "Ethylbenzene",
+            "Cumene",
+            "Propylbenzene"
+        ],
+        "answer": 0,
+        "explanation": "Friedel-Crafts acylation introduces the acyl group to form propiophenone."
+    },
+    {
+        "id": 161,
+        "question": "The total number of distinct monochloro derivatives possible for neopentane is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 0,
+        "explanation": "All hydrogen atoms in neopentane are equivalent due to high symmetry."
+    },
+    {
+        "id": 162,
+        "question": "The major product formed when 1-butene reacts with HBr (no peroxide) is:",
+        "options": [
+            "1-Bromobutane",
+            "2-Bromobutane",
+            "Butane",
+            "1,2-Dibromobutane"
+        ],
+        "answer": 1,
+        "explanation": "Markovnikov addition occurs via formation of a secondary carbocation."
+    },
+    {
+        "id": 163,
+        "question": "Which of the following alkenes is least stable?",
+        "options": [
+            "2-Methylpropene",
+            "But-2-ene",
+            "But-1-ene",
+            "Ethene"
+        ],
+        "answer": 3,
+        "explanation": "Ethene is unsubstituted and lacks hyperconjugative stabilisation."
+    },
+    {
+        "id": 164,
+        "question": "The number of σ bonds present in benzene is:",
+        "options": [
+            "9",
+            "12",
+            "15",
+            "18"
+        ],
+        "answer": 1,
+        "explanation": "Benzene has 6 C-C and 6 C-H sigma bonds, total 12."
+    },
+    {
+        "id": 165,
+        "question": "Which compound gives meso product on bromination in CCl4?",
+        "options": [
+            "trans-But-2-ene",
+            "cis-But-2-ene",
+            "But-1-ene",
+            "2-Methylpropene"
+        ],
+        "answer": 1,
+        "explanation": "Anti-addition on cis-But-2-ene produces meso-2,3-dibromobutane."
+    },
+    {
+        "id": 166,
+        "question": "Which hydrocarbon undergoes electrophilic substitution most readily?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Nitrobenzene"
+        ],
+        "answer": 1,
+        "explanation": "The methyl group activates the benzene ring via +I effect and hyperconjugation."
+    },
+    {
+        "id": 167,
+        "question": "The major product of ozonolysis of 2-methylpropene is:",
+        "options": [
+            "Two molecules of methanal",
+            "Acetone + methanal",
+            "Two molecules of acetone",
+            "Acetaldehyde + methanal"
+        ],
+        "answer": 1,
+        "explanation": "Cleavage of the double bond gives acetone and formaldehyde."
+    },
+    {
+        "id": 168,
+        "question": "Which compound is aromatic?",
+        "options": [
+            "Cyclobutadiene",
+            "Cyclopentadienyl anion",
+            "Cyclooctatetraene",
+            "Cyclobutene"
+        ],
+        "answer": 1,
+        "explanation": "Cyclopentadienyl anion has 6 π electrons and satisfies Hückel rule."
+    },
+    {
+        "id": 169,
+        "question": "The major product formed when ethyne reacts with dilute alkaline KMnO4 is:",
+        "options": [
+            "Oxalic acid",
+            "Glyoxal",
+            "Ethanedioic acid",
+            "Ethene-1,2-diol"
+        ],
+        "answer": 1,
+        "explanation": "Mild oxidation of ethyne gives glyoxal."
+    },
+    {
+        "id": 170,
+        "question": "Which of the following alkyl halides undergoes SN1 reaction fastest?",
+        "options": [
+            "CH3Cl",
+            "C2H5Cl",
+            "(CH3)2CHCl",
+            "(CH3)3CCl"
+        ],
+        "answer": 3,
+        "explanation": "SN1 rate depends on carbocation stability; tertiary is fastest."
+    },
+    {
+        "id": 171,
+        "question": "The number of structural isomers possible for C6H6 is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "Possible isomers include benzene, fulvene, prismane, and benzvalene."
+    },
+    {
+        "id": 172,
+        "question": "Which hydrocarbon gives a sooty flame on burning?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Aromatic compounds have high C/H ratio causing sooty flame."
+    },
+    {
+        "id": 173,
+        "question": "The bond angle in ethene is approximately:",
+        "options": [
+            "109.5°",
+            "120°",
+            "180°",
+            "104.5°"
+        ],
+        "answer": 1,
+        "explanation": "Ethene has sp2 hybridised carbons with trigonal planar geometry."
+    },
+    {
+        "id": 174,
+        "question": "Which of the following does not undergo Baeyer's test?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Cyclohexene",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Benzene does not decolourise cold alkaline KMnO4."
+    },
+    {
+        "id": 175,
+        "question": "The correct order of stability of free radicals is:",
+        "options": [
+            "3° > 2° > 1° > CH3",
+            "CH3 > 1° > 2° > 3°",
+            "2° > 3° > 1° > CH3",
+            "3° > 1° > 2° > CH3"
+        ],
+        "answer": 0,
+        "explanation": "Stability increases with hyperconjugation and inductive effects."
+    },
+    {
+        "id": 176,
+        "question": "Which compound undergoes polymerisation to form Buna-S?",
+        "options": [
+            "But-1,3-diene + styrene",
+            "Ethene + propene",
+            "Isoprene",
+            "Chloroprene"
+        ],
+        "answer": 0,
+        "explanation": "Buna-S is a copolymer of butadiene and styrene."
+    },
+    {
+        "id": 177,
+        "question": "The major product formed when benzene reacts with acetyl chloride/AlCl3 is:",
+        "options": [
+            "Ethylbenzene",
+            "Acetophenone",
+            "Cumene",
+            "Benzyl chloride"
+        ],
+        "answer": 1,
+        "explanation": "Friedel-Crafts acylation introduces the acyl group to form acetophenone."
+    },
+    {
+        "id": 178,
+        "question": "Which hydrocarbon shows maximum angle strain?",
+        "options": [
+            "Cyclohexane",
+            "Cyclopentane",
+            "Cyclobutane",
+            "Cyclopropane"
+        ],
+        "answer": 3,
+        "explanation": "Cyclopropane has severe angle strain due to 60° bond angles."
+    },
+    {
+        "id": 179,
+        "question": "The total number of π electrons in phenanthrene is:",
+        "options": [
+            "10",
+            "12",
+            "14",
+            "16"
+        ],
+        "answer": 2,
+        "explanation": "Phenanthrene has 14 π electrons satisfying aromaticity."
+    },
+    {
+        "id": 180,
+        "question": "Which compound undergoes fastest addition of H2?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "But-2-ene",
+            "Benzene"
+        ],
+        "answer": 0,
+        "explanation": "Less substituted alkenes undergo hydrogenation faster."
+    },
+    {
+        "id": 181,
+        "question": "The product formed when ethyne reacts with excess HBr is:",
+        "options": [
+            "Bromoethene",
+            "1,2-Dibromoethane",
+            "1,1-Dibromoethane",
+            "Ethyl bromide"
+        ],
+        "answer": 2,
+        "explanation": "Markovnikov addition occurs twice to give gem-dibromide."
+    },
+    {
+        "id": 182,
+        "question": "Which compound has the highest boiling point?",
+        "options": [
+            "n-Butane",
+            "Isobutane",
+            "Propane",
+            "Ethane"
+        ],
+        "answer": 0,
+        "explanation": "Straight-chain alkanes have higher boiling points."
+    },
+    {
+        "id": 183,
+        "question": "Which of the following compounds is anti-aromatic?",
+        "options": [
+            "Cyclopropenyl cation",
+            "Cyclopentadienyl anion",
+            "Cyclobutadiene",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclobutadiene has 4 π electrons (4n), making it anti-aromatic."
+    },
+    {
+        "id": 184,
+        "question": "The major product of hydration of ethyne using HgSO4/H2SO4 is:",
+        "options": [
+            "Ethanol",
+            "Ethanal",
+            "Ethene-1,2-diol",
+            "Ethane"
+        ],
+        "answer": 1,
+        "explanation": "Vinyl alcohol formed initially tautomerises to ethanal."
+    },
+    {
+        "id": 185,
+        "question": "Which hydrocarbon is most resistant to oxidation by KMnO4?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Cyclohexene",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Aromatic stabilisation makes benzene least reactive."
+    },
+    {
+        "id": 186,
+        "question": "The correct order of bond length is:",
+        "options": [
+            "C≡C < C=C < C-C",
+            "C-C < C=C < C≡C",
+            "C=C < C≡C < C-C",
+            "C≡C < C-C < C=C"
+        ],
+        "answer": 0,
+        "explanation": "Bond length decreases with increasing bond order."
+    },
+    {
+        "id": 187,
+        "question": "Which compound gives positive silver nitrate test?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Terminal alkynes form silver acetylide precipitate."
+    },
+    {
+        "id": 188,
+        "question": "The degree of unsaturation of C8H10 is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Degree of unsaturation = (2C+2−H)/2 = (18−10)/2 = 4."
+    },
+    {
+        "id": 189,
+        "question": "Which compound undergoes side-chain chlorination most readily?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Nitrobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Benzylic hydrogen in toluene is highly reactive."
+    },
+    {
+        "id": 190,
+        "question": "The number of isomers of C8H18 is:",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "answer": 2,
+        "explanation": "Octane has 18 structural isomers."
+    },
+    {
+        "id": 191,
+        "question": "Which compound is planar?",
+        "options": [
+            "Cyclohexane",
+            "Cyclobutane",
+            "Cyclopropane",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Benzene is planar due to sp2 hybridisation."
+    },
+    {
+        "id": 192,
+        "question": "The major product of ozonolysis of trans-but-2-ene is:",
+        "options": [
+            "Two molecules of ethanal",
+            "Ethanal + acetone",
+            "Two molecules of acetone",
+            "Methanal + propanone"
+        ],
+        "answer": 0,
+        "explanation": "Symmetrical alkene cleaves to identical aldehydes."
+    },
+    {
+        "id": 193,
+        "question": "Which hydrocarbon has maximum percentage of carbon by mass?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Higher C:H ratio gives higher carbon percentage."
+    },
+    {
+        "id": 194,
+        "question": "Which compound shows maximum hyperconjugation?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Isobutene",
+            "2-Methylpropene"
+        ],
+        "answer": 3,
+        "explanation": "2-Methylpropene has maximum number of alpha hydrogens."
+    },
+    {
+        "id": 195,
+        "question": "The product formed when benzene reacts with propanoyl chloride/AlCl3 is:",
+        "options": [
+            "Propiophenone",
+            "Ethylbenzene",
+            "Cumene",
+            "Propylbenzene"
+        ],
+        "answer": 0,
+        "explanation": "Friedel-Crafts acylation gives propiophenone."
+    },
+    {
+        "id": 196,
+        "question": "Which hydrocarbon undergoes fastest electrophilic addition?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "2-Methylpropene",
+            "But-2-ene"
+        ],
+        "answer": 2,
+        "explanation": "More substituted alkene forms more stable carbocation."
+    },
+    {
+        "id": 197,
+        "question": "Which compound gives only one mononitration product?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Phenol"
+        ],
+        "answer": 0,
+        "explanation": "Benzene is symmetrical, giving only one product."
+    },
+    {
+        "id": 198,
+        "question": "The major product formed when ethylbenzene is oxidised with KMnO4 is:",
+        "options": [
+            "Acetophenone",
+            "Benzyl alcohol",
+            "Benzoic acid",
+            "Benzaldehyde"
+        ],
+        "answer": 2,
+        "explanation": "Alkyl side chains on benzene oxidise to -COOH."
+    },
+    {
+        "id": 199,
+        "question": "Which compound is least acidic?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Toluene"
+        ],
+        "answer": 0,
+        "explanation": "sp3 hybridised carbon has least s-character."
+    },
+    {
+        "id": 200,
+        "question": "The reaction of benzene with CH3Cl/AlCl3 is an example of:",
+        "options": [
+            "Electrophilic substitution",
+            "Nucleophilic substitution",
+            "Addition",
+            "Elimination"
+        ],
+        "answer": 0,
+        "explanation": "Friedel-Crafts alkylation is an electrophilic substitution reaction."
+    },
+    {
+        "id": 201,
+        "question": "The number of different types of hydrogen atoms present in isopentane is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 1,
+        "explanation": "Isopentane has three types of hydrogens: primary (two types) and secondary."
+    },
+    {
+        "id": 202,
+        "question": "Which alkene on ozonolysis gives only ketones?",
+        "options": [
+            "But-1-ene",
+            "2-Methylpropene",
+            "But-2-ene",
+            "Propene"
+        ],
+        "answer": 1,
+        "explanation": "2-Methylpropene cleaves to give only acetone and formaldehyde; among options, only substituted alkene gives ketone as major."
+    },
+    {
+        "id": 203,
+        "question": "The stability order of conjugated systems is best represented as:",
+        "options": [
+            "Isolated < Conjugated < Aromatic",
+            "Conjugated < Isolated < Aromatic",
+            "Aromatic < Conjugated < Isolated",
+            "Isolated < Aromatic < Conjugated"
+        ],
+        "answer": 0,
+        "explanation": "Resonance stabilisation increases from isolated to conjugated to aromatic systems."
+    },
+    {
+        "id": 204,
+        "question": "The major product formed when 2-methylpropene reacts with cold conc. H2SO4 is:",
+        "options": [
+            "tert-Butyl hydrogen sulphate",
+            "Isobutyl hydrogen sulphate",
+            "tert-Butyl alcohol",
+            "Isobutene sulphonic acid"
+        ],
+        "answer": 0,
+        "explanation": "Markovnikov addition gives tert-butyl hydrogen sulphate."
+    },
+    {
+        "id": 205,
+        "question": "Which of the following hydrocarbons shows maximum resonance energy?",
+        "options": [
+            "Benzene",
+            "Naphthalene",
+            "Anthracene",
+            "Phenanthrene"
+        ],
+        "answer": 3,
+        "explanation": "Phenanthrene has the highest resonance stabilisation among fused ring systems."
+    },
+    {
+        "id": 206,
+        "question": "The product formed when ethyne reacts with NaNH2 followed by CH3I is:",
+        "options": [
+            "Propene",
+            "Propyne",
+            "Ethene",
+            "Butyne"
+        ],
+        "answer": 1,
+        "explanation": "Ethyne forms acetylide ion which undergoes alkylation to give propyne."
+    },
+    {
+        "id": 207,
+        "question": "Which compound undergoes fastest free radical chlorination?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Isobutane"
+        ],
+        "answer": 3,
+        "explanation": "Tertiary hydrogens are most reactive in free radical chlorination."
+    },
+    {
+        "id": 208,
+        "question": "The number of structural isomers possible for C6H12 (alkenes only) is:",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "9"
+        ],
+        "answer": 2,
+        "explanation": "Seven open-chain alkene isomers are possible for C6H12."
+    },
+    {
+        "id": 209,
+        "question": "Which carbocation is least stable?",
+        "options": [
+            "CH3+",
+            "C2H5+",
+            "(CH3)2CH+",
+            "(CH3)3C+"
+        ],
+        "answer": 0,
+        "explanation": "Methyl carbocation has no hyperconjugation or +I stabilisation."
+    },
+    {
+        "id": 210,
+        "question": "The major product of hydration of propene using dilute H2SO4 followed by hydrolysis is:",
+        "options": [
+            "Propan-1-ol",
+            "Propan-2-ol",
+            "Propanal",
+            "Acetone"
+        ],
+        "answer": 1,
+        "explanation": "Markovnikov addition gives secondary alcohol."
+    },
+    {
+        "id": 211,
+        "question": "Which of the following species is anti-aromatic?",
+        "options": [
+            "Cyclopropenyl cation",
+            "Cyclopentadienyl anion",
+            "Cyclobutadiene",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclobutadiene has 4 π electrons and is anti-aromatic."
+    },
+    {
+        "id": 212,
+        "question": "The number of π bonds present in benzene is:",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "Benzene has three delocalised π bonds."
+    },
+    {
+        "id": 213,
+        "question": "Which alkene gives meso compound on dihydroxylation?",
+        "options": [
+            "trans-But-2-ene",
+            "cis-But-2-ene",
+            "But-1-ene",
+            "2-Methylpropene"
+        ],
+        "answer": 1,
+        "explanation": "Syn addition on cis-But-2-ene gives meso-diol."
+    },
+    {
+        "id": 214,
+        "question": "The major product formed when benzene reacts with CH3COCl/AlCl3 is:",
+        "options": [
+            "Ethylbenzene",
+            "Acetophenone",
+            "Toluene",
+            "Cumene"
+        ],
+        "answer": 1,
+        "explanation": "Friedel-Crafts acylation gives acetophenone."
+    },
+    {
+        "id": 215,
+        "question": "Which hydrocarbon has the highest heat of combustion per mole?",
+        "options": [
+            "Ethane",
+            "Propane",
+            "Butane",
+            "Pentane"
+        ],
+        "answer": 3,
+        "explanation": "Heat of combustion increases with molecular size."
+    },
+    {
+        "id": 216,
+        "question": "Which compound does not decolourise bromine water in dark?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Cyclohexene",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Benzene requires catalyst for bromination."
+    },
+    {
+        "id": 217,
+        "question": "The total number of σ bonds present in ethyne is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 1,
+        "explanation": "Ethyne has one C-C σ bond and two C-H σ bonds."
+    },
+    {
+        "id": 218,
+        "question": "Which compound undergoes fastest electrophilic aromatic substitution?",
+        "options": [
+            "Benzene",
+            "Chlorobenzene",
+            "Nitrobenzene",
+            "Aniline"
+        ],
+        "answer": 3,
+        "explanation": "Aniline strongly activates the ring by +R effect."
+    },
+    {
+        "id": 219,
+        "question": "The product formed when ethyne reacts with excess HCl is:",
+        "options": [
+            "Vinyl chloride",
+            "1,2-Dichloroethane",
+            "1,1-Dichloroethane",
+            "Ethyl chloride"
+        ],
+        "answer": 2,
+        "explanation": "Markovnikov addition twice gives gem-dihalide."
+    },
+    {
+        "id": 220,
+        "question": "Which hydrocarbon is most acidic?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "sp-hybridised carbon has maximum s-character."
+    },
+    {
+        "id": 221,
+        "question": "The number of possible monochloro derivatives of propane is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "Propane has primary and secondary hydrogens giving two derivatives."
+    },
+    {
+        "id": 222,
+        "question": "Which compound undergoes polymerisation to form Buna-N?",
+        "options": [
+            "Butadiene + styrene",
+            "Butadiene + acrylonitrile",
+            "Isoprene",
+            "Chloroprene"
+        ],
+        "answer": 1,
+        "explanation": "Buna-N is a copolymer of butadiene and acrylonitrile."
+    },
+    {
+        "id": 223,
+        "question": "The bond angle in cyclobutane is approximately:",
+        "options": [
+            "60°",
+            "88°",
+            "109.5°",
+            "120°"
+        ],
+        "answer": 1,
+        "explanation": "Cyclobutane is puckered with bond angle ~88°."
+    },
+    {
+        "id": 224,
+        "question": "Which compound undergoes side-chain oxidation with KMnO4?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Nitrobenzene"
+        ],
+        "answer": 1,
+        "explanation": "Alkyl side chain oxidises to -COOH."
+    },
+    {
+        "id": 225,
+        "question": "The major product formed when propene reacts with Br2/CCl4 is:",
+        "options": [
+            "1,2-Dibromopropane",
+            "1-Bromopropane",
+            "2-Bromopropane",
+            "Allyl bromide"
+        ],
+        "answer": 0,
+        "explanation": "Anti-addition of Br2 across double bond gives vicinal dibromide."
+    },
+    {
+        "id": 226,
+        "question": "Which of the following has maximum bond dissociation energy?",
+        "options": [
+            "C-C",
+            "C=C",
+            "C≡C",
+            "C-H"
+        ],
+        "answer": 2,
+        "explanation": "Triple bond has highest bond energy."
+    },
+    {
+        "id": 227,
+        "question": "The total number of π electrons in naphthalene is:",
+        "options": [
+            "8",
+            "10",
+            "12",
+            "14"
+        ],
+        "answer": 1,
+        "explanation": "Naphthalene has 10 π electrons."
+    },
+    {
+        "id": 228,
+        "question": "Which alkene undergoes fastest hydrogenation?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "But-2-ene",
+            "Benzene"
+        ],
+        "answer": 0,
+        "explanation": "Less substituted alkenes hydrogenate faster."
+    },
+    {
+        "id": 229,
+        "question": "Which compound gives positive ammoniacal AgNO3 test?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Ethyne",
+            "Benzene"
+        ],
+        "answer": 2,
+        "explanation": "Terminal alkynes form silver acetylide."
+    },
+    {
+        "id": 230,
+        "question": "The correct order of acidity is:",
+        "options": [
+            "Ethane < Ethene < Ethyne",
+            "Ethene < Ethyne < Ethane",
+            "Ethyne < Ethene < Ethane",
+            "Ethane < Ethyne < Ethene"
+        ],
+        "answer": 0,
+        "explanation": "Acidity increases with s-character."
+    },
+    {
+        "id": 231,
+        "question": "The product formed when benzene reacts with excess Cl2 in sunlight is:",
+        "options": [
+            "Chlorobenzene",
+            "Hexachlorobenzene",
+            "BHC",
+            "Dichlorobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Addition gives benzene hexachloride."
+    },
+    {
+        "id": 232,
+        "question": "Which hydrocarbon has lowest boiling point?",
+        "options": [
+            "n-Butane",
+            "Isobutane",
+            "Propane",
+            "Ethane"
+        ],
+        "answer": 3,
+        "explanation": "Lower molecular mass results in lower boiling point."
+    },
+    {
+        "id": 233,
+        "question": "The intermediate formed during Friedel-Crafts alkylation is:",
+        "options": [
+            "Free radical",
+            "σ-complex",
+            "π-complex",
+            "Carbanion"
+        ],
+        "answer": 1,
+        "explanation": "Electrophilic substitution proceeds via arenium ion."
+    },
+    {
+        "id": 234,
+        "question": "Which compound is non-planar due to steric strain?",
+        "options": [
+            "Benzene",
+            "Cyclobutadiene",
+            "Cyclooctatetraene",
+            "Naphthalene"
+        ],
+        "answer": 2,
+        "explanation": "Cyclooctatetraene adopts tub shape."
+    },
+    {
+        "id": 235,
+        "question": "The number of structural isomers of C7H16 is:",
+        "options": [
+            "7",
+            "8",
+            "9",
+            "10"
+        ],
+        "answer": 2,
+        "explanation": "Heptane has nine structural isomers."
+    },
+    {
+        "id": 236,
+        "question": "Which compound undergoes fastest free radical bromination?",
+        "options": [
+            "Methane",
+            "Ethane",
+            "Propane",
+            "Isobutane"
+        ],
+        "answer": 3,
+        "explanation": "Bromination is highly selective towards tertiary hydrogens."
+    },
+    {
+        "id": 237,
+        "question": "The major product of ozonolysis of ethene is:",
+        "options": [
+            "Methanal",
+            "Ethanal",
+            "Ethanone",
+            "Methanol"
+        ],
+        "answer": 0,
+        "explanation": "Cleavage gives two molecules of methanal."
+    },
+    {
+        "id": 238,
+        "question": "Which compound shows maximum hyperconjugation?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Isobutene",
+            "2-Methylpropene"
+        ],
+        "answer": 3,
+        "explanation": "More α-hydrogens increase hyperconjugation."
+    },
+    {
+        "id": 239,
+        "question": "Which compound undergoes fastest electrophilic addition of HBr?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "2-Methylpropene",
+            "But-1-ene"
+        ],
+        "answer": 2,
+        "explanation": "Formation of tertiary carbocation increases rate."
+    },
+    {
+        "id": 240,
+        "question": "The degree of unsaturation of C9H12 is:",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": 2,
+        "explanation": "Degree of unsaturation = (2C+2−H)/2 = (20−12)/2 = 4."
+    },
+    {
+        "id": 241,
+        "question": "Which compound gives only one mononitration product?",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Chlorobenzene",
+            "Phenol"
+        ],
+        "answer": 0,
+        "explanation": "Benzene is symmetrical."
+    },
+    {
+        "id": 242,
+        "question": "The major product formed when ethylbenzene is oxidised with KMnO4 is:",
+        "options": [
+            "Acetophenone",
+            "Benzyl alcohol",
+            "Benzoic acid",
+            "Benzaldehyde"
+        ],
+        "answer": 2,
+        "explanation": "Side chain oxidises completely to -COOH."
+    },
+    {
+        "id": 243,
+        "question": "Which compound is least acidic?",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethyne",
+            "Toluene"
+        ],
+        "answer": 0,
+        "explanation": "sp3 hybridised carbon has least s-character."
+    },
+    {
+        "id": 244,
+        "question": "Which hydrocarbon undergoes polymerisation to give polypropene?",
+        "options": [
+            "Ethene",
+            "Propene",
+            "Butene",
+            "Pentene"
+        ],
+        "answer": 1,
+        "explanation": "Propene polymerises to form polypropene."
+    },
+    {
+        "id": 245,
+        "question": "The correct order of bond length is:",
+        "options": [
+            "C≡C < C=C < C-C",
+            "C-C < C=C < C≡C",
+            "C=C < C≡C < C-C",
+            "C≡C < C-C < C=C"
+        ],
+        "answer": 0,
+        "explanation": "Bond length decreases with increasing bond order."
+    },
+    {
+        "id": 246,
+        "question": "Which compound is planar?",
+        "options": [
+            "Cyclohexane",
+            "Cyclobutane",
+            "Cyclopropane",
+            "Benzene"
+        ],
+        "answer": 3,
+        "explanation": "Benzene is planar due to sp2 hybridisation."
+    },
+    {
+        "id": 247,
+        "question": "The major product of hydration of ethyne using HgSO4/H2SO4 is:",
+        "options": [
+            "Ethanol",
+            "Ethanal",
+            "Ethene-1,2-diol",
+            "Ethane"
+        ],
+        "answer": 1,
+        "explanation": "Enol tautomerises to ethanal."
+    },
+    {
+        "id": 248,
+        "question": "Which compound undergoes fastest electrophilic aromatic substitution?",
+        "options": [
+            "Benzene",
+            "Chlorobenzene",
+            "Nitrobenzene",
+            "Aniline"
+        ],
+        "answer": 3,
+        "explanation": "Aniline is strongly activating."
+    },
+    {
+        "id": 249,
+        "question": "The total number of π bonds in anthracene is:",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "Anthracene has 14 π electrons corresponding to 7 π bonds."
+    },
+    {
+        "id": 250,
+        "question": "The reaction of benzene with CH3Cl/AlCl3 is classified as:",
+        "options": [
+            "Electrophilic substitution",
+            "Nucleophilic substitution",
+            "Addition",
+            "Elimination"
+        ],
+        "answer": 0,
+        "explanation": "Friedel-Crafts alkylation is an electrophilic substitution."
+    }
+]

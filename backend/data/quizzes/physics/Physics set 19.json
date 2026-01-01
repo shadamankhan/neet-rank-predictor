@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves along x-axis with position x = 4t^3 − 3t (m). The acceleration at t = 1 s is:",
+        "options": [
+            "18 m/s^2",
+            "20 m/s^2",
+            "24 m/s^2",
+            "30 m/s^2"
+        ],
+        "answer": 0,
+        "explanation": "v = dx/dt = 12t^2 − 3, a = dv/dt = 24t ⇒ a(1) = 24 m/s^2."
+    },
+    {
+        "id": 2,
+        "question": "A projectile is thrown with speed 28 m/s at an angle of 30°. The time of flight (g = 9.8 m/s^2) is approximately:",
+        "options": [
+            "2.8 s",
+            "3.0 s",
+            "3.5 s",
+            "4.0 s"
+        ],
+        "answer": 1,
+        "explanation": "T = 2u sinθ/g = 28/9.8 ≈ 2.86 s."
+    },
+    {
+        "id": 3,
+        "question": "Two blocks of masses 4 kg and 6 kg move together with velocity 5 m/s. The total kinetic energy of the system is:",
+        "options": [
+            "125 J",
+            "150 J",
+            "200 J",
+            "250 J"
+        ],
+        "answer": 1,
+        "explanation": "KE = (1/2)(4+6)×5^2 = 125 J."
+    },
+    {
+        "id": 4,
+        "question": "The work done by force F = 6x (N) in moving a particle from x = 0 to x = 5 m is:",
+        "options": [
+            "50 J",
+            "60 J",
+            "75 J",
+            "90 J"
+        ],
+        "answer": 2,
+        "explanation": "W = ∫0^5 6x dx = 3x^2|0^5 = 75 J."
+    },
+    {
+        "id": 5,
+        "question": "For a body rolling without slipping, the ratio of rotational kinetic energy to total kinetic energy for a solid cylinder is:",
+        "options": [
+            "1/3",
+            "1/2",
+            "2/3",
+            "3/5"
+        ],
+        "answer": 0,
+        "explanation": "For solid cylinder, I = (1/2)MR^2 ⇒ KE_rot/KE_total = 1/3."
+    },
+    {
+        "id": 6,
+        "question": "The orbital speed of a satellite at height h above Earth's surface is proportional to:",
+        "options": [
+            "1/√(R+h)",
+            "√(R+h)",
+            "1/(R+h)",
+            "R+h"
+        ],
+        "answer": 0,
+        "explanation": "v = √(GM/(R+h))."
+    },
+    {
+        "id": 7,
+        "question": "The terminal velocity of a small sphere falling through a viscous medium depends on:",
+        "options": [
+            "Square of radius",
+            "Radius",
+            "Viscosity only",
+            "Density only"
+        ],
+        "answer": 0,
+        "explanation": "From Stokes’ law, vt ∝ r^2."
+    },
+    {
+        "id": 8,
+        "question": "The dimensional formula of bulk modulus is:",
+        "options": [
+            "ML^−1T^−2",
+            "MLT^−2",
+            "M^0LT^−2",
+            "ML^2T^−2"
+        ],
+        "answer": 0,
+        "explanation": "Bulk modulus has same dimension as pressure."
+    },
+    {
+        "id": 9,
+        "question": "For an ideal gas undergoing isothermal expansion, the work done is given by:",
+        "options": [
+            "nRT ln(V2/V1)",
+            "P(V2−V1)",
+            "Zero",
+            "nCvΔT"
+        ],
+        "answer": 0,
+        "explanation": "Work in isothermal process is nRT ln(V2/V1)."
+    },
+    {
+        "id": 10,
+        "question": "The maximum velocity of a particle in SHM of amplitude A and angular frequency ω is:",
+        "options": [
+            "ωA",
+            "ω^2A",
+            "A/ω",
+            "ω/A"
+        ],
+        "answer": 0,
+        "explanation": "v_max = ωA."
+    },
+    {
+        "id": 11,
+        "question": "The speed of sound in air increases when:",
+        "options": [
+            "Temperature increases",
+            "Pressure increases at constant T",
+            "Density increases",
+            "Humidity decreases"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ √T."
+    },
+    {
+        "id": 12,
+        "question": "The electric field inside a uniformly charged spherical shell is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Maximum at center",
+            "Depends on radius"
+        ],
+        "answer": 0,
+        "explanation": "By Gauss’s law, E = 0 inside shell."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of electric potential energy is:",
+        "options": [
+            "Joule",
+            "Volt",
+            "Coulomb",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Potential energy is measured in joule."
+    },
+    {
+        "id": 14,
+        "question": "If the distance between plates of a capacitor is doubled, the capacitance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "C = ε0A/d, so doubling d halves C."
+    },
+    {
+        "id": 15,
+        "question": "The drift velocity of electrons in a conductor is proportional to:",
+        "options": [
+            "Electric field",
+            "Length of conductor",
+            "Cross-sectional area",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "v_d = μE."
+    },
+    {
+        "id": 16,
+        "question": "The magnetic field at the center of a circular loop of radius R carrying current I is:",
+        "options": [
+            "μ0I/2R",
+            "μ0I/R",
+            "μ0R/I",
+            "μ0/IR"
+        ],
+        "answer": 0,
+        "explanation": "B = μ0I/(2R)."
+    },
+    {
+        "id": 17,
+        "question": "Two parallel conductors carrying currents in opposite directions will:",
+        "options": [
+            "Repel each other",
+            "Attract each other",
+            "Not interact",
+            "Move perpendicular"
+        ],
+        "answer": 0,
+        "explanation": "Opposite direction currents repel."
+    },
+    {
+        "id": 18,
+        "question": "The induced emf in a coil is zero when the magnetic flux linked with it is:",
+        "options": [
+            "Constant",
+            "Maximum",
+            "Minimum",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "ε = −dΦ/dt."
+    },
+    {
+        "id": 19,
+        "question": "In a purely inductive AC circuit, the average power consumed is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "VI"
+        ],
+        "answer": 0,
+        "explanation": "Inductive circuit has zero average power."
+    },
+    {
+        "id": 20,
+        "question": "The focal length of a plane mirror is:",
+        "options": [
+            "Infinite",
+            "Zero",
+            "Positive",
+            "Negative"
+        ],
+        "answer": 0,
+        "explanation": "Plane mirror has infinite focal length."
+    },
+    {
+        "id": 21,
+        "question": "A concave mirror forms a virtual image when the object is placed:",
+        "options": [
+            "Between pole and focus",
+            "Beyond focus",
+            "At center of curvature",
+            "At infinity"
+        ],
+        "answer": 0,
+        "explanation": "Object inside focal length gives virtual image."
+    },
+    {
+        "id": 22,
+        "question": "In Young’s double slit experiment, fringe width increases if:",
+        "options": [
+            "Wavelength increases",
+            "Slit separation increases",
+            "Screen distance decreases",
+            "Intensity increases"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 23,
+        "question": "The stopping potential in photoelectric effect depends on:",
+        "options": [
+            "Frequency of light",
+            "Intensity of light",
+            "Area of metal",
+            "Time of exposure"
+        ],
+        "answer": 0,
+        "explanation": "Stopping potential relates to maximum kinetic energy."
+    },
+    {
+        "id": 24,
+        "question": "The de Broglie wavelength of a particle is inversely proportional to its:",
+        "options": [
+            "Momentum",
+            "Velocity",
+            "Energy",
+            "Mass"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 25,
+        "question": "The binding energy per nucleon is maximum for nuclei near mass number:",
+        "options": [
+            "56",
+            "4",
+            "12",
+            "235"
+        ],
+        "answer": 0,
+        "explanation": "Maximum around iron nuclei."
+    },
+    {
+        "id": 26,
+        "question": "The SI unit of activity of a radioactive sample is:",
+        "options": [
+            "Becquerel",
+            "Gray",
+            "Sievert",
+            "Curie"
+        ],
+        "answer": 0,
+        "explanation": "Activity is measured in becquerel."
+    },
+    {
+        "id": 27,
+        "question": "The conductivity of a semiconductor increases when:",
+        "options": [
+            "Temperature increases",
+            "Temperature decreases",
+            "Pressure increases",
+            "Volume increases"
+        ],
+        "answer": 0,
+        "explanation": "Higher temperature produces more charge carriers."
+    },
+    {
+        "id": 28,
+        "question": "In an n-type semiconductor, the majority charge carriers are:",
+        "options": [
+            "Electrons",
+            "Holes",
+            "Protons",
+            "Ions"
+        ],
+        "answer": 0,
+        "explanation": "Donor impurities supply electrons."
+    },
+    {
+        "id": 29,
+        "question": "The SI unit of electric field intensity is:",
+        "options": [
+            "N/C",
+            "Volt",
+            "C/N",
+            "J/C"
+        ],
+        "answer": 0,
+        "explanation": "Electric field = force per unit charge."
+    },
+    {
+        "id": 30,
+        "question": "The escape speed from Earth does not depend on:",
+        "options": [
+            "Mass of body",
+            "Mass of Earth",
+            "Radius of Earth",
+            "Gravitational constant"
+        ],
+        "answer": 0,
+        "explanation": "v_e = √(2GM/R)."
+    },
+    {
+        "id": 31,
+        "question": "The SI unit of angular momentum is:",
+        "options": [
+            "kg·m^2/s",
+            "kg·m/s",
+            "N·m",
+            "J"
+        ],
+        "answer": 0,
+        "explanation": "Angular momentum = r × p."
+    },
+    {
+        "id": 32,
+        "question": "The coefficient of viscosity of liquids decreases with increase in:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Density",
+            "Volume"
+        ],
+        "answer": 0,
+        "explanation": "Liquids become less viscous at higher temperature."
+    },
+    {
+        "id": 33,
+        "question": "The pitch of a sound depends on:",
+        "options": [
+            "Frequency",
+            "Amplitude",
+            "Intensity",
+            "Speed"
+        ],
+        "answer": 0,
+        "explanation": "Pitch is determined by frequency."
+    },
+    {
+        "id": 34,
+        "question": "The electric potential inside a conductor is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Maximum at center",
+            "Minimum at surface"
+        ],
+        "answer": 0,
+        "explanation": "Potential remains constant inside conductor."
+    },
+    {
+        "id": 35,
+        "question": "The magnetic field inside a long solenoid is:",
+        "options": [
+            "Uniform",
+            "Zero",
+            "Non-uniform",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Long solenoid produces uniform field."
+    },
+    {
+        "id": 36,
+        "question": "The power factor of an AC circuit is:",
+        "options": [
+            "cosφ",
+            "sinφ",
+            "tanφ",
+            "1/φ"
+        ],
+        "answer": 0,
+        "explanation": "Power factor = cosφ."
+    },
+    {
+        "id": 37,
+        "question": "A convex mirror always forms an image which is:",
+        "options": [
+            "Virtual and erect",
+            "Real and inverted",
+            "Real and erect",
+            "Virtual and inverted"
+        ],
+        "answer": 0,
+        "explanation": "Convex mirror always gives virtual erect image."
+    },
+    {
+        "id": 38,
+        "question": "The refractive index of a medium is inversely proportional to:",
+        "options": [
+            "Speed of light in medium",
+            "Wavelength",
+            "Frequency",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "n = c/v."
+    },
+    {
+        "id": 39,
+        "question": "The work function of a metal depends on:",
+        "options": [
+            "Nature of metal",
+            "Intensity of light",
+            "Frequency of light",
+            "Area of surface"
+        ],
+        "answer": 0,
+        "explanation": "Work function is a material property."
+    },
+    {
+        "id": 40,
+        "question": "The energy of a photon is:",
+        "options": [
+            "hν",
+            "hc",
+            "h/ν",
+            "h/λ^2"
+        ],
+        "answer": 0,
+        "explanation": "Photon energy E = hν."
+    },
+    {
+        "id": 41,
+        "question": "The decay constant of a radioactive element depends on:",
+        "options": [
+            "Nature of nucleus",
+            "Temperature",
+            "Pressure",
+            "Chemical state"
+        ],
+        "answer": 0,
+        "explanation": "Decay constant is intrinsic nuclear property."
+    },
+    {
+        "id": 42,
+        "question": "The Fermi level in an intrinsic semiconductor lies:",
+        "options": [
+            "At mid-gap",
+            "Near conduction band",
+            "Near valence band",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Intrinsic Fermi level is at mid-gap."
+    },
+    {
+        "id": 43,
+        "question": "The logic gate that gives output 1 when inputs are different is:",
+        "options": [
+            "XOR",
+            "AND",
+            "OR",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "XOR outputs 1 for unequal inputs."
+    },
+    {
+        "id": 44,
+        "question": "The SI unit of inductance is:",
+        "options": [
+            "Henry",
+            "Tesla",
+            "Weber",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Inductance is measured in henry."
+    },
+    {
+        "id": 45,
+        "question": "The phenomenon responsible for mirage is:",
+        "options": [
+            "Total internal reflection",
+            "Refraction only",
+            "Diffraction",
+            "Scattering"
+        ],
+        "answer": 0,
+        "explanation": "Mirage is due to total internal reflection."
+    },
+    {
+        "id": 46,
+        "question": "The SI unit of current density is:",
+        "options": [
+            "A/m^2",
+            "A/m",
+            "C/m^2",
+            "V/m"
+        ],
+        "answer": 0,
+        "explanation": "Current density J = I/A."
+    },
+    {
+        "id": 47,
+        "question": "Magnetic susceptibility of a diamagnetic material is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Diamagnetic materials have negative susceptibility."
+    },
+    {
+        "id": 48,
+        "question": "Faraday’s law of electromagnetic induction states that induced emf is proportional to:",
+        "options": [
+            "Rate of change of magnetic flux",
+            "Magnetic field",
+            "Area of loop",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "ε = −dΦ/dt."
+    },
+    {
+        "id": 49,
+        "question": "The SI unit of magnetic moment is:",
+        "options": [
+            "A·m^2",
+            "T·m",
+            "Wb",
+            "N·m"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic moment = IA."
+    },
+    {
+        "id": 50,
+        "question": "The center of mass of an isolated system moves with constant velocity due to conservation of:",
+        "options": [
+            "Linear momentum",
+            "Energy",
+            "Angular momentum",
+            "Force"
+        ],
+        "answer": 0,
+        "explanation": "No external force ⇒ linear momentum conserved."
+    }
+]

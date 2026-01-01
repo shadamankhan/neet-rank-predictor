@@ -1,0 +1,99 @@
+﻿// frontend/src/components/AdminExportButton.jsx
+import React, { useState } from 'react';
+import { getAuth } from 'firebase/auth';
+
+/**
+ * AdminExportButton
+ * Props:
+ *  - exportUrl (string) default '/api/admin/export'
+ *  - filenameFn (function) optional to create filename from response or date
+ *
+ * Usage:
+ * <AdminExportButton exportUrl="/api/admin/export" />
+ */
+export default function AdminExportButton({ exportUrl = '/api/admin/export', filenameFn }) {
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const [count, setCount] = useState(null); // optional: rows exported (backend doesn't return count)
+
+  const handleExport = async () => {
+    setError(null);
+    setLoading(true);
+    try {
+      const auth = getAuth();
+      const user = auth.currentUser;
+      if (!user) throw new Error('Not signed in');
+
+      // always request fresh token for admin validation
+      const idToken = await user.getIdToken(/* forceRefresh */ true);
+
+      const resp = await fetch(exportUrl, {
+        method: 'GET',
+        headers: {
+          Authorization: `Bearer ${idToken}`
+        }
+      });
+
+      if (!resp.ok) {
+        // try to parse JSON error if available
+        let msg = `Export failed (${resp.status})`;
+        try {
+          const j = await resp.json();
+          if (j && j.error) msg = j.error;
+        } catch (e) {}
+        throw new Error(msg);
+      }
+
+      // Derive filename: prefer content-disposition header, fallback to generated
+      const disposition = resp.headers.get('Content-Disposition') || '';
+      let filename;
+      const m = disposition.match(/filename="?(.+?)"?(\s*;|$)/i);
+      if (m && m[1]) filename = m[1];
+      else filename = filenameFn ? filenameFn() : `predictions_${new Date().toISOString().replace(/[:.]/g, '-')}.csv`;
+
+      const blob = await resp.blob();
+      // create object URL and download
+      const url = window.URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      window.URL.revokeObjectURL(url);
+
+      // optional: if backend returns number of rows in headers or body, setCount
+      setCount((prev) => prev + 1); // just toggle to show success (no count available)
+    } catch (err) {
+      console.error('Export error', err);
+      setError(err.message || 'Export failed');
+    } finally {
+      setLoading(false);
+      // clear success indicator later if desired
+      setTimeout(() => setCount(null), 2000);
+    }
+  };
+
+  return (
+    <div style={{ display: 'flex', gap: 12, alignItems: 'center' }}>
+      <button
+        onClick={handleExport}
+        disabled={loading}
+        style={{
+          padding: '8px 14px',
+          borderRadius: 8,
+          border: '1px solid #ddd',
+          background: loading ? '#f3f3f3' : '#111',
+          color: loading ? '#666' : '#fff',
+          cursor: loading ? 'not-allowed' : 'pointer'
+        }}
+      >
+        {loading ? 'Preparing CSVâ€¦' : 'Download Predictions CSV'}
+      </button>
+
+      {error && <div style={{ color: 'crimson' }}>Error: {error}</div>}
+      {count !== null && !error && !loading && <div style={{ color: 'green' }}>Export started âœ“</div>}
+    </div>
+  );
+}
+

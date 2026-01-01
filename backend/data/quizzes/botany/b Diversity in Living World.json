@@ -1,0 +1,5762 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic aid serves as a repository of preserved plant specimens arranged systematically?",
+        "options": [
+            "Museum",
+            "Herbarium",
+            "Botanical garden",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines herbarium as a storehouse of collected plant specimens that are dried, pressed and preserved."
+    },
+    {
+        "id": 2,
+        "question": "Museums mainly help in taxonomy by providing",
+        "options": [
+            "living plant collections",
+            "preserved specimens of plants and animals",
+            "only photographs",
+            "only skeletal remains"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that museums have preserved specimens of plants and animals for study and reference."
+    },
+    {
+        "id": 3,
+        "question": "Which taxonomic aid is primarily used for identification based on contrasting characters?",
+        "options": [
+            "Flora",
+            "Manual",
+            "Key",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions keys are used for identification based on paired contrasting characters."
+    },
+    {
+        "id": 4,
+        "question": "In taxonomic keys, the two contrasting statements are called",
+        "options": [
+            "couplet",
+            "lead",
+            "dichotomy",
+            "coupling"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states that each step in a key consists of two contrasting statements called a couplet."
+    },
+    {
+        "id": 5,
+        "question": "Each statement in a couplet of a taxonomic key is known as",
+        "options": [
+            "taxon",
+            "lead",
+            "character",
+            "unit"
+        ],
+        "answer": 1,
+        "explanation": "According to NCERT, the two choices in a couplet are known as leads."
+    },
+    {
+        "id": 6,
+        "question": "Floras provide information about",
+        "options": [
+            "animals of a region",
+            "plants of a particular area",
+            "fossils only",
+            "medicinal plants only"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines flora as an account of plant species occurring in a particular area."
+    },
+    {
+        "id": 7,
+        "question": "Manuals are useful in taxonomy because they",
+        "options": [
+            "provide ecological data only",
+            "help in identification of organisms",
+            "record evolutionary history",
+            "list chromosomes"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states manuals help in identification of organisms found in a particular area."
+    },
+    {
+        "id": 8,
+        "question": "Catalogues in taxonomy mainly provide",
+        "options": [
+            "detailed descriptions",
+            "alphabetical list of species",
+            "keys for identification",
+            "living specimens"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions catalogues list species found in an area."
+    },
+    {
+        "id": 9,
+        "question": "The scientific name of mango as given in NCERT is",
+        "options": [
+            "Mangifera Indica",
+            "Mangifera indica",
+            "mangifera indica",
+            "MANGIFERA indica"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses Mangifera indica following binomial nomenclature rules."
+    },
+    {
+        "id": 10,
+        "question": "The author citation in scientific names indicates",
+        "options": [
+            "discoverer of species",
+            "classifier of species",
+            "publisher of flora",
+            "collector of specimen"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions author names indicate the scientist who described the species."
+    },
+    {
+        "id": 11,
+        "question": "Which taxonomic category represents organisms with the highest degree of similarity?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Species is the lowest category with maximum similarity as per NCERT."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following pairs correctly represents genus and species?",
+        "options": [
+            "Homo sapiens",
+            "Homo Sapiens",
+            "homo sapiens",
+            "HOMO sapiens"
+        ],
+        "answer": 0,
+        "explanation": "NCERT specifies genus capitalised and species in lowercase."
+    },
+    {
+        "id": 13,
+        "question": "Which rank comes immediately above genus?",
+        "options": [
+            "Species",
+            "Order",
+            "Family",
+            "Class"
+        ],
+        "answer": 2,
+        "explanation": "NCERT hierarchy places family above genus."
+    },
+    {
+        "id": 14,
+        "question": "Which of the following taxonomic ranks contains organisms sharing common characters but less similarity than family?",
+        "options": [
+            "Order",
+            "Genus",
+            "Species",
+            "Variety"
+        ],
+        "answer": 0,
+        "explanation": "Order contains related families with fewer similarities as per NCERT."
+    },
+    {
+        "id": 15,
+        "question": "The taxonomic hierarchy is based on",
+        "options": [
+            "habitat only",
+            "morphological characters",
+            "genetic similarity only",
+            "physiological traits only"
+        ],
+        "answer": 1,
+        "explanation": "NCERT emphasizes morphological characters as the basis of hierarchy."
+    },
+    {
+        "id": 16,
+        "question": "Which category was introduced later to accommodate related classes?",
+        "options": [
+            "Phylum",
+            "Division",
+            "Kingdom",
+            "Species"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states phylum was introduced to group related classes."
+    },
+    {
+        "id": 17,
+        "question": "In plants, the term equivalent to phylum is",
+        "options": [
+            "Class",
+            "Division",
+            "Order",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses the term division for plants instead of phylum."
+    },
+    {
+        "id": 18,
+        "question": "Which taxonomic category includes all organisms with common fundamental characters?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the highest category including organisms with fundamental similarities."
+    },
+    {
+        "id": 19,
+        "question": "The study of identification, classification and nomenclature together is called",
+        "options": [
+            "Ecology",
+            "Systematics",
+            "Anatomy",
+            "Morphology"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines systematics as the study encompassing identification, classification and nomenclature."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following is NOT included in systematics as per NCERT?",
+        "options": [
+            "Evolutionary relationships",
+            "Classification",
+            "Nomenclature",
+            "Physiology"
+        ],
+        "answer": 3,
+        "explanation": "Physiology is not included in systematics according to NCERT."
+    },
+    {
+        "id": 21,
+        "question": "Which scientist is known as the father of taxonomy?",
+        "options": [
+            "Darwin",
+            "Linnaeus",
+            "Haeckel",
+            "Whittaker"
+        ],
+        "answer": 1,
+        "explanation": "NCERT recognizes Carolus Linnaeus as the father of taxonomy."
+    },
+    {
+        "id": 22,
+        "question": "Which book by Linnaeus laid the foundation of modern taxonomy?",
+        "options": [
+            "Species Plantarum",
+            "Origin of Species",
+            "Systema Naturae",
+            "Genera Plantarum"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions Systema Naturae as the foundational work."
+    },
+    {
+        "id": 23,
+        "question": "The term species was first clearly defined by",
+        "options": [
+            "Linnaeus",
+            "Darwin",
+            "Mayr",
+            "Bentham"
+        ],
+        "answer": 0,
+        "explanation": "NCERT credits Linnaeus with clear definition of species."
+    },
+    {
+        "id": 24,
+        "question": "Which of the following best represents a taxon?",
+        "options": [
+            "Genus Panthera",
+            "Key",
+            "Herbarium sheet",
+            "Couplet"
+        ],
+        "answer": 0,
+        "explanation": "A taxon is a taxonomic group such as genus, species or family."
+    },
+    {
+        "id": 25,
+        "question": "Taxa are arranged in a hierarchy called",
+        "options": [
+            "Classification",
+            "Nomenclature",
+            "Taxonomic hierarchy",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines the ordered arrangement as taxonomic hierarchy."
+    },
+    {
+        "id": 26,
+        "question": "Which taxonomic aid helps in correct identification using published descriptions?",
+        "options": [
+            "Key",
+            "Flora",
+            "Museum",
+            "Botanical garden"
+        ],
+        "answer": 1,
+        "explanation": "Flora provides descriptions useful for identification."
+    },
+    {
+        "id": 27,
+        "question": "Which one of the following statements is correct regarding botanical gardens?",
+        "options": [
+            "They preserve dried specimens",
+            "They maintain living plants",
+            "They store fossils",
+            "They maintain only trees"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states botanical gardens maintain living plant species."
+    },
+    {
+        "id": 28,
+        "question": "Which taxonomic aid often contains mounted animal skeletons?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Key",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Museums preserve animal skeletons and specimens."
+    },
+    {
+        "id": 29,
+        "question": "Keys are analytical in nature because they",
+        "options": [
+            "describe morphology",
+            "analyze characters stepwise",
+            "list species alphabetically",
+            "store specimens"
+        ],
+        "answer": 1,
+        "explanation": "NCERT describes keys as analytical tools based on contrasting characters."
+    },
+    {
+        "id": 30,
+        "question": "Which taxonomic category was considered the most important by Linnaeus?",
+        "options": [
+            "Genus",
+            "Species",
+            "Family",
+            "Order"
+        ],
+        "answer": 0,
+        "explanation": "NCERT notes Linnaeus regarded genus as the most important category."
+    },
+    {
+        "id": 31,
+        "question": "A group of related species is called",
+        "options": [
+            "Family",
+            "Order",
+            "Genus",
+            "Class"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines genus as a group of related species."
+    },
+    {
+        "id": 32,
+        "question": "Which of the following characters is most useful for identification of species?",
+        "options": [
+            "Habitat",
+            "Morphology",
+            "Physiology",
+            "Behaviour"
+        ],
+        "answer": 1,
+        "explanation": "NCERT emphasizes morphological characters for identification."
+    },
+    {
+        "id": 33,
+        "question": "Which taxonomic rank is represented by Homo?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "Homo is a genus name."
+    },
+    {
+        "id": 34,
+        "question": "The scientific name is usually printed in",
+        "options": [
+            "bold letters",
+            "italics",
+            "capital letters",
+            "underline"
+        ],
+        "answer": 1,
+        "explanation": "NCERT specifies italics for printed scientific names."
+    },
+    {
+        "id": 35,
+        "question": "Which of the following is a correct pair of genus and species of human?",
+        "options": [
+            "Homo sapiens",
+            "Homo Sapiens",
+            "homo sapiens",
+            "HOMO sapiens"
+        ],
+        "answer": 0,
+        "explanation": "NCERT follows standard binomial nomenclature."
+    },
+    {
+        "id": 36,
+        "question": "Taxonomic studies of plants are useful in",
+        "options": [
+            "agriculture",
+            "forestry",
+            "industry",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states taxonomy has applications in agriculture, forestry and industry."
+    },
+    {
+        "id": 37,
+        "question": "Which category includes all plants belonging to angiosperms?",
+        "options": [
+            "Class",
+            "Order",
+            "Division",
+            "Kingdom"
+        ],
+        "answer": 2,
+        "explanation": "Angiosperms constitute a division in plants."
+    },
+    {
+        "id": 38,
+        "question": "The arrangement of specimens in a herbarium is usually based on",
+        "options": [
+            "alphabetical order",
+            "economic value",
+            "taxonomic hierarchy",
+            "habitat"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions specimens are arranged according to a classification system."
+    },
+    {
+        "id": 39,
+        "question": "Which taxonomic aid includes illustrations and brief descriptions?",
+        "options": [
+            "Flora",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Manuals provide identification with illustrations."
+    },
+    {
+        "id": 40,
+        "question": "The smallest taxonomic category that can be identified in nature is",
+        "options": [
+            "Genus",
+            "Species",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "Species is the basic unit recognized in nature."
+    },
+    {
+        "id": 41,
+        "question": "Which of the following pairs represents two different species of the same genus?",
+        "options": [
+            "Panthera leo and Panthera tigris",
+            "Panthera leo and Felis leo",
+            "Homo sapiens and Pan sapiens",
+            "Mangifera indica and Oryza sativa"
+        ],
+        "answer": 0,
+        "explanation": "Both belong to genus Panthera but are different species."
+    },
+    {
+        "id": 42,
+        "question": "Which taxonomic aid is most useful for field identification?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Museum",
+            "Catalogue"
+        ],
+        "answer": 1,
+        "explanation": "Keys are used for quick identification in the field."
+    },
+    {
+        "id": 43,
+        "question": "The process of assigning a scientific name is called",
+        "options": [
+            "Classification",
+            "Identification",
+            "Nomenclature",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines nomenclature as naming of organisms."
+    },
+    {
+        "id": 44,
+        "question": "Which code governs the naming of plants?",
+        "options": [
+            "ICZN",
+            "ICBN",
+            "IUCN",
+            "WHO"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions ICBN for plants."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following statements about species is correct?",
+        "options": [
+            "Species are man-made groups",
+            "Species show maximum genetic diversity",
+            "Species are real units of classification",
+            "Species cannot interbreed"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states species are real units of classification."
+    },
+    {
+        "id": 46,
+        "question": "Which rank includes the least number of organisms?",
+        "options": [
+            "Kingdom",
+            "Order",
+            "Family",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species includes the least number of organisms."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following is NOT a taxonomic aid?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Flora",
+            "Ecosystem"
+        ],
+        "answer": 3,
+        "explanation": "Ecosystem is not listed as a taxonomic aid in NCERT."
+    },
+    {
+        "id": 48,
+        "question": "The primary purpose of classification is to",
+        "options": [
+            "memorize organisms",
+            "identify similarities and differences",
+            "study physiology",
+            "study genetics"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states classification helps in understanding similarities and differences."
+    },
+    {
+        "id": 49,
+        "question": "Which scientist standardized the use of binomial nomenclature?",
+        "options": [
+            "Darwin",
+            "Linnaeus",
+            "Whittaker",
+            "Bentham"
+        ],
+        "answer": 1,
+        "explanation": "Linnaeus standardized binomial nomenclature."
+    },
+    {
+        "id": 50,
+        "question": "Which taxonomic category is directly below class?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Phylum"
+        ],
+        "answer": 0,
+        "explanation": "NCERT hierarchy places order below class."
+    },
+    {
+        "id": 51,
+        "question": "Which of the following is a correct example of author citation?",
+        "options": [
+            "Mangifera indica L.",
+            "Mangifera indica (L)",
+            "Mangifera indica linnaeus",
+            "Mangifera indica Author"
+        ],
+        "answer": 0,
+        "explanation": "NCERT shows author citation using abbreviated form like L."
+    },
+    {
+        "id": 52,
+        "question": "Taxonomic hierarchy helps in",
+        "options": [
+            "naming organisms",
+            "arranging taxa in order",
+            "studying anatomy",
+            "studying physiology"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines hierarchy as arrangement of taxa in definite order."
+    },
+    {
+        "id": 53,
+        "question": "Which of the following is the correct ascending order?",
+        "options": [
+            "Genus → Species → Family",
+            "Species → Genus → Family",
+            "Family → Species → Genus",
+            "Order → Family → Genus"
+        ],
+        "answer": 1,
+        "explanation": "Ascending order begins with species followed by genus and family."
+    },
+    {
+        "id": 54,
+        "question": "The classification proposed by Linnaeus was based mainly on",
+        "options": [
+            "morphology",
+            "physiology",
+            "ecology",
+            "genetics"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Linnaeus classified organisms based on morphological characters."
+    },
+    {
+        "id": 55,
+        "question": "Which of the following best defines a genus?",
+        "options": [
+            "Group of related species",
+            "Group of related families",
+            "Group of related orders",
+            "Group of related classes"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines genus as a group of related species."
+    },
+    {
+        "id": 56,
+        "question": "Which taxonomic category includes maximum number of individuals?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes the maximum number of organisms."
+    },
+    {
+        "id": 57,
+        "question": "Taxonomic keys are generally prepared using",
+        "options": [
+            "anatomical characters",
+            "molecular characters",
+            "contrasting morphological characters",
+            "physiological characters"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions contrasting morphological characters are used."
+    },
+    {
+        "id": 58,
+        "question": "Which taxonomic aid provides information about distribution and habitat?",
+        "options": [
+            "Flora",
+            "Key",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Flora includes information on distribution and habitat."
+    },
+    {
+        "id": 59,
+        "question": "Which of the following statements about binomial nomenclature is correct?",
+        "options": [
+            "Both words are capitalised",
+            "Both words are underlined together",
+            "Genus is capitalised, species is lowercase",
+            "Species is written first"
+        ],
+        "answer": 2,
+        "explanation": "NCERT specifies genus capitalized and species in lowercase."
+    },
+    {
+        "id": 60,
+        "question": "Which taxonomic aid is most useful for long-term preservation of plant material?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Key",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Herbaria preserve plant material for long-term reference."
+    },
+    {
+        "id": 61,
+        "question": "Which taxonomic rank groups related orders?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Phylum"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states class is a category comprising related orders."
+    },
+    {
+        "id": 62,
+        "question": "Which rank is below order and above genus?",
+        "options": [
+            "Species",
+            "Family",
+            "Class",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Family lies between order and genus."
+    },
+    {
+        "id": 63,
+        "question": "The practice of naming organisms based on agreed rules is known as",
+        "options": [
+            "Identification",
+            "Classification",
+            "Nomenclature",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines nomenclature as naming based on rules."
+    },
+    {
+        "id": 64,
+        "question": "Which taxonomic category includes all monocotyledonous plants?",
+        "options": [
+            "Order",
+            "Class",
+            "Division",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "Monocots are grouped under a class."
+    },
+    {
+        "id": 65,
+        "question": "Which taxonomic aid is primarily used for teaching purposes?",
+        "options": [
+            "Key",
+            "Museum",
+            "Catalogue",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Museums are used for educational display and study."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following best represents the purpose of systematics?",
+        "options": [
+            "Only naming organisms",
+            "Only classification",
+            "Understanding diversity and relationships",
+            "Only identification"
+        ],
+        "answer": 2,
+        "explanation": "NCERT includes evolutionary relationships in systematics."
+    },
+    {
+        "id": 67,
+        "question": "Which category is the most inclusive?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the most inclusive category."
+    },
+    {
+        "id": 68,
+        "question": "Which taxonomic rank is immediately below kingdom in plants?",
+        "options": [
+            "Class",
+            "Division",
+            "Order",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "Division is the rank below kingdom in plants."
+    },
+    {
+        "id": 69,
+        "question": "Which statement about species is incorrect?",
+        "options": [
+            "Species can interbreed",
+            "Species show fertile offspring",
+            "Species are artificial groups",
+            "Species share similarities"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states species are real, not artificial groups."
+    },
+    {
+        "id": 70,
+        "question": "Which taxonomic category shows maximum similarities?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Species members show maximum similarity."
+    },
+    {
+        "id": 71,
+        "question": "Which taxonomic aid helps in quick identification without descriptions?",
+        "options": [
+            "Key",
+            "Flora",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Keys use contrasting characters for quick identification."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following represents a correct taxonomic hierarchy?",
+        "options": [
+            "Kingdom → Phylum → Class → Order → Family → Genus → Species",
+            "Species → Kingdom → Phylum",
+            "Family → Order → Class → Genus",
+            "Genus → Family → Species"
+        ],
+        "answer": 0,
+        "explanation": "NCERT provides this standard hierarchy."
+    },
+    {
+        "id": 73,
+        "question": "The term 'taxon' refers to",
+        "options": [
+            "a group of organisms",
+            "a taxonomic aid",
+            "a scientific name",
+            "a couplet"
+        ],
+        "answer": 0,
+        "explanation": "Taxon is a taxonomic group at any rank."
+    },
+    {
+        "id": 74,
+        "question": "Which scientist introduced the term taxonomy?",
+        "options": [
+            "Linnaeus",
+            "Candolle",
+            "Haeckel",
+            "Whittaker"
+        ],
+        "answer": 1,
+        "explanation": "NCERT credits A.P. de Candolle with the term taxonomy."
+    },
+    {
+        "id": 75,
+        "question": "Which taxonomic aid includes preserved insects pinned in boxes?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Flora",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Museums preserve insects and other animals."
+    },
+    {
+        "id": 76,
+        "question": "Which of the following is NOT governed by ICBN?",
+        "options": [
+            "Scientific names of plants",
+            "Rules of plant naming",
+            "Animal nomenclature",
+            "Plant species naming"
+        ],
+        "answer": 2,
+        "explanation": "Animal nomenclature is governed by ICZN."
+    },
+    {
+        "id": 77,
+        "question": "Which taxonomic category is common to both plants and animals?",
+        "options": [
+            "Division",
+            "Phylum",
+            "Kingdom",
+            "Class"
+        ],
+        "answer": 3,
+        "explanation": "Class is common to both plant and animal taxonomy."
+    },
+    {
+        "id": 78,
+        "question": "Which of the following pairs represents same species?",
+        "options": [
+            "Panthera leo and Leo panthera",
+            "Mangifera indica and Mangifera indica",
+            "Homo sapiens and Homo erectus",
+            "Oryza sativa and Triticum aestivum"
+        ],
+        "answer": 1,
+        "explanation": "Same genus and species name represent same species."
+    },
+    {
+        "id": 79,
+        "question": "Which taxonomic aid is most useful for referencing past collections?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Key",
+            "Manual"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium preserves historical plant collections."
+    },
+    {
+        "id": 80,
+        "question": "The ultimate aim of classification is to",
+        "options": [
+            "memorize organisms",
+            "organize biodiversity for study",
+            "increase number of taxa",
+            "rename organisms"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states classification helps in systematic study of biodiversity."
+    },
+    {
+        "id": 81,
+        "question": "Which of the following statements correctly defines a species according to NCERT?",
+        "options": [
+            "Group of organisms living in same habitat",
+            "Group of organisms showing morphological similarities only",
+            "Group of organisms capable of interbreeding and producing fertile offspring",
+            "Group of organisms having same chromosome number"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines species as a group of organisms that can interbreed freely in nature and produce fertile offspring."
+    },
+    {
+        "id": 82,
+        "question": "Which taxonomic category was regarded as the basic category by Linnaeus?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states that Linnaeus considered genus as the basic unit of classification."
+    },
+    {
+        "id": 83,
+        "question": "The term 'taxonomy' was introduced by",
+        "options": [
+            "Carolus Linnaeus",
+            "A.P. de Candolle",
+            "Charles Darwin",
+            "Ernst Haeckel"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions that the term taxonomy was coined by A.P. de Candolle."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following statements about taxonomic hierarchy is correct?",
+        "options": [
+            "Similarity increases from species to kingdom",
+            "Number of organisms decreases from species to kingdom",
+            "Characters become more specific from kingdom to species",
+            "Genus includes related families"
+        ],
+        "answer": 2,
+        "explanation": "According to NCERT, characters become more specific and similarities increase towards species."
+    },
+    {
+        "id": 85,
+        "question": "Which taxonomic rank contains organisms sharing maximum number of common characters?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states that members of a species share maximum similarities."
+    },
+    {
+        "id": 86,
+        "question": "The hierarchy of classification was proposed to arrange",
+        "options": [
+            "habitats",
+            "taxa",
+            "ecosystems",
+            "communities"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines taxonomic hierarchy as the arrangement of taxa in definite sequence."
+    },
+    {
+        "id": 87,
+        "question": "Which of the following is a correct statement regarding genus?",
+        "options": [
+            "Genus includes related families",
+            "Genus includes unrelated species",
+            "Genus includes related species",
+            "Genus is higher than family"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines genus as a group of related species."
+    },
+    {
+        "id": 88,
+        "question": "Which rank is immediately above family?",
+        "options": [
+            "Class",
+            "Order",
+            "Genus",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "According to NCERT hierarchy, order lies above family."
+    },
+    {
+        "id": 89,
+        "question": "Which taxonomic category represents the largest group?",
+        "options": [
+            "Division",
+            "Class",
+            "Order",
+            "Family"
+        ],
+        "answer": 0,
+        "explanation": "Division is a higher category than class, order and family in plants."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following is NOT a function of classification?",
+        "options": [
+            "Identification of organisms",
+            "Understanding relationships",
+            "Study of physiology",
+            "Systematic arrangement"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states classification helps in identification and understanding relationships, not physiology."
+    },
+    {
+        "id": 91,
+        "question": "Which of the following correctly matches taxonomic rank with its grouping?",
+        "options": [
+            "Family – related species",
+            "Order – related genera",
+            "Genus – related families",
+            "Class – related divisions"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines family as a group of related genera, which themselves contain related species."
+    },
+    {
+        "id": 92,
+        "question": "Which taxonomic aid contains dried and pressed plant specimens mounted on sheets?",
+        "options": [
+            "Museum",
+            "Herbarium",
+            "Flora",
+            "Manual"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines herbarium as a collection of dried and pressed plant specimens."
+    },
+    {
+        "id": 93,
+        "question": "The information recorded on a herbarium sheet does NOT include",
+        "options": [
+            "Scientific name",
+            "Local name",
+            "Collector’s name",
+            "Place of collection"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions scientific name, date, place and collector, not local name."
+    },
+    {
+        "id": 94,
+        "question": "Which taxonomic aid provides a complete listing of species of a given area?",
+        "options": [
+            "Key",
+            "Catalogue",
+            "Manual",
+            "Museum"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states catalogues provide a list of species found in an area."
+    },
+    {
+        "id": 95,
+        "question": "Which taxonomic aid is arranged according to an accepted system of classification?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Flora",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions flora is arranged according to classification."
+    },
+    {
+        "id": 96,
+        "question": "The botanical garden mentioned in NCERT that has the largest collection of plants is",
+        "options": [
+            "Lalbagh",
+            "Indian Botanical Garden, Howrah",
+            "Kew Garden",
+            "National Botanical Garden"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions Kew Garden as having one of the largest collections."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following statements about museums is correct?",
+        "options": [
+            "They preserve only plant specimens",
+            "They preserve only living specimens",
+            "They preserve preserved specimens of plants and animals",
+            "They are used only for research"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states museums preserve preserved plant and animal specimens."
+    },
+    {
+        "id": 98,
+        "question": "In a dichotomous key, identification is based on",
+        "options": [
+            "similar characters",
+            "contrasting characters",
+            "habitat",
+            "distribution"
+        ],
+        "answer": 1,
+        "explanation": "NCERT describes keys as based on contrasting characters."
+    },
+    {
+        "id": 99,
+        "question": "Which of the following is the correct sequence of increasing inclusiveness?",
+        "options": [
+            "Species → Genus → Family → Order",
+            "Genus → Species → Family → Order",
+            "Family → Genus → Species → Order",
+            "Order → Family → Genus → Species"
+        ],
+        "answer": 0,
+        "explanation": "NCERT hierarchy shows increasing inclusiveness from species upward."
+    },
+    {
+        "id": 100,
+        "question": "Which taxonomic category is least inclusive?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 0,
+        "explanation": "Species is the least inclusive and most specific category."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following correctly represents a scientific name with author citation?",
+        "options": [
+            "Mangifera indica Linnaeus",
+            "Mangifera indica L.",
+            "Mangifera Indica L",
+            "Mangifera indica (L.)"
+        ],
+        "answer": 1,
+        "explanation": "NCERT shows author citation in abbreviated form like L."
+    },
+    {
+        "id": 102,
+        "question": "Which taxonomic rank was introduced to group related phyla or divisions?",
+        "options": [
+            "Class",
+            "Kingdom",
+            "Order",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states kingdom is the highest rank grouping all organisms."
+    },
+    {
+        "id": 103,
+        "question": "Which of the following is an advantage of binomial nomenclature?",
+        "options": [
+            "Use of local names",
+            "Universal acceptance",
+            "Long descriptive names",
+            "Multiple names for one organism"
+        ],
+        "answer": 1,
+        "explanation": "NCERT emphasizes universal acceptance of scientific names."
+    },
+    {
+        "id": 104,
+        "question": "Which taxonomic rank groups related classes?",
+        "options": [
+            "Phylum or Division",
+            "Order",
+            "Family",
+            "Genus"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states phylum or division includes related classes."
+    },
+    {
+        "id": 105,
+        "question": "Which of the following is a correct statement about taxonomic keys?",
+        "options": [
+            "They are based on molecular data",
+            "They are used for naming organisms",
+            "They consist of couplets",
+            "They list organisms alphabetically"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states keys consist of couplets with two contrasting statements."
+    },
+    {
+        "id": 106,
+        "question": "Which taxonomic aid is most suitable for beginners for identification?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Flora",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions manuals help in identification and are useful for beginners."
+    },
+    {
+        "id": 107,
+        "question": "Which of the following is NOT included under taxonomic aids?",
+        "options": [
+            "Herbarium",
+            "Botanical garden",
+            "Flora",
+            "Population"
+        ],
+        "answer": 3,
+        "explanation": "Population is an ecological term, not a taxonomic aid."
+    },
+    {
+        "id": 108,
+        "question": "Which taxonomic category is directly above genus?",
+        "options": [
+            "Species",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Family lies directly above genus."
+    },
+    {
+        "id": 109,
+        "question": "Which of the following correctly defines systematics?",
+        "options": [
+            "Study of internal structure",
+            "Study of naming only",
+            "Study of diversity and relationships among organisms",
+            "Study of fossils"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines systematics as study of diversity and evolutionary relationships."
+    },
+    {
+        "id": 110,
+        "question": "Which rank shows minimum similarity among organisms?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the highest rank with minimum similarity."
+    },
+    {
+        "id": 111,
+        "question": "Which of the following is the correct hierarchy in plants?",
+        "options": [
+            "Kingdom → Phylum → Class → Order",
+            "Kingdom → Division → Class → Order",
+            "Division → Kingdom → Class → Order",
+            "Class → Division → Kingdom → Order"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses division instead of phylum for plants."
+    },
+    {
+        "id": 112,
+        "question": "Which taxonomic category includes rice and wheat together?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Class"
+        ],
+        "answer": 3,
+        "explanation": "Rice and wheat are both monocots and belong to the same class."
+    },
+    {
+        "id": 113,
+        "question": "Which of the following statements about genus Panthera is correct?",
+        "options": [
+            "It includes lion and tiger",
+            "It includes lion and dog",
+            "It includes lion and wolf",
+            "It includes lion and cat"
+        ],
+        "answer": 0,
+        "explanation": "NCERT example includes Panthera leo and Panthera tigris."
+    },
+    {
+        "id": 114,
+        "question": "Which of the following helps in maintaining living plant diversity ex situ?",
+        "options": [
+            "Herbarium",
+            "Botanical garden",
+            "Museum",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Botanical gardens maintain living plants."
+    },
+    {
+        "id": 115,
+        "question": "Which taxonomic rank was considered the most stable?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions species as the most stable taxonomic category."
+    },
+    {
+        "id": 116,
+        "question": "Which taxonomic aid provides diagnostic features of species?",
+        "options": [
+            "Key",
+            "Catalogue",
+            "Museum",
+            "Botanical garden"
+        ],
+        "answer": 0,
+        "explanation": "Keys provide diagnostic contrasting characters."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following statements is correct regarding nomenclature codes?",
+        "options": [
+            "One code governs all organisms",
+            "Different codes exist for plants and animals",
+            "Codes are optional",
+            "Codes are based on local languages"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions separate codes for plants and animals."
+    },
+    {
+        "id": 118,
+        "question": "Which of the following taxonomic aids is useful for quick reference of species names?",
+        "options": [
+            "Catalogue",
+            "Key",
+            "Museum",
+            "Herbarium"
+        ],
+        "answer": 0,
+        "explanation": "Catalogues provide quick reference lists of species."
+    },
+    {
+        "id": 119,
+        "question": "Which taxonomic category includes maximum number of taxa?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes the maximum number of taxa."
+    },
+    {
+        "id": 120,
+        "question": "Which of the following statements about taxonomic hierarchy is incorrect?",
+        "options": [
+            "Order includes related families",
+            "Genus includes related species",
+            "Family includes related orders",
+            "Species is the basic unit"
+        ],
+        "answer": 2,
+        "explanation": "Family includes related genera, not orders."
+    },
+    {
+        "id": 121,
+        "question": "Which taxonomic aid is commonly used by taxonomists for long-term studies?",
+        "options": [
+            "Key",
+            "Manual",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Herbaria are permanent records used for long-term study."
+    },
+    {
+        "id": 122,
+        "question": "Which of the following best explains the need for classification?",
+        "options": [
+            "To reduce biodiversity",
+            "To simplify study of organisms",
+            "To change names",
+            "To eliminate similarities"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states classification simplifies the study of vast biodiversity."
+    },
+    {
+        "id": 123,
+        "question": "Which rank lies between class and family?",
+        "options": [
+            "Division",
+            "Order",
+            "Genus",
+            "Species"
+        ],
+        "answer": 1,
+        "explanation": "Order lies between class and family."
+    },
+    {
+        "id": 124,
+        "question": "Which of the following is NOT a characteristic of species?",
+        "options": [
+            "Interbreeding",
+            "Fertile offspring",
+            "Morphological similarity",
+            "Belonging to different genera"
+        ],
+        "answer": 3,
+        "explanation": "Members of a species belong to the same genus."
+    },
+    {
+        "id": 125,
+        "question": "Which taxonomic aid contains descriptions, illustrations and identification keys?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Herbarium",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions manuals include descriptions and keys."
+    },
+    {
+        "id": 126,
+        "question": "Which taxonomic category was introduced to include all living organisms?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the highest category including all organisms."
+    },
+    {
+        "id": 127,
+        "question": "Which of the following is an example of a taxon?",
+        "options": [
+            "Genus Homo",
+            "Couplet",
+            "Key",
+            "Manual"
+        ],
+        "answer": 0,
+        "explanation": "Genus Homo is a taxonomic group, hence a taxon."
+    },
+    {
+        "id": 128,
+        "question": "Which of the following pairs belongs to the same family?",
+        "options": [
+            "Lion and tiger",
+            "Lion and dog",
+            "Dog and cat",
+            "Tiger and leopard"
+        ],
+        "answer": 3,
+        "explanation": "Tiger and leopard belong to family Felidae as per NCERT examples."
+    },
+    {
+        "id": 129,
+        "question": "Which of the following is a universal language for naming organisms?",
+        "options": [
+            "English",
+            "Latin",
+            "Greek",
+            "French"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states scientific names are generally derived from Latin."
+    },
+    {
+        "id": 130,
+        "question": "Which taxonomic rank is common in both plant and animal classification?",
+        "options": [
+            "Division",
+            "Phylum",
+            "Class",
+            "Species"
+        ],
+        "answer": 2,
+        "explanation": "Class is common to both plants and animals."
+    },
+    {
+        "id": 131,
+        "question": "Which taxonomic category shows the highest degree of relatedness?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members are most closely related."
+    },
+    {
+        "id": 132,
+        "question": "Which of the following statements about flora is correct?",
+        "options": [
+            "It lists animals of a region",
+            "It includes fossil records",
+            "It describes plant species of a region",
+            "It preserves specimens"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines flora as an account of plants of a region."
+    },
+    {
+        "id": 133,
+        "question": "Which taxonomic aid helps in identification without illustrations?",
+        "options": [
+            "Key",
+            "Manual",
+            "Flora",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Keys rely on contrasting statements, not illustrations."
+    },
+    {
+        "id": 134,
+        "question": "Which of the following is the correct order of hierarchy from lower to higher?",
+        "options": [
+            "Species → Genus → Family",
+            "Family → Genus → Species",
+            "Genus → Species → Family",
+            "Order → Family → Genus"
+        ],
+        "answer": 0,
+        "explanation": "NCERT hierarchy increases from species upward."
+    },
+    {
+        "id": 135,
+        "question": "Which taxonomic category contains the least number of taxa?",
+        "options": [
+            "Kingdom",
+            "Division",
+            "Class",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species contains the least number of taxa."
+    },
+    {
+        "id": 136,
+        "question": "Which of the following best describes the aim of systematics?",
+        "options": [
+            "Naming organisms",
+            "Classifying organisms",
+            "Studying diversity and evolutionary relationships",
+            "Studying anatomy"
+        ],
+        "answer": 2,
+        "explanation": "NCERT includes evolutionary relationships in systematics."
+    },
+    {
+        "id": 137,
+        "question": "Which of the following is NOT true about binomial nomenclature?",
+        "options": [
+            "Two-word naming system",
+            "Universally accepted",
+            "Uses local language",
+            "Genus name precedes species"
+        ],
+        "answer": 2,
+        "explanation": "Scientific names do not use local languages."
+    },
+    {
+        "id": 138,
+        "question": "Which taxonomic rank groups related genera?",
+        "options": [
+            "Family",
+            "Order",
+            "Class",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Family is a group of related genera."
+    },
+    {
+        "id": 139,
+        "question": "Which taxonomic aid stores specimens for reference and future study?",
+        "options": [
+            "Key",
+            "Flora",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Herbarium preserves specimens for future reference."
+    },
+    {
+        "id": 140,
+        "question": "Which statement about taxonomic hierarchy is correct?",
+        "options": [
+            "Number of taxa increases towards kingdom",
+            "Similarity decreases towards species",
+            "Specific characters increase towards species",
+            "Genus is more inclusive than family"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states specific characters increase towards species."
+    },
+    {
+        "id": 141,
+        "question": "Which of the following is an example of correct binomial nomenclature format?",
+        "options": [
+            "mangifera indica",
+            "Mangifera Indica",
+            "Mangifera indica",
+            "MANGIFERA INDICA"
+        ],
+        "answer": 2,
+        "explanation": "Genus capitalized, species lowercase as per NCERT."
+    },
+    {
+        "id": 142,
+        "question": "Which taxonomic aid includes descriptions arranged systematically for a region?",
+        "options": [
+            "Flora",
+            "Key",
+            "Museum",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Flora provides systematic descriptions of plants of a region."
+    },
+    {
+        "id": 143,
+        "question": "Which of the following is NOT a taxonomic category?",
+        "options": [
+            "Species",
+            "Genus",
+            "Population",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Population is an ecological term, not taxonomic category."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following statements is true regarding species concept in NCERT?",
+        "options": [
+            "Species are artificial groups",
+            "Species are man-made categories",
+            "Species are real and natural units",
+            "Species are based only on habitat"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines species as real and natural units."
+    },
+    {
+        "id": 145,
+        "question": "Which taxonomic rank lies just below order?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 1,
+        "explanation": "Family lies below order."
+    },
+    {
+        "id": 146,
+        "question": "Which taxonomic aid provides paired contrasting statements for identification?",
+        "options": [
+            "Key",
+            "Flora",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Keys consist of paired contrasting statements."
+    },
+    {
+        "id": 147,
+        "question": "Which taxonomic category includes organisms with fundamental similarities?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with fundamental similarities."
+    },
+    {
+        "id": 148,
+        "question": "Which of the following helps taxonomists to study variation within species?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Catalogue",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Herbaria store multiple specimens showing variation."
+    },
+    {
+        "id": 149,
+        "question": "Which taxonomic rank is immediately below division in plants?",
+        "options": [
+            "Order",
+            "Family",
+            "Class",
+            "Genus"
+        ],
+        "answer": 2,
+        "explanation": "Class lies below division in plants."
+    },
+    {
+        "id": 150,
+        "question": "Which of the following best represents a couplet?",
+        "options": [
+            "Single statement",
+            "Two similar statements",
+            "Two contrasting statements",
+            "Multiple statements"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines couplet as two contrasting statements."
+    },
+    {
+        "id": 151,
+        "question": "Which taxonomic aid contains illustrations useful for identification?",
+        "options": [
+            "Manual",
+            "Key",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 0,
+        "explanation": "Manuals often include illustrations."
+    },
+    {
+        "id": 152,
+        "question": "Which taxonomic rank includes all flowering plants?",
+        "options": [
+            "Class",
+            "Order",
+            "Division",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Angiosperms form a division."
+    },
+    {
+        "id": 153,
+        "question": "Which of the following is NOT a feature of binomial nomenclature?",
+        "options": [
+            "Two words",
+            "Latinized names",
+            "Universal use",
+            "Use of common names"
+        ],
+        "answer": 3,
+        "explanation": "Common names are not part of binomial nomenclature."
+    },
+    {
+        "id": 154,
+        "question": "Which taxonomic category is more inclusive than genus but less inclusive than order?",
+        "options": [
+            "Species",
+            "Family",
+            "Class",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Family lies between genus and order."
+    },
+    {
+        "id": 155,
+        "question": "Which of the following best defines taxonomy?",
+        "options": [
+            "Study of ecology",
+            "Study of classification principles",
+            "Study of plant physiology",
+            "Study of genetics"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines taxonomy as the study of principles of classification."
+    },
+    {
+        "id": 156,
+        "question": "Which taxonomic rank includes organisms with least common characters?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with least similarity."
+    },
+    {
+        "id": 157,
+        "question": "Which taxonomic aid is useful for naming newly discovered species?",
+        "options": [
+            "Code of nomenclature",
+            "Key",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Codes provide rules for naming species."
+    },
+    {
+        "id": 158,
+        "question": "Which of the following statements about genus is incorrect?",
+        "options": [
+            "It includes related species",
+            "It is less inclusive than family",
+            "It includes related families",
+            "It is more inclusive than species"
+        ],
+        "answer": 2,
+        "explanation": "Genus includes related species, not families."
+    },
+    {
+        "id": 159,
+        "question": "Which taxonomic aid gives a permanent record of flora of a region?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Herbarium provides permanent records."
+    },
+    {
+        "id": 160,
+        "question": "Which rank is considered the cornerstone of biological classification?",
+        "options": [
+            "Genus",
+            "Species",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "NCERT emphasizes species as the cornerstone."
+    },
+    {
+        "id": 161,
+        "question": "Which of the following is a correct statement regarding taxonomic aids?",
+        "options": [
+            "They replace classification",
+            "They assist in identification and study",
+            "They eliminate need of taxonomy",
+            "They are used only in laboratories"
+        ],
+        "answer": 1,
+        "explanation": "Taxonomic aids assist in identification and classification."
+    },
+    {
+        "id": 162,
+        "question": "Which taxonomic category shows the highest morphological similarity?",
+        "options": [
+            "Family",
+            "Order",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members show maximum morphological similarity."
+    },
+    {
+        "id": 163,
+        "question": "Which of the following represents correct author citation style?",
+        "options": [
+            "Homo sapiens Linnaeus",
+            "Homo sapiens L.",
+            "Homo sapiens (L)",
+            "Homo Sapiens L"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses abbreviated author citation like L."
+    },
+    {
+        "id": 164,
+        "question": "Which taxonomic rank lies above order?",
+        "options": [
+            "Family",
+            "Class",
+            "Genus",
+            "Species"
+        ],
+        "answer": 1,
+        "explanation": "Class lies above order."
+    },
+    {
+        "id": 165,
+        "question": "Which of the following statements about taxonomic hierarchy is true?",
+        "options": [
+            "Lower ranks are more inclusive",
+            "Higher ranks show more similarities",
+            "Lower ranks are more specific",
+            "Kingdom is most specific"
+        ],
+        "answer": 2,
+        "explanation": "Lower ranks are more specific according to NCERT."
+    },
+    {
+        "id": 166,
+        "question": "Which taxonomic aid helps in identification using step-by-step elimination?",
+        "options": [
+            "Key",
+            "Manual",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Keys use stepwise elimination using contrasting characters."
+    },
+    {
+        "id": 167,
+        "question": "Which of the following best describes a family?",
+        "options": [
+            "Group of related species",
+            "Group of related genera",
+            "Group of related orders",
+            "Group of related classes"
+        ],
+        "answer": 1,
+        "explanation": "Family is a group of related genera."
+    },
+    {
+        "id": 168,
+        "question": "Which taxonomic category is common to all classification systems?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 0,
+        "explanation": "Species is the basic unit common to all systems."
+    },
+    {
+        "id": 169,
+        "question": "Which taxonomic aid provides systematic description with keys and illustrations?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Herbarium",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Manuals provide descriptions, keys and illustrations."
+    },
+    {
+        "id": 170,
+        "question": "Which of the following is NOT a benefit of binomial nomenclature?",
+        "options": [
+            "Avoids confusion",
+            "Provides universal names",
+            "Allows multiple names",
+            "Indicates genus and species"
+        ],
+        "answer": 2,
+        "explanation": "Binomial nomenclature avoids multiple names."
+    },
+    {
+        "id": 171,
+        "question": "Which taxonomic rank contains the maximum number of species?",
+        "options": [
+            "Family",
+            "Genus",
+            "Order",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom contains the maximum number of species."
+    },
+    {
+        "id": 172,
+        "question": "Which of the following is a correct statement about classification?",
+        "options": [
+            "It is arbitrary",
+            "It is based on similarities and differences",
+            "It is based on habitat only",
+            "It is independent of characters"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states classification is based on similarities and differences."
+    },
+    {
+        "id": 173,
+        "question": "Which taxonomic aid is used mainly for naming and identification rules?",
+        "options": [
+            "Codes of nomenclature",
+            "Keys",
+            "Herbarium",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Codes provide rules for naming."
+    },
+    {
+        "id": 174,
+        "question": "Which of the following best represents a taxonomic group?",
+        "options": [
+            "Species",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Species is a taxonomic group."
+    },
+    {
+        "id": 175,
+        "question": "Which taxonomic category lies between genus and order?",
+        "options": [
+            "Family",
+            "Class",
+            "Division",
+            "Species"
+        ],
+        "answer": 0,
+        "explanation": "Family lies between genus and order."
+    },
+    {
+        "id": 176,
+        "question": "Which of the following statements is incorrect regarding species?",
+        "options": [
+            "Species can interbreed",
+            "Species produce fertile offspring",
+            "Species belong to different genera",
+            "Species share similarities"
+        ],
+        "answer": 2,
+        "explanation": "Members of a species belong to the same genus."
+    },
+    {
+        "id": 177,
+        "question": "Which taxonomic rank includes organisms with broad similarities?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with broad similarities."
+    },
+    {
+        "id": 178,
+        "question": "Which taxonomic aid preserves specimens in alcohol or formalin?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Flora",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Museums preserve specimens in alcohol or formalin."
+    },
+    {
+        "id": 179,
+        "question": "Which taxonomic rank is the most specific?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species is the most specific taxonomic rank."
+    },
+    {
+        "id": 180,
+        "question": "The main objective of taxonomy according to NCERT is to",
+        "options": [
+            "Name organisms only",
+            "Classify organisms only",
+            "Identify, name and classify organisms",
+            "Study evolution only"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines taxonomy as identification, nomenclature and classification."
+    },
+    {
+        "id": 181,
+        "question": "Which of the following correctly explains the term identification as used in NCERT taxonomy?",
+        "options": [
+            "Naming of organisms",
+            "Assigning organisms to correct taxon",
+            "Arranging organisms in hierarchy",
+            "Studying evolutionary history"
+        ],
+        "answer": 1,
+        "explanation": "Identification is the process of finding the correct position of an organism in a classification system."
+    },
+    {
+        "id": 182,
+        "question": "Which taxonomic rank is considered most stable according to NCERT?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states that species is the most stable taxonomic category."
+    },
+    {
+        "id": 183,
+        "question": "Which of the following is an artificial character used in early classification systems?",
+        "options": [
+            "Number of stamens",
+            "Overall morphology",
+            "Phylogeny",
+            "Evolutionary relationships"
+        ],
+        "answer": 0,
+        "explanation": "Early systems used artificial characters such as number of stamens."
+    },
+    {
+        "id": 184,
+        "question": "The scientific naming system avoids confusion because it",
+        "options": [
+            "uses local languages",
+            "allows many names",
+            "is universally accepted",
+            "changes frequently"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states binomial nomenclature ensures universal acceptance."
+    },
+    {
+        "id": 185,
+        "question": "Which taxonomic rank includes organisms that are very similar morphologically?",
+        "options": [
+            "Family",
+            "Order",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Members of a species show maximum morphological similarity."
+    },
+    {
+        "id": 186,
+        "question": "Which of the following is NOT included in taxonomic hierarchy?",
+        "options": [
+            "Species",
+            "Genus",
+            "Population",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Population is an ecological term, not a taxonomic rank."
+    },
+    {
+        "id": 187,
+        "question": "The term 'systematics' includes study of",
+        "options": [
+            "nomenclature only",
+            "classification only",
+            "evolutionary relationships",
+            "ecology only"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines systematics as including evolutionary relationships."
+    },
+    {
+        "id": 188,
+        "question": "Which of the following represents the correct sequence from higher to lower category?",
+        "options": [
+            "Family → Order → Class",
+            "Class → Order → Family",
+            "Genus → Family → Order",
+            "Species → Genus → Family"
+        ],
+        "answer": 1,
+        "explanation": "NCERT hierarchy places class above order and order above family."
+    },
+    {
+        "id": 189,
+        "question": "Which taxonomic category includes organisms with fundamental similarities?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with fundamental similarities."
+    },
+    {
+        "id": 190,
+        "question": "Which of the following is the correct plant equivalent of phylum?",
+        "options": [
+            "Class",
+            "Division",
+            "Order",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses division for plants instead of phylum."
+    },
+    {
+        "id": 191,
+        "question": "Which taxonomic aid is based on contrasting characters?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Key",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Keys are based on contrasting characters."
+    },
+    {
+        "id": 192,
+        "question": "Each step of a taxonomic key is known as",
+        "options": [
+            "Lead",
+            "Taxon",
+            "Couplet",
+            "Hierarchy"
+        ],
+        "answer": 2,
+        "explanation": "Each step consists of a pair of contrasting statements called a couplet."
+    },
+    {
+        "id": 193,
+        "question": "The two alternatives in a couplet are called",
+        "options": [
+            "Taxa",
+            "Leads",
+            "Keys",
+            "Characters"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states the alternatives are called leads."
+    },
+    {
+        "id": 194,
+        "question": "Which taxonomic aid is useful for permanent preservation of plant specimens?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Flora",
+            "Manual"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium preserves dried plant specimens permanently."
+    },
+    {
+        "id": 195,
+        "question": "Which information is NOT mandatory on a herbarium label?",
+        "options": [
+            "Scientific name",
+            "Date of collection",
+            "Collector’s name",
+            "Economic importance"
+        ],
+        "answer": 3,
+        "explanation": "Economic importance is not mentioned as mandatory in NCERT."
+    },
+    {
+        "id": 196,
+        "question": "Which taxonomic aid maintains living collections of plants?",
+        "options": [
+            "Museum",
+            "Herbarium",
+            "Botanical garden",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Botanical gardens maintain living plant collections."
+    },
+    {
+        "id": 197,
+        "question": "Which of the following is an advantage of botanical gardens?",
+        "options": [
+            "Only dried specimens",
+            "Study of living plants",
+            "Preservation of animals",
+            "Only for recreation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states botanical gardens help in studying living plants."
+    },
+    {
+        "id": 198,
+        "question": "Which taxonomic aid contains preserved animals in alcohol or formalin?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Flora",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Museums preserve animals in alcohol or formalin."
+    },
+    {
+        "id": 199,
+        "question": "Which taxonomic aid gives information about plants of a specific region?",
+        "options": [
+            "Key",
+            "Manual",
+            "Flora",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Flora describes plants of a particular area."
+    },
+    {
+        "id": 200,
+        "question": "Which taxonomic aid lists species alphabetically?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Key",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Catalogues list species alphabetically."
+    },
+    {
+        "id": 201,
+        "question": "Which of the following best defines classification?",
+        "options": [
+            "Naming organisms",
+            "Identifying organisms",
+            "Grouping organisms based on similarities",
+            "Studying evolution"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines classification as grouping organisms based on similarities and differences."
+    },
+    {
+        "id": 202,
+        "question": "Which taxonomic rank includes the highest number of organisms?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the most inclusive rank."
+    },
+    {
+        "id": 203,
+        "question": "Which taxonomic category shows maximum similarities?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members show maximum similarities."
+    },
+    {
+        "id": 204,
+        "question": "Which taxonomic category lies immediately above species?",
+        "options": [
+            "Family",
+            "Genus",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Genus lies immediately above species."
+    },
+    {
+        "id": 205,
+        "question": "Which taxonomic rank groups related genera?",
+        "options": [
+            "Order",
+            "Family",
+            "Class",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Family is a group of related genera."
+    },
+    {
+        "id": 206,
+        "question": "Which taxonomic rank groups related families?",
+        "options": [
+            "Genus",
+            "Order",
+            "Class",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Order groups related families."
+    },
+    {
+        "id": 207,
+        "question": "Which rank lies between order and genus?",
+        "options": [
+            "Class",
+            "Family",
+            "Species",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Family lies between order and genus."
+    },
+    {
+        "id": 208,
+        "question": "Which rank lies between division and order in plants?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 0,
+        "explanation": "Class lies between division and order."
+    },
+    {
+        "id": 209,
+        "question": "Which scientist is regarded as the father of taxonomy?",
+        "options": [
+            "Darwin",
+            "Linnaeus",
+            "Whittaker",
+            "Haeckel"
+        ],
+        "answer": 1,
+        "explanation": "Carolus Linnaeus is regarded as the father of taxonomy."
+    },
+    {
+        "id": 210,
+        "question": "Which book laid the foundation of modern taxonomy?",
+        "options": [
+            "Origin of Species",
+            "Systema Naturae",
+            "Species Plantarum",
+            "Genera Plantarum"
+        ],
+        "answer": 1,
+        "explanation": "Systema Naturae laid the foundation of modern taxonomy."
+    },
+    {
+        "id": 211,
+        "question": "Which of the following is a correct binomial name?",
+        "options": [
+            "mangifera Indica",
+            "Mangifera indica",
+            "Mangifera Indica",
+            "MANGIFERA indica"
+        ],
+        "answer": 1,
+        "explanation": "Genus capitalized and species lowercase is correct."
+    },
+    {
+        "id": 212,
+        "question": "When handwritten, scientific names should be",
+        "options": [
+            "written in italics",
+            "written in capitals",
+            "underlined separately",
+            "underlined together"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states genus and species are underlined separately when handwritten."
+    },
+    {
+        "id": 213,
+        "question": "Which code governs plant nomenclature?",
+        "options": [
+            "ICZN",
+            "ICBN",
+            "IUCN",
+            "WHO"
+        ],
+        "answer": 1,
+        "explanation": "ICBN governs plant nomenclature."
+    },
+    {
+        "id": 214,
+        "question": "Which code governs animal nomenclature?",
+        "options": [
+            "ICBN",
+            "ICZN",
+            "IUCN",
+            "UNESCO"
+        ],
+        "answer": 1,
+        "explanation": "ICZN governs animal nomenclature."
+    },
+    {
+        "id": 215,
+        "question": "Which taxonomic rank is common to both plants and animals?",
+        "options": [
+            "Division",
+            "Phylum",
+            "Class",
+            "Kingdom"
+        ],
+        "answer": 2,
+        "explanation": "Class is common to both plant and animal classification."
+    },
+    {
+        "id": 216,
+        "question": "Which taxonomic rank is NOT common to plants and animals?",
+        "options": [
+            "Class",
+            "Order",
+            "Division",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Division is used only for plants."
+    },
+    {
+        "id": 217,
+        "question": "Which of the following is an example of a taxon?",
+        "options": [
+            "Panthera",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Panthera is a genus and hence a taxon."
+    },
+    {
+        "id": 218,
+        "question": "Which of the following pairs belong to the same genus?",
+        "options": [
+            "Panthera leo and Panthera tigris",
+            "Panthera leo and Felis leo",
+            "Homo sapiens and Pan troglodytes",
+            "Mangifera indica and Oryza sativa"
+        ],
+        "answer": 0,
+        "explanation": "Both lion and tiger belong to genus Panthera."
+    },
+    {
+        "id": 219,
+        "question": "Which of the following pairs belong to the same family?",
+        "options": [
+            "Lion and dog",
+            "Lion and tiger",
+            "Tiger and wheat",
+            "Mango and rice"
+        ],
+        "answer": 1,
+        "explanation": "Lion and tiger belong to family Felidae."
+    },
+    {
+        "id": 220,
+        "question": "Which taxonomic rank shows minimum similarities?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows minimum similarity."
+    },
+    {
+        "id": 221,
+        "question": "Which taxonomic aid is most useful for beginners?",
+        "options": [
+            "Key",
+            "Manual",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 1,
+        "explanation": "Manuals are useful for beginners."
+    },
+    {
+        "id": 222,
+        "question": "Which taxonomic aid provides stepwise elimination for identification?",
+        "options": [
+            "Flora",
+            "Catalogue",
+            "Key",
+            "Museum"
+        ],
+        "answer": 2,
+        "explanation": "Keys provide stepwise elimination."
+    },
+    {
+        "id": 223,
+        "question": "Which taxonomic aid gives diagnostic features without specimens?",
+        "options": [
+            "Key",
+            "Herbarium",
+            "Botanical garden",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Keys use diagnostic characters."
+    },
+    {
+        "id": 224,
+        "question": "Which of the following best defines a genus?",
+        "options": [
+            "Group of related species",
+            "Group of related families",
+            "Group of related orders",
+            "Group of related classes"
+        ],
+        "answer": 0,
+        "explanation": "Genus is a group of related species."
+    },
+    {
+        "id": 225,
+        "question": "Which of the following best defines a family?",
+        "options": [
+            "Group of related species",
+            "Group of related genera",
+            "Group of related orders",
+            "Group of related classes"
+        ],
+        "answer": 1,
+        "explanation": "Family is a group of related genera."
+    },
+    {
+        "id": 226,
+        "question": "Which of the following best defines an order?",
+        "options": [
+            "Group of related genera",
+            "Group of related species",
+            "Group of related families",
+            "Group of related classes"
+        ],
+        "answer": 2,
+        "explanation": "Order is a group of related families."
+    },
+    {
+        "id": 227,
+        "question": "Which taxonomic rank groups related orders?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Class groups related orders."
+    },
+    {
+        "id": 228,
+        "question": "Which taxonomic rank groups related classes?",
+        "options": [
+            "Division",
+            "Order",
+            "Family",
+            "Genus"
+        ],
+        "answer": 0,
+        "explanation": "Division groups related classes."
+    },
+    {
+        "id": 229,
+        "question": "Which taxonomic rank lies directly below kingdom?",
+        "options": [
+            "Division",
+            "Class",
+            "Order",
+            "Family"
+        ],
+        "answer": 0,
+        "explanation": "Division lies directly below kingdom in plants."
+    },
+    {
+        "id": 230,
+        "question": "Which taxonomic rank lies directly above species?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 0,
+        "explanation": "Genus lies directly above species."
+    },
+    {
+        "id": 231,
+        "question": "Which of the following best defines nomenclature?",
+        "options": [
+            "Process of identification",
+            "Process of classification",
+            "Process of naming organisms",
+            "Study of evolution"
+        ],
+        "answer": 2,
+        "explanation": "Nomenclature refers to naming of organisms."
+    },
+    {
+        "id": 232,
+        "question": "Which of the following ensures uniformity in naming organisms?",
+        "options": [
+            "Taxonomic hierarchy",
+            "Keys",
+            "Codes of nomenclature",
+            "Manuals"
+        ],
+        "answer": 2,
+        "explanation": "Codes ensure uniformity in naming."
+    },
+    {
+        "id": 233,
+        "question": "Which of the following statements about binomial nomenclature is correct?",
+        "options": [
+            "Species name precedes genus",
+            "Genus name precedes species",
+            "Both names are capitalized",
+            "Names are written in local language"
+        ],
+        "answer": 1,
+        "explanation": "Genus name precedes species name."
+    },
+    {
+        "id": 234,
+        "question": "Which of the following is NOT a benefit of classification?",
+        "options": [
+            "Simplifies study",
+            "Helps in identification",
+            "Studies physiology",
+            "Shows relationships"
+        ],
+        "answer": 2,
+        "explanation": "Classification does not study physiology."
+    },
+    {
+        "id": 235,
+        "question": "Which taxonomic aid provides information on habitat and distribution?",
+        "options": [
+            "Key",
+            "Flora",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 1,
+        "explanation": "Flora provides habitat and distribution details."
+    },
+    {
+        "id": 236,
+        "question": "Which taxonomic aid is used mainly for reference collections?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Manual",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Herbarium is used as a reference collection."
+    },
+    {
+        "id": 237,
+        "question": "Which taxonomic rank includes rice and wheat together?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Class"
+        ],
+        "answer": 3,
+        "explanation": "Rice and wheat are monocots and belong to same class."
+    },
+    {
+        "id": 238,
+        "question": "Which taxonomic rank includes mango and cashew together?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Both belong to family Anacardiaceae."
+    },
+    {
+        "id": 239,
+        "question": "Which taxonomic category is the basic unit of classification?",
+        "options": [
+            "Genus",
+            "Species",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "Species is the basic unit of classification."
+    },
+    {
+        "id": 240,
+        "question": "Which taxonomic rank shows highest degree of relatedness?",
+        "options": [
+            "Family",
+            "Order",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species shows highest relatedness."
+    },
+    {
+        "id": 241,
+        "question": "Which taxonomic rank shows least degree of relatedness?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows least relatedness."
+    },
+    {
+        "id": 242,
+        "question": "Which taxonomic aid is useful for rapid identification in the field?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Museum",
+            "Catalogue"
+        ],
+        "answer": 1,
+        "explanation": "Keys are used for rapid field identification."
+    },
+    {
+        "id": 243,
+        "question": "Which taxonomic aid includes descriptions arranged systematically?",
+        "options": [
+            "Flora",
+            "Key",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Flora includes systematic descriptions."
+    },
+    {
+        "id": 244,
+        "question": "Which taxonomic aid includes illustrations and keys?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Herbarium",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Manuals include illustrations and keys."
+    },
+    {
+        "id": 245,
+        "question": "Which taxonomic rank lies between family and class?",
+        "options": [
+            "Order",
+            "Genus",
+            "Species",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies between family and class."
+    },
+    {
+        "id": 246,
+        "question": "Which taxonomic rank lies between genus and species?",
+        "options": [
+            "Family",
+            "Order",
+            "Species",
+            "None"
+        ],
+        "answer": 3,
+        "explanation": "There is no rank between genus and species in NCERT."
+    },
+    {
+        "id": 247,
+        "question": "Which of the following best represents correct hierarchy?",
+        "options": [
+            "Species → Genus → Family → Order",
+            "Family → Species → Genus → Order",
+            "Order → Family → Species → Genus",
+            "Genus → Species → Family → Order"
+        ],
+        "answer": 0,
+        "explanation": "This is the correct ascending hierarchy."
+    },
+    {
+        "id": 248,
+        "question": "Which taxonomic category was emphasized by Linnaeus as most important?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "Linnaeus considered genus as most important."
+    },
+    {
+        "id": 249,
+        "question": "Which taxonomic rank includes organisms sharing common ancestry broadly?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with broad common ancestry."
+    },
+    {
+        "id": 250,
+        "question": "Which taxonomic rank contains least number of taxa?",
+        "options": [
+            "Kingdom",
+            "Division",
+            "Class",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species contains the least number of taxa."
+    },
+    {
+        "id": 251,
+        "question": "Which of the following is an example of correct author citation?",
+        "options": [
+            "Mangifera indica Linnaeus",
+            "Mangifera indica L.",
+            "Mangifera Indica L.",
+            "Mangifera indica (Linnaeus)"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses abbreviated author name such as L."
+    },
+    {
+        "id": 252,
+        "question": "Which of the following is NOT true for binomial nomenclature?",
+        "options": [
+            "Uses two words",
+            "Uses Latinized names",
+            "Uses common names",
+            "Is universally accepted"
+        ],
+        "answer": 2,
+        "explanation": "Binomial nomenclature does not use common names."
+    },
+    {
+        "id": 253,
+        "question": "Which taxonomic aid helps in maintaining historical records of plants?",
+        "options": [
+            "Herbarium",
+            "Botanical garden",
+            "Key",
+            "Manual"
+        ],
+        "answer": 0,
+        "explanation": "Herbarium maintains historical records."
+    },
+    {
+        "id": 254,
+        "question": "Which taxonomic aid is primarily used for teaching and exhibition?",
+        "options": [
+            "Museum",
+            "Key",
+            "Flora",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Museums are used for teaching and exhibition."
+    },
+    {
+        "id": 255,
+        "question": "Which of the following is the correct scientific name of human?",
+        "options": [
+            "Homo Sapiens",
+            "homo sapiens",
+            "Homo sapiens",
+            "HOMO sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Genus capitalized, species lowercase."
+    },
+    {
+        "id": 256,
+        "question": "Which taxonomic category includes organisms capable of interbreeding?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Species members can interbreed."
+    },
+    {
+        "id": 257,
+        "question": "Which taxonomic aid provides rules for naming organisms?",
+        "options": [
+            "Keys",
+            "Manuals",
+            "Codes of nomenclature",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Codes provide rules for naming."
+    },
+    {
+        "id": 258,
+        "question": "Which taxonomic rank includes maximum number of species?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes maximum species."
+    },
+    {
+        "id": 259,
+        "question": "Which of the following best describes taxonomy?",
+        "options": [
+            "Study of anatomy",
+            "Study of classification principles",
+            "Study of ecology",
+            "Study of physiology"
+        ],
+        "answer": 1,
+        "explanation": "Taxonomy is the study of principles of classification."
+    },
+    {
+        "id": 260,
+        "question": "Which taxonomic rank lies directly below order?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 1,
+        "explanation": "Family lies directly below order."
+    },
+    {
+        "id": 261,
+        "question": "Which taxonomic aid helps in identification using paired statements?",
+        "options": [
+            "Key",
+            "Flora",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Keys use paired statements."
+    },
+    {
+        "id": 262,
+        "question": "Which taxonomic category includes organisms with maximum variation?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with maximum variation."
+    },
+    {
+        "id": 263,
+        "question": "Which taxonomic rank is the cornerstone of classification?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Species is the cornerstone of classification."
+    },
+    {
+        "id": 264,
+        "question": "Which taxonomic aid provides descriptions without specimens?",
+        "options": [
+            "Flora",
+            "Key",
+            "Herbarium",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Flora provides descriptions."
+    },
+    {
+        "id": 265,
+        "question": "Which taxonomic rank is most inclusive?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is most inclusive."
+    },
+    {
+        "id": 266,
+        "question": "Which taxonomic category includes related species?",
+        "options": [
+            "Family",
+            "Genus",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Genus includes related species."
+    },
+    {
+        "id": 267,
+        "question": "Which taxonomic category includes related orders?",
+        "options": [
+            "Class",
+            "Division",
+            "Family",
+            "Genus"
+        ],
+        "answer": 0,
+        "explanation": "Class includes related orders."
+    },
+    {
+        "id": 268,
+        "question": "Which taxonomic category includes related classes?",
+        "options": [
+            "Division",
+            "Kingdom",
+            "Order",
+            "Family"
+        ],
+        "answer": 0,
+        "explanation": "Division includes related classes."
+    },
+    {
+        "id": 269,
+        "question": "Which taxonomic category includes all plants?",
+        "options": [
+            "Division",
+            "Class",
+            "Kingdom",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "All plants are included in kingdom Plantae."
+    },
+    {
+        "id": 270,
+        "question": "Which taxonomic aid is used for quick listing of species?",
+        "options": [
+            "Catalogue",
+            "Key",
+            "Flora",
+            "Herbarium"
+        ],
+        "answer": 0,
+        "explanation": "Catalogue provides quick listing."
+    },
+    {
+        "id": 271,
+        "question": "Which taxonomic rank includes the least number of organisms?",
+        "options": [
+            "Kingdom",
+            "Division",
+            "Class",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species includes least number."
+    },
+    {
+        "id": 272,
+        "question": "Which taxonomic aid is most useful for long-term research?",
+        "options": [
+            "Key",
+            "Manual",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Herbarium is used for long-term research."
+    },
+    {
+        "id": 273,
+        "question": "Which of the following statements about species is correct?",
+        "options": [
+            "Species are artificial groups",
+            "Species are real units",
+            "Species cannot interbreed",
+            "Species belong to different genera"
+        ],
+        "answer": 1,
+        "explanation": "Species are real units of classification."
+    },
+    {
+        "id": 274,
+        "question": "Which taxonomic rank lies immediately above family?",
+        "options": [
+            "Order",
+            "Class",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies immediately above family."
+    },
+    {
+        "id": 275,
+        "question": "Which taxonomic aid uses morphological characters only?",
+        "options": [
+            "Key",
+            "Flora",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Keys are based on morphological characters."
+    },
+    {
+        "id": 276,
+        "question": "Which taxonomic category includes organisms sharing highest genetic similarity?",
+        "options": [
+            "Family",
+            "Genus",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Species share highest genetic similarity."
+    },
+    {
+        "id": 277,
+        "question": "Which taxonomic category includes organisms with broad genetic differences?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with broad genetic differences."
+    },
+    {
+        "id": 278,
+        "question": "Which taxonomic rank groups all monocot plants?",
+        "options": [
+            "Order",
+            "Family",
+            "Class",
+            "Division"
+        ],
+        "answer": 2,
+        "explanation": "Monocots form a class."
+    },
+    {
+        "id": 279,
+        "question": "Which taxonomic aid preserves plant specimens as reference material?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Museum",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium preserves plant specimens."
+    },
+    {
+        "id": 280,
+        "question": "According to NCERT, the ultimate aim of classification is to",
+        "options": [
+            "name organisms",
+            "identify organisms",
+            "organize biodiversity for easy study",
+            "study physiology"
+        ],
+        "answer": 2,
+        "explanation": "Classification organizes biodiversity for easier and systematic study."
+    },
+    {
+        "id": 281,
+        "question": "Which of the following best explains why species is regarded as the basic unit of classification?",
+        "options": [
+            "Species show maximum genetic diversity",
+            "Species are artificial groupings",
+            "Species are real and natural populations",
+            "Species include related genera"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states species are real and natural units of classification."
+    },
+    {
+        "id": 282,
+        "question": "Which taxonomic category was considered the cornerstone of classification according to NCERT?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "NCERT emphasizes species as the cornerstone of biological classification."
+    },
+    {
+        "id": 283,
+        "question": "Which of the following characters was mainly used in artificial classification systems?",
+        "options": [
+            "Overall morphology",
+            "Single or few morphological characters",
+            "Evolutionary relationships",
+            "Genetic similarity"
+        ],
+        "answer": 1,
+        "explanation": "Artificial systems used one or few characters, as mentioned in NCERT."
+    },
+    {
+        "id": 284,
+        "question": "Which term refers to the arrangement of taxa in a definite sequence?",
+        "options": [
+            "Classification",
+            "Systematics",
+            "Taxonomic hierarchy",
+            "Nomenclature"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines taxonomic hierarchy as the ordered arrangement of taxa."
+    },
+    {
+        "id": 285,
+        "question": "Which of the following is a correct statement about taxonomic hierarchy?",
+        "options": [
+            "Higher categories have more similarities",
+            "Lower categories are less specific",
+            "Lower categories have more specific characters",
+            "Species is the most inclusive category"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states that characters become more specific towards lower categories."
+    },
+    {
+        "id": 286,
+        "question": "Which taxonomic rank includes the maximum number of different organisms?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the most inclusive rank."
+    },
+    {
+        "id": 287,
+        "question": "Which of the following is the correct ascending order of taxonomic categories?",
+        "options": [
+            "Genus → Species → Family → Order",
+            "Species → Genus → Family → Order",
+            "Family → Genus → Species → Order",
+            "Order → Family → Genus → Species"
+        ],
+        "answer": 1,
+        "explanation": "Ascending order begins from species and moves upwards."
+    },
+    {
+        "id": 288,
+        "question": "Which taxonomic category lies immediately above genus?",
+        "options": [
+            "Species",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Family lies immediately above genus."
+    },
+    {
+        "id": 289,
+        "question": "Which taxonomic rank groups related families?",
+        "options": [
+            "Class",
+            "Order",
+            "Genus",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Order is a group of related families."
+    },
+    {
+        "id": 290,
+        "question": "Which taxonomic rank groups related orders?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Class includes related orders."
+    },
+    {
+        "id": 291,
+        "question": "Which taxonomic rank groups related classes in plants?",
+        "options": [
+            "Division",
+            "Order",
+            "Family",
+            "Genus"
+        ],
+        "answer": 0,
+        "explanation": "Division groups related classes in plants."
+    },
+    {
+        "id": 292,
+        "question": "Which of the following ranks is common to both plants and animals?",
+        "options": [
+            "Division",
+            "Phylum",
+            "Class",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Class is common to both plant and animal classification."
+    },
+    {
+        "id": 293,
+        "question": "Which taxonomic category includes organisms with fundamental similarities?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom includes organisms with fundamental similarities."
+    },
+    {
+        "id": 294,
+        "question": "Which of the following is an example of a taxon?",
+        "options": [
+            "Family Felidae",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Family Felidae is a taxonomic group, hence a taxon."
+    },
+    {
+        "id": 295,
+        "question": "Which of the following pairs belongs to the same genus?",
+        "options": [
+            "Panthera leo and Panthera tigris",
+            "Panthera leo and Felis leo",
+            "Homo sapiens and Pan troglodytes",
+            "Mangifera indica and Oryza sativa"
+        ],
+        "answer": 0,
+        "explanation": "Both lion and tiger belong to genus Panthera."
+    },
+    {
+        "id": 296,
+        "question": "Which of the following pairs belongs to the same family?",
+        "options": [
+            "Lion and tiger",
+            "Lion and dog",
+            "Tiger and wheat",
+            "Mango and rice"
+        ],
+        "answer": 0,
+        "explanation": "Lion and tiger belong to family Felidae."
+    },
+    {
+        "id": 297,
+        "question": "Which taxonomic category shows maximum similarity among organisms?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members show maximum similarity."
+    },
+    {
+        "id": 298,
+        "question": "Which taxonomic category shows minimum similarity among organisms?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows minimum similarity."
+    },
+    {
+        "id": 299,
+        "question": "Which of the following statements about binomial nomenclature is correct?",
+        "options": [
+            "Both words are capitalized",
+            "Genus name precedes species name",
+            "Species name precedes genus name",
+            "Names are written in local language"
+        ],
+        "answer": 1,
+        "explanation": "In binomial nomenclature, genus name precedes species name."
+    },
+    {
+        "id": 300,
+        "question": "Which of the following is a correctly written scientific name?",
+        "options": [
+            "Mangifera Indica",
+            "mangifera indica",
+            "Mangifera indica",
+            "MANGIFERA INDICA"
+        ],
+        "answer": 2,
+        "explanation": "Genus capitalized and species in lowercase is correct."
+    },
+    {
+        "id": 301,
+        "question": "When scientific names are handwritten, they should be",
+        "options": [
+            "written in italics",
+            "written in capitals",
+            "underlined separately",
+            "underlined together"
+        ],
+        "answer": 2,
+        "explanation": "NCERT specifies separate underlining when handwritten."
+    },
+    {
+        "id": 302,
+        "question": "Which code governs the scientific naming of plants?",
+        "options": [
+            "ICZN",
+            "ICBN",
+            "IUCN",
+            "WHO"
+        ],
+        "answer": 1,
+        "explanation": "ICBN governs plant nomenclature."
+    },
+    {
+        "id": 303,
+        "question": "Which code governs the scientific naming of animals?",
+        "options": [
+            "ICBN",
+            "ICZN",
+            "IUCN",
+            "UNESCO"
+        ],
+        "answer": 1,
+        "explanation": "ICZN governs animal nomenclature."
+    },
+    {
+        "id": 304,
+        "question": "Which of the following is NOT a feature of binomial nomenclature?",
+        "options": [
+            "Two-word naming system",
+            "Universal acceptance",
+            "Use of common names",
+            "Latinized names"
+        ],
+        "answer": 2,
+        "explanation": "Binomial nomenclature does not use common names."
+    },
+    {
+        "id": 305,
+        "question": "Which taxonomic aid uses paired contrasting statements for identification?",
+        "options": [
+            "Flora",
+            "Key",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 1,
+        "explanation": "Keys consist of paired contrasting statements."
+    },
+    {
+        "id": 306,
+        "question": "Each step in a taxonomic key is known as a",
+        "options": [
+            "Lead",
+            "Taxon",
+            "Couplet",
+            "Character"
+        ],
+        "answer": 2,
+        "explanation": "Each step is called a couplet."
+    },
+    {
+        "id": 307,
+        "question": "Each alternative in a couplet is known as a",
+        "options": [
+            "Taxon",
+            "Lead",
+            "Hierarchy",
+            "Species"
+        ],
+        "answer": 1,
+        "explanation": "NCERT refers to the alternatives as leads."
+    },
+    {
+        "id": 308,
+        "question": "Which taxonomic aid is a permanent record of plant diversity?",
+        "options": [
+            "Herbarium",
+            "Botanical garden",
+            "Key",
+            "Manual"
+        ],
+        "answer": 0,
+        "explanation": "Herbarium serves as a permanent record."
+    },
+    {
+        "id": 309,
+        "question": "Which taxonomic aid maintains living collections of plants?",
+        "options": [
+            "Museum",
+            "Herbarium",
+            "Botanical garden",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Botanical gardens maintain living plants."
+    },
+    {
+        "id": 310,
+        "question": "Which taxonomic aid preserves animals in alcohol or formalin?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Flora",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Museums preserve animals in alcohol or formalin."
+    },
+    {
+        "id": 311,
+        "question": "Which taxonomic aid gives an account of plants of a particular region?",
+        "options": [
+            "Key",
+            "Manual",
+            "Flora",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Flora describes plant species of a region."
+    },
+    {
+        "id": 312,
+        "question": "Which taxonomic aid provides an alphabetical list of species?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Key",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Catalogues provide alphabetical lists."
+    },
+    {
+        "id": 313,
+        "question": "Which taxonomic aid is especially useful for beginners?",
+        "options": [
+            "Key",
+            "Manual",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 1,
+        "explanation": "Manuals are useful for beginners."
+    },
+    {
+        "id": 314,
+        "question": "Which taxonomic aid includes descriptions and illustrations?",
+        "options": [
+            "Key",
+            "Manual",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 1,
+        "explanation": "Manuals include descriptions and illustrations."
+    },
+    {
+        "id": 315,
+        "question": "Which taxonomic aid helps in field identification?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Museum",
+            "Catalogue"
+        ],
+        "answer": 1,
+        "explanation": "Keys are useful for field identification."
+    },
+    {
+        "id": 316,
+        "question": "Which of the following is NOT considered a taxonomic aid?",
+        "options": [
+            "Herbarium",
+            "Flora",
+            "Population",
+            "Key"
+        ],
+        "answer": 2,
+        "explanation": "Population is an ecological term."
+    },
+    {
+        "id": 317,
+        "question": "Which term refers to the process of assigning an organism to a known taxon?",
+        "options": [
+            "Nomenclature",
+            "Classification",
+            "Identification",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "Identification assigns organisms to known taxa."
+    },
+    {
+        "id": 318,
+        "question": "Which term refers to the process of giving a scientific name?",
+        "options": [
+            "Identification",
+            "Classification",
+            "Nomenclature",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "Nomenclature is the process of naming organisms."
+    },
+    {
+        "id": 319,
+        "question": "Which term includes identification, nomenclature and classification?",
+        "options": [
+            "Taxonomy",
+            "Ecology",
+            "Anatomy",
+            "Morphology"
+        ],
+        "answer": 0,
+        "explanation": "Taxonomy includes identification, nomenclature and classification."
+    },
+    {
+        "id": 320,
+        "question": "Which term additionally includes evolutionary relationships?",
+        "options": [
+            "Taxonomy",
+            "Systematics",
+            "Classification",
+            "Nomenclature"
+        ],
+        "answer": 1,
+        "explanation": "Systematics includes evolutionary relationships."
+    },
+    {
+        "id": 321,
+        "question": "Which scientist coined the term taxonomy?",
+        "options": [
+            "Linnaeus",
+            "A.P. de Candolle",
+            "Darwin",
+            "Whittaker"
+        ],
+        "answer": 1,
+        "explanation": "The term taxonomy was coined by A.P. de Candolle."
+    },
+    {
+        "id": 322,
+        "question": "Which scientist is regarded as the father of taxonomy?",
+        "options": [
+            "Darwin",
+            "Linnaeus",
+            "Haeckel",
+            "Whittaker"
+        ],
+        "answer": 1,
+        "explanation": "Carolus Linnaeus is regarded as the father of taxonomy."
+    },
+    {
+        "id": 323,
+        "question": "Which book laid the foundation of modern taxonomy?",
+        "options": [
+            "Origin of Species",
+            "Systema Naturae",
+            "Species Plantarum",
+            "Genera Plantarum"
+        ],
+        "answer": 1,
+        "explanation": "Systema Naturae laid the foundation of modern taxonomy."
+    },
+    {
+        "id": 324,
+        "question": "Which of the following correctly represents author citation?",
+        "options": [
+            "Mangifera indica Linnaeus",
+            "Mangifera indica L.",
+            "Mangifera Indica L",
+            "Mangifera indica (Linnaeus)"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses abbreviated author citation such as L."
+    },
+    {
+        "id": 325,
+        "question": "Which taxonomic category includes organisms capable of interbreeding?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Members of a species can interbreed."
+    },
+    {
+        "id": 326,
+        "question": "Which taxonomic category is the most specific?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species is the most specific category."
+    },
+    {
+        "id": 327,
+        "question": "Which taxonomic category is the most inclusive?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the most inclusive category."
+    },
+    {
+        "id": 328,
+        "question": "Which taxonomic rank lies directly below kingdom in plants?",
+        "options": [
+            "Division",
+            "Class",
+            "Order",
+            "Family"
+        ],
+        "answer": 0,
+        "explanation": "Division lies directly below kingdom in plants."
+    },
+    {
+        "id": 329,
+        "question": "Which taxonomic rank lies between division and order?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 0,
+        "explanation": "Class lies between division and order."
+    },
+    {
+        "id": 330,
+        "question": "Which taxonomic rank lies between order and species?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "None"
+        ],
+        "answer": 3,
+        "explanation": "There is no rank between order and species."
+    },
+    {
+        "id": 331,
+        "question": "Which taxonomic rank lies directly above species?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 0,
+        "explanation": "Genus lies directly above species."
+    },
+    {
+        "id": 332,
+        "question": "Which taxonomic rank lies directly above family?",
+        "options": [
+            "Order",
+            "Class",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies directly above family."
+    },
+    {
+        "id": 333,
+        "question": "Which taxonomic category includes rice and wheat together?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Class"
+        ],
+        "answer": 3,
+        "explanation": "Rice and wheat are monocots and belong to the same class."
+    },
+    {
+        "id": 334,
+        "question": "Which taxonomic category includes mango and cashew together?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Mango and cashew belong to family Anacardiaceae."
+    },
+    {
+        "id": 335,
+        "question": "Which taxonomic category includes all flowering plants?",
+        "options": [
+            "Class",
+            "Order",
+            "Division",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Flowering plants belong to division Angiospermae."
+    },
+    {
+        "id": 336,
+        "question": "Which taxonomic aid is most useful for long-term research?",
+        "options": [
+            "Key",
+            "Manual",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Herbaria are permanent records useful for long-term research."
+    },
+    {
+        "id": 337,
+        "question": "Which of the following best describes the aim of classification?",
+        "options": [
+            "Naming organisms",
+            "Reducing diversity",
+            "Organizing biodiversity for easy study",
+            "Studying physiology"
+        ],
+        "answer": 2,
+        "explanation": "Classification organizes biodiversity for easier study."
+    },
+    {
+        "id": 338,
+        "question": "Which of the following is NOT governed by ICBN?",
+        "options": [
+            "Plant species names",
+            "Rules of plant naming",
+            "Animal nomenclature",
+            "Plant genera names"
+        ],
+        "answer": 2,
+        "explanation": "Animal nomenclature is governed by ICZN."
+    },
+    {
+        "id": 339,
+        "question": "Which taxonomic aid provides rules for naming organisms?",
+        "options": [
+            "Keys",
+            "Manuals",
+            "Codes of nomenclature",
+            "Herbaria"
+        ],
+        "answer": 2,
+        "explanation": "Codes of nomenclature provide naming rules."
+    },
+    {
+        "id": 340,
+        "question": "Which taxonomic category shows the highest degree of relatedness?",
+        "options": [
+            "Family",
+            "Order",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species shows the highest degree of relatedness."
+    },
+    {
+        "id": 341,
+        "question": "Which taxonomic category shows the lowest degree of relatedness?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows the lowest degree of relatedness."
+    },
+    {
+        "id": 342,
+        "question": "Which taxonomic aid is useful for maintaining historical collections?",
+        "options": [
+            "Herbarium",
+            "Botanical garden",
+            "Key",
+            "Manual"
+        ],
+        "answer": 0,
+        "explanation": "Herbaria maintain historical collections."
+    },
+    {
+        "id": 343,
+        "question": "Which taxonomic aid is mainly used for teaching and exhibition?",
+        "options": [
+            "Museum",
+            "Key",
+            "Flora",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Museums are mainly used for teaching and exhibition."
+    },
+    {
+        "id": 344,
+        "question": "Which taxonomic aid is used for rapid listing of species?",
+        "options": [
+            "Catalogue",
+            "Key",
+            "Flora",
+            "Herbarium"
+        ],
+        "answer": 0,
+        "explanation": "Catalogues provide rapid listings."
+    },
+    {
+        "id": 345,
+        "question": "Which taxonomic aid gives diagnostic features without preserved specimens?",
+        "options": [
+            "Key",
+            "Herbarium",
+            "Museum",
+            "Botanical garden"
+        ],
+        "answer": 0,
+        "explanation": "Keys use diagnostic characters."
+    },
+    {
+        "id": 346,
+        "question": "Which taxonomic rank is common to all classification systems?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 0,
+        "explanation": "Species is the basic unit common to all systems."
+    },
+    {
+        "id": 347,
+        "question": "Which taxonomic rank contains the least number of taxa?",
+        "options": [
+            "Kingdom",
+            "Division",
+            "Class",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species contains the least number of taxa."
+    },
+    {
+        "id": 348,
+        "question": "Which taxonomic rank contains the maximum number of taxa?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom contains the maximum number of taxa."
+    },
+    {
+        "id": 349,
+        "question": "Which of the following statements about species is incorrect?",
+        "options": [
+            "Species are real units",
+            "Species can interbreed",
+            "Species belong to different genera",
+            "Species produce fertile offspring"
+        ],
+        "answer": 2,
+        "explanation": "Members of a species belong to the same genus."
+    },
+    {
+        "id": 350,
+        "question": "Which taxonomic rank is directly below class?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies directly below class."
+    },
+    {
+        "id": 351,
+        "question": "Which of the following best describes a family?",
+        "options": [
+            "Group of related species",
+            "Group of related genera",
+            "Group of related orders",
+            "Group of related classes"
+        ],
+        "answer": 1,
+        "explanation": "Family is a group of related genera."
+    },
+    {
+        "id": 352,
+        "question": "Which of the following best describes an order?",
+        "options": [
+            "Group of related species",
+            "Group of related genera",
+            "Group of related families",
+            "Group of related classes"
+        ],
+        "answer": 2,
+        "explanation": "Order is a group of related families."
+    },
+    {
+        "id": 353,
+        "question": "Which of the following best describes a class?",
+        "options": [
+            "Group of related families",
+            "Group of related genera",
+            "Group of related orders",
+            "Group of related species"
+        ],
+        "answer": 2,
+        "explanation": "Class is a group of related orders."
+    },
+    {
+        "id": 354,
+        "question": "Which of the following best describes a division?",
+        "options": [
+            "Group of related classes",
+            "Group of related orders",
+            "Group of related families",
+            "Group of related genera"
+        ],
+        "answer": 0,
+        "explanation": "Division is a group of related classes."
+    },
+    {
+        "id": 355,
+        "question": "Which of the following best describes a kingdom?",
+        "options": [
+            "Group of related divisions",
+            "Group of related classes",
+            "Group of related orders",
+            "Group of related families"
+        ],
+        "answer": 0,
+        "explanation": "Kingdom is a group of related divisions."
+    },
+    {
+        "id": 356,
+        "question": "Which of the following is an example of correct scientific naming?",
+        "options": [
+            "Homo Sapiens",
+            "homo sapiens",
+            "Homo sapiens",
+            "HOMO sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Genus capitalized and species lowercase is correct."
+    },
+    {
+        "id": 357,
+        "question": "Which of the following best explains the need for universal scientific names?",
+        "options": [
+            "Ease of pronunciation",
+            "Avoid confusion due to local names",
+            "Increase number of names",
+            "Reduce classification"
+        ],
+        "answer": 1,
+        "explanation": "Universal names avoid confusion caused by local names."
+    },
+    {
+        "id": 358,
+        "question": "Which taxonomic aid provides systematic descriptions of plants along with their distribution?",
+        "options": [
+            "Flora",
+            "Key",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 0,
+        "explanation": "Flora provides systematic descriptions and distribution."
+    },
+    {
+        "id": 359,
+        "question": "Which taxonomic aid is used mainly as a reference collection of preserved plants?",
+        "options": [
+            "Herbarium",
+            "Botanical garden",
+            "Key",
+            "Manual"
+        ],
+        "answer": 0,
+        "explanation": "Herbarium is a reference collection."
+    },
+    {
+        "id": 360,
+        "question": "Which taxonomic aid helps in understanding variation within species?",
+        "options": [
+            "Herbarium",
+            "Catalogue",
+            "Key",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Herbaria store multiple specimens showing variation."
+    },
+    {
+        "id": 361,
+        "question": "Which taxonomic aid is most useful for identifying unknown specimens?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Catalogue",
+            "Botanical garden"
+        ],
+        "answer": 1,
+        "explanation": "Keys are used to identify unknown specimens."
+    },
+    {
+        "id": 362,
+        "question": "Which taxonomic aid does NOT preserve specimens?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Botanical garden",
+            "Key"
+        ],
+        "answer": 3,
+        "explanation": "Keys do not preserve specimens."
+    },
+    {
+        "id": 363,
+        "question": "Which of the following statements about botanical gardens is correct?",
+        "options": [
+            "They preserve dried plants",
+            "They maintain living collections",
+            "They preserve animals",
+            "They list species alphabetically"
+        ],
+        "answer": 1,
+        "explanation": "Botanical gardens maintain living plant collections."
+    },
+    {
+        "id": 364,
+        "question": "Which of the following is NOT a function of systematics?",
+        "options": [
+            "Identification",
+            "Nomenclature",
+            "Classification",
+            "Physiology"
+        ],
+        "answer": 3,
+        "explanation": "Physiology is not included in systematics."
+    },
+    {
+        "id": 365,
+        "question": "Which of the following terms includes evolutionary relationships?",
+        "options": [
+            "Taxonomy",
+            "Systematics",
+            "Classification",
+            "Nomenclature"
+        ],
+        "answer": 1,
+        "explanation": "Systematics includes evolutionary relationships."
+    },
+    {
+        "id": 366,
+        "question": "Which of the following is an advantage of binomial nomenclature?",
+        "options": [
+            "Use of common names",
+            "Universal acceptance",
+            "Long descriptive names",
+            "Multiple names"
+        ],
+        "answer": 1,
+        "explanation": "Binomial nomenclature provides universal acceptance."
+    },
+    {
+        "id": 367,
+        "question": "Which of the following best describes taxonomy?",
+        "options": [
+            "Study of anatomy",
+            "Study of classification principles",
+            "Study of ecology",
+            "Study of physiology"
+        ],
+        "answer": 1,
+        "explanation": "Taxonomy is the study of principles of classification."
+    },
+    {
+        "id": 368,
+        "question": "Which taxonomic rank includes organisms capable of producing fertile offspring?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Members of a species produce fertile offspring."
+    },
+    {
+        "id": 369,
+        "question": "Which taxonomic rank is regarded as most stable?",
+        "options": [
+            "Genus",
+            "Family",
+            "Species",
+            "Order"
+        ],
+        "answer": 2,
+        "explanation": "Species is considered the most stable rank."
+    },
+    {
+        "id": 370,
+        "question": "Which taxonomic aid is used to provide rules for scientific naming?",
+        "options": [
+            "Key",
+            "Manual",
+            "Codes of nomenclature",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Codes of nomenclature provide rules for naming."
+    },
+    {
+        "id": 371,
+        "question": "Which taxonomic rank lies directly above genus?",
+        "options": [
+            "Family",
+            "Order",
+            "Class",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Family lies directly above genus."
+    },
+    {
+        "id": 372,
+        "question": "Which taxonomic rank lies directly below order?",
+        "options": [
+            "Family",
+            "Genus",
+            "Species",
+            "Class"
+        ],
+        "answer": 0,
+        "explanation": "Family lies directly below order."
+    },
+    {
+        "id": 373,
+        "question": "Which of the following is NOT a taxonomic category?",
+        "options": [
+            "Species",
+            "Genus",
+            "Population",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Population is not a taxonomic category."
+    },
+    {
+        "id": 374,
+        "question": "Which taxonomic rank includes all animals?",
+        "options": [
+            "Division",
+            "Phylum",
+            "Kingdom",
+            "Class"
+        ],
+        "answer": 2,
+        "explanation": "All animals are included in kingdom Animalia."
+    },
+    {
+        "id": 375,
+        "question": "Which of the following statements about hierarchy is correct?",
+        "options": [
+            "Higher ranks are more specific",
+            "Lower ranks are more inclusive",
+            "Lower ranks show more similarities",
+            "Kingdom shows maximum similarity"
+        ],
+        "answer": 2,
+        "explanation": "Lower ranks show more similarities among organisms."
+    },
+    {
+        "id": 376,
+        "question": "Which taxonomic rank shows the greatest diversity?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows the greatest diversity."
+    },
+    {
+        "id": 377,
+        "question": "Which taxonomic aid is mainly used for classification reference?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Catalogue",
+            "Manual"
+        ],
+        "answer": 0,
+        "explanation": "Herbaria are used as classification references."
+    },
+    {
+        "id": 378,
+        "question": "Which of the following best explains the concept of taxon?",
+        "options": [
+            "A scientific name",
+            "A unit of classification",
+            "A key step",
+            "A code"
+        ],
+        "answer": 1,
+        "explanation": "Taxon is a unit of classification at any rank."
+    },
+    {
+        "id": 379,
+        "question": "Which taxonomic rank is used to group related genera?",
+        "options": [
+            "Family",
+            "Order",
+            "Class",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Family groups related genera."
+    },
+    {
+        "id": 380,
+        "question": "According to NCERT, the main objective of systematics is to",
+        "options": [
+            "Name organisms",
+            "Classify organisms",
+            "Understand diversity and evolutionary relationships",
+            "Study physiology"
+        ],
+        "answer": 2,
+        "explanation": "Systematics aims to understand diversity and evolutionary relationships."
+    },
+    {
+        "id": 381,
+        "question": "Which of the following best justifies the use of scientific names over common names?",
+        "options": [
+            "They are easier to pronounce",
+            "They avoid confusion caused by regional names",
+            "They describe habitat",
+            "They indicate economic importance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states scientific names avoid confusion created by multiple local names."
+    },
+    {
+        "id": 382,
+        "question": "Which taxonomic category contains organisms that share maximum number of common characters?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members show maximum similarities as per NCERT."
+    },
+    {
+        "id": 383,
+        "question": "Which of the following is the correct order of taxonomic hierarchy from higher to lower?",
+        "options": [
+            "Kingdom → Division → Class → Order → Family → Genus → Species",
+            "Kingdom → Class → Division → Order → Family → Species → Genus",
+            "Division → Kingdom → Class → Order → Family → Genus → Species",
+            "Kingdom → Division → Order → Class → Family → Genus → Species"
+        ],
+        "answer": 0,
+        "explanation": "NCERT gives the standard hierarchy from kingdom to species."
+    },
+    {
+        "id": 384,
+        "question": "Which taxonomic rank shows the highest degree of inclusiveness?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the most inclusive category."
+    },
+    {
+        "id": 385,
+        "question": "Which of the following is a defining feature of species concept as per NCERT?",
+        "options": [
+            "Same habitat",
+            "Same morphology only",
+            "Interbreeding with fertile offspring",
+            "Same ecological niche"
+        ],
+        "answer": 2,
+        "explanation": "Species are defined by interbreeding and fertile offspring."
+    },
+    {
+        "id": 386,
+        "question": "Which taxonomic category lies immediately below genus?",
+        "options": [
+            "Family",
+            "Species",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Species lies immediately below genus."
+    },
+    {
+        "id": 387,
+        "question": "Which taxonomic category lies immediately above family?",
+        "options": [
+            "Order",
+            "Class",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies immediately above family."
+    },
+    {
+        "id": 388,
+        "question": "Which of the following pairs correctly represents members of the same genus?",
+        "options": [
+            "Panthera leo and Panthera tigris",
+            "Panthera leo and Felis catus",
+            "Homo sapiens and Pan troglodytes",
+            "Mangifera indica and Oryza sativa"
+        ],
+        "answer": 0,
+        "explanation": "Both lion and tiger belong to genus Panthera."
+    },
+    {
+        "id": 389,
+        "question": "Which taxonomic category includes organisms with fundamental similarities in body plan?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom groups organisms with fundamental similarities."
+    },
+    {
+        "id": 390,
+        "question": "Which of the following best defines taxonomy according to NCERT?",
+        "options": [
+            "Study of evolution",
+            "Study of ecology",
+            "Principles of identification, nomenclature and classification",
+            "Study of anatomy"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines taxonomy as identification, nomenclature and classification."
+    },
+    {
+        "id": 391,
+        "question": "Which term includes classification along with evolutionary relationships?",
+        "options": [
+            "Taxonomy",
+            "Systematics",
+            "Nomenclature",
+            "Morphology"
+        ],
+        "answer": 1,
+        "explanation": "Systematics includes evolutionary relationships."
+    },
+    {
+        "id": 392,
+        "question": "Which of the following was regarded as the most important category by Linnaeus?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions Linnaeus considered genus the most important category."
+    },
+    {
+        "id": 393,
+        "question": "Which of the following is an artificial character used in early classification?",
+        "options": [
+            "Overall morphology",
+            "Number of stamens",
+            "Phylogeny",
+            "Genetic similarity"
+        ],
+        "answer": 1,
+        "explanation": "Artificial systems used few characters such as number of stamens."
+    },
+    {
+        "id": 394,
+        "question": "Which taxonomic rank is equivalent to phylum in plants?",
+        "options": [
+            "Class",
+            "Division",
+            "Order",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses division instead of phylum for plants."
+    },
+    {
+        "id": 395,
+        "question": "Which of the following correctly represents a scientific name?",
+        "options": [
+            "mangifera Indica",
+            "Mangifera Indica",
+            "Mangifera indica",
+            "MANGIFERA indica"
+        ],
+        "answer": 2,
+        "explanation": "Genus capitalized and species in lowercase is correct."
+    },
+    {
+        "id": 396,
+        "question": "When scientific names are handwritten, they should be",
+        "options": [
+            "written in italics",
+            "underlined together",
+            "underlined separately",
+            "written in capitals"
+        ],
+        "answer": 2,
+        "explanation": "NCERT specifies separate underlining when handwritten."
+    },
+    {
+        "id": 397,
+        "question": "Which of the following is NOT a taxonomic category?",
+        "options": [
+            "Species",
+            "Genus",
+            "Population",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Population is an ecological term, not a taxonomic category."
+    },
+    {
+        "id": 398,
+        "question": "Which taxonomic rank includes the least number of organisms?",
+        "options": [
+            "Kingdom",
+            "Division",
+            "Class",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species includes the least number of organisms."
+    },
+    {
+        "id": 399,
+        "question": "Which taxonomic rank includes the greatest diversity of organisms?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows the greatest diversity."
+    },
+    {
+        "id": 400,
+        "question": "Which taxonomic aid serves as a permanent record of plant diversity?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Key",
+            "Manual"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium preserves plant specimens permanently."
+    },
+    {
+        "id": 401,
+        "question": "Which taxonomic aid maintains living plant collections for study?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Botanical garden",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Botanical gardens maintain living plants."
+    },
+    {
+        "id": 402,
+        "question": "Which taxonomic aid preserves animals in alcohol or formalin?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Flora",
+            "Key"
+        ],
+        "answer": 1,
+        "explanation": "Museums preserve animal specimens."
+    },
+    {
+        "id": 403,
+        "question": "Which taxonomic aid is based on paired contrasting characters?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Key",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Keys use paired contrasting characters."
+    },
+    {
+        "id": 404,
+        "question": "Each step in a taxonomic key is known as a",
+        "options": [
+            "Lead",
+            "Couplet",
+            "Taxon",
+            "Category"
+        ],
+        "answer": 1,
+        "explanation": "Each step consists of a couplet."
+    },
+    {
+        "id": 405,
+        "question": "Each statement in a couplet is called a",
+        "options": [
+            "Taxon",
+            "Hierarchy",
+            "Lead",
+            "Species"
+        ],
+        "answer": 2,
+        "explanation": "The two alternatives in a couplet are called leads."
+    },
+    {
+        "id": 406,
+        "question": "Which taxonomic aid provides systematic description of plants of a region?",
+        "options": [
+            "Flora",
+            "Catalogue",
+            "Key",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Flora gives systematic description of plants of a region."
+    },
+    {
+        "id": 407,
+        "question": "Which taxonomic aid provides an alphabetical list of species?",
+        "options": [
+            "Manual",
+            "Catalogue",
+            "Flora",
+            "Herbarium"
+        ],
+        "answer": 1,
+        "explanation": "Catalogues list species alphabetically."
+    },
+    {
+        "id": 408,
+        "question": "Which taxonomic aid is especially useful for beginners?",
+        "options": [
+            "Key",
+            "Manual",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 1,
+        "explanation": "Manuals are useful for beginners as per NCERT."
+    },
+    {
+        "id": 409,
+        "question": "Which taxonomic aid includes descriptions and illustrations?",
+        "options": [
+            "Key",
+            "Manual",
+            "Catalogue",
+            "Herbarium"
+        ],
+        "answer": 1,
+        "explanation": "Manuals include descriptions and illustrations."
+    },
+    {
+        "id": 410,
+        "question": "Which taxonomic aid is most useful for field identification?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Museum",
+            "Catalogue"
+        ],
+        "answer": 1,
+        "explanation": "Keys are useful for field identification."
+    },
+    {
+        "id": 411,
+        "question": "Which term refers to assigning an organism to a known taxon?",
+        "options": [
+            "Classification",
+            "Nomenclature",
+            "Identification",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "Identification assigns organisms to known taxa."
+    },
+    {
+        "id": 412,
+        "question": "Which term refers to giving scientific names to organisms?",
+        "options": [
+            "Identification",
+            "Classification",
+            "Nomenclature",
+            "Systematics"
+        ],
+        "answer": 2,
+        "explanation": "Nomenclature refers to naming of organisms."
+    },
+    {
+        "id": 413,
+        "question": "Which of the following is NOT included in systematics?",
+        "options": [
+            "Identification",
+            "Classification",
+            "Evolutionary relationships",
+            "Physiology"
+        ],
+        "answer": 3,
+        "explanation": "Physiology is not part of systematics."
+    },
+    {
+        "id": 414,
+        "question": "Which scientist coined the term taxonomy?",
+        "options": [
+            "Linnaeus",
+            "A.P. de Candolle",
+            "Darwin",
+            "Whittaker"
+        ],
+        "answer": 1,
+        "explanation": "A.P. de Candolle coined the term taxonomy."
+    },
+    {
+        "id": 415,
+        "question": "Which scientist is known as the father of taxonomy?",
+        "options": [
+            "Darwin",
+            "Linnaeus",
+            "Haeckel",
+            "Whittaker"
+        ],
+        "answer": 1,
+        "explanation": "Carolus Linnaeus is known as the father of taxonomy."
+    },
+    {
+        "id": 416,
+        "question": "Which book laid the foundation of modern taxonomy?",
+        "options": [
+            "Origin of Species",
+            "Systema Naturae",
+            "Species Plantarum",
+            "Genera Plantarum"
+        ],
+        "answer": 1,
+        "explanation": "Systema Naturae laid the foundation of modern taxonomy."
+    },
+    {
+        "id": 417,
+        "question": "Which code governs the scientific naming of plants?",
+        "options": [
+            "ICZN",
+            "ICBN",
+            "IUCN",
+            "WHO"
+        ],
+        "answer": 1,
+        "explanation": "ICBN governs plant nomenclature."
+    },
+    {
+        "id": 418,
+        "question": "Which code governs the scientific naming of animals?",
+        "options": [
+            "ICBN",
+            "ICZN",
+            "IUCN",
+            "UNESCO"
+        ],
+        "answer": 1,
+        "explanation": "ICZN governs animal nomenclature."
+    },
+    {
+        "id": 419,
+        "question": "Which of the following is NOT governed by ICBN?",
+        "options": [
+            "Plant species names",
+            "Plant genus names",
+            "Animal species names",
+            "Rules of plant naming"
+        ],
+        "answer": 2,
+        "explanation": "Animal species names are governed by ICZN."
+    },
+    {
+        "id": 420,
+        "question": "Which taxonomic rank lies directly below kingdom in plants?",
+        "options": [
+            "Division",
+            "Class",
+            "Order",
+            "Family"
+        ],
+        "answer": 0,
+        "explanation": "Division lies directly below kingdom in plants."
+    },
+    {
+        "id": 421,
+        "question": "Which taxonomic rank lies directly below class?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies directly below class."
+    },
+    {
+        "id": 422,
+        "question": "Which taxonomic rank lies directly above species?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 0,
+        "explanation": "Genus lies directly above species."
+    },
+    {
+        "id": 423,
+        "question": "Which taxonomic category includes rice and wheat together?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 3,
+        "explanation": "Rice and wheat are monocots and belong to the same class."
+    },
+    {
+        "id": 424,
+        "question": "Which taxonomic category includes mango and cashew together?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Mango and cashew belong to family Anacardiaceae."
+    },
+    {
+        "id": 425,
+        "question": "Which taxonomic category includes all flowering plants?",
+        "options": [
+            "Class",
+            "Order",
+            "Division",
+            "Family"
+        ],
+        "answer": 2,
+        "explanation": "Flowering plants belong to division Angiospermae."
+    },
+    {
+        "id": 426,
+        "question": "Which taxonomic rank shows the highest degree of relatedness?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species shows highest relatedness."
+    },
+    {
+        "id": 427,
+        "question": "Which taxonomic rank shows the lowest degree of relatedness?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows lowest relatedness."
+    },
+    {
+        "id": 428,
+        "question": "Which taxonomic category is the cornerstone of biological classification?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species is the cornerstone of biological classification."
+    },
+    {
+        "id": 429,
+        "question": "Which taxonomic aid is most useful for long-term taxonomic research?",
+        "options": [
+            "Key",
+            "Manual",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Herbaria are permanent records useful for long-term research."
+    },
+    {
+        "id": 430,
+        "question": "Which of the following is an advantage of binomial nomenclature?",
+        "options": [
+            "Use of common names",
+            "Universal acceptance",
+            "Multiple names",
+            "Local language usage"
+        ],
+        "answer": 1,
+        "explanation": "Binomial nomenclature provides universal acceptance."
+    },
+    {
+        "id": 431,
+        "question": "Which of the following statements about species is incorrect?",
+        "options": [
+            "Species are real units",
+            "Species can interbreed",
+            "Species belong to different genera",
+            "Species produce fertile offspring"
+        ],
+        "answer": 2,
+        "explanation": "Members of a species belong to the same genus."
+    },
+    {
+        "id": 432,
+        "question": "Which taxonomic rank groups related species?",
+        "options": [
+            "Family",
+            "Genus",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "Genus groups related species."
+    },
+    {
+        "id": 433,
+        "question": "Which taxonomic rank groups related genera?",
+        "options": [
+            "Order",
+            "Family",
+            "Class",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Family groups related genera."
+    },
+    {
+        "id": 434,
+        "question": "Which taxonomic rank groups related families?",
+        "options": [
+            "Class",
+            "Order",
+            "Genus",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "Order groups related families."
+    },
+    {
+        "id": 435,
+        "question": "Which taxonomic rank groups related orders?",
+        "options": [
+            "Division",
+            "Class",
+            "Family",
+            "Genus"
+        ],
+        "answer": 1,
+        "explanation": "Class groups related orders."
+    },
+    {
+        "id": 436,
+        "question": "Which taxonomic rank groups related classes?",
+        "options": [
+            "Division",
+            "Order",
+            "Family",
+            "Genus"
+        ],
+        "answer": 0,
+        "explanation": "Division groups related classes."
+    },
+    {
+        "id": 437,
+        "question": "Which taxonomic rank is common to both plants and animals?",
+        "options": [
+            "Division",
+            "Phylum",
+            "Class",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Class is common to both plants and animals."
+    },
+    {
+        "id": 438,
+        "question": "Which of the following best defines a taxon?",
+        "options": [
+            "A scientific name",
+            "A unit of classification",
+            "A key step",
+            "A taxonomic aid"
+        ],
+        "answer": 1,
+        "explanation": "Taxon is a unit of classification at any rank."
+    },
+    {
+        "id": 439,
+        "question": "Which taxonomic rank contains the maximum number of taxa?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom contains the maximum number of taxa."
+    },
+    {
+        "id": 440,
+        "question": "Which taxonomic rank contains the minimum number of taxa?",
+        "options": [
+            "Kingdom",
+            "Division",
+            "Class",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species contains the minimum number of taxa."
+    },
+    {
+        "id": 441,
+        "question": "Which of the following statements about taxonomic hierarchy is correct?",
+        "options": [
+            "Lower ranks are more inclusive",
+            "Higher ranks are more specific",
+            "Lower ranks show more similarities",
+            "Kingdom shows maximum similarity"
+        ],
+        "answer": 2,
+        "explanation": "Lower ranks show more similarities."
+    },
+    {
+        "id": 442,
+        "question": "Which taxonomic aid is mainly used for teaching and exhibition?",
+        "options": [
+            "Museum",
+            "Herbarium",
+            "Key",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Museums are used for teaching and exhibition."
+    },
+    {
+        "id": 443,
+        "question": "Which taxonomic aid does NOT preserve specimens?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Botanical garden",
+            "Key"
+        ],
+        "answer": 3,
+        "explanation": "Keys do not preserve specimens."
+    },
+    {
+        "id": 444,
+        "question": "Which taxonomic aid helps in understanding variation within species?",
+        "options": [
+            "Herbarium",
+            "Catalogue",
+            "Key",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Herbaria store multiple specimens showing variation."
+    },
+    {
+        "id": 445,
+        "question": "Which taxonomic aid is useful for quick identification in the field?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Museum",
+            "Catalogue"
+        ],
+        "answer": 1,
+        "explanation": "Keys are useful for quick field identification."
+    },
+    {
+        "id": 446,
+        "question": "Which of the following best explains the need for classification?",
+        "options": [
+            "To reduce diversity",
+            "To simplify study of organisms",
+            "To change names",
+            "To study physiology"
+        ],
+        "answer": 1,
+        "explanation": "Classification simplifies the study of organisms."
+    },
+    {
+        "id": 447,
+        "question": "Which of the following is NOT a function of taxonomy?",
+        "options": [
+            "Identification",
+            "Classification",
+            "Nomenclature",
+            "Physiology"
+        ],
+        "answer": 3,
+        "explanation": "Physiology is not a function of taxonomy."
+    },
+    {
+        "id": 448,
+        "question": "Which taxonomic rank includes organisms capable of interbreeding freely?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members can interbreed freely."
+    },
+    {
+        "id": 449,
+        "question": "Which of the following best describes binomial nomenclature?",
+        "options": [
+            "One-word naming system",
+            "Two-word scientific naming system",
+            "Local naming system",
+            "Alphabetical naming system"
+        ],
+        "answer": 1,
+        "explanation": "Binomial nomenclature uses two words."
+    },
+    {
+        "id": 450,
+        "question": "Which language is mainly used for scientific names?",
+        "options": [
+            "English",
+            "Greek",
+            "Latin",
+            "French"
+        ],
+        "answer": 2,
+        "explanation": "Scientific names are Latinized as per NCERT."
+    },
+    {
+        "id": 451,
+        "question": "Which of the following is a correct example of binomial nomenclature?",
+        "options": [
+            "Homo Sapiens",
+            "homo sapiens",
+            "Homo sapiens",
+            "HOMO sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Genus capitalized and species lowercase is correct."
+    },
+    {
+        "id": 452,
+        "question": "Which of the following is NOT an advantage of binomial nomenclature?",
+        "options": [
+            "Universal acceptance",
+            "Avoids confusion",
+            "Uses common names",
+            "Indicates genus and species"
+        ],
+        "answer": 2,
+        "explanation": "Binomial nomenclature does not use common names."
+    },
+    {
+        "id": 453,
+        "question": "Which taxonomic rank is regarded as most stable?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species is regarded as the most stable rank."
+    },
+    {
+        "id": 454,
+        "question": "Which taxonomic rank includes organisms with maximum morphological similarity?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members show maximum morphological similarity."
+    },
+    {
+        "id": 455,
+        "question": "Which taxonomic rank includes organisms with minimum morphological similarity?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows minimum morphological similarity."
+    },
+    {
+        "id": 456,
+        "question": "Which taxonomic aid provides rules for naming organisms?",
+        "options": [
+            "Keys",
+            "Manuals",
+            "Codes of nomenclature",
+            "Herbaria"
+        ],
+        "answer": 2,
+        "explanation": "Codes of nomenclature provide naming rules."
+    },
+    {
+        "id": 457,
+        "question": "Which taxonomic category includes all animals?",
+        "options": [
+            "Phylum",
+            "Class",
+            "Division",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "All animals belong to kingdom Animalia."
+    },
+    {
+        "id": 458,
+        "question": "Which taxonomic category includes all plants?",
+        "options": [
+            "Division",
+            "Class",
+            "Order",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "All plants belong to kingdom Plantae."
+    },
+    {
+        "id": 459,
+        "question": "Which taxonomic rank lies between family and class?",
+        "options": [
+            "Order",
+            "Genus",
+            "Species",
+            "Division"
+        ],
+        "answer": 0,
+        "explanation": "Order lies between family and class."
+    },
+    {
+        "id": 460,
+        "question": "Which taxonomic rank lies between division and order?",
+        "options": [
+            "Class",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 0,
+        "explanation": "Class lies between division and order."
+    },
+    {
+        "id": 461,
+        "question": "Which taxonomic rank lies between genus and species?",
+        "options": [
+            "Family",
+            "Order",
+            "None",
+            "Class"
+        ],
+        "answer": 2,
+        "explanation": "No rank lies between genus and species in NCERT."
+    },
+    {
+        "id": 462,
+        "question": "Which taxonomic aid gives information about distribution and habitat of plants?",
+        "options": [
+            "Key",
+            "Flora",
+            "Catalogue",
+            "Museum"
+        ],
+        "answer": 1,
+        "explanation": "Flora includes distribution and habitat details."
+    },
+    {
+        "id": 463,
+        "question": "Which taxonomic aid is mainly used as a reference collection?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Herbaria serve as reference collections."
+    },
+    {
+        "id": 464,
+        "question": "Which taxonomic aid uses morphological characters only?",
+        "options": [
+            "Key",
+            "Flora",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Keys are based on morphological characters."
+    },
+    {
+        "id": 465,
+        "question": "Which taxonomic aid provides systematic descriptions without preserving specimens?",
+        "options": [
+            "Flora",
+            "Key",
+            "Herbarium",
+            "Museum"
+        ],
+        "answer": 0,
+        "explanation": "Flora provides descriptions without preserving specimens."
+    },
+    {
+        "id": 466,
+        "question": "Which of the following is an example of a taxon?",
+        "options": [
+            "Genus Homo",
+            "Key",
+            "Manual",
+            "Catalogue"
+        ],
+        "answer": 0,
+        "explanation": "Genus Homo is a taxonomic group."
+    },
+    {
+        "id": 467,
+        "question": "Which taxonomic category includes organisms sharing a common gene pool?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species share a common gene pool."
+    },
+    {
+        "id": 468,
+        "question": "Which taxonomic rank shows maximum genetic similarity?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species members show maximum genetic similarity."
+    },
+    {
+        "id": 469,
+        "question": "Which taxonomic rank shows minimum genetic similarity?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom shows minimum genetic similarity."
+    },
+    {
+        "id": 470,
+        "question": "Which of the following best describes the purpose of systematics?",
+        "options": [
+            "Naming organisms",
+            "Classifying organisms",
+            "Understanding diversity and relationships",
+            "Studying physiology"
+        ],
+        "answer": 2,
+        "explanation": "Systematics aims to understand diversity and relationships."
+    },
+    {
+        "id": 471,
+        "question": "Which taxonomic rank includes organisms with similar reproductive features?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species share similar reproductive features."
+    },
+    {
+        "id": 472,
+        "question": "Which taxonomic aid is used to identify unknown specimens?",
+        "options": [
+            "Herbarium",
+            "Key",
+            "Catalogue",
+            "Botanical garden"
+        ],
+        "answer": 1,
+        "explanation": "Keys are used to identify unknown specimens."
+    },
+    {
+        "id": 473,
+        "question": "Which taxonomic aid provides historical plant collections?",
+        "options": [
+            "Botanical garden",
+            "Herbarium",
+            "Key",
+            "Manual"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium stores historical plant collections."
+    },
+    {
+        "id": 474,
+        "question": "Which taxonomic aid is mainly used for display and education?",
+        "options": [
+            "Herbarium",
+            "Museum",
+            "Key",
+            "Flora"
+        ],
+        "answer": 1,
+        "explanation": "Museums are mainly used for display and education."
+    },
+    {
+        "id": 475,
+        "question": "Which taxonomic category is most specific in nature?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species is the most specific category."
+    },
+    {
+        "id": 476,
+        "question": "Which taxonomic category is least specific in nature?",
+        "options": [
+            "Species",
+            "Genus",
+            "Family",
+            "Kingdom"
+        ],
+        "answer": 3,
+        "explanation": "Kingdom is the least specific category."
+    },
+    {
+        "id": 477,
+        "question": "Which taxonomic rank groups related divisions?",
+        "options": [
+            "Kingdom",
+            "Class",
+            "Order",
+            "Family"
+        ],
+        "answer": 0,
+        "explanation": "Kingdom groups related divisions."
+    },
+    {
+        "id": 478,
+        "question": "Which of the following best explains a couplet in a key?",
+        "options": [
+            "Single descriptive statement",
+            "Two similar statements",
+            "Two contrasting statements",
+            "Multiple descriptive statements"
+        ],
+        "answer": 2,
+        "explanation": "A couplet consists of two contrasting statements."
+    },
+    {
+        "id": 479,
+        "question": "Which taxonomic aid is analytical in nature?",
+        "options": [
+            "Flora",
+            "Catalogue",
+            "Key",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Keys are analytical tools based on contrasting characters."
+    },
+    {
+        "id": 480,
+        "question": "According to NCERT, classification ultimately helps in",
+        "options": [
+            "naming organisms",
+            "memorizing organisms",
+            "organizing biodiversity for easy and systematic study",
+            "studying physiology"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states classification helps organize biodiversity for systematic study."
+    }
+]

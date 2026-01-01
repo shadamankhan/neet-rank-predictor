@@ -1,0 +1,614 @@
+[
+    {
+        "id": 1,
+        "question": "A particle starts from rest and moves with constant acceleration 3 m/s^2. The distance covered in 4 s is:",
+        "options": [
+            "12 m",
+            "24 m",
+            "48 m",
+            "6 m"
+        ],
+        "answer": 1,
+        "explanation": "s = (1/2)at^2 = 0.5×3×16 = 24 m."
+    },
+    {
+        "id": 2,
+        "question": "A ball is thrown vertically downward with velocity 10 m/s. The velocity after 2 s (g = 10 m/s^2) is:",
+        "options": [
+            "20 m/s",
+            "30 m/s",
+            "10 m/s",
+            "40 m/s"
+        ],
+        "answer": 1,
+        "explanation": "v = u + gt = 10 + 10×2 = 30 m/s."
+    },
+    {
+        "id": 3,
+        "question": "A force of 20 N acts on a mass of 4 kg. The acceleration produced is:",
+        "options": [
+            "2 m/s^2",
+            "4 m/s^2",
+            "5 m/s^2",
+            "10 m/s^2"
+        ],
+        "answer": 2,
+        "explanation": "a = F/m = 20/4 = 5 m/s^2."
+    },
+    {
+        "id": 4,
+        "question": "The work done in stretching a spring by x is proportional to:",
+        "options": [
+            "x",
+            "x^2",
+            "1/x",
+            "√x"
+        ],
+        "answer": 1,
+        "explanation": "W = (1/2)kx^2."
+    },
+    {
+        "id": 5,
+        "question": "For rolling without slipping, the condition is:",
+        "options": [
+            "v = ωR",
+            "v = ω/R",
+            "v = R/ω",
+            "v = ω^2R"
+        ],
+        "answer": 0,
+        "explanation": "Pure rolling condition: v = ωR."
+    },
+    {
+        "id": 6,
+        "question": "The angular momentum of a body about a point is minimum when it moves:",
+        "options": [
+            "Towards the point",
+            "Away from the point",
+            "Perpendicular to radius",
+            "In a circle"
+        ],
+        "answer": 0,
+        "explanation": "L = mvr sinθ, minimum when θ = 0."
+    },
+    {
+        "id": 7,
+        "question": "The value of g at the center of Earth is:",
+        "options": [
+            "Zero",
+            "g",
+            "2g",
+            "g/2"
+        ],
+        "answer": 0,
+        "explanation": "At center of Earth, g = 0."
+    },
+    {
+        "id": 8,
+        "question": "The pressure at the bottom of a liquid column depends on:",
+        "options": [
+            "Density and height",
+            "Area of container",
+            "Shape of container",
+            "Volume of liquid"
+        ],
+        "answer": 0,
+        "explanation": "P = ρgh."
+    },
+    {
+        "id": 9,
+        "question": "The unit of bulk modulus is:",
+        "options": [
+            "N/m^2",
+            "N/m",
+            "J",
+            "kg"
+        ],
+        "answer": 0,
+        "explanation": "Bulk modulus has same unit as pressure."
+    },
+    {
+        "id": 10,
+        "question": "In an isothermal process, the internal energy of an ideal gas:",
+        "options": [
+            "Remains constant",
+            "Increases",
+            "Decreases",
+            "Becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "Internal energy depends only on temperature."
+    },
+    {
+        "id": 11,
+        "question": "The ratio of specific heats for a monoatomic gas is:",
+        "options": [
+            "5/3",
+            "7/5",
+            "4/3",
+            "3/2"
+        ],
+        "answer": 0,
+        "explanation": "γ = 5/3 for monoatomic gas."
+    },
+    {
+        "id": 12,
+        "question": "The time period of SHM depends on:",
+        "options": [
+            "Mass and force constant",
+            "Amplitude",
+            "Energy",
+            "Initial phase"
+        ],
+        "answer": 0,
+        "explanation": "T = 2π√(m/k)."
+    },
+    {
+        "id": 13,
+        "question": "The frequency of sound is determined by:",
+        "options": [
+            "Source",
+            "Medium",
+            "Amplitude",
+            "Speed"
+        ],
+        "answer": 0,
+        "explanation": "Frequency depends on the source."
+    },
+    {
+        "id": 14,
+        "question": "The electric field just outside a charged conductor is:",
+        "options": [
+            "σ/ε0",
+            "σ",
+            "σε0",
+            "ε0/σ"
+        ],
+        "answer": 0,
+        "explanation": "E = σ/ε0."
+    },
+    {
+        "id": 15,
+        "question": "The SI unit of electric dipole moment is:",
+        "options": [
+            "C·m",
+            "C/m",
+            "N·m",
+            "J/C"
+        ],
+        "answer": 0,
+        "explanation": "Dipole moment p = qd."
+    },
+    {
+        "id": 16,
+        "question": "When a capacitor is fully charged in DC circuit, the current through it is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Capacitor blocks DC after full charge."
+    },
+    {
+        "id": 17,
+        "question": "The drift velocity of electrons increases if:",
+        "options": [
+            "Electric field increases",
+            "Length increases",
+            "Area decreases",
+            "Temperature decreases"
+        ],
+        "answer": 0,
+        "explanation": "vd ∝ E."
+    },
+    {
+        "id": 18,
+        "question": "The magnetic field at the center of a solenoid is independent of:",
+        "options": [
+            "Length",
+            "Current",
+            "Number of turns",
+            "Permeability"
+        ],
+        "answer": 0,
+        "explanation": "For long solenoid, B = μ0nI."
+    },
+    {
+        "id": 19,
+        "question": "The force between two long parallel conductors carrying currents in opposite directions is:",
+        "options": [
+            "Repulsive",
+            "Attractive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Opposite currents repel each other."
+    },
+    {
+        "id": 20,
+        "question": "The energy stored in a magnetic field per unit volume is:",
+        "options": [
+            "B^2/2μ0",
+            "μ0B^2",
+            "B/μ0",
+            "μ0/B"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic energy density = B^2/2μ0."
+    },
+    {
+        "id": 21,
+        "question": "In an AC circuit, the RMS value of voltage is:",
+        "options": [
+            "V0/√2",
+            "V0",
+            "√2V0",
+            "V0/2"
+        ],
+        "answer": 0,
+        "explanation": "Vrms = V0/√2."
+    },
+    {
+        "id": 22,
+        "question": "At resonance in LCR circuit, the phase difference between current and voltage is:",
+        "options": [
+            "0",
+            "90°",
+            "180°",
+            "45°"
+        ],
+        "answer": 0,
+        "explanation": "Current and voltage are in phase."
+    },
+    {
+        "id": 23,
+        "question": "The focal length of a convex lens is:",
+        "options": [
+            "Positive",
+            "Negative",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "By sign convention, convex lens has positive focal length."
+    },
+    {
+        "id": 24,
+        "question": "A plane mirror forms an image which is:",
+        "options": [
+            "Virtual and erect",
+            "Real and inverted",
+            "Real and erect",
+            "Virtual and inverted"
+        ],
+        "answer": 0,
+        "explanation": "Plane mirror forms virtual erect image."
+    },
+    {
+        "id": 25,
+        "question": "The angular separation of fringes in diffraction increases if:",
+        "options": [
+            "Slit width decreases",
+            "Wavelength decreases",
+            "Screen distance decreases",
+            "Intensity increases"
+        ],
+        "answer": 0,
+        "explanation": "Angular width ∝ λ/a."
+    },
+    {
+        "id": 26,
+        "question": "The photoelectric effect supports the concept of:",
+        "options": [
+            "Photon",
+            "Wave nature only",
+            "Classical theory",
+            "Sound waves"
+        ],
+        "answer": 0,
+        "explanation": "Photoelectric effect confirms photon nature."
+    },
+    {
+        "id": 27,
+        "question": "The de Broglie wavelength of an electron increases if its:",
+        "options": [
+            "Velocity decreases",
+            "Mass increases",
+            "Energy increases",
+            "Charge increases"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p, smaller momentum gives larger λ."
+    },
+    {
+        "id": 28,
+        "question": "The radius of the nucleus is independent of:",
+        "options": [
+            "Atomic number",
+            "Mass number",
+            "Neutron number",
+            "Nuclear force"
+        ],
+        "answer": 3,
+        "explanation": "Nuclear force does not affect nuclear size."
+    },
+    {
+        "id": 29,
+        "question": "Alpha particles are identical to:",
+        "options": [
+            "Helium nuclei",
+            "Hydrogen nuclei",
+            "Electrons",
+            "Neutrons"
+        ],
+        "answer": 0,
+        "explanation": "Alpha particle is a helium nucleus."
+    },
+    {
+        "id": 30,
+        "question": "The half-life of a radioactive substance is the time in which:",
+        "options": [
+            "Half the nuclei decay",
+            "All nuclei decay",
+            "Activity doubles",
+            "Energy halves"
+        ],
+        "answer": 0,
+        "explanation": "Half-life reduces nuclei to half."
+    },
+    {
+        "id": 31,
+        "question": "In an intrinsic semiconductor, the Fermi level lies:",
+        "options": [
+            "Midway between bands",
+            "Near conduction band",
+            "Near valence band",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Intrinsic Fermi level is at mid-gap."
+    },
+    {
+        "id": 32,
+        "question": "The transistor is primarily used as:",
+        "options": [
+            "Amplifier",
+            "Rectifier",
+            "Oscillator only",
+            "Capacitor"
+        ],
+        "answer": 0,
+        "explanation": "Transistor amplifies signals."
+    },
+    {
+        "id": 33,
+        "question": "The dimensional formula of potential difference is:",
+        "options": [
+            "ML^2T^-3I^-1",
+            "MLT^-2",
+            "ML^2T^-2",
+            "MLT^-1"
+        ],
+        "answer": 0,
+        "explanation": "V = W/Q."
+    },
+    {
+        "id": 34,
+        "question": "The orbital speed of a satellite decreases when:",
+        "options": [
+            "Orbit radius increases",
+            "Mass increases",
+            "Earth mass increases",
+            "g increases"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ 1/√r."
+    },
+    {
+        "id": 35,
+        "question": "The coefficient of viscosity has unit:",
+        "options": [
+            "Pa·s",
+            "N/m",
+            "kg/m^2",
+            "m/s"
+        ],
+        "answer": 0,
+        "explanation": "Viscosity unit is Pa·s."
+    },
+    {
+        "id": 36,
+        "question": "The restoring force in SHM always acts towards:",
+        "options": [
+            "Mean position",
+            "Extreme position",
+            "Direction of motion",
+            "Random direction"
+        ],
+        "answer": 0,
+        "explanation": "Restoring force pulls towards mean position."
+    },
+    {
+        "id": 37,
+        "question": "The loudness of sound depends on:",
+        "options": [
+            "Amplitude",
+            "Frequency",
+            "Wavelength",
+            "Speed"
+        ],
+        "answer": 0,
+        "explanation": "Loudness depends on amplitude."
+    },
+    {
+        "id": 38,
+        "question": "The electric field due to an infinite plane sheet of charge is:",
+        "options": [
+            "σ/2ε0",
+            "σ/ε0",
+            "Zero",
+            "Depends on distance"
+        ],
+        "answer": 0,
+        "explanation": "E = σ/2ε0."
+    },
+    {
+        "id": 39,
+        "question": "The capacitance of a parallel plate capacitor is independent of:",
+        "options": [
+            "Charge on plates",
+            "Plate area",
+            "Plate separation",
+            "Dielectric"
+        ],
+        "answer": 0,
+        "explanation": "C depends only on geometry and dielectric."
+    },
+    {
+        "id": 40,
+        "question": "The magnetic field at a point on the axis of a current loop is maximum at:",
+        "options": [
+            "Center",
+            "Infinity",
+            "Edge",
+            "Any point"
+        ],
+        "answer": 0,
+        "explanation": "Field is maximum at center of loop."
+    },
+    {
+        "id": 41,
+        "question": "The back emf of a DC motor is maximum when:",
+        "options": [
+            "Speed is maximum",
+            "Current is maximum",
+            "Motor starts",
+            "Load is maximum"
+        ],
+        "answer": 0,
+        "explanation": "Back emf ∝ speed."
+    },
+    {
+        "id": 42,
+        "question": "In an AC circuit, the power factor is maximum when:",
+        "options": [
+            "φ = 0",
+            "φ = 90°",
+            "φ = 45°",
+            "φ = 180°"
+        ],
+        "answer": 0,
+        "explanation": "cosφ is maximum at φ = 0."
+    },
+    {
+        "id": 43,
+        "question": "A concave lens always forms an image which is:",
+        "options": [
+            "Virtual and erect",
+            "Real and inverted",
+            "Real and erect",
+            "Virtual and inverted"
+        ],
+        "answer": 0,
+        "explanation": "Concave lens always forms virtual erect image."
+    },
+    {
+        "id": 44,
+        "question": "The refractive index of a medium decreases with increase in:",
+        "options": [
+            "Wavelength",
+            "Density",
+            "Frequency",
+            "Optical density"
+        ],
+        "answer": 0,
+        "explanation": "Normal dispersion: n decreases with λ."
+    },
+    {
+        "id": 45,
+        "question": "The work function of a metal depends on:",
+        "options": [
+            "Nature of metal",
+            "Intensity of light",
+            "Frequency",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "Work function is material dependent."
+    },
+    {
+        "id": 46,
+        "question": "The rest mass of neutrino is approximately:",
+        "options": [
+            "Zero",
+            "Very large",
+            "Equal to electron",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Neutrino has nearly zero rest mass."
+    },
+    {
+        "id": 47,
+        "question": "The SI unit of absorbed dose of radiation is:",
+        "options": [
+            "Gray",
+            "Sievert",
+            "Becquerel",
+            "Curie"
+        ],
+        "answer": 0,
+        "explanation": "Absorbed dose is measured in gray."
+    },
+    {
+        "id": 48,
+        "question": "The resistance of an intrinsic semiconductor at absolute zero is:",
+        "options": [
+            "Infinite",
+            "Zero",
+            "Finite",
+            "Minimum"
+        ],
+        "answer": 0,
+        "explanation": "No free carriers at 0 K."
+    },
+    {
+        "id": 49,
+        "question": "The logic gate used in a half adder is:",
+        "options": [
+            "XOR",
+            "OR",
+            "NOT",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "Sum output uses XOR gate."
+    },
+    {
+        "id": 50,
+        "question": "The SI unit of magnetic flux is:",
+        "options": [
+            "Weber",
+            "Tesla",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux is measured in weber."
+    },
+    {
+        "id": 51,
+        "question": "The center of mass of an isolated system remains at rest or moves with constant velocity because of conservation of:",
+        "options": [
+            "Momentum",
+            "Energy",
+            "Angular momentum",
+            "Force"
+        ],
+        "answer": 0,
+        "explanation": "Conservation of linear momentum."
+    }
+]

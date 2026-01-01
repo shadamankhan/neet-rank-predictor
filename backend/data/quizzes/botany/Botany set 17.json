@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic category includes organisms with maximum number of common characters?",
+        "options": [
+            "Genus",
+            "Family",
+            "Order",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Members of a species share maximum similarities."
+    },
+    {
+        "id": 2,
+        "question": "Which algal group has chlorophyll a, b and stores starch as reserve food?",
+        "options": [
+            "Chlorophyceae",
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Cyanophyceae"
+        ],
+        "answer": 0,
+        "explanation": "Green algae contain chlorophyll a, b and store starch."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group shows heterosporous condition?",
+        "options": [
+            "Bryophytes",
+            "Pteridophytes",
+            "Algae",
+            "Fungi"
+        ],
+        "answer": 1,
+        "explanation": "Some pteridophytes like Selaginella are heterosporous."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of wheat grain is:",
+        "options": [
+            "Embryo",
+            "Endosperm",
+            "Aleurone layer",
+            "Pericarp"
+        ],
+        "answer": 1,
+        "explanation": "Wheat grain stores food mainly in endosperm."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue gives rise to lateral roots in dicot plants?",
+        "options": [
+            "Endodermis",
+            "Pericycle",
+            "Cortex",
+            "Cambium"
+        ],
+        "answer": 1,
+        "explanation": "Lateral roots originate from pericycle."
+    },
+    {
+        "id": 6,
+        "question": "Which cell wall layer is lignified in sclerenchyma?",
+        "options": [
+            "Primary wall",
+            "Secondary wall",
+            "Middle lamella",
+            "Plasma membrane"
+        ],
+        "answer": 1,
+        "explanation": "Secondary wall of sclerenchyma is lignified."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle modifies, sorts and packages proteins?",
+        "options": [
+            "Rough ER",
+            "Golgi apparatus",
+            "Mitochondria",
+            "Lysosome"
+        ],
+        "answer": 1,
+        "explanation": "Golgi apparatus modifies and packages proteins."
+    },
+    {
+        "id": 8,
+        "question": "Which biomolecule is formed by ester linkage of fatty acids and glycerol?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "Lipid",
+            "Nucleic acid"
+        ],
+        "answer": 2,
+        "explanation": "Lipids are formed by ester linkage of fatty acids and glycerol."
+    },
+    {
+        "id": 9,
+        "question": "Which stage of cell cycle is also called synthesis phase?",
+        "options": [
+            "G1",
+            "S",
+            "G2",
+            "M"
+        ],
+        "answer": 1,
+        "explanation": "DNA synthesis occurs during S phase."
+    },
+    {
+        "id": 10,
+        "question": "Passive movement of ions across membrane down concentration gradient is:",
+        "options": [
+            "Active transport",
+            "Diffusion",
+            "Mass flow",
+            "Osmosis"
+        ],
+        "answer": 1,
+        "explanation": "Diffusion occurs along concentration gradient without energy."
+    },
+    {
+        "id": 11,
+        "question": "Which mineral nutrient is a component of cytochrome oxidase?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Manganese"
+        ],
+        "answer": 1,
+        "explanation": "Copper is a component of cytochrome oxidase."
+    },
+    {
+        "id": 12,
+        "question": "Which pigment acts as reaction centre in photosystem II?",
+        "options": [
+            "P700",
+            "P680",
+            "Chlorophyll b",
+            "Carotene"
+        ],
+        "answer": 1,
+        "explanation": "P680 is the reaction centre of PS II."
+    },
+    {
+        "id": 13,
+        "question": "Which compound is regenerated during Calvin cycle?",
+        "options": [
+            "RuBP",
+            "PEP",
+            "OAA",
+            "Malate"
+        ],
+        "answer": 0,
+        "explanation": "RuBP is regenerated during Calvin cycle."
+    },
+    {
+        "id": 14,
+        "question": "Which respiratory step occurs in mitochondrial matrix?",
+        "options": [
+            "Glycolysis",
+            "Fermentation",
+            "Krebs cycle",
+            "Electron transport chain"
+        ],
+        "answer": 2,
+        "explanation": "Krebs cycle occurs in mitochondrial matrix."
+    },
+    {
+        "id": 15,
+        "question": "Which plant hormone promotes stem elongation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Abscisic acid"
+        ],
+        "answer": 0,
+        "explanation": "Auxin promotes elongation of stem cells."
+    },
+    {
+        "id": 16,
+        "question": "Which part of ovule develops into seed coat?",
+        "options": [
+            "Nucellus",
+            "Integuments",
+            "Funiculus",
+            "Chalaza"
+        ],
+        "answer": 1,
+        "explanation": "Integuments form the seed coat."
+    },
+    {
+        "id": 17,
+        "question": "Which breeding method repeatedly crosses hybrid with one of its parents?",
+        "options": [
+            "Hybridisation",
+            "Mass selection",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Backcrossing involves repeated crossing with a parent."
+    },
+    {
+        "id": 18,
+        "question": "Which microorganism is used for production of streptokinase?",
+        "options": [
+            "Penicillium",
+            "Streptococcus",
+            "Aspergillus",
+            "Rhizobium"
+        ],
+        "answer": 1,
+        "explanation": "Streptokinase is produced by Streptococcus."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme synthesises DNA using RNA template?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesises DNA from RNA."
+    },
+    {
+        "id": 20,
+        "question": "Which population parameter represents addition of individuals by birth?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 21,
+        "question": "Which trophic level has maximum energy?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Top carnivores"
+        ],
+        "answer": 0,
+        "explanation": "Producers capture maximum energy from sunlight."
+    },
+    {
+        "id": 22,
+        "question": "Which biodiversity pattern shows species richness decreases from equator to poles?",
+        "options": [
+            "Species-area relationship",
+            "Latitudinal gradient",
+            "Island biogeography",
+            "Succession"
+        ],
+        "answer": 1,
+        "explanation": "Latitudinal gradient shows higher species richness near equator."
+    },
+    {
+        "id": 23,
+        "question": "Which pollutant is responsible for Itai-itai disease?",
+        "options": [
+            "Mercury",
+            "Cadmium",
+            "Lead",
+            "Arsenic"
+        ],
+        "answer": 1,
+        "explanation": "Cadmium causes Itai-itai disease."
+    },
+    {
+        "id": 24,
+        "question": "Which taxonomic aid lists plant species of a region along with identification keys?",
+        "options": [
+            "Monograph",
+            "Catalogue",
+            "Flora",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Flora provides systematic account of plants of a region."
+    },
+    {
+        "id": 25,
+        "question": "Which algae shows diplontic life cycle?",
+        "options": [
+            "Ulothrix",
+            "Spirogyra",
+            "Fucus",
+            "Chlamydomonas"
+        ],
+        "answer": 2,
+        "explanation": "Fucus shows diplontic life cycle."
+    },
+    {
+        "id": 26,
+        "question": "Which tissue provides flexibility to growing plant parts?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": 1,
+        "explanation": "Collenchyma provides flexible support."
+    },
+    {
+        "id": 27,
+        "question": "Which plastid stores oils and fats?",
+        "options": [
+            "Amyloplast",
+            "Chromoplast",
+            "Elaioplast",
+            "Chloroplast"
+        ],
+        "answer": 2,
+        "explanation": "Elaioplast stores oils and fats."
+    },
+    {
+        "id": 28,
+        "question": "Which nitrogenous base is absent in RNA?",
+        "options": [
+            "Adenine",
+            "Cytosine",
+            "Guanine",
+            "Thymine"
+        ],
+        "answer": 3,
+        "explanation": "RNA lacks thymine."
+    },
+    {
+        "id": 29,
+        "question": "Which stage of meiosis shows synapsis of homologous chromosomes?",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 1,
+        "explanation": "Synapsis occurs during zygotene."
+    },
+    {
+        "id": 30,
+        "question": "Which force mainly causes ascent of sap in tall trees?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull is the main force."
+    },
+    {
+        "id": 31,
+        "question": "Which micronutrient is a component of plastocyanin?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Manganese"
+        ],
+        "answer": 1,
+        "explanation": "Plastocyanin contains copper."
+    },
+    {
+        "id": 32,
+        "question": "Which pathway fixes CO₂ at night?",
+        "options": [
+            "C3 pathway",
+            "C4 pathway",
+            "CAM pathway",
+            "Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants fix CO₂ at night."
+    },
+    {
+        "id": 33,
+        "question": "Which respiratory substrate gives RQ greater than 1?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Fats",
+            "Organic acids"
+        ],
+        "answer": 3,
+        "explanation": "Organic acids give RQ greater than 1."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone is known as stress hormone in plants?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "Abscisic acid acts as stress hormone."
+    },
+    {
+        "id": 35,
+        "question": "Which part of ovule persists as micropyle in seed?",
+        "options": [
+            "Hilum",
+            "Chalaza",
+            "Micropyle",
+            "Funiculus"
+        ],
+        "answer": 2,
+        "explanation": "Micropyle persists as a pore in seed coat."
+    },
+    {
+        "id": 36,
+        "question": "Which breeding method uses irradiation to create variation?",
+        "options": [
+            "Pureline selection",
+            "Mass selection",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 3,
+        "explanation": "Mutation breeding uses radiation or chemicals."
+    },
+    {
+        "id": 37,
+        "question": "Which microorganism is used for production of penicillin?",
+        "options": [
+            "Aspergillus",
+            "Penicillium",
+            "Rhizobium",
+            "Clostridium"
+        ],
+        "answer": 1,
+        "explanation": "Penicillium produces penicillin."
+    },
+    {
+        "id": 38,
+        "question": "Which technique is used to detect specific DNA sequences?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Southern blotting",
+            "Chromatography"
+        ],
+        "answer": 2,
+        "explanation": "Southern blotting detects specific DNA sequences."
+    },
+    {
+        "id": 39,
+        "question": "Which dispersion pattern shows individuals grouped in patches?",
+        "options": [
+            "Random",
+            "Uniform",
+            "Clumped",
+            "Regular"
+        ],
+        "answer": 2,
+        "explanation": "Clumped dispersion shows aggregation."
+    },
+    {
+        "id": 40,
+        "question": "Which ecological pyramid is always upright?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "All pyramids"
+        ],
+        "answer": 2,
+        "explanation": "Pyramid of energy is always upright."
+    },
+    {
+        "id": 41,
+        "question": "Which biome is characterised by tall grasses with scattered trees?",
+        "options": [
+            "Tundra",
+            "Savanna",
+            "Taiga",
+            "Desert"
+        ],
+        "answer": 1,
+        "explanation": "Savanna has tall grasses with scattered trees."
+    },
+    {
+        "id": 42,
+        "question": "Which gas is mainly responsible for global warming?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide is a greenhouse gas."
+    },
+    {
+        "id": 43,
+        "question": "Which system of classification considers evolutionary relationships?",
+        "options": [
+            "Artificial",
+            "Natural",
+            "Phylogenetic",
+            "Numerical"
+        ],
+        "answer": 2,
+        "explanation": "Phylogenetic classification is based on evolution."
+    },
+    {
+        "id": 44,
+        "question": "Which algae is a source of agar?",
+        "options": [
+            "Ulothrix",
+            "Gelidium",
+            "Sargassum",
+            "Chlorella"
+        ],
+        "answer": 1,
+        "explanation": "Gelidium is used to obtain agar."
+    },
+    {
+        "id": 45,
+        "question": "Which tissue lies between epidermis and vascular bundles?",
+        "options": [
+            "Cortex",
+            "Cambium",
+            "Pericycle",
+            "Pith"
+        ],
+        "answer": 0,
+        "explanation": "Cortex lies between epidermis and vascular tissue."
+    },
+    {
+        "id": 46,
+        "question": "Which plastid imparts colour to fruits and flowers?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Leucoplast",
+            "Amyloplast"
+        ],
+        "answer": 1,
+        "explanation": "Chromoplast imparts colour to fruits and flowers."
+    },
+    {
+        "id": 47,
+        "question": "Which nitrogenous base pairs with adenine in DNA?",
+        "options": [
+            "Uracil",
+            "Cytosine",
+            "Guanine",
+            "Thymine"
+        ],
+        "answer": 3,
+        "explanation": "Adenine pairs with thymine in DNA."
+    },
+    {
+        "id": 48,
+        "question": "Which stage of mitosis involves separation of sister chromatids?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 2,
+        "explanation": "Sister chromatids separate during anaphase."
+    },
+    {
+        "id": 49,
+        "question": "Which force explains ascent of sap according to cohesion-tension theory?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull explains ascent of sap."
+    },
+    {
+        "id": 50,
+        "question": "Which international agreement aims to reduce greenhouse gas emissions?",
+        "options": [
+            "Montreal Protocol",
+            "Kyoto Protocol",
+            "Ramsar Convention",
+            "Convention on Biological Diversity"
+        ],
+        "answer": 1,
+        "explanation": "Kyoto Protocol aims to reduce greenhouse gas emissions."
+    }
+]

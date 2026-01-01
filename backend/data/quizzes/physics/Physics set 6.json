@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves with uniform acceleration. Its velocity changes from 10 m/s to 30 m/s in 5 s. The acceleration is:",
+        "options": [
+            "2 m/s^2",
+            "4 m/s^2",
+            "5 m/s^2",
+            "6 m/s^2"
+        ],
+        "answer": 1,
+        "explanation": "a = (v − u)/t = (30 − 10)/5 = 4 m/s^2."
+    },
+    {
+        "id": 2,
+        "question": "A stone is thrown vertically upward with speed 20 m/s. The time taken to reach maximum height (g = 10 m/s^2) is:",
+        "options": [
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s"
+        ],
+        "answer": 1,
+        "explanation": "t = u/g = 20/10 = 2 s."
+    },
+    {
+        "id": 3,
+        "question": "Two equal forces act on a body at right angles. If each force is 10 N, the magnitude of the resultant is:",
+        "options": [
+            "10 N",
+            "14.14 N",
+            "20 N",
+            "5 N"
+        ],
+        "answer": 1,
+        "explanation": "R = √(F^2 + F^2) = 10√2 = 14.14 N."
+    },
+    {
+        "id": 4,
+        "question": "A body of mass 2 kg moving with speed 4 m/s comes to rest after moving 8 m. The retarding force acting on it is:",
+        "options": [
+            "1 N",
+            "2 N",
+            "4 N",
+            "8 N"
+        ],
+        "answer": 2,
+        "explanation": "Using v^2 = u^2 + 2as: 0 = 16 + 16a ⇒ a = −1 m/s^2, F = ma = 2×1 = 2 N."
+    },
+    {
+        "id": 5,
+        "question": "The kinetic energy of a body is doubled. Its momentum becomes:",
+        "options": [
+            "Double",
+            "√2 times",
+            "Half",
+            "Four times"
+        ],
+        "answer": 1,
+        "explanation": "KE ∝ p^2 ⇒ p ∝ √KE."
+    },
+    {
+        "id": 6,
+        "question": "A solid sphere and a hollow sphere of same mass and radius roll down an incline. Which reaches the bottom first?",
+        "options": [
+            "Solid sphere",
+            "Hollow sphere",
+            "Both together",
+            "Depends on radius"
+        ],
+        "answer": 0,
+        "explanation": "Solid sphere has smaller moment of inertia, so larger acceleration."
+    },
+    {
+        "id": 7,
+        "question": "The angular momentum of a particle moving in a circular path is conserved if:",
+        "options": [
+            "No external torque acts",
+            "Speed is constant",
+            "Radius is constant",
+            "Force is zero"
+        ],
+        "answer": 0,
+        "explanation": "Angular momentum conserved when external torque is zero."
+    },
+    {
+        "id": 8,
+        "question": "The value of g inside Earth decreases linearly with:",
+        "options": [
+            "Depth",
+            "Radius",
+            "Mass",
+            "Density"
+        ],
+        "answer": 0,
+        "explanation": "Inside Earth, g ∝ (R − d)."
+    },
+    {
+        "id": 9,
+        "question": "The excess pressure inside a liquid drop of radius r and surface tension T is:",
+        "options": [
+            "2T/r",
+            "4T/r",
+            "T/r",
+            "8T/r"
+        ],
+        "answer": 0,
+        "explanation": "For liquid drop, ΔP = 2T/r."
+    },
+    {
+        "id": 10,
+        "question": "The average translational kinetic energy of gas molecules depends only on:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Molar mass"
+        ],
+        "answer": 0,
+        "explanation": "⟨KE⟩ = (3/2)kT."
+    },
+    {
+        "id": 11,
+        "question": "The efficiency of a Carnot engine working between temperatures T1 and T2 is:",
+        "options": [
+            "1 − T2/T1",
+            "T2/T1",
+            "T1/T2",
+            "1 − T1/T2"
+        ],
+        "answer": 0,
+        "explanation": "η = 1 − T2/T1."
+    },
+    {
+        "id": 12,
+        "question": "In SHM, the total energy is equal to:",
+        "options": [
+            "Maximum potential energy",
+            "Maximum kinetic energy",
+            "Sum of both",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Total energy equals maximum potential energy."
+    },
+    {
+        "id": 13,
+        "question": "The speed of sound in air at constant pressure increases with:",
+        "options": [
+            "Temperature",
+            "Density",
+            "Pressure",
+            "Humidity only"
+        ],
+        "answer": 0,
+        "explanation": "v ∝ √T."
+    },
+    {
+        "id": 14,
+        "question": "The electric potential at the center of a uniformly charged spherical shell is:",
+        "options": [
+            "kQ/R",
+            "Zero",
+            "Infinite",
+            "kQ/r^2"
+        ],
+        "answer": 0,
+        "explanation": "Potential inside shell is constant and equals kQ/R."
+    },
+    {
+        "id": 15,
+        "question": "If the charge on a capacitor is doubled, the energy stored becomes:",
+        "options": [
+            "Four times",
+            "Double",
+            "Half",
+            "Same"
+        ],
+        "answer": 0,
+        "explanation": "U = Q^2/2C ⇒ U ∝ Q^2."
+    },
+    {
+        "id": 16,
+        "question": "The drift velocity of electrons in a conductor is typically of the order of:",
+        "options": [
+            "10^−4 m/s",
+            "10^2 m/s",
+            "10^6 m/s",
+            "10^8 m/s"
+        ],
+        "answer": 0,
+        "explanation": "Drift velocity is very small (~10^−4 m/s)."
+    },
+    {
+        "id": 17,
+        "question": "The magnetic force on a straight current carrying conductor in a uniform magnetic field is maximum when angle between them is:",
+        "options": [
+            "90°",
+            "0°",
+            "45°",
+            "180°"
+        ],
+        "answer": 0,
+        "explanation": "F = BIL sinθ, maximum at θ = 90°."
+    },
+    {
+        "id": 18,
+        "question": "The magnetic field at the center of a circular coil of N turns carrying current I and radius R is:",
+        "options": [
+            "μ0NI/2R",
+            "μ0I/2R",
+            "μ0NI/R",
+            "μ0I/R"
+        ],
+        "answer": 0,
+        "explanation": "B = μ0NI/2R."
+    },
+    {
+        "id": 19,
+        "question": "The induced emf in a coil is zero when the magnetic flux through it is:",
+        "options": [
+            "Constant",
+            "Maximum",
+            "Minimum",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Emf ∝ dΦ/dt, zero when flux is constant."
+    },
+    {
+        "id": 20,
+        "question": "In an AC circuit, the average power consumed by a pure inductor is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Current and voltage are 90° out of phase."
+    },
+    {
+        "id": 21,
+        "question": "At resonance in an LCR circuit, the current is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Independent of frequency"
+        ],
+        "answer": 0,
+        "explanation": "Impedance is minimum at resonance."
+    },
+    {
+        "id": 22,
+        "question": "The focal length of a concave mirror is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "By sign convention, concave mirror has negative focal length."
+    },
+    {
+        "id": 23,
+        "question": "The magnification of a plane mirror is:",
+        "options": [
+            "+1",
+            "−1",
+            "0",
+            "Depends on distance"
+        ],
+        "answer": 0,
+        "explanation": "Plane mirror forms same size erect image."
+    },
+    {
+        "id": 24,
+        "question": "The fringe width in Young’s double slit experiment is inversely proportional to:",
+        "options": [
+            "Slit separation",
+            "Wavelength",
+            "Screen distance",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 25,
+        "question": "The maximum kinetic energy of photoelectrons depends on:",
+        "options": [
+            "Frequency of incident light",
+            "Intensity of light",
+            "Area of surface",
+            "Time of exposure"
+        ],
+        "answer": 0,
+        "explanation": "KE_max = hν − φ."
+    },
+    {
+        "id": 26,
+        "question": "The de Broglie wavelength of a proton accelerated through potential V is proportional to:",
+        "options": [
+            "1/√V",
+            "√V",
+            "V",
+            "1/V"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/√(2meV)."
+    },
+    {
+        "id": 27,
+        "question": "The binding energy per nucleon is maximum for nuclei with mass number around:",
+        "options": [
+            "56",
+            "4",
+            "12",
+            "235"
+        ],
+        "answer": 0,
+        "explanation": "Iron (A ≈ 56) has maximum binding energy per nucleon."
+    },
+    {
+        "id": 28,
+        "question": "The radioactive decay constant has the dimension of:",
+        "options": [
+            "T^−1",
+            "T",
+            "T^2",
+            "Dimensionless"
+        ],
+        "answer": 0,
+        "explanation": "λ is probability per unit time."
+    },
+    {
+        "id": 29,
+        "question": "The conductivity of an intrinsic semiconductor increases with:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Length",
+            "Area"
+        ],
+        "answer": 0,
+        "explanation": "Carrier concentration increases with temperature."
+    },
+    {
+        "id": 30,
+        "question": "The depletion layer in a p-n junction is free of:",
+        "options": [
+            "Free charge carriers",
+            "Ions",
+            "Electric field",
+            "Potential difference"
+        ],
+        "answer": 0,
+        "explanation": "Depletion region has no free electrons or holes."
+    },
+    {
+        "id": 31,
+        "question": "The SI unit of magnetic moment is:",
+        "options": [
+            "A·m^2",
+            "Tesla",
+            "Weber",
+            "Henry"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic moment = IA."
+    },
+    {
+        "id": 32,
+        "question": "The escape speed from Earth is approximately:",
+        "options": [
+            "11.2 km/s",
+            "7.9 km/s",
+            "5 km/s",
+            "20 km/s"
+        ],
+        "answer": 0,
+        "explanation": "Escape speed from Earth is about 11.2 km/s."
+    },
+    {
+        "id": 33,
+        "question": "The coefficient of friction between two surfaces depends on:",
+        "options": [
+            "Nature of surfaces",
+            "Area of contact",
+            "Mass",
+            "Speed"
+        ],
+        "answer": 0,
+        "explanation": "Coefficient depends on nature of surfaces."
+    },
+    {
+        "id": 34,
+        "question": "The energy stored per unit volume in an electric field is:",
+        "options": [
+            "(1/2)ε0E^2",
+            "ε0E",
+            "E^2/ε0",
+            "ε0/E"
+        ],
+        "answer": 0,
+        "explanation": "Energy density u = (1/2)ε0E^2."
+    },
+    {
+        "id": 35,
+        "question": "The direction of induced emf is given by:",
+        "options": [
+            "Lenz’s law",
+            "Faraday’s law",
+            "Ohm’s law",
+            "Ampere’s law"
+        ],
+        "answer": 0,
+        "explanation": "Lenz’s law gives direction."
+    },
+    {
+        "id": 36,
+        "question": "The unit of alternating current frequency is:",
+        "options": [
+            "Hz",
+            "rad/s",
+            "A",
+            "V"
+        ],
+        "answer": 0,
+        "explanation": "Frequency is measured in hertz."
+    },
+    {
+        "id": 37,
+        "question": "The resolving power of a microscope is proportional to:",
+        "options": [
+            "1/λ",
+            "λ",
+            "f",
+            "1/f"
+        ],
+        "answer": 0,
+        "explanation": "Resolving power ∝ 1/λ."
+    },
+    {
+        "id": 38,
+        "question": "The work function of a metal is the minimum energy required to:",
+        "options": [
+            "Remove an electron",
+            "Excite an atom",
+            "Ionize a nucleus",
+            "Create photons"
+        ],
+        "answer": 0,
+        "explanation": "Work function is minimum energy to eject electron."
+    },
+    {
+        "id": 39,
+        "question": "The radius of the nth Bohr orbit of hydrogen atom is proportional to:",
+        "options": [
+            "n^2",
+            "n",
+            "1/n",
+            "1/n^2"
+        ],
+        "answer": 0,
+        "explanation": "rn ∝ n^2."
+    },
+    {
+        "id": 40,
+        "question": "Gamma rays have the highest:",
+        "options": [
+            "Frequency",
+            "Wavelength",
+            "Speed in vacuum",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "Gamma rays have highest frequency."
+    },
+    {
+        "id": 41,
+        "question": "The activity of a radioactive substance is measured in:",
+        "options": [
+            "Becquerel",
+            "Gray",
+            "Sievert",
+            "Curie per second"
+        ],
+        "answer": 0,
+        "explanation": "SI unit of activity is becquerel."
+    },
+    {
+        "id": 42,
+        "question": "The resistance of a semiconductor decreases with increase in:",
+        "options": [
+            "Temperature",
+            "Length",
+            "Area",
+            "Pressure"
+        ],
+        "answer": 0,
+        "explanation": "Carrier density increases with temperature."
+    },
+    {
+        "id": 43,
+        "question": "The logic gate that gives output 1 only when both inputs are 1 is:",
+        "options": [
+            "AND",
+            "OR",
+            "XOR",
+            "NOT"
+        ],
+        "answer": 0,
+        "explanation": "AND gate outputs 1 only for both inputs 1."
+    },
+    {
+        "id": 44,
+        "question": "The SI unit of electric field intensity is:",
+        "options": [
+            "N/C",
+            "V",
+            "J/C",
+            "C/N"
+        ],
+        "answer": 0,
+        "explanation": "Electric field = force per unit charge."
+    },
+    {
+        "id": 45,
+        "question": "The center of mass of a system is stationary when:",
+        "options": [
+            "Net external force is zero",
+            "Internal forces are zero",
+            "Energy is constant",
+            "Momentum is zero"
+        ],
+        "answer": 0,
+        "explanation": "COM velocity is constant if net external force is zero."
+    },
+    {
+        "id": 46,
+        "question": "The speed of light in vacuum is:",
+        "options": [
+            "3×10^8 m/s",
+            "3×10^6 m/s",
+            "1.5×10^8 m/s",
+            "Depends on wavelength"
+        ],
+        "answer": 0,
+        "explanation": "Speed of light in vacuum is 3×10^8 m/s."
+    },
+    {
+        "id": 47,
+        "question": "The phenomenon of total internal reflection occurs when light travels from:",
+        "options": [
+            "Denser to rarer medium",
+            "Rarer to denser medium",
+            "Vacuum to air",
+            "Any medium"
+        ],
+        "answer": 0,
+        "explanation": "TIR occurs from denser to rarer medium."
+    },
+    {
+        "id": 48,
+        "question": "The half-life of a radioactive element is independent of:",
+        "options": [
+            "Temperature",
+            "Initial amount",
+            "Pressure",
+            "Chemical state"
+        ],
+        "answer": 0,
+        "explanation": "Half-life depends only on decay constant."
+    },
+    {
+        "id": 49,
+        "question": "The energy band gap of an insulator is of the order of:",
+        "options": [
+            "Several eV",
+            "1 eV",
+            "0 eV",
+            "0.01 eV"
+        ],
+        "answer": 0,
+        "explanation": "Insulators have large band gaps."
+    },
+    {
+        "id": 50,
+        "question": "The SI unit of inductance is named after:",
+        "options": [
+            "Henry",
+            "Faraday",
+            "Tesla",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Inductance unit henry is named after Joseph Henry."
+    }
+]

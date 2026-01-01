@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves with acceleration a = 8t (m/s^2). If it starts from rest, the velocity at t = 2 s is:",
+        "options": [
+            "8 m/s",
+            "12 m/s",
+            "16 m/s",
+            "32 m/s"
+        ],
+        "answer": 2,
+        "explanation": "v = ∫0^2 8t dt = [4t^2]_0^2 = 16 m/s."
+    },
+    {
+        "id": 2,
+        "question": "A projectile is fired with speed 30 m/s at 60°. The horizontal range (g = 10 m/s^2) is:",
+        "options": [
+            "45 m",
+            "60 m",
+            "78 m",
+            "90 m"
+        ],
+        "answer": 0,
+        "explanation": "R = u^2 sin2θ/g = 900·sin120°/10 = 45 m."
+    },
+    {
+        "id": 3,
+        "question": "Two blocks of masses 3 kg and 5 kg are in contact on a smooth surface. A force of 16 N is applied on 3 kg block. The acceleration of the system is:",
+        "options": [
+            "2 m/s^2",
+            "3 m/s^2",
+            "4 m/s^2",
+            "5 m/s^2"
+        ],
+        "answer": 0,
+        "explanation": "Total mass = 8 kg, a = 16/8 = 2 m/s^2."
+    },
+    {
+        "id": 4,
+        "question": "The work done by force F = 10 − 2x (N) from x = 0 to x = 3 m is:",
+        "options": [
+            "21 J",
+            "24 J",
+            "27 J",
+            "30 J"
+        ],
+        "answer": 0,
+        "explanation": "W = ∫0^3 (10 − 2x)dx = [10x − x^2]_0^3 = 30 − 9 = 21 J."
+    },
+    {
+        "id": 5,
+        "question": "For pure rolling of a hollow sphere, the ratio of rotational KE to translational KE is:",
+        "options": [
+            "2/3",
+            "3/5",
+            "1",
+            "5/3"
+        ],
+        "answer": 0,
+        "explanation": "For hollow sphere, I = (2/3)MR^2 ⇒ KE_r/KE_t = 2/3."
+    },
+    {
+        "id": 6,
+        "question": "The orbital period of a satellite increases when:",
+        "options": [
+            "Orbital radius increases",
+            "Satellite mass increases",
+            "Earth mass increases",
+            "g increases"
+        ],
+        "answer": 0,
+        "explanation": "T ∝ r^(3/2)."
+    },
+    {
+        "id": 7,
+        "question": "The terminal velocity of a body falling in a viscous medium decreases when:",
+        "options": [
+            "Viscosity increases",
+            "Radius increases",
+            "Density of body increases",
+            "Gravity increases"
+        ],
+        "answer": 0,
+        "explanation": "v_t ∝ 1/η."
+    },
+    {
+        "id": 8,
+        "question": "The dimensional formula of pressure is:",
+        "options": [
+            "ML^−1T^−2",
+            "MLT^−2",
+            "M^0LT^−2",
+            "ML^2T^−2"
+        ],
+        "answer": 0,
+        "explanation": "Pressure = force/area."
+    },
+    {
+        "id": 9,
+        "question": "In an isochoric process, the work done by the gas is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Negative"
+        ],
+        "answer": 0,
+        "explanation": "Volume constant ⇒ W = PΔV = 0."
+    },
+    {
+        "id": 10,
+        "question": "The restoring force in SHM is directly proportional to:",
+        "options": [
+            "Displacement",
+            "Velocity",
+            "Acceleration",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "F = −kx."
+    },
+    {
+        "id": 11,
+        "question": "The speed of sound in air is maximum when air is:",
+        "options": [
+            "Hot and humid",
+            "Cold and dry",
+            "Cold and humid",
+            "Hot and dry"
+        ],
+        "answer": 0,
+        "explanation": "Speed increases with temperature and humidity."
+    },
+    {
+        "id": 12,
+        "question": "The electric field at the center of a uniformly charged solid sphere is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Infinite",
+            "Depends on radius"
+        ],
+        "answer": 0,
+        "explanation": "At center r = 0 ⇒ E = 0."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of electric flux is:",
+        "options": [
+            "N·m^2/C",
+            "C/m^2",
+            "V/m",
+            "J/C"
+        ],
+        "answer": 0,
+        "explanation": "Electric flux = E·A."
+    },
+    {
+        "id": 14,
+        "question": "If a dielectric slab completely fills a capacitor, its capacitance becomes:",
+        "options": [
+            "k times",
+            "1/k times",
+            "Unchanged",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "C' = kC."
+    },
+    {
+        "id": 15,
+        "question": "The drift velocity of charge carriers is inversely proportional to:",
+        "options": [
+            "Number density",
+            "Electric field",
+            "Mobility",
+            "Charge"
+        ],
+        "answer": 0,
+        "explanation": "v_d = I/(nqA)."
+    },
+    {
+        "id": 16,
+        "question": "The magnetic field inside a toroid is:",
+        "options": [
+            "Confined within core",
+            "Zero everywhere",
+            "Uniform outside",
+            "Maximum outside"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic field lines remain within toroid."
+    },
+    {
+        "id": 17,
+        "question": "The SI unit of magnetic flux density is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux density B is measured in tesla."
+    },
+    {
+        "id": 18,
+        "question": "The induced emf in a conductor is zero if the magnetic flux is:",
+        "options": [
+            "Constant",
+            "Increasing",
+            "Decreasing",
+            "Alternating"
+        ],
+        "answer": 0,
+        "explanation": "ε ∝ dΦ/dt."
+    },
+    {
+        "id": 19,
+        "question": "In a purely inductive AC circuit, the current:",
+        "options": [
+            "Lags voltage by 90°",
+            "Leads voltage by 90°",
+            "Is in phase",
+            "Is zero"
+        ],
+        "answer": 0,
+        "explanation": "In inductor, current lags voltage by π/2."
+    },
+    {
+        "id": 20,
+        "question": "At resonance in an LCR circuit, the current is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Independent of frequency"
+        ],
+        "answer": 0,
+        "explanation": "Impedance is minimum at resonance."
+    },
+    {
+        "id": 21,
+        "question": "The focal length of a convex mirror is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "By sign convention, convex mirror has negative focal length."
+    },
+    {
+        "id": 22,
+        "question": "A concave mirror produces a real image when the object is placed:",
+        "options": [
+            "Beyond focal length",
+            "Between pole and focus",
+            "At pole",
+            "At infinity only"
+        ],
+        "answer": 0,
+        "explanation": "Real image forms for object beyond focus."
+    },
+    {
+        "id": 23,
+        "question": "The fringe width in Young’s double slit experiment increases when:",
+        "options": [
+            "Wavelength increases",
+            "Slit separation increases",
+            "Screen distance decreases",
+            "Intensity increases"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 24,
+        "question": "The photoelectric effect supports the particle nature of:",
+        "options": [
+            "Light",
+            "Electron",
+            "Photon mass",
+            "Energy"
+        ],
+        "answer": 0,
+        "explanation": "Photoelectric effect proves light consists of photons."
+    },
+    {
+        "id": 25,
+        "question": "The de Broglie wavelength of a particle is maximum when its momentum is:",
+        "options": [
+            "Minimum",
+            "Maximum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 26,
+        "question": "The binding energy per nucleon is minimum for:",
+        "options": [
+            "Hydrogen",
+            "Iron",
+            "Helium",
+            "Carbon"
+        ],
+        "answer": 0,
+        "explanation": "Light nuclei have low binding energy per nucleon."
+    },
+    {
+        "id": 27,
+        "question": "The SI unit of absorbed dose of radiation is:",
+        "options": [
+            "Gray",
+            "Sievert",
+            "Becquerel",
+            "Curie"
+        ],
+        "answer": 0,
+        "explanation": "Absorbed dose is measured in gray."
+    },
+    {
+        "id": 28,
+        "question": "The conductivity of an intrinsic semiconductor is zero at:",
+        "options": [
+            "0 K",
+            "Room temperature",
+            "High temperature",
+            "Any temperature"
+        ],
+        "answer": 0,
+        "explanation": "No free carriers at absolute zero."
+    },
+    {
+        "id": 29,
+        "question": "In an n-type semiconductor, the Fermi level lies closer to:",
+        "options": [
+            "Conduction band",
+            "Valence band",
+            "Middle of gap",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Donor levels raise Fermi level."
+    },
+    {
+        "id": 30,
+        "question": "The SI unit of electric potential is:",
+        "options": [
+            "Volt",
+            "Joule",
+            "Coulomb",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Electric potential is measured in volt."
+    },
+    {
+        "id": 31,
+        "question": "The escape speed from Earth does not depend on:",
+        "options": [
+            "Mass of the body",
+            "Mass of Earth",
+            "Radius of Earth",
+            "Gravitational constant"
+        ],
+        "answer": 0,
+        "explanation": "v_e = √(2GM/R)."
+    },
+    {
+        "id": 32,
+        "question": "The SI unit of angular momentum is:",
+        "options": [
+            "kg·m^2/s",
+            "kg·m/s",
+            "N·m",
+            "J"
+        ],
+        "answer": 0,
+        "explanation": "Angular momentum = r × p."
+    },
+    {
+        "id": 33,
+        "question": "The coefficient of viscosity of gases increases with:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Density",
+            "Volume"
+        ],
+        "answer": 0,
+        "explanation": "Viscosity of gases increases with temperature."
+    },
+    {
+        "id": 34,
+        "question": "The pitch of sound depends on:",
+        "options": [
+            "Frequency",
+            "Amplitude",
+            "Speed",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "Pitch is related to frequency."
+    },
+    {
+        "id": 35,
+        "question": "The electric field inside a conductor in electrostatic equilibrium is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Maximum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Charges redistribute to cancel internal field."
+    },
+    {
+        "id": 36,
+        "question": "The direction of magnetic field around a straight conductor is given by:",
+        "options": [
+            "Right hand thumb rule",
+            "Fleming’s left hand rule",
+            "Lenz’s law",
+            "Ampere’s law"
+        ],
+        "answer": 0,
+        "explanation": "Right hand thumb rule."
+    },
+    {
+        "id": 37,
+        "question": "The energy stored per unit volume in a magnetic field is:",
+        "options": [
+            "B^2/2μ0",
+            "μ0B^2",
+            "B/μ0",
+            "μ0/B"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic energy density = B^2/(2μ0)."
+    },
+    {
+        "id": 38,
+        "question": "The power factor of an AC circuit is:",
+        "options": [
+            "cosφ",
+            "sinφ",
+            "tanφ",
+            "1/φ"
+        ],
+        "answer": 0,
+        "explanation": "Power factor = cosφ."
+    },
+    {
+        "id": 39,
+        "question": "A convex mirror always forms an image which is:",
+        "options": [
+            "Virtual and erect",
+            "Real and inverted",
+            "Real and erect",
+            "Virtual and inverted"
+        ],
+        "answer": 0,
+        "explanation": "Convex mirror always gives virtual erect image."
+    },
+    {
+        "id": 40,
+        "question": "The refractive index of a medium decreases when the wavelength of light:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "Normal dispersion: n decreases with λ."
+    },
+    {
+        "id": 41,
+        "question": "The work function of a metal is independent of:",
+        "options": [
+            "Intensity of incident light",
+            "Nature of metal",
+            "Surface condition",
+            "Temperature"
+        ],
+        "answer": 0,
+        "explanation": "Work function depends on material, not intensity."
+    },
+    {
+        "id": 42,
+        "question": "The energy of a photon is:",
+        "options": [
+            "hν",
+            "hc",
+            "h/ν",
+            "h/λ^2"
+        ],
+        "answer": 0,
+        "explanation": "Photon energy E = hν."
+    },
+    {
+        "id": 43,
+        "question": "The decay constant of a radioactive element is:",
+        "options": [
+            "Independent of external conditions",
+            "Dependent on temperature",
+            "Dependent on pressure",
+            "Dependent on chemical state"
+        ],
+        "answer": 0,
+        "explanation": "Decay constant is intrinsic nuclear property."
+    },
+    {
+        "id": 44,
+        "question": "The Fermi level in an intrinsic semiconductor lies:",
+        "options": [
+            "At mid-gap",
+            "Near conduction band",
+            "Near valence band",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Intrinsic Fermi level lies midway."
+    },
+    {
+        "id": 45,
+        "question": "The logic gate whose output is 1 only when inputs are different is:",
+        "options": [
+            "XOR",
+            "AND",
+            "OR",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "XOR outputs 1 for unequal inputs."
+    },
+    {
+        "id": 46,
+        "question": "The SI unit of capacitance is:",
+        "options": [
+            "Farad",
+            "Henry",
+            "Ohm",
+            "Volt"
+        ],
+        "answer": 0,
+        "explanation": "Capacitance is measured in farad."
+    },
+    {
+        "id": 47,
+        "question": "The phenomenon responsible for mirage is:",
+        "options": [
+            "Total internal reflection",
+            "Refraction only",
+            "Diffraction",
+            "Scattering"
+        ],
+        "answer": 0,
+        "explanation": "Mirage occurs due to total internal reflection."
+    },
+    {
+        "id": 48,
+        "question": "The SI unit of current density is:",
+        "options": [
+            "A/m^2",
+            "A/m",
+            "C/m^2",
+            "V/m"
+        ],
+        "answer": 0,
+        "explanation": "Current density J = I/A."
+    },
+    {
+        "id": 49,
+        "question": "Magnetic susceptibility of a diamagnetic substance is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Diamagnetic substances have negative susceptibility."
+    },
+    {
+        "id": 50,
+        "question": "Faraday’s law of electromagnetic induction states that induced emf is proportional to:",
+        "options": [
+            "Rate of change of magnetic flux",
+            "Magnetic field",
+            "Area of loop",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "ε = −dΦ/dt."
+    }
+]

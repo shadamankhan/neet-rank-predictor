@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which compound is formed when sodium phenoxide reacts with ethyl iodide?",
+        "options": [
+            "Phenetole",
+            "Ethyl phenyl alcohol",
+            "Phenol",
+            "None of the above"
+        ],
+        "answer": 0,
+        "explanation": "Williamson synthesis of sodium phenoxide with ethyl iodide yields phenetole."
+    },
+    {
+        "id": 2,
+        "question": "The reagent that differentiates primary, secondary and tertiary alcohols is Lucas reagent (conc. $HCl + ZnCl_2$). Which of the following reacts fastest?",
+        "options": [
+            "1° alcohol",
+            "2° alcohol",
+            "3° alcohol",
+            "Phenol"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary alcohol reacts instantaneously with Lucas reagent due to stable carbocation formation."
+    },
+    {
+        "id": 3,
+        "question": "Phenol gives violet color with $FeCl_3$. What is the principal reason?",
+        "options": [
+            "Hydrogen bonding",
+            "Formation of complex",
+            "No reaction",
+            "Oxidation"
+        ],
+        "answer": 1,
+        "explanation": "Phenol forms a colored complex with ferric chloride indicating presence of -OH on aromatic ring."
+    },
+    {
+        "id": 4,
+        "question": "When ethanol is dehydrated with $Conc.\\ H_2SO_4$, the major product is:",
+        "options": [
+            "Ethane",
+            "Ethene",
+            "Ethanol sulfate",
+            "Acetaldehyde"
+        ],
+        "answer": 1,
+        "explanation": "Conc. sulfuric acid dehydrates ethanol to give ethene via elimination."
+    },
+    {
+        "id": 5,
+        "question": "Which product is formed on oxidation of benzyl alcohol with $PCC$?",
+        "options": [
+            "Benzoic acid",
+            "Benzaldehyde",
+            "Benzene",
+            "Benzyl chloride"
+        ],
+        "answer": 1,
+        "explanation": "PCC oxidizes primary alcohol to aldehyde without further oxidation."
+    },
+    {
+        "id": 6,
+        "question": "Which reagent is best for Williamson Ether Synthesis?",
+        "options": [
+            "Alkoxide + alkyl halide",
+            "Alcohol + acid chloride",
+            "Ether + acid",
+            "Alcohol + base only"
+        ],
+        "answer": 0,
+        "explanation": "An alkoxide reacts with primary alkyl halide to form ether (Williamson method)."
+    },
+    {
+        "id": 7,
+        "question": "In the reaction $C_6H_5OH + Br_2 \\rightarrow$ which of the following products form?",
+        "options": [
+            "2,4,6-tribromophenol",
+            "Bromobenzene",
+            "4-bromophenol",
+            "No reaction"
+        ],
+        "answer": 0,
+        "explanation": "Phenol undergoes electrophilic substitution giving tribrominated phenol."
+    },
+    {
+        "id": 8,
+        "question": "Ether cleavage by HI: $R-O-R' + HI \\rightarrow$ major products depend on carbocation stability. Which carbon is attacked first?",
+        "options": [
+            "More substituted",
+            "Less substituted",
+            "Either equally",
+            "No reaction"
+        ],
+        "answer": 0,
+        "explanation": "HI cleavage favors the formation of more stable carbocation before breaking the C-O bond."
+    },
+    {
+        "id": 9,
+        "question": "Which of the following alcohols will give a positive iodoform test?",
+        "options": [
+            "Methanol",
+            "Ethanol",
+            "Tert-butyl alcohol",
+            "Phenol"
+        ],
+        "answer": 1,
+        "explanation": "Ethanol gives a positive iodoform test due to $CH_3CH(OH)$ group presence."
+    },
+    {
+        "id": 10,
+        "question": "The acidic strength order among these compounds: water, phenol, ethanol, acetic acid is:",
+        "options": [
+            "$H_2O < Phenol < C_2H_5OH < CH_3COOH$",
+            "$C_2H_5OH < H_2O < Phenol < CH_3COOH$",
+            "$C_2H_5OH < H_2O < CH_3COOH < Phenol$",
+            "$H_2O < C_2H_5OH < Phenol < CH_3COOH$"
+        ],
+        "answer": 3,
+        "explanation": "Carboxylic acids > phenols > water > alcohols in acidity due to resonance and inductive effects."
+    },
+    {
+        "id": 11,
+        "question": "The product of the reaction: $$ ROH + PCl_5 \\rightarrow RCl + HCl + POCl_3 $$ is:",
+        "options": [
+            "Alkyl chloride",
+            "Alkyl alcohol",
+            "Phenol",
+            "Ester"
+        ],
+        "answer": 0,
+        "explanation": "Alcohols react with $PCl_5$ to form alkyl chlorides."
+    },
+    {
+        "id": 12,
+        "question": "Consider the reaction: $$C_2H_5OH \\xrightarrow{SOCl_2} C_2H_5Cl$$. This is an example of:",
+        "options": [
+            "Substitution",
+            "Elimination",
+            "Oxidation",
+            "Reduction"
+        ],
+        "answer": 0,
+        "explanation": "$SOCl_2$ converts alcohol to alkyl chloride by nucleophilic substitution."
+    },
+    {
+        "id": 13,
+        "question": "Which compound has the highest boiling point?",
+        "options": [
+            "Diethyl ether",
+            "Ethanol",
+            "Ethyl methyl ether",
+            "Ethane"
+        ],
+        "answer": 1,
+        "explanation": "Ethanol shows hydrogen bonding, raising its boiling point."
+    },
+    {
+        "id": 14,
+        "question": "What is the IUPAC name of $$CH_3CH(OH)CH_2OH$$?",
+        "options": [
+            "Propane-1,2-diol",
+            "Propane-2,3-diol",
+            "Butane-2,3-diol",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "The compound is propane-1,2-diol."
+    },
+    {
+        "id": 15,
+        "question": "Which reagent converts alcohol to alkyl chloride?",
+        "options": [
+            "$SOCl_2$",
+            "$PCl_5$",
+            "$HCl + ZnCl_2$",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "All listed reagents can convert alcohols to alkyl chlorides."
+    },
+    {
+        "id": 16,
+        "question": "The order of decreasing acidic strength: $$p-nitrophenol, phenol, m-nitrophenol$$ is:",
+        "options": [
+            "$p-nitrophenol > o-nitrophenol > m-nitrophenol$",
+            "$m-nitrophenol > p-nitrophenol > phenol$",
+            "$phenol > m-nitrophenol > p-nitrophenol$",
+            "$o-nitrophenol > p-nitrophenol > m-nitrophenol$"
+        ],
+        "answer": 3,
+        "explanation": "Ortho and para nitro groups increase acidity most due to resonance and inductive effects."
+    },
+    {
+        "id": 17,
+        "question": "Ether $$CH_3-O-CH_2CH_3$$ has bond angle C-O-C approximately:",
+        "options": [
+            "$104.5°$",
+            "$109.5°$",
+            "$120°$",
+            "$90°$"
+        ],
+        "answer": 1,
+        "explanation": "Ether has a bent structure close to tetrahedral angle at oxygen."
+    },
+    {
+        "id": 18,
+        "question": "Which of the following reactions is of nucleophilic substitution?",
+        "options": [
+            "$ROH + SOCl_2$",
+            "$RCH=CH_2 + H_2O$",
+            "$C_6H_5OH + Br_2$",
+            "$ROH \\xrightarrow{H_2SO_4} Alkene$"
+        ],
+        "answer": 0,
+        "explanation": "Alcohol to alkyl chloride with $SOCl_2$ is nucleophilic substitution."
+    },
+    {
+        "id": 19,
+        "question": "Phenol reacts with diazonium salt to form:",
+        "options": [
+            "Azo compound",
+            "Ester",
+            "Ether",
+            "Alkane"
+        ],
+        "answer": 0,
+        "explanation": "Phenol couples with diazonium salts to form azo dyes."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following does not give a positive iodoform test?",
+        "options": [
+            "Ethanol",
+            "Propanone",
+            "2-propanol",
+            "Ethanal"
+        ],
+        "answer": 2,
+        "explanation": "2-propanol does not have a CH3-CH(OH) group required for iodoform test."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following compounds has the highest boiling point?",
+        "options": [
+            "Propan-1-ol",
+            "Butan-1-ol",
+            "Butan-2-ol",
+            "Pent-1-ol"
+        ],
+        "answer": 3,
+        "explanation": "Boiling point increases with molecular mass due to stronger van der Waals forces."
+    },
+    {
+        "id": 22,
+        "question": "Reaction of phenol with zinc dust gives:",
+        "options": [
+            "Benzene",
+            "Toluene",
+            "Benzaldehyde",
+            "Benzoic acid"
+        ],
+        "answer": 0,
+        "explanation": "Phenol is reduced to benzene by heating with zinc dust."
+    },
+    {
+        "id": 23,
+        "question": "Which enzyme converts glucose to ethanol?",
+        "options": [
+            "Zymase",
+            "Invertase",
+            "Maltase",
+            "Diastase"
+        ],
+        "answer": 0,
+        "explanation": "Zymase enzyme in yeast ferments glucose to ethanol and carbon dioxide."
+    },
+    {
+        "id": 24,
+        "question": "Which ether is used as an anaesthetic?",
+        "options": [
+            "Diethyl ether",
+            "Dimethyl ether",
+            "Ethyl methyl ether",
+            "Diphenyl ether"
+        ],
+        "answer": 0,
+        "explanation": "Diethyl ether was historically used as an inhalation anaesthetic."
+    },
+    {
+        "id": 25,
+        "question": "The C-O-H bond angle in alcohols is slightly less than tetrahedral angle due to:",
+        "options": [
+            "Repulsion between bond pairs",
+            "Repulsion between lone pairs",
+            "Hydrogen bonding",
+            "Large size of oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Repulsion between the two lone pairs on oxygen reduces the bond angle."
+    },
+    {
+        "id": 26,
+        "question": "When glycerol is treated with excess HI, the major product is:",
+        "options": [
+            "2-iodopropane",
+            "Propene",
+            "1,2,3-triiodopropane",
+            "Allyl iodide"
+        ],
+        "answer": 2,
+        "explanation": "Excess HI replaces all hydroxyl groups giving 1,2,3-triiodopropane."
+    },
+    {
+        "id": 27,
+        "question": "Arrange the following in increasing acidic strength: phenol, cyclohexanol, 2,4,6-trinitrophenol, ethanol.",
+        "options": [
+            "Cyclohexanol < ethanol < phenol < 2,4,6-trinitrophenol",
+            "Ethanol < cyclohexanol < phenol < 2,4,6-trinitrophenol",
+            "Cyclohexanol < ethanol < 2,4,6-trinitrophenol < phenol",
+            "Phenol < ethanol < cyclohexanol < 2,4,6-trinitrophenol"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing groups increase acidity, so 2,4,6-trinitrophenol is strongest."
+    },
+    {
+        "id": 28,
+        "question": "Which of the following undergoes fastest oxidation with dichromate?",
+        "options": [
+            "1-propanol",
+            "2-propanol",
+            "tert-butyl alcohol",
+            "Phenol"
+        ],
+        "answer": 0,
+        "explanation": "Primary alcohols oxidize to acids/aldehydes faster than secondary or tertiary alcohols."
+    },
+    {
+        "id": 29,
+        "question": "The product of the reaction: $$CH_3CH(OH)CH_3 \\xrightarrow{PCC}$$ is:",
+        "options": [
+            "Propanol",
+            "Acetone",
+            "Propanone",
+            "No reaction"
+        ],
+        "answer": 1,
+        "explanation": "Secondary alcohol goes to ketone with PCC."
+    },
+    {
+        "id": 30,
+        "question": "Which one of the following gives a positive Tollens’ test?",
+        "options": [
+            "Ethanol",
+            "Propanal",
+            "2-propanone",
+            "Tert-butyl alcohol"
+        ],
+        "answer": 1,
+        "explanation": "Aldehydes give positive Tollens’ test."
+    },
+    {
+        "id": 31,
+        "question": "Ether cleavage by HI for $$CH_3OCH_2CH_3$$ yields:",
+        "options": [
+            "Methanol + ethyl iodide",
+            "Methyl iodide + ethanol",
+            "Ethanol + ethane",
+            "Methyl iodide + ethyl iodide"
+        ],
+        "answer": 1,
+        "explanation": "HI cleaves to methyl iodide and ethanol."
+    },
+    {
+        "id": 32,
+        "question": "Which reagent converts phenol to sodium phenoxide?",
+        "options": [
+            "HCl",
+            "NaOH",
+            "ZnCl₂",
+            "PCl₅"
+        ],
+        "answer": 1,
+        "explanation": "Phenol reacts with base to give phenoxide."
+    },
+    {
+        "id": 33,
+        "question": "The IUPAC name of $$CH_3CH_2OCH_2CH_3$$ is:",
+        "options": [
+            "Ethyl ether",
+            "Diethyl ether",
+            "Methoxyethane",
+            "Ethanoxyethane"
+        ],
+        "answer": 3,
+        "explanation": "Ethanoxyethane is the systematic name."
+    },
+    {
+        "id": 34,
+        "question": "Which alcohol would react fastest with Lucas reagent?",
+        "options": [
+            "1-butanol",
+            "2-butanol",
+            "tert-butanol",
+            "Ethanol"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary alcohol reacts fastest with Lucas reagent."
+    },
+    {
+        "id": 35,
+        "question": "Phenol on reaction with $$Br_2$$ in water gives:",
+        "options": [
+            "Bromobenzene",
+            "2,4,6-tribromophenol",
+            "Bromophenol",
+            "No reaction"
+        ],
+        "answer": 1,
+        "explanation": "Phenol undergoes multiple substitution with bromine water."
+    },
+    {
+        "id": 36,
+        "question": "Which alcohol does not give iodoform test?",
+        "options": [
+            "Ethanol",
+            "Isopropanol",
+            "2-butanol",
+            "Methanol"
+        ],
+        "answer": 3,
+        "explanation": "Methanol does not have CH₃CH(OH) group."
+    },
+    {
+        "id": 37,
+        "question": "Product of Williamson ether synthesis from sodium ethoxide and $$CH_3I$$ is:",
+        "options": [
+            "Ethyl methyl ether",
+            "Dimethyl ether",
+            "Diethyl ether",
+            "Ethanol"
+        ],
+        "answer": 0,
+        "explanation": "Sodium ethoxide and methyl iodide form ethyl methyl ether."
+    },
+    {
+        "id": 38,
+        "question": "Which molecule has highest boiling point?",
+        "options": [
+            "Diethyl ether",
+            "Ethanol",
+            "Methoxyethane",
+            "Ethane"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen bonding in ethanol raises boiling point."
+    },
+    {
+        "id": 39,
+        "question": "Which reagent can oxidize primary alcohol to acid?",
+        "options": [
+            "$PCC$",
+            "$KMnO_4$",
+            "$LiAlH_4$",
+            "$Pd/H_2$"
+        ],
+        "answer": 1,
+        "explanation": "KMnO₄ oxidizes primary alcohols to acids."
+    },
+    {
+        "id": 40,
+        "question": "Phenol reacts with $$Na_2CO_3$$ to give:",
+        "options": [
+            "Sodium phenoxide",
+            "No reaction",
+            "Phenol carbonate",
+            "Phenyl carbonate"
+        ],
+        "answer": 1,
+        "explanation": "Phenol is too weakly acidic to react with sodium carbonate."
+    },
+    {
+        "id": 41,
+        "question": "Dehydration of secondary alcohol results in:",
+        "options": [
+            "Symmetrical ether",
+            "Unsymmetrical ether",
+            "Alkene",
+            "Ester"
+        ],
+        "answer": 2,
+        "explanation": "Dehydration forms alkene via elimination."
+    },
+    {
+        "id": 42,
+        "question": "Which test identifies phenols?",
+        "options": [
+            "Tollens’ test",
+            "Lucas test",
+            "FeCl₃ test",
+            "Iodoform test"
+        ],
+        "answer": 2,
+        "explanation": "FeCl₃ gives violet complex with phenols."
+    },
+    {
+        "id": 43,
+        "question": "Which of these gives an aldehyde on oxidation?",
+        "options": [
+            "1-propanol with PCC",
+            "2-propanol with KMnO₄",
+            "Tert-butanol with PCC",
+            "Methanol with PCC"
+        ],
+        "answer": 0,
+        "explanation": "PCC oxidizes primary alcohol to aldehyde."
+    },
+    {
+        "id": 44,
+        "question": "Which ether is most easily cleaved by HI?",
+        "options": [
+            "Methyl tert-butyl ether",
+            "Diethyl ether",
+            "Ethyl methyl ether",
+            "Dipropyl ether"
+        ],
+        "answer": 0,
+        "explanation": "Cleavage favors formation of stable carbocation."
+    },
+    {
+        "id": 45,
+        "question": "Product of $$C_6H_5OH + CO_2/NaOH \\rightarrow$$ followed by acidification is:",
+        "options": [
+            "Salicylic acid",
+            "Phenol carbonate",
+            "Benzoic acid",
+            "No reaction"
+        ],
+        "answer": 0,
+        "explanation": "Kolbe-Schmitt reaction yields salicylic acid."
+    },
+    {
+        "id": 46,
+        "question": "Order of increasing acidity: ethanol, phenol, acetic acid is:",
+        "options": [
+            "Ethanol < phenol < acetic acid",
+            "Phenol < ethanol < acetic acid",
+            "Acetic acid < phenol < ethanol",
+            "Phenol < acetic acid < ethanol"
+        ],
+        "answer": 0,
+        "explanation": "Acetic acid strongest, then phenol, then ethanol."
+    },
+    {
+        "id": 47,
+        "question": "In $$CH_3CH_2Br + NaOCH_3\\rightarrow$$ major product is:",
+        "options": [
+            "Ethyl methyl ether",
+            "Methyl bromide",
+            "Ethanol",
+            "No reaction"
+        ],
+        "answer": 0,
+        "explanation": "Nucleophilic substitution forms ether."
+    },
+    {
+        "id": 48,
+        "question": "Which compound yields 2,4,6-tribromophenol with bromine water?",
+        "options": [
+            "Phenol",
+            "Aniline",
+            "Benzene",
+            "Toluene"
+        ],
+        "answer": 0,
+        "explanation": "Phenol activates ring for bromination."
+    },
+    {
+        "id": 49,
+        "question": "The product of dehydration of $$CH_3CH(OH)CH_3$$ with conc. H₂SO₄ is:",
+        "options": [
+            "Propane",
+            "Propene",
+            "Isopropyl sulfate",
+            "Acetone"
+        ],
+        "answer": 1,
+        "explanation": "Elimination gives propene."
+    },
+    {
+        "id": 50,
+        "question": "Reaction of phenol with $$HNO_3$$ gives mainly:",
+        "options": [
+            "o-Nitrophenol",
+            "p-Nitrophenol",
+            "Mixed o- and p-nitrophenols",
+            "m-Nitrophenol"
+        ],
+        "answer": 2,
+        "explanation": "Electrophilic substitution gives ortho and para products."
+    }
+]

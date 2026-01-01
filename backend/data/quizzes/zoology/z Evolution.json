@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "According to NCERT, evolution is best described as",
+        "options": [
+            "Origin of life",
+            "Changes in gene frequency in a population over generations",
+            "Progressive increase in complexity",
+            "Inheritance of acquired characters"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines evolution as changes in gene frequency in a population over successive generations."
+    },
+    {
+        "id": 2,
+        "question": "The idea of evolution by natural selection was jointly proposed by",
+        "options": [
+            "Charles Darwin and Alfred Russel Wallace",
+            "Jean Baptiste de Lamarck and Darwin",
+            "Hugo de Vries and Darwin",
+            "Gregor Mendel and Darwin"
+        ],
+        "answer": 0,
+        "explanation": "Darwin and Alfred Russel Wallace independently proposed natural selection."
+    },
+    {
+        "id": 3,
+        "question": "According to Lamarckism, the long neck of giraffe evolved due to",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Inheritance of acquired characters",
+            "Genetic drift"
+        ],
+        "answer": 2,
+        "explanation": "Lamarck proposed inheritance of acquired characters due to use and disuse."
+    },
+    {
+        "id": 4,
+        "question": "Which of the following ideas is NOT accepted in modern evolutionary theory?",
+        "options": [
+            "Use and disuse of organs",
+            "Natural selection",
+            "Genetic recombination",
+            "Mutation"
+        ],
+        "answer": 0,
+        "explanation": "Use and disuse of organs is a Lamarckian concept, not accepted today."
+    },
+    {
+        "id": 5,
+        "question": "The term struggle for existence was given importance by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Malthus",
+            "Wallace"
+        ],
+        "answer": 2,
+        "explanation": "Malthus discussed struggle for existence influencing Darwin."
+    },
+    {
+        "id": 6,
+        "question": "According to Darwin, variation is",
+        "options": [
+            "Directional",
+            "Small and continuous",
+            "Sudden and large",
+            "Always harmful"
+        ],
+        "answer": 1,
+        "explanation": "Darwin emphasized small, continuous variations."
+    },
+    {
+        "id": 7,
+        "question": "Industrial melanism was observed in",
+        "options": [
+            "Peppered moth",
+            "Fruit fly",
+            "Frog",
+            "Bacteria"
+        ],
+        "answer": 0,
+        "explanation": "Industrial melanism is classically explained using peppered moth."
+    },
+    {
+        "id": 8,
+        "question": "The dark coloured peppered moth is scientifically called",
+        "options": [
+            "Biston betularia",
+            "Bombyx mori",
+            "Apis mellifera",
+            "Musca domestica"
+        ],
+        "answer": 0,
+        "explanation": "Peppered moth is Biston betularia."
+    },
+    {
+        "id": 9,
+        "question": "Industrial melanism supports the concept of",
+        "options": [
+            "Mutation",
+            "Natural selection",
+            "Genetic drift",
+            "Artificial selection"
+        ],
+        "answer": 1,
+        "explanation": "It demonstrates natural selection favoring advantageous traits."
+    },
+    {
+        "id": 10,
+        "question": "Which factor does NOT contribute to evolution?",
+        "options": [
+            "Mutation",
+            "Migration",
+            "Mitosis",
+            "Natural selection"
+        ],
+        "answer": 2,
+        "explanation": "Mitosis does not alter gene frequency."
+    },
+    {
+        "id": 11,
+        "question": "Hardy-Weinberg principle states that allele frequencies remain constant if",
+        "options": [
+            "Population is large and random mating occurs",
+            "Mutation occurs",
+            "Natural selection operates",
+            "Migration occurs"
+        ],
+        "answer": 0,
+        "explanation": "Hardy-Weinberg equilibrium requires large, randomly mating population with no evolutionary forces."
+    },
+    {
+        "id": 12,
+        "question": "The sum of allelic frequencies in Hardy-Weinberg equilibrium is",
+        "options": [
+            "0",
+            "1",
+            "2",
+            "Depends on population"
+        ],
+        "answer": 1,
+        "explanation": "p + q = 1 according to Hardy-Weinberg principle."
+    },
+    {
+        "id": 13,
+        "question": "Which of the following causes deviation from Hardy-Weinberg equilibrium?",
+        "options": [
+            "Random mating",
+            "No mutation",
+            "Genetic drift",
+            "Large population size"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift alters allele frequencies."
+    },
+    {
+        "id": 14,
+        "question": "Founder effect is a type of",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Genetic drift",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Founder effect is a special case of genetic drift."
+    },
+    {
+        "id": 15,
+        "question": "Gene flow occurs due to",
+        "options": [
+            "Mutation",
+            "Migration",
+            "Selection",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Migration of individuals causes gene flow."
+    },
+    {
+        "id": 16,
+        "question": "Which evolutionary force is random in nature?",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift is random change in allele frequency."
+    },
+    {
+        "id": 17,
+        "question": "Adaptive radiation refers to",
+        "options": [
+            "Evolution of unrelated species",
+            "Diversification from a common ancestor",
+            "Speciation by isolation",
+            "Extinction of species"
+        ],
+        "answer": 1,
+        "explanation": "Adaptive radiation is diversification from a common ancestor."
+    },
+    {
+        "id": 18,
+        "question": "Darwin’s finches are an example of",
+        "options": [
+            "Convergent evolution",
+            "Adaptive radiation",
+            "Genetic drift",
+            "Artificial selection"
+        ],
+        "answer": 1,
+        "explanation": "Darwin’s finches show adaptive radiation."
+    },
+    {
+        "id": 19,
+        "question": "Evolution of similar traits in unrelated lineages is called",
+        "options": [
+            "Divergent evolution",
+            "Convergent evolution",
+            "Adaptive radiation",
+            "Parallel evolution"
+        ],
+        "answer": 1,
+        "explanation": "Convergent evolution leads to similar traits in unrelated species."
+    },
+    {
+        "id": 20,
+        "question": "Wings of birds and insects are examples of",
+        "options": [
+            "Homologous organs",
+            "Analogous organs",
+            "Vestigial organs",
+            "Atavistic organs"
+        ],
+        "answer": 1,
+        "explanation": "They perform similar function but have different origin, hence analogous."
+    },
+    {
+        "id": 21,
+        "question": "Forelimbs of human and whale are",
+        "options": [
+            "Analogous",
+            "Homologous",
+            "Vestigial",
+            "Atavistic"
+        ],
+        "answer": 1,
+        "explanation": "They share common origin and are homologous."
+    },
+    {
+        "id": 22,
+        "question": "Which provides strongest evidence for evolution?",
+        "options": [
+            "Embryological evidence",
+            "Morphological evidence",
+            "Molecular homology",
+            "Fossils"
+        ],
+        "answer": 2,
+        "explanation": "NCERT emphasizes molecular homology as strongest evidence."
+    },
+    {
+        "id": 23,
+        "question": "The study of fossils is called",
+        "options": [
+            "Paleontology",
+            "Archaeology",
+            "Anthropology",
+            "Ecology"
+        ],
+        "answer": 0,
+        "explanation": "Paleontology deals with fossils."
+    },
+    {
+        "id": 24,
+        "question": "Which fossil is considered a connecting link between reptiles and birds?",
+        "options": [
+            "Archaeopteryx",
+            "Ichthyosaurus",
+            "Dimetrodon",
+            "Peripatus"
+        ],
+        "answer": 0,
+        "explanation": "Archaeopteryx shows both reptilian and avian characters."
+    },
+    {
+        "id": 25,
+        "question": "The age of fossils is determined by",
+        "options": [
+            "Carbon dating",
+            "Potassium-argon dating",
+            "Uranium dating",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Different radioactive dating methods are used."
+    },
+    {
+        "id": 26,
+        "question": "Carbon dating is useful for fossils up to",
+        "options": [
+            "1000 years",
+            "10,000 years",
+            "50,000 years",
+            "1 million years"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dating is useful up to about 50,000 years."
+    },
+    {
+        "id": 27,
+        "question": "According to Oparin-Haldane hypothesis, life originated from",
+        "options": [
+            "Pre-existing cells",
+            "Inorganic molecules",
+            "Organic molecules",
+            "Proteins only"
+        ],
+        "answer": 1,
+        "explanation": "They proposed abiotic synthesis of organic molecules from inorganic substances."
+    },
+    {
+        "id": 28,
+        "question": "The primitive atmosphere of Earth lacked",
+        "options": [
+            "Methane",
+            "Ammonia",
+            "Oxygen",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "Free oxygen was absent in early Earth atmosphere."
+    },
+    {
+        "id": 29,
+        "question": "The Miller-Urey experiment demonstrated synthesis of",
+        "options": [
+            "Proteins",
+            "Amino acids",
+            "Nucleic acids",
+            "Lipids"
+        ],
+        "answer": 1,
+        "explanation": "Miller produced amino acids under simulated early Earth conditions."
+    },
+    {
+        "id": 30,
+        "question": "The first form of life was probably",
+        "options": [
+            "Eukaryotic",
+            "Autotrophic",
+            "Prokaryotic",
+            "Multicellular"
+        ],
+        "answer": 2,
+        "explanation": "First life forms were prokaryotic."
+    },
+    {
+        "id": 31,
+        "question": "The first organisms were",
+        "options": [
+            "Aerobic",
+            "Anaerobic",
+            "Photosynthetic",
+            "Chemosynthetic"
+        ],
+        "answer": 1,
+        "explanation": "Early life was anaerobic due to absence of oxygen."
+    },
+    {
+        "id": 32,
+        "question": "The first autotrophs were likely",
+        "options": [
+            "Photosynthetic",
+            "Chemosynthetic",
+            "Saprophytic",
+            "Parasitic"
+        ],
+        "answer": 1,
+        "explanation": "Chemosynthetic autotrophs appeared before photosynthesis."
+    },
+    {
+        "id": 33,
+        "question": "Photosynthesis first evolved in",
+        "options": [
+            "Eukaryotes",
+            "Cyanobacteria",
+            "Algae",
+            "Plants"
+        ],
+        "answer": 1,
+        "explanation": "Cyanobacteria were first photosynthetic organisms."
+    },
+    {
+        "id": 34,
+        "question": "Oxygen accumulation in atmosphere led to formation of",
+        "options": [
+            "Water",
+            "Carbon dioxide",
+            "Ozone layer",
+            "Nitrogen"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen led to formation of ozone layer."
+    },
+    {
+        "id": 35,
+        "question": "Which era is known as age of reptiles?",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Mesozoic era is called age of reptiles."
+    },
+    {
+        "id": 36,
+        "question": "The age of mammals corresponds to",
+        "options": [
+            "Mesozoic",
+            "Cenozoic",
+            "Paleozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Cenozoic is known as age of mammals."
+    },
+    {
+        "id": 37,
+        "question": "Which human ancestor used fire?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Homo erectus used fire."
+    },
+    {
+        "id": 38,
+        "question": "Brain size increased significantly in",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 3,
+        "explanation": "Homo sapiens has highly developed brain."
+    },
+    {
+        "id": 39,
+        "question": "Neanderthal man belonged to",
+        "options": [
+            "Homo erectus",
+            "Homo sapiens",
+            "Homo sapiens neanderthalensis",
+            "Australopithecus"
+        ],
+        "answer": 2,
+        "explanation": "Neanderthals are Homo sapiens neanderthalensis."
+    },
+    {
+        "id": 40,
+        "question": "Modern humans are scientifically called",
+        "options": [
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens sapiens",
+            "Homo neanderthalensis"
+        ],
+        "answer": 2,
+        "explanation": "Modern humans are Homo sapiens sapiens."
+    },
+    {
+        "id": 41,
+        "question": "Speciation occurs due to",
+        "options": [
+            "Mutation only",
+            "Reproductive isolation",
+            "Migration",
+            "Random mating"
+        ],
+        "answer": 1,
+        "explanation": "Reproductive isolation leads to speciation."
+    },
+    {
+        "id": 42,
+        "question": "Geographical isolation is important in",
+        "options": [
+            "Sympatric speciation",
+            "Allopatric speciation",
+            "Hybridization",
+            "Convergent evolution"
+        ],
+        "answer": 1,
+        "explanation": "Allopatric speciation involves geographical isolation."
+    },
+    {
+        "id": 43,
+        "question": "Which isolating mechanism prevents mating?",
+        "options": [
+            "Gametic isolation",
+            "Temporal isolation",
+            "Mechanical isolation",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All listed mechanisms prevent successful mating."
+    },
+    {
+        "id": 44,
+        "question": "Evolution at molecular level involves",
+        "options": [
+            "DNA changes",
+            "Protein synthesis",
+            "Cell division",
+            "Meiosis"
+        ],
+        "answer": 0,
+        "explanation": "Evolution occurs due to changes in DNA."
+    },
+    {
+        "id": 45,
+        "question": "Neutral mutations are explained by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Kimura",
+            "Mendel"
+        ],
+        "answer": 2,
+        "explanation": "Motoo Kimura proposed neutral theory of molecular evolution."
+    },
+    {
+        "id": 46,
+        "question": "Which process increases genetic variation?",
+        "options": [
+            "Mutation",
+            "Inbreeding",
+            "Selection",
+            "Drift"
+        ],
+        "answer": 0,
+        "explanation": "Mutation introduces new alleles."
+    },
+    {
+        "id": 47,
+        "question": "Directional selection shifts the mean towards",
+        "options": [
+            "Both extremes",
+            "One extreme",
+            "Middle",
+            "No change"
+        ],
+        "answer": 1,
+        "explanation": "Directional selection favors one extreme phenotype."
+    },
+    {
+        "id": 48,
+        "question": "Stabilizing selection favors",
+        "options": [
+            "Extreme phenotypes",
+            "Intermediate phenotype",
+            "New phenotypes",
+            "Mutants"
+        ],
+        "answer": 1,
+        "explanation": "Stabilizing selection favors average individuals."
+    },
+    {
+        "id": 49,
+        "question": "Disruptive selection favors",
+        "options": [
+            "Intermediate",
+            "One extreme",
+            "Both extremes",
+            "No phenotype"
+        ],
+        "answer": 2,
+        "explanation": "Disruptive selection favors both extremes."
+    },
+    {
+        "id": 50,
+        "question": "Which selection increases population variance?",
+        "options": [
+            "Stabilizing",
+            "Directional",
+            "Disruptive",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Disruptive selection increases variance."
+    },
+    {
+        "id": 51,
+        "question": "Homologous structures indicate",
+        "options": [
+            "Convergent evolution",
+            "Common ancestry",
+            "Adaptive radiation only",
+            "Similar function"
+        ],
+        "answer": 1,
+        "explanation": "Homologous organs indicate common ancestry."
+    },
+    {
+        "id": 52,
+        "question": "Analogous structures indicate",
+        "options": [
+            "Common ancestry",
+            "Divergent evolution",
+            "Convergent evolution",
+            "Adaptive radiation"
+        ],
+        "answer": 2,
+        "explanation": "Analogous organs arise due to convergent evolution."
+    },
+    {
+        "id": 53,
+        "question": "Vestigial organs are",
+        "options": [
+            "Non-functional",
+            "Functional",
+            "Newly evolved",
+            "Homologous"
+        ],
+        "answer": 0,
+        "explanation": "Vestigial organs have lost their function."
+    },
+    {
+        "id": 54,
+        "question": "Appendix in humans is considered",
+        "options": [
+            "Analogous",
+            "Homologous",
+            "Vestigial",
+            "Atavistic"
+        ],
+        "answer": 2,
+        "explanation": "Appendix is vestigial in humans."
+    },
+    {
+        "id": 55,
+        "question": "Evolutionary relationship is best shown by",
+        "options": [
+            "Morphology",
+            "Anatomy",
+            "DNA sequence",
+            "Physiology"
+        ],
+        "answer": 2,
+        "explanation": "DNA sequence comparison best reflects evolutionary relationship."
+    },
+    {
+        "id": 56,
+        "question": "Which is an example of adaptive radiation in mammals?",
+        "options": [
+            "Horse evolution",
+            "Bat and bird wings",
+            "Camel adaptation",
+            "Human evolution"
+        ],
+        "answer": 0,
+        "explanation": "Evolution of horse shows adaptive radiation."
+    },
+    {
+        "id": 57,
+        "question": "Evolution of horse shows change in",
+        "options": [
+            "Toe number",
+            "Body size",
+            "Teeth structure",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Horse evolution involved multiple structural changes."
+    },
+    {
+        "id": 58,
+        "question": "Which era saw origin of life?",
+        "options": [
+            "Precambrian",
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic"
+        ],
+        "answer": 0,
+        "explanation": "Life originated in Precambrian era."
+    },
+    {
+        "id": 59,
+        "question": "First multicellular organisms appeared in",
+        "options": [
+            "Precambrian",
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic"
+        ],
+        "answer": 0,
+        "explanation": "Multicellular life appeared late in Precambrian."
+    },
+    {
+        "id": 60,
+        "question": "Which period is known for explosion of life forms?",
+        "options": [
+            "Cambrian",
+            "Jurassic",
+            "Triassic",
+            "Permian"
+        ],
+        "answer": 0,
+        "explanation": "Cambrian explosion refers to sudden diversification of life."
+    },
+    {
+        "id": 61,
+        "question": "Extinction of dinosaurs occurred at end of",
+        "options": [
+            "Jurassic",
+            "Triassic",
+            "Cretaceous",
+            "Permian"
+        ],
+        "answer": 2,
+        "explanation": "Dinosaurs became extinct at end of Cretaceous."
+    },
+    {
+        "id": 62,
+        "question": "Which is a living fossil?",
+        "options": [
+            "Peripatus",
+            "Latimeria",
+            "Archaeopteryx",
+            "Ichthyosaurus"
+        ],
+        "answer": 1,
+        "explanation": "Latimeria is considered a living fossil."
+    },
+    {
+        "id": 63,
+        "question": "Coelacanth is scientifically called",
+        "options": [
+            "Latimeria chalumnae",
+            "Peripatus",
+            "Limulus",
+            "Sphenodon"
+        ],
+        "answer": 0,
+        "explanation": "Coelacanth is Latimeria chalumnae."
+    },
+    {
+        "id": 64,
+        "question": "Which is a connecting link between annelida and arthropoda?",
+        "options": [
+            "Peripatus",
+            "Limulus",
+            "Balanoglossus",
+            "Archaeopteryx"
+        ],
+        "answer": 0,
+        "explanation": "Peripatus shows characters of annelids and arthropods."
+    },
+    {
+        "id": 65,
+        "question": "Balanoglossus connects",
+        "options": [
+            "Chordata and non-chordata",
+            "Annelida and arthropoda",
+            "Reptiles and birds",
+            "Fish and amphibians"
+        ],
+        "answer": 0,
+        "explanation": "Balanoglossus shows chordate and non-chordate features."
+    },
+    {
+        "id": 66,
+        "question": "Which factor reduces genetic variation?",
+        "options": [
+            "Mutation",
+            "Inbreeding",
+            "Gene flow",
+            "Recombination"
+        ],
+        "answer": 1,
+        "explanation": "Inbreeding reduces genetic variation."
+    },
+    {
+        "id": 67,
+        "question": "Which is NOT a postzygotic barrier?",
+        "options": [
+            "Hybrid inviability",
+            "Hybrid sterility",
+            "Temporal isolation",
+            "Hybrid breakdown"
+        ],
+        "answer": 2,
+        "explanation": "Temporal isolation is prezygotic barrier."
+    },
+    {
+        "id": 68,
+        "question": "Speciation without geographical isolation is",
+        "options": [
+            "Allopatric",
+            "Sympatric",
+            "Parapatric",
+            "Peripatric"
+        ],
+        "answer": 1,
+        "explanation": "Sympatric speciation occurs without physical isolation."
+    },
+    {
+        "id": 69,
+        "question": "Evolutionary fitness refers to",
+        "options": [
+            "Physical strength",
+            "Ability to survive and reproduce",
+            "Longevity",
+            "Body size"
+        ],
+        "answer": 1,
+        "explanation": "Fitness is reproductive success."
+    },
+    {
+        "id": 70,
+        "question": "Survival of the fittest means",
+        "options": [
+            "Strongest survive",
+            "Most intelligent survive",
+            "Best adapted reproduce",
+            "Largest survive"
+        ],
+        "answer": 2,
+        "explanation": "Fittest are those best adapted to environment."
+    },
+    {
+        "id": 71,
+        "question": "Which organism is used in experimental evolution studies?",
+        "options": [
+            "Drosophila",
+            "Frog",
+            "Rabbit",
+            "Human"
+        ],
+        "answer": 0,
+        "explanation": "Drosophila is commonly used in evolution studies."
+    },
+    {
+        "id": 72,
+        "question": "Peppered moth example involves change in",
+        "options": [
+            "Genotype",
+            "Phenotype",
+            "Allele frequency",
+            "Chromosome number"
+        ],
+        "answer": 2,
+        "explanation": "Natural selection changed allele frequencies."
+    },
+    {
+        "id": 73,
+        "question": "Which statement about mutations is correct?",
+        "options": [
+            "Always harmful",
+            "Always beneficial",
+            "Random",
+            "Directed"
+        ],
+        "answer": 2,
+        "explanation": "Mutations are random events."
+    },
+    {
+        "id": 74,
+        "question": "Macroevolution refers to",
+        "options": [
+            "Small genetic changes",
+            "Speciation events",
+            "Population genetics",
+            "Daily variation"
+        ],
+        "answer": 1,
+        "explanation": "Macroevolution involves large scale changes like speciation."
+    },
+    {
+        "id": 75,
+        "question": "Microevolution occurs at level of",
+        "options": [
+            "Species",
+            "Population",
+            "Genus",
+            "Family"
+        ],
+        "answer": 1,
+        "explanation": "Microevolution refers to changes within populations."
+    },
+    {
+        "id": 76,
+        "question": "Which evidence is provided by embryos?",
+        "options": [
+            "Comparative anatomy",
+            "Embryological evidence",
+            "Paleontological evidence",
+            "Molecular evidence"
+        ],
+        "answer": 1,
+        "explanation": "Similar embryonic stages indicate common ancestry."
+    },
+    {
+        "id": 77,
+        "question": "Which scientist proposed theory of pangenesis?",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Mendel",
+            "Weismann"
+        ],
+        "answer": 0,
+        "explanation": "Darwin proposed pangenesis."
+    },
+    {
+        "id": 78,
+        "question": "Weismann disproved inheritance of acquired characters using",
+        "options": [
+            "Mouse tail experiment",
+            "Giraffe neck",
+            "Peppered moth",
+            "Drosophila"
+        ],
+        "answer": 0,
+        "explanation": "Weismann cut tails of mice for generations."
+    },
+    {
+        "id": 79,
+        "question": "Which structure shows vestigial nature in whales?",
+        "options": [
+            "Pelvic bones",
+            "Gills",
+            "Wings",
+            "Scales"
+        ],
+        "answer": 0,
+        "explanation": "Pelvic bones are vestigial in whales."
+    },
+    {
+        "id": 80,
+        "question": "Evolutionary history of organisms is called",
+        "options": [
+            "Phylogeny",
+            "Ontogeny",
+            "Taxonomy",
+            "Systematics"
+        ],
+        "answer": 0,
+        "explanation": "Phylogeny refers to evolutionary history."
+    },
+    {
+        "id": 81,
+        "question": "Ontogeny recapitulates phylogeny means",
+        "options": [
+            "Development repeats evolution",
+            "Evolution repeats development",
+            "Embryo forms adult",
+            "No relation"
+        ],
+        "answer": 0,
+        "explanation": "Haeckel proposed that embryonic development repeats evolutionary history."
+    },
+    {
+        "id": 82,
+        "question": "Which era had dominance of amphibians?",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 0,
+        "explanation": "Paleozoic is age of amphibians."
+    },
+    {
+        "id": 83,
+        "question": "Which organism is considered earliest human ancestor?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 0,
+        "explanation": "Australopithecus is earliest human ancestor mentioned in NCERT."
+    },
+    {
+        "id": 84,
+        "question": "Bipedal locomotion first appeared in",
+        "options": [
+            "Homo erectus",
+            "Homo habilis",
+            "Australopithecus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Australopithecus showed bipedal locomotion."
+    },
+    {
+        "id": 85,
+        "question": "Tool making ability was first seen in",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 1,
+        "explanation": "Homo habilis was the first tool maker."
+    },
+    {
+        "id": 86,
+        "question": "Which hominid had smallest brain size?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 0,
+        "explanation": "Australopithecus had smallest brain size."
+    },
+    {
+        "id": 87,
+        "question": "Which period marks appearance of Homo sapiens?",
+        "options": [
+            "Jurassic",
+            "Cretaceous",
+            "Pleistocene",
+            "Holocene"
+        ],
+        "answer": 2,
+        "explanation": "Modern humans appeared during Pleistocene."
+    },
+    {
+        "id": 88,
+        "question": "Which evolutionary concept explains similarity due to function?",
+        "options": [
+            "Homology",
+            "Analogy",
+            "Phylogeny",
+            "Ontogeny"
+        ],
+        "answer": 1,
+        "explanation": "Analogy refers to similarity due to function."
+    },
+    {
+        "id": 89,
+        "question": "Which is an example of convergent evolution?",
+        "options": [
+            "Bat and bird wings",
+            "Forelimbs of mammals",
+            "Horse evolution",
+            "Darwin’s finches"
+        ],
+        "answer": 0,
+        "explanation": "Bat and bird wings evolved independently for flight."
+    },
+    {
+        "id": 90,
+        "question": "Which is NOT a homologous structure?",
+        "options": [
+            "Human arm",
+            "Whale flipper",
+            "Bat wing",
+            "Butterfly wing"
+        ],
+        "answer": 3,
+        "explanation": "Butterfly wing is not homologous to mammalian forelimbs."
+    },
+    {
+        "id": 91,
+        "question": "Which evolutionary force is most important in small populations?",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Genetic drift",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift has strong effect in small populations."
+    },
+    {
+        "id": 92,
+        "question": "Speciation due to polyploidy is common in",
+        "options": [
+            "Animals",
+            "Plants",
+            "Fungi",
+            "Bacteria"
+        ],
+        "answer": 1,
+        "explanation": "Polyploidy-driven speciation is common in plants."
+    },
+    {
+        "id": 93,
+        "question": "Which term describes loss of species?",
+        "options": [
+            "Speciation",
+            "Adaptation",
+            "Extinction",
+            "Radiation"
+        ],
+        "answer": 2,
+        "explanation": "Extinction refers to disappearance of species."
+    },
+    {
+        "id": 94,
+        "question": "Mass extinctions are associated with",
+        "options": [
+            "Stable environment",
+            "Sudden environmental changes",
+            "Gradual evolution",
+            "Adaptive radiation"
+        ],
+        "answer": 1,
+        "explanation": "Mass extinctions occur due to sudden environmental changes."
+    },
+    {
+        "id": 95,
+        "question": "Evolutionary success of mammals is due to",
+        "options": [
+            "Warm-bloodedness",
+            "Parental care",
+            "Hair",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Multiple adaptive traits contributed to mammalian success."
+    },
+    {
+        "id": 96,
+        "question": "Which statement about evolution is correct?",
+        "options": [
+            "Individuals evolve",
+            "Populations evolve",
+            "Genes evolve alone",
+            "Species appear suddenly"
+        ],
+        "answer": 1,
+        "explanation": "Evolution occurs at population level."
+    },
+    {
+        "id": 97,
+        "question": "Which is example of artificial selection?",
+        "options": [
+            "Peppered moth",
+            "Dog breeds",
+            "Darwin’s finches",
+            "Horse evolution"
+        ],
+        "answer": 1,
+        "explanation": "Dog breeds are produced by artificial selection."
+    },
+    {
+        "id": 98,
+        "question": "Selective breeding is controlled by",
+        "options": [
+            "Nature",
+            "Environment",
+            "Humans",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "Artificial selection is controlled by humans."
+    },
+    {
+        "id": 99,
+        "question": "Evolution explains diversity at level of",
+        "options": [
+            "Cells",
+            "Individuals",
+            "Populations and species",
+            "Organs"
+        ],
+        "answer": 2,
+        "explanation": "Evolution explains diversity of populations and species."
+    },
+    {
+        "id": 100,
+        "question": "Which concept links evolution and classification?",
+        "options": [
+            "Taxonomy",
+            "Phylogeny",
+            "Morphology",
+            "Anatomy"
+        ],
+        "answer": 1,
+        "explanation": "Phylogeny links evolutionary history with classification."
+    },
+    {
+        "id": 101,
+        "question": "According to NCERT, variation arises due to",
+        "options": [
+            "Mutation and recombination",
+            "Natural selection only",
+            "Migration only",
+            "Isolation only"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states that mutation and recombination are primary sources of variation."
+    },
+    {
+        "id": 102,
+        "question": "Which process introduces new alleles into a population?",
+        "options": [
+            "Mutation",
+            "Genetic drift",
+            "Selection",
+            "Isolation"
+        ],
+        "answer": 0,
+        "explanation": "Mutation creates new alleles."
+    },
+    {
+        "id": 103,
+        "question": "Recombination occurs during",
+        "options": [
+            "Mitosis",
+            "Binary fission",
+            "Meiosis",
+            "Asexual reproduction"
+        ],
+        "answer": 2,
+        "explanation": "Recombination occurs during meiosis."
+    },
+    {
+        "id": 104,
+        "question": "Natural selection acts on",
+        "options": [
+            "Genotype",
+            "Phenotype",
+            "DNA directly",
+            "Alleles only"
+        ],
+        "answer": 1,
+        "explanation": "Selection acts on expressed phenotypes."
+    },
+    {
+        "id": 105,
+        "question": "Which condition is essential for natural selection?",
+        "options": [
+            "Variation",
+            "Large population",
+            "Random mating",
+            "No mutation"
+        ],
+        "answer": 0,
+        "explanation": "Variation is essential for natural selection to operate."
+    },
+    {
+        "id": 106,
+        "question": "Which is an example of directional selection?",
+        "options": [
+            "Human birth weight",
+            "Industrial melanism",
+            "Sickle cell anemia",
+            "Stabilized traits"
+        ],
+        "answer": 1,
+        "explanation": "Industrial melanism is an example of directional selection."
+    },
+    {
+        "id": 107,
+        "question": "Sickle cell anemia persists in population due to",
+        "options": [
+            "Directional selection",
+            "Stabilizing selection",
+            "Disruptive selection",
+            "Balanced polymorphism"
+        ],
+        "answer": 3,
+        "explanation": "Heterozygote advantage maintains sickle cell allele."
+    },
+    {
+        "id": 108,
+        "question": "Balanced polymorphism is maintained by",
+        "options": [
+            "Mutation only",
+            "Heterozygote advantage",
+            "Genetic drift",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Heterozygote advantage maintains multiple alleles."
+    },
+    {
+        "id": 109,
+        "question": "Which genotype has highest fitness in malaria-endemic areas?",
+        "options": [
+            "HbA HbA",
+            "HbA HbS",
+            "HbS HbS",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "HbA HbS heterozygotes are resistant to malaria."
+    },
+    {
+        "id": 110,
+        "question": "Which evolutionary force is non-directional?",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Genetic drift",
+            "Directional selection"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift is random and non-directional."
+    },
+    {
+        "id": 111,
+        "question": "Population bottleneck leads to",
+        "options": [
+            "Increased variation",
+            "Decreased variation",
+            "No change",
+            "Speciation always"
+        ],
+        "answer": 1,
+        "explanation": "Bottleneck reduces genetic variation."
+    },
+    {
+        "id": 112,
+        "question": "Which situation best represents genetic drift?",
+        "options": [
+            "Large stable population",
+            "Small isolated population",
+            "Migrating population",
+            "Highly selected population"
+        ],
+        "answer": 1,
+        "explanation": "Drift has strong effect in small isolated populations."
+    },
+    {
+        "id": 113,
+        "question": "Founder effect occurs when",
+        "options": [
+            "Population increases suddenly",
+            "Few individuals colonize new area",
+            "Mutation rate increases",
+            "Selection becomes strong"
+        ],
+        "answer": 1,
+        "explanation": "Founder effect occurs when few individuals start a new population."
+    },
+    {
+        "id": 114,
+        "question": "Gene flow tends to",
+        "options": [
+            "Increase differences between populations",
+            "Decrease differences between populations",
+            "Cause mutation",
+            "Stop evolution"
+        ],
+        "answer": 1,
+        "explanation": "Gene flow homogenizes populations."
+    },
+    {
+        "id": 115,
+        "question": "Reproductive isolation is essential for",
+        "options": [
+            "Evolution",
+            "Speciation",
+            "Mutation",
+            "Migration"
+        ],
+        "answer": 1,
+        "explanation": "Speciation requires reproductive isolation."
+    },
+    {
+        "id": 116,
+        "question": "Temporal isolation occurs when",
+        "options": [
+            "Mating seasons differ",
+            "Gametes fail to fuse",
+            "Hybrids are sterile",
+            "Habitats differ"
+        ],
+        "answer": 0,
+        "explanation": "Temporal isolation involves different breeding times."
+    },
+    {
+        "id": 117,
+        "question": "Mechanical isolation refers to",
+        "options": [
+            "Different mating times",
+            "Incompatible reproductive organs",
+            "Gamete death",
+            "Hybrid inviability"
+        ],
+        "answer": 1,
+        "explanation": "Mechanical isolation involves structural incompatibility."
+    },
+    {
+        "id": 118,
+        "question": "Hybrid sterility is an example of",
+        "options": [
+            "Prezygotic barrier",
+            "Postzygotic barrier",
+            "Behavioral isolation",
+            "Temporal isolation"
+        ],
+        "answer": 1,
+        "explanation": "Hybrid sterility occurs after fertilization."
+    },
+    {
+        "id": 119,
+        "question": "Mule sterility represents",
+        "options": [
+            "Hybrid inviability",
+            "Hybrid sterility",
+            "Gametic isolation",
+            "Mechanical isolation"
+        ],
+        "answer": 1,
+        "explanation": "Mule is viable but sterile."
+    },
+    {
+        "id": 120,
+        "question": "Which type of speciation is fastest in plants?",
+        "options": [
+            "Allopatric",
+            "Sympatric",
+            "Peripatric",
+            "Parapatric"
+        ],
+        "answer": 1,
+        "explanation": "Sympatric speciation via polyploidy is rapid in plants."
+    },
+    {
+        "id": 121,
+        "question": "Polyploidy involves",
+        "options": [
+            "Extra chromosomes",
+            "Loss of chromosomes",
+            "Mutation of genes",
+            "Chromosomal inversion"
+        ],
+        "answer": 0,
+        "explanation": "Polyploidy involves addition of whole chromosome sets."
+    },
+    {
+        "id": 122,
+        "question": "Polyploidy leads to immediate reproductive isolation because",
+        "options": [
+            "Individuals die",
+            "Gametes fail to form",
+            "Chromosome pairing fails",
+            "Selection removes them"
+        ],
+        "answer": 2,
+        "explanation": "Mismatch in chromosome pairing causes isolation."
+    },
+    {
+        "id": 123,
+        "question": "Which organisms show polyploidy most commonly?",
+        "options": [
+            "Animals",
+            "Plants",
+            "Bacteria",
+            "Viruses"
+        ],
+        "answer": 1,
+        "explanation": "Polyploidy is common in plants."
+    },
+    {
+        "id": 124,
+        "question": "Adaptive radiation results in",
+        "options": [
+            "Many species from one ancestor",
+            "One species from many ancestors",
+            "No speciation",
+            "Extinction"
+        ],
+        "answer": 0,
+        "explanation": "Adaptive radiation leads to diversification from a common ancestor."
+    },
+    {
+        "id": 125,
+        "question": "Australian marsupials are example of",
+        "options": [
+            "Convergent evolution",
+            "Adaptive radiation",
+            "Artificial selection",
+            "Genetic drift"
+        ],
+        "answer": 1,
+        "explanation": "Marsupials diversified via adaptive radiation."
+    },
+    {
+        "id": 126,
+        "question": "Placental mammals and marsupials show",
+        "options": [
+            "Homology",
+            "Analogy",
+            "Parallel evolution",
+            "Adaptive radiation"
+        ],
+        "answer": 2,
+        "explanation": "They evolved similar traits independently in different regions."
+    },
+    {
+        "id": 127,
+        "question": "Parallel evolution differs from convergent evolution because",
+        "options": [
+            "Ancestors are related",
+            "Functions differ",
+            "Environment differs",
+            "No similarity occurs"
+        ],
+        "answer": 0,
+        "explanation": "Parallel evolution occurs in related lineages."
+    },
+    {
+        "id": 128,
+        "question": "Which organ provides anatomical evidence of evolution?",
+        "options": [
+            "Heart",
+            "Forelimbs",
+            "Brain",
+            "Liver"
+        ],
+        "answer": 1,
+        "explanation": "Forelimbs show homologous structures."
+    },
+    {
+        "id": 129,
+        "question": "Which evidence is based on similarities in embryos?",
+        "options": [
+            "Morphological",
+            "Anatomical",
+            "Embryological",
+            "Molecular"
+        ],
+        "answer": 2,
+        "explanation": "Embryological evidence is based on embryo similarities."
+    },
+    {
+        "id": 130,
+        "question": "Which germ layer similarity supports common ancestry?",
+        "options": [
+            "Ectoderm",
+            "Mesoderm",
+            "Endoderm",
+            "All germ layers"
+        ],
+        "answer": 3,
+        "explanation": "Similarity of all germ layers supports common ancestry."
+    },
+    {
+        "id": 131,
+        "question": "Which molecular molecule is compared for evolutionary relationships?",
+        "options": [
+            "Lipids",
+            "Carbohydrates",
+            "Proteins and DNA",
+            "Vitamins"
+        ],
+        "answer": 2,
+        "explanation": "Proteins and DNA sequences are compared."
+    },
+    {
+        "id": 132,
+        "question": "Cytochrome c comparison indicates",
+        "options": [
+            "Physiology",
+            "Ecology",
+            "Evolutionary relationship",
+            "Adaptation"
+        ],
+        "answer": 2,
+        "explanation": "Cytochrome c similarity reflects evolutionary closeness."
+    },
+    {
+        "id": 133,
+        "question": "Greater similarity in DNA indicates",
+        "options": [
+            "Greater difference",
+            "Closer relationship",
+            "No relation",
+            "Recent mutation"
+        ],
+        "answer": 1,
+        "explanation": "More similar DNA means closer evolutionary relationship."
+    },
+    {
+        "id": 134,
+        "question": "Fossils provide evidence for",
+        "options": [
+            "Physiology",
+            "Behavior",
+            "Evolutionary history",
+            "Ecology"
+        ],
+        "answer": 2,
+        "explanation": "Fossils reveal evolutionary history."
+    },
+    {
+        "id": 135,
+        "question": "Which fossil shows both fish and amphibian characters?",
+        "options": [
+            "Ichthyostega",
+            "Archaeopteryx",
+            "Peripatus",
+            "Latimeria"
+        ],
+        "answer": 0,
+        "explanation": "Ichthyostega is a connecting link between fish and amphibians."
+    },
+    {
+        "id": 136,
+        "question": "Which organism is considered a living fossil?",
+        "options": [
+            "Peripatus",
+            "Latimeria",
+            "Archaeopteryx",
+            "Ichthyostega"
+        ],
+        "answer": 1,
+        "explanation": "Latimeria is a living fossil."
+    },
+    {
+        "id": 137,
+        "question": "Which era saw origin of mammals?",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Mammals originated in Mesozoic era."
+    },
+    {
+        "id": 138,
+        "question": "Dominance of dinosaurs was during",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Dinosaurs dominated during Mesozoic era."
+    },
+    {
+        "id": 139,
+        "question": "Which period is called age of fishes?",
+        "options": [
+            "Cambrian",
+            "Ordovician",
+            "Devonian",
+            "Carboniferous"
+        ],
+        "answer": 2,
+        "explanation": "Devonian is known as age of fishes."
+    },
+    {
+        "id": 140,
+        "question": "Which era is known as age of amphibians?",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 0,
+        "explanation": "Paleozoic era is age of amphibians."
+    },
+    {
+        "id": 141,
+        "question": "Which hominid showed bipedal posture?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 0,
+        "explanation": "Australopithecus had bipedal posture."
+    },
+    {
+        "id": 142,
+        "question": "Which hominid had tool-making ability?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 1,
+        "explanation": "Homo habilis was first tool maker."
+    },
+    {
+        "id": 143,
+        "question": "Which hominid migrated out of Africa?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Homo erectus migrated out of Africa."
+    },
+    {
+        "id": 144,
+        "question": "Neanderthals became extinct due to",
+        "options": [
+            "Climate change",
+            "Competition with Homo sapiens",
+            "Disease",
+            "Unknown reasons"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions competition with Homo sapiens."
+    },
+    {
+        "id": 145,
+        "question": "Which hominid practiced burial of dead?",
+        "options": [
+            "Homo habilis",
+            "Homo erectus",
+            "Neanderthals",
+            "Australopithecus"
+        ],
+        "answer": 2,
+        "explanation": "Neanderthals buried their dead."
+    },
+    {
+        "id": 146,
+        "question": "Modern humans evolved around",
+        "options": [
+            "1 million years ago",
+            "5 million years ago",
+            "2 lakh years ago",
+            "10,000 years ago"
+        ],
+        "answer": 2,
+        "explanation": "Homo sapiens evolved about 2 lakh years ago."
+    },
+    {
+        "id": 147,
+        "question": "Evolutionary success depends on",
+        "options": [
+            "Body size",
+            "Longevity",
+            "Reproductive fitness",
+            "Strength"
+        ],
+        "answer": 2,
+        "explanation": "Fitness refers to reproductive success."
+    },
+    {
+        "id": 148,
+        "question": "Which process leads to formation of new species?",
+        "options": [
+            "Mutation",
+            "Speciation",
+            "Selection",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Speciation leads to new species formation."
+    },
+    {
+        "id": 149,
+        "question": "Which factor does NOT change allele frequency?",
+        "options": [
+            "Mutation",
+            "Migration",
+            "Random mating",
+            "Selection"
+        ],
+        "answer": 2,
+        "explanation": "Random mating alone does not change allele frequency."
+    },
+    {
+        "id": 150,
+        "question": "Hardy-Weinberg equilibrium applies to",
+        "options": [
+            "Individuals",
+            "Populations",
+            "Species",
+            "Communities"
+        ],
+        "answer": 1,
+        "explanation": "The principle applies to populations."
+    },
+    {
+        "id": 151,
+        "question": "Which condition violates Hardy-Weinberg equilibrium?",
+        "options": [
+            "Large population",
+            "Random mating",
+            "No selection",
+            "Gene flow"
+        ],
+        "answer": 3,
+        "explanation": "Gene flow disturbs equilibrium."
+    },
+    {
+        "id": 152,
+        "question": "Which term describes change in allele frequency over time?",
+        "options": [
+            "Speciation",
+            "Evolution",
+            "Adaptation",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Evolution is change in allele frequency."
+    },
+    {
+        "id": 153,
+        "question": "Which process leads to adaptation?",
+        "options": [
+            "Mutation",
+            "Natural selection",
+            "Drift",
+            "Migration"
+        ],
+        "answer": 1,
+        "explanation": "Natural selection leads to adaptation."
+    },
+    {
+        "id": 154,
+        "question": "Adaptations are",
+        "options": [
+            "Always perfect",
+            "Environment-specific",
+            "Temporary",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Adaptations suit specific environments."
+    },
+    {
+        "id": 155,
+        "question": "Which adaptation is seen in desert animals?",
+        "options": [
+            "Thick fur",
+            "Large ears",
+            "Streamlined body",
+            "Webbed feet"
+        ],
+        "answer": 1,
+        "explanation": "Large ears help in heat loss in desert animals."
+    },
+    {
+        "id": 156,
+        "question": "Camouflage is an example of",
+        "options": [
+            "Physiological adaptation",
+            "Behavioral adaptation",
+            "Morphological adaptation",
+            "Evolutionary drift"
+        ],
+        "answer": 2,
+        "explanation": "Camouflage is a structural adaptation."
+    },
+    {
+        "id": 157,
+        "question": "Mimicry helps organisms in",
+        "options": [
+            "Feeding",
+            "Reproduction",
+            "Protection",
+            "Respiration"
+        ],
+        "answer": 2,
+        "explanation": "Mimicry provides protection from predators."
+    },
+    {
+        "id": 158,
+        "question": "Batesian mimicry involves",
+        "options": [
+            "Two harmful species",
+            "Harmless mimicking harmful",
+            "Two harmless species",
+            "Predator mimicry"
+        ],
+        "answer": 1,
+        "explanation": "Harmless species mimics harmful species."
+    },
+    {
+        "id": 159,
+        "question": "Which is an example of Mullerian mimicry?",
+        "options": [
+            "Two harmful species",
+            "Harmless mimicking harmful",
+            "Predator mimicry",
+            "Camouflage"
+        ],
+        "answer": 0,
+        "explanation": "Mullerian mimicry involves two harmful species."
+    },
+    {
+        "id": 160,
+        "question": "Evolution does NOT occur at level of",
+        "options": [
+            "Genes",
+            "Populations",
+            "Species",
+            "Individuals"
+        ],
+        "answer": 3,
+        "explanation": "Individuals do not evolve."
+    },
+    {
+        "id": 161,
+        "question": "Which evolutionary concept explains rapid speciation?",
+        "options": [
+            "Gradualism",
+            "Punctuated equilibrium",
+            "Neutral theory",
+            "Lamarckism"
+        ],
+        "answer": 1,
+        "explanation": "Punctuated equilibrium explains rapid speciation."
+    },
+    {
+        "id": 162,
+        "question": "Punctuated equilibrium was proposed by",
+        "options": [
+            "Darwin",
+            "Eldredge and Gould",
+            "Lamarck",
+            "Kimura"
+        ],
+        "answer": 1,
+        "explanation": "Eldredge and Gould proposed punctuated equilibrium."
+    },
+    {
+        "id": 163,
+        "question": "Gradualism suggests evolution occurs",
+        "options": [
+            "Suddenly",
+            "In jumps",
+            "Slowly and steadily",
+            "Randomly"
+        ],
+        "answer": 2,
+        "explanation": "Gradualism suggests slow, continuous evolution."
+    },
+    {
+        "id": 164,
+        "question": "Which theory explains molecular evolution?",
+        "options": [
+            "Darwinism",
+            "Lamarckism",
+            "Neutral theory",
+            "Pangenesis"
+        ],
+        "answer": 2,
+        "explanation": "Neutral theory explains molecular evolution."
+    },
+    {
+        "id": 165,
+        "question": "Neutral mutations are",
+        "options": [
+            "Always harmful",
+            "Always beneficial",
+            "Neither beneficial nor harmful",
+            "Directional"
+        ],
+        "answer": 2,
+        "explanation": "Neutral mutations have no effect on fitness."
+    },
+    {
+        "id": 166,
+        "question": "Which protein is used for molecular clock?",
+        "options": [
+            "Hemoglobin",
+            "Cytochrome c",
+            "Myosin",
+            "Actin"
+        ],
+        "answer": 1,
+        "explanation": "Cytochrome c is used as molecular clock."
+    },
+    {
+        "id": 167,
+        "question": "Molecular clock measures",
+        "options": [
+            "Age of fossils",
+            "Rate of mutation",
+            "Evolutionary time",
+            "Population size"
+        ],
+        "answer": 2,
+        "explanation": "It estimates evolutionary divergence time."
+    },
+    {
+        "id": 168,
+        "question": "Which event led to origin of eukaryotes?",
+        "options": [
+            "Mutation",
+            "Endosymbiosis",
+            "Selection",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Endosymbiotic theory explains origin of eukaryotes."
+    },
+    {
+        "id": 169,
+        "question": "Mitochondria originated from",
+        "options": [
+            "Viruses",
+            "Prokaryotes",
+            "Nucleus",
+            "Ribosomes"
+        ],
+        "answer": 1,
+        "explanation": "Mitochondria evolved from aerobic prokaryotes."
+    },
+    {
+        "id": 170,
+        "question": "Chloroplasts originated from",
+        "options": [
+            "Cyanobacteria",
+            "Fungi",
+            "Algae",
+            "Viruses"
+        ],
+        "answer": 0,
+        "explanation": "Chloroplasts evolved from cyanobacteria."
+    },
+    {
+        "id": 171,
+        "question": "Which evidence supports endosymbiotic theory?",
+        "options": [
+            "Double membrane",
+            "Own DNA",
+            "70S ribosomes",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All listed features support endosymbiosis."
+    },
+    {
+        "id": 172,
+        "question": "Which process best explains diversity of life?",
+        "options": [
+            "Mutation",
+            "Selection",
+            "Evolution",
+            "Isolation"
+        ],
+        "answer": 2,
+        "explanation": "Evolution explains diversity of life."
+    },
+    {
+        "id": 173,
+        "question": "Which group shows maximum adaptive radiation?",
+        "options": [
+            "Mammals",
+            "Reptiles",
+            "Birds",
+            "Fishes"
+        ],
+        "answer": 0,
+        "explanation": "Mammals show extensive adaptive radiation."
+    },
+    {
+        "id": 174,
+        "question": "Which evolutionary event increased oxygen levels?",
+        "options": [
+            "Chemosynthesis",
+            "Photosynthesis",
+            "Respiration",
+            "Fermentation"
+        ],
+        "answer": 1,
+        "explanation": "Photosynthesis increased atmospheric oxygen."
+    },
+    {
+        "id": 175,
+        "question": "Ozone layer formation allowed",
+        "options": [
+            "Life in water",
+            "Life on land",
+            "Anaerobic life",
+            "Chemosynthesis"
+        ],
+        "answer": 1,
+        "explanation": "Ozone layer protected life on land."
+    },
+    {
+        "id": 176,
+        "question": "Which organism contributed to oxygenation of atmosphere?",
+        "options": [
+            "Fungi",
+            "Cyanobacteria",
+            "Protozoa",
+            "Algae"
+        ],
+        "answer": 1,
+        "explanation": "Cyanobacteria released oxygen."
+    },
+    {
+        "id": 177,
+        "question": "Evolution of aerobic respiration was possible due to",
+        "options": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Methane"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen availability enabled aerobic respiration."
+    },
+    {
+        "id": 178,
+        "question": "Which stage preceded formation of protocells?",
+        "options": [
+            "Organic monomers",
+            "Inorganic molecules",
+            "Living cells",
+            "DNA replication"
+        ],
+        "answer": 0,
+        "explanation": "Organic monomers formed before protocells."
+    },
+    {
+        "id": 179,
+        "question": "Which experiment supported chemical evolution?",
+        "options": [
+            "Pasteur",
+            "Miller-Urey",
+            "Hershey-Chase",
+            "Meselson-Stahl"
+        ],
+        "answer": 1,
+        "explanation": "Miller-Urey experiment supported chemical evolution."
+    },
+    {
+        "id": 180,
+        "question": "First genetic material was probably",
+        "options": [
+            "DNA",
+            "RNA",
+            "Protein",
+            "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "RNA world hypothesis suggests RNA first."
+    },
+    {
+        "id": 181,
+        "question": "RNA world hypothesis proposes that RNA acted as",
+        "options": [
+            "Only catalyst",
+            "Only genetic material",
+            "Both genetic material and catalyst",
+            "Structural molecule"
+        ],
+        "answer": 2,
+        "explanation": "RNA served dual role."
+    },
+    {
+        "id": 182,
+        "question": "Ribozymes are",
+        "options": [
+            "Proteins",
+            "Lipids",
+            "Catalytic RNAs",
+            "DNA enzymes"
+        ],
+        "answer": 2,
+        "explanation": "Ribozymes are catalytic RNAs."
+    },
+    {
+        "id": 183,
+        "question": "Which feature evolved first in cells?",
+        "options": [
+            "Nucleus",
+            "Mitochondria",
+            "Cell membrane",
+            "Chloroplast"
+        ],
+        "answer": 2,
+        "explanation": "Cell membrane formed early to maintain internal environment."
+    },
+    {
+        "id": 184,
+        "question": "Which is a key feature of protocells?",
+        "options": [
+            "Nucleus",
+            "Membrane bound structure",
+            "Chromosomes",
+            "Ribosomes"
+        ],
+        "answer": 1,
+        "explanation": "Protocells had membrane-like structures."
+    },
+    {
+        "id": 185,
+        "question": "Evolutionary theory explains",
+        "options": [
+            "Origin of life",
+            "Diversity of life",
+            "Chemical synthesis",
+            "Cell division"
+        ],
+        "answer": 1,
+        "explanation": "Evolution explains diversity of life forms."
+    },
+    {
+        "id": 186,
+        "question": "Which concept connects embryology and evolution?",
+        "options": [
+            "Ontogeny recapitulates phylogeny",
+            "Gradualism",
+            "Neutral theory",
+            "Punctuated equilibrium"
+        ],
+        "answer": 0,
+        "explanation": "Haeckel’s concept connects development and evolution."
+    },
+    {
+        "id": 187,
+        "question": "Which scientist proposed theory of use and disuse?",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Mendel",
+            "Weismann"
+        ],
+        "answer": 1,
+        "explanation": "Lamarck proposed use and disuse theory."
+    },
+    {
+        "id": 188,
+        "question": "Which experiment disproved Lamarckism?",
+        "options": [
+            "Miller",
+            "Weismann",
+            "Darwin",
+            "Mendel"
+        ],
+        "answer": 1,
+        "explanation": "Weismann’s mouse tail experiment disproved Lamarckism."
+    },
+    {
+        "id": 189,
+        "question": "Which concept emphasizes struggle for existence?",
+        "options": [
+            "Lamarckism",
+            "Darwinism",
+            "Neutral theory",
+            "Mutation theory"
+        ],
+        "answer": 1,
+        "explanation": "Darwinism emphasizes struggle for existence."
+    },
+    {
+        "id": 190,
+        "question": "Mutation theory was proposed by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Hugo de Vries",
+            "Weismann"
+        ],
+        "answer": 2,
+        "explanation": "Hugo de Vries proposed mutation theory."
+    },
+    {
+        "id": 191,
+        "question": "Mutation theory emphasized",
+        "options": [
+            "Small variations",
+            "Sudden variations",
+            "Use and disuse",
+            "Natural selection"
+        ],
+        "answer": 1,
+        "explanation": "Mutation theory focused on sudden variations."
+    },
+    {
+        "id": 192,
+        "question": "Which theory integrates Darwinism and genetics?",
+        "options": [
+            "Lamarckism",
+            "Mutation theory",
+            "Modern synthetic theory",
+            "Neutral theory"
+        ],
+        "answer": 2,
+        "explanation": "Modern synthetic theory combines genetics with Darwinism."
+    },
+    {
+        "id": 193,
+        "question": "Modern synthetic theory includes all EXCEPT",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Natural selection",
+            "Use and disuse"
+        ],
+        "answer": 3,
+        "explanation": "Use and disuse is not included."
+    },
+    {
+        "id": 194,
+        "question": "Which process maintains genetic equilibrium?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Random mating",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Random mating maintains equilibrium."
+    },
+    {
+        "id": 195,
+        "question": "Which process causes adaptation without speciation?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Drift",
+            "Isolation"
+        ],
+        "answer": 0,
+        "explanation": "Selection can cause adaptation within species."
+    },
+    {
+        "id": 196,
+        "question": "Evolutionary change at DNA level is measured by",
+        "options": [
+            "Morphology",
+            "Anatomy",
+            "Molecular clock",
+            "Fossils"
+        ],
+        "answer": 2,
+        "explanation": "Molecular clock measures DNA level changes."
+    },
+    {
+        "id": 197,
+        "question": "Which concept best explains rapid environmental changes?",
+        "options": [
+            "Gradualism",
+            "Punctuated equilibrium",
+            "Neutral theory",
+            "Lamarckism"
+        ],
+        "answer": 1,
+        "explanation": "Punctuated equilibrium explains rapid changes."
+    },
+    {
+        "id": 198,
+        "question": "Which evolutionary force increases similarity between populations?",
+        "options": [
+            "Drift",
+            "Mutation",
+            "Gene flow",
+            "Selection"
+        ],
+        "answer": 2,
+        "explanation": "Gene flow homogenizes populations."
+    },
+    {
+        "id": 199,
+        "question": "Which force can cause fixation of alleles by chance?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Drift",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift can fix alleles randomly."
+    },
+    {
+        "id": 200,
+        "question": "Evolutionary biology primarily studies",
+        "options": [
+            "Individuals",
+            "Populations over time",
+            "Cells",
+            "Organs"
+        ],
+        "answer": 1,
+        "explanation": "Evolutionary biology focuses on populations over generations."
+    },
+    {
+        "id": 201,
+        "question": "According to NCERT, adaptive value of a trait is measured by",
+        "options": [
+            "Survival alone",
+            "Reproductive success",
+            "Body size",
+            "Longevity"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines fitness in terms of reproductive success."
+    },
+    {
+        "id": 202,
+        "question": "Which process directly increases genetic variability during sexual reproduction?",
+        "options": [
+            "Mitosis",
+            "Crossing over",
+            "Binary fission",
+            "Cytokinesis"
+        ],
+        "answer": 1,
+        "explanation": "Crossing over during meiosis generates new gene combinations."
+    },
+    {
+        "id": 203,
+        "question": "Recombination frequency between two genes depends on",
+        "options": [
+            "Mutation rate",
+            "Distance between genes",
+            "Population size",
+            "Selection pressure"
+        ],
+        "answer": 1,
+        "explanation": "Greater distance between genes increases recombination frequency."
+    },
+    {
+        "id": 204,
+        "question": "Which of the following best represents stabilizing selection?",
+        "options": [
+            "Peppered moth",
+            "Human birth weight",
+            "Beak size extremes",
+            "Antibiotic resistance"
+        ],
+        "answer": 1,
+        "explanation": "Average human birth weight is favored by stabilizing selection."
+    },
+    {
+        "id": 205,
+        "question": "In stabilizing selection, the mean of the population",
+        "options": [
+            "Shifts",
+            "Splits",
+            "Remains same",
+            "Disappears"
+        ],
+        "answer": 2,
+        "explanation": "Stabilizing selection maintains the mean phenotype."
+    },
+    {
+        "id": 206,
+        "question": "Disruptive selection results in",
+        "options": [
+            "One peak",
+            "Two peaks",
+            "No variation",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Disruptive selection favors both extremes, creating two peaks."
+    },
+    {
+        "id": 207,
+        "question": "Which selection favors heterozygotes?",
+        "options": [
+            "Directional",
+            "Stabilizing",
+            "Balanced polymorphism",
+            "Disruptive"
+        ],
+        "answer": 2,
+        "explanation": "Balanced polymorphism maintains heterozygotes."
+    },
+    {
+        "id": 208,
+        "question": "Which condition maintains sickle cell allele in population?",
+        "options": [
+            "Mutation only",
+            "Selection against heterozygotes",
+            "Heterozygote advantage",
+            "Genetic drift"
+        ],
+        "answer": 2,
+        "explanation": "Heterozygote advantage maintains the allele."
+    },
+    {
+        "id": 209,
+        "question": "Selection acting against both homozygotes is called",
+        "options": [
+            "Directional",
+            "Stabilizing",
+            "Overdominance",
+            "Underdominance"
+        ],
+        "answer": 2,
+        "explanation": "Overdominance favors heterozygotes."
+    },
+    {
+        "id": 210,
+        "question": "Which factor does NOT create variation?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Random mating",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Random mating alone does not create variation."
+    },
+    {
+        "id": 211,
+        "question": "In Hardy-Weinberg equation p^2 represents",
+        "options": [
+            "Heterozygotes",
+            "Dominant homozygotes",
+            "Recessive homozygotes",
+            "Allele frequency"
+        ],
+        "answer": 1,
+        "explanation": "p^2 is frequency of dominant homozygotes."
+    },
+    {
+        "id": 212,
+        "question": "In Hardy-Weinberg equilibrium, 2pq represents",
+        "options": [
+            "Homozygotes",
+            "Heterozygotes",
+            "Alleles",
+            "Mutants"
+        ],
+        "answer": 1,
+        "explanation": "2pq denotes heterozygote frequency."
+    },
+    {
+        "id": 213,
+        "question": "Which assumption is violated when selection acts?",
+        "options": [
+            "Random mating",
+            "No mutation",
+            "No migration",
+            "Equal survival"
+        ],
+        "answer": 3,
+        "explanation": "Selection implies unequal survival and reproduction."
+    },
+    {
+        "id": 214,
+        "question": "Which evolutionary force can counteract selection?",
+        "options": [
+            "Mutation",
+            "Gene flow",
+            "Isolation",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Gene flow can counter local selection."
+    },
+    {
+        "id": 215,
+        "question": "Small population size mainly enhances effect of",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Genetic drift",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift is stronger in small populations."
+    },
+    {
+        "id": 216,
+        "question": "Bottleneck effect results in",
+        "options": [
+            "Increased heterozygosity",
+            "Loss of alleles",
+            "Speciation",
+            "Adaptation"
+        ],
+        "answer": 1,
+        "explanation": "Bottleneck causes loss of alleles."
+    },
+    {
+        "id": 217,
+        "question": "Which event best illustrates founder effect?",
+        "options": [
+            "Mass migration",
+            "Colonization by few individuals",
+            "Large population growth",
+            "Selection pressure"
+        ],
+        "answer": 1,
+        "explanation": "Few founders establish a new population."
+    },
+    {
+        "id": 218,
+        "question": "Founder effect initially causes",
+        "options": [
+            "High variation",
+            "Reduced variation",
+            "No change",
+            "Speciation always"
+        ],
+        "answer": 1,
+        "explanation": "Limited founders reduce variation."
+    },
+    {
+        "id": 219,
+        "question": "Which isolating mechanism is prezygotic?",
+        "options": [
+            "Hybrid sterility",
+            "Hybrid inviability",
+            "Behavioral isolation",
+            "Hybrid breakdown"
+        ],
+        "answer": 2,
+        "explanation": "Behavioral isolation prevents mating."
+    },
+    {
+        "id": 220,
+        "question": "Which isolating mechanism operates after fertilization?",
+        "options": [
+            "Temporal isolation",
+            "Mechanical isolation",
+            "Gametic isolation",
+            "Hybrid inviability"
+        ],
+        "answer": 3,
+        "explanation": "Hybrid inviability occurs postzygotically."
+    },
+    {
+        "id": 221,
+        "question": "Sympatric speciation commonly involves",
+        "options": [
+            "Geographical barrier",
+            "Polyploidy",
+            "Migration",
+            "Predation"
+        ],
+        "answer": 1,
+        "explanation": "Polyploidy leads to sympatric speciation in plants."
+    },
+    {
+        "id": 222,
+        "question": "Allopatric speciation requires",
+        "options": [
+            "Polyploidy",
+            "Reproductive isolation",
+            "Geographical isolation",
+            "Mutation only"
+        ],
+        "answer": 2,
+        "explanation": "Geographical isolation is essential."
+    },
+    {
+        "id": 223,
+        "question": "Peripatric speciation involves",
+        "options": [
+            "Large population",
+            "Small isolated population at periphery",
+            "No isolation",
+            "Polyploidy"
+        ],
+        "answer": 1,
+        "explanation": "Small peripheral isolates undergo speciation."
+    },
+    {
+        "id": 224,
+        "question": "Parapatric speciation occurs when populations are",
+        "options": [
+            "Completely isolated",
+            "Partially isolated",
+            "Sympatric",
+            "Allopatric"
+        ],
+        "answer": 1,
+        "explanation": "Adjacent populations with limited gene flow."
+    },
+    {
+        "id": 225,
+        "question": "Adaptive radiation is promoted by",
+        "options": [
+            "Stable niches",
+            "Empty niches",
+            "High gene flow",
+            "No variation"
+        ],
+        "answer": 1,
+        "explanation": "Availability of empty niches promotes diversification."
+    },
+    {
+        "id": 226,
+        "question": "Which island group shows classic adaptive radiation?",
+        "options": [
+            "Andaman",
+            "Galapagos",
+            "Madagascar",
+            "Greenland"
+        ],
+        "answer": 1,
+        "explanation": "Darwin studied finches of Galapagos."
+    },
+    {
+        "id": 227,
+        "question": "Convergent evolution results in",
+        "options": [
+            "Homologous organs",
+            "Analogous organs",
+            "Vestigial organs",
+            "Atavism"
+        ],
+        "answer": 1,
+        "explanation": "Convergent evolution produces analogous structures."
+    },
+    {
+        "id": 228,
+        "question": "Divergent evolution leads to",
+        "options": [
+            "Analogous organs",
+            "Homologous organs",
+            "No similarity",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Divergent evolution yields homologous organs."
+    },
+    {
+        "id": 229,
+        "question": "Which pair shows divergent evolution?",
+        "options": [
+            "Bird wing and insect wing",
+            "Human arm and whale flipper",
+            "Bat wing and bird wing",
+            "Shark fin and dolphin flipper"
+        ],
+        "answer": 1,
+        "explanation": "Human arm and whale flipper are homologous."
+    },
+    {
+        "id": 230,
+        "question": "Which pair shows convergent evolution?",
+        "options": [
+            "Forelimbs of mammals",
+            "Bat wing and bird wing",
+            "Horse forelimb series",
+            "Darwin’s finches"
+        ],
+        "answer": 1,
+        "explanation": "Bat and bird wings are analogous."
+    },
+    {
+        "id": 231,
+        "question": "Vestigial organs indicate",
+        "options": [
+            "Future evolution",
+            "Past ancestry",
+            "Convergent evolution",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Vestigial organs reflect ancestral structures."
+    },
+    {
+        "id": 232,
+        "question": "Which human organ is vestigial according to NCERT?",
+        "options": [
+            "Appendix",
+            "Liver",
+            "Heart",
+            "Kidney"
+        ],
+        "answer": 0,
+        "explanation": "Appendix is vestigial in humans."
+    },
+    {
+        "id": 233,
+        "question": "Molecular homology is based on similarity of",
+        "options": [
+            "Organs",
+            "Embryos",
+            "DNA and proteins",
+            "Habitats"
+        ],
+        "answer": 2,
+        "explanation": "DNA and protein sequence similarities indicate homology."
+    },
+    {
+        "id": 234,
+        "question": "Which molecule is commonly used for phylogenetic studies?",
+        "options": [
+            "Starch",
+            "Hemoglobin",
+            "Cytochrome c",
+            "Cellulose"
+        ],
+        "answer": 2,
+        "explanation": "Cytochrome c is widely used."
+    },
+    {
+        "id": 235,
+        "question": "More conserved sequences indicate",
+        "options": [
+            "Distant relationship",
+            "Recent divergence",
+            "No evolution",
+            "High mutation"
+        ],
+        "answer": 1,
+        "explanation": "Conservation suggests recent divergence."
+    },
+    {
+        "id": 236,
+        "question": "Fossil record is incomplete because",
+        "options": [
+            "Fossils do not form",
+            "All organisms fossilize",
+            "Conditions for fossilization are rare",
+            "Dating is impossible"
+        ],
+        "answer": 2,
+        "explanation": "Fossilization requires special conditions."
+    },
+    {
+        "id": 237,
+        "question": "Which fossil connects reptiles and mammals?",
+        "options": [
+            "Archaeopteryx",
+            "Dimetrodon",
+            "Ichthyostega",
+            "Peripatus"
+        ],
+        "answer": 1,
+        "explanation": "Dimetrodon shows reptile-mammal features."
+    },
+    {
+        "id": 238,
+        "question": "Which period witnessed Cambrian explosion?",
+        "options": [
+            "Precambrian",
+            "Cambrian",
+            "Ordovician",
+            "Silurian"
+        ],
+        "answer": 1,
+        "explanation": "Rapid diversification occurred in Cambrian."
+    },
+    {
+        "id": 239,
+        "question": "Age of reptiles corresponds to",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Mesozoic is age of reptiles."
+    },
+    {
+        "id": 240,
+        "question": "Dominance of mammals began in",
+        "options": [
+            "Jurassic",
+            "Cretaceous",
+            "Cenozoic",
+            "Permian"
+        ],
+        "answer": 2,
+        "explanation": "Cenozoic is age of mammals."
+    },
+    {
+        "id": 241,
+        "question": "Which organism is a living fossil as per NCERT?",
+        "options": [
+            "Limulus",
+            "Peripatus",
+            "Latimeria",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All listed are cited as living fossils."
+    },
+    {
+        "id": 242,
+        "question": "Connecting link between annelids and arthropods is",
+        "options": [
+            "Balanoglossus",
+            "Peripatus",
+            "Limulus",
+            "Latimeria"
+        ],
+        "answer": 1,
+        "explanation": "Peripatus shows features of both."
+    },
+    {
+        "id": 243,
+        "question": "Connecting link between chordates and non-chordates is",
+        "options": [
+            "Peripatus",
+            "Balanoglossus",
+            "Archaeopteryx",
+            "Dimetrodon"
+        ],
+        "answer": 1,
+        "explanation": "Balanoglossus shows both features."
+    },
+    {
+        "id": 244,
+        "question": "Which hominid had cranial capacity around 650–800 cc?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 1,
+        "explanation": "Homo habilis had ~650–800 cc brain."
+    },
+    {
+        "id": 245,
+        "question": "Homo erectus had cranial capacity approximately",
+        "options": [
+            "400 cc",
+            "900 cc",
+            "1200 cc",
+            "1400 cc"
+        ],
+        "answer": 1,
+        "explanation": "Homo erectus had about 900 cc cranial capacity."
+    },
+    {
+        "id": 246,
+        "question": "Neanderthals had cranial capacity about",
+        "options": [
+            "800 cc",
+            "900 cc",
+            "1400 cc",
+            "1600 cc"
+        ],
+        "answer": 2,
+        "explanation": "Neanderthals had around 1400 cc."
+    },
+    {
+        "id": 247,
+        "question": "Modern Homo sapiens cranial capacity is about",
+        "options": [
+            "1000 cc",
+            "1200 cc",
+            "1350 cc",
+            "1600 cc"
+        ],
+        "answer": 2,
+        "explanation": "Modern humans average ~1350 cc."
+    },
+    {
+        "id": 248,
+        "question": "Which hominid used fire and lived in caves?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Homo erectus used fire and caves."
+    },
+    {
+        "id": 249,
+        "question": "Which hominid showed cultural development like burial?",
+        "options": [
+            "Homo habilis",
+            "Homo erectus",
+            "Neanderthals",
+            "Australopithecus"
+        ],
+        "answer": 2,
+        "explanation": "Neanderthals practiced burial."
+    },
+    {
+        "id": 250,
+        "question": "Which evolutionary concept links classification to ancestry?",
+        "options": [
+            "Taxonomy",
+            "Systematics",
+            "Phylogeny",
+            "Morphology"
+        ],
+        "answer": 2,
+        "explanation": "Phylogeny reflects ancestry."
+    },
+    {
+        "id": 251,
+        "question": "Evolutionary trees are also called",
+        "options": [
+            "Keys",
+            "Dichotomies",
+            "Phylogenetic trees",
+            "Taxa"
+        ],
+        "answer": 2,
+        "explanation": "They depict phylogenetic relationships."
+    },
+    {
+        "id": 252,
+        "question": "Cladistics classifies organisms based on",
+        "options": [
+            "Analogies",
+            "Shared derived characters",
+            "Habitats",
+            "Size"
+        ],
+        "answer": 1,
+        "explanation": "Cladistics uses shared derived traits."
+    },
+    {
+        "id": 253,
+        "question": "Which trait is considered ancestral?",
+        "options": [
+            "Shared derived",
+            "Unique",
+            "Primitive",
+            "Adaptive"
+        ],
+        "answer": 2,
+        "explanation": "Primitive traits are ancestral."
+    },
+    {
+        "id": 254,
+        "question": "Which concept explains accumulation of neutral mutations?",
+        "options": [
+            "Darwinism",
+            "Neutral theory",
+            "Lamarckism",
+            "Gradualism"
+        ],
+        "answer": 1,
+        "explanation": "Neutral theory explains neutral mutation accumulation."
+    },
+    {
+        "id": 255,
+        "question": "Rate of molecular change is assumed to be",
+        "options": [
+            "Variable",
+            "Constant",
+            "Zero",
+            "Random without pattern"
+        ],
+        "answer": 1,
+        "explanation": "Molecular clock assumes approximate constancy."
+    },
+    {
+        "id": 256,
+        "question": "Endosymbiotic theory explains origin of",
+        "options": [
+            "Prokaryotes",
+            "Eukaryotes",
+            "Viruses",
+            "Prions"
+        ],
+        "answer": 1,
+        "explanation": "Eukaryotes originated via endosymbiosis."
+    },
+    {
+        "id": 257,
+        "question": "Which feature supports mitochondrial endosymbiosis?",
+        "options": [
+            "Linear DNA",
+            "80S ribosomes",
+            "Double membrane",
+            "Absence of DNA"
+        ],
+        "answer": 2,
+        "explanation": "Double membrane supports engulfment origin."
+    },
+    {
+        "id": 258,
+        "question": "Chloroplasts possess",
+        "options": [
+            "Circular DNA",
+            "Linear DNA",
+            "No DNA",
+            "Histones"
+        ],
+        "answer": 0,
+        "explanation": "Chloroplasts have circular DNA."
+    },
+    {
+        "id": 259,
+        "question": "Which organism first performed oxygenic photosynthesis?",
+        "options": [
+            "Algae",
+            "Cyanobacteria",
+            "Plants",
+            "Protozoa"
+        ],
+        "answer": 1,
+        "explanation": "Cyanobacteria performed oxygenic photosynthesis."
+    },
+    {
+        "id": 260,
+        "question": "Increase in atmospheric oxygen led to",
+        "options": [
+            "Anaerobic life",
+            "Ozone layer",
+            "Loss of UV",
+            "Both ozone layer and reduced UV"
+        ],
+        "answer": 3,
+        "explanation": "Ozone formation reduced UV radiation."
+    },
+    {
+        "id": 261,
+        "question": "Which hypothesis suggests RNA preceded DNA?",
+        "options": [
+            "Chemical evolution",
+            "RNA world",
+            "Endosymbiotic",
+            "Neutral"
+        ],
+        "answer": 1,
+        "explanation": "RNA world hypothesis."
+    },
+    {
+        "id": 262,
+        "question": "Ribozymes demonstrate that RNA can act as",
+        "options": [
+            "Template only",
+            "Catalyst only",
+            "Both catalyst and template",
+            "Structural molecule"
+        ],
+        "answer": 2,
+        "explanation": "RNA can be catalytic and informational."
+    },
+    {
+        "id": 263,
+        "question": "Protocells likely formed from",
+        "options": [
+            "Liposomes",
+            "Proteins",
+            "DNA",
+            "Viruses"
+        ],
+        "answer": 0,
+        "explanation": "Liposome-like structures formed protocells."
+    },
+    {
+        "id": 264,
+        "question": "Which property is essential for life emergence?",
+        "options": [
+            "Metabolism",
+            "Consciousness",
+            "Movement",
+            "Photosynthesis"
+        ],
+        "answer": 0,
+        "explanation": "Metabolism is fundamental to life."
+    },
+    {
+        "id": 265,
+        "question": "Which concept explains slow continuous evolution?",
+        "options": [
+            "Punctuated equilibrium",
+            "Gradualism",
+            "Neutral theory",
+            "Mutation theory"
+        ],
+        "answer": 1,
+        "explanation": "Gradualism proposes slow continuous change."
+    },
+    {
+        "id": 266,
+        "question": "Punctuated equilibrium predicts long periods of",
+        "options": [
+            "Rapid change",
+            "Stasis",
+            "Mutation",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Long stasis with brief rapid change."
+    },
+    {
+        "id": 267,
+        "question": "Which scientist emphasized natural selection?",
+        "options": [
+            "Lamarck",
+            "Darwin",
+            "De Vries",
+            "Weismann"
+        ],
+        "answer": 1,
+        "explanation": "Darwin emphasized natural selection."
+    },
+    {
+        "id": 268,
+        "question": "Mutation theory emphasized evolution by",
+        "options": [
+            "Small variations",
+            "Sudden jumps",
+            "Selection",
+            "Recombination"
+        ],
+        "answer": 1,
+        "explanation": "De Vries proposed sudden mutations."
+    },
+    {
+        "id": 269,
+        "question": "Modern synthetic theory combines",
+        "options": [
+            "Darwinism and Lamarckism",
+            "Genetics and Darwinism",
+            "Mutation theory only",
+            "Neutral theory only"
+        ],
+        "answer": 1,
+        "explanation": "It integrates genetics with Darwinism."
+    },
+    {
+        "id": 270,
+        "question": "Which is NOT included in modern synthetic theory?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Natural selection",
+            "Inheritance of acquired characters"
+        ],
+        "answer": 3,
+        "explanation": "Lamarckian inheritance is excluded."
+    },
+    {
+        "id": 271,
+        "question": "Evolutionary change measured in gene frequencies is",
+        "options": [
+            "Microevolution",
+            "Macroevolution",
+            "Speciation",
+            "Radiation"
+        ],
+        "answer": 0,
+        "explanation": "Gene frequency changes are microevolution."
+    },
+    {
+        "id": 272,
+        "question": "Formation of new taxa above species level is",
+        "options": [
+            "Microevolution",
+            "Macroevolution",
+            "Selection",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Macroevolution concerns higher taxa."
+    },
+    {
+        "id": 273,
+        "question": "Which process can cause rapid adaptation?",
+        "options": [
+            "Mutation alone",
+            "Natural selection",
+            "Random mating",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Selection can rapidly favor advantageous traits."
+    },
+    {
+        "id": 274,
+        "question": "Which force increases differences between populations?",
+        "options": [
+            "Gene flow",
+            "Migration",
+            "Selection",
+            "Panmixia"
+        ],
+        "answer": 2,
+        "explanation": "Local selection can increase divergence."
+    },
+    {
+        "id": 275,
+        "question": "Which factor maintains polymorphism?",
+        "options": [
+            "Directional selection",
+            "Balanced selection",
+            "Genetic drift",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Balanced selection maintains polymorphism."
+    },
+    {
+        "id": 276,
+        "question": "Panmixia refers to",
+        "options": [
+            "Random mating",
+            "Inbreeding",
+            "Isolation",
+            "Selection"
+        ],
+        "answer": 0,
+        "explanation": "Panmixia means random mating."
+    },
+    {
+        "id": 277,
+        "question": "Inbreeding increases frequency of",
+        "options": [
+            "Heterozygotes",
+            "Homozygotes",
+            "Mutants",
+            "Alleles"
+        ],
+        "answer": 1,
+        "explanation": "Inbreeding increases homozygosity."
+    },
+    {
+        "id": 278,
+        "question": "Which phenomenon reduces heterozygosity?",
+        "options": [
+            "Outbreeding",
+            "Mutation",
+            "Inbreeding",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Inbreeding reduces heterozygosity."
+    },
+    {
+        "id": 279,
+        "question": "Which adaptation reduces predation risk?",
+        "options": [
+            "Bright coloration",
+            "Camouflage",
+            "Large size",
+            "Slow movement"
+        ],
+        "answer": 1,
+        "explanation": "Camouflage reduces detection."
+    },
+    {
+        "id": 280,
+        "question": "Aposematic coloration indicates",
+        "options": [
+            "Camouflage",
+            "Warning coloration",
+            "Mimicry",
+            "Sexual selection"
+        ],
+        "answer": 1,
+        "explanation": "Warning colors signal toxicity."
+    },
+    {
+        "id": 281,
+        "question": "Mullerian mimicry benefits",
+        "options": [
+            "Predators",
+            "Both species",
+            "Only mimic",
+            "Only model"
+        ],
+        "answer": 1,
+        "explanation": "Both harmful species benefit."
+    },
+    {
+        "id": 282,
+        "question": "Sexual selection primarily affects",
+        "options": [
+            "Survival",
+            "Reproduction",
+            "Mutation rate",
+            "Gene flow"
+        ],
+        "answer": 1,
+        "explanation": "Sexual selection affects mating success."
+    },
+    {
+        "id": 283,
+        "question": "Peacock tail is an example of",
+        "options": [
+            "Natural selection",
+            "Sexual selection",
+            "Camouflage",
+            "Mimicry"
+        ],
+        "answer": 1,
+        "explanation": "Trait favored by mate choice."
+    },
+    {
+        "id": 284,
+        "question": "Which selection may reduce survival but increase mating success?",
+        "options": [
+            "Directional",
+            "Stabilizing",
+            "Sexual selection",
+            "Disruptive"
+        ],
+        "answer": 2,
+        "explanation": "Sexual selection can trade off survival."
+    },
+    {
+        "id": 285,
+        "question": "Evolution explains unity of life through",
+        "options": [
+            "Analogies",
+            "Homologies",
+            "Habitats",
+            "Ecology"
+        ],
+        "answer": 1,
+        "explanation": "Homologies indicate common ancestry."
+    },
+    {
+        "id": 286,
+        "question": "Which statement is correct?",
+        "options": [
+            "Individuals evolve",
+            "Populations evolve",
+            "Genes evolve alone",
+            "Environment evolves"
+        ],
+        "answer": 1,
+        "explanation": "Evolution occurs at population level."
+    },
+    {
+        "id": 287,
+        "question": "Which process increases similarity within a population?",
+        "options": [
+            "Random mating",
+            "Selection",
+            "Mutation",
+            "Migration"
+        ],
+        "answer": 0,
+        "explanation": "Random mating homogenizes within population."
+    },
+    {
+        "id": 288,
+        "question": "Which factor can introduce maladaptive alleles?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Drift",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Mutations can be deleterious."
+    },
+    {
+        "id": 289,
+        "question": "Which evolutionary force is always adaptive?",
+        "options": [
+            "Mutation",
+            "Genetic drift",
+            "Natural selection",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Selection favors adaptive traits."
+    },
+    {
+        "id": 290,
+        "question": "Which process can fix harmful alleles by chance?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Drift can fix alleles randomly."
+    },
+    {
+        "id": 291,
+        "question": "Which concept links development to evolution?",
+        "options": [
+            "Phylogeny",
+            "Ontogeny",
+            "Recapitulation",
+            "Neutral theory"
+        ],
+        "answer": 2,
+        "explanation": "Recapitulation links ontogeny and phylogeny."
+    },
+    {
+        "id": 292,
+        "question": "Which scientist proposed recapitulation theory?",
+        "options": [
+            "Darwin",
+            "Haeckel",
+            "Weismann",
+            "Mendel"
+        ],
+        "answer": 1,
+        "explanation": "Haeckel proposed it."
+    },
+    {
+        "id": 293,
+        "question": "Which evidence compares early embryos of vertebrates?",
+        "options": [
+            "Morphological",
+            "Embryological",
+            "Paleontological",
+            "Molecular"
+        ],
+        "answer": 1,
+        "explanation": "Embryological evidence."
+    },
+    {
+        "id": 294,
+        "question": "Which stage similarity is seen among vertebrate embryos?",
+        "options": [
+            "Adult",
+            "Early embryonic",
+            "Larval",
+            "Fetal only"
+        ],
+        "answer": 1,
+        "explanation": "Early embryos are similar."
+    },
+    {
+        "id": 295,
+        "question": "Which process best explains antibiotic resistance in bacteria?",
+        "options": [
+            "Mutation and selection",
+            "Drift only",
+            "Migration",
+            "Isolation"
+        ],
+        "answer": 0,
+        "explanation": "Mutations selected by antibiotics confer resistance."
+    },
+    {
+        "id": 296,
+        "question": "Which phenomenon illustrates microevolution?",
+        "options": [
+            "Speciation",
+            "Change in allele frequency",
+            "Adaptive radiation",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Microevolution is allele frequency change."
+    },
+    {
+        "id": 297,
+        "question": "Which example reflects artificial selection?",
+        "options": [
+            "Peppered moth",
+            "Antibiotic resistance",
+            "Dog breeds",
+            "Finch beaks"
+        ],
+        "answer": 2,
+        "explanation": "Dog breeds result from human selection."
+    },
+    {
+        "id": 298,
+        "question": "Artificial selection differs from natural selection because it is",
+        "options": [
+            "Random",
+            "Environment-driven",
+            "Human-directed",
+            "Mutation-based"
+        ],
+        "answer": 2,
+        "explanation": "Humans direct artificial selection."
+    },
+    {
+        "id": 299,
+        "question": "Which statement about evolution is incorrect?",
+        "options": [
+            "It is continuous",
+            "It affects populations",
+            "It has no direction",
+            "Individuals evolve"
+        ],
+        "answer": 3,
+        "explanation": "Individuals do not evolve."
+    },
+    {
+        "id": 300,
+        "question": "Evolutionary biology primarily integrates",
+        "options": [
+            "Genetics and ecology",
+            "Physiology and anatomy",
+            "Behavior and ecology",
+            "Taxonomy only"
+        ],
+        "answer": 0,
+        "explanation": "Evolution integrates genetics with ecology over time."
+    },
+    {
+        "id": 301,
+        "question": "According to NCERT, fitness in evolutionary terms is measured by",
+        "options": [
+            "Longevity of individual",
+            "Physical strength",
+            "Number of viable offspring produced",
+            "Size of population"
+        ],
+        "answer": 2,
+        "explanation": "Fitness is measured by reproductive success, i.e., number of viable offspring."
+    },
+    {
+        "id": 302,
+        "question": "Which evolutionary force always operates on existing variation?",
+        "options": [
+            "Mutation",
+            "Genetic drift",
+            "Natural selection",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Natural selection acts on pre-existing variation."
+    },
+    {
+        "id": 303,
+        "question": "Variation that arises due to recombination is called",
+        "options": [
+            "Somatic variation",
+            "Environmental variation",
+            "Genetic variation",
+            "Acquired variation"
+        ],
+        "answer": 2,
+        "explanation": "Recombination produces genetic variation."
+    },
+    {
+        "id": 304,
+        "question": "Which process introduces new genetic combinations without creating new alleles?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Gene flow",
+            "Genetic drift"
+        ],
+        "answer": 1,
+        "explanation": "Recombination reshuffles existing alleles."
+    },
+    {
+        "id": 305,
+        "question": "Which condition favors rapid evolution?",
+        "options": [
+            "No variation",
+            "Long generation time",
+            "Short generation time",
+            "Large stable population"
+        ],
+        "answer": 2,
+        "explanation": "Short generation time allows faster evolutionary change."
+    },
+    {
+        "id": 306,
+        "question": "Which population is most affected by genetic drift?",
+        "options": [
+            "Large panmictic population",
+            "Small isolated population",
+            "Migrating population",
+            "Population under selection"
+        ],
+        "answer": 1,
+        "explanation": "Genetic drift strongly affects small isolated populations."
+    },
+    {
+        "id": 307,
+        "question": "Random change in allele frequency is termed",
+        "options": [
+            "Mutation",
+            "Selection",
+            "Genetic drift",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift is random change in allele frequency."
+    },
+    {
+        "id": 308,
+        "question": "Which evolutionary force can lead to loss of alleles irrespective of fitness?",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift can eliminate alleles by chance."
+    },
+    {
+        "id": 309,
+        "question": "Gene flow results in",
+        "options": [
+            "Increase in variation within population",
+            "Decrease in variation between populations",
+            "Speciation",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Gene flow homogenizes populations, reducing differences."
+    },
+    {
+        "id": 310,
+        "question": "Which situation best maintains Hardy-Weinberg equilibrium?",
+        "options": [
+            "Strong selection",
+            "Random mating",
+            "High mutation rate",
+            "Small population"
+        ],
+        "answer": 1,
+        "explanation": "Random mating is a key condition of equilibrium."
+    },
+    {
+        "id": 311,
+        "question": "Hardy-Weinberg principle applies to",
+        "options": [
+            "Genes",
+            "Individuals",
+            "Populations",
+            "Species"
+        ],
+        "answer": 2,
+        "explanation": "The principle applies at population level."
+    },
+    {
+        "id": 312,
+        "question": "Deviation from Hardy-Weinberg equilibrium indicates",
+        "options": [
+            "Stability",
+            "No evolution",
+            "Evolutionary change",
+            "Extinction"
+        ],
+        "answer": 2,
+        "explanation": "Deviation suggests evolutionary forces are acting."
+    },
+    {
+        "id": 313,
+        "question": "Which factor increases homozygosity in a population?",
+        "options": [
+            "Outbreeding",
+            "Mutation",
+            "Inbreeding",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Inbreeding increases homozygosity."
+    },
+    {
+        "id": 314,
+        "question": "Which process reduces genetic variability?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Inbreeding",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Inbreeding reduces genetic variability."
+    },
+    {
+        "id": 315,
+        "question": "Which isolating mechanism prevents fertilization?",
+        "options": [
+            "Hybrid sterility",
+            "Hybrid inviability",
+            "Gametic isolation",
+            "Hybrid breakdown"
+        ],
+        "answer": 2,
+        "explanation": "Gametic isolation prevents fusion of gametes."
+    },
+    {
+        "id": 316,
+        "question": "Which isolating mechanism acts before mating?",
+        "options": [
+            "Mechanical isolation",
+            "Hybrid inviability",
+            "Hybrid sterility",
+            "Hybrid breakdown"
+        ],
+        "answer": 0,
+        "explanation": "Mechanical isolation prevents mating due to structural differences."
+    },
+    {
+        "id": 317,
+        "question": "Which is a postzygotic reproductive barrier?",
+        "options": [
+            "Temporal isolation",
+            "Behavioral isolation",
+            "Hybrid sterility",
+            "Mechanical isolation"
+        ],
+        "answer": 2,
+        "explanation": "Hybrid sterility occurs after fertilization."
+    },
+    {
+        "id": 318,
+        "question": "Speciation resulting from polyploidy is common in",
+        "options": [
+            "Animals",
+            "Plants",
+            "Birds",
+            "Mammals"
+        ],
+        "answer": 1,
+        "explanation": "Polyploidy-driven speciation is common in plants."
+    },
+    {
+        "id": 319,
+        "question": "Polyploidy leads to instant speciation because of",
+        "options": [
+            "Increased mutation",
+            "Chromosomal mismatch",
+            "Natural selection",
+            "Geographical isolation"
+        ],
+        "answer": 1,
+        "explanation": "Chromosomal mismatch causes immediate reproductive isolation."
+    },
+    {
+        "id": 320,
+        "question": "Adaptive radiation is driven by",
+        "options": [
+            "Competition",
+            "Empty ecological niches",
+            "Genetic drift",
+            "Migration"
+        ],
+        "answer": 1,
+        "explanation": "Empty niches promote adaptive radiation."
+    },
+    {
+        "id": 321,
+        "question": "Darwin’s finches diversified mainly due to",
+        "options": [
+            "Genetic drift",
+            "Different food habits",
+            "Geographical isolation only",
+            "Mutation alone"
+        ],
+        "answer": 1,
+        "explanation": "Different food niches led to adaptive radiation."
+    },
+    {
+        "id": 322,
+        "question": "Which type of evolution leads to homologous organs?",
+        "options": [
+            "Convergent",
+            "Parallel",
+            "Divergent",
+            "Neutral"
+        ],
+        "answer": 2,
+        "explanation": "Divergent evolution produces homologous organs."
+    },
+    {
+        "id": 323,
+        "question": "Analogous organs arise due to",
+        "options": [
+            "Common ancestry",
+            "Similar function",
+            "Same origin",
+            "Shared genes"
+        ],
+        "answer": 1,
+        "explanation": "Analogous organs perform similar functions but differ in origin."
+    },
+    {
+        "id": 324,
+        "question": "Which pair represents homologous structures?",
+        "options": [
+            "Bird wing and insect wing",
+            "Human arm and whale flipper",
+            "Butterfly wing and bat wing",
+            "Shark fin and fish fin"
+        ],
+        "answer": 1,
+        "explanation": "Human arm and whale flipper share common origin."
+    },
+    {
+        "id": 325,
+        "question": "Vestigial organs indicate",
+        "options": [
+            "Future adaptations",
+            "Mutation",
+            "Common ancestry",
+            "Convergent evolution"
+        ],
+        "answer": 2,
+        "explanation": "Vestigial organs reflect ancestral structures."
+    },
+    {
+        "id": 326,
+        "question": "Which is a vestigial organ in humans as per NCERT?",
+        "options": [
+            "Appendix",
+            "Pancreas",
+            "Liver",
+            "Heart"
+        ],
+        "answer": 0,
+        "explanation": "Appendix is considered vestigial in humans."
+    },
+    {
+        "id": 327,
+        "question": "Which evidence is considered strongest for evolution?",
+        "options": [
+            "Morphological",
+            "Embryological",
+            "Molecular",
+            "Anatomical"
+        ],
+        "answer": 2,
+        "explanation": "Molecular evidence is considered strongest."
+    },
+    {
+        "id": 328,
+        "question": "Molecular homology compares",
+        "options": [
+            "Organs",
+            "Embryos",
+            "DNA and proteins",
+            "Habitats"
+        ],
+        "answer": 2,
+        "explanation": "DNA and protein sequences are compared."
+    },
+    {
+        "id": 329,
+        "question": "Cytochrome c is used to study",
+        "options": [
+            "Metabolism",
+            "Physiology",
+            "Evolutionary relationships",
+            "Development"
+        ],
+        "answer": 2,
+        "explanation": "Cytochrome c comparison reflects evolutionary closeness."
+    },
+    {
+        "id": 330,
+        "question": "Greater similarity in amino acid sequence indicates",
+        "options": [
+            "Distant relationship",
+            "No relation",
+            "Close evolutionary relationship",
+            "Recent mutation only"
+        ],
+        "answer": 2,
+        "explanation": "Higher similarity indicates closer relationship."
+    },
+    {
+        "id": 331,
+        "question": "Fossils provide direct evidence of",
+        "options": [
+            "Physiology",
+            "Behavior",
+            "Evolutionary history",
+            "Ecology"
+        ],
+        "answer": 2,
+        "explanation": "Fossils document evolutionary history."
+    },
+    {
+        "id": 332,
+        "question": "Which fossil is a connecting link between reptiles and birds?",
+        "options": [
+            "Dimetrodon",
+            "Ichthyostega",
+            "Archaeopteryx",
+            "Peripatus"
+        ],
+        "answer": 2,
+        "explanation": "Archaeopteryx shows reptilian and avian features."
+    },
+    {
+        "id": 333,
+        "question": "Which fossil connects fish and amphibians?",
+        "options": [
+            "Latimeria",
+            "Ichthyostega",
+            "Archaeopteryx",
+            "Peripatus"
+        ],
+        "answer": 1,
+        "explanation": "Ichthyostega connects fish and amphibians."
+    },
+    {
+        "id": 334,
+        "question": "Which era is called the age of reptiles?",
+        "options": [
+            "Paleozoic",
+            "Mesozoic",
+            "Cenozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Mesozoic is the age of reptiles."
+    },
+    {
+        "id": 335,
+        "question": "Age of mammals corresponds to",
+        "options": [
+            "Mesozoic",
+            "Cenozoic",
+            "Paleozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Cenozoic is the age of mammals."
+    },
+    {
+        "id": 336,
+        "question": "Which organism is cited as a living fossil in NCERT?",
+        "options": [
+            "Latimeria",
+            "Archaeopteryx",
+            "Ichthyostega",
+            "Dimetrodon"
+        ],
+        "answer": 0,
+        "explanation": "Latimeria is considered a living fossil."
+    },
+    {
+        "id": 337,
+        "question": "Peripatus is a connecting link between",
+        "options": [
+            "Annelida and Arthropoda",
+            "Chordata and non-chordata",
+            "Reptiles and birds",
+            "Fish and amphibians"
+        ],
+        "answer": 0,
+        "explanation": "Peripatus shows annelid and arthropod features."
+    },
+    {
+        "id": 338,
+        "question": "Balanoglossus connects",
+        "options": [
+            "Annelida and Arthropoda",
+            "Chordata and non-chordata",
+            "Fish and amphibians",
+            "Reptiles and mammals"
+        ],
+        "answer": 1,
+        "explanation": "Balanoglossus shows chordate and non-chordate traits."
+    },
+    {
+        "id": 339,
+        "question": "Which hominid had cranial capacity around 650–800 cc?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 1,
+        "explanation": "Homo habilis had about 650–800 cc cranial capacity."
+    },
+    {
+        "id": 340,
+        "question": "Use of fire is associated with",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Homo erectus used fire."
+    },
+    {
+        "id": 341,
+        "question": "Which hominid practiced burial of dead?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Neanderthals"
+        ],
+        "answer": 3,
+        "explanation": "Neanderthals practiced burial."
+    },
+    {
+        "id": 342,
+        "question": "Modern humans belong to",
+        "options": [
+            "Homo erectus",
+            "Homo habilis",
+            "Homo sapiens sapiens",
+            "Homo sapiens neanderthalensis"
+        ],
+        "answer": 2,
+        "explanation": "Modern humans are Homo sapiens sapiens."
+    },
+    {
+        "id": 343,
+        "question": "Evolutionary tree depicts",
+        "options": [
+            "Taxonomy",
+            "Classification",
+            "Phylogeny",
+            "Morphology"
+        ],
+        "answer": 2,
+        "explanation": "Evolutionary trees show phylogeny."
+    },
+    {
+        "id": 344,
+        "question": "Cladistics is based on",
+        "options": [
+            "Analogous characters",
+            "Shared derived characters",
+            "Habitat similarity",
+            "Physiological traits"
+        ],
+        "answer": 1,
+        "explanation": "Cladistics uses shared derived characters."
+    },
+    {
+        "id": 345,
+        "question": "Ancestral characters are also called",
+        "options": [
+            "Derived",
+            "Primitive",
+            "Adaptive",
+            "Unique"
+        ],
+        "answer": 1,
+        "explanation": "Ancestral traits are primitive characters."
+    },
+    {
+        "id": 346,
+        "question": "Neutral theory of evolution was proposed by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Kimura",
+            "Weismann"
+        ],
+        "answer": 2,
+        "explanation": "Motoo Kimura proposed neutral theory."
+    },
+    {
+        "id": 347,
+        "question": "Neutral mutations are",
+        "options": [
+            "Always harmful",
+            "Always beneficial",
+            "Neither harmful nor beneficial",
+            "Always adaptive"
+        ],
+        "answer": 2,
+        "explanation": "Neutral mutations do not affect fitness."
+    },
+    {
+        "id": 348,
+        "question": "Molecular clock measures",
+        "options": [
+            "Age of fossils",
+            "Mutation rate",
+            "Evolutionary divergence time",
+            "Population size"
+        ],
+        "answer": 2,
+        "explanation": "It estimates time of divergence."
+    },
+    {
+        "id": 349,
+        "question": "Endosymbiotic theory explains origin of",
+        "options": [
+            "Prokaryotes",
+            "Eukaryotes",
+            "Viruses",
+            "Prions"
+        ],
+        "answer": 1,
+        "explanation": "Eukaryotes originated via endosymbiosis."
+    },
+    {
+        "id": 350,
+        "question": "Mitochondria have",
+        "options": [
+            "Linear DNA",
+            "Circular DNA",
+            "No DNA",
+            "Histones"
+        ],
+        "answer": 1,
+        "explanation": "Mitochondria possess circular DNA."
+    },
+    {
+        "id": 351,
+        "question": "Chloroplasts originated from",
+        "options": [
+            "Algae",
+            "Cyanobacteria",
+            "Fungi",
+            "Viruses"
+        ],
+        "answer": 1,
+        "explanation": "Chloroplasts evolved from cyanobacteria."
+    },
+    {
+        "id": 352,
+        "question": "Which feature supports endosymbiotic theory?",
+        "options": [
+            "Double membrane",
+            "70S ribosomes",
+            "Own DNA",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All features support endosymbiosis."
+    },
+    {
+        "id": 353,
+        "question": "Chemical evolution suggests life arose from",
+        "options": [
+            "Cells",
+            "Organic molecules",
+            "Inorganic molecules",
+            "Proteins"
+        ],
+        "answer": 2,
+        "explanation": "Life arose from inorganic molecules forming organic compounds."
+    },
+    {
+        "id": 354,
+        "question": "Which gas was absent in primitive atmosphere?",
+        "options": [
+            "Methane",
+            "Ammonia",
+            "Oxygen",
+            "Hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Free oxygen was absent initially."
+    },
+    {
+        "id": 355,
+        "question": "Miller-Urey experiment synthesized",
+        "options": [
+            "Proteins",
+            "Amino acids",
+            "DNA",
+            "Lipids"
+        ],
+        "answer": 1,
+        "explanation": "Amino acids were synthesized."
+    },
+    {
+        "id": 356,
+        "question": "First genetic material was likely",
+        "options": [
+            "DNA",
+            "RNA",
+            "Protein",
+            "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "RNA world hypothesis suggests RNA came first."
+    },
+    {
+        "id": 357,
+        "question": "Ribozymes are",
+        "options": [
+            "Proteins",
+            "Catalytic RNAs",
+            "DNA enzymes",
+            "Lipids"
+        ],
+        "answer": 1,
+        "explanation": "Ribozymes are catalytic RNA molecules."
+    },
+    {
+        "id": 358,
+        "question": "First living organisms were",
+        "options": [
+            "Aerobic",
+            "Anaerobic",
+            "Photosynthetic",
+            "Eukaryotic"
+        ],
+        "answer": 1,
+        "explanation": "Early organisms were anaerobic."
+    },
+    {
+        "id": 359,
+        "question": "Oxygen in atmosphere increased due to",
+        "options": [
+            "Respiration",
+            "Photosynthesis",
+            "Fermentation",
+            "Chemosynthesis"
+        ],
+        "answer": 1,
+        "explanation": "Photosynthesis released oxygen."
+    },
+    {
+        "id": 360,
+        "question": "Formation of ozone layer enabled",
+        "options": [
+            "Life in oceans",
+            "Life on land",
+            "Anaerobic life",
+            "Chemosynthesis"
+        ],
+        "answer": 1,
+        "explanation": "Ozone layer protected life on land."
+    },
+    {
+        "id": 361,
+        "question": "Gradualism proposes evolution is",
+        "options": [
+            "Sudden",
+            "Slow and continuous",
+            "Random",
+            "Non-directional"
+        ],
+        "answer": 1,
+        "explanation": "Gradualism suggests slow continuous change."
+    },
+    {
+        "id": 362,
+        "question": "Punctuated equilibrium proposes",
+        "options": [
+            "Continuous change",
+            "Long stasis and rapid change",
+            "No evolution",
+            "Only mutation"
+        ],
+        "answer": 1,
+        "explanation": "It involves long stasis with rapid speciation."
+    },
+    {
+        "id": 363,
+        "question": "Theory of use and disuse was proposed by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Weismann",
+            "De Vries"
+        ],
+        "answer": 1,
+        "explanation": "Lamarck proposed use and disuse."
+    },
+    {
+        "id": 364,
+        "question": "Mutation theory was proposed by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Hugo de Vries",
+            "Kimura"
+        ],
+        "answer": 2,
+        "explanation": "Hugo de Vries proposed mutation theory."
+    },
+    {
+        "id": 365,
+        "question": "Modern synthetic theory combines",
+        "options": [
+            "Darwinism and Lamarckism",
+            "Genetics and Darwinism",
+            "Neutral theory only",
+            "Mutation theory only"
+        ],
+        "answer": 1,
+        "explanation": "It integrates genetics with natural selection."
+    },
+    {
+        "id": 366,
+        "question": "Which is excluded from modern synthetic theory?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Natural selection",
+            "Inheritance of acquired characters"
+        ],
+        "answer": 3,
+        "explanation": "Lamarckian inheritance is excluded."
+    },
+    {
+        "id": 367,
+        "question": "Microevolution refers to",
+        "options": [
+            "Speciation",
+            "Change in allele frequency",
+            "Adaptive radiation",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Microevolution is change in allele frequencies."
+    },
+    {
+        "id": 368,
+        "question": "Macroevolution involves",
+        "options": [
+            "Gene frequency change",
+            "Origin of higher taxa",
+            "Random mating",
+            "Drift only"
+        ],
+        "answer": 1,
+        "explanation": "Macroevolution concerns higher taxa."
+    },
+    {
+        "id": 369,
+        "question": "Which force is always adaptive?",
+        "options": [
+            "Mutation",
+            "Genetic drift",
+            "Natural selection",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Natural selection favors adaptive traits."
+    },
+    {
+        "id": 370,
+        "question": "Which process can fix harmful alleles by chance?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift can randomly fix alleles."
+    },
+    {
+        "id": 371,
+        "question": "Which concept explains similarity due to common ancestry?",
+        "options": [
+            "Analogy",
+            "Homology",
+            "Mimicry",
+            "Camouflage"
+        ],
+        "answer": 1,
+        "explanation": "Homology reflects common ancestry."
+    },
+    {
+        "id": 372,
+        "question": "Sexual selection primarily affects",
+        "options": [
+            "Survival",
+            "Reproductive success",
+            "Mutation rate",
+            "Gene flow"
+        ],
+        "answer": 1,
+        "explanation": "Sexual selection affects mating success."
+    },
+    {
+        "id": 373,
+        "question": "Peacock tail is an example of",
+        "options": [
+            "Natural selection",
+            "Sexual selection",
+            "Camouflage",
+            "Mimicry"
+        ],
+        "answer": 1,
+        "explanation": "Peacock tail evolved due to sexual selection."
+    },
+    {
+        "id": 374,
+        "question": "Which selection may reduce survival but increase mating success?",
+        "options": [
+            "Directional",
+            "Stabilizing",
+            "Sexual selection",
+            "Disruptive"
+        ],
+        "answer": 2,
+        "explanation": "Sexual selection can reduce survival."
+    },
+    {
+        "id": 375,
+        "question": "Evolution operates at level of",
+        "options": [
+            "Cells",
+            "Individuals",
+            "Populations",
+            "Organs"
+        ],
+        "answer": 2,
+        "explanation": "Evolution acts on populations."
+    },
+    {
+        "id": 376,
+        "question": "Individuals do not evolve because",
+        "options": [
+            "They lack genes",
+            "They do not reproduce",
+            "Allele frequencies change in populations",
+            "They are identical"
+        ],
+        "answer": 2,
+        "explanation": "Evolution involves population gene frequencies."
+    },
+    {
+        "id": 377,
+        "question": "Which process introduces maladaptive alleles?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Gene flow",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Mutations can be harmful."
+    },
+    {
+        "id": 378,
+        "question": "Which evolutionary force increases similarity between populations?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Gene flow",
+            "Drift"
+        ],
+        "answer": 2,
+        "explanation": "Gene flow homogenizes populations."
+    },
+    {
+        "id": 379,
+        "question": "Which factor maintains polymorphism in population?",
+        "options": [
+            "Directional selection",
+            "Balanced selection",
+            "Drift",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Balanced selection maintains polymorphism."
+    },
+    {
+        "id": 380,
+        "question": "Panmixia refers to",
+        "options": [
+            "Inbreeding",
+            "Random mating",
+            "Isolation",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Panmixia means random mating."
+    },
+    {
+        "id": 381,
+        "question": "Inbreeding depression occurs due to",
+        "options": [
+            "Increased heterozygosity",
+            "Expression of recessive alleles",
+            "Mutation",
+            "Gene flow"
+        ],
+        "answer": 1,
+        "explanation": "Harmful recessive alleles are expressed."
+    },
+    {
+        "id": 382,
+        "question": "Camouflage is a type of",
+        "options": [
+            "Physiological adaptation",
+            "Morphological adaptation",
+            "Behavioral adaptation",
+            "Genetic drift"
+        ],
+        "answer": 1,
+        "explanation": "Camouflage is a structural adaptation."
+    },
+    {
+        "id": 383,
+        "question": "Aposematic coloration indicates",
+        "options": [
+            "Camouflage",
+            "Warning to predators",
+            "Mimicry",
+            "Sexual display"
+        ],
+        "answer": 1,
+        "explanation": "It warns predators of toxicity."
+    },
+    {
+        "id": 384,
+        "question": "Batesian mimicry involves",
+        "options": [
+            "Two harmful species",
+            "Harmless mimicking harmful",
+            "Two harmless species",
+            "Predator mimicry"
+        ],
+        "answer": 1,
+        "explanation": "Harmless species mimics harmful one."
+    },
+    {
+        "id": 385,
+        "question": "Mullerian mimicry benefits",
+        "options": [
+            "Only mimic",
+            "Only model",
+            "Both species",
+            "Predators"
+        ],
+        "answer": 2,
+        "explanation": "Both harmful species benefit."
+    },
+    {
+        "id": 386,
+        "question": "Which phenomenon explains antibiotic resistance?",
+        "options": [
+            "Drift",
+            "Mutation and selection",
+            "Migration",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Selection acts on resistant mutants."
+    },
+    {
+        "id": 387,
+        "question": "Which is an example of artificial selection?",
+        "options": [
+            "Peppered moth",
+            "Dog breeds",
+            "Finch beaks",
+            "Sickle cell trait"
+        ],
+        "answer": 1,
+        "explanation": "Dog breeds result from artificial selection."
+    },
+    {
+        "id": 388,
+        "question": "Artificial selection is controlled by",
+        "options": [
+            "Environment",
+            "Nature",
+            "Humans",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "Humans control artificial selection."
+    },
+    {
+        "id": 389,
+        "question": "Evolution explains",
+        "options": [
+            "Origin of life",
+            "Diversity of life",
+            "Chemical synthesis",
+            "Cell division"
+        ],
+        "answer": 1,
+        "explanation": "Evolution explains diversity of life."
+    },
+    {
+        "id": 390,
+        "question": "Evolutionary biology integrates",
+        "options": [
+            "Genetics and ecology",
+            "Anatomy and physiology",
+            "Taxonomy only",
+            "Behavior only"
+        ],
+        "answer": 0,
+        "explanation": "Evolution integrates genetics with ecology."
+    },
+    {
+        "id": 391,
+        "question": "Which statement about evolution is correct?",
+        "options": [
+            "It is goal-directed",
+            "It affects individuals",
+            "It affects populations",
+            "It has a fixed direction"
+        ],
+        "answer": 2,
+        "explanation": "Evolution affects populations."
+    },
+    {
+        "id": 392,
+        "question": "Which statement is incorrect regarding evolution?",
+        "options": [
+            "It is continuous",
+            "It is population-based",
+            "It involves genetic variation",
+            "It occurs in individuals"
+        ],
+        "answer": 3,
+        "explanation": "Individuals do not evolve."
+    },
+    {
+        "id": 393,
+        "question": "Which concept links embryology with evolution?",
+        "options": [
+            "Phylogeny",
+            "Ontogeny",
+            "Recapitulation",
+            "Neutral theory"
+        ],
+        "answer": 2,
+        "explanation": "Recapitulation links development with evolution."
+    },
+    {
+        "id": 394,
+        "question": "Recapitulation theory was proposed by",
+        "options": [
+            "Darwin",
+            "Haeckel",
+            "Weismann",
+            "Mendel"
+        ],
+        "answer": 1,
+        "explanation": "Haeckel proposed recapitulation theory."
+    },
+    {
+        "id": 395,
+        "question": "Early vertebrate embryos resemble each other due to",
+        "options": [
+            "Convergent evolution",
+            "Common ancestry",
+            "Environmental adaptation",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Similarity reflects common ancestry."
+    },
+    {
+        "id": 396,
+        "question": "Which stage of embryos shows maximum similarity?",
+        "options": [
+            "Adult",
+            "Late embryonic",
+            "Early embryonic",
+            "Larval"
+        ],
+        "answer": 2,
+        "explanation": "Early embryos are most similar."
+    },
+    {
+        "id": 397,
+        "question": "Which evolutionary concept explains sudden appearance of species?",
+        "options": [
+            "Gradualism",
+            "Punctuated equilibrium",
+            "Neutral theory",
+            "Lamarckism"
+        ],
+        "answer": 1,
+        "explanation": "Punctuated equilibrium explains sudden speciation."
+    },
+    {
+        "id": 398,
+        "question": "Which concept assumes constant rate of molecular change?",
+        "options": [
+            "Gradualism",
+            "Molecular clock",
+            "Neutral theory",
+            "Mutation theory"
+        ],
+        "answer": 1,
+        "explanation": "Molecular clock assumes constant rate."
+    },
+    {
+        "id": 399,
+        "question": "Which evolutionary force opposes inbreeding?",
+        "options": [
+            "Mutation",
+            "Outbreeding",
+            "Drift",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Outbreeding reduces homozygosity."
+    },
+    {
+        "id": 400,
+        "question": "Evolution is best defined as",
+        "options": [
+            "Origin of species",
+            "Change in gene frequency over generations",
+            "Progressive complexity",
+            "Inheritance of acquired traits"
+        ],
+        "answer": 1,
+        "explanation": "Evolution is change in gene frequency over generations."
+    },
+    {
+        "id": 401,
+        "question": "According to NCERT, the ultimate source of all genetic variation is",
+        "options": [
+            "Recombination",
+            "Mutation",
+            "Gene flow",
+            "Genetic drift"
+        ],
+        "answer": 1,
+        "explanation": "Mutation creates new alleles and is the ultimate source of variation."
+    },
+    {
+        "id": 402,
+        "question": "Variation produced by environment alone is",
+        "options": [
+            "Heritable",
+            "Non-heritable",
+            "Genetic",
+            "Evolutionary"
+        ],
+        "answer": 1,
+        "explanation": "Environmental variations are not inherited."
+    },
+    {
+        "id": 403,
+        "question": "Which evolutionary force directly changes allele frequency in a non-adaptive manner?",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Genetic drift",
+            "Recombination"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift changes allele frequency randomly."
+    },
+    {
+        "id": 404,
+        "question": "Which condition increases effectiveness of natural selection?",
+        "options": [
+            "No variation",
+            "High variation",
+            "Random death",
+            "Small population"
+        ],
+        "answer": 1,
+        "explanation": "Natural selection acts effectively on available variation."
+    },
+    {
+        "id": 405,
+        "question": "Which population shows maximum evolutionary stability?",
+        "options": [
+            "Small isolated",
+            "Large random mating",
+            "Highly selected",
+            "Recently founded"
+        ],
+        "answer": 1,
+        "explanation": "Large panmictic populations are more stable."
+    },
+    {
+        "id": 406,
+        "question": "Which factor can introduce an allele already present in another population?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Gene flow",
+            "Selection"
+        ],
+        "answer": 2,
+        "explanation": "Gene flow introduces alleles via migration."
+    },
+    {
+        "id": 407,
+        "question": "Which evolutionary force reduces local adaptation?",
+        "options": [
+            "Natural selection",
+            "Mutation",
+            "Gene flow",
+            "Isolation"
+        ],
+        "answer": 2,
+        "explanation": "Gene flow can counteract local selection."
+    },
+    {
+        "id": 408,
+        "question": "Random loss of alleles due to sudden population reduction is called",
+        "options": [
+            "Founder effect",
+            "Bottleneck effect",
+            "Selection",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Bottleneck effect occurs after sudden population reduction."
+    },
+    {
+        "id": 409,
+        "question": "Founder effect differs from bottleneck effect because founder effect involves",
+        "options": [
+            "Population reduction",
+            "Colonization of new area",
+            "Selection pressure",
+            "Inbreeding only"
+        ],
+        "answer": 1,
+        "explanation": "Founder effect occurs when few individuals colonize a new habitat."
+    },
+    {
+        "id": 410,
+        "question": "Which condition promotes fixation of alleles by chance?",
+        "options": [
+            "Large population",
+            "Random mating",
+            "Small population",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Small populations are prone to fixation by drift."
+    },
+    {
+        "id": 411,
+        "question": "Hardy-Weinberg equilibrium assumes absence of",
+        "options": [
+            "Random mating",
+            "Large population",
+            "Mutation",
+            "Equal survival"
+        ],
+        "answer": 2,
+        "explanation": "Equilibrium assumes no mutation."
+    },
+    {
+        "id": 412,
+        "question": "Which factor is NOT an assumption of Hardy-Weinberg equilibrium?",
+        "options": [
+            "Random mating",
+            "No migration",
+            "No selection",
+            "Reproductive isolation"
+        ],
+        "answer": 3,
+        "explanation": "Reproductive isolation is not an assumption."
+    },
+    {
+        "id": 413,
+        "question": "If allele frequencies change, it indicates",
+        "options": [
+            "Stability",
+            "No evolution",
+            "Evolution",
+            "Speciation"
+        ],
+        "answer": 2,
+        "explanation": "Change in allele frequency indicates evolution."
+    },
+    {
+        "id": 414,
+        "question": "Which mating system maintains Hardy-Weinberg equilibrium?",
+        "options": [
+            "Inbreeding",
+            "Assortative mating",
+            "Random mating",
+            "Selfing"
+        ],
+        "answer": 2,
+        "explanation": "Random mating maintains equilibrium."
+    },
+    {
+        "id": 415,
+        "question": "Which process increases homozygosity without changing allele frequency?",
+        "options": [
+            "Inbreeding",
+            "Mutation",
+            "Selection",
+            "Gene flow"
+        ],
+        "answer": 0,
+        "explanation": "Inbreeding increases homozygosity."
+    },
+    {
+        "id": 416,
+        "question": "Which reproductive barrier acts due to difference in courtship behaviour?",
+        "options": [
+            "Mechanical isolation",
+            "Temporal isolation",
+            "Behavioral isolation",
+            "Gametic isolation"
+        ],
+        "answer": 2,
+        "explanation": "Behavioral isolation prevents mating due to courtship differences."
+    },
+    {
+        "id": 417,
+        "question": "Which isolating mechanism is prezygotic?",
+        "options": [
+            "Hybrid inviability",
+            "Hybrid sterility",
+            "Gametic isolation",
+            "Hybrid breakdown"
+        ],
+        "answer": 2,
+        "explanation": "Gametic isolation prevents fertilization."
+    },
+    {
+        "id": 418,
+        "question": "Which isolating mechanism results in zygote death?",
+        "options": [
+            "Temporal isolation",
+            "Mechanical isolation",
+            "Hybrid inviability",
+            "Behavioral isolation"
+        ],
+        "answer": 2,
+        "explanation": "Hybrid inviability leads to zygote death."
+    },
+    {
+        "id": 419,
+        "question": "Which type of speciation occurs due to chromosome doubling?",
+        "options": [
+            "Allopatric",
+            "Sympatric",
+            "Peripatric",
+            "Parapatric"
+        ],
+        "answer": 1,
+        "explanation": "Polyploidy causes sympatric speciation."
+    },
+    {
+        "id": 420,
+        "question": "Polyploid individuals are reproductively isolated from diploids because",
+        "options": [
+            "They die",
+            "They cannot mate",
+            "Chromosomes fail to pair",
+            "They migrate"
+        ],
+        "answer": 2,
+        "explanation": "Chromosome mismatch prevents pairing."
+    },
+    {
+        "id": 421,
+        "question": "Which factor initiates adaptive radiation?",
+        "options": [
+            "High competition",
+            "Availability of new niches",
+            "Gene flow",
+            "Random mating"
+        ],
+        "answer": 1,
+        "explanation": "Empty niches promote adaptive radiation."
+    },
+    {
+        "id": 422,
+        "question": "Adaptive radiation in Darwin’s finches mainly involved changes in",
+        "options": [
+            "Wing size",
+            "Beak shape",
+            "Body color",
+            "Tail length"
+        ],
+        "answer": 1,
+        "explanation": "Beak shape diversified with food habits."
+    },
+    {
+        "id": 423,
+        "question": "Which type of evolution results in similar adaptations in related lineages?",
+        "options": [
+            "Convergent",
+            "Parallel",
+            "Divergent",
+            "Neutral"
+        ],
+        "answer": 1,
+        "explanation": "Parallel evolution occurs in related lineages."
+    },
+    {
+        "id": 424,
+        "question": "Convergent evolution produces",
+        "options": [
+            "Homologous organs",
+            "Analogous organs",
+            "Vestigial organs",
+            "Primitive organs"
+        ],
+        "answer": 1,
+        "explanation": "Analogous organs arise from convergent evolution."
+    },
+    {
+        "id": 425,
+        "question": "Which structure provides anatomical evidence of divergent evolution?",
+        "options": [
+            "Bat wing",
+            "Insect wing",
+            "Human forelimb",
+            "Butterfly wing"
+        ],
+        "answer": 2,
+        "explanation": "Human forelimb shows divergence into various forms."
+    },
+    {
+        "id": 426,
+        "question": "Vestigial organs are best evidence of",
+        "options": [
+            "Future evolution",
+            "Common ancestry",
+            "Mutation",
+            "Convergent evolution"
+        ],
+        "answer": 1,
+        "explanation": "Vestigial organs reflect ancestral structures."
+    },
+    {
+        "id": 427,
+        "question": "Which is a vestigial structure in whales?",
+        "options": [
+            "Gills",
+            "Pelvic bones",
+            "Wings",
+            "Scales"
+        ],
+        "answer": 1,
+        "explanation": "Pelvic bones are vestigial in whales."
+    },
+    {
+        "id": 428,
+        "question": "Which evidence compares biochemical molecules to infer evolution?",
+        "options": [
+            "Anatomical",
+            "Embryological",
+            "Molecular",
+            "Paleontological"
+        ],
+        "answer": 2,
+        "explanation": "Molecular evidence uses DNA and proteins."
+    },
+    {
+        "id": 429,
+        "question": "Which protein is widely used to compare evolutionary relationships?",
+        "options": [
+            "Keratin",
+            "Hemoglobin",
+            "Cytochrome c",
+            "Myosin"
+        ],
+        "answer": 2,
+        "explanation": "Cytochrome c comparison reflects phylogeny."
+    },
+    {
+        "id": 430,
+        "question": "Higher similarity in cytochrome c sequence indicates",
+        "options": [
+            "Distant ancestry",
+            "Recent common ancestry",
+            "No relationship",
+            "Mutation only"
+        ],
+        "answer": 1,
+        "explanation": "Greater similarity indicates closer ancestry."
+    },
+    {
+        "id": 431,
+        "question": "Fossils are important because they",
+        "options": [
+            "Show present diversity",
+            "Provide evolutionary sequence",
+            "Explain physiology",
+            "Show behavior"
+        ],
+        "answer": 1,
+        "explanation": "Fossils provide evolutionary sequence."
+    },
+    {
+        "id": 432,
+        "question": "Which fossil shows features of both reptiles and mammals?",
+        "options": [
+            "Archaeopteryx",
+            "Dimetrodon",
+            "Ichthyostega",
+            "Peripatus"
+        ],
+        "answer": 1,
+        "explanation": "Dimetrodon shows reptile-mammal features."
+    },
+    {
+        "id": 433,
+        "question": "Which period is known for sudden diversification of life forms?",
+        "options": [
+            "Cambrian",
+            "Jurassic",
+            "Triassic",
+            "Permian"
+        ],
+        "answer": 0,
+        "explanation": "Cambrian explosion marked rapid diversification."
+    },
+    {
+        "id": 434,
+        "question": "Which era immediately followed extinction of dinosaurs?",
+        "options": [
+            "Mesozoic",
+            "Cenozoic",
+            "Paleozoic",
+            "Precambrian"
+        ],
+        "answer": 1,
+        "explanation": "Cenozoic followed dinosaur extinction."
+    },
+    {
+        "id": 435,
+        "question": "Latimeria is considered a living fossil because it",
+        "options": [
+            "Is extinct",
+            "Shows no evolution",
+            "Retains primitive features",
+            "Is recently evolved"
+        ],
+        "answer": 2,
+        "explanation": "Latimeria retains primitive characters."
+    },
+    {
+        "id": 436,
+        "question": "Which organism connects annelids and arthropods?",
+        "options": [
+            "Peripatus",
+            "Limulus",
+            "Balanoglossus",
+            "Latimeria"
+        ],
+        "answer": 0,
+        "explanation": "Peripatus shows features of both groups."
+    },
+    {
+        "id": 437,
+        "question": "Which organism connects chordates and non-chordates?",
+        "options": [
+            "Peripatus",
+            "Balanoglossus",
+            "Archaeopteryx",
+            "Dimetrodon"
+        ],
+        "answer": 1,
+        "explanation": "Balanoglossus shows chordate and non-chordate traits."
+    },
+    {
+        "id": 438,
+        "question": "Which hominid was first tool maker?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 1,
+        "explanation": "Homo habilis was first tool maker."
+    },
+    {
+        "id": 439,
+        "question": "Which hominid had cranial capacity around 900 cc?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Homo erectus had about 900 cc brain size."
+    },
+    {
+        "id": 440,
+        "question": "Which hominid used fire and lived in caves?",
+        "options": [
+            "Homo habilis",
+            "Australopithecus",
+            "Homo erectus",
+            "Homo sapiens"
+        ],
+        "answer": 2,
+        "explanation": "Homo erectus used fire and caves."
+    },
+    {
+        "id": 441,
+        "question": "Which hominid showed cultural practices like burial?",
+        "options": [
+            "Australopithecus",
+            "Homo habilis",
+            "Neanderthals",
+            "Homo erectus"
+        ],
+        "answer": 2,
+        "explanation": "Neanderthals practiced burial."
+    },
+    {
+        "id": 442,
+        "question": "Modern humans are scientifically called",
+        "options": [
+            "Homo habilis",
+            "Homo erectus",
+            "Homo sapiens sapiens",
+            "Homo neanderthalensis"
+        ],
+        "answer": 2,
+        "explanation": "Modern humans are Homo sapiens sapiens."
+    },
+    {
+        "id": 443,
+        "question": "Evolutionary history of a species is known as",
+        "options": [
+            "Ontogeny",
+            "Phylogeny",
+            "Taxonomy",
+            "Morphology"
+        ],
+        "answer": 1,
+        "explanation": "Phylogeny refers to evolutionary history."
+    },
+    {
+        "id": 444,
+        "question": "Cladistics classifies organisms based on",
+        "options": [
+            "Primitive characters",
+            "Shared derived characters",
+            "Habitats",
+            "Physiology"
+        ],
+        "answer": 1,
+        "explanation": "Cladistics uses shared derived traits."
+    },
+    {
+        "id": 445,
+        "question": "Primitive characters are those which",
+        "options": [
+            "Appear recently",
+            "Are ancestral",
+            "Are unique",
+            "Are adaptive"
+        ],
+        "answer": 1,
+        "explanation": "Primitive characters are ancestral."
+    },
+    {
+        "id": 446,
+        "question": "Neutral theory of molecular evolution emphasizes role of",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Genetic drift",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Neutral mutations are fixed by drift."
+    },
+    {
+        "id": 447,
+        "question": "Most molecular changes are considered",
+        "options": [
+            "Adaptive",
+            "Neutral",
+            "Lethal",
+            "Directed"
+        ],
+        "answer": 1,
+        "explanation": "Neutral theory states most changes are neutral."
+    },
+    {
+        "id": 448,
+        "question": "Molecular clock is based on",
+        "options": [
+            "Selection rate",
+            "Constant mutation rate",
+            "Generation time",
+            "Population size"
+        ],
+        "answer": 1,
+        "explanation": "Molecular clock assumes constant mutation rate."
+    },
+    {
+        "id": 449,
+        "question": "Endosymbiotic theory explains origin of",
+        "options": [
+            "Prokaryotes",
+            "Eukaryotes",
+            "Viruses",
+            "Fungi"
+        ],
+        "answer": 1,
+        "explanation": "Eukaryotes arose via endosymbiosis."
+    },
+    {
+        "id": 450,
+        "question": "Which feature supports mitochondrial endosymbiosis?",
+        "options": [
+            "80S ribosomes",
+            "Linear DNA",
+            "Circular DNA",
+            "No membrane"
+        ],
+        "answer": 2,
+        "explanation": "Mitochondria have circular DNA."
+    },
+    {
+        "id": 451,
+        "question": "Chloroplasts originated from",
+        "options": [
+            "Proteobacteria",
+            "Cyanobacteria",
+            "Fungi",
+            "Algae"
+        ],
+        "answer": 1,
+        "explanation": "Chloroplasts evolved from cyanobacteria."
+    },
+    {
+        "id": 452,
+        "question": "Chemical evolution suggests organic molecules formed from",
+        "options": [
+            "Cells",
+            "Proteins",
+            "Inorganic substances",
+            "DNA"
+        ],
+        "answer": 2,
+        "explanation": "Organic molecules arose from inorganic precursors."
+    },
+    {
+        "id": 453,
+        "question": "Which gas was absent in primitive Earth atmosphere?",
+        "options": [
+            "Methane",
+            "Ammonia",
+            "Oxygen",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "Free oxygen was absent initially."
+    },
+    {
+        "id": 454,
+        "question": "Miller-Urey experiment provided evidence for",
+        "options": [
+            "Biological evolution",
+            "Chemical evolution",
+            "Organic evolution",
+            "Genetic evolution"
+        ],
+        "answer": 1,
+        "explanation": "It supported chemical evolution."
+    },
+    {
+        "id": 455,
+        "question": "Which molecules were synthesized in Miller-Urey experiment?",
+        "options": [
+            "Proteins",
+            "Amino acids",
+            "DNA",
+            "Lipids"
+        ],
+        "answer": 1,
+        "explanation": "Amino acids were synthesized."
+    },
+    {
+        "id": 456,
+        "question": "RNA world hypothesis suggests RNA was",
+        "options": [
+            "Only genetic material",
+            "Only catalyst",
+            "Both genetic material and catalyst",
+            "Structural molecule"
+        ],
+        "answer": 2,
+        "explanation": "RNA acted as both genetic material and catalyst."
+    },
+    {
+        "id": 457,
+        "question": "Catalytic RNA molecules are called",
+        "options": [
+            "Ribosomes",
+            "Ribozymes",
+            "Prions",
+            "Enzymes"
+        ],
+        "answer": 1,
+        "explanation": "Ribozymes are catalytic RNAs."
+    },
+    {
+        "id": 458,
+        "question": "First living organisms were likely",
+        "options": [
+            "Aerobic",
+            "Anaerobic",
+            "Photosynthetic",
+            "Eukaryotic"
+        ],
+        "answer": 1,
+        "explanation": "Early life was anaerobic."
+    },
+    {
+        "id": 459,
+        "question": "Which organisms first released oxygen?",
+        "options": [
+            "Fungi",
+            "Cyanobacteria",
+            "Protozoa",
+            "Archaea"
+        ],
+        "answer": 1,
+        "explanation": "Cyanobacteria released oxygen."
+    },
+    {
+        "id": 460,
+        "question": "Increase in atmospheric oxygen led to formation of",
+        "options": [
+            "Carbon dioxide",
+            "Water",
+            "Ozone layer",
+            "Nitrogen"
+        ],
+        "answer": 2,
+        "explanation": "Ozone layer formed from oxygen."
+    },
+    {
+        "id": 461,
+        "question": "Gradualism proposes evolution occurs",
+        "options": [
+            "Suddenly",
+            "In jumps",
+            "Slowly and continuously",
+            "Randomly"
+        ],
+        "answer": 2,
+        "explanation": "Gradualism suggests slow continuous evolution."
+    },
+    {
+        "id": 462,
+        "question": "Punctuated equilibrium proposes evolution occurs",
+        "options": [
+            "Continuously",
+            "Only by mutation",
+            "In bursts after stasis",
+            "Randomly"
+        ],
+        "answer": 2,
+        "explanation": "Long stasis followed by rapid change."
+    },
+    {
+        "id": 463,
+        "question": "Theory of use and disuse was proposed by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Weismann",
+            "De Vries"
+        ],
+        "answer": 1,
+        "explanation": "Lamarck proposed use and disuse theory."
+    },
+    {
+        "id": 464,
+        "question": "Mutation theory was proposed by",
+        "options": [
+            "Darwin",
+            "Lamarck",
+            "Hugo de Vries",
+            "Kimura"
+        ],
+        "answer": 2,
+        "explanation": "Hugo de Vries proposed mutation theory."
+    },
+    {
+        "id": 465,
+        "question": "Modern synthetic theory integrates",
+        "options": [
+            "Lamarckism and genetics",
+            "Darwinism and genetics",
+            "Neutral theory only",
+            "Mutation theory only"
+        ],
+        "answer": 1,
+        "explanation": "It integrates Darwinism with genetics."
+    },
+    {
+        "id": 466,
+        "question": "Which concept is excluded from modern synthetic theory?",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Natural selection",
+            "Inheritance of acquired characters"
+        ],
+        "answer": 3,
+        "explanation": "Inheritance of acquired characters is excluded."
+    },
+    {
+        "id": 467,
+        "question": "Microevolution refers to",
+        "options": [
+            "Origin of species",
+            "Change in allele frequency",
+            "Adaptive radiation",
+            "Extinction"
+        ],
+        "answer": 1,
+        "explanation": "Microevolution involves allele frequency change."
+    },
+    {
+        "id": 468,
+        "question": "Macroevolution involves",
+        "options": [
+            "Allele frequency change",
+            "Speciation and higher taxa",
+            "Random mating",
+            "Inbreeding"
+        ],
+        "answer": 1,
+        "explanation": "Macroevolution involves speciation and higher taxa."
+    },
+    {
+        "id": 469,
+        "question": "Which evolutionary force is always adaptive?",
+        "options": [
+            "Mutation",
+            "Genetic drift",
+            "Natural selection",
+            "Migration"
+        ],
+        "answer": 2,
+        "explanation": "Natural selection favors adaptive traits."
+    },
+    {
+        "id": 470,
+        "question": "Which force may increase frequency of harmful alleles by chance?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Genetic drift",
+            "Gene flow"
+        ],
+        "answer": 2,
+        "explanation": "Genetic drift can fix harmful alleles."
+    },
+    {
+        "id": 471,
+        "question": "Homology indicates",
+        "options": [
+            "Similar function",
+            "Common ancestry",
+            "Convergent evolution",
+            "Adaptation"
+        ],
+        "answer": 1,
+        "explanation": "Homology indicates common ancestry."
+    },
+    {
+        "id": 472,
+        "question": "Sexual selection is based on",
+        "options": [
+            "Survival advantage",
+            "Mate choice",
+            "Random mating",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Sexual selection depends on mate choice."
+    },
+    {
+        "id": 473,
+        "question": "Peacock tail evolved due to",
+        "options": [
+            "Camouflage",
+            "Natural selection",
+            "Sexual selection",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "Peacock tail is result of sexual selection."
+    },
+    {
+        "id": 474,
+        "question": "Evolution acts on",
+        "options": [
+            "Cells",
+            "Individuals",
+            "Populations",
+            "Organs"
+        ],
+        "answer": 2,
+        "explanation": "Evolution acts on populations."
+    },
+    {
+        "id": 475,
+        "question": "Individuals do not evolve because",
+        "options": [
+            "They lack DNA",
+            "They cannot mutate",
+            "Allele frequencies change in populations",
+            "They do not reproduce"
+        ],
+        "answer": 2,
+        "explanation": "Evolution is population-level change."
+    },
+    {
+        "id": 476,
+        "question": "Which process introduces harmful alleles?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Gene flow",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Mutations can be harmful."
+    },
+    {
+        "id": 477,
+        "question": "Which force increases similarity between populations?",
+        "options": [
+            "Selection",
+            "Mutation",
+            "Gene flow",
+            "Drift"
+        ],
+        "answer": 2,
+        "explanation": "Gene flow homogenizes populations."
+    },
+    {
+        "id": 478,
+        "question": "Which process maintains genetic polymorphism?",
+        "options": [
+            "Directional selection",
+            "Balanced selection",
+            "Inbreeding",
+            "Drift"
+        ],
+        "answer": 1,
+        "explanation": "Balanced selection maintains polymorphism."
+    },
+    {
+        "id": 479,
+        "question": "Panmixia means",
+        "options": [
+            "Inbreeding",
+            "Random mating",
+            "Isolation",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Panmixia refers to random mating."
+    },
+    {
+        "id": 480,
+        "question": "Inbreeding depression occurs due to",
+        "options": [
+            "Mutation",
+            "Gene flow",
+            "Expression of recessive alleles",
+            "Selection"
+        ],
+        "answer": 2,
+        "explanation": "Recessive deleterious alleles are expressed."
+    },
+    {
+        "id": 481,
+        "question": "Camouflage is an example of",
+        "options": [
+            "Physiological adaptation",
+            "Morphological adaptation",
+            "Behavioral adaptation",
+            "Genetic drift"
+        ],
+        "answer": 1,
+        "explanation": "Camouflage is a structural adaptation."
+    },
+    {
+        "id": 482,
+        "question": "Aposematic coloration serves as",
+        "options": [
+            "Camouflage",
+            "Warning signal",
+            "Mimicry",
+            "Sexual display"
+        ],
+        "answer": 1,
+        "explanation": "It warns predators."
+    },
+    {
+        "id": 483,
+        "question": "Batesian mimicry involves",
+        "options": [
+            "Two harmful species",
+            "Harmless mimicking harmful",
+            "Two harmless species",
+            "Predator mimicry"
+        ],
+        "answer": 1,
+        "explanation": "Harmless species mimics harmful one."
+    },
+    {
+        "id": 484,
+        "question": "Mullerian mimicry involves",
+        "options": [
+            "Harmless species",
+            "Two harmful species",
+            "Predator mimicry",
+            "Camouflage"
+        ],
+        "answer": 1,
+        "explanation": "Both species are harmful."
+    },
+    {
+        "id": 485,
+        "question": "Antibiotic resistance in bacteria is an example of",
+        "options": [
+            "Genetic drift",
+            "Mutation and natural selection",
+            "Gene flow",
+            "Isolation"
+        ],
+        "answer": 1,
+        "explanation": "Selection favors resistant mutants."
+    },
+    {
+        "id": 486,
+        "question": "Which is an example of artificial selection?",
+        "options": [
+            "Peppered moth",
+            "Dog breeds",
+            "Finch beaks",
+            "Sickle cell anemia"
+        ],
+        "answer": 1,
+        "explanation": "Dog breeds are produced by artificial selection."
+    },
+    {
+        "id": 487,
+        "question": "Artificial selection differs from natural selection because it is",
+        "options": [
+            "Random",
+            "Environment-driven",
+            "Human-directed",
+            "Mutation-based"
+        ],
+        "answer": 2,
+        "explanation": "Artificial selection is human-directed."
+    },
+    {
+        "id": 488,
+        "question": "Evolution explains",
+        "options": [
+            "Origin of life",
+            "Diversity of life",
+            "Chemical reactions",
+            "Cell division"
+        ],
+        "answer": 1,
+        "explanation": "Evolution explains diversity of life."
+    },
+    {
+        "id": 489,
+        "question": "Evolutionary biology integrates",
+        "options": [
+            "Genetics and ecology",
+            "Anatomy and physiology",
+            "Taxonomy only",
+            "Behavior only"
+        ],
+        "answer": 0,
+        "explanation": "It integrates genetics with ecology."
+    },
+    {
+        "id": 490,
+        "question": "Which statement about evolution is correct?",
+        "options": [
+            "It is goal-directed",
+            "It affects individuals",
+            "It affects populations",
+            "It has fixed direction"
+        ],
+        "answer": 2,
+        "explanation": "Evolution affects populations."
+    },
+    {
+        "id": 491,
+        "question": "Which statement is incorrect?",
+        "options": [
+            "Evolution is continuous",
+            "Evolution acts on populations",
+            "Evolution involves genetic variation",
+            "Evolution occurs in individuals"
+        ],
+        "answer": 3,
+        "explanation": "Individuals do not evolve."
+    },
+    {
+        "id": 492,
+        "question": "Ontogeny refers to",
+        "options": [
+            "Evolutionary history",
+            "Development of individual",
+            "Classification",
+            "Adaptation"
+        ],
+        "answer": 1,
+        "explanation": "Ontogeny is development of an individual."
+    },
+    {
+        "id": 493,
+        "question": "Phylogeny refers to",
+        "options": [
+            "Embryonic development",
+            "Evolutionary history",
+            "Classification",
+            "Habitat"
+        ],
+        "answer": 1,
+        "explanation": "Phylogeny is evolutionary history."
+    },
+    {
+        "id": 494,
+        "question": "Recapitulation theory was proposed by",
+        "options": [
+            "Darwin",
+            "Haeckel",
+            "Weismann",
+            "Mendel"
+        ],
+        "answer": 1,
+        "explanation": "Haeckel proposed recapitulation theory."
+    },
+    {
+        "id": 495,
+        "question": "Early vertebrate embryos resemble each other due to",
+        "options": [
+            "Convergent evolution",
+            "Common ancestry",
+            "Environmental adaptation",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Similarity reflects common ancestry."
+    },
+    {
+        "id": 496,
+        "question": "Which stage of embryos is most similar among vertebrates?",
+        "options": [
+            "Adult",
+            "Late embryonic",
+            "Early embryonic",
+            "Larval"
+        ],
+        "answer": 2,
+        "explanation": "Early embryos show maximum similarity."
+    },
+    {
+        "id": 497,
+        "question": "Which concept explains sudden appearance of species in fossil record?",
+        "options": [
+            "Gradualism",
+            "Punctuated equilibrium",
+            "Neutral theory",
+            "Lamarckism"
+        ],
+        "answer": 1,
+        "explanation": "Punctuated equilibrium explains sudden speciation."
+    },
+    {
+        "id": 498,
+        "question": "Which concept assumes constant rate of molecular change?",
+        "options": [
+            "Gradualism",
+            "Molecular clock",
+            "Neutral theory",
+            "Mutation theory"
+        ],
+        "answer": 1,
+        "explanation": "Molecular clock assumes constant rate."
+    },
+    {
+        "id": 499,
+        "question": "Which factor reduces effects of inbreeding?",
+        "options": [
+            "Mutation",
+            "Outbreeding",
+            "Drift",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Outbreeding reduces homozygosity."
+    },
+    {
+        "id": 500,
+        "question": "Evolution is best defined as",
+        "options": [
+            "Origin of life",
+            "Change in gene frequency over generations",
+            "Progressive increase in complexity",
+            "Inheritance of acquired characters"
+        ],
+        "answer": 1,
+        "explanation": "Evolution is change in gene frequency over generations."
+    }
+]

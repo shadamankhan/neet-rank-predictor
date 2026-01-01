@@ -1,0 +1,185 @@
+/* PrivateDeemedFinder.css */
+.finder-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: 'Outfit', sans-serif;
+}
+
+.finder-title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 10px;
+}
+
+.finder-subtitle {
+    text-align: center;
+    color: var(--text-secondary, #64748b);
+    margin-bottom: 40px;
+    font-size: 1.1rem;
+}
+
+.filters-panel {
+    background: white;
+    padding: 25px;
+    border-radius: 16px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+    align-items: end;
+    border: 1px solid #e2e8f0;
+    margin-bottom: 40px;
+}
+
+.filter-group {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.filter-group label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #475569;
+}
+
+.finder-input,
+.finder-select {
+    padding: 12px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.finder-input:focus,
+.finder-select:focus {
+    border-color: #6366f1;
+}
+
+.budget-inputs {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.budget-inputs input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+}
+
+.btn-finder-search {
+    background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: transform 0.2s;
+    height: 46px;
+    /* Match input height */
+}
+
+.btn-finder-search:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(99, 102, 241, 0.3);
+}
+
+.results-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 25px;
+}
+
+.college-card {
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s, box-shadow 0.2s;
+    display: flex;
+    flex-direction: column;
+}
+
+.college-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.badge {
+    padding: 4px 10px;
+    border-radius: 50px;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.badge-deemed {
+    background: #fee2e2;
+    color: #dc2626;
+}
+
+.badge-private {
+    background: #dbeafe;
+    color: #1d4ed8;
+}
+
+.badge-state {
+    background: #f1f5f9;
+    color: #475569;
+    padding: 4px 10px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 600;
+}
+
+.college-card h4 {
+    margin: 0 0 15px;
+    font-size: 1.1rem;
+    color: #1e293b;
+    line-height: 1.4;
+    flex: 1;
+}
+
+.card-details {
+    margin-top: auto;
+    background: #f8fafc;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.detail-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.9rem;
+    color: #475569;
+}
+
+.detail-row strong {
+    color: #0f172a;
+}
+
+.loading-state {
+    text-align: center;
+    padding: 60px;
+    font-size: 1.2rem;
+    color: #64748b;
+}

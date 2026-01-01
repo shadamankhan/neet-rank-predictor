@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "According to Faraday’s law of electromagnetic induction, the induced emf in a circuit is proportional to:",
+        "options": [
+            "Magnetic flux linked with the circuit",
+            "Rate of change of magnetic flux",
+            "Magnetic field strength",
+            "Area of the circuit"
+        ],
+        "answer": 1,
+        "explanation": "Faraday’s law states that induced emf is proportional to the rate of change of magnetic flux."
+    },
+    {
+        "id": 2,
+        "question": "The SI unit of magnetic flux is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Volt"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic flux is measured in weber (Wb)."
+    },
+    {
+        "id": 3,
+        "question": "Lenz’s law is a consequence of conservation of:",
+        "options": [
+            "Charge",
+            "Energy",
+            "Momentum",
+            "Mass"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 4,
+        "question": "The direction of induced current is such that it:",
+        "options": [
+            "Opposes the change causing it",
+            "Enhances the applied magnetic field",
+            "Is independent of magnetic field",
+            "Depends only on resistance"
+        ],
+        "answer": 0,
+        "explanation": "Lenz’s law states induced current opposes the cause producing it."
+    },
+    {
+        "id": 5,
+        "question": "Magnetic flux through a coil of area A placed in uniform magnetic field B at angle θ is:",
+        "options": [
+            "BA sinθ",
+            "BA cosθ",
+            "B/A cosθ",
+            "B/A sinθ"
+        ],
+        "answer": 1,
+        "explanation": "Flux Φ = BA cosθ."
+    },
+    {
+        "id": 6,
+        "question": "The induced emf in a coil of N turns is given by:",
+        "options": [
+            "−dΦ/dt",
+            "−N dΦ/dt",
+            "NΦ",
+            "Φ/t"
+        ],
+        "answer": 1,
+        "explanation": "For N turns, induced emf ε = −N dΦ/dt."
+    },
+    {
+        "id": 7,
+        "question": "If the magnetic flux linked with a coil remains constant, the induced emf is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "No change in flux implies zero induced emf."
+    },
+    {
+        "id": 8,
+        "question": "A straight conductor moves in a magnetic field. The induced emf depends on:",
+        "options": [
+            "Velocity of conductor",
+            "Magnetic field strength",
+            "Length of conductor",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Motional emf ε = Bℓv depends on all three factors."
+    },
+    {
+        "id": 9,
+        "question": "The phenomenon of electromagnetic induction was discovered by:",
+        "options": [
+            "Oersted",
+            "Faraday",
+            "Maxwell",
+            "Ampere"
+        ],
+        "answer": 1,
+        "explanation": "Michael Faraday discovered electromagnetic induction."
+    },
+    {
+        "id": 10,
+        "question": "The negative sign in Faraday’s law indicates:",
+        "options": [
+            "Magnitude of emf",
+            "Direction of emf",
+            "Energy loss",
+            "Resistance of circuit"
+        ],
+        "answer": 1,
+        "explanation": "Negative sign represents Lenz’s law."
+    },
+    {
+        "id": 11,
+        "question": "Self-inductance of a coil depends on:",
+        "options": [
+            "Number of turns",
+            "Area of coil",
+            "Nature of core",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Self-inductance depends on geometry and core material."
+    },
+    {
+        "id": 12,
+        "question": "The SI unit of self-inductance is:",
+        "options": [
+            "Tesla",
+            "Henry",
+            "Weber",
+            "Ohm"
+        ],
+        "answer": 1,
+        "explanation": "Self-inductance is measured in henry (H)."
+    },
+    {
+        "id": 13,
+        "question": "The self-induced emf in a coil is proportional to:",
+        "options": [
+            "Current",
+            "Rate of change of current",
+            "Resistance",
+            "Magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Self-induced emf ε = −L di/dt."
+    },
+    {
+        "id": 14,
+        "question": "Mutual inductance depends on:",
+        "options": [
+            "Number of turns in coils",
+            "Relative orientation of coils",
+            "Distance between coils",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Mutual inductance depends on coupling between coils."
+    },
+    {
+        "id": 15,
+        "question": "The SI unit of mutual inductance is:",
+        "options": [
+            "Weber",
+            "Henry",
+            "Tesla",
+            "Volt"
+        ],
+        "answer": 1,
+        "explanation": "Mutual inductance is also measured in henry."
+    },
+    {
+        "id": 16,
+        "question": "In a transformer, the principle involved is:",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Electrostatics",
+            "Joule heating"
+        ],
+        "answer": 1,
+        "explanation": "Transformer works on mutual induction."
+    },
+    {
+        "id": 17,
+        "question": "Eddy currents are:",
+        "options": [
+            "Useful currents",
+            "Circulating currents induced in bulk conductors",
+            "Alternating currents",
+            "Direct currents"
+        ],
+        "answer": 1,
+        "explanation": "Eddy currents are circulating currents induced in conductors."
+    },
+    {
+        "id": 18,
+        "question": "Eddy currents can be reduced by:",
+        "options": [
+            "Increasing thickness",
+            "Using laminated cores",
+            "Using solid iron cores",
+            "Increasing area"
+        ],
+        "answer": 1,
+        "explanation": "Lamination reduces eddy current losses."
+    },
+    {
+        "id": 19,
+        "question": "The energy stored in an inductor carrying current I is:",
+        "options": [
+            "½LI²",
+            "LI²",
+            "½L/I²",
+            "I²/L"
+        ],
+        "answer": 0,
+        "explanation": "Energy stored = ½LI²."
+    },
+    {
+        "id": 20,
+        "question": "Induced emf is maximum when the rate of change of flux is:",
+        "options": [
+            "Zero",
+            "Minimum",
+            "Maximum",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "Greater rate of change of flux produces higher emf."
+    },
+    {
+        "id": 21,
+        "question": "In Lenz’s law, the induced current produces a magnetic field that:",
+        "options": [
+            "Supports the change",
+            "Opposes the change",
+            "Is zero",
+            "Is independent"
+        ],
+        "answer": 1,
+        "explanation": "Induced magnetic field always opposes the change."
+    },
+    {
+        "id": 22,
+        "question": "The direction of induced current can be determined using:",
+        "options": [
+            "Right-hand thumb rule",
+            "Fleming’s right-hand rule",
+            "Fleming’s left-hand rule",
+            "Maxwell’s rule"
+        ],
+        "answer": 1,
+        "explanation": "Fleming’s right-hand rule gives direction of induced current."
+    },
+    {
+        "id": 23,
+        "question": "Motional emf in a conductor moving perpendicular to magnetic field is:",
+        "options": [
+            "BLv",
+            "Bv/l",
+            "Bl/v",
+            "Bv²"
+        ],
+        "answer": 0,
+        "explanation": "Motional emf ε = Bℓv."
+    },
+    {
+        "id": 24,
+        "question": "If a conductor moves parallel to magnetic field, induced emf is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "No flux cutting occurs when motion is parallel."
+    },
+    {
+        "id": 25,
+        "question": "The phenomenon of electromagnetic induction violates which law if Lenz’s law is ignored?",
+        "options": [
+            "Ohm’s law",
+            "Kirchhoff’s law",
+            "Conservation of energy",
+            "Coulomb’s law"
+        ],
+        "answer": 2,
+        "explanation": "Ignoring Lenz’s law violates energy conservation."
+    },
+    {
+        "id": 26,
+        "question": "A coil has large self-inductance when:",
+        "options": [
+            "Turns are fewer",
+            "Turns are more",
+            "Core is air",
+            "Area is small"
+        ],
+        "answer": 1,
+        "explanation": "Self-inductance increases with number of turns."
+    },
+    {
+        "id": 27,
+        "question": "Mutual inductance between two coils is zero when:",
+        "options": [
+            "They are far apart",
+            "Flux of one does not link the other",
+            "Turns are equal",
+            "Currents are equal"
+        ],
+        "answer": 1,
+        "explanation": "No flux linkage implies zero mutual inductance."
+    },
+    {
+        "id": 28,
+        "question": "The back emf in a motor is due to:",
+        "options": [
+            "Resistance",
+            "Self-induction",
+            "Mutual induction",
+            "Capacitance"
+        ],
+        "answer": 1,
+        "explanation": "Back emf arises due to self-induction."
+    },
+    {
+        "id": 29,
+        "question": "The time constant of an LR circuit is:",
+        "options": [
+            "L/R",
+            "R/L",
+            "LR",
+            "1/LR"
+        ],
+        "answer": 0,
+        "explanation": "Time constant τ = L/R."
+    },
+    {
+        "id": 30,
+        "question": "In an LR circuit, current reaches maximum value in:",
+        "options": [
+            "Zero time",
+            "One time constant",
+            "Infinite time",
+            "Half time constant"
+        ],
+        "answer": 2,
+        "explanation": "Current asymptotically reaches maximum after infinite time."
+    },
+    {
+        "id": 31,
+        "question": "The decay of current in an LR circuit is governed by:",
+        "options": [
+            "Exponential law",
+            "Linear law",
+            "Quadratic law",
+            "Inverse law"
+        ],
+        "answer": 0,
+        "explanation": "Current decays exponentially."
+    },
+    {
+        "id": 32,
+        "question": "The cause of eddy currents is:",
+        "options": [
+            "Changing magnetic field",
+            "Constant magnetic field",
+            "Electric field",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "Eddy currents arise due to changing magnetic field."
+    },
+    {
+        "id": 33,
+        "question": "Eddy current losses are useful in:",
+        "options": [
+            "Electric heater",
+            "Magnetic braking",
+            "Transformers",
+            "Capacitors"
+        ],
+        "answer": 1,
+        "explanation": "Eddy currents are used in magnetic braking."
+    },
+    {
+        "id": 34,
+        "question": "The coefficient of mutual inductance depends on:",
+        "options": [
+            "Current",
+            "Rate of change of current",
+            "Geometry of coils",
+            "Resistance"
+        ],
+        "answer": 2,
+        "explanation": "It depends on coil geometry and coupling."
+    },
+    {
+        "id": 35,
+        "question": "A higher self-inductance implies:",
+        "options": [
+            "Faster current change",
+            "Slower current change",
+            "No current",
+            "Infinite current"
+        ],
+        "answer": 1,
+        "explanation": "Higher inductance opposes change in current."
+    },
+    {
+        "id": 36,
+        "question": "In an inductor, electrical energy is stored in the form of:",
+        "options": [
+            "Electric field",
+            "Magnetic field",
+            "Heat",
+            "Mechanical energy"
+        ],
+        "answer": 1,
+        "explanation": "Energy is stored in magnetic field."
+    },
+    {
+        "id": 37,
+        "question": "Which law gives magnitude of induced emf?",
+        "options": [
+            "Lenz’s law",
+            "Faraday’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Faraday’s law gives magnitude of induced emf."
+    },
+    {
+        "id": 38,
+        "question": "Which law gives direction of induced current?",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Biot–Savart law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law gives direction of induced current."
+    },
+    {
+        "id": 39,
+        "question": "Self-inductance of a straight conductor is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "A straight conductor has finite self-inductance."
+    },
+    {
+        "id": 40,
+        "question": "If current in a coil is steady, self-induced emf is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "No change in current implies zero self-induced emf."
+    },
+    {
+        "id": 41,
+        "question": "The induced current in a coil increases when:",
+        "options": [
+            "Resistance increases",
+            "Rate of change of flux increases",
+            "Area decreases",
+            "Turns decrease"
+        ],
+        "answer": 1,
+        "explanation": "Higher rate of flux change induces larger current."
+    },
+    {
+        "id": 42,
+        "question": "The emf induced in a loop is independent of:",
+        "options": [
+            "Resistance of loop",
+            "Rate of change of flux",
+            "Magnetic field",
+            "Area"
+        ],
+        "answer": 0,
+        "explanation": "Induced emf does not depend on resistance."
+    },
+    {
+        "id": 43,
+        "question": "Which factor does not affect self-inductance?",
+        "options": [
+            "Shape of coil",
+            "Current in coil",
+            "Number of turns",
+            "Core material"
+        ],
+        "answer": 1,
+        "explanation": "Self-inductance is independent of current."
+    },
+    {
+        "id": 44,
+        "question": "The work done to establish current in an inductor appears as:",
+        "options": [
+            "Heat",
+            "Magnetic energy",
+            "Electric energy",
+            "Kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Work done is stored as magnetic energy."
+    },
+    {
+        "id": 45,
+        "question": "Induced emf is called motional emf when it is produced due to:",
+        "options": [
+            "Changing magnetic field",
+            "Motion of conductor",
+            "Self-induction",
+            "Mutual induction"
+        ],
+        "answer": 1,
+        "explanation": "Motional emf is due to motion of conductor in field."
+    },
+    {
+        "id": 46,
+        "question": "Which quantity determines flux linkage?",
+        "options": [
+            "Magnetic field only",
+            "Area only",
+            "Orientation and field",
+            "Resistance"
+        ],
+        "answer": 2,
+        "explanation": "Flux depends on field, area and orientation."
+    },
+    {
+        "id": 47,
+        "question": "If magnetic field is reversed but magnitude remains same, flux:",
+        "options": [
+            "Remains same",
+            "Becomes zero",
+            "Changes sign",
+            "Doubles"
+        ],
+        "answer": 2,
+        "explanation": "Reversing field reverses sign of flux."
+    },
+    {
+        "id": 48,
+        "question": "The induced emf in a closed loop produces:",
+        "options": [
+            "Charge",
+            "Current",
+            "Magnetic field only",
+            "No effect"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf drives current in closed loop."
+    },
+    {
+        "id": 49,
+        "question": "In electromagnetic induction, induced emf exists even if:",
+        "options": [
+            "Circuit is open",
+            "Circuit is closed",
+            "Resistance is zero",
+            "Current flows"
+        ],
+        "answer": 0,
+        "explanation": "Emf exists even in open circuit if flux changes."
+    },
+    {
+        "id": 50,
+        "question": "The magnitude of induced emf in a loop depends on:",
+        "options": [
+            "Shape of loop only",
+            "Material of loop",
+            "Rate of change of magnetic flux",
+            "Resistance only"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on rate of change of flux."
+    },
+    {
+        "id": 51,
+        "question": "When a conducting loop is moved away from a long straight current-carrying conductor, the induced current in the loop is such that it:",
+        "options": [
+            "Increases magnetic flux",
+            "Decreases magnetic flux",
+            "Opposes decrease in magnetic flux",
+            "Opposes increase in magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "According to Lenz’s law, induced current opposes the decrease in magnetic flux."
+    },
+    {
+        "id": 52,
+        "question": "If the number of turns of a coil is doubled, its self-inductance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance is proportional to square of number of turns."
+    },
+    {
+        "id": 53,
+        "question": "The dimensional formula of self-inductance is:",
+        "options": [
+            "[ML²T⁻²A⁻²]",
+            "[ML²T⁻¹A⁻²]",
+            "[ML²T⁻²A⁻¹]",
+            "[MLT⁻²A⁻²]"
+        ],
+        "answer": 0,
+        "explanation": "Self-inductance has dimensions of magnetic energy per current squared."
+    },
+    {
+        "id": 54,
+        "question": "A coil of inductance L carries current I. The induced emf when current changes uniformly to zero in time t is:",
+        "options": [
+            "LI/t",
+            "−LI/t",
+            "−L/t",
+            "LIt"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf ε = −L(dI/dt) = −LI/t."
+    },
+    {
+        "id": 55,
+        "question": "In mutual induction, induced emf in secondary coil depends on:",
+        "options": [
+            "Current in secondary only",
+            "Rate of change of current in primary",
+            "Resistance of secondary",
+            "Voltage applied to secondary"
+        ],
+        "answer": 1,
+        "explanation": "Mutual induction depends on rate of change of current in primary coil."
+    },
+    {
+        "id": 56,
+        "question": "If the current in the primary coil is constant, the induced emf in the secondary is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Constant current produces no change in flux, hence zero induced emf."
+    },
+    {
+        "id": 57,
+        "question": "The phenomenon responsible for damping in a moving coil galvanometer is:",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Joule heating"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents produce damping torque."
+    },
+    {
+        "id": 58,
+        "question": "Eddy current loss in a conductor is directly proportional to:",
+        "options": [
+            "Magnetic field",
+            "Rate of change of magnetic field",
+            "Area only",
+            "Resistance only"
+        ],
+        "answer": 1,
+        "explanation": "Eddy currents depend on rate of change of magnetic field."
+    },
+    {
+        "id": 59,
+        "question": "Which of the following increases self-inductance of a solenoid?",
+        "options": [
+            "Decreasing length",
+            "Increasing radius",
+            "Using soft iron core",
+            "Reducing turns"
+        ],
+        "answer": 2,
+        "explanation": "Soft iron core increases magnetic permeability and inductance."
+    },
+    {
+        "id": 60,
+        "question": "The back emf in an inductor is maximum when:",
+        "options": [
+            "Current is maximum",
+            "Current is minimum",
+            "Rate of change of current is maximum",
+            "Current is constant"
+        ],
+        "answer": 2,
+        "explanation": "Back emf ε = −L(dI/dt) depends on rate of change of current."
+    },
+    {
+        "id": 61,
+        "question": "The flux linkage of a coil carrying current I is given by:",
+        "options": [
+            "Φ/I",
+            "LI",
+            "I/L",
+            "L/I"
+        ],
+        "answer": 1,
+        "explanation": "Flux linkage is proportional to current: NΦ = LI."
+    },
+    {
+        "id": 62,
+        "question": "Which of the following does NOT affect mutual inductance?",
+        "options": [
+            "Distance between coils",
+            "Orientation of coils",
+            "Resistance of coils",
+            "Number of turns"
+        ],
+        "answer": 2,
+        "explanation": "Mutual inductance is independent of resistance."
+    },
+    {
+        "id": 63,
+        "question": "A circular loop is placed in a uniform magnetic field. Induced emf is produced when:",
+        "options": [
+            "Loop is stationary",
+            "Magnetic field is constant",
+            "Area of loop changes",
+            "Resistance changes"
+        ],
+        "answer": 2,
+        "explanation": "Change in flux occurs when area changes."
+    },
+    {
+        "id": 64,
+        "question": "The induced emf in a loop rotating with angular speed ω in uniform magnetic field varies with time as:",
+        "options": [
+            "Constant",
+            "Linear",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Rotating loop produces sinusoidally varying emf."
+    },
+    {
+        "id": 65,
+        "question": "In an LR circuit, the initial growth of current is:",
+        "options": [
+            "Instantaneous",
+            "Linear",
+            "Exponential",
+            "Quadratic"
+        ],
+        "answer": 2,
+        "explanation": "Current grows exponentially with time."
+    },
+    {
+        "id": 66,
+        "question": "At time equal to time constant τ in an LR circuit, current is:",
+        "options": [
+            "0.37 I₀",
+            "0.63 I₀",
+            "I₀",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "At t = τ, current equals 0.63 of maximum value."
+    },
+    {
+        "id": 67,
+        "question": "The induced emf always acts to:",
+        "options": [
+            "Increase current",
+            "Decrease current",
+            "Oppose cause producing it",
+            "Oppose magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "This is the statement of Lenz’s law."
+    },
+    {
+        "id": 68,
+        "question": "If the area of a loop is doubled keeping other factors same, magnetic flux becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Flux Φ = BA cosθ is proportional to area."
+    },
+    {
+        "id": 69,
+        "question": "The self-inductance of a coil is a measure of its ability to:",
+        "options": [
+            "Oppose change in voltage",
+            "Oppose change in current",
+            "Increase current",
+            "Store charge"
+        ],
+        "answer": 1,
+        "explanation": "Self-inductance opposes change in current."
+    },
+    {
+        "id": 70,
+        "question": "If current through an inductor is suddenly interrupted, the voltage across it becomes:",
+        "options": [
+            "Zero",
+            "Very large",
+            "Constant",
+            "Equal to battery voltage"
+        ],
+        "answer": 1,
+        "explanation": "Sudden change in current produces large induced emf."
+    },
+    {
+        "id": 71,
+        "question": "The magnetic energy density in an inductor is proportional to:",
+        "options": [
+            "I",
+            "I²",
+            "1/I",
+            "√I"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored is proportional to square of current."
+    },
+    {
+        "id": 72,
+        "question": "Which condition produces maximum induced emf in a rotating coil?",
+        "options": [
+            "ω = 0",
+            "Flux is constant",
+            "Rate of change of flux is maximum",
+            "Resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on rate of change of flux."
+    },
+    {
+        "id": 73,
+        "question": "A copper plate is allowed to fall between poles of a magnet. Its speed reduces due to:",
+        "options": [
+            "Air resistance",
+            "Eddy currents",
+            "Self-induction",
+            "Mutual induction"
+        ],
+        "answer": 1,
+        "explanation": "Eddy currents oppose motion causing retardation."
+    },
+    {
+        "id": 74,
+        "question": "The direction of induced current is such that the magnetic field produced by it:",
+        "options": [
+            "Aids change in flux",
+            "Opposes change in flux",
+            "Is zero",
+            "Is random"
+        ],
+        "answer": 1,
+        "explanation": "This is Lenz’s law."
+    },
+    {
+        "id": 75,
+        "question": "Which law gives the quantitative value of induced emf?",
+        "options": [
+            "Lenz’s law",
+            "Faraday’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Faraday’s law gives magnitude of induced emf."
+    },
+    {
+        "id": 76,
+        "question": "The mutual inductance between two coils is maximum when they are:",
+        "options": [
+            "Far apart",
+            "At right angles",
+            "Coaxial and close",
+            "Placed randomly"
+        ],
+        "answer": 2,
+        "explanation": "Maximum flux linkage occurs when coils are coaxial and close."
+    },
+    {
+        "id": 77,
+        "question": "If the magnetic field linked with a loop is reversed in direction, induced emf depends on:",
+        "options": [
+            "Magnitude only",
+            "Direction only",
+            "Rate of change of flux",
+            "Resistance"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on rate of change of flux."
+    },
+    {
+        "id": 78,
+        "question": "The unit of inductive reactance is:",
+        "options": [
+            "Henry",
+            "Ohm",
+            "Tesla",
+            "Weber"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance is measured in ohm."
+    },
+    {
+        "id": 79,
+        "question": "Inductive reactance in AC circuit increases with:",
+        "options": [
+            "Decrease in frequency",
+            "Increase in frequency",
+            "Decrease in inductance",
+            "Increase in resistance"
+        ],
+        "answer": 1,
+        "explanation": "X_L = ωL increases with frequency."
+    },
+    {
+        "id": 80,
+        "question": "The emf induced due to self-induction is also called:",
+        "options": [
+            "Forward emf",
+            "Back emf",
+            "Applied emf",
+            "Driving emf"
+        ],
+        "answer": 1,
+        "explanation": "Self-induced emf opposes applied emf, hence back emf."
+    },
+    {
+        "id": 81,
+        "question": "A solenoid has inductance L. If its length is doubled keeping turns same, inductance becomes:",
+        "options": [
+            "L/2",
+            "2L",
+            "4L",
+            "L"
+        ],
+        "answer": 0,
+        "explanation": "Inductance is inversely proportional to length."
+    },
+    {
+        "id": 82,
+        "question": "The coefficient of self-inductance depends on:",
+        "options": [
+            "Current only",
+            "Rate of change of current",
+            "Geometry of circuit",
+            "Applied voltage"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance depends on geometry and medium."
+    },
+    {
+        "id": 83,
+        "question": "If current in a coil increases linearly with time, induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Constant rate of change of current produces constant emf."
+    },
+    {
+        "id": 84,
+        "question": "The energy stored per unit volume in magnetic field is proportional to:",
+        "options": [
+            "B",
+            "B²",
+            "1/B",
+            "√B"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic energy density is proportional to square of magnetic field."
+    },
+    {
+        "id": 85,
+        "question": "Which of the following is an application of eddy currents?",
+        "options": [
+            "Transformer core",
+            "Induction furnace",
+            "Capacitor",
+            "Rectifier"
+        ],
+        "answer": 1,
+        "explanation": "Induction furnace uses eddy current heating."
+    },
+    {
+        "id": 86,
+        "question": "The induced emf in a loop depends on which of the following?",
+        "options": [
+            "Resistance only",
+            "Area only",
+            "Change in magnetic flux",
+            "Material only"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on change in magnetic flux."
+    },
+    {
+        "id": 87,
+        "question": "In electromagnetic induction, flux linkage is zero when:",
+        "options": [
+            "B = 0",
+            "Area = 0",
+            "θ = 90°",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Flux Φ = BA cosθ becomes zero in all cases."
+    },
+    {
+        "id": 88,
+        "question": "The opposition offered by an inductor to AC is called:",
+        "options": [
+            "Resistance",
+            "Capacitance",
+            "Inductive reactance",
+            "Impedance"
+        ],
+        "answer": 2,
+        "explanation": "Inductor offers inductive reactance to AC."
+    },
+    {
+        "id": 89,
+        "question": "In an ideal inductor connected to DC source, steady current is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Oscillating",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "Ideal inductor offers no resistance to DC."
+    },
+    {
+        "id": 90,
+        "question": "The cause of induced emf in a stationary loop placed in changing magnetic field is:",
+        "options": [
+            "Motion of loop",
+            "Change in magnetic flux",
+            "Resistance",
+            "Electric field"
+        ],
+        "answer": 1,
+        "explanation": "Changing flux induces emf even without motion."
+    },
+    {
+        "id": 91,
+        "question": "Which quantity remains conserved due to Lenz’s law?",
+        "options": [
+            "Charge",
+            "Mass",
+            "Energy",
+            "Current"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law is a consequence of conservation of energy."
+    },
+    {
+        "id": 92,
+        "question": "If the resistance of an LR circuit is increased, the time constant:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Time constant τ = L/R decreases with increase in R."
+    },
+    {
+        "id": 93,
+        "question": "The direction of induced emf is independent of:",
+        "options": [
+            "Direction of magnetic field",
+            "Nature of loop",
+            "Change in flux",
+            "Motion of conductor"
+        ],
+        "answer": 1,
+        "explanation": "Direction depends on change in flux, not material."
+    },
+    {
+        "id": 94,
+        "question": "In an LR circuit, energy is dissipated mainly in:",
+        "options": [
+            "Inductor",
+            "Resistor",
+            "Battery",
+            "Switch"
+        ],
+        "answer": 1,
+        "explanation": "Energy is dissipated as heat in resistor."
+    },
+    {
+        "id": 95,
+        "question": "The slope of current-time graph during growth in LR circuit decreases because:",
+        "options": [
+            "Resistance decreases",
+            "Back emf increases",
+            "Applied emf decreases",
+            "Inductance decreases"
+        ],
+        "answer": 1,
+        "explanation": "Back emf opposes increase of current."
+    },
+    {
+        "id": 96,
+        "question": "The magnetic flux linked with a coil is zero when the plane of coil is:",
+        "options": [
+            "Parallel to field",
+            "Perpendicular to field",
+            "Inclined at 45°",
+            "Random"
+        ],
+        "answer": 0,
+        "explanation": "Flux is zero when normal to plane is perpendicular to field."
+    },
+    {
+        "id": 97,
+        "question": "The emf induced in a conductor of length l moving with velocity v in magnetic field B is zero when:",
+        "options": [
+            "v ⟂ B",
+            "v ∥ B",
+            "v ≠ 0",
+            "B ≠ 0"
+        ],
+        "answer": 1,
+        "explanation": "No flux cutting occurs when motion is parallel to field."
+    },
+    {
+        "id": 98,
+        "question": "Which physical quantity is directly responsible for electromagnetic induction?",
+        "options": [
+            "Magnetic field",
+            "Electric field",
+            "Magnetic flux",
+            "Charge"
+        ],
+        "answer": 2,
+        "explanation": "Change in magnetic flux causes induction."
+    },
+    {
+        "id": 99,
+        "question": "The mutual inductance between two coils is symmetric because:",
+        "options": [
+            "M₁₂ = M₂₁",
+            "Currents are equal",
+            "Turns are equal",
+            "Resistances are equal"
+        ],
+        "answer": 0,
+        "explanation": "Mutual inductance is same in both directions."
+    },
+    {
+        "id": 100,
+        "question": "If the rate of change of magnetic flux through a loop is doubled, induced emf becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf is directly proportional to rate of change of flux."
+    },
+    {
+        "id": 101,
+        "question": "If the magnetic flux linked with a coil varies with time as Φ = kt², the induced emf at time t is:",
+        "options": [
+            "−k",
+            "−2kt",
+            "−kt",
+            "−2k"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf ε = −dΦ/dt = −2kt."
+    },
+    {
+        "id": 102,
+        "question": "A coil of inductance L is connected to a battery of emf E. The maximum current in the circuit is:",
+        "options": [
+            "E/L",
+            "L/E",
+            "E/R",
+            "R/E"
+        ],
+        "answer": 2,
+        "explanation": "In steady state, inductor behaves like a conductor and I = E/R."
+    },
+    {
+        "id": 103,
+        "question": "The time taken by current to rise from 0 to 63% of its maximum value in an LR circuit equals:",
+        "options": [
+            "L/R",
+            "R/L",
+            "2L/R",
+            "L/2R"
+        ],
+        "answer": 0,
+        "explanation": "Time constant τ = L/R corresponds to 63% rise."
+    },
+    {
+        "id": 104,
+        "question": "In an LR circuit, at t = 0 the induced emf across the inductor is:",
+        "options": [
+            "Zero",
+            "Equal to applied emf",
+            "Half of applied emf",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "Initially current is zero, so entire applied emf appears across inductor."
+    },
+    {
+        "id": 105,
+        "question": "The magnetic flux linked with a coil depends on:",
+        "options": [
+            "Magnetic field only",
+            "Area only",
+            "Orientation only",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Flux Φ = BA cosθ depends on field, area and orientation."
+    },
+    {
+        "id": 106,
+        "question": "If the rate of change of current in a coil is zero, the self-induced emf is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Negative"
+        ],
+        "answer": 2,
+        "explanation": "Self-induced emf ε = −L(dI/dt) becomes zero."
+    },
+    {
+        "id": 107,
+        "question": "Which of the following increases eddy current loss?",
+        "options": [
+            "Lamination",
+            "High resistance material",
+            "Large thickness",
+            "Slits in conductor"
+        ],
+        "answer": 2,
+        "explanation": "Eddy current loss increases with thickness of conductor."
+    },
+    {
+        "id": 108,
+        "question": "In a rotating coil generator, maximum emf is induced when the plane of coil is:",
+        "options": [
+            "Parallel to magnetic field",
+            "Perpendicular to magnetic field",
+            "At 45° to field",
+            "Randomly oriented"
+        ],
+        "answer": 0,
+        "explanation": "Maximum rate of change of flux occurs when plane is parallel to field."
+    },
+    {
+        "id": 109,
+        "question": "The induced current in a loop is clockwise. The magnetic field through the loop must be:",
+        "options": [
+            "Increasing into the plane",
+            "Decreasing into the plane",
+            "Increasing out of plane",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Clockwise current produces field into plane, opposing decrease of inward flux."
+    },
+    {
+        "id": 110,
+        "question": "The mutual inductance between two coils is zero when:",
+        "options": [
+            "They are coaxial",
+            "They are at right angles",
+            "They are close together",
+            "They have equal turns"
+        ],
+        "answer": 1,
+        "explanation": "At right angles, no flux of one links the other."
+    },
+    {
+        "id": 111,
+        "question": "The energy stored in an inductor is independent of:",
+        "options": [
+            "Current",
+            "Inductance",
+            "Magnetic field",
+            "Resistance of circuit"
+        ],
+        "answer": 3,
+        "explanation": "Energy = ½LI², independent of resistance."
+    },
+    {
+        "id": 112,
+        "question": "Which quantity determines the sign of induced emf?",
+        "options": [
+            "Rate of change of flux",
+            "Direction of flux change",
+            "Magnitude of flux",
+            "Area of coil"
+        ],
+        "answer": 1,
+        "explanation": "Sign depends on direction of change as per Lenz’s law."
+    },
+    {
+        "id": 113,
+        "question": "A conducting rod moves in a magnetic field. The induced emf is zero if the rod moves:",
+        "options": [
+            "Perpendicular to field",
+            "Parallel to field",
+            "At an angle to field",
+            "In circular path"
+        ],
+        "answer": 1,
+        "explanation": "No flux cutting occurs for motion parallel to field."
+    },
+    {
+        "id": 114,
+        "question": "The phenomenon of self-induction occurs due to:",
+        "options": [
+            "Change in current in same circuit",
+            "Change in magnetic field of another circuit",
+            "Constant current",
+            "Electrostatic induction"
+        ],
+        "answer": 0,
+        "explanation": "Self-induction is due to change of current in same circuit."
+    },
+    {
+        "id": 115,
+        "question": "In mutual induction, the induced emf in secondary coil is proportional to:",
+        "options": [
+            "Current in secondary",
+            "Rate of change of current in primary",
+            "Resistance of primary",
+            "Voltage across secondary"
+        ],
+        "answer": 1,
+        "explanation": "ε₂ = −M(dI₁/dt)."
+    },
+    {
+        "id": 116,
+        "question": "The magnetic field energy density is proportional to:",
+        "options": [
+            "H",
+            "B",
+            "B²",
+            "1/B"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic energy density ∝ B²."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following does NOT depend on frequency in AC circuit?",
+        "options": [
+            "Inductive reactance",
+            "Capacitive reactance",
+            "Resistance",
+            "Impedance"
+        ],
+        "answer": 2,
+        "explanation": "Resistance is independent of frequency."
+    },
+    {
+        "id": 118,
+        "question": "In an LR circuit, the current growth curve initially is:",
+        "options": [
+            "Steep",
+            "Flat",
+            "Linear",
+            "Oscillatory"
+        ],
+        "answer": 0,
+        "explanation": "Initial rate of change of current is maximum."
+    },
+    {
+        "id": 119,
+        "question": "The direction of induced current is determined by:",
+        "options": [
+            "Faraday’s law only",
+            "Lenz’s law only",
+            "Both Faraday’s and Lenz’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law gives direction of induced current."
+    },
+    {
+        "id": 120,
+        "question": "If the magnetic field through a loop is constant but the loop rotates, induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Rotation changes flux sinusoidally."
+    },
+    {
+        "id": 121,
+        "question": "A larger inductance in a circuit implies:",
+        "options": [
+            "Faster current change",
+            "Greater opposition to current change",
+            "Lower magnetic energy",
+            "Zero back emf"
+        ],
+        "answer": 1,
+        "explanation": "Inductance resists change in current."
+    },
+    {
+        "id": 122,
+        "question": "The induced emf across an inductor is maximum when current:",
+        "options": [
+            "Is maximum",
+            "Is minimum",
+            "Changes rapidly",
+            "Is constant"
+        ],
+        "answer": 2,
+        "explanation": "ε ∝ dI/dt."
+    },
+    {
+        "id": 123,
+        "question": "The magnetic flux through a coil is maximum when the plane of coil is:",
+        "options": [
+            "Parallel to field",
+            "Perpendicular to field",
+            "Inclined at 45°",
+            "Horizontal"
+        ],
+        "answer": 1,
+        "explanation": "Normal to plane is parallel to field."
+    },
+    {
+        "id": 124,
+        "question": "Eddy currents are minimized by using:",
+        "options": [
+            "Thick solid cores",
+            "Laminated cores",
+            "Low resistance material",
+            "High magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Lamination breaks current paths."
+    },
+    {
+        "id": 125,
+        "question": "The back emf in a motor increases when:",
+        "options": [
+            "Speed decreases",
+            "Speed increases",
+            "Resistance increases",
+            "Voltage decreases"
+        ],
+        "answer": 1,
+        "explanation": "Back emf is proportional to speed."
+    },
+    {
+        "id": 126,
+        "question": "The unit of magnetic flux density is:",
+        "options": [
+            "Weber",
+            "Tesla",
+            "Henry",
+            "Volt"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic flux density is measured in tesla."
+    },
+    {
+        "id": 127,
+        "question": "The magnetic flux through a loop becomes zero when angle between field and area vector is:",
+        "options": [
+            "0°",
+            "45°",
+            "60°",
+            "90°"
+        ],
+        "answer": 3,
+        "explanation": "Φ = BA cosθ becomes zero at 90°."
+    },
+    {
+        "id": 128,
+        "question": "In an LR circuit, energy stored in inductor is finally:",
+        "options": [
+            "Dissipated in resistor",
+            "Returned to battery",
+            "Stored permanently",
+            "Converted to electric energy"
+        ],
+        "answer": 0,
+        "explanation": "Stored energy is dissipated as heat in resistor."
+    },
+    {
+        "id": 129,
+        "question": "The self-inductance of a solenoid is proportional to:",
+        "options": [
+            "Length",
+            "Inverse of length",
+            "Resistance",
+            "Current"
+        ],
+        "answer": 1,
+        "explanation": "L ∝ 1/length for fixed turns."
+    },
+    {
+        "id": 130,
+        "question": "The emf induced in a loop depends on which of the following changes?",
+        "options": [
+            "Magnetic field",
+            "Area",
+            "Orientation",
+            "Any change in flux"
+        ],
+        "answer": 3,
+        "explanation": "Any change in magnetic flux induces emf."
+    },
+    {
+        "id": 131,
+        "question": "The mutual inductance between two coils depends on:",
+        "options": [
+            "Relative position",
+            "Orientation",
+            "Medium",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All affect flux linkage."
+    },
+    {
+        "id": 132,
+        "question": "Which statement is correct for induced emf?",
+        "options": [
+            "Depends on resistance",
+            "Depends on current",
+            "Depends on change in flux",
+            "Depends on material only"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on change in magnetic flux."
+    },
+    {
+        "id": 133,
+        "question": "The slope of current-time graph in LR circuit becomes zero when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant at large time."
+    },
+    {
+        "id": 134,
+        "question": "In a purely inductive AC circuit, the phase difference between voltage and current is:",
+        "options": [
+            "0",
+            "π/4",
+            "π/2",
+            "π"
+        ],
+        "answer": 2,
+        "explanation": "Current lags voltage by 90°."
+    },
+    {
+        "id": 135,
+        "question": "The opposition offered by inductor to DC in steady state is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Maximum"
+        ],
+        "answer": 0,
+        "explanation": "Ideal inductor offers no resistance to DC."
+    },
+    {
+        "id": 136,
+        "question": "Which device works on the principle of electromagnetic induction?",
+        "options": [
+            "Capacitor",
+            "Transformer",
+            "Diode",
+            "Battery"
+        ],
+        "answer": 1,
+        "explanation": "Transformer works on mutual induction."
+    },
+    {
+        "id": 137,
+        "question": "The flux linkage of a coil is defined as:",
+        "options": [
+            "Φ",
+            "NΦ",
+            "Φ/N",
+            "N/Φ"
+        ],
+        "answer": 1,
+        "explanation": "Flux linkage equals number of turns times flux."
+    },
+    {
+        "id": 138,
+        "question": "If the magnetic field through a loop increases uniformly, the induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Uniform change produces constant emf."
+    },
+    {
+        "id": 139,
+        "question": "The cause of back emf in an electric motor is:",
+        "options": [
+            "Resistance",
+            "Self-induction",
+            "Mutual induction",
+            "Eddy current"
+        ],
+        "answer": 1,
+        "explanation": "Back emf is due to self-induction."
+    },
+    {
+        "id": 140,
+        "question": "In electromagnetic induction, induced emf exists even if:",
+        "options": [
+            "Circuit is open",
+            "Current flows",
+            "Resistance is zero",
+            "Battery is present"
+        ],
+        "answer": 0,
+        "explanation": "Changing flux produces emf even in open circuit."
+    },
+    {
+        "id": 141,
+        "question": "The unit of magnetic energy density is:",
+        "options": [
+            "J",
+            "J/m³",
+            "T",
+            "H"
+        ],
+        "answer": 1,
+        "explanation": "Energy density is energy per unit volume."
+    },
+    {
+        "id": 142,
+        "question": "If current in a coil decreases, the induced current will:",
+        "options": [
+            "Aid decrease",
+            "Oppose decrease",
+            "Be zero",
+            "Reverse randomly"
+        ],
+        "answer": 1,
+        "explanation": "Induced current opposes decrease in current."
+    },
+    {
+        "id": 143,
+        "question": "The magnetic flux linked with a coil is zero when:",
+        "options": [
+            "Area is zero",
+            "B is zero",
+            "cosθ = 0",
+            "Any of these"
+        ],
+        "answer": 3,
+        "explanation": "Flux Φ = BA cosθ becomes zero in all cases."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following quantities changes sign when direction of magnetic field is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Area",
+            "Resistance",
+            "Inductance"
+        ],
+        "answer": 0,
+        "explanation": "Flux depends on direction of magnetic field."
+    },
+    {
+        "id": 145,
+        "question": "The induced emf in a conductor is proportional to:",
+        "options": [
+            "Magnetic field",
+            "Velocity",
+            "Length",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "ε = Bℓv."
+    },
+    {
+        "id": 146,
+        "question": "The mutual inductance between two coils is maximum when:",
+        "options": [
+            "They are far apart",
+            "They are coaxial",
+            "They are perpendicular",
+            "They are small"
+        ],
+        "answer": 1,
+        "explanation": "Coaxial coils have maximum flux linkage."
+    },
+    {
+        "id": 147,
+        "question": "In an LR circuit, the initial current is zero because:",
+        "options": [
+            "Resistance is infinite",
+            "Inductor opposes sudden change",
+            "Battery voltage is zero",
+            "Switch is open"
+        ],
+        "answer": 1,
+        "explanation": "Inductor resists sudden change in current."
+    },
+    {
+        "id": 148,
+        "question": "Which factor does NOT affect induced emf?",
+        "options": [
+            "Rate of change of flux",
+            "Magnetic field",
+            "Area",
+            "Resistance of circuit"
+        ],
+        "answer": 3,
+        "explanation": "Resistance affects current, not emf."
+    },
+    {
+        "id": 149,
+        "question": "The energy stored in an inductor per unit current squared equals:",
+        "options": [
+            "L",
+            "1/L",
+            "½L",
+            "2L"
+        ],
+        "answer": 2,
+        "explanation": "Energy = ½LI², so per I² equals ½L."
+    },
+    {
+        "id": 150,
+        "question": "The physical origin of Lenz’s law lies in the law of conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Angular momentum"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law is a consequence of conservation of energy."
+    },
+    {
+        "id": 151,
+        "question": "A coil has inductance L. If the current through it changes from I to zero in time t, the average induced emf is:",
+        "options": [
+            "LI/t",
+            "−LI/t",
+            "LIt",
+            "−LIt"
+        ],
+        "answer": 1,
+        "explanation": "Average induced emf ε = −L(ΔI/Δt) = −LI/t."
+    },
+    {
+        "id": 152,
+        "question": "The self-inductance of a solenoid increases when:",
+        "options": [
+            "Length increases",
+            "Number of turns decreases",
+            "Permeability of core increases",
+            "Radius decreases"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance is proportional to magnetic permeability of the core."
+    },
+    {
+        "id": 153,
+        "question": "In an LR circuit, the potential difference across the inductor just after closing the switch is:",
+        "options": [
+            "Zero",
+            "Equal to IR",
+            "Equal to applied emf",
+            "Half of applied emf"
+        ],
+        "answer": 2,
+        "explanation": "At t = 0, entire applied emf appears across the inductor."
+    },
+    {
+        "id": 154,
+        "question": "The induced emf in a loop is zero when the magnetic flux through it varies as:",
+        "options": [
+            "Φ ∝ t",
+            "Φ ∝ t²",
+            "Φ = constant",
+            "Φ ∝ sinωt"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf is zero when flux remains constant."
+    },
+    {
+        "id": 155,
+        "question": "The dimensional formula of magnetic flux is:",
+        "options": [
+            "[ML²T⁻²A⁻¹]",
+            "[ML²T⁻¹A⁻¹]",
+            "[MLT⁻²A⁻¹]",
+            "[ML²T⁻²A⁻²]"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux has dimensions of energy per unit current."
+    },
+    {
+        "id": 156,
+        "question": "A conducting loop is rotated in a uniform magnetic field with constant angular speed. The average induced emf over one complete rotation is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Finite",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "Average emf over a complete cycle is zero."
+    },
+    {
+        "id": 157,
+        "question": "In electromagnetic induction, which quantity changes sign when the direction of motion of conductor is reversed?",
+        "options": [
+            "Magnetic field",
+            "Magnetic flux",
+            "Induced emf",
+            "Area"
+        ],
+        "answer": 2,
+        "explanation": "Direction of induced emf reverses with motion."
+    },
+    {
+        "id": 158,
+        "question": "The magnetic energy stored in an inductor depends on:",
+        "options": [
+            "I",
+            "L",
+            "I²",
+            "Both L and I²"
+        ],
+        "answer": 3,
+        "explanation": "Energy stored = ½LI²."
+    },
+    {
+        "id": 159,
+        "question": "Which of the following is a correct statement for self-induction?",
+        "options": [
+            "Induced emf opposes applied emf",
+            "Induced emf aids applied emf",
+            "Induced emf is zero always",
+            "Induced emf depends on resistance"
+        ],
+        "answer": 0,
+        "explanation": "Self-induced emf always opposes the applied emf."
+    },
+    {
+        "id": 160,
+        "question": "If the current in a coil varies as I = kt, the induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Rate of change of current is constant, so emf is constant."
+    },
+    {
+        "id": 161,
+        "question": "The mutual inductance between two coils becomes zero if:",
+        "options": [
+            "Currents are equal",
+            "Number of turns are equal",
+            "Flux of one does not link the other",
+            "They are close to each other"
+        ],
+        "answer": 2,
+        "explanation": "No flux linkage implies zero mutual inductance."
+    },
+    {
+        "id": 162,
+        "question": "In an LR circuit, the current becomes steady when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant at large time."
+    },
+    {
+        "id": 163,
+        "question": "Which factor does NOT affect the induced emf in a closed loop?",
+        "options": [
+            "Rate of change of flux",
+            "Area of loop",
+            "Orientation of loop",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Resistance affects current, not induced emf."
+    },
+    {
+        "id": 164,
+        "question": "The emf induced in a coil due to change in current in the same coil is called:",
+        "options": [
+            "Mutual emf",
+            "Back emf",
+            "Applied emf",
+            "Driving emf"
+        ],
+        "answer": 1,
+        "explanation": "Self-induced emf is also called back emf."
+    },
+    {
+        "id": 165,
+        "question": "In a solenoid, inductance is directly proportional to:",
+        "options": [
+            "Length",
+            "Resistance",
+            "Square of number of turns",
+            "Current"
+        ],
+        "answer": 2,
+        "explanation": "Inductance of solenoid ∝ N²."
+    },
+    {
+        "id": 166,
+        "question": "Which statement is correct regarding eddy currents?",
+        "options": [
+            "They flow in closed loops",
+            "They are always harmful",
+            "They do not cause heating",
+            "They require external circuit"
+        ],
+        "answer": 0,
+        "explanation": "Eddy currents circulate in closed loops inside conductors."
+    },
+    {
+        "id": 167,
+        "question": "The damping of oscillations in a galvanometer is due to:",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Resistance only"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents produce damping torque."
+    },
+    {
+        "id": 168,
+        "question": "The emf induced in a conductor moving in magnetic field is proportional to:",
+        "options": [
+            "v",
+            "B",
+            "l",
+            "Bvl"
+        ],
+        "answer": 3,
+        "explanation": "Motional emf ε = Bvl."
+    },
+    {
+        "id": 169,
+        "question": "If the magnetic field through a loop is suddenly switched off, the induced current will:",
+        "options": [
+            "Be zero",
+            "Oppose decrease of flux",
+            "Aid decrease of flux",
+            "Reverse randomly"
+        ],
+        "answer": 1,
+        "explanation": "Induced current opposes decrease in magnetic flux."
+    },
+    {
+        "id": 170,
+        "question": "The energy stored in an inductor is maximum when current is:",
+        "options": [
+            "Zero",
+            "Minimum",
+            "Maximum",
+            "Changing"
+        ],
+        "answer": 2,
+        "explanation": "Energy stored depends on I²."
+    },
+    {
+        "id": 171,
+        "question": "Which of the following quantities is independent of the direction of magnetic field?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Motional emf"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry and medium, not direction."
+    },
+    {
+        "id": 172,
+        "question": "In an LR circuit, the rate of change of current is maximum at:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 0,
+        "explanation": "Initially back emf is minimum, so rate is maximum."
+    },
+    {
+        "id": 173,
+        "question": "The unit of self-inductance can also be written as:",
+        "options": [
+            "Wb A⁻¹",
+            "T m²",
+            "V s",
+            "J A⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "1 H = 1 weber per ampere."
+    },
+    {
+        "id": 174,
+        "question": "The phenomenon of electromagnetic induction is fundamentally due to:",
+        "options": [
+            "Magnetic field",
+            "Electric field",
+            "Change in magnetic flux",
+            "Current"
+        ],
+        "answer": 2,
+        "explanation": "Change in magnetic flux is essential."
+    },
+    {
+        "id": 175,
+        "question": "In a purely inductive AC circuit, the average power consumed is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Minimum",
+            "Finite"
+        ],
+        "answer": 1,
+        "explanation": "Current and voltage are 90° out of phase."
+    },
+    {
+        "id": 176,
+        "question": "If the area of a loop is halved while B and θ remain same, the magnetic flux becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Zero",
+            "Four times"
+        ],
+        "answer": 1,
+        "explanation": "Flux is proportional to area."
+    },
+    {
+        "id": 177,
+        "question": "The back emf in an electric motor helps to:",
+        "options": [
+            "Increase current",
+            "Reduce current",
+            "Reverse current",
+            "Make current constant instantly"
+        ],
+        "answer": 1,
+        "explanation": "Back emf limits the current."
+    },
+    {
+        "id": 178,
+        "question": "Which law gives the direction of induced emf?",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Ohm’s law",
+            "Ampere’s law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law gives the direction."
+    },
+    {
+        "id": 179,
+        "question": "The inductive reactance of an inductor in AC circuit is given by:",
+        "options": [
+            "ωL",
+            "1/ωL",
+            "L/ω",
+            "ω/L"
+        ],
+        "answer": 0,
+        "explanation": "Inductive reactance X_L = ωL."
+    },
+    {
+        "id": 180,
+        "question": "If frequency of AC source is doubled, inductive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "X_L is directly proportional to frequency."
+    },
+    {
+        "id": 181,
+        "question": "Which of the following is an application of electromagnetic induction?",
+        "options": [
+            "Electric heater",
+            "Transformer",
+            "Capacitor",
+            "Voltmeter"
+        ],
+        "answer": 1,
+        "explanation": "Transformer works on mutual induction."
+    },
+    {
+        "id": 182,
+        "question": "The magnetic flux linked with a coil depends on angle θ as:",
+        "options": [
+            "sinθ",
+            "cosθ",
+            "tanθ",
+            "secθ"
+        ],
+        "answer": 1,
+        "explanation": "Φ = BA cosθ."
+    },
+    {
+        "id": 183,
+        "question": "The self-inductance of a straight conductor is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "Straight conductors have finite inductance."
+    },
+    {
+        "id": 184,
+        "question": "Which of the following quantities remains unchanged if current in a coil is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Magnetic field direction"
+        ],
+        "answer": 2,
+        "explanation": "Inductance is independent of current direction."
+    },
+    {
+        "id": 185,
+        "question": "The SI unit of magnetic energy density is:",
+        "options": [
+            "J",
+            "J m⁻³",
+            "T",
+            "H"
+        ],
+        "answer": 1,
+        "explanation": "Energy density is energy per unit volume."
+    },
+    {
+        "id": 186,
+        "question": "The induced emf across an inductor is zero when current is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Alternating"
+        ],
+        "answer": 2,
+        "explanation": "No change in current implies zero emf."
+    },
+    {
+        "id": 187,
+        "question": "In an LR circuit, the current at t = τ is approximately:",
+        "options": [
+            "0.37 I₀",
+            "0.5 I₀",
+            "0.63 I₀",
+            "I₀"
+        ],
+        "answer": 2,
+        "explanation": "At one time constant, current reaches 63% of maximum."
+    },
+    {
+        "id": 188,
+        "question": "The induced current in a loop is anticlockwise. The magnetic flux through the loop must be:",
+        "options": [
+            "Increasing inward",
+            "Decreasing inward",
+            "Increasing outward",
+            "Constant"
+        ],
+        "answer": 2,
+        "explanation": "Anticlockwise current produces outward field opposing increase."
+    },
+    {
+        "id": 189,
+        "question": "The magnetic flux through a loop is maximum when:",
+        "options": [
+            "Plane of loop is parallel to field",
+            "Plane of loop is perpendicular to field",
+            "Loop is inclined at 45°",
+            "Field is zero"
+        ],
+        "answer": 1,
+        "explanation": "Flux is maximum when area vector is parallel to field."
+    },
+    {
+        "id": 190,
+        "question": "Which factor increases eddy current loss in a conductor?",
+        "options": [
+            "High resistance",
+            "Laminated core",
+            "Large thickness",
+            "Low magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Thicker conductors allow larger eddy currents."
+    },
+    {
+        "id": 191,
+        "question": "The flux linkage of a coil is given by:",
+        "options": [
+            "Φ",
+            "NΦ",
+            "Φ/N",
+            "N/Φ"
+        ],
+        "answer": 1,
+        "explanation": "Flux linkage equals number of turns times flux."
+    },
+    {
+        "id": 192,
+        "question": "Which law ensures conservation of energy in electromagnetic induction?",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Ohm’s law",
+            "Ampere’s law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law is based on conservation of energy."
+    },
+    {
+        "id": 193,
+        "question": "The mutual inductance between two coils is independent of:",
+        "options": [
+            "Relative position",
+            "Orientation",
+            "Medium",
+            "Current in coils"
+        ],
+        "answer": 3,
+        "explanation": "Mutual inductance does not depend on current."
+    },
+    {
+        "id": 194,
+        "question": "In a purely inductive circuit, current lags voltage by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "Phase difference is π/2."
+    },
+    {
+        "id": 195,
+        "question": "The cause of induced emf in a stationary loop placed in changing magnetic field is:",
+        "options": [
+            "Motion of loop",
+            "Electric field induced by changing magnetic field",
+            "Resistance of loop",
+            "Charge accumulation"
+        ],
+        "answer": 1,
+        "explanation": "Changing magnetic field produces electric field."
+    },
+    {
+        "id": 196,
+        "question": "The self-inductance of a coil depends on:",
+        "options": [
+            "Shape of coil",
+            "Number of turns",
+            "Nature of core",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All these factors affect inductance."
+    },
+    {
+        "id": 197,
+        "question": "Which quantity determines the magnitude of induced emf?",
+        "options": [
+            "Magnetic flux",
+            "Change in magnetic flux",
+            "Magnetic field",
+            "Current"
+        ],
+        "answer": 1,
+        "explanation": "Magnitude depends on rate of change of flux."
+    },
+    {
+        "id": 198,
+        "question": "The induced emf in a loop rotating with constant angular speed varies with time as:",
+        "options": [
+            "Constant",
+            "Linear",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Flux varies sinusoidally with time."
+    },
+    {
+        "id": 199,
+        "question": "In electromagnetic induction, which quantity is conserved?",
+        "options": [
+            "Charge",
+            "Current",
+            "Energy",
+            "Flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 200,
+        "question": "The opposition offered by an inductor to alternating current is called:",
+        "options": [
+            "Resistance",
+            "Impedance",
+            "Inductive reactance",
+            "Capacitance"
+        ],
+        "answer": 2,
+        "explanation": "Inductor opposes AC by inductive reactance."
+    },
+    {
+        "id": 201,
+        "question": "If the magnetic flux linked with a coil varies as Φ = Φ₀ sin ωt, the induced emf is:",
+        "options": [
+            "−Φ₀ sin ωt",
+            "−ωΦ₀ cos ωt",
+            "ωΦ₀ sin ωt",
+            "ωΦ₀ cos ωt"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf ε = −dΦ/dt = −ωΦ₀ cos ωt."
+    },
+    {
+        "id": 202,
+        "question": "The instantaneous value of induced emf is zero when magnetic flux through a rotating coil is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "Emf is zero when rate of change of flux is zero, i.e. at maximum or minimum flux."
+    },
+    {
+        "id": 203,
+        "question": "In an LR circuit, the energy supplied by the battery is partly stored in inductor and partly:",
+        "options": [
+            "Converted to electric energy",
+            "Converted to heat in resistor",
+            "Stored permanently",
+            "Converted to kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Part of energy is dissipated as heat in the resistor."
+    },
+    {
+        "id": 204,
+        "question": "If the current in a solenoid is reversed, the self-inductance of the solenoid:",
+        "options": [
+            "Becomes zero",
+            "Changes sign",
+            "Remains same",
+            "Doubles"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance depends on geometry and medium, not on current direction."
+    },
+    {
+        "id": 205,
+        "question": "The emf induced in a straight conductor moving in a magnetic field is maximum when the conductor moves:",
+        "options": [
+            "Parallel to field",
+            "Perpendicular to field",
+            "At 45° to field",
+            "Along field lines"
+        ],
+        "answer": 1,
+        "explanation": "Maximum flux cutting occurs when velocity is perpendicular to magnetic field."
+    },
+    {
+        "id": 206,
+        "question": "The phenomenon of electromagnetic induction directly establishes the relation between:",
+        "options": [
+            "Electric field and magnetic field",
+            "Charge and current",
+            "Resistance and current",
+            "Voltage and resistance"
+        ],
+        "answer": 0,
+        "explanation": "Changing magnetic field produces electric field."
+    },
+    {
+        "id": 207,
+        "question": "The unit of magnetic flux can be written as:",
+        "options": [
+            "T m²",
+            "H A",
+            "V s⁻¹",
+            "J T⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "1 weber = 1 tesla × m²."
+    },
+    {
+        "id": 208,
+        "question": "In an LR circuit, the current reaches nearly steady value after time:",
+        "options": [
+            "τ",
+            "2τ",
+            "5τ",
+            "0.1τ"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes practically steady after about five time constants."
+    },
+    {
+        "id": 209,
+        "question": "If the rate of change of current in a coil is doubled, the induced emf becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "ε ∝ dI/dt, so emf doubles."
+    },
+    {
+        "id": 210,
+        "question": "The mutual inductance between two coils is maximum when:",
+        "options": [
+            "Flux linkage is maximum",
+            "Resistance is minimum",
+            "Current is maximum",
+            "Area is minimum"
+        ],
+        "answer": 0,
+        "explanation": "Mutual inductance depends on flux linkage between coils."
+    },
+    {
+        "id": 211,
+        "question": "A thick aluminium plate is allowed to fall between the poles of a strong magnet. Its terminal velocity is due to:",
+        "options": [
+            "Air drag",
+            "Gravitational force",
+            "Eddy current damping",
+            "Self-induction"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents produce retarding force opposing motion."
+    },
+    {
+        "id": 212,
+        "question": "The energy stored in an inductor per unit volume depends on:",
+        "options": [
+            "Current only",
+            "Magnetic field only",
+            "Square of magnetic field",
+            "Square of current"
+        ],
+        "answer": 2,
+        "explanation": "Magnetic energy density ∝ B²."
+    },
+    {
+        "id": 213,
+        "question": "In an LR circuit, the back emf is zero when:",
+        "options": [
+            "Current is changing",
+            "Current is maximum",
+            "Current is constant",
+            "Current is minimum"
+        ],
+        "answer": 2,
+        "explanation": "Back emf exists only when current changes."
+    },
+    {
+        "id": 214,
+        "question": "Which of the following remains unchanged when the magnetic field direction is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Motional emf"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends only on geometry and medium."
+    },
+    {
+        "id": 215,
+        "question": "The induced emf in a coil is independent of:",
+        "options": [
+            "Rate of change of flux",
+            "Number of turns",
+            "Magnetic field",
+            "Resistance of coil"
+        ],
+        "answer": 3,
+        "explanation": "Resistance affects current, not emf."
+    },
+    {
+        "id": 216,
+        "question": "If the magnetic field through a loop is reduced to zero uniformly, the induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Uniform change in flux produces constant emf."
+    },
+    {
+        "id": 217,
+        "question": "The phenomenon responsible for spark across a switch when an inductive circuit is opened is:",
+        "options": [
+            "Electrostatic induction",
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents"
+        ],
+        "answer": 1,
+        "explanation": "Large self-induced emf produces spark."
+    },
+    {
+        "id": 218,
+        "question": "The magnetic flux through a loop of area A in uniform field B is zero when the normal to the loop makes angle θ with B such that:",
+        "options": [
+            "θ = 0°",
+            "θ = 45°",
+            "θ = 60°",
+            "θ = 90°"
+        ],
+        "answer": 3,
+        "explanation": "Φ = BA cosθ = 0 when θ = 90°."
+    },
+    {
+        "id": 219,
+        "question": "The coefficient of self-inductance is numerically equal to the induced emf when the rate of change of current is:",
+        "options": [
+            "0",
+            "1 A s⁻¹",
+            "1 A",
+            "1 s"
+        ],
+        "answer": 1,
+        "explanation": "By definition, L = ε when dI/dt = 1 A s⁻¹."
+    },
+    {
+        "id": 220,
+        "question": "In electromagnetic induction, the induced electric field is:",
+        "options": [
+            "Conservative",
+            "Non-conservative",
+            "Uniform",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Induced electric field is non-conservative."
+    },
+    {
+        "id": 221,
+        "question": "The energy stored in an inductor carrying current I is proportional to:",
+        "options": [
+            "I",
+            "I²",
+            "1/I",
+            "√I"
+        ],
+        "answer": 1,
+        "explanation": "Energy = ½LI²."
+    },
+    {
+        "id": 222,
+        "question": "Which factor increases the time constant of an LR circuit?",
+        "options": [
+            "Increase in R",
+            "Decrease in L",
+            "Increase in L",
+            "Decrease in both L and R"
+        ],
+        "answer": 2,
+        "explanation": "Time constant τ = L/R increases with L."
+    },
+    {
+        "id": 223,
+        "question": "The magnetic flux linked with a coil is maximum when the angle between magnetic field and area vector is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 0,
+        "explanation": "Flux is maximum when cosθ = 1."
+    },
+    {
+        "id": 224,
+        "question": "In an ideal inductor connected to an AC source, the power factor is:",
+        "options": [
+            "1",
+            "0",
+            "0.5",
+            "Depends on frequency"
+        ],
+        "answer": 1,
+        "explanation": "Average power consumed is zero."
+    },
+    {
+        "id": 225,
+        "question": "The cause of electromagnetic damping in instruments is:",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Magnetic hysteresis"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents produce damping torque."
+    },
+    {
+        "id": 226,
+        "question": "If the number of turns of a coil is increased by factor k, the self-inductance becomes:",
+        "options": [
+            "kL",
+            "L/k",
+            "k²L",
+            "L/k²"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance is proportional to square of turns."
+    },
+    {
+        "id": 227,
+        "question": "The induced emf in a loop rotating in magnetic field is zero at the instant when:",
+        "options": [
+            "Flux is zero",
+            "Flux is maximum",
+            "Flux is changing fastest",
+            "Angular speed is zero"
+        ],
+        "answer": 1,
+        "explanation": "At maximum flux, rate of change is zero."
+    },
+    {
+        "id": 228,
+        "question": "Which of the following is a correct dimensional formula of inductance?",
+        "options": [
+            "[ML²T⁻²A⁻²]",
+            "[ML²T⁻¹A⁻²]",
+            "[MLT⁻²A⁻¹]",
+            "[ML²T⁻²A⁻¹]"
+        ],
+        "answer": 0,
+        "explanation": "Inductance has dimensions of energy per current squared."
+    },
+    {
+        "id": 229,
+        "question": "The direction of induced current is such that it always tends to:",
+        "options": [
+            "Increase magnetic flux",
+            "Decrease magnetic flux",
+            "Oppose change in flux",
+            "Support change in flux"
+        ],
+        "answer": 2,
+        "explanation": "This is Lenz’s law."
+    },
+    {
+        "id": 230,
+        "question": "In an LR circuit, the current at very large time depends only on:",
+        "options": [
+            "Inductance",
+            "Resistance",
+            "Applied emf and resistance",
+            "Time constant"
+        ],
+        "answer": 2,
+        "explanation": "Steady current I = E/R."
+    },
+    {
+        "id": 231,
+        "question": "Which of the following quantities is conserved due to Lenz’s law?",
+        "options": [
+            "Charge",
+            "Current",
+            "Energy",
+            "Flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 232,
+        "question": "The emf induced in a coil when current changes in the same coil is proportional to:",
+        "options": [
+            "Current",
+            "Rate of change of current",
+            "Resistance",
+            "Magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "ε = −L(dI/dt)."
+    },
+    {
+        "id": 233,
+        "question": "The magnetic flux through a loop does not depend on:",
+        "options": [
+            "Magnetic field",
+            "Area of loop",
+            "Orientation of loop",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Flux is independent of resistance."
+    },
+    {
+        "id": 234,
+        "question": "Which statement is correct for eddy currents?",
+        "options": [
+            "They oppose the cause producing them",
+            "They always increase efficiency",
+            "They do not produce heat",
+            "They require external circuit"
+        ],
+        "answer": 0,
+        "explanation": "Eddy currents oppose the change producing them."
+    },
+    {
+        "id": 235,
+        "question": "The mutual inductance between two coils depends on:",
+        "options": [
+            "Relative position",
+            "Orientation",
+            "Nature of medium",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All affect flux linkage."
+    },
+    {
+        "id": 236,
+        "question": "If the magnetic field through a loop is doubled in half the time, the induced emf becomes:",
+        "options": [
+            "Same",
+            "Double",
+            "Four times",
+            "Half"
+        ],
+        "answer": 2,
+        "explanation": "Rate of change of flux becomes four times."
+    },
+    {
+        "id": 237,
+        "question": "The self-inductance of a coil does NOT depend on:",
+        "options": [
+            "Number of turns",
+            "Area of cross-section",
+            "Nature of core",
+            "Current in the coil"
+        ],
+        "answer": 3,
+        "explanation": "Inductance is independent of current."
+    },
+    {
+        "id": 238,
+        "question": "In a purely inductive AC circuit, the instantaneous power is:",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "Sometimes positive and sometimes negative",
+            "Zero at all times"
+        ],
+        "answer": 2,
+        "explanation": "Power alternates between source and inductor."
+    },
+    {
+        "id": 239,
+        "question": "The phenomenon of electromagnetic induction is used in:",
+        "options": [
+            "Electric generator",
+            "Transformer",
+            "Induction furnace",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All operate on electromagnetic induction."
+    },
+    {
+        "id": 240,
+        "question": "The induced emf across an inductor in AC circuit leads the current by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "Voltage leads current by 90° in pure inductor."
+    },
+    {
+        "id": 241,
+        "question": "The magnetic flux through a loop is reversed when:",
+        "options": [
+            "Area is reversed",
+            "Magnetic field direction is reversed",
+            "Orientation is reversed",
+            "Any of these"
+        ],
+        "answer": 3,
+        "explanation": "Flux changes sign in all cases."
+    },
+    {
+        "id": 242,
+        "question": "The unit of self-inductance henry can also be written as:",
+        "options": [
+            "V s A⁻¹",
+            "Wb s⁻¹",
+            "T m² s",
+            "J s"
+        ],
+        "answer": 0,
+        "explanation": "1 H = 1 volt-second per ampere."
+    },
+    {
+        "id": 243,
+        "question": "If the magnetic flux through a coil changes uniformly, the induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Uniform flux change gives constant emf."
+    },
+    {
+        "id": 244,
+        "question": "The energy stored in an inductor is finally dissipated as heat when:",
+        "options": [
+            "Circuit is closed",
+            "Current is increasing",
+            "Circuit is opened",
+            "Current becomes steady"
+        ],
+        "answer": 2,
+        "explanation": "Stored energy is dissipated when circuit is opened."
+    },
+    {
+        "id": 245,
+        "question": "Which of the following quantities changes sign when direction of current in a coil is reversed?",
+        "options": [
+            "Inductance",
+            "Magnetic flux",
+            "Energy stored",
+            "Time constant"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic flux reverses with current direction."
+    },
+    {
+        "id": 246,
+        "question": "The induced emf in a stationary loop placed in time-varying magnetic field exists due to:",
+        "options": [
+            "Lorentz force",
+            "Induced electric field",
+            "Motion of charges",
+            "Resistance of loop"
+        ],
+        "answer": 1,
+        "explanation": "Changing magnetic field induces electric field."
+    },
+    {
+        "id": 247,
+        "question": "The self-inductance of a coil is defined as the flux linkage per unit:",
+        "options": [
+            "Current",
+            "Voltage",
+            "Resistance",
+            "Power"
+        ],
+        "answer": 0,
+        "explanation": "L = NΦ/I."
+    },
+    {
+        "id": 248,
+        "question": "The induced emf always acts to:",
+        "options": [
+            "Increase current",
+            "Decrease current",
+            "Oppose the change causing it",
+            "Support the change causing it"
+        ],
+        "answer": 2,
+        "explanation": "This follows from Lenz’s law."
+    },
+    {
+        "id": 249,
+        "question": "In an LR circuit, the current decay after switching off follows:",
+        "options": [
+            "Linear law",
+            "Exponential law",
+            "Quadratic law",
+            "Inverse law"
+        ],
+        "answer": 1,
+        "explanation": "Current decays exponentially with time."
+    },
+    {
+        "id": 250,
+        "question": "The fundamental reason for negative sign in Faraday’s law is:",
+        "options": [
+            "Direction of current",
+            "Nature of magnetic field",
+            "Conservation of energy",
+            "Mathematical convention"
+        ],
+        "answer": 2,
+        "explanation": "Negative sign represents Lenz’s law ensuring energy conservation."
+    },
+    {
+        "id": 251,
+        "question": "If the magnetic flux through a coil varies as Φ = Φ₀ cos ωt, the induced emf is:",
+        "options": [
+            "ωΦ₀ cos ωt",
+            "−ωΦ₀ sin ωt",
+            "ωΦ₀ sin ωt",
+            "−ωΦ₀ cos ωt"
+        ],
+        "answer": 2,
+        "explanation": "ε = −dΦ/dt = ωΦ₀ sin ωt."
+    },
+    {
+        "id": 252,
+        "question": "In a rotating coil generator, the rms value of induced emf depends on:",
+        "options": [
+            "Peak emf only",
+            "Angular speed only",
+            "Magnetic field only",
+            "Peak emf"
+        ],
+        "answer": 3,
+        "explanation": "ε_rms = ε₀/√2 depends on peak emf."
+    },
+    {
+        "id": 253,
+        "question": "The induced emf in a loop is zero when the magnetic flux through the loop is:",
+        "options": [
+            "Increasing uniformly",
+            "Decreasing uniformly",
+            "Maximum or minimum",
+            "Changing sinusoidally"
+        ],
+        "answer": 2,
+        "explanation": "At extrema of flux, dΦ/dt = 0."
+    },
+    {
+        "id": 254,
+        "question": "The self-inductance of a solenoid is proportional to:",
+        "options": [
+            "Length",
+            "1/Length",
+            "Current",
+            "Resistance"
+        ],
+        "answer": 1,
+        "explanation": "For fixed turns, L ∝ 1/length."
+    },
+    {
+        "id": 255,
+        "question": "In an LR circuit, the current growth initially is slow because:",
+        "options": [
+            "Resistance is large",
+            "Back emf is large",
+            "Applied emf is small",
+            "Inductance is zero"
+        ],
+        "answer": 1,
+        "explanation": "Back emf opposes rise of current."
+    },
+    {
+        "id": 256,
+        "question": "The unit of magnetic flux can also be written as:",
+        "options": [
+            "V s",
+            "T m",
+            "H A",
+            "J A⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "1 weber = 1 volt-second."
+    },
+    {
+        "id": 257,
+        "question": "Which quantity remains unchanged if the current in a coil is doubled?",
+        "options": [
+            "Magnetic flux",
+            "Energy stored",
+            "Inductance",
+            "Magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry and medium."
+    },
+    {
+        "id": 258,
+        "question": "The direction of induced current is determined by:",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Right-hand thumb rule",
+            "Biot–Savart law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law gives direction."
+    },
+    {
+        "id": 259,
+        "question": "In an LR circuit, the time constant increases when:",
+        "options": [
+            "R increases",
+            "L increases",
+            "Both L and R increase proportionally",
+            "R decreases"
+        ],
+        "answer": 1,
+        "explanation": "τ = L/R increases with L."
+    },
+    {
+        "id": 260,
+        "question": "The induced emf across an inductor is maximum when:",
+        "options": [
+            "Current is maximum",
+            "Current is constant",
+            "Rate of change of current is maximum",
+            "Current is zero"
+        ],
+        "answer": 2,
+        "explanation": "ε ∝ dI/dt."
+    },
+    {
+        "id": 261,
+        "question": "Eddy currents are produced due to:",
+        "options": [
+            "Steady magnetic field",
+            "Changing magnetic field",
+            "Electric field only",
+            "Charge accumulation"
+        ],
+        "answer": 1,
+        "explanation": "Changing magnetic field induces circulating currents."
+    },
+    {
+        "id": 262,
+        "question": "Which method reduces eddy current loss?",
+        "options": [
+            "Using solid cores",
+            "Using laminated cores",
+            "Increasing thickness",
+            "Using low resistance material"
+        ],
+        "answer": 1,
+        "explanation": "Lamination breaks current paths."
+    },
+    {
+        "id": 263,
+        "question": "The magnetic energy stored in an inductor per unit current squared equals:",
+        "options": [
+            "L",
+            "1/L",
+            "½L",
+            "2L"
+        ],
+        "answer": 2,
+        "explanation": "From U = ½LI²."
+    },
+    {
+        "id": 264,
+        "question": "The induced emf in a stationary loop placed in a changing magnetic field is due to:",
+        "options": [
+            "Lorentz force",
+            "Induced electric field",
+            "Motion of charges",
+            "Resistance"
+        ],
+        "answer": 1,
+        "explanation": "Time-varying B induces non-conservative E."
+    },
+    {
+        "id": 265,
+        "question": "If the area vector of a loop is reversed, the magnetic flux:",
+        "options": [
+            "Remains same",
+            "Becomes zero",
+            "Changes sign",
+            "Doubles"
+        ],
+        "answer": 2,
+        "explanation": "Φ = BA cosθ changes sign with area vector."
+    },
+    {
+        "id": 266,
+        "question": "The back emf in a motor increases with:",
+        "options": [
+            "Decrease in speed",
+            "Increase in speed",
+            "Increase in resistance",
+            "Decrease in voltage"
+        ],
+        "answer": 1,
+        "explanation": "Back emf ∝ speed."
+    },
+    {
+        "id": 267,
+        "question": "In an ideal inductor connected to DC source, the steady current is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Oscillatory"
+        ],
+        "answer": 1,
+        "explanation": "Ideal inductor offers no resistance to DC."
+    },
+    {
+        "id": 268,
+        "question": "The induced emf in a loop rotating with constant angular speed varies as:",
+        "options": [
+            "Constant",
+            "Linear",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Flux varies sinusoidally with time."
+    },
+    {
+        "id": 269,
+        "question": "The mutual inductance between two coils is independent of:",
+        "options": [
+            "Relative position",
+            "Orientation",
+            "Medium",
+            "Currents in coils"
+        ],
+        "answer": 3,
+        "explanation": "M depends on geometry and medium, not current."
+    },
+    {
+        "id": 270,
+        "question": "Which quantity ensures conservation of energy in electromagnetic induction?",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Ohm’s law",
+            "Kirchhoff’s law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law enforces energy conservation."
+    },
+    {
+        "id": 271,
+        "question": "The SI unit of self-inductance can be expressed as:",
+        "options": [
+            "Wb A⁻¹",
+            "T m² s",
+            "V A⁻¹",
+            "J s"
+        ],
+        "answer": 0,
+        "explanation": "1 H = 1 weber per ampere."
+    },
+    {
+        "id": 272,
+        "question": "If the magnetic field through a loop is doubled in the same time, the induced emf becomes:",
+        "options": [
+            "Same",
+            "Double",
+            "Four times",
+            "Half"
+        ],
+        "answer": 1,
+        "explanation": "ε ∝ dΦ/dt."
+    },
+    {
+        "id": 273,
+        "question": "The slope of current-time graph in an LR circuit becomes zero when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant at large time."
+    },
+    {
+        "id": 274,
+        "question": "The magnetic flux through a loop is maximum when the plane of loop is:",
+        "options": [
+            "Parallel to field",
+            "Perpendicular to field",
+            "At 45°",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Area vector parallel to B gives maximum flux."
+    },
+    {
+        "id": 275,
+        "question": "In a purely inductive AC circuit, the average power consumed is:",
+        "options": [
+            "Maximum",
+            "Finite",
+            "Zero",
+            "Minimum but non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Voltage and current are 90° out of phase."
+    },
+    {
+        "id": 276,
+        "question": "The induced emf across an inductor leads the current by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "In pure inductor, V leads I by π/2."
+    },
+    {
+        "id": 277,
+        "question": "The phenomenon of electromagnetic damping is due to:",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Hysteresis"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents produce damping torque."
+    },
+    {
+        "id": 278,
+        "question": "The emf induced in a conductor of length l moving with velocity v in magnetic field B is:",
+        "options": [
+            "Bl/v",
+            "Bv/l",
+            "Blv",
+            "B/vl"
+        ],
+        "answer": 2,
+        "explanation": "Motional emf ε = Blv."
+    },
+    {
+        "id": 279,
+        "question": "The self-inductance of a coil does NOT depend on:",
+        "options": [
+            "Number of turns",
+            "Area",
+            "Core material",
+            "Current"
+        ],
+        "answer": 3,
+        "explanation": "Inductance is independent of current."
+    },
+    {
+        "id": 280,
+        "question": "If the magnetic flux through a loop changes uniformly, the induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Uniform change gives constant emf."
+    },
+    {
+        "id": 281,
+        "question": "The mutual inductance between two coils is maximum when they are:",
+        "options": [
+            "Far apart",
+            "Perpendicular",
+            "Coaxial and close",
+            "Randomly placed"
+        ],
+        "answer": 2,
+        "explanation": "Maximum flux linkage occurs when coaxial."
+    },
+    {
+        "id": 282,
+        "question": "The induced emf exists even if the circuit is open because:",
+        "options": [
+            "Current flows",
+            "Flux changes",
+            "Resistance is zero",
+            "Battery is present"
+        ],
+        "answer": 1,
+        "explanation": "Emf depends on flux change, not current."
+    },
+    {
+        "id": 283,
+        "question": "The magnetic energy density depends on:",
+        "options": [
+            "B",
+            "B²",
+            "1/B",
+            "√B"
+        ],
+        "answer": 1,
+        "explanation": "Energy density ∝ B²."
+    },
+    {
+        "id": 284,
+        "question": "In an LR circuit, the energy stored in the inductor is finally dissipated in:",
+        "options": [
+            "Inductor",
+            "Battery",
+            "Resistor",
+            "Switch"
+        ],
+        "answer": 2,
+        "explanation": "Energy is lost as heat in resistor."
+    },
+    {
+        "id": 285,
+        "question": "Which factor does not affect induced emf?",
+        "options": [
+            "Rate of change of flux",
+            "Number of turns",
+            "Magnetic field",
+            "Resistance"
+        ],
+        "answer": 3,
+        "explanation": "Resistance affects current, not emf."
+    },
+    {
+        "id": 286,
+        "question": "The induced current always flows so as to:",
+        "options": [
+            "Increase flux",
+            "Decrease flux",
+            "Oppose the change in flux",
+            "Support the change in flux"
+        ],
+        "answer": 2,
+        "explanation": "This is Lenz’s law."
+    },
+    {
+        "id": 287,
+        "question": "The unit of inductive reactance is:",
+        "options": [
+            "Henry",
+            "Ohm",
+            "Tesla",
+            "Weber"
+        ],
+        "answer": 1,
+        "explanation": "Reactance is measured in ohm."
+    },
+    {
+        "id": 288,
+        "question": "If frequency of AC source is doubled, inductive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "X_L = ωL ∝ f."
+    },
+    {
+        "id": 289,
+        "question": "The time constant of an LR circuit is:",
+        "options": [
+            "R/L",
+            "L/R",
+            "LR",
+            "1/LR"
+        ],
+        "answer": 1,
+        "explanation": "τ = L/R."
+    },
+    {
+        "id": 290,
+        "question": "At t = τ in an LR circuit, the current equals:",
+        "options": [
+            "0.37 I₀",
+            "0.5 I₀",
+            "0.63 I₀",
+            "I₀"
+        ],
+        "answer": 2,
+        "explanation": "At one time constant, current is 63% of final."
+    },
+    {
+        "id": 291,
+        "question": "The magnetic flux through a loop is zero when the angle between B and area vector is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 3,
+        "explanation": "Φ = BA cosθ = 0 at 90°."
+    },
+    {
+        "id": 292,
+        "question": "Which device works on mutual induction?",
+        "options": [
+            "Electric heater",
+            "Transformer",
+            "Capacitor",
+            "Battery"
+        ],
+        "answer": 1,
+        "explanation": "Transformer operates on mutual induction."
+    },
+    {
+        "id": 293,
+        "question": "The negative sign in Faraday’s law represents:",
+        "options": [
+            "Magnitude of emf",
+            "Direction given by Lenz’s law",
+            "Energy loss",
+            "Resistance effect"
+        ],
+        "answer": 1,
+        "explanation": "Negative sign indicates opposition to cause."
+    },
+    {
+        "id": 294,
+        "question": "The induced emf is proportional to:",
+        "options": [
+            "Magnetic flux",
+            "Change in magnetic flux",
+            "Magnetic field only",
+            "Area only"
+        ],
+        "answer": 1,
+        "explanation": "ε ∝ dΦ/dt."
+    },
+    {
+        "id": 295,
+        "question": "Which quantity is conserved in electromagnetic induction?",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures energy conservation."
+    },
+    {
+        "id": 296,
+        "question": "The self-inductance of a straight conductor is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "Straight conductors have finite inductance."
+    },
+    {
+        "id": 297,
+        "question": "If the current in a coil decreases, the induced current will:",
+        "options": [
+            "Aid the decrease",
+            "Oppose the decrease",
+            "Be zero",
+            "Reverse randomly"
+        ],
+        "answer": 1,
+        "explanation": "Induced current opposes change."
+    },
+    {
+        "id": 298,
+        "question": "The induced emf in a loop rotating in uniform magnetic field is maximum when:",
+        "options": [
+            "Flux is zero",
+            "Flux is maximum",
+            "Flux is minimum",
+            "Flux is constant"
+        ],
+        "answer": 0,
+        "explanation": "Maximum rate of change occurs at zero flux."
+    },
+    {
+        "id": 299,
+        "question": "The cause of spark across a switch in an inductive circuit is:",
+        "options": [
+            "Electrostatic induction",
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents"
+        ],
+        "answer": 1,
+        "explanation": "Large self-induced emf causes spark."
+    },
+    {
+        "id": 300,
+        "question": "The fundamental reason for Lenz’s law is the conservation of:",
+        "options": [
+            "Charge",
+            "Current",
+            "Energy",
+            "Flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law is based on conservation of energy."
+    },
+    {
+        "id": 301,
+        "question": "If the magnetic flux through a coil varies with time as Φ = at + b, where a and b are constants, the induced emf is:",
+        "options": [
+            "Zero",
+            "a",
+            "−a",
+            "−b"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf ε = −dΦ/dt = −a."
+    },
+    {
+        "id": 302,
+        "question": "In an LR circuit, the current decay after switching off the battery is governed by:",
+        "options": [
+            "Linear law",
+            "Exponential law",
+            "Quadratic law",
+            "Inverse law"
+        ],
+        "answer": 1,
+        "explanation": "Current decays exponentially with time in an LR circuit."
+    },
+    {
+        "id": 303,
+        "question": "The magnetic flux linked with a coil depends on the angle θ between:",
+        "options": [
+            "Plane of coil and magnetic field",
+            "Normal to coil and magnetic field",
+            "Plane of coil and area vector",
+            "Current and magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Flux Φ = BA cosθ, where θ is angle between area vector (normal) and magnetic field."
+    },
+    {
+        "id": 304,
+        "question": "The self-inductance of a coil can be increased by:",
+        "options": [
+            "Reducing number of turns",
+            "Using an air core",
+            "Using a soft iron core",
+            "Reducing area of cross-section"
+        ],
+        "answer": 2,
+        "explanation": "Soft iron core increases magnetic permeability, increasing inductance."
+    },
+    {
+        "id": 305,
+        "question": "Which quantity remains unchanged when the polarity of induced emf is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Rate of change of flux",
+            "Inductance",
+            "Direction of current"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry and medium, not direction."
+    },
+    {
+        "id": 306,
+        "question": "The induced emf in a coil is zero if the magnetic field through the coil:",
+        "options": [
+            "Is strong",
+            "Is weak",
+            "Remains constant",
+            "Is uniform"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf is produced only when magnetic flux changes."
+    },
+    {
+        "id": 307,
+        "question": "In a rotating coil generator, the emf is maximum when the angle between magnetic field and area vector is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 3,
+        "explanation": "Maximum rate of change of flux occurs when area vector is perpendicular to field."
+    },
+    {
+        "id": 308,
+        "question": "The magnetic energy stored in an inductor depends on which of the following?",
+        "options": [
+            "Inductance only",
+            "Current only",
+            "Square of current",
+            "Inductance and square of current"
+        ],
+        "answer": 3,
+        "explanation": "Energy stored U = ½LI²."
+    },
+    {
+        "id": 309,
+        "question": "The induced emf in a conductor moving in a magnetic field is zero when the velocity of conductor is:",
+        "options": [
+            "Perpendicular to field",
+            "Parallel to field",
+            "At 45° to field",
+            "Opposite to field"
+        ],
+        "answer": 1,
+        "explanation": "No flux cutting occurs when velocity is parallel to magnetic field."
+    },
+    {
+        "id": 310,
+        "question": "Which factor does NOT affect the mutual inductance between two coils?",
+        "options": [
+            "Distance between coils",
+            "Relative orientation",
+            "Nature of medium",
+            "Current in the coils"
+        ],
+        "answer": 3,
+        "explanation": "Mutual inductance is independent of current."
+    },
+    {
+        "id": 311,
+        "question": "The SI unit of magnetic flux density is:",
+        "options": [
+            "Weber",
+            "Tesla",
+            "Henry",
+            "Volt"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic flux density B is measured in tesla."
+    },
+    {
+        "id": 312,
+        "question": "In an LR circuit, the current at time t is given by I = I₀(1 − e^(−t/τ)). Here τ represents:",
+        "options": [
+            "Resistance",
+            "Inductance",
+            "Time constant",
+            "Angular frequency"
+        ],
+        "answer": 2,
+        "explanation": "τ = L/R is the time constant of the LR circuit."
+    },
+    {
+        "id": 313,
+        "question": "The direction of induced current in a loop is such that the magnetic field produced by it:",
+        "options": [
+            "Aids the change in flux",
+            "Opposes the change in flux",
+            "Is independent of change in flux",
+            "Is zero"
+        ],
+        "answer": 1,
+        "explanation": "This is the statement of Lenz’s law."
+    },
+    {
+        "id": 314,
+        "question": "Which of the following is an application of eddy currents?",
+        "options": [
+            "Electric fuse",
+            "Transformer core",
+            "Induction furnace",
+            "Capacitor"
+        ],
+        "answer": 2,
+        "explanation": "Induction furnace uses eddy current heating."
+    },
+    {
+        "id": 315,
+        "question": "The induced emf across an inductor is proportional to:",
+        "options": [
+            "Current",
+            "Resistance",
+            "Rate of change of current",
+            "Magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "ε = −L(dI/dt)."
+    },
+    {
+        "id": 316,
+        "question": "In a purely inductive AC circuit, the average power consumed over one cycle is:",
+        "options": [
+            "Maximum",
+            "Finite",
+            "Zero",
+            "Minimum but non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Current and voltage are 90° out of phase, so average power is zero."
+    },
+    {
+        "id": 317,
+        "question": "The magnetic flux through a coil is zero when the plane of the coil is:",
+        "options": [
+            "Parallel to magnetic field",
+            "Perpendicular to magnetic field",
+            "Inclined at 45°",
+            "Horizontal"
+        ],
+        "answer": 0,
+        "explanation": "When plane is parallel to field, area vector is perpendicular to field, so Φ = 0."
+    },
+    {
+        "id": 318,
+        "question": "The self-inductance of a solenoid is proportional to:",
+        "options": [
+            "Length",
+            "Inverse of length",
+            "Resistance",
+            "Current"
+        ],
+        "answer": 1,
+        "explanation": "For fixed turns, inductance is inversely proportional to length."
+    },
+    {
+        "id": 319,
+        "question": "If the current in a coil changes uniformly with time, the induced emf is:",
+        "options": [
+            "Zero",
+            "Constant",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Uniform rate of change of current produces constant emf."
+    },
+    {
+        "id": 320,
+        "question": "The mutual inductance between two coils is maximum when they are:",
+        "options": [
+            "Far apart",
+            "At right angles",
+            "Coaxial and close",
+            "Randomly placed"
+        ],
+        "answer": 2,
+        "explanation": "Maximum flux linkage occurs when coils are coaxial and close."
+    },
+    {
+        "id": 321,
+        "question": "Which of the following quantities changes sign when the direction of magnetic field is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Inductance",
+            "Energy stored",
+            "Time constant"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux changes sign with reversal of magnetic field."
+    },
+    {
+        "id": 322,
+        "question": "The cause of spark across a switch when an inductive circuit is opened is:",
+        "options": [
+            "Electrostatic induction",
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents"
+        ],
+        "answer": 1,
+        "explanation": "Large self-induced emf appears when current is interrupted."
+    },
+    {
+        "id": 323,
+        "question": "The magnetic energy density in a region depends on:",
+        "options": [
+            "B",
+            "B²",
+            "1/B",
+            "√B"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic energy density is proportional to square of magnetic field."
+    },
+    {
+        "id": 324,
+        "question": "In an LR circuit, the current reaches approximately steady value after time:",
+        "options": [
+            "τ",
+            "2τ",
+            "5τ",
+            "10τ"
+        ],
+        "answer": 2,
+        "explanation": "Current is practically steady after about five time constants."
+    },
+    {
+        "id": 325,
+        "question": "The induced emf exists in an open circuit because:",
+        "options": [
+            "Current flows",
+            "Magnetic flux changes",
+            "Resistance is zero",
+            "Battery is connected"
+        ],
+        "answer": 1,
+        "explanation": "Emf depends on change in flux, not on current flow."
+    },
+    {
+        "id": 326,
+        "question": "The inductive reactance of an inductor is given by:",
+        "options": [
+            "1/ωL",
+            "ωL",
+            "L/ω",
+            "Rω"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance X_L = ωL."
+    },
+    {
+        "id": 327,
+        "question": "If frequency of AC source is increased, inductive reactance:",
+        "options": [
+            "Decreases",
+            "Remains same",
+            "Increases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "X_L is directly proportional to frequency."
+    },
+    {
+        "id": 328,
+        "question": "The self-inductance of a coil does NOT depend on:",
+        "options": [
+            "Number of turns",
+            "Area of coil",
+            "Nature of core",
+            "Current in the coil"
+        ],
+        "answer": 3,
+        "explanation": "Inductance is independent of current."
+    },
+    {
+        "id": 329,
+        "question": "In electromagnetic induction, the induced electric field is:",
+        "options": [
+            "Conservative",
+            "Non-conservative",
+            "Uniform",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Induced electric field is non-conservative."
+    },
+    {
+        "id": 330,
+        "question": "The flux linkage of a coil having N turns and magnetic flux Φ is:",
+        "options": [
+            "Φ",
+            "NΦ",
+            "Φ/N",
+            "N/Φ"
+        ],
+        "answer": 1,
+        "explanation": "Flux linkage is defined as NΦ."
+    },
+    {
+        "id": 331,
+        "question": "The fundamental reason for Lenz’s law is conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 332,
+        "question": "The induced emf in a loop rotating in uniform magnetic field is maximum when:",
+        "options": [
+            "Flux is zero",
+            "Flux is maximum",
+            "Flux is constant",
+            "Flux is minimum"
+        ],
+        "answer": 0,
+        "explanation": "Maximum emf corresponds to maximum rate of change of flux."
+    },
+    {
+        "id": 333,
+        "question": "In an LR circuit, the initial rate of increase of current is maximum because:",
+        "options": [
+            "Back emf is zero",
+            "Resistance is zero",
+            "Inductance is zero",
+            "Applied emf is zero"
+        ],
+        "answer": 0,
+        "explanation": "Initially current is zero, so back emf is zero."
+    },
+    {
+        "id": 334,
+        "question": "Which device works on the principle of mutual induction?",
+        "options": [
+            "Electric heater",
+            "Transformer",
+            "Capacitor",
+            "Battery"
+        ],
+        "answer": 1,
+        "explanation": "Transformer operates on mutual induction."
+    },
+    {
+        "id": 335,
+        "question": "The energy stored in an inductor is finally dissipated as heat in:",
+        "options": [
+            "Inductor",
+            "Battery",
+            "Resistor",
+            "Source"
+        ],
+        "answer": 2,
+        "explanation": "Energy is dissipated as heat in the resistor."
+    },
+    {
+        "id": 336,
+        "question": "The direction of induced current can be determined using:",
+        "options": [
+            "Fleming’s left-hand rule",
+            "Fleming’s right-hand rule",
+            "Right-hand thumb rule",
+            "Ampere’s law"
+        ],
+        "answer": 1,
+        "explanation": "Fleming’s right-hand rule gives direction of induced current."
+    },
+    {
+        "id": 337,
+        "question": "If the number of turns of a coil is doubled, the self-inductance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance is proportional to square of number of turns."
+    },
+    {
+        "id": 338,
+        "question": "The magnetic flux through a loop is independent of:",
+        "options": [
+            "Magnetic field",
+            "Area of loop",
+            "Orientation of loop",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Flux does not depend on resistance."
+    },
+    {
+        "id": 339,
+        "question": "In a purely inductive AC circuit, the phase difference between voltage and current is:",
+        "options": [
+            "0",
+            "π/4",
+            "π/2",
+            "π"
+        ],
+        "answer": 2,
+        "explanation": "Current lags voltage by 90°."
+    },
+    {
+        "id": 340,
+        "question": "The induced emf in a conductor of length l moving with velocity v in magnetic field B is given by:",
+        "options": [
+            "Bl/v",
+            "Bv/l",
+            "Blv",
+            "B/lv"
+        ],
+        "answer": 2,
+        "explanation": "Motional emf ε = Blv."
+    },
+    {
+        "id": 341,
+        "question": "Which quantity remains unchanged if the current in a coil is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Magnetic field direction"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry, not current direction."
+    },
+    {
+        "id": 342,
+        "question": "The time constant of an LR circuit is:",
+        "options": [
+            "R/L",
+            "L/R",
+            "LR",
+            "1/LR"
+        ],
+        "answer": 1,
+        "explanation": "Time constant τ = L/R."
+    },
+    {
+        "id": 343,
+        "question": "At time t = τ in an LR circuit, the current equals:",
+        "options": [
+            "0.37 I₀",
+            "0.5 I₀",
+            "0.63 I₀",
+            "I₀"
+        ],
+        "answer": 2,
+        "explanation": "At one time constant, current reaches 63% of final value."
+    },
+    {
+        "id": 344,
+        "question": "The magnetic flux through a loop is maximum when the plane of loop is:",
+        "options": [
+            "Parallel to field",
+            "Perpendicular to field",
+            "Inclined at 45°",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Area vector parallel to field gives maximum flux."
+    },
+    {
+        "id": 345,
+        "question": "The induced emf across an inductor in AC circuit leads the current by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "Voltage leads current by 90° in pure inductor."
+    },
+    {
+        "id": 346,
+        "question": "Which phenomenon is responsible for damping in moving coil galvanometer?",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Magnetic hysteresis"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents provide damping torque."
+    },
+    {
+        "id": 347,
+        "question": "The mutual inductance between two coils is symmetric because:",
+        "options": [
+            "Currents are equal",
+            "Turns are equal",
+            "M₁₂ = M₂₁",
+            "Resistances are equal"
+        ],
+        "answer": 2,
+        "explanation": "Mutual inductance is same in either direction."
+    },
+    {
+        "id": 348,
+        "question": "The negative sign in Faraday’s law indicates:",
+        "options": [
+            "Magnitude of emf",
+            "Energy loss",
+            "Direction of induced emf",
+            "Resistance of circuit"
+        ],
+        "answer": 2,
+        "explanation": "Negative sign represents Lenz’s law."
+    },
+    {
+        "id": 349,
+        "question": "The emf induced in a loop depends on:",
+        "options": [
+            "Magnetic field only",
+            "Area only",
+            "Rate of change of magnetic flux",
+            "Resistance only"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on rate of change of flux."
+    },
+    {
+        "id": 350,
+        "question": "The conservation law associated with electromagnetic induction is conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Electromagnetic induction follows conservation of energy."
+    },
+    {
+        "id": 351,
+        "question": "If the magnetic flux through a coil varies as Φ = k t^3, the induced emf at time t is:",
+        "options": [
+            "−3kt^2",
+            "−kt^2",
+            "−3k t",
+            "−k t"
+        ],
+        "answer": 0,
+        "explanation": "Induced emf ε = −dΦ/dt = −3kt^2."
+    },
+    {
+        "id": 352,
+        "question": "In an LR circuit, the initial current at the instant of closing the switch is zero because:",
+        "options": [
+            "Resistance is infinite",
+            "Inductance is infinite",
+            "Back emf equals applied emf",
+            "Battery emf is zero"
+        ],
+        "answer": 2,
+        "explanation": "At t = 0, induced back emf equals applied emf, preventing sudden current rise."
+    },
+    {
+        "id": 353,
+        "question": "The self-inductance of a long solenoid is proportional to:",
+        "options": [
+            "Length",
+            "1/length",
+            "Resistance",
+            "Current"
+        ],
+        "answer": 1,
+        "explanation": "For fixed turns and area, inductance is inversely proportional to length."
+    },
+    {
+        "id": 354,
+        "question": "The induced emf in a loop is independent of:",
+        "options": [
+            "Rate of change of flux",
+            "Number of turns",
+            "Magnetic field",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Resistance affects induced current, not induced emf."
+    },
+    {
+        "id": 355,
+        "question": "If the current in a coil changes from I to 2I in time t, the average induced emf is:",
+        "options": [
+            "LI/t",
+            "−LI/t",
+            "L(2I)/t",
+            "−LI/2t"
+        ],
+        "answer": 1,
+        "explanation": "Average emf ε = −LΔI/Δt = −L(I)/t."
+    },
+    {
+        "id": 356,
+        "question": "The magnetic energy stored in an inductor is zero when:",
+        "options": [
+            "Current is maximum",
+            "Current is zero",
+            "Inductance is zero",
+            "Flux is maximum"
+        ],
+        "answer": 1,
+        "explanation": "Energy U = ½LI² becomes zero when current is zero."
+    },
+    {
+        "id": 357,
+        "question": "Which of the following increases the self-inductance of a coil?",
+        "options": [
+            "Decreasing number of turns",
+            "Using air core",
+            "Using soft iron core",
+            "Reducing cross-sectional area"
+        ],
+        "answer": 2,
+        "explanation": "Soft iron increases permeability, increasing inductance."
+    },
+    {
+        "id": 358,
+        "question": "In electromagnetic induction, the induced electric field is:",
+        "options": [
+            "Conservative",
+            "Uniform",
+            "Non-conservative",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Induced electric field due to changing magnetic field is non-conservative."
+    },
+    {
+        "id": 359,
+        "question": "The induced emf in a stationary loop placed in a time-varying magnetic field is due to:",
+        "options": [
+            "Lorentz force",
+            "Electric field produced by changing magnetic field",
+            "Motion of charges",
+            "Resistance of loop"
+        ],
+        "answer": 1,
+        "explanation": "Changing magnetic field produces an induced electric field."
+    },
+    {
+        "id": 360,
+        "question": "The direction of induced current is such that it always:",
+        "options": [
+            "Aids the change in flux",
+            "Opposes the change in flux",
+            "Increases magnetic field",
+            "Reduces current"
+        ],
+        "answer": 1,
+        "explanation": "This is the statement of Lenz’s law."
+    },
+    {
+        "id": 361,
+        "question": "If the number of turns of a coil is tripled, the self-inductance becomes:",
+        "options": [
+            "3L",
+            "9L",
+            "L/3",
+            "L/9"
+        ],
+        "answer": 1,
+        "explanation": "Self-inductance is proportional to square of number of turns."
+    },
+    {
+        "id": 362,
+        "question": "The mutual inductance between two coils becomes zero when:",
+        "options": [
+            "They are coaxial",
+            "They are close",
+            "Flux of one does not link the other",
+            "Currents are equal"
+        ],
+        "answer": 2,
+        "explanation": "No flux linkage implies zero mutual inductance."
+    },
+    {
+        "id": 363,
+        "question": "The SI unit of magnetic flux is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Volt"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic flux is measured in weber."
+    },
+    {
+        "id": 364,
+        "question": "The emf induced in a conductor moving in a magnetic field is maximum when velocity is:",
+        "options": [
+            "Parallel to field",
+            "Perpendicular to field",
+            "At 45° to field",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Maximum flux cutting occurs when velocity is perpendicular to magnetic field."
+    },
+    {
+        "id": 365,
+        "question": "In an LR circuit, the current becomes steady when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant after sufficiently long time."
+    },
+    {
+        "id": 366,
+        "question": "The magnetic flux through a loop is zero when the plane of the loop is:",
+        "options": [
+            "Parallel to magnetic field",
+            "Perpendicular to magnetic field",
+            "Inclined at 45°",
+            "Horizontal"
+        ],
+        "answer": 0,
+        "explanation": "Area vector is perpendicular to field, so Φ = 0."
+    },
+    {
+        "id": 367,
+        "question": "The induced emf across an inductor is proportional to:",
+        "options": [
+            "Current",
+            "Resistance",
+            "Rate of change of current",
+            "Magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "ε = −L(dI/dt)."
+    },
+    {
+        "id": 368,
+        "question": "In a purely inductive AC circuit, the average power consumed is:",
+        "options": [
+            "Maximum",
+            "Finite",
+            "Zero",
+            "Minimum but non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Voltage and current are 90° out of phase."
+    },
+    {
+        "id": 369,
+        "question": "The energy stored in an inductor is finally dissipated as heat in:",
+        "options": [
+            "Inductor",
+            "Battery",
+            "Resistor",
+            "Switch"
+        ],
+        "answer": 2,
+        "explanation": "Stored magnetic energy is dissipated in the resistor."
+    },
+    {
+        "id": 370,
+        "question": "Which quantity remains unchanged if current in a coil is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Magnetic field direction"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry, not current direction."
+    },
+    {
+        "id": 371,
+        "question": "The induced emf in a loop rotating in uniform magnetic field varies with time as:",
+        "options": [
+            "Constant",
+            "Linear",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Flux varies sinusoidally with time."
+    },
+    {
+        "id": 372,
+        "question": "The coefficient of self-inductance is numerically equal to induced emf when rate of change of current is:",
+        "options": [
+            "0 A s⁻¹",
+            "1 A s⁻¹",
+            "1 A",
+            "1 s"
+        ],
+        "answer": 1,
+        "explanation": "By definition, L = ε when dI/dt = 1 A s⁻¹."
+    },
+    {
+        "id": 373,
+        "question": "Which law gives the direction of induced current?",
+        "options": [
+            "Faraday’s law",
+            "Lenz’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Lenz’s law determines direction of induced current."
+    },
+    {
+        "id": 374,
+        "question": "The unit of self-inductance henry can also be written as:",
+        "options": [
+            "Wb A⁻¹",
+            "T m² s",
+            "V s⁻¹",
+            "J s"
+        ],
+        "answer": 0,
+        "explanation": "1 H = 1 weber per ampere."
+    },
+    {
+        "id": 375,
+        "question": "The induced emf exists even in an open circuit because:",
+        "options": [
+            "Current flows",
+            "Magnetic flux changes",
+            "Resistance is zero",
+            "Battery is connected"
+        ],
+        "answer": 1,
+        "explanation": "Emf depends on change in magnetic flux, not current."
+    },
+    {
+        "id": 376,
+        "question": "The magnetic energy density in a region is proportional to:",
+        "options": [
+            "B",
+            "B²",
+            "1/B",
+            "√B"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic energy density is proportional to square of magnetic field."
+    },
+    {
+        "id": 377,
+        "question": "If the frequency of AC source is doubled, inductive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "X_L = ωL, so doubling frequency doubles reactance."
+    },
+    {
+        "id": 378,
+        "question": "The time constant of an LR circuit is:",
+        "options": [
+            "R/L",
+            "L/R",
+            "LR",
+            "1/LR"
+        ],
+        "answer": 1,
+        "explanation": "Time constant τ = L/R."
+    },
+    {
+        "id": 379,
+        "question": "At time t = τ in an LR circuit, the current equals:",
+        "options": [
+            "0.37 I₀",
+            "0.5 I₀",
+            "0.63 I₀",
+            "I₀"
+        ],
+        "answer": 2,
+        "explanation": "At one time constant, current reaches 63% of final value."
+    },
+    {
+        "id": 380,
+        "question": "The magnetic flux through a loop is maximum when the plane of loop is:",
+        "options": [
+            "Parallel to magnetic field",
+            "Perpendicular to magnetic field",
+            "Inclined at 45°",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Area vector parallel to field gives maximum flux."
+    },
+    {
+        "id": 381,
+        "question": "The induced emf across an inductor in AC circuit leads the current by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "In pure inductor, voltage leads current by 90°."
+    },
+    {
+        "id": 382,
+        "question": "Which phenomenon is responsible for damping in moving coil galvanometer?",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Magnetic hysteresis"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents provide damping torque."
+    },
+    {
+        "id": 383,
+        "question": "The mutual inductance between two coils is symmetric because:",
+        "options": [
+            "Currents are equal",
+            "Turns are equal",
+            "M₁₂ = M₂₁",
+            "Resistances are equal"
+        ],
+        "answer": 2,
+        "explanation": "Mutual inductance is same in either direction."
+    },
+    {
+        "id": 384,
+        "question": "The negative sign in Faraday’s law indicates:",
+        "options": [
+            "Magnitude of emf",
+            "Energy loss",
+            "Direction of induced emf",
+            "Resistance of circuit"
+        ],
+        "answer": 2,
+        "explanation": "Negative sign represents Lenz’s law."
+    },
+    {
+        "id": 385,
+        "question": "The emf induced in a loop depends on:",
+        "options": [
+            "Magnetic field only",
+            "Area only",
+            "Rate of change of magnetic flux",
+            "Resistance only"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf depends on rate of change of flux."
+    },
+    {
+        "id": 386,
+        "question": "Which conservation law is associated with electromagnetic induction?",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 387,
+        "question": "The induced current always flows so as to:",
+        "options": [
+            "Increase magnetic flux",
+            "Decrease magnetic flux",
+            "Oppose the change in magnetic flux",
+            "Support the change in magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "This is Lenz’s law."
+    },
+    {
+        "id": 388,
+        "question": "The magnetic flux through a loop does not depend on:",
+        "options": [
+            "Magnetic field",
+            "Area of loop",
+            "Orientation of loop",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Flux is independent of resistance."
+    },
+    {
+        "id": 389,
+        "question": "Which device works on the principle of mutual induction?",
+        "options": [
+            "Electric heater",
+            "Transformer",
+            "Capacitor",
+            "Battery"
+        ],
+        "answer": 1,
+        "explanation": "Transformer works on mutual induction."
+    },
+    {
+        "id": 390,
+        "question": "The self-inductance of a straight conductor is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "Straight conductors have finite inductance."
+    },
+    {
+        "id": 391,
+        "question": "If current in a coil decreases, the induced current will:",
+        "options": [
+            "Aid the decrease",
+            "Oppose the decrease",
+            "Be zero",
+            "Reverse randomly"
+        ],
+        "answer": 1,
+        "explanation": "Induced current opposes the change."
+    },
+    {
+        "id": 392,
+        "question": "The induced emf in a loop rotating in uniform magnetic field is maximum when:",
+        "options": [
+            "Flux is zero",
+            "Flux is maximum",
+            "Flux is constant",
+            "Flux is minimum"
+        ],
+        "answer": 0,
+        "explanation": "Maximum emf occurs when rate of change of flux is maximum."
+    },
+    {
+        "id": 393,
+        "question": "The cause of spark across a switch in an inductive circuit is:",
+        "options": [
+            "Electrostatic induction",
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents"
+        ],
+        "answer": 1,
+        "explanation": "Large self-induced emf causes spark."
+    },
+    {
+        "id": 394,
+        "question": "The SI unit of magnetic energy density is:",
+        "options": [
+            "J",
+            "J m⁻³",
+            "T",
+            "H"
+        ],
+        "answer": 1,
+        "explanation": "Energy density is energy per unit volume."
+    },
+    {
+        "id": 395,
+        "question": "The induced emf across an inductor is zero when current is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Alternating"
+        ],
+        "answer": 2,
+        "explanation": "No change in current implies zero emf."
+    },
+    {
+        "id": 396,
+        "question": "The magnetic flux through a loop becomes zero when angle between magnetic field and area vector is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 3,
+        "explanation": "Φ = BA cosθ becomes zero at 90°."
+    },
+    {
+        "id": 397,
+        "question": "The induced emf in a conductor moving with velocity v in magnetic field B is proportional to:",
+        "options": [
+            "v only",
+            "B only",
+            "Length only",
+            "Bvℓ"
+        ],
+        "answer": 3,
+        "explanation": "Motional emf ε = Bℓv."
+    },
+    {
+        "id": 398,
+        "question": "Which quantity remains unchanged if the magnetic field direction is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Motional emf"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry, not field direction."
+    },
+    {
+        "id": 399,
+        "question": "In an LR circuit, the slope of current-time graph becomes zero when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant at large time."
+    },
+    {
+        "id": 400,
+        "question": "The physical origin of Lenz’s law lies in the law of conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law is a consequence of conservation of energy."
+    },
+    {
+        "id": 401,
+        "question": "If the magnetic flux through a coil varies as Φ = k sin²ωt, the induced emf at time t is:",
+        "options": [
+            "−kω sin2ωt",
+            "−2kω sin2ωt",
+            "−kω cos2ωt",
+            "−2kω cos2ωt"
+        ],
+        "answer": 0,
+        "explanation": "Φ = k sin²ωt = k(1−cos2ωt)/2, so ε = −dΦ/dt = −kω sin2ωt."
+    },
+    {
+        "id": 402,
+        "question": "In an LR circuit, the current growth is fastest at:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t = 2τ",
+            "t → ∞"
+        ],
+        "answer": 0,
+        "explanation": "Initial rate of change of current is maximum as back emf is zero."
+    },
+    {
+        "id": 403,
+        "question": "The self-inductance of a coil is defined as the ratio of flux linkage to:",
+        "options": [
+            "Magnetic field",
+            "Current",
+            "Resistance",
+            "Area"
+        ],
+        "answer": 1,
+        "explanation": "Self-inductance L = NΦ / I."
+    },
+    {
+        "id": 404,
+        "question": "Which of the following does not change the induced emf in a coil?",
+        "options": [
+            "Changing magnetic field",
+            "Changing area",
+            "Changing orientation",
+            "Changing resistance"
+        ],
+        "answer": 3,
+        "explanation": "Induced emf depends on change in flux, not on resistance."
+    },
+    {
+        "id": 405,
+        "question": "The magnetic energy stored in an inductor per unit volume is proportional to:",
+        "options": [
+            "B",
+            "B²",
+            "1/B",
+            "√B"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic energy density is proportional to square of magnetic field."
+    },
+    {
+        "id": 406,
+        "question": "If the current in a coil changes from 0 to I uniformly in time t, the average induced emf is:",
+        "options": [
+            "LI/t",
+            "−LI/t",
+            "LIt",
+            "−LIt"
+        ],
+        "answer": 1,
+        "explanation": "Average emf ε = −LΔI/Δt = −LI/t."
+    },
+    {
+        "id": 407,
+        "question": "The phenomenon of electromagnetic induction directly demonstrates the existence of:",
+        "options": [
+            "Magnetic monopoles",
+            "Electric field due to changing magnetic field",
+            "Charge quantization",
+            "Electrostatic force"
+        ],
+        "answer": 1,
+        "explanation": "Changing magnetic field produces induced electric field."
+    },
+    {
+        "id": 408,
+        "question": "In a purely inductive AC circuit, the instantaneous power is:",
+        "options": [
+            "Always positive",
+            "Always negative",
+            "Zero at all times",
+            "Sometimes positive and sometimes negative"
+        ],
+        "answer": 3,
+        "explanation": "Energy alternates between source and inductor."
+    },
+    {
+        "id": 409,
+        "question": "The induced emf in a loop rotating in a uniform magnetic field has zero average value because:",
+        "options": [
+            "Flux is constant",
+            "Positive and negative emfs cancel",
+            "Current is zero",
+            "Resistance is zero"
+        ],
+        "answer": 1,
+        "explanation": "Emf is sinusoidal with equal positive and negative halves."
+    },
+    {
+        "id": 410,
+        "question": "Which factor increases the self-inductance of a solenoid?",
+        "options": [
+            "Increasing length",
+            "Decreasing turns",
+            "Using ferromagnetic core",
+            "Reducing cross-sectional area"
+        ],
+        "answer": 2,
+        "explanation": "Ferromagnetic core increases permeability."
+    },
+    {
+        "id": 411,
+        "question": "The induced current in a loop is clockwise when magnetic flux through the loop is:",
+        "options": [
+            "Increasing outward",
+            "Decreasing outward",
+            "Increasing inward",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Clockwise current produces inward field opposing decrease of outward flux."
+    },
+    {
+        "id": 412,
+        "question": "The emf induced in a conductor of length l moving with velocity v in magnetic field B is zero when:",
+        "options": [
+            "v ⟂ B",
+            "v ∥ B",
+            "B ≠ 0",
+            "l ≠ 0"
+        ],
+        "answer": 1,
+        "explanation": "No flux cutting occurs when velocity is parallel to field."
+    },
+    {
+        "id": 413,
+        "question": "The mutual inductance between two coils depends on all except:",
+        "options": [
+            "Relative orientation",
+            "Distance between coils",
+            "Nature of medium",
+            "Current in coils"
+        ],
+        "answer": 3,
+        "explanation": "Mutual inductance is independent of current."
+    },
+    {
+        "id": 414,
+        "question": "In an LR circuit, the back emf is maximum when:",
+        "options": [
+            "Current is maximum",
+            "Current is zero",
+            "Rate of change of current is maximum",
+            "Current is constant"
+        ],
+        "answer": 2,
+        "explanation": "Back emf ε = −L(dI/dt)."
+    },
+    {
+        "id": 415,
+        "question": "The energy stored in an inductor carrying current I is given by:",
+        "options": [
+            "LI²",
+            "½LI²",
+            "L/I²",
+            "½L/I²"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic energy stored is ½LI²."
+    },
+    {
+        "id": 416,
+        "question": "The induced emf in a stationary loop placed in a time-varying magnetic field is due to:",
+        "options": [
+            "Lorentz force",
+            "Electrostatic field",
+            "Non-conservative electric field",
+            "Resistance of loop"
+        ],
+        "answer": 2,
+        "explanation": "Time-varying magnetic field induces a non-conservative electric field."
+    },
+    {
+        "id": 417,
+        "question": "The SI unit of self-inductance is equivalent to:",
+        "options": [
+            "V s A⁻¹",
+            "T m² s",
+            "J s",
+            "Ω s"
+        ],
+        "answer": 0,
+        "explanation": "1 H = 1 volt-second per ampere."
+    },
+    {
+        "id": 418,
+        "question": "In an LR circuit, the current after a long time depends only on:",
+        "options": [
+            "Inductance",
+            "Resistance and applied emf",
+            "Time constant",
+            "Rate of change of current"
+        ],
+        "answer": 1,
+        "explanation": "Steady current I = E/R."
+    },
+    {
+        "id": 419,
+        "question": "The induced emf across an inductor is zero when the current is:",
+        "options": [
+            "Increasing",
+            "Decreasing",
+            "Constant",
+            "Alternating"
+        ],
+        "answer": 2,
+        "explanation": "No change in current gives zero induced emf."
+    },
+    {
+        "id": 420,
+        "question": "Which device uses electromagnetic induction for braking?",
+        "options": [
+            "Electric motor",
+            "Magnetic brake",
+            "Transformer",
+            "Capacitor"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic braking uses eddy currents."
+    },
+    {
+        "id": 421,
+        "question": "The magnetic flux through a loop becomes maximum when the angle between area vector and magnetic field is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 0,
+        "explanation": "Φ = BA cosθ is maximum at θ = 0°."
+    },
+    {
+        "id": 422,
+        "question": "If the current in a coil is reversed, which quantity remains unchanged?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Magnetic field direction"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends only on geometry and medium."
+    },
+    {
+        "id": 423,
+        "question": "The fundamental reason for the negative sign in Faraday’s law is:",
+        "options": [
+            "Mathematical convention",
+            "Direction of current",
+            "Conservation of energy",
+            "Nature of magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Negative sign represents Lenz’s law ensuring energy conservation."
+    },
+    {
+        "id": 424,
+        "question": "In an ideal inductor connected to AC source, the power factor is:",
+        "options": [
+            "1",
+            "0",
+            "0.5",
+            "Depends on frequency"
+        ],
+        "answer": 1,
+        "explanation": "Average power consumed is zero."
+    },
+    {
+        "id": 425,
+        "question": "The time constant of an LR circuit represents the time taken by current to reach:",
+        "options": [
+            "37% of final value",
+            "50% of final value",
+            "63% of final value",
+            "100% of final value"
+        ],
+        "answer": 2,
+        "explanation": "At t = τ, current is 63% of steady value."
+    },
+    {
+        "id": 426,
+        "question": "The magnetic flux through a loop is zero when the plane of the loop is:",
+        "options": [
+            "Parallel to magnetic field",
+            "Perpendicular to magnetic field",
+            "Inclined at 45°",
+            "Random"
+        ],
+        "answer": 0,
+        "explanation": "Area vector is perpendicular to field."
+    },
+    {
+        "id": 427,
+        "question": "Which of the following quantities does NOT depend on frequency in AC circuit?",
+        "options": [
+            "Inductive reactance",
+            "Capacitive reactance",
+            "Resistance",
+            "Impedance"
+        ],
+        "answer": 2,
+        "explanation": "Resistance is independent of frequency."
+    },
+    {
+        "id": 428,
+        "question": "The phenomenon of electromagnetic induction was discovered by:",
+        "options": [
+            "Ampere",
+            "Faraday",
+            "Maxwell",
+            "Oersted"
+        ],
+        "answer": 1,
+        "explanation": "Faraday discovered electromagnetic induction."
+    },
+    {
+        "id": 429,
+        "question": "The induced emf is directly proportional to:",
+        "options": [
+            "Magnetic flux",
+            "Rate of change of magnetic flux",
+            "Magnetic field only",
+            "Area only"
+        ],
+        "answer": 1,
+        "explanation": "ε ∝ dΦ/dt."
+    },
+    {
+        "id": 430,
+        "question": "The magnetic energy stored in an inductor finally dissipates as heat when:",
+        "options": [
+            "Circuit is closed",
+            "Current is constant",
+            "Circuit is opened",
+            "Battery is removed slowly"
+        ],
+        "answer": 2,
+        "explanation": "Energy is dissipated in resistor when current decays."
+    },
+    {
+        "id": 431,
+        "question": "Which of the following is a correct statement about eddy currents?",
+        "options": [
+            "They are always undesirable",
+            "They flow in closed loops",
+            "They do not cause heating",
+            "They require external circuit"
+        ],
+        "answer": 1,
+        "explanation": "Eddy currents circulate in closed loops."
+    },
+    {
+        "id": 432,
+        "question": "The induced emf in a loop rotating with constant angular speed varies with time as:",
+        "options": [
+            "Constant",
+            "Linear",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Flux changes sinusoidally."
+    },
+    {
+        "id": 433,
+        "question": "The mutual inductance between two coils is maximum when they are:",
+        "options": [
+            "Far apart",
+            "Perpendicular",
+            "Coaxial and close",
+            "Randomly placed"
+        ],
+        "answer": 2,
+        "explanation": "Maximum flux linkage occurs when coils are coaxial."
+    },
+    {
+        "id": 434,
+        "question": "The SI unit of magnetic energy density is:",
+        "options": [
+            "J",
+            "J m⁻³",
+            "T",
+            "H"
+        ],
+        "answer": 1,
+        "explanation": "Energy density is energy per unit volume."
+    },
+    {
+        "id": 435,
+        "question": "The induced current always flows in such a direction as to:",
+        "options": [
+            "Increase the change in flux",
+            "Decrease the change in flux",
+            "Oppose the change in flux",
+            "Eliminate magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "This is Lenz’s law."
+    },
+    {
+        "id": 436,
+        "question": "The self-inductance of a straight conductor is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "Straight conductors have finite inductance."
+    },
+    {
+        "id": 437,
+        "question": "Which of the following quantities changes sign when magnetic field direction is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Inductance",
+            "Energy stored",
+            "Time constant"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux changes sign with field direction."
+    },
+    {
+        "id": 438,
+        "question": "In an LR circuit, the slope of current-time graph becomes zero when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant at large time."
+    },
+    {
+        "id": 439,
+        "question": "The induced emf in a conductor moving in magnetic field is proportional to:",
+        "options": [
+            "B",
+            "v",
+            "l",
+            "Bvl"
+        ],
+        "answer": 3,
+        "explanation": "Motional emf ε = Bvl."
+    },
+    {
+        "id": 440,
+        "question": "Which law gives the magnitude of induced emf?",
+        "options": [
+            "Lenz’s law",
+            "Faraday’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Faraday’s law gives magnitude."
+    },
+    {
+        "id": 441,
+        "question": "The conservation law associated with electromagnetic induction is conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 442,
+        "question": "The induced emf exists even when the circuit is open because:",
+        "options": [
+            "Current flows",
+            "Magnetic flux changes",
+            "Resistance is zero",
+            "Battery is present"
+        ],
+        "answer": 1,
+        "explanation": "Emf depends on change in flux, not current."
+    },
+    {
+        "id": 443,
+        "question": "The inductive reactance of an inductor is given by:",
+        "options": [
+            "ωL",
+            "1/ωL",
+            "L/ω",
+            "Rω"
+        ],
+        "answer": 0,
+        "explanation": "X_L = ωL."
+    },
+    {
+        "id": 444,
+        "question": "If the frequency of AC source is doubled, inductive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance is directly proportional to frequency."
+    },
+    {
+        "id": 445,
+        "question": "Which device works on the principle of mutual induction?",
+        "options": [
+            "Electric heater",
+            "Transformer",
+            "Capacitor",
+            "Battery"
+        ],
+        "answer": 1,
+        "explanation": "Transformer operates on mutual induction."
+    },
+    {
+        "id": 446,
+        "question": "The induced emf in a coil due to change in its own current is called:",
+        "options": [
+            "Mutual emf",
+            "Back emf",
+            "Applied emf",
+            "Driving emf"
+        ],
+        "answer": 1,
+        "explanation": "Self-induced emf is also called back emf."
+    },
+    {
+        "id": 447,
+        "question": "The magnetic flux through a loop does not depend on:",
+        "options": [
+            "Magnetic field",
+            "Area of loop",
+            "Orientation of loop",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Flux is independent of resistance."
+    },
+    {
+        "id": 448,
+        "question": "In a purely inductive AC circuit, current lags voltage by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "Phase difference is 90°."
+    },
+    {
+        "id": 449,
+        "question": "The induced emf in a rotating coil is maximum when:",
+        "options": [
+            "Flux is zero",
+            "Flux is maximum",
+            "Flux is constant",
+            "Flux is minimum"
+        ],
+        "answer": 0,
+        "explanation": "Maximum emf corresponds to maximum rate of change of flux."
+    },
+    {
+        "id": 450,
+        "question": "The physical origin of Lenz’s law lies in the principle of conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law is a consequence of conservation of energy."
+    },
+    {
+        "id": 451,
+        "question": "If the magnetic flux linked with a coil varies with time as Φ = kt² + c, where k and c are constants, the induced emf at time t is:",
+        "options": [
+            "−k",
+            "−2kt",
+            "−kt",
+            "−2k"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf ε = −dΦ/dt = −2kt."
+    },
+    {
+        "id": 452,
+        "question": "In an LR circuit, the current growth is governed by the equation:",
+        "options": [
+            "I = I₀e^(−t/τ)",
+            "I = I₀(1 − e^(−t/τ))",
+            "I = I₀t/τ",
+            "I = I₀e^(t/τ)"
+        ],
+        "answer": 1,
+        "explanation": "Current growth in LR circuit follows I = I₀(1 − e^(−t/τ))."
+    },
+    {
+        "id": 453,
+        "question": "The magnetic flux through a loop of area A in a uniform magnetic field B is maximum when:",
+        "options": [
+            "Plane of loop is parallel to B",
+            "Plane of loop is perpendicular to B",
+            "Loop is inclined at 45°",
+            "Field is non-uniform"
+        ],
+        "answer": 1,
+        "explanation": "Flux Φ = BA cosθ is maximum when area vector is parallel to B."
+    },
+    {
+        "id": 454,
+        "question": "Which of the following factors does NOT affect self-inductance of a coil?",
+        "options": [
+            "Number of turns",
+            "Cross-sectional area",
+            "Nature of core",
+            "Current in the coil"
+        ],
+        "answer": 3,
+        "explanation": "Self-inductance depends on geometry and medium, not on current."
+    },
+    {
+        "id": 455,
+        "question": "The induced emf in a closed loop is independent of:",
+        "options": [
+            "Rate of change of flux",
+            "Number of turns",
+            "Magnetic field",
+            "Resistance of the loop"
+        ],
+        "answer": 3,
+        "explanation": "Resistance affects current, not the induced emf."
+    },
+    {
+        "id": 456,
+        "question": "In electromagnetic induction, the induced electric field is always:",
+        "options": [
+            "Conservative",
+            "Non-conservative",
+            "Uniform",
+            "Radial"
+        ],
+        "answer": 1,
+        "explanation": "Induced electric field due to changing magnetic field is non-conservative."
+    },
+    {
+        "id": 457,
+        "question": "The unit of magnetic flux can also be expressed as:",
+        "options": [
+            "T m²",
+            "V s⁻¹",
+            "H A⁻¹",
+            "J T"
+        ],
+        "answer": 0,
+        "explanation": "1 weber = 1 tesla × m²."
+    },
+    {
+        "id": 458,
+        "question": "In an LR circuit, the back emf is zero when:",
+        "options": [
+            "Current is changing",
+            "Current is maximum",
+            "Current is constant",
+            "Circuit is just closed"
+        ],
+        "answer": 2,
+        "explanation": "Back emf exists only when current changes."
+    },
+    {
+        "id": 459,
+        "question": "The energy stored in an inductor depends on:",
+        "options": [
+            "Current",
+            "Inductance",
+            "Square of current",
+            "Both inductance and square of current"
+        ],
+        "answer": 3,
+        "explanation": "Magnetic energy stored is U = ½LI²."
+    },
+    {
+        "id": 460,
+        "question": "If the number of turns of a coil is doubled, its self-inductance becomes:",
+        "options": [
+            "L/2",
+            "2L",
+            "4L",
+            "Unchanged"
+        ],
+        "answer": 2,
+        "explanation": "Self-inductance is proportional to square of number of turns."
+    },
+    {
+        "id": 461,
+        "question": "The phenomenon responsible for damping in a moving coil galvanometer is:",
+        "options": [
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents",
+            "Magnetic hysteresis"
+        ],
+        "answer": 2,
+        "explanation": "Eddy currents produce damping torque."
+    },
+    {
+        "id": 462,
+        "question": "The induced emf in a straight conductor moving in a magnetic field is given by:",
+        "options": [
+            "Bv",
+            "Bl",
+            "Bvl",
+            "Bl/v"
+        ],
+        "answer": 2,
+        "explanation": "Motional emf ε = Bvl."
+    },
+    {
+        "id": 463,
+        "question": "Which condition produces maximum motional emf in a conductor?",
+        "options": [
+            "v ∥ B",
+            "v ⟂ B",
+            "v = 0",
+            "B = 0"
+        ],
+        "answer": 1,
+        "explanation": "Maximum flux cutting occurs when velocity is perpendicular to magnetic field."
+    },
+    {
+        "id": 464,
+        "question": "The mutual inductance between two coils is maximum when they are:",
+        "options": [
+            "Far apart",
+            "Placed at right angles",
+            "Coaxial and close",
+            "Randomly placed"
+        ],
+        "answer": 2,
+        "explanation": "Maximum flux linkage occurs when coils are coaxial and close."
+    },
+    {
+        "id": 465,
+        "question": "In an LR circuit, the current becomes practically steady after time approximately equal to:",
+        "options": [
+            "τ",
+            "2τ",
+            "3τ",
+            "5τ"
+        ],
+        "answer": 3,
+        "explanation": "After about 5 time constants, current is nearly steady."
+    },
+    {
+        "id": 466,
+        "question": "The induced current in a loop always flows so as to:",
+        "options": [
+            "Increase magnetic flux",
+            "Decrease magnetic flux",
+            "Oppose the change in magnetic flux",
+            "Eliminate magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "This is the statement of Lenz’s law."
+    },
+    {
+        "id": 467,
+        "question": "Which law gives the magnitude of induced emf?",
+        "options": [
+            "Lenz’s law",
+            "Faraday’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Faraday’s law gives magnitude of induced emf."
+    },
+    {
+        "id": 468,
+        "question": "The negative sign in Faraday’s law represents:",
+        "options": [
+            "Energy loss",
+            "Direction of induced emf",
+            "Magnitude of emf",
+            "Resistance of circuit"
+        ],
+        "answer": 1,
+        "explanation": "Negative sign indicates direction according to Lenz’s law."
+    },
+    {
+        "id": 469,
+        "question": "The magnetic energy density in a region is proportional to:",
+        "options": [
+            "B",
+            "B²",
+            "1/B",
+            "√B"
+        ],
+        "answer": 1,
+        "explanation": "Magnetic energy density is proportional to square of magnetic field."
+    },
+    {
+        "id": 470,
+        "question": "Which quantity remains unchanged if the direction of current in a coil is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Induced emf",
+            "Inductance",
+            "Magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Inductance depends on geometry, not current direction."
+    },
+    {
+        "id": 471,
+        "question": "The time constant of an LR circuit is defined as:",
+        "options": [
+            "R/L",
+            "L/R",
+            "LR",
+            "1/LR"
+        ],
+        "answer": 1,
+        "explanation": "Time constant τ = L/R."
+    },
+    {
+        "id": 472,
+        "question": "At time t = τ in an LR circuit, the current is approximately:",
+        "options": [
+            "0.37 I₀",
+            "0.5 I₀",
+            "0.63 I₀",
+            "I₀"
+        ],
+        "answer": 2,
+        "explanation": "At one time constant, current reaches 63% of final value."
+    },
+    {
+        "id": 473,
+        "question": "In a purely inductive AC circuit, the average power consumed is:",
+        "options": [
+            "Maximum",
+            "Finite",
+            "Zero",
+            "Minimum but non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Voltage and current are 90° out of phase."
+    },
+    {
+        "id": 474,
+        "question": "The inductive reactance of an inductor is given by:",
+        "options": [
+            "1/ωL",
+            "ωL",
+            "L/ω",
+            "Rω"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance X_L = ωL."
+    },
+    {
+        "id": 475,
+        "question": "If the frequency of AC source is doubled, inductive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance is directly proportional to frequency."
+    },
+    {
+        "id": 476,
+        "question": "The magnetic flux through a loop is zero when the angle between magnetic field and area vector is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 3,
+        "explanation": "Φ = BA cosθ becomes zero at 90°."
+    },
+    {
+        "id": 477,
+        "question": "The induced emf exists even if the circuit is open because:",
+        "options": [
+            "Current flows",
+            "Magnetic flux changes",
+            "Resistance is zero",
+            "Battery is connected"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf depends on change in magnetic flux, not current."
+    },
+    {
+        "id": 478,
+        "question": "Which device works on the principle of mutual induction?",
+        "options": [
+            "Electric heater",
+            "Transformer",
+            "Capacitor",
+            "Battery"
+        ],
+        "answer": 1,
+        "explanation": "Transformer works on mutual induction."
+    },
+    {
+        "id": 479,
+        "question": "The cause of spark across a switch in an inductive circuit is:",
+        "options": [
+            "Electrostatic induction",
+            "Self-induction",
+            "Mutual induction",
+            "Eddy currents"
+        ],
+        "answer": 1,
+        "explanation": "Large self-induced emf produces spark."
+    },
+    {
+        "id": 480,
+        "question": "The self-inductance of a straight conductor is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 1,
+        "explanation": "Straight conductors have finite inductance."
+    },
+    {
+        "id": 481,
+        "question": "The magnetic flux through a loop does NOT depend on:",
+        "options": [
+            "Magnetic field",
+            "Area of loop",
+            "Orientation of loop",
+            "Resistance of loop"
+        ],
+        "answer": 3,
+        "explanation": "Flux is independent of resistance."
+    },
+    {
+        "id": 482,
+        "question": "The induced emf in a rotating coil in uniform magnetic field is maximum when:",
+        "options": [
+            "Flux is zero",
+            "Flux is maximum",
+            "Flux is constant",
+            "Flux is minimum"
+        ],
+        "answer": 0,
+        "explanation": "Maximum emf corresponds to maximum rate of change of flux."
+    },
+    {
+        "id": 483,
+        "question": "The phenomenon of electromagnetic induction was discovered by:",
+        "options": [
+            "Ampere",
+            "Faraday",
+            "Maxwell",
+            "Oersted"
+        ],
+        "answer": 1,
+        "explanation": "Faraday discovered electromagnetic induction."
+    },
+    {
+        "id": 484,
+        "question": "Which conservation law is associated with Lenz’s law?",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law ensures conservation of energy."
+    },
+    {
+        "id": 485,
+        "question": "The induced emf in a coil due to change in its own current is called:",
+        "options": [
+            "Mutual emf",
+            "Back emf",
+            "Applied emf",
+            "Driving emf"
+        ],
+        "answer": 1,
+        "explanation": "Self-induced emf is also called back emf."
+    },
+    {
+        "id": 486,
+        "question": "In an LR circuit, the slope of current-time graph becomes zero when:",
+        "options": [
+            "t = 0",
+            "t = τ",
+            "t → ∞",
+            "t = τ/2"
+        ],
+        "answer": 2,
+        "explanation": "Current becomes constant at large time."
+    },
+    {
+        "id": 487,
+        "question": "The induced emf in a conductor moving in a magnetic field depends on:",
+        "options": [
+            "Magnetic field only",
+            "Velocity only",
+            "Length only",
+            "Magnetic field, velocity and length"
+        ],
+        "answer": 3,
+        "explanation": "Motional emf ε = Bvl."
+    },
+    {
+        "id": 488,
+        "question": "The SI unit of magnetic energy density is:",
+        "options": [
+            "J",
+            "J m⁻³",
+            "T",
+            "H"
+        ],
+        "answer": 1,
+        "explanation": "Energy density is energy per unit volume."
+    },
+    {
+        "id": 489,
+        "question": "In a purely inductive AC circuit, current lags voltage by:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 2,
+        "explanation": "Phase difference is 90°."
+    },
+    {
+        "id": 490,
+        "question": "The induced emf in a loop rotating with constant angular speed varies with time as:",
+        "options": [
+            "Constant",
+            "Linear",
+            "Sinusoidal",
+            "Exponential"
+        ],
+        "answer": 2,
+        "explanation": "Flux varies sinusoidally with time."
+    },
+    {
+        "id": 491,
+        "question": "The mutual inductance between two coils is independent of:",
+        "options": [
+            "Relative position",
+            "Orientation",
+            "Nature of medium",
+            "Current in coils"
+        ],
+        "answer": 3,
+        "explanation": "Mutual inductance does not depend on current."
+    },
+    {
+        "id": 492,
+        "question": "The induced emf across an inductor is proportional to:",
+        "options": [
+            "Current",
+            "Resistance",
+            "Rate of change of current",
+            "Magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "ε = −L(dI/dt)."
+    },
+    {
+        "id": 493,
+        "question": "The magnetic flux through a loop becomes maximum when the plane of loop is:",
+        "options": [
+            "Parallel to magnetic field",
+            "Perpendicular to magnetic field",
+            "Inclined at 45°",
+            "Random"
+        ],
+        "answer": 1,
+        "explanation": "Area vector parallel to field gives maximum flux."
+    },
+    {
+        "id": 494,
+        "question": "The induced emf always opposes:",
+        "options": [
+            "Magnetic field",
+            "Electric field",
+            "Change in magnetic flux",
+            "Current in circuit"
+        ],
+        "answer": 2,
+        "explanation": "According to Lenz’s law, induced emf opposes the change producing it."
+    },
+    {
+        "id": 495,
+        "question": "The inductive reactance of an inductor has the unit:",
+        "options": [
+            "Henry",
+            "Ohm",
+            "Tesla",
+            "Weber"
+        ],
+        "answer": 1,
+        "explanation": "Reactance is measured in ohm."
+    },
+    {
+        "id": 496,
+        "question": "The self-inductance of a coil increases when:",
+        "options": [
+            "Length increases",
+            "Area decreases",
+            "Permeability of core increases",
+            "Number of turns decreases"
+        ],
+        "answer": 2,
+        "explanation": "Higher permeability increases inductance."
+    },
+    {
+        "id": 497,
+        "question": "Which of the following quantities changes sign when magnetic field direction is reversed?",
+        "options": [
+            "Magnetic flux",
+            "Inductance",
+            "Energy stored",
+            "Time constant"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux changes sign with field direction."
+    },
+    {
+        "id": 498,
+        "question": "The induced emf in an open circuit can be measured by:",
+        "options": [
+            "Ammeter",
+            "Voltmeter",
+            "Galvanometer",
+            "Rheostat"
+        ],
+        "answer": 1,
+        "explanation": "Voltmeter measures emf without drawing current."
+    },
+    {
+        "id": 499,
+        "question": "The physical origin of Lenz’s law lies in the law of conservation of:",
+        "options": [
+            "Charge",
+            "Momentum",
+            "Energy",
+            "Magnetic flux"
+        ],
+        "answer": 2,
+        "explanation": "Lenz’s law is a consequence of conservation of energy."
+    },
+    {
+        "id": 500,
+        "question": "Which statement is correct for electromagnetic induction?",
+        "options": [
+            "Constant magnetic flux induces emf",
+            "Changing magnetic flux induces emf",
+            "Magnetic field alone induces emf",
+            "Current is necessary for emf"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf is produced only when magnetic flux changes."
+    }
+]

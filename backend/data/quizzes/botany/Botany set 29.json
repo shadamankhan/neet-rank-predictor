@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic category is a group of related genera?",
+        "options": [
+            "Species",
+            "Family",
+            "Order",
+            "Class"
+        ],
+        "answer": 1,
+        "explanation": "A family consists of one or more related genera."
+    },
+    {
+        "id": 2,
+        "question": "Which algal group contains fucoxanthin as a characteristic pigment?",
+        "options": [
+            "Chlorophyceae",
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Cyanophyceae"
+        ],
+        "answer": 2,
+        "explanation": "Fucoxanthin is characteristic of brown algae (Phaeophyceae)."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group shows embryo development but lacks vascular tissue?",
+        "options": [
+            "Algae",
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms"
+        ],
+        "answer": 1,
+        "explanation": "Bryophytes have an embryo but lack vascular tissues."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of coconut is:",
+        "options": [
+            "Embryo",
+            "Endosperm",
+            "Cotyledon",
+            "Testa"
+        ],
+        "answer": 1,
+        "explanation": "Coconut has a persistent endosperm that is edible."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue gives rise to lateral roots?",
+        "options": [
+            "Endodermis",
+            "Cortex",
+            "Pericycle",
+            "Cambium"
+        ],
+        "answer": 2,
+        "explanation": "Lateral roots originate from the pericycle."
+    },
+    {
+        "id": 6,
+        "question": "Which cell wall component provides tensile strength?",
+        "options": [
+            "Cellulose",
+            "Pectin",
+            "Lignin",
+            "Suberin"
+        ],
+        "answer": 0,
+        "explanation": "Cellulose microfibrils provide tensile strength to cell walls."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle is the site of synthesis of phospholipids and steroids?",
+        "options": [
+            "Rough ER",
+            "Smooth ER",
+            "Golgi apparatus",
+            "Mitochondria"
+        ],
+        "answer": 1,
+        "explanation": "Smooth endoplasmic reticulum synthesises lipids and steroids."
+    },
+    {
+        "id": 8,
+        "question": "Which biomolecule shows maximum structural diversity in cells?",
+        "options": [
+            "Carbohydrates",
+            "Lipids",
+            "Proteins",
+            "Nucleic acids"
+        ],
+        "answer": 2,
+        "explanation": "Proteins show maximum structural and functional diversity."
+    },
+    {
+        "id": 9,
+        "question": "Which phase of cell cycle is also called synthesis phase?",
+        "options": [
+            "G1",
+            "S",
+            "G2",
+            "M"
+        ],
+        "answer": 1,
+        "explanation": "DNA synthesis occurs during S phase."
+    },
+    {
+        "id": 10,
+        "question": "Passive movement of ions through membrane proteins is termed:",
+        "options": [
+            "Active transport",
+            "Facilitated diffusion",
+            "Mass flow",
+            "Osmosis"
+        ],
+        "answer": 1,
+        "explanation": "Facilitated diffusion occurs without energy input."
+    },
+    {
+        "id": 11,
+        "question": "Which mineral nutrient activates many enzymes and maintains ionic balance?",
+        "options": [
+            "Calcium",
+            "Magnesium",
+            "Potassium",
+            "Iron"
+        ],
+        "answer": 2,
+        "explanation": "Potassium activates enzymes and maintains ionic balance."
+    },
+    {
+        "id": 12,
+        "question": "Which pigment is the primary pigment of photosynthesis?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a is the primary photosynthetic pigment."
+    },
+    {
+        "id": 13,
+        "question": "Which compound is the first stable product of C3 pathway?",
+        "options": [
+            "RuBP",
+            "OAA",
+            "3-phosphoglyceric acid",
+            "Malic acid"
+        ],
+        "answer": 2,
+        "explanation": "3-PGA is the first stable product of C3 pathway."
+    },
+    {
+        "id": 14,
+        "question": "Which respiratory step involves oxidative decarboxylation of pyruvate?",
+        "options": [
+            "Glycolysis",
+            "Link reaction",
+            "Krebs cycle",
+            "ETC"
+        ],
+        "answer": 1,
+        "explanation": "Link reaction converts pyruvate to acetyl-CoA."
+    },
+    {
+        "id": 15,
+        "question": "Which plant hormone promotes bolting in rosette plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "Gibberellins promote bolting."
+    },
+    {
+        "id": 16,
+        "question": "Which structure of embryo sac degenerates after fertilisation?",
+        "options": [
+            "Synergids",
+            "Antipodals",
+            "Egg",
+            "Central cell"
+        ],
+        "answer": 1,
+        "explanation": "Antipodals degenerate after fertilisation."
+    },
+    {
+        "id": 17,
+        "question": "Which breeding method is most suitable for cross-pollinated crops?",
+        "options": [
+            "Pureline selection",
+            "Mass selection",
+            "Backcrossing",
+            "Clonal selection"
+        ],
+        "answer": 1,
+        "explanation": "Mass selection is suitable for cross-pollinated crops."
+    },
+    {
+        "id": 18,
+        "question": "Which microorganism is used for production of ethanol?",
+        "options": [
+            "Lactobacillus",
+            "Acetobacter",
+            "Saccharomyces cerevisiae",
+            "Clostridium"
+        ],
+        "answer": 2,
+        "explanation": "Yeast ferments sugars to produce ethanol."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme is responsible for unwinding DNA during replication?",
+        "options": [
+            "Ligase",
+            "Primase",
+            "Helicase",
+            "Polymerase"
+        ],
+        "answer": 2,
+        "explanation": "Helicase unwinds the DNA double helix."
+    },
+    {
+        "id": 20,
+        "question": "Which population parameter represents number of deaths per unit time?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 1,
+        "explanation": "Mortality represents death rate."
+    },
+    {
+        "id": 21,
+        "question": "Which trophic level has maximum energy availability?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Tertiary consumers"
+        ],
+        "answer": 0,
+        "explanation": "Energy is maximum at producer level."
+    },
+    {
+        "id": 22,
+        "question": "Which biodiversity level includes total diversity of a geographical region?",
+        "options": [
+            "Alpha diversity",
+            "Beta diversity",
+            "Gamma diversity",
+            "Genetic diversity"
+        ],
+        "answer": 2,
+        "explanation": "Gamma diversity represents regional diversity."
+    },
+    {
+        "id": 23,
+        "question": "Which pollutant causes thinning of eggshells in birds?",
+        "options": [
+            "DDT",
+            "SO₂",
+            "CO",
+            "NO₂"
+        ],
+        "answer": 0,
+        "explanation": "DDT causes biomagnification leading to eggshell thinning."
+    },
+    {
+        "id": 24,
+        "question": "Which taxonomic aid provides preserved plant specimens for reference?",
+        "options": [
+            "Flora",
+            "Monograph",
+            "Herbarium",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Herbarium contains preserved plant specimens."
+    },
+    {
+        "id": 25,
+        "question": "Which algae shows haplodiplontic life cycle?",
+        "options": [
+            "Ulothrix",
+            "Spirogyra",
+            "Ectocarpus",
+            "Fucus"
+        ],
+        "answer": 2,
+        "explanation": "Ectocarpus shows haplodiplontic life cycle."
+    },
+    {
+        "id": 26,
+        "question": "Which plant tissue is living and forms bulk of plant body?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": 0,
+        "explanation": "Parenchyma forms the bulk of plant body."
+    },
+    {
+        "id": 27,
+        "question": "Which plastid is involved in photosynthesis?",
+        "options": [
+            "Chromoplast",
+            "Amyloplast",
+            "Chloroplast",
+            "Elaioplast"
+        ],
+        "answer": 2,
+        "explanation": "Chloroplast carries out photosynthesis."
+    },
+    {
+        "id": 28,
+        "question": "Which nitrogenous base pairs with cytosine?",
+        "options": [
+            "Adenine",
+            "Thymine",
+            "Guanine",
+            "Uracil"
+        ],
+        "answer": 2,
+        "explanation": "Cytosine pairs with guanine."
+    },
+    {
+        "id": 29,
+        "question": "Which stage of meiosis shows terminalisation of chiasmata?",
+        "options": [
+            "Pachytene",
+            "Diplotene",
+            "Diakinesis",
+            "Zygotene"
+        ],
+        "answer": 2,
+        "explanation": "Chiasmata terminalise during diakinesis."
+    },
+    {
+        "id": 30,
+        "question": "Which force is least effective in ascent of sap?",
+        "options": [
+            "Transpiration pull",
+            "Cohesion",
+            "Adhesion",
+            "Root pressure"
+        ],
+        "answer": 3,
+        "explanation": "Root pressure contributes least in tall plants."
+    },
+    {
+        "id": 31,
+        "question": "Which micronutrient is a component of nitrogenase enzyme?",
+        "options": [
+            "Iron",
+            "Zinc",
+            "Copper",
+            "Calcium"
+        ],
+        "answer": 0,
+        "explanation": "Iron is a component of nitrogenase."
+    },
+    {
+        "id": 32,
+        "question": "Which pathway reduces photorespiration by spatial separation of steps?",
+        "options": [
+            "C3",
+            "C4",
+            "CAM",
+            "Calvin cycle"
+        ],
+        "answer": 1,
+        "explanation": "C4 pathway shows spatial separation."
+    },
+    {
+        "id": 33,
+        "question": "Which respiratory substrate gives respiratory quotient equal to 1?",
+        "options": [
+            "Proteins",
+            "Fats",
+            "Carbohydrates",
+            "Organic acids"
+        ],
+        "answer": 2,
+        "explanation": "Carbohydrates have RQ = 1."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone induces abscission of leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "Ethylene promotes abscission and senescence."
+    },
+    {
+        "id": 35,
+        "question": "Which part of ovule develops into seed coat?",
+        "options": [
+            "Nucellus",
+            "Integuments",
+            "Chalaza",
+            "Funiculus"
+        ],
+        "answer": 1,
+        "explanation": "Integuments form the seed coat."
+    },
+    {
+        "id": 36,
+        "question": "Which breeding method produces homozygous lines rapidly?",
+        "options": [
+            "Pureline selection",
+            "Backcrossing",
+            "Mass selection",
+            "Mutation breeding"
+        ],
+        "answer": 0,
+        "explanation": "Pureline selection yields homozygous lines."
+    },
+    {
+        "id": 37,
+        "question": "Which microorganism is used in biogas production?",
+        "options": [
+            "Rhizobium",
+            "Methanobacterium",
+            "Nitrosomonas",
+            "Saccharomyces"
+        ],
+        "answer": 1,
+        "explanation": "Methanobacterium produces biogas."
+    },
+    {
+        "id": 38,
+        "question": "Which technique is used to separate DNA fragments based on size?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Gel electrophoresis",
+            "Blotting"
+        ],
+        "answer": 2,
+        "explanation": "Gel electrophoresis separates DNA fragments by size."
+    },
+    {
+        "id": 39,
+        "question": "Which dispersion pattern indicates aggregation of individuals?",
+        "options": [
+            "Random",
+            "Uniform",
+            "Clumped",
+            "Regular"
+        ],
+        "answer": 2,
+        "explanation": "Clumped dispersion shows aggregation."
+    },
+    {
+        "id": 40,
+        "question": "Which ecological pyramid is always upright?",
+        "options": [
+            "Numbers",
+            "Biomass",
+            "Energy",
+            "All"
+        ],
+        "answer": 2,
+        "explanation": "Energy pyramid is always upright."
+    },
+    {
+        "id": 41,
+        "question": "Which biome is characterised by grasslands with scattered trees?",
+        "options": [
+            "Savanna",
+            "Taiga",
+            "Tundra",
+            "Desert"
+        ],
+        "answer": 0,
+        "explanation": "Savanna has grasslands with scattered trees."
+    },
+    {
+        "id": 42,
+        "question": "Which gas is the major contributor to greenhouse effect?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Hydrogen"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide contributes significantly to greenhouse effect."
+    },
+    {
+        "id": 43,
+        "question": "Which system of classification reflects evolutionary history?",
+        "options": [
+            "Artificial",
+            "Natural",
+            "Phylogenetic",
+            "Numerical"
+        ],
+        "answer": 2,
+        "explanation": "Phylogenetic classification is evolutionary."
+    },
+    {
+        "id": 44,
+        "question": "Which algae is a source of carrageenan?",
+        "options": [
+            "Ulothrix",
+            "Gelidium",
+            "Chondrus",
+            "Sargassum"
+        ],
+        "answer": 2,
+        "explanation": "Chondrus yields carrageenan."
+    },
+    {
+        "id": 45,
+        "question": "Which tissue lies just inside endodermis in roots?",
+        "options": [
+            "Cortex",
+            "Pericycle",
+            "Cambium",
+            "Pith"
+        ],
+        "answer": 1,
+        "explanation": "Pericycle lies just inside endodermis."
+    },
+    {
+        "id": 46,
+        "question": "Which plastid imparts colour to ripe fruits?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Leucoplast",
+            "Amyloplast"
+        ],
+        "answer": 1,
+        "explanation": "Chromoplasts impart colour."
+    },
+    {
+        "id": 47,
+        "question": "Which nitrogenous base pairs with adenine in RNA?",
+        "options": [
+            "Thymine",
+            "Cytosine",
+            "Guanine",
+            "Uracil"
+        ],
+        "answer": 3,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 48,
+        "question": "Which stage of mitosis shows separation of sister chromatids?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 2,
+        "explanation": "Sister chromatids separate during anaphase."
+    },
+    {
+        "id": 49,
+        "question": "Which force contributes least to ascent of sap?",
+        "options": [
+            "Transpiration pull",
+            "Cohesion",
+            "Adhesion",
+            "Root pressure"
+        ],
+        "answer": 3,
+        "explanation": "Root pressure contributes least in tall plants."
+    },
+    {
+        "id": 50,
+        "question": "Which international agreement focuses on conservation of wetlands?",
+        "options": [
+            "Kyoto Protocol",
+            "Montreal Protocol",
+            "Ramsar Convention",
+            "CBD"
+        ],
+        "answer": 2,
+        "explanation": "Ramsar Convention focuses on wetland conservation."
+    }
+]

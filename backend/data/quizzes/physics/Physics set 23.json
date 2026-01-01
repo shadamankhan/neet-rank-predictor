@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle starts from rest and moves with uniform acceleration. The distance travelled in the nth second is proportional to:",
+        "options": [
+            "n",
+            "2n−1",
+            "n^2",
+            "n^3"
+        ],
+        "answer": 1,
+        "explanation": "Distance in nth second ∝ (2n−1) for motion from rest."
+    },
+    {
+        "id": 2,
+        "question": "A projectile is projected at angle θ. The ratio of maximum height to range is:",
+        "options": [
+            "tanθ/4",
+            "tanθ/2",
+            "sinθ/2",
+            "cosθ/2"
+        ],
+        "answer": 0,
+        "explanation": "H/R = (u^2 sin^2θ/2g)/(u^2 sin2θ/g) = tanθ/4."
+    },
+    {
+        "id": 3,
+        "question": "Two bodies of masses m and 4m have same momentum. The ratio of their kinetic energies is:",
+        "options": [
+            "1 : 4",
+            "4 : 1",
+            "1 : 2",
+            "2 : 1"
+        ],
+        "answer": 0,
+        "explanation": "K = p^2/2m ⇒ K ∝ 1/m."
+    },
+    {
+        "id": 4,
+        "question": "A block moves on a rough horizontal surface with constant speed. The frictional force is:",
+        "options": [
+            "Equal to applied force",
+            "Zero",
+            "Greater than applied force",
+            "Less than applied force"
+        ],
+        "answer": 0,
+        "explanation": "Constant speed implies net force zero."
+    },
+    {
+        "id": 5,
+        "question": "The work done by centripetal force in circular motion is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Centripetal force is perpendicular to velocity."
+    },
+    {
+        "id": 6,
+        "question": "For a satellite orbiting close to Earth, its orbital speed is:",
+        "options": [
+            "Less than escape speed",
+            "Equal to escape speed",
+            "Greater than escape speed",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "v_orbit = v_escape/√2."
+    },
+    {
+        "id": 7,
+        "question": "The terminal velocity of a body falling in a viscous medium is attained when:",
+        "options": [
+            "Net force becomes zero",
+            "Acceleration is maximum",
+            "Velocity is zero",
+            "Gravity is zero"
+        ],
+        "answer": 0,
+        "explanation": "Drag balances weight ⇒ net force zero."
+    },
+    {
+        "id": 8,
+        "question": "The dimensional formula of surface tension is:",
+        "options": [
+            "MT^−2",
+            "ML^−1T^−2",
+            "MLT^−2",
+            "M^0LT^−2"
+        ],
+        "answer": 0,
+        "explanation": "Surface tension = force/length."
+    },
+    {
+        "id": 9,
+        "question": "In an isothermal process, which quantity remains constant for an ideal gas?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Volume",
+            "Internal energy"
+        ],
+        "answer": 0,
+        "explanation": "Isothermal means constant temperature."
+    },
+    {
+        "id": 10,
+        "question": "The angular frequency of SHM is related to time period T as:",
+        "options": [
+            "ω = 2π/T",
+            "ω = T/2π",
+            "ω = π/T",
+            "ω = T/π"
+        ],
+        "answer": 0,
+        "explanation": "ω = 2π/T."
+    },
+    {
+        "id": 11,
+        "question": "The speed of sound in air is least when air is:",
+        "options": [
+            "Cold and dry",
+            "Hot and humid",
+            "Hot and dry",
+            "Cold and humid"
+        ],
+        "answer": 0,
+        "explanation": "Speed increases with temperature and humidity."
+    },
+    {
+        "id": 12,
+        "question": "The electric field at the center of a uniformly charged ring is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Infinite",
+            "Depends on radius"
+        ],
+        "answer": 0,
+        "explanation": "Fields cancel due to symmetry."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of electric flux is:",
+        "options": [
+            "N·m^2/C",
+            "V/m",
+            "C/m^2",
+            "J/C"
+        ],
+        "answer": 0,
+        "explanation": "Electric flux = E·A."
+    },
+    {
+        "id": 14,
+        "question": "If the dielectric constant of a medium is k, the capacitance becomes:",
+        "options": [
+            "k times",
+            "1/k times",
+            "k^2 times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "C' = kC."
+    },
+    {
+        "id": 15,
+        "question": "Drift velocity of electrons in a conductor depends on:",
+        "options": [
+            "Electric field",
+            "Length only",
+            "Area only",
+            "Temperature only"
+        ],
+        "answer": 0,
+        "explanation": "v_d = μE."
+    },
+    {
+        "id": 16,
+        "question": "The magnetic field inside a toroid is:",
+        "options": [
+            "Confined within core",
+            "Zero everywhere",
+            "Uniform outside",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic field lines remain within toroid."
+    },
+    {
+        "id": 17,
+        "question": "The SI unit of magnetic flux density is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux density B is measured in tesla."
+    },
+    {
+        "id": 18,
+        "question": "Induced emf in a circuit is produced due to change in:",
+        "options": [
+            "Magnetic flux",
+            "Magnetic field only",
+            "Area only",
+            "Resistance only"
+        ],
+        "answer": 0,
+        "explanation": "ε = −dΦ/dt."
+    },
+    {
+        "id": 19,
+        "question": "In a purely resistive AC circuit, the current is:",
+        "options": [
+            "In phase with voltage",
+            "90° ahead",
+            "90° behind",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Phase difference φ = 0."
+    },
+    {
+        "id": 20,
+        "question": "The focal length of a concave mirror is:",
+        "options": [
+            "R/2",
+            "R",
+            "2R",
+            "R/4"
+        ],
+        "answer": 0,
+        "explanation": "f = R/2."
+    },
+    {
+        "id": 21,
+        "question": "A convex lens forms a virtual image when the object is placed:",
+        "options": [
+            "Within focal length",
+            "Beyond focal length",
+            "At infinity",
+            "At center of curvature"
+        ],
+        "answer": 0,
+        "explanation": "Object inside focus gives virtual image."
+    },
+    {
+        "id": 22,
+        "question": "In Young’s double slit experiment, fringe width depends on:",
+        "options": [
+            "λD/d",
+            "d/λD",
+            "λ/d",
+            "D/λ"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 23,
+        "question": "The photoelectric effect shows that emission of electrons depends on:",
+        "options": [
+            "Frequency",
+            "Intensity only",
+            "Area only",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "Threshold frequency is required."
+    },
+    {
+        "id": 24,
+        "question": "The de Broglie wavelength of a proton is maximum when its:",
+        "options": [
+            "Velocity is minimum",
+            "Velocity is maximum",
+            "Energy is maximum",
+            "Mass is maximum"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/p."
+    },
+    {
+        "id": 25,
+        "question": "The binding energy per nucleon is least for:",
+        "options": [
+            "Hydrogen",
+            "Iron",
+            "Carbon",
+            "Helium"
+        ],
+        "answer": 0,
+        "explanation": "Light nuclei have small binding energy per nucleon."
+    },
+    {
+        "id": 26,
+        "question": "The SI unit of half-life is:",
+        "options": [
+            "Second",
+            "Becquerel",
+            "Gray",
+            "Sievert"
+        ],
+        "answer": 0,
+        "explanation": "Half-life is a time quantity."
+    },
+    {
+        "id": 27,
+        "question": "The conductivity of an intrinsic semiconductor is maximum at:",
+        "options": [
+            "High temperature",
+            "0 K",
+            "Low temperature",
+            "Any temperature"
+        ],
+        "answer": 0,
+        "explanation": "Carrier concentration increases with temperature."
+    },
+    {
+        "id": 28,
+        "question": "In a p-type semiconductor, minority carriers are:",
+        "options": [
+            "Electrons",
+            "Holes",
+            "Ions",
+            "Protons"
+        ],
+        "answer": 0,
+        "explanation": "Holes are majority carriers."
+    },
+    {
+        "id": 29,
+        "question": "The logic gate equivalent to a combination of NOT followed by OR is:",
+        "options": [
+            "NAND",
+            "NOR",
+            "AND",
+            "XOR"
+        ],
+        "answer": 1,
+        "explanation": "OR followed by NOT gives NOR."
+    },
+    {
+        "id": 30,
+        "question": "Escape velocity from Earth is approximately:",
+        "options": [
+            "11.2 km/s",
+            "7.9 km/s",
+            "5 km/s",
+            "15 km/s"
+        ],
+        "answer": 0,
+        "explanation": "Standard value ≈ 11.2 km/s."
+    },
+    {
+        "id": 31,
+        "question": "The SI unit of electric potential difference is:",
+        "options": [
+            "Volt",
+            "Joule",
+            "Coulomb",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Potential difference is measured in volt."
+    },
+    {
+        "id": 32,
+        "question": "The phenomenon responsible for red colour of sunset is:",
+        "options": [
+            "Scattering",
+            "Refraction",
+            "Reflection",
+            "Diffraction"
+        ],
+        "answer": 0,
+        "explanation": "Long wavelengths scatter least."
+    },
+    {
+        "id": 33,
+        "question": "The energy of a photon of wavelength λ is:",
+        "options": [
+            "hc/λ",
+            "hλ/c",
+            "h/λ",
+            "hcλ"
+        ],
+        "answer": 0,
+        "explanation": "E = hc/λ."
+    },
+    {
+        "id": 34,
+        "question": "The Fermi level in n-type semiconductor lies:",
+        "options": [
+            "Near conduction band",
+            "Near valence band",
+            "Mid-gap",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Donor levels raise Fermi level."
+    },
+    {
+        "id": 35,
+        "question": "The SI unit of resistance is:",
+        "options": [
+            "Ohm",
+            "Volt",
+            "Ampere",
+            "Farad"
+        ],
+        "answer": 0,
+        "explanation": "Resistance is measured in ohm."
+    },
+    {
+        "id": 36,
+        "question": "The electric potential energy of a system of charges is measured in:",
+        "options": [
+            "Joule",
+            "Volt",
+            "Coulomb",
+            "Newton"
+        ],
+        "answer": 0,
+        "explanation": "Energy unit is joule."
+    },
+    {
+        "id": 37,
+        "question": "The average kinetic energy of gas molecules at absolute zero is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Infinite",
+            "Constant"
+        ],
+        "answer": 0,
+        "explanation": "KE_avg ∝ T."
+    },
+    {
+        "id": 38,
+        "question": "The moment of inertia of a body depends on:",
+        "options": [
+            "Axis of rotation",
+            "Angular velocity",
+            "Torque",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "I depends on axis and mass distribution."
+    },
+    {
+        "id": 39,
+        "question": "Power factor of a purely inductive AC circuit is:",
+        "options": [
+            "0",
+            "1",
+            "0.5",
+            "Depends on frequency"
+        ],
+        "answer": 0,
+        "explanation": "cosφ = 0 for inductive circuit."
+    },
+    {
+        "id": 40,
+        "question": "The SI unit of magnetic moment is:",
+        "options": [
+            "A·m^2",
+            "Tesla",
+            "Weber",
+            "N·m"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic moment = IA."
+    },
+    {
+        "id": 41,
+        "question": "The center of mass of an isolated system remains at rest if:",
+        "options": [
+            "Initial momentum is zero",
+            "Energy is zero",
+            "Force is zero",
+            "Velocity is zero"
+        ],
+        "answer": 0,
+        "explanation": "Momentum conservation."
+    },
+    {
+        "id": 42,
+        "question": "Which quantity is conserved in radioactive decay?",
+        "options": [
+            "Charge",
+            "Mass",
+            "Kinetic energy",
+            "Volume"
+        ],
+        "answer": 0,
+        "explanation": "Charge is conserved."
+    },
+    {
+        "id": 43,
+        "question": "The magnetic field at the center of a circular loop is proportional to:",
+        "options": [
+            "Current",
+            "Radius",
+            "Resistance",
+            "Voltage"
+        ],
+        "answer": 0,
+        "explanation": "B = μ0I/2R."
+    },
+    {
+        "id": 44,
+        "question": "The refractive index of a medium increases when the speed of light in it:",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "n = c/v."
+    },
+    {
+        "id": 45,
+        "question": "The work function of a metal is defined as:",
+        "options": [
+            "Minimum energy to remove electron",
+            "Maximum KE of electron",
+            "Photon energy",
+            "Threshold intensity"
+        ],
+        "answer": 0,
+        "explanation": "Work function = minimum energy needed."
+    },
+    {
+        "id": 46,
+        "question": "The decay constant of a radioactive element has unit:",
+        "options": [
+            "s^−1",
+            "s",
+            "kg",
+            "J"
+        ],
+        "answer": 0,
+        "explanation": "Inverse time."
+    },
+    {
+        "id": 47,
+        "question": "The SI unit of power is:",
+        "options": [
+            "Watt",
+            "Joule",
+            "Volt",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Power is measured in watt."
+    },
+    {
+        "id": 48,
+        "question": "The electric field lines inside a conductor are:",
+        "options": [
+            "Absent",
+            "Circular",
+            "Radial",
+            "Parallel"
+        ],
+        "answer": 0,
+        "explanation": "Electric field inside conductor is zero."
+    },
+    {
+        "id": 49,
+        "question": "The phenomenon of total internal reflection occurs when light travels from:",
+        "options": [
+            "Denser to rarer medium",
+            "Rarer to denser",
+            "Vacuum to glass",
+            "Air to water"
+        ],
+        "answer": 0,
+        "explanation": "Condition for TIR."
+    },
+    {
+        "id": 50,
+        "question": "Which physical quantity has the same unit as torque?",
+        "options": [
+            "Work",
+            "Force",
+            "Momentum",
+            "Power"
+        ],
+        "answer": 0,
+        "explanation": "Torque and work both have unit N·m."
+    }
+]

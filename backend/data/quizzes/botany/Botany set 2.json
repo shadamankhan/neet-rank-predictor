@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic category contains organisms with maximum similarity?",
+        "options": [
+            "Family",
+            "Order",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species is the lowest taxonomic category with maximum similarity."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following algae is haploid?",
+        "options": [
+            "Ectocarpus",
+            "Fucus",
+            "Chlamydomonas",
+            "Polysiphonia"
+        ],
+        "answer": 2,
+        "explanation": "Chlamydomonas has a haploid thallus."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group shows well-differentiated vascular tissues but lacks seeds?",
+        "options": [
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms",
+            "Angiosperms"
+        ],
+        "answer": 1,
+        "explanation": "Pteridophytes possess vascular tissues but do not form seeds."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of pea is:",
+        "options": [
+            "Pericarp",
+            "Endosperm",
+            "Cotyledon",
+            "Thalamus"
+        ],
+        "answer": 2,
+        "explanation": "Pea seeds store food in cotyledons."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue is dead at maturity?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Phloem"
+        ],
+        "answer": 2,
+        "explanation": "Sclerenchyma cells are dead at maturity."
+    },
+    {
+        "id": 6,
+        "question": "Bulliform cells are associated with:",
+        "options": [
+            "Dicot stem",
+            "Dicot leaf",
+            "Monocot leaf",
+            "Root"
+        ],
+        "answer": 2,
+        "explanation": "Bulliform cells occur in monocot leaves."
+    },
+    {
+        "id": 7,
+        "question": "Which cell organelle is known as suicidal bag?",
+        "options": [
+            "Peroxisome",
+            "Lysosome",
+            "Ribosome",
+            "Golgi apparatus"
+        ],
+        "answer": 1,
+        "explanation": "Lysosomes contain hydrolytic enzymes."
+    },
+    {
+        "id": 8,
+        "question": "Which biomolecule acts as genetic material?",
+        "options": [
+            "Protein",
+            "Carbohydrate",
+            "DNA",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "DNA carries genetic information."
+    },
+    {
+        "id": 9,
+        "question": "Which stage of mitosis is longest?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 0,
+        "explanation": "Prophase is the longest phase of mitosis."
+    },
+    {
+        "id": 10,
+        "question": "Water absorption through cell membranes is called:",
+        "options": [
+            "Diffusion",
+            "Facilitated diffusion",
+            "Osmosis",
+            "Active transport"
+        ],
+        "answer": 2,
+        "explanation": "Osmosis involves movement of water across semipermeable membrane."
+    },
+    {
+        "id": 11,
+        "question": "Which mineral is a constituent of ferredoxin?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Magnesium"
+        ],
+        "answer": 0,
+        "explanation": "Ferredoxin contains iron."
+    },
+    {
+        "id": 12,
+        "question": "Which pigment is absent in green plants?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Phycobilin"
+        ],
+        "answer": 3,
+        "explanation": "Phycobilins are found in cyanobacteria and red algae."
+    },
+    {
+        "id": 13,
+        "question": "Which process releases CO₂ in plants?",
+        "options": [
+            "Photosynthesis",
+            "Respiration",
+            "Transpiration",
+            "Diffusion"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is released during respiration."
+    },
+    {
+        "id": 14,
+        "question": "Which plant hormone is gaseous in nature?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "Ethylene is the only gaseous plant hormone."
+    },
+    {
+        "id": 15,
+        "question": "Endosperm development in coconut is:",
+        "options": [
+            "Cellular",
+            "Nuclear",
+            "Helobial",
+            "Solid"
+        ],
+        "answer": 1,
+        "explanation": "Coconut shows free nuclear endosperm."
+    },
+    {
+        "id": 16,
+        "question": "Pureline selection is effective in:",
+        "options": [
+            "Cross-pollinated crops",
+            "Self-pollinated crops",
+            "Vegetatively propagated crops",
+            "Hybrid crops"
+        ],
+        "answer": 1,
+        "explanation": "Pureline selection is used for self-pollinated crops."
+    },
+    {
+        "id": 17,
+        "question": "Which microbe is used for biogas production?",
+        "options": [
+            "Methanobacterium",
+            "Nitrosomonas",
+            "Azotobacter",
+            "Rhizobium"
+        ],
+        "answer": 0,
+        "explanation": "Methanogens produce biogas."
+    },
+    {
+        "id": 18,
+        "question": "Ti plasmid is obtained from:",
+        "options": [
+            "Rhizobium",
+            "Agrobacterium tumefaciens",
+            "E. coli",
+            "Bacillus"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid is present in Agrobacterium tumefaciens."
+    },
+    {
+        "id": 19,
+        "question": "Exponential population growth is represented by:",
+        "options": [
+            "J-shaped curve",
+            "S-shaped curve",
+            "Linear curve",
+            "Bell-shaped curve"
+        ],
+        "answer": 0,
+        "explanation": "Exponential growth forms a J-shaped curve."
+    },
+    {
+        "id": 20,
+        "question": "Which trophic level has maximum energy?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Tertiary consumers"
+        ],
+        "answer": 0,
+        "explanation": "Producers capture maximum energy."
+    },
+    {
+        "id": 21,
+        "question": "Sacred groves help in:",
+        "options": [
+            "Soil erosion",
+            "Biodiversity conservation",
+            "Urbanisation",
+            "Deforestation"
+        ],
+        "answer": 1,
+        "explanation": "Sacred groves conserve biodiversity."
+    },
+    {
+        "id": 22,
+        "question": "Which gas causes acid rain?",
+        "options": [
+            "CO₂",
+            "SO₂",
+            "O₂",
+            "N₂"
+        ],
+        "answer": 1,
+        "explanation": "Sulphur dioxide leads to acid rain."
+    },
+    {
+        "id": 23,
+        "question": "Herbarium is a collection of:",
+        "options": [
+            "Live plants",
+            "Preserved plant specimens",
+            "Seeds",
+            "Fossils"
+        ],
+        "answer": 1,
+        "explanation": "Herbarium stores preserved plant specimens."
+    },
+    {
+        "id": 24,
+        "question": "Which algae is used as protein source?",
+        "options": [
+            "Spirogyra",
+            "Chlorella",
+            "Ulothrix",
+            "Volvox"
+        ],
+        "answer": 1,
+        "explanation": "Chlorella is rich in protein."
+    },
+    {
+        "id": 25,
+        "question": "Which plant shows heterospory?",
+        "options": [
+            "Funaria",
+            "Marchantia",
+            "Selaginella",
+            "Riccia"
+        ],
+        "answer": 2,
+        "explanation": "Selaginella produces microspores and megaspores."
+    },
+    {
+        "id": 26,
+        "question": "Epiblema is also called:",
+        "options": [
+            "Pericycle",
+            "Cortex",
+            "Piliferous layer",
+            "Endodermis"
+        ],
+        "answer": 2,
+        "explanation": "Epiblema is piliferous layer of root."
+    },
+    {
+        "id": 27,
+        "question": "Cristae are present in:",
+        "options": [
+            "Chloroplast",
+            "Mitochondria",
+            "Ribosome",
+            "Nucleus"
+        ],
+        "answer": 1,
+        "explanation": "Cristae increase surface area in mitochondria."
+    },
+    {
+        "id": 28,
+        "question": "Which bond stabilizes protein structure?",
+        "options": [
+            "Glycosidic",
+            "Peptide",
+            "Phosphodiester",
+            "Ester"
+        ],
+        "answer": 1,
+        "explanation": "Proteins are made of amino acids linked by peptide bonds."
+    },
+    {
+        "id": 29,
+        "question": "Crossing over occurs during:",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 2,
+        "explanation": "Crossing over occurs in pachytene stage."
+    },
+    {
+        "id": 30,
+        "question": "Translocation of organic solutes occurs through:",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Cambium",
+            "Cortex"
+        ],
+        "answer": 1,
+        "explanation": "Phloem translocates organic solutes."
+    },
+    {
+        "id": 31,
+        "question": "Which element activates many enzymes?",
+        "options": [
+            "Calcium",
+            "Magnesium",
+            "Sulphur",
+            "Iron"
+        ],
+        "answer": 1,
+        "explanation": "Magnesium acts as enzyme activator."
+    },
+    {
+        "id": 32,
+        "question": "Which reaction occurs in stroma?",
+        "options": [
+            "Photolysis",
+            "Electron transport",
+            "Calvin cycle",
+            "Chemiosmosis"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle occurs in stroma."
+    },
+    {
+        "id": 33,
+        "question": "Which pathway produces maximum ATP?",
+        "options": [
+            "Glycolysis",
+            "Fermentation",
+            "Krebs cycle",
+            "Electron transport chain"
+        ],
+        "answer": 3,
+        "explanation": "Maximum ATP is produced in ETC."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone promotes bolting?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "Gibberellins induce bolting."
+    },
+    {
+        "id": 35,
+        "question": "Synergids are part of:",
+        "options": [
+            "Embryo",
+            "Endosperm",
+            "Female gametophyte",
+            "Male gametophyte"
+        ],
+        "answer": 2,
+        "explanation": "Synergids are present in female gametophyte."
+    },
+    {
+        "id": 36,
+        "question": "Which breeding improves nutritional quality?",
+        "options": [
+            "Hybrid breeding",
+            "Mutation breeding",
+            "Biofortification",
+            "Outbreeding"
+        ],
+        "answer": 2,
+        "explanation": "Biofortification enhances nutritional quality."
+    },
+    {
+        "id": 37,
+        "question": "Which organism produces citric acid?",
+        "options": [
+            "Aspergillus niger",
+            "Rhizobium",
+            "Penicillium",
+            "Lactobacillus"
+        ],
+        "answer": 0,
+        "explanation": "Aspergillus niger produces citric acid."
+    },
+    {
+        "id": 38,
+        "question": "Which technique amplifies DNA?",
+        "options": [
+            "ELISA",
+            "PCR",
+            "Blotting",
+            "Hybridisation"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies DNA."
+    },
+    {
+        "id": 39,
+        "question": "Mortality refers to:",
+        "options": [
+            "Birth rate",
+            "Death rate",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 1,
+        "explanation": "Mortality is death rate."
+    },
+    {
+        "id": 40,
+        "question": "Which ecosystem has highest productivity?",
+        "options": [
+            "Desert",
+            "Grassland",
+            "Coral reef",
+            "Forest"
+        ],
+        "answer": 2,
+        "explanation": "Coral reefs show high productivity."
+    },
+    {
+        "id": 41,
+        "question": "Endemic species are:",
+        "options": [
+            "Cosmopolitan",
+            "Restricted to a region",
+            "Migratory",
+            "Introduced"
+        ],
+        "answer": 1,
+        "explanation": "Endemic species are restricted to a region."
+    },
+    {
+        "id": 42,
+        "question": "Which gas causes photochemical smog?",
+        "options": [
+            "CO",
+            "NO₂",
+            "SO₂",
+            "CH₄"
+        ],
+        "answer": 1,
+        "explanation": "NO₂ is involved in photochemical smog."
+    },
+    {
+        "id": 43,
+        "question": "Binomial nomenclature was proposed by:",
+        "options": [
+            "Darwin",
+            "Linnaeus",
+            "Whittaker",
+            "Mayr"
+        ],
+        "answer": 1,
+        "explanation": "Linnaeus proposed binomial nomenclature."
+    },
+    {
+        "id": 44,
+        "question": "Which algae has diplontic life cycle?",
+        "options": [
+            "Ulothrix",
+            "Chlamydomonas",
+            "Fucus",
+            "Spirogyra"
+        ],
+        "answer": 2,
+        "explanation": "Fucus shows diplontic life cycle."
+    },
+    {
+        "id": 45,
+        "question": "Which plant is insectivorous?",
+        "options": [
+            "Cuscuta",
+            "Nepenthes",
+            "Lathyrus",
+            "Opuntia"
+        ],
+        "answer": 1,
+        "explanation": "Nepenthes traps insects."
+    },
+    {
+        "id": 46,
+        "question": "Vascular cambium is responsible for:",
+        "options": [
+            "Primary growth",
+            "Secondary growth",
+            "Apical growth",
+            "Elongation"
+        ],
+        "answer": 1,
+        "explanation": "Vascular cambium causes secondary growth."
+    },
+    {
+        "id": 47,
+        "question": "Plastids are absent in:",
+        "options": [
+            "Algae",
+            "Fungi",
+            "Bryophytes",
+            "Pteridophytes"
+        ],
+        "answer": 1,
+        "explanation": "Fungi lack plastids."
+    },
+    {
+        "id": 48,
+        "question": "Which sugar is non-reducing?",
+        "options": [
+            "Glucose",
+            "Fructose",
+            "Sucrose",
+            "Maltose"
+        ],
+        "answer": 2,
+        "explanation": "Sucrose is non-reducing sugar."
+    },
+    {
+        "id": 49,
+        "question": "Chiasmata are visible during:",
+        "options": [
+            "Pachytene",
+            "Diplotene",
+            "Diakinesis",
+            "Metaphase I"
+        ],
+        "answer": 1,
+        "explanation": "Chiasmata appear during diplotene."
+    },
+    {
+        "id": 50,
+        "question": "Which ion maintains turgidity of cells?",
+        "options": [
+            "Calcium",
+            "Magnesium",
+            "Potassium",
+            "Iron"
+        ],
+        "answer": 2,
+        "explanation": "Potassium helps maintain cell turgidity."
+    }
+]

@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Which pigment is directly responsible for converting light energy into chemical energy during photosynthesis?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "According to NCERT, chlorophyll a is the chief pigment that converts light energy into chemical energy."
+    },
+    {
+        "id": 2,
+        "question": "The primary photosynthetic pigment in higher plants absorbs maximum light in which region of the spectrum?",
+        "options": [
+            "Green",
+            "Red and blue",
+            "Yellow",
+            "Infrared"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states chlorophyll a absorbs mainly red and blue regions of light."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following pigments is an accessory pigment in higher plants?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Phaeophytin",
+            "Phycoerythrin"
+        ],
+        "answer": 1,
+        "explanation": "Chlorophyll b is an accessory pigment in higher plants as per NCERT."
+    },
+    {
+        "id": 4,
+        "question": "Accessory pigments help in photosynthesis mainly by",
+        "options": [
+            "Converting CO₂ into glucose",
+            "Absorbing light and transferring energy to chlorophyll a",
+            "Splitting water molecules",
+            "Releasing oxygen"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states accessory pigments absorb light and transfer energy to chlorophyll a."
+    },
+    {
+        "id": 5,
+        "question": "Which pigment gives the green colour to leaves?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a reflects green light, giving leaves their green colour."
+    },
+    {
+        "id": 6,
+        "question": "The reaction centre in photosystem II is known as",
+        "options": [
+            "P680",
+            "P700",
+            "P450",
+            "P520"
+        ],
+        "answer": 0,
+        "explanation": "NCERT specifies that photosystem II has P680 as its reaction centre."
+    },
+    {
+        "id": 7,
+        "question": "The reaction centre in photosystem I is",
+        "options": [
+            "P680",
+            "P700",
+            "P660",
+            "P730"
+        ],
+        "answer": 1,
+        "explanation": "Photosystem I contains P700 as its reaction centre according to NCERT."
+    },
+    {
+        "id": 8,
+        "question": "Photosystem II is involved primarily in",
+        "options": [
+            "Carbon fixation",
+            "Photolysis of water",
+            "Reduction of NADP⁺",
+            "Formation of RuBP"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states PS II is associated with photolysis of water."
+    },
+    {
+        "id": 9,
+        "question": "Photolysis of water results in the formation of",
+        "options": [
+            "ATP only",
+            "NADPH only",
+            "Oxygen, protons and electrons",
+            "Glucose"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions that photolysis produces O₂, H⁺ ions and electrons."
+    },
+    {
+        "id": 10,
+        "question": "The site of light reaction in chloroplast is",
+        "options": [
+            "Stroma",
+            "Outer membrane",
+            "Thylakoid membrane",
+            "Inner membrane"
+        ],
+        "answer": 2,
+        "explanation": "Light reactions occur on thylakoid membranes as per NCERT."
+    },
+    {
+        "id": 11,
+        "question": "ATP synthesis during light reaction occurs by",
+        "options": [
+            "Substrate-level phosphorylation",
+            "Oxidative phosphorylation",
+            "Photophosphorylation",
+            "Chemiosmosis only"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ATP is formed by photophosphorylation during light reaction."
+    },
+    {
+        "id": 12,
+        "question": "The electron transport chain during light reaction is located in the",
+        "options": [
+            "Stroma",
+            "Thylakoid lumen",
+            "Thylakoid membrane",
+            "Outer chloroplast membrane"
+        ],
+        "answer": 2,
+        "explanation": "Electron carriers are embedded in the thylakoid membrane."
+    },
+    {
+        "id": 13,
+        "question": "Cyclic photophosphorylation involves",
+        "options": [
+            "Photosystem II only",
+            "Photosystem I only",
+            "Both PS I and PS II",
+            "Neither PS I nor PS II"
+        ],
+        "answer": 1,
+        "explanation": "NCERT specifies cyclic photophosphorylation involves only PS I."
+    },
+    {
+        "id": 14,
+        "question": "Non-cyclic photophosphorylation involves",
+        "options": [
+            "PS I only",
+            "PS II only",
+            "Both PS I and PS II",
+            "No photosystem"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states non-cyclic photophosphorylation involves both PS I and PS II."
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is not produced during non-cyclic photophosphorylation?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "Oxygen",
+            "Carbon dioxide"
+        ],
+        "answer": 3,
+        "explanation": "CO₂ is not a product of light reactions."
+    },
+    {
+        "id": 16,
+        "question": "The proton gradient during light reaction is created mainly due to",
+        "options": [
+            "Reduction of NADP⁺",
+            "Splitting of water and proton pumping",
+            "ATP synthesis",
+            "CO₂ fixation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains proton gradient forms due to photolysis and proton transport."
+    },
+    {
+        "id": 17,
+        "question": "ATP synthase is located in the",
+        "options": [
+            "Outer chloroplast membrane",
+            "Inner chloroplast membrane",
+            "Thylakoid membrane",
+            "Stroma"
+        ],
+        "answer": 2,
+        "explanation": "ATP synthase complexes are present in thylakoid membrane."
+    },
+    {
+        "id": 18,
+        "question": "The enzyme Rubisco is located in the",
+        "options": [
+            "Thylakoid lumen",
+            "Thylakoid membrane",
+            "Stroma",
+            "Outer membrane"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Rubisco is located in the stroma."
+    },
+    {
+        "id": 19,
+        "question": "Calvin cycle takes place in the",
+        "options": [
+            "Thylakoid",
+            "Stroma",
+            "Cytoplasm",
+            "Mitochondria"
+        ],
+        "answer": 1,
+        "explanation": "Carbon fixation reactions occur in the stroma."
+    },
+    {
+        "id": 20,
+        "question": "The first stable product of Calvin cycle in C₃ plants is",
+        "options": [
+            "Glucose",
+            "Oxaloacetic acid",
+            "3-phosphoglyceric acid",
+            "Malic acid"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states 3-PGA is the first stable product in C₃ plants."
+    },
+    {
+        "id": 21,
+        "question": "The primary acceptor of CO₂ in Calvin cycle is",
+        "options": [
+            "RuBP",
+            "PGA",
+            "PEP",
+            "Malate"
+        ],
+        "answer": 0,
+        "explanation": "RuBP is the CO₂ acceptor in Calvin cycle."
+    },
+    {
+        "id": 22,
+        "question": "The enzyme responsible for carboxylation in Calvin cycle is",
+        "options": [
+            "PEP carboxylase",
+            "Rubisco",
+            "ATP synthase",
+            "NADP reductase"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco catalyses CO₂ fixation."
+    },
+    {
+        "id": 23,
+        "question": "Reduction phase of Calvin cycle uses",
+        "options": [
+            "ATP only",
+            "NADPH only",
+            "ATP and NADPH",
+            "ADP and NADP⁺"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states both ATP and NADPH are used in reduction phase."
+    },
+    {
+        "id": 24,
+        "question": "Regeneration of RuBP requires",
+        "options": [
+            "ATP",
+            "NADPH",
+            "CO₂",
+            "Oxygen"
+        ],
+        "answer": 0,
+        "explanation": "ATP is required for regeneration of RuBP."
+    },
+    {
+        "id": 25,
+        "question": "For fixation of one molecule of CO₂, the Calvin cycle requires",
+        "options": [
+            "1 ATP and 1 NADPH",
+            "2 ATP and 2 NADPH",
+            "3 ATP and 2 NADPH",
+            "3 ATP and 3 NADPH"
+        ],
+        "answer": 2,
+        "explanation": "NCERT specifies 3 ATP and 2 NADPH are needed per CO₂."
+    },
+    {
+        "id": 26,
+        "question": "C₄ plants differ from C₃ plants mainly by",
+        "options": [
+            "Absence of chlorophyll",
+            "Presence of Kranz anatomy",
+            "Lack of Calvin cycle",
+            "Lack of stomata"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states C₄ plants have Kranz anatomy."
+    },
+    {
+        "id": 27,
+        "question": "In C₄ plants, initial fixation of CO₂ occurs in",
+        "options": [
+            "Bundle sheath cells",
+            "Mesophyll cells",
+            "Stroma",
+            "Thylakoid"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is first fixed in mesophyll cells."
+    },
+    {
+        "id": 28,
+        "question": "The primary CO₂ acceptor in C₄ plants is",
+        "options": [
+            "RuBP",
+            "PEP",
+            "OAA",
+            "PGA"
+        ],
+        "answer": 1,
+        "explanation": "PEP is the initial CO₂ acceptor in C₄ pathway."
+    },
+    {
+        "id": 29,
+        "question": "The first stable compound formed in C₄ pathway is",
+        "options": [
+            "3-PGA",
+            "RuBP",
+            "Oxaloacetic acid",
+            "Malic acid"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states OAA is the first stable product."
+    },
+    {
+        "id": 30,
+        "question": "The enzyme responsible for initial CO₂ fixation in C₄ plants is",
+        "options": [
+            "Rubisco",
+            "PEP carboxylase",
+            "RuBP carboxylase",
+            "ATP synthase"
+        ],
+        "answer": 1,
+        "explanation": "PEP carboxylase fixes CO₂ in C₄ plants."
+    },
+    {
+        "id": 31,
+        "question": "Bundle sheath cells in C₄ plants are characterized by",
+        "options": [
+            "Thin walls",
+            "Lack of chloroplasts",
+            "Large chloroplasts with no grana",
+            "Absence of mitochondria"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states bundle sheath chloroplasts lack grana."
+    },
+    {
+        "id": 32,
+        "question": "Photorespiration is highest in",
+        "options": [
+            "C₄ plants",
+            "CAM plants",
+            "C₃ plants",
+            "All plants equally"
+        ],
+        "answer": 2,
+        "explanation": "NCERT explains photorespiration is prominent in C₃ plants."
+    },
+    {
+        "id": 33,
+        "question": "Photorespiration occurs due to",
+        "options": [
+            "High CO₂ concentration",
+            "Oxygenation activity of Rubisco",
+            "Lack of light",
+            "High ATP levels"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco acts as oxygenase causing photorespiration."
+    },
+    {
+        "id": 34,
+        "question": "Which organelle is involved in photorespiration?",
+        "options": [
+            "Chloroplast only",
+            "Mitochondria only",
+            "Peroxisome only",
+            "Chloroplast, mitochondria and peroxisome"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states photorespiration involves all three organelles."
+    },
+    {
+        "id": 35,
+        "question": "Photorespiration results in",
+        "options": [
+            "ATP synthesis",
+            "CO₂ fixation",
+            "Loss of fixed carbon",
+            "Increased glucose synthesis"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration causes loss of fixed carbon."
+    },
+    {
+        "id": 36,
+        "question": "CAM plants open their stomata during",
+        "options": [
+            "Day",
+            "Night",
+            "Both day and night",
+            "Never"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states CAM plants open stomata at night."
+    },
+    {
+        "id": 37,
+        "question": "In CAM plants, CO₂ is stored in the form of",
+        "options": [
+            "Oxaloacetic acid",
+            "Malic acid",
+            "Pyruvic acid",
+            "Citric acid"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is stored as malic acid at night."
+    },
+    {
+        "id": 38,
+        "question": "Which factor does not directly affect photosynthesis?",
+        "options": [
+            "Light",
+            "CO₂ concentration",
+            "Temperature",
+            "Wind velocity"
+        ],
+        "answer": 3,
+        "explanation": "Wind velocity is not a direct factor affecting photosynthesis."
+    },
+    {
+        "id": 39,
+        "question": "Law of limiting factors was proposed by",
+        "options": [
+            "Blackman",
+            "Priestley",
+            "Ingenhousz",
+            "Sachs"
+        ],
+        "answer": 0,
+        "explanation": "NCERT credits Blackman with the law of limiting factors."
+    },
+    {
+        "id": 40,
+        "question": "According to Blackman’s law, the rate of photosynthesis is limited by",
+        "options": [
+            "All factors equally",
+            "The factor in minimum",
+            "Light only",
+            "CO₂ only"
+        ],
+        "answer": 1,
+        "explanation": "The slowest factor limits the rate of photosynthesis."
+    },
+    {
+        "id": 41,
+        "question": "At very high light intensity, photosynthesis decreases due to",
+        "options": [
+            "CO₂ deficiency",
+            "Photoinhibition",
+            "Increased respiration",
+            "Low temperature"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions photoinhibition at high light intensity."
+    },
+    {
+        "id": 42,
+        "question": "The optimum temperature for photosynthesis in tropical plants is about",
+        "options": [
+            "10–15°C",
+            "20–25°C",
+            "30–35°C",
+            "40–45°C"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states optimum temperature is 30–35°C for tropical plants."
+    },
+    {
+        "id": 43,
+        "question": "Which wavelength of light is least effective in photosynthesis?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Violet"
+        ],
+        "answer": 2,
+        "explanation": "Green light is least absorbed by chlorophyll."
+    },
+    {
+        "id": 44,
+        "question": "The overall equation of photosynthesis was first given by",
+        "options": [
+            "Priestley",
+            "Ingenhousz",
+            "van Niel",
+            "Blackman"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states van Niel proposed the generalized equation."
+    },
+    {
+        "id": 45,
+        "question": "The source of oxygen released during photosynthesis is",
+        "options": [
+            "CO₂",
+            "H₂O",
+            "Glucose",
+            "O₂"
+        ],
+        "answer": 1,
+        "explanation": "Oxygen comes from water splitting."
+    },
+    {
+        "id": 46,
+        "question": "Which experiment proved that oxygen is released from water during photosynthesis?",
+        "options": [
+            "Blackman’s experiment",
+            "Hill reaction",
+            "Priestley’s experiment",
+            "Engelmann’s experiment"
+        ],
+        "answer": 1,
+        "explanation": "Hill reaction demonstrated oxygen evolution from water."
+    },
+    {
+        "id": 47,
+        "question": "The Hill reaction occurs in the presence of",
+        "options": [
+            "CO₂",
+            "Light and suitable electron acceptor",
+            "Darkness",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Hill reaction requires light and electron acceptor."
+    },
+    {
+        "id": 48,
+        "question": "Which of the following is a correct sequence of events in light reaction?",
+        "options": [
+            "ATP synthesis → photolysis → electron transport",
+            "Photolysis → electron transport → ATP synthesis",
+            "Electron transport → photolysis → ATP synthesis",
+            "Photolysis → ATP synthesis → electron transport"
+        ],
+        "answer": 1,
+        "explanation": "NCERT describes photolysis first, then electron transport and ATP synthesis."
+    },
+    {
+        "id": 49,
+        "question": "NADP⁺ is reduced to NADPH by",
+        "options": [
+            "Photosystem II",
+            "Photosystem I",
+            "ATP synthase",
+            "Cytochrome b6f"
+        ],
+        "answer": 1,
+        "explanation": "Reduction of NADP⁺ occurs at PS I."
+    },
+    {
+        "id": 50,
+        "question": "Which statement is correct regarding cyclic photophosphorylation?",
+        "options": [
+            "Oxygen is evolved",
+            "NADPH is formed",
+            "ATP is formed",
+            "Both ATP and NADPH are formed"
+        ],
+        "answer": 2,
+        "explanation": "Only ATP is produced in cyclic photophosphorylation."
+    },
+    {
+        "id": 51,
+        "question": "Which of the following plants is a C₄ plant as per NCERT examples?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Maize",
+            "Sunflower"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists maize as a C₄ plant."
+    },
+    {
+        "id": 52,
+        "question": "CAM pathway is an adaptation to",
+        "options": [
+            "High temperature",
+            "Aquatic habitat",
+            "Dry conditions",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants are adapted to arid conditions."
+    },
+    {
+        "id": 53,
+        "question": "In photorespiration, the substrate for Rubisco is",
+        "options": [
+            "RuBP and CO₂",
+            "RuBP and O₂",
+            "PGA and O₂",
+            "PEP and CO₂"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco acts on RuBP and O₂ during photorespiration."
+    },
+    {
+        "id": 54,
+        "question": "Which condition favours photorespiration?",
+        "options": [
+            "High CO₂ and low O₂",
+            "Low CO₂ and high O₂",
+            "Low light",
+            "Low temperature"
+        ],
+        "answer": 1,
+        "explanation": "Photorespiration is favoured by high O₂ and low CO₂."
+    },
+    {
+        "id": 55,
+        "question": "The energy currency produced during photosynthesis is",
+        "options": [
+            "ADP",
+            "ATP",
+            "AMP",
+            "NADP"
+        ],
+        "answer": 1,
+        "explanation": "ATP is the energy currency formed."
+    },
+    {
+        "id": 56,
+        "question": "Which structure increases surface area for light absorption in chloroplast?",
+        "options": [
+            "Stroma",
+            "Grana",
+            "Outer membrane",
+            "Inner membrane"
+        ],
+        "answer": 1,
+        "explanation": "Grana increase surface area for light reactions."
+    },
+    {
+        "id": 57,
+        "question": "The Calvin cycle is also known as",
+        "options": [
+            "Hatch-Slack pathway",
+            "C₄ cycle",
+            "Reductive pentose phosphate pathway",
+            "Glycolysis"
+        ],
+        "answer": 2,
+        "explanation": "NCERT refers to Calvin cycle as reductive pentose phosphate pathway."
+    },
+    {
+        "id": 58,
+        "question": "Which compound exits Calvin cycle to form sugars?",
+        "options": [
+            "RuBP",
+            "G3P",
+            "PGA",
+            "OAA"
+        ],
+        "answer": 1,
+        "explanation": "Glyceraldehyde-3-phosphate leaves the cycle to form sugars."
+    },
+    {
+        "id": 59,
+        "question": "How many turns of Calvin cycle are required to form one glucose molecule?",
+        "options": [
+            "2",
+            "3",
+            "6",
+            "12"
+        ],
+        "answer": 2,
+        "explanation": "Six turns are required to form one glucose."
+    },
+    {
+        "id": 60,
+        "question": "Which factor affects enzymatic reactions of photosynthesis the most?",
+        "options": [
+            "Light",
+            "Temperature",
+            "Oxygen",
+            "Wind"
+        ],
+        "answer": 1,
+        "explanation": "Enzymatic reactions are temperature dependent."
+    },
+    {
+        "id": 61,
+        "question": "The pH of thylakoid lumen during light reaction becomes",
+        "options": [
+            "More alkaline",
+            "More acidic",
+            "Neutral",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Proton accumulation makes lumen acidic."
+    },
+    {
+        "id": 62,
+        "question": "The pH of stroma during light reaction becomes",
+        "options": [
+            "More acidic",
+            "More alkaline",
+            "Neutral",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Proton movement increases alkalinity of stroma."
+    },
+    {
+        "id": 63,
+        "question": "Which molecule links light reaction and dark reaction?",
+        "options": [
+            "CO₂",
+            "ATP and NADPH",
+            "O₂",
+            "Glucose"
+        ],
+        "answer": 1,
+        "explanation": "ATP and NADPH link the two stages."
+    },
+    {
+        "id": 64,
+        "question": "Which statement is correct for Rubisco?",
+        "options": [
+            "It is only a carboxylase",
+            "It is only an oxygenase",
+            "It has both carboxylase and oxygenase activity",
+            "It fixes nitrogen"
+        ],
+        "answer": 2,
+        "explanation": "Rubisco has dual activity."
+    },
+    {
+        "id": 65,
+        "question": "Photorespiration leads to consumption of",
+        "options": [
+            "ATP only",
+            "ATP and NADPH",
+            "NADPH only",
+            "No energy"
+        ],
+        "answer": 1,
+        "explanation": "Energy is consumed during photorespiration."
+    },
+    {
+        "id": 66,
+        "question": "Which plant tissue shows Kranz anatomy?",
+        "options": [
+            "Mesophyll",
+            "Bundle sheath",
+            "Epidermis",
+            "Xylem"
+        ],
+        "answer": 1,
+        "explanation": "Kranz anatomy involves bundle sheath cells."
+    },
+    {
+        "id": 67,
+        "question": "Which factor increases rate of photosynthesis up to a limit?",
+        "options": [
+            "CO₂ concentration",
+            "Oxygen concentration",
+            "Darkness",
+            "Low temperature"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ increases photosynthesis up to saturation."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is not a product of Calvin cycle?",
+        "options": [
+            "ADP",
+            "NADP⁺",
+            "Glucose",
+            "ATP"
+        ],
+        "answer": 3,
+        "explanation": "ATP is consumed, not produced, in Calvin cycle."
+    },
+    {
+        "id": 69,
+        "question": "Which step of Calvin cycle involves RuBP formation?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 2,
+        "explanation": "RuBP is regenerated in regeneration phase."
+    },
+    {
+        "id": 70,
+        "question": "In CAM plants, Calvin cycle occurs during",
+        "options": [
+            "Night",
+            "Day",
+            "Both day and night",
+            "Never"
+        ],
+        "answer": 1,
+        "explanation": "Calvin cycle occurs during day in CAM plants."
+    },
+    {
+        "id": 71,
+        "question": "The enzyme PEP carboxylase is absent in",
+        "options": [
+            "C₄ plants",
+            "CAM plants",
+            "C₃ plants",
+            "All plants"
+        ],
+        "answer": 2,
+        "explanation": "PEP carboxylase is absent in C₃ plants."
+    },
+    {
+        "id": 72,
+        "question": "Which factor primarily differentiates C₄ plants from C₃ plants?",
+        "options": [
+            "Light reaction",
+            "Carbon fixation mechanism",
+            "Calvin cycle absence",
+            "Chlorophyll type"
+        ],
+        "answer": 1,
+        "explanation": "Difference lies in initial CO₂ fixation."
+    },
+    {
+        "id": 73,
+        "question": "Which experiment demonstrated action spectrum of photosynthesis?",
+        "options": [
+            "Priestley",
+            "Engelmann",
+            "Hill",
+            "Blackman"
+        ],
+        "answer": 1,
+        "explanation": "Engelmann’s experiment demonstrated action spectrum."
+    },
+    {
+        "id": 74,
+        "question": "Which colour light showed maximum photosynthesis in Engelmann’s experiment?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Red and blue",
+            "Orange"
+        ],
+        "answer": 2,
+        "explanation": "Red and blue regions were most effective."
+    },
+    {
+        "id": 75,
+        "question": "The light-independent reactions are called dark reactions because",
+        "options": [
+            "They occur only at night",
+            "They do not require light directly",
+            "They occur in darkness only",
+            "They do not require chlorophyll"
+        ],
+        "answer": 1,
+        "explanation": "They do not require light directly."
+    },
+    {
+        "id": 76,
+        "question": "Which of the following is a correct pair?",
+        "options": [
+            "P680 – Photosystem I",
+            "P700 – Photosystem II",
+            "P680 – Photosystem II",
+            "P700 – Photolysis"
+        ],
+        "answer": 2,
+        "explanation": "P680 is reaction centre of PS II."
+    },
+    {
+        "id": 77,
+        "question": "The splitting of water takes place at",
+        "options": [
+            "Photosystem I",
+            "Photosystem II",
+            "ATP synthase",
+            "Stroma"
+        ],
+        "answer": 1,
+        "explanation": "Water splitting occurs at PS II."
+    },
+    {
+        "id": 78,
+        "question": "Which molecule acts as final electron acceptor in light reaction?",
+        "options": [
+            "NADP⁺",
+            "Oxygen",
+            "ADP",
+            "CO₂"
+        ],
+        "answer": 0,
+        "explanation": "NADP⁺ is final electron acceptor."
+    },
+    {
+        "id": 79,
+        "question": "Which product of light reaction is used for sugar synthesis?",
+        "options": [
+            "Oxygen",
+            "ATP",
+            "NADPH",
+            "ATP and NADPH"
+        ],
+        "answer": 3,
+        "explanation": "Both ATP and NADPH are used."
+    },
+    {
+        "id": 80,
+        "question": "Which statement is incorrect about C₄ plants?",
+        "options": [
+            "They show Kranz anatomy",
+            "They have higher photorespiration",
+            "They reduce photorespiration",
+            "They initially fix CO₂ into OAA"
+        ],
+        "answer": 1,
+        "explanation": "C₄ plants show low photorespiration."
+    },
+    {
+        "id": 81,
+        "question": "Which condition decreases the rate of photosynthesis?",
+        "options": [
+            "Increase in CO₂",
+            "Optimal temperature",
+            "Water stress",
+            "Adequate light"
+        ],
+        "answer": 2,
+        "explanation": "Water stress reduces photosynthesis."
+    },
+    {
+        "id": 82,
+        "question": "Which molecule is regenerated in Calvin cycle to continue CO₂ fixation?",
+        "options": [
+            "PGA",
+            "G3P",
+            "RuBP",
+            "OAA"
+        ],
+        "answer": 2,
+        "explanation": "RuBP must be regenerated."
+    },
+    {
+        "id": 83,
+        "question": "Which statement about CAM plants is correct?",
+        "options": [
+            "They fix CO₂ during day",
+            "They open stomata at night",
+            "They lack Calvin cycle",
+            "They show Kranz anatomy"
+        ],
+        "answer": 1,
+        "explanation": "CAM plants open stomata at night."
+    },
+    {
+        "id": 84,
+        "question": "Which factor directly controls opening and closing of stomata in CAM plants?",
+        "options": [
+            "Light",
+            "CO₂ concentration",
+            "Day-night cycle",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "CAM stomatal movement is day-night dependent."
+    },
+    {
+        "id": 85,
+        "question": "Which pigment absorbs light energy and transfers it to reaction centre?",
+        "options": [
+            "Chlorophyll a",
+            "Accessory pigments",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 1,
+        "explanation": "Accessory pigments transfer energy to chlorophyll a."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following is not an accessory pigment?",
+        "options": [
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll",
+            "Chlorophyll a"
+        ],
+        "answer": 3,
+        "explanation": "Chlorophyll a is the primary pigment."
+    },
+    {
+        "id": 87,
+        "question": "Which step of photosynthesis is directly dependent on light?",
+        "options": [
+            "Calvin cycle",
+            "Carboxylation",
+            "Photolysis",
+            "Reduction"
+        ],
+        "answer": 2,
+        "explanation": "Photolysis is light dependent."
+    },
+    {
+        "id": 88,
+        "question": "Which process results in evolution of oxygen?",
+        "options": [
+            "Calvin cycle",
+            "Cyclic photophosphorylation",
+            "Non-cyclic photophosphorylation",
+            "Photorespiration"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen is evolved in non-cyclic photophosphorylation."
+    },
+    {
+        "id": 89,
+        "question": "Which enzyme shows maximum activity at high CO₂ concentration?",
+        "options": [
+            "PEP carboxylase",
+            "Rubisco",
+            "ATP synthase",
+            "NADP reductase"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco carboxylase activity increases with CO₂."
+    },
+    {
+        "id": 90,
+        "question": "Which step of Calvin cycle fixes carbon dioxide?",
+        "options": [
+            "Reduction",
+            "Regeneration",
+            "Carboxylation",
+            "Photophosphorylation"
+        ],
+        "answer": 2,
+        "explanation": "Carboxylation fixes CO₂."
+    },
+    {
+        "id": 91,
+        "question": "Which compound is reduced to form triose phosphate in Calvin cycle?",
+        "options": [
+            "RuBP",
+            "OAA",
+            "3-PGA",
+            "PEP"
+        ],
+        "answer": 2,
+        "explanation": "3-PGA is reduced to triose phosphate."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following increases photorespiration?",
+        "options": [
+            "High CO₂",
+            "Low O₂",
+            "High temperature",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "High temperature favours oxygenation activity of Rubisco."
+    },
+    {
+        "id": 93,
+        "question": "Which factor does Blackman’s law emphasise?",
+        "options": [
+            "Maximum factor",
+            "Minimum factor",
+            "All factors equally",
+            "Light only"
+        ],
+        "answer": 1,
+        "explanation": "Rate is limited by the minimum factor."
+    },
+    {
+        "id": 94,
+        "question": "Which plant shows both C₄ pathway and Calvin cycle?",
+        "options": [
+            "Rice",
+            "Maize",
+            "Wheat",
+            "Potato"
+        ],
+        "answer": 1,
+        "explanation": "Maize uses C₄ pathway followed by Calvin cycle."
+    },
+    {
+        "id": 95,
+        "question": "Which molecule carries reducing power from light reaction to Calvin cycle?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "ADP",
+            "NADP⁺"
+        ],
+        "answer": 1,
+        "explanation": "NADPH provides reducing power."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following is a feature of C₃ plants?",
+        "options": [
+            "Kranz anatomy",
+            "Low photorespiration",
+            "PGA as first stable product",
+            "PEP carboxylase activity"
+        ],
+        "answer": 2,
+        "explanation": "3-PGA is first stable product in C₃ plants."
+    },
+    {
+        "id": 97,
+        "question": "Which condition favours Calvin cycle reactions?",
+        "options": [
+            "Light",
+            "Dark",
+            "High CO₂ and ATP",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle requires CO₂, ATP and NADPH."
+    },
+    {
+        "id": 98,
+        "question": "Which product of light reaction is essential for RuBP regeneration?",
+        "options": [
+            "NADPH",
+            "ATP",
+            "Oxygen",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "ATP is required for RuBP regeneration."
+    },
+    {
+        "id": 99,
+        "question": "Which event occurs only in photosystem II?",
+        "options": [
+            "NADP⁺ reduction",
+            "ATP synthesis",
+            "Photolysis of water",
+            "Electron transport"
+        ],
+        "answer": 2,
+        "explanation": "Photolysis is specific to PS II."
+    },
+    {
+        "id": 100,
+        "question": "Which statement best explains higher efficiency of C₄ plants?",
+        "options": [
+            "More chlorophyll",
+            "Reduced photorespiration",
+            "Faster Calvin cycle",
+            "Absence of Rubisco"
+        ],
+        "answer": 1,
+        "explanation": "C₄ plants minimise photorespiration, increasing efficiency."
+    },
+    {
+        "id": 101,
+        "question": "Which statement is correct regarding the site of synthesis of ATP during photosynthesis?",
+        "options": [
+            "ATP is synthesised in stroma during Calvin cycle",
+            "ATP is synthesised on thylakoid membrane during light reaction",
+            "ATP is synthesised in cytosol",
+            "ATP is synthesised in thylakoid lumen"
+        ],
+        "answer": 1,
+        "explanation": "According to NCERT, ATP synthesis occurs on the thylakoid membrane during light reaction."
+    },
+    {
+        "id": 102,
+        "question": "The immediate source of electrons for photosystem II is",
+        "options": [
+            "NADPH",
+            "Chlorophyll a",
+            "Water",
+            "Cytochrome b6f"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states electrons lost by PS II are replaced by electrons from water."
+    },
+    {
+        "id": 103,
+        "question": "Which of the following carriers transfers electrons between photosystem II and photosystem I?",
+        "options": [
+            "NADP⁺",
+            "Plastocyanin",
+            "ATP synthase",
+            "RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Plastocyanin transfers electrons between PS II and PS I as per NCERT."
+    },
+    {
+        "id": 104,
+        "question": "The cytochrome b6f complex functions mainly in",
+        "options": [
+            "Photolysis of water",
+            "Electron transport and proton pumping",
+            "CO₂ fixation",
+            "ATP hydrolysis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytochrome b6f is involved in electron transport and proton pumping."
+    },
+    {
+        "id": 105,
+        "question": "Which statement is correct about chemiosmotic hypothesis in photosynthesis?",
+        "options": [
+            "ATP synthesis occurs without proton gradient",
+            "Proton gradient is essential for ATP synthesis",
+            "Electrons directly synthesise ATP",
+            "ATP is formed in stroma without membrane"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains ATP synthesis requires a proton gradient across thylakoid membrane."
+    },
+    {
+        "id": 106,
+        "question": "Which condition is essential for photophosphorylation?",
+        "options": [
+            "Intact thylakoid membrane",
+            "Presence of CO₂",
+            "Darkness",
+            "High oxygen concentration"
+        ],
+        "answer": 0,
+        "explanation": "An intact thylakoid membrane is essential for photophosphorylation."
+    },
+    {
+        "id": 107,
+        "question": "The lumen of thylakoid becomes acidic during light reaction due to",
+        "options": [
+            "Proton accumulation",
+            "ATP synthesis",
+            "NADPH formation",
+            "CO₂ fixation"
+        ],
+        "answer": 0,
+        "explanation": "Protons accumulate in the thylakoid lumen during light reaction."
+    },
+    {
+        "id": 108,
+        "question": "Which component of chloroplast is impermeable to protons?",
+        "options": [
+            "Thylakoid membrane",
+            "Outer membrane",
+            "Inner membrane",
+            "Stroma"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states thylakoid membrane is selectively permeable and maintains proton gradient."
+    },
+    {
+        "id": 109,
+        "question": "Which statement is incorrect regarding cyclic photophosphorylation?",
+        "options": [
+            "It produces ATP",
+            "It involves PS I only",
+            "It produces oxygen",
+            "It does not produce NADPH"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen is not produced during cyclic photophosphorylation."
+    },
+    {
+        "id": 110,
+        "question": "Which of the following best explains the role of accessory pigments?",
+        "options": [
+            "They replace chlorophyll a",
+            "They protect chlorophyll a from photodamage",
+            "They increase absorption spectrum",
+            "They synthesise ATP"
+        ],
+        "answer": 2,
+        "explanation": "Accessory pigments broaden the spectrum of absorbed light."
+    },
+    {
+        "id": 111,
+        "question": "Which factor primarily controls the rate of photosynthesis under low light conditions?",
+        "options": [
+            "CO₂ concentration",
+            "Temperature",
+            "Light intensity",
+            "Oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Under low light, light intensity is the limiting factor."
+    },
+    {
+        "id": 112,
+        "question": "Which factor becomes limiting at high light intensity and low CO₂ concentration?",
+        "options": [
+            "Temperature",
+            "CO₂",
+            "Oxygen",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ becomes limiting when light is not limiting."
+    },
+    {
+        "id": 113,
+        "question": "Which of the following correctly describes the absorption spectrum?",
+        "options": [
+            "Rate of photosynthesis at different wavelengths",
+            "Light absorbed by pigments at different wavelengths",
+            "Oxygen evolution at different temperatures",
+            "CO₂ fixation at different light intensities"
+        ],
+        "answer": 1,
+        "explanation": "Absorption spectrum shows light absorbed by pigments at different wavelengths."
+    },
+    {
+        "id": 114,
+        "question": "Which graph represents action spectrum of photosynthesis?",
+        "options": [
+            "Rate of respiration vs wavelength",
+            "Light absorption vs wavelength",
+            "Rate of photosynthesis vs wavelength",
+            "CO₂ uptake vs temperature"
+        ],
+        "answer": 2,
+        "explanation": "Action spectrum shows rate of photosynthesis at different wavelengths."
+    },
+    {
+        "id": 115,
+        "question": "Which pigment absorbs maximum light energy in the blue region?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 2,
+        "explanation": "Carotenes absorb light in the blue region."
+    },
+    {
+        "id": 116,
+        "question": "Which of the following pairs is correctly matched?",
+        "options": [
+            "C₃ plants – PEP carboxylase",
+            "C₄ plants – RuBP as primary acceptor",
+            "CAM plants – Night CO₂ fixation",
+            "C₄ plants – High photorespiration"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants fix CO₂ at night."
+    },
+    {
+        "id": 117,
+        "question": "In C₄ plants, decarboxylation of malate occurs in",
+        "options": [
+            "Mesophyll cells",
+            "Bundle sheath cells",
+            "Stroma of mesophyll chloroplast",
+            "Thylakoid"
+        ],
+        "answer": 1,
+        "explanation": "Malate is decarboxylated in bundle sheath cells."
+    },
+    {
+        "id": 118,
+        "question": "Which enzyme is absent or inactive in bundle sheath cells of C₄ plants?",
+        "options": [
+            "Rubisco",
+            "PEP carboxylase",
+            "Malic enzyme",
+            "ATP synthase"
+        ],
+        "answer": 1,
+        "explanation": "PEP carboxylase is present in mesophyll cells, not bundle sheath cells."
+    },
+    {
+        "id": 119,
+        "question": "Which advantage do C₄ plants have over C₃ plants?",
+        "options": [
+            "Higher CO₂ requirement",
+            "Lower ATP requirement",
+            "Reduced photorespiration",
+            "Absence of Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "C₄ plants reduce photorespiration."
+    },
+    {
+        "id": 120,
+        "question": "Which compound acts as CO₂ donor in bundle sheath cells of C₄ plants?",
+        "options": [
+            "Oxaloacetic acid",
+            "Malic acid",
+            "Pyruvic acid",
+            "PEP"
+        ],
+        "answer": 1,
+        "explanation": "Malic acid releases CO₂ in bundle sheath cells."
+    },
+    {
+        "id": 121,
+        "question": "Which statement is true regarding photorespiration?",
+        "options": [
+            "It produces ATP",
+            "It increases sugar yield",
+            "It occurs only in chloroplast",
+            "It decreases photosynthetic efficiency"
+        ],
+        "answer": 3,
+        "explanation": "Photorespiration leads to loss of fixed carbon and energy."
+    },
+    {
+        "id": 122,
+        "question": "Which molecule enters mitochondria during photorespiration?",
+        "options": [
+            "Glycolate",
+            "Glycerate",
+            "Glycine",
+            "Serine"
+        ],
+        "answer": 2,
+        "explanation": "Glycine enters mitochondria during photorespiration."
+    },
+    {
+        "id": 123,
+        "question": "Which enzyme converts glycolate to glyoxylate in peroxisome?",
+        "options": [
+            "Catalase",
+            "Glycolate oxidase",
+            "Rubisco",
+            "Malic enzyme"
+        ],
+        "answer": 1,
+        "explanation": "Glycolate oxidase converts glycolate to glyoxylate."
+    },
+    {
+        "id": 124,
+        "question": "Which gas is released during photorespiration?",
+        "options": [
+            "O₂",
+            "CO₂",
+            "CO",
+            "H₂"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is released during photorespiration."
+    },
+    {
+        "id": 125,
+        "question": "Which condition suppresses photorespiration?",
+        "options": [
+            "High O₂ concentration",
+            "Low CO₂ concentration",
+            "High CO₂ concentration",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "High CO₂ suppresses oxygenase activity of Rubisco."
+    },
+    {
+        "id": 126,
+        "question": "Which product of Calvin cycle is used for sucrose synthesis?",
+        "options": [
+            "RuBP",
+            "PGA",
+            "G3P",
+            "OAA"
+        ],
+        "answer": 2,
+        "explanation": "G3P is used for sugar synthesis."
+    },
+    {
+        "id": 127,
+        "question": "How many ATP molecules are required to synthesise one glucose molecule in Calvin cycle?",
+        "options": [
+            "12",
+            "18",
+            "24",
+            "36"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states 18 ATP are required to form one glucose molecule."
+    },
+    {
+        "id": 128,
+        "question": "How many NADPH molecules are required to form one glucose molecule?",
+        "options": [
+            "6",
+            "12",
+            "18",
+            "24"
+        ],
+        "answer": 1,
+        "explanation": "12 NADPH are required for synthesis of one glucose."
+    },
+    {
+        "id": 129,
+        "question": "Which phase of Calvin cycle directly consumes NADPH?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photophosphorylation"
+        ],
+        "answer": 1,
+        "explanation": "Reduction phase consumes NADPH."
+    },
+    {
+        "id": 130,
+        "question": "Which phase of Calvin cycle directly consumes ATP?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Reduction and regeneration"
+        ],
+        "answer": 3,
+        "explanation": "ATP is consumed in reduction and regeneration phases."
+    },
+    {
+        "id": 131,
+        "question": "Which factor affects stomatal opening during photosynthesis?",
+        "options": [
+            "Light",
+            "CO₂ concentration",
+            "Water status",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states stomatal opening is influenced by multiple factors."
+    },
+    {
+        "id": 132,
+        "question": "Which statement about chloroplast is correct?",
+        "options": [
+            "Inner membrane is freely permeable",
+            "Outer membrane is selectively permeable",
+            "Stroma contains enzymes of Calvin cycle",
+            "Thylakoid lumen contains Calvin cycle enzymes"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle enzymes are present in stroma."
+    },
+    {
+        "id": 133,
+        "question": "Which molecule acts as a temporary storage of energy during light reaction?",
+        "options": [
+            "Glucose",
+            "ATP",
+            "Starch",
+            "CO₂"
+        ],
+        "answer": 1,
+        "explanation": "ATP temporarily stores energy from light reaction."
+    },
+    {
+        "id": 134,
+        "question": "Which of the following is not required for light reaction?",
+        "options": [
+            "Light",
+            "Chlorophyll",
+            "Water",
+            "CO₂"
+        ],
+        "answer": 3,
+        "explanation": "CO₂ is not required for light reaction."
+    },
+    {
+        "id": 135,
+        "question": "Which step links C₄ pathway with Calvin cycle?",
+        "options": [
+            "CO₂ fixation by PEP",
+            "Decarboxylation of malate",
+            "Reduction of PGA",
+            "Regeneration of RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Decarboxylation releases CO₂ for Calvin cycle."
+    },
+    {
+        "id": 136,
+        "question": "Which plant tissue is absent in CAM plants?",
+        "options": [
+            "Mesophyll",
+            "Bundle sheath",
+            "Kranz anatomy",
+            "Epidermis"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants do not show Kranz anatomy."
+    },
+    {
+        "id": 137,
+        "question": "Which of the following plants is an example of CAM plant?",
+        "options": [
+            "Maize",
+            "Wheat",
+            "Opuntia",
+            "Rice"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists Opuntia as a CAM plant."
+    },
+    {
+        "id": 138,
+        "question": "Which feature helps CAM plants reduce water loss?",
+        "options": [
+            "Night-time stomatal opening",
+            "Kranz anatomy",
+            "High photorespiration",
+            "High transpiration"
+        ],
+        "answer": 0,
+        "explanation": "CAM plants open stomata at night to reduce water loss."
+    },
+    {
+        "id": 139,
+        "question": "Which step of photosynthesis is oxygen-dependent?",
+        "options": [
+            "Calvin cycle",
+            "Carboxylation",
+            "Photorespiration",
+            "Reduction"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration depends on oxygen."
+    },
+    {
+        "id": 140,
+        "question": "Which molecule is regenerated to maintain continuity of Calvin cycle?",
+        "options": [
+            "PGA",
+            "G3P",
+            "RuBP",
+            "OAA"
+        ],
+        "answer": 2,
+        "explanation": "RuBP regeneration is essential for cycle continuity."
+    },
+    {
+        "id": 141,
+        "question": "Which condition favours oxygenase activity of Rubisco?",
+        "options": [
+            "High CO₂",
+            "Low O₂",
+            "High temperature",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "High temperature favours oxygenase activity."
+    },
+    {
+        "id": 142,
+        "question": "Which factor has least effect on photosynthesis under optimal conditions?",
+        "options": [
+            "CO₂",
+            "Light",
+            "Temperature",
+            "Wind"
+        ],
+        "answer": 3,
+        "explanation": "Wind has least direct effect on photosynthesis."
+    },
+    {
+        "id": 143,
+        "question": "Which component of light reaction is responsible for ATP formation?",
+        "options": [
+            "Photosystem I",
+            "Photosystem II",
+            "ATP synthase",
+            "Cytochrome b6f"
+        ],
+        "answer": 2,
+        "explanation": "ATP synthase catalyses ATP formation."
+    },
+    {
+        "id": 144,
+        "question": "Which pigment is fat soluble?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Anthocyanin",
+            "Phycocyanin"
+        ],
+        "answer": 1,
+        "explanation": "Carotenes are fat soluble pigments."
+    },
+    {
+        "id": 145,
+        "question": "Which pigment protects chlorophyll from photooxidation?",
+        "options": [
+            "Chlorophyll b",
+            "Carotenoids",
+            "Anthocyanin",
+            "Xanthophyll only"
+        ],
+        "answer": 1,
+        "explanation": "Carotenoids protect chlorophyll from photooxidation."
+    },
+    {
+        "id": 146,
+        "question": "Which process results in formation of proton motive force?",
+        "options": [
+            "CO₂ fixation",
+            "Electron transport",
+            "Sugar synthesis",
+            "Transpiration"
+        ],
+        "answer": 1,
+        "explanation": "Electron transport leads to proton gradient formation."
+    },
+    {
+        "id": 147,
+        "question": "Which of the following is a correct sequence in Calvin cycle?",
+        "options": [
+            "Reduction → Carboxylation → Regeneration",
+            "Carboxylation → Reduction → Regeneration",
+            "Regeneration → Reduction → Carboxylation",
+            "Carboxylation → Regeneration → Reduction"
+        ],
+        "answer": 1,
+        "explanation": "Correct sequence is carboxylation, reduction, regeneration."
+    },
+    {
+        "id": 148,
+        "question": "Which reaction of photosynthesis is temperature sensitive?",
+        "options": [
+            "Light reaction",
+            "Photolysis",
+            "Calvin cycle",
+            "Electron transport"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle reactions are enzyme controlled and temperature sensitive."
+    },
+    {
+        "id": 149,
+        "question": "Which molecule is released during decarboxylation of malate?",
+        "options": [
+            "O₂",
+            "CO₂",
+            "ATP",
+            "NADPH"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is released during malate decarboxylation."
+    },
+    {
+        "id": 150,
+        "question": "Which compound is formed after decarboxylation of malate in C₄ plants?",
+        "options": [
+            "Oxaloacetate",
+            "Pyruvate",
+            "PGA",
+            "RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Pyruvate is formed after decarboxylation."
+    },
+    {
+        "id": 151,
+        "question": "Which compound returns to mesophyll cells in C₄ plants?",
+        "options": [
+            "Malate",
+            "Oxaloacetate",
+            "Pyruvate",
+            "PGA"
+        ],
+        "answer": 2,
+        "explanation": "Pyruvate returns to mesophyll cells."
+    },
+    {
+        "id": 152,
+        "question": "Which enzyme regenerates PEP in C₄ plants?",
+        "options": [
+            "Rubisco",
+            "PEP carboxylase",
+            "Pyruvate phosphate dikinase",
+            "Malic enzyme"
+        ],
+        "answer": 2,
+        "explanation": "PEP is regenerated by pyruvate phosphate dikinase."
+    },
+    {
+        "id": 153,
+        "question": "Which factor increases photosynthesis up to a saturation point?",
+        "options": [
+            "CO₂ concentration",
+            "Oxygen concentration",
+            "Darkness",
+            "Wind speed"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ increases rate until saturation."
+    },
+    {
+        "id": 154,
+        "question": "Which condition causes stomatal closure?",
+        "options": [
+            "Adequate water",
+            "Low CO₂",
+            "Water stress",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "Water stress leads to stomatal closure."
+    },
+    {
+        "id": 155,
+        "question": "Which pigment absorbs light mainly in red region?",
+        "options": [
+            "Chlorophyll a",
+            "Carotene",
+            "Xanthophyll",
+            "Anthocyanin"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a absorbs strongly in red region."
+    },
+    {
+        "id": 156,
+        "question": "Which factor affects diffusion of CO₂ into leaf?",
+        "options": [
+            "Stomatal opening",
+            "Light wavelength",
+            "ATP level",
+            "Chlorophyll content"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ diffusion depends on stomatal opening."
+    },
+    {
+        "id": 157,
+        "question": "Which statement about Calvin cycle is incorrect?",
+        "options": [
+            "It occurs in stroma",
+            "It uses ATP",
+            "It produces NADPH",
+            "It fixes CO₂"
+        ],
+        "answer": 2,
+        "explanation": "NADPH is consumed, not produced."
+    },
+    {
+        "id": 158,
+        "question": "Which of the following is common to C₃, C₄ and CAM plants?",
+        "options": [
+            "PEP carboxylase",
+            "Kranz anatomy",
+            "Calvin cycle",
+            "Night-time CO₂ fixation"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle occurs in all photosynthetic plants."
+    },
+    {
+        "id": 159,
+        "question": "Which process is directly dependent on availability of light?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Photophosphorylation",
+            "Regeneration"
+        ],
+        "answer": 2,
+        "explanation": "Photophosphorylation is light dependent."
+    },
+    {
+        "id": 160,
+        "question": "Which of the following is an output of light reaction?",
+        "options": [
+            "Glucose",
+            "CO₂",
+            "ATP",
+            "RuBP"
+        ],
+        "answer": 2,
+        "explanation": "ATP is produced during light reaction."
+    },
+    {
+        "id": 161,
+        "question": "Which molecule is reduced during light reaction?",
+        "options": [
+            "NADP⁺",
+            "ADP",
+            "ATP",
+            "O₂"
+        ],
+        "answer": 0,
+        "explanation": "NADP⁺ is reduced to NADPH."
+    },
+    {
+        "id": 162,
+        "question": "Which molecule is oxidised during light reaction?",
+        "options": [
+            "Water",
+            "NADP⁺",
+            "ATP",
+            "CO₂"
+        ],
+        "answer": 0,
+        "explanation": "Water is oxidised during photolysis."
+    },
+    {
+        "id": 163,
+        "question": "Which of the following is not a photosynthetic pigment?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Xanthophyll",
+            "Cytochrome"
+        ],
+        "answer": 3,
+        "explanation": "Cytochrome is an electron carrier, not a pigment."
+    },
+    {
+        "id": 164,
+        "question": "Which structure contains chlorophyll molecules?",
+        "options": [
+            "Grana",
+            "Stroma",
+            "Outer membrane",
+            "Inner membrane"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll is present in thylakoids forming grana."
+    },
+    {
+        "id": 165,
+        "question": "Which factor directly affects enzyme activity in Calvin cycle?",
+        "options": [
+            "Light",
+            "Temperature",
+            "Oxygen",
+            "Wind"
+        ],
+        "answer": 1,
+        "explanation": "Enzyme activity is temperature dependent."
+    },
+    {
+        "id": 166,
+        "question": "Which of the following increases rate of photorespiration?",
+        "options": [
+            "High CO₂",
+            "Low O₂",
+            "High O₂",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "High oxygen favours photorespiration."
+    },
+    {
+        "id": 167,
+        "question": "Which molecule is formed as by-product during photorespiration?",
+        "options": [
+            "ATP",
+            "Glucose",
+            "CO₂",
+            "O₂"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ is released during photorespiration."
+    },
+    {
+        "id": 168,
+        "question": "Which plant group shows minimum photorespiration?",
+        "options": [
+            "C₃ plants",
+            "C₄ plants",
+            "CAM plants",
+            "All equally"
+        ],
+        "answer": 1,
+        "explanation": "C₄ plants show minimum photorespiration."
+    },
+    {
+        "id": 169,
+        "question": "Which of the following is not a role of carotenoids?",
+        "options": [
+            "Light absorption",
+            "Photoprotection",
+            "Energy transfer",
+            "Carbon fixation"
+        ],
+        "answer": 3,
+        "explanation": "Carbon fixation is not a role of carotenoids."
+    },
+    {
+        "id": 170,
+        "question": "Which process produces oxygen as a by-product?",
+        "options": [
+            "Calvin cycle",
+            "Cyclic photophosphorylation",
+            "Non-cyclic photophosphorylation",
+            "Photorespiration"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen is evolved in non-cyclic photophosphorylation."
+    },
+    {
+        "id": 171,
+        "question": "Which factor is essential for Hill reaction?",
+        "options": [
+            "CO₂",
+            "Light",
+            "Darkness",
+            "Low temperature"
+        ],
+        "answer": 1,
+        "explanation": "Hill reaction requires light."
+    },
+    {
+        "id": 172,
+        "question": "Which molecule is regenerated in C₄ pathway to accept CO₂ again?",
+        "options": [
+            "PEP",
+            "RuBP",
+            "PGA",
+            "Malate"
+        ],
+        "answer": 0,
+        "explanation": "PEP is regenerated to accept CO₂."
+    },
+    {
+        "id": 173,
+        "question": "Which step of photosynthesis requires intact chloroplast structure?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Photophosphorylation",
+            "Sugar synthesis"
+        ],
+        "answer": 2,
+        "explanation": "Photophosphorylation requires intact thylakoid membrane."
+    },
+    {
+        "id": 174,
+        "question": "Which factor primarily limits photosynthesis on cloudy days?",
+        "options": [
+            "Temperature",
+            "Light",
+            "CO₂",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "Low light limits photosynthesis on cloudy days."
+    },
+    {
+        "id": 175,
+        "question": "Which molecule acts as hydrogen donor in Calvin cycle?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "Water",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "NADPH provides reducing power."
+    },
+    {
+        "id": 176,
+        "question": "Which of the following is correct about CAM plants?",
+        "options": [
+            "They fix CO₂ twice a day",
+            "They fix CO₂ at night and use it during day",
+            "They lack light reaction",
+            "They lack Calvin cycle"
+        ],
+        "answer": 1,
+        "explanation": "CAM plants fix CO₂ at night and use it during day."
+    },
+    {
+        "id": 177,
+        "question": "Which factor increases diffusion rate of CO₂?",
+        "options": [
+            "Stomatal closure",
+            "High stomatal opening",
+            "Low temperature",
+            "High oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Open stomata increase CO₂ diffusion."
+    },
+    {
+        "id": 178,
+        "question": "Which of the following does not occur in stroma?",
+        "options": [
+            "Calvin cycle",
+            "RuBP regeneration",
+            "NADPH formation",
+            "CO₂ fixation"
+        ],
+        "answer": 2,
+        "explanation": "NADPH is formed on thylakoid membrane."
+    },
+    {
+        "id": 179,
+        "question": "Which statement best explains chemiosmosis in chloroplast?",
+        "options": [
+            "ATP formed by substrate-level phosphorylation",
+            "ATP formed by proton flow through ATP synthase",
+            "ATP formed by electron transfer",
+            "ATP formed without membrane"
+        ],
+        "answer": 1,
+        "explanation": "ATP is synthesised by proton flow through ATP synthase."
+    },
+    {
+        "id": 180,
+        "question": "Which pigment absorbs light and transfers energy but does not participate directly in photochemical reaction?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Reaction centre pigment",
+            "P680"
+        ],
+        "answer": 1,
+        "explanation": "Chlorophyll b is an accessory pigment."
+    },
+    {
+        "id": 181,
+        "question": "Which step of photosynthesis produces reducing power?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Light reaction",
+            "Regeneration"
+        ],
+        "answer": 2,
+        "explanation": "Light reaction produces NADPH."
+    },
+    {
+        "id": 182,
+        "question": "Which molecule links glycolysis and photosynthesis?",
+        "options": [
+            "ATP",
+            "PGA",
+            "G3P",
+            "Pyruvate"
+        ],
+        "answer": 2,
+        "explanation": "G3P is common intermediate."
+    },
+    {
+        "id": 183,
+        "question": "Which compound is the first acceptor of CO₂ in Calvin cycle of CAM plants?",
+        "options": [
+            "PEP",
+            "RuBP",
+            "OAA",
+            "Malate"
+        ],
+        "answer": 1,
+        "explanation": "Calvin cycle always uses RuBP."
+    },
+    {
+        "id": 184,
+        "question": "Which of the following conditions favours Calvin cycle?",
+        "options": [
+            "High light",
+            "High CO₂",
+            "High oxygen",
+            "Low ATP"
+        ],
+        "answer": 1,
+        "explanation": "High CO₂ favours Calvin cycle."
+    },
+    {
+        "id": 185,
+        "question": "Which product of light reaction is required for reduction of PGA?",
+        "options": [
+            "ATP only",
+            "NADPH only",
+            "ATP and NADPH",
+            "CO₂"
+        ],
+        "answer": 2,
+        "explanation": "Both ATP and NADPH are required."
+    },
+    {
+        "id": 186,
+        "question": "Which statement about Rubisco is correct?",
+        "options": [
+            "It is present only in C₃ plants",
+            "It is absent in C₄ plants",
+            "It is present in stroma",
+            "It is membrane bound"
+        ],
+        "answer": 2,
+        "explanation": "Rubisco is present in stroma."
+    },
+    {
+        "id": 187,
+        "question": "Which process decreases net photosynthetic output?",
+        "options": [
+            "Calvin cycle",
+            "Photophosphorylation",
+            "Photorespiration",
+            "Carbon fixation"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration decreases net output."
+    },
+    {
+        "id": 188,
+        "question": "Which factor determines opening of stomata during day in C₃ plants?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Water",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Multiple factors influence stomatal opening."
+    },
+    {
+        "id": 189,
+        "question": "Which of the following is not a function of light reaction?",
+        "options": [
+            "ATP formation",
+            "NADPH formation",
+            "Oxygen evolution",
+            "Sugar synthesis"
+        ],
+        "answer": 3,
+        "explanation": "Sugar synthesis occurs in Calvin cycle."
+    },
+    {
+        "id": 190,
+        "question": "Which reaction is common in C₃, C₄ and CAM plants?",
+        "options": [
+            "Initial CO₂ fixation",
+            "Kranz anatomy",
+            "Calvin cycle",
+            "Night CO₂ fixation"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle is common to all."
+    },
+    {
+        "id": 191,
+        "question": "Which molecule is regenerated at the end of Calvin cycle?",
+        "options": [
+            "PGA",
+            "G3P",
+            "RuBP",
+            "ATP"
+        ],
+        "answer": 2,
+        "explanation": "RuBP is regenerated."
+    },
+    {
+        "id": 192,
+        "question": "Which factor increases rate of photosynthesis in shade plants?",
+        "options": [
+            "High light",
+            "Low light",
+            "Moderate light",
+            "No light"
+        ],
+        "answer": 2,
+        "explanation": "Shade plants have lower light saturation point."
+    },
+    {
+        "id": 193,
+        "question": "Which enzyme catalyses fixation of CO₂ in C₃ plants?",
+        "options": [
+            "PEP carboxylase",
+            "Rubisco",
+            "Malic enzyme",
+            "ATP synthase"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco catalyses CO₂ fixation in C₃ plants."
+    },
+    {
+        "id": 194,
+        "question": "Which molecule is reduced to triose phosphate?",
+        "options": [
+            "RuBP",
+            "OAA",
+            "PGA",
+            "PEP"
+        ],
+        "answer": 2,
+        "explanation": "PGA is reduced to triose phosphate."
+    },
+    {
+        "id": 195,
+        "question": "Which step of Calvin cycle produces triose phosphate?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 1,
+        "explanation": "Reduction phase produces triose phosphate."
+    },
+    {
+        "id": 196,
+        "question": "Which condition reduces stomatal diffusion resistance?",
+        "options": [
+            "Stomatal closure",
+            "High humidity",
+            "Water stress",
+            "High temperature"
+        ],
+        "answer": 1,
+        "explanation": "High humidity favours stomatal opening."
+    },
+    {
+        "id": 197,
+        "question": "Which pigment is absent in higher plants?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Phycobilins"
+        ],
+        "answer": 3,
+        "explanation": "Phycobilins are absent in higher plants."
+    },
+    {
+        "id": 198,
+        "question": "Which process requires both ATP and NADPH?",
+        "options": [
+            "Light reaction",
+            "Photolysis",
+            "Calvin cycle",
+            "Electron transport"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle uses ATP and NADPH."
+    },
+    {
+        "id": 199,
+        "question": "Which statement best explains photorespiration?",
+        "options": [
+            "CO₂ fixation in light",
+            "Oxygen consumption in light",
+            "ATP synthesis in dark",
+            "Sugar synthesis in light"
+        ],
+        "answer": 1,
+        "explanation": "Photorespiration consumes oxygen in light."
+    },
+    {
+        "id": 200,
+        "question": "Which factor primarily explains high productivity of C₄ plants in tropics?",
+        "options": [
+            "High chlorophyll content",
+            "Low light requirement",
+            "Reduced photorespiration",
+            "Absence of Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "Reduced photorespiration increases productivity."
+    },
+    {
+        "id": 201,
+        "question": "Which statement correctly describes the role of light in photosynthesis?",
+        "options": [
+            "It provides carbon for glucose synthesis",
+            "It activates enzymes of Calvin cycle directly",
+            "It supplies energy for photochemical reactions",
+            "It reduces carbon dioxide"
+        ],
+        "answer": 2,
+        "explanation": "Light supplies energy for photochemical reactions in the light reaction."
+    },
+    {
+        "id": 202,
+        "question": "Which component is essential to maintain proton gradient during light reaction?",
+        "options": [
+            "Outer chloroplast membrane",
+            "Inner chloroplast membrane",
+            "Thylakoid membrane",
+            "Stroma"
+        ],
+        "answer": 2,
+        "explanation": "Thylakoid membrane is essential to maintain proton gradient."
+    },
+    {
+        "id": 203,
+        "question": "Which event directly causes accumulation of protons in thylakoid lumen?",
+        "options": [
+            "Reduction of NADP⁺",
+            "Photolysis of water",
+            "ATP synthesis",
+            "CO₂ fixation"
+        ],
+        "answer": 1,
+        "explanation": "Photolysis releases protons into thylakoid lumen."
+    },
+    {
+        "id": 204,
+        "question": "Which statement is correct regarding plastoquinone?",
+        "options": [
+            "It transfers electrons from PS I to NADP⁺",
+            "It transfers electrons from PS II to cytochrome b6f",
+            "It pumps protons directly into stroma",
+            "It synthesises ATP"
+        ],
+        "answer": 1,
+        "explanation": "Plastoquinone transfers electrons from PS II to cytochrome b6f complex."
+    },
+    {
+        "id": 205,
+        "question": "Which molecule acts as a mobile electron carrier in lumen?",
+        "options": [
+            "Plastoquinone",
+            "Plastocyanin",
+            "Ferredoxin",
+            "Cytochrome b6f"
+        ],
+        "answer": 1,
+        "explanation": "Plastocyanin carries electrons in the lumen."
+    },
+    {
+        "id": 206,
+        "question": "Which carrier transfers electrons from photosystem I to NADP⁺?",
+        "options": [
+            "Plastocyanin",
+            "Plastoquinone",
+            "Ferredoxin",
+            "Cytochrome b6f"
+        ],
+        "answer": 2,
+        "explanation": "Ferredoxin transfers electrons from PS I to NADP⁺."
+    },
+    {
+        "id": 207,
+        "question": "Which enzyme reduces NADP⁺ to NADPH?",
+        "options": [
+            "ATP synthase",
+            "NADP reductase",
+            "Rubisco",
+            "Malic enzyme"
+        ],
+        "answer": 1,
+        "explanation": "NADP reductase catalyses reduction of NADP⁺."
+    },
+    {
+        "id": 208,
+        "question": "Which statement best explains non-cyclic photophosphorylation?",
+        "options": [
+            "Electrons return to same photosystem",
+            "Only ATP is formed",
+            "Both ATP and NADPH are formed with O₂ evolution",
+            "Occurs without light"
+        ],
+        "answer": 2,
+        "explanation": "Non-cyclic photophosphorylation forms ATP, NADPH and releases oxygen."
+    },
+    {
+        "id": 209,
+        "question": "Which factor ensures directionality of electron flow in light reaction?",
+        "options": [
+            "Light energy",
+            "Enzyme specificity",
+            "ATP requirement",
+            "CO₂ concentration"
+        ],
+        "answer": 0,
+        "explanation": "Light energy excites electrons and ensures directional flow."
+    },
+    {
+        "id": 210,
+        "question": "Which condition favours cyclic photophosphorylation?",
+        "options": [
+            "Low NADP⁺ availability",
+            "High CO₂ concentration",
+            "Low light",
+            "High oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Low NADP⁺ availability favours cyclic photophosphorylation."
+    },
+    {
+        "id": 211,
+        "question": "Which of the following increases ATP requirement in C₄ plants compared to C₃ plants?",
+        "options": [
+            "Calvin cycle absence",
+            "PEP regeneration",
+            "Low photorespiration",
+            "Kranz anatomy"
+        ],
+        "answer": 1,
+        "explanation": "ATP is required for regeneration of PEP in C₄ plants."
+    },
+    {
+        "id": 212,
+        "question": "How many additional ATP molecules are required per CO₂ fixed in C₄ pathway?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 1,
+        "explanation": "C₄ pathway requires 2 additional ATP per CO₂ for PEP regeneration."
+    },
+    {
+        "id": 213,
+        "question": "Which step differentiates CAM pathway from C₄ pathway?",
+        "options": [
+            "Night-time CO₂ fixation",
+            "Use of Calvin cycle",
+            "Presence of PEP carboxylase",
+            "Formation of malate"
+        ],
+        "answer": 0,
+        "explanation": "CAM plants fix CO₂ at night, unlike C₄ plants."
+    },
+    {
+        "id": 214,
+        "question": "Which cell type performs Calvin cycle in C₄ plants?",
+        "options": [
+            "Mesophyll cells",
+            "Bundle sheath cells",
+            "Epidermal cells",
+            "Guard cells"
+        ],
+        "answer": 1,
+        "explanation": "Calvin cycle occurs in bundle sheath cells of C₄ plants."
+    },
+    {
+        "id": 215,
+        "question": "Which structure is absent in bundle sheath chloroplasts of C₄ plants?",
+        "options": [
+            "Stroma",
+            "DNA",
+            "Grana",
+            "Ribosomes"
+        ],
+        "answer": 2,
+        "explanation": "Bundle sheath chloroplasts lack grana."
+    },
+    {
+        "id": 216,
+        "question": "Which compound accumulates in mesophyll cells during night in CAM plants?",
+        "options": [
+            "Pyruvate",
+            "Malate",
+            "PGA",
+            "RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Malate accumulates during night in CAM plants."
+    },
+    {
+        "id": 217,
+        "question": "Which process prevents excessive water loss in CAM plants?",
+        "options": [
+            "Kranz anatomy",
+            "Night-time stomatal opening",
+            "Reduced transpiration",
+            "High cuticle thickness"
+        ],
+        "answer": 1,
+        "explanation": "Night-time stomatal opening reduces water loss."
+    },
+    {
+        "id": 218,
+        "question": "Which statement about CAM plants is incorrect?",
+        "options": [
+            "They show temporal separation of steps",
+            "They fix CO₂ at night",
+            "They show Kranz anatomy",
+            "They use Calvin cycle during day"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants do not show Kranz anatomy."
+    },
+    {
+        "id": 219,
+        "question": "Which factor is mainly responsible for higher temperature tolerance of C₄ plants?",
+        "options": [
+            "Low ATP requirement",
+            "Reduced photorespiration",
+            "More chlorophyll",
+            "Larger leaves"
+        ],
+        "answer": 1,
+        "explanation": "Reduced photorespiration improves efficiency at high temperatures."
+    },
+    {
+        "id": 220,
+        "question": "Which molecule inhibits oxygenase activity of Rubisco?",
+        "options": [
+            "Oxygen",
+            "CO₂",
+            "ATP",
+            "NADPH"
+        ],
+        "answer": 1,
+        "explanation": "High CO₂ inhibits oxygenase activity of Rubisco."
+    },
+    {
+        "id": 221,
+        "question": "Which step of photorespiration occurs in peroxisome?",
+        "options": [
+            "Conversion of glycolate to glyoxylate",
+            "Conversion of glycine to serine",
+            "Conversion of glycerate to PGA",
+            "Oxygenation of RuBP"
+        ],
+        "answer": 0,
+        "explanation": "Glycolate is converted to glyoxylate in peroxisome."
+    },
+    {
+        "id": 222,
+        "question": "Which compound is transported from chloroplast to peroxisome during photorespiration?",
+        "options": [
+            "Glycine",
+            "Glycolate",
+            "Serine",
+            "Glycerate"
+        ],
+        "answer": 1,
+        "explanation": "Glycolate moves from chloroplast to peroxisome."
+    },
+    {
+        "id": 223,
+        "question": "Which enzyme releases CO₂ in mitochondria during photorespiration?",
+        "options": [
+            "Rubisco",
+            "Glycine decarboxylase",
+            "Catalase",
+            "Malic enzyme"
+        ],
+        "answer": 1,
+        "explanation": "Glycine decarboxylase releases CO₂ in mitochondria."
+    },
+    {
+        "id": 224,
+        "question": "Which compound returns to chloroplast at the end of photorespiration?",
+        "options": [
+            "Glycine",
+            "Serine",
+            "Glycerate",
+            "Glyoxylate"
+        ],
+        "answer": 2,
+        "explanation": "Glycerate returns to chloroplast."
+    },
+    {
+        "id": 225,
+        "question": "Which process converts glycerate to PGA?",
+        "options": [
+            "Phosphorylation",
+            "Oxidation",
+            "Reduction",
+            "Decarboxylation"
+        ],
+        "answer": 0,
+        "explanation": "Glycerate is phosphorylated to form PGA."
+    },
+    {
+        "id": 226,
+        "question": "Which statement correctly compares photorespiration and respiration?",
+        "options": [
+            "Both produce ATP",
+            "Both occur in mitochondria only",
+            "Photorespiration consumes ATP",
+            "Respiration occurs only in light"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration consumes ATP without producing energy."
+    },
+    {
+        "id": 227,
+        "question": "Which condition increases oxygenase activity of Rubisco?",
+        "options": [
+            "High CO₂",
+            "Low O₂",
+            "High temperature",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "High temperature favours oxygenase activity."
+    },
+    {
+        "id": 228,
+        "question": "Which factor reduces net photosynthetic rate most effectively?",
+        "options": [
+            "High CO₂",
+            "High light",
+            "Photorespiration",
+            "Optimal temperature"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration reduces net photosynthesis."
+    },
+    {
+        "id": 229,
+        "question": "Which molecule is the first stable product of CO₂ fixation in CAM plants at night?",
+        "options": [
+            "PGA",
+            "OAA",
+            "Malate",
+            "RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Oxaloacetic acid is the first stable product."
+    },
+    {
+        "id": 230,
+        "question": "Which step in CAM plants occurs during day?",
+        "options": [
+            "CO₂ fixation by PEP carboxylase",
+            "Malate formation",
+            "Decarboxylation of malate",
+            "Stomatal opening"
+        ],
+        "answer": 2,
+        "explanation": "Malate is decarboxylated during day."
+    },
+    {
+        "id": 231,
+        "question": "Which factor is common to C₄ and CAM pathways but absent in C₃ pathway?",
+        "options": [
+            "Calvin cycle",
+            "PEP carboxylase",
+            "Rubisco",
+            "RuBP"
+        ],
+        "answer": 1,
+        "explanation": "PEP carboxylase is present in C₄ and CAM plants."
+    },
+    {
+        "id": 232,
+        "question": "Which statement about Blackman’s law is correct?",
+        "options": [
+            "All factors equally limit photosynthesis",
+            "Minimum factor determines rate",
+            "Light is always limiting",
+            "CO₂ is never limiting"
+        ],
+        "answer": 1,
+        "explanation": "Rate is limited by the factor in minimum."
+    },
+    {
+        "id": 233,
+        "question": "Which factor becomes limiting at very high CO₂ concentration?",
+        "options": [
+            "Light",
+            "Temperature",
+            "Oxygen",
+            "Water"
+        ],
+        "answer": 0,
+        "explanation": "Light becomes limiting at high CO₂."
+    },
+    {
+        "id": 234,
+        "question": "Which condition leads to photoinhibition?",
+        "options": [
+            "Low light",
+            "Excessive light",
+            "Low CO₂",
+            "High humidity"
+        ],
+        "answer": 1,
+        "explanation": "Excessive light damages photosystems."
+    },
+    {
+        "id": 235,
+        "question": "Which pigment is responsible for yellow colour of leaves?",
+        "options": [
+            "Carotene",
+            "Xanthophyll",
+            "Chlorophyll a",
+            "Chlorophyll b"
+        ],
+        "answer": 1,
+        "explanation": "Xanthophylls impart yellow colour."
+    },
+    {
+        "id": 236,
+        "question": "Which pigment absorbs maximum light in blue-green region?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotenoids",
+            "Anthocyanin"
+        ],
+        "answer": 2,
+        "explanation": "Carotenoids absorb blue-green light."
+    },
+    {
+        "id": 237,
+        "question": "Which pigment is water soluble?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Xanthophyll",
+            "Anthocyanin"
+        ],
+        "answer": 3,
+        "explanation": "Anthocyanins are water soluble."
+    },
+    {
+        "id": 238,
+        "question": "Which factor affects photosynthesis by influencing enzyme activity?",
+        "options": [
+            "Light wavelength",
+            "Temperature",
+            "Wind velocity",
+            "Humidity"
+        ],
+        "answer": 1,
+        "explanation": "Temperature affects enzyme activity."
+    },
+    {
+        "id": 239,
+        "question": "Which gas concentration inside leaf decreases during active photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ concentration decreases during photosynthesis."
+    },
+    {
+        "id": 240,
+        "question": "Which structure controls diffusion of gases into leaf?",
+        "options": [
+            "Cuticle",
+            "Stomata",
+            "Veins",
+            "Mesophyll"
+        ],
+        "answer": 1,
+        "explanation": "Stomata control gas diffusion."
+    },
+    {
+        "id": 241,
+        "question": "Which of the following is not influenced by light intensity?",
+        "options": [
+            "Rate of photolysis",
+            "ATP synthesis",
+            "Calvin cycle enzyme activity",
+            "Electron excitation"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle enzyme activity is not directly light dependent."
+    },
+    {
+        "id": 242,
+        "question": "Which molecule acts as carbon source in photosynthesis?",
+        "options": [
+            "CO₂",
+            "CO",
+            "HCO₃⁻",
+            "Carbonate"
+        ],
+        "answer": 0,
+        "explanation": "Carbon dioxide is the carbon source."
+    },
+    {
+        "id": 243,
+        "question": "Which statement about Calvin cycle is correct?",
+        "options": [
+            "It produces ATP",
+            "It requires light directly",
+            "It fixes CO₂ enzymatically",
+            "It occurs in thylakoid"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ fixation occurs enzymatically in Calvin cycle."
+    },
+    {
+        "id": 244,
+        "question": "Which phase of Calvin cycle produces triose phosphates?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 1,
+        "explanation": "Reduction phase produces triose phosphates."
+    },
+    {
+        "id": 245,
+        "question": "Which compound leaves Calvin cycle for biosynthesis?",
+        "options": [
+            "RuBP",
+            "PGA",
+            "G3P",
+            "OAA"
+        ],
+        "answer": 2,
+        "explanation": "G3P exits cycle for biosynthesis."
+    },
+    {
+        "id": 246,
+        "question": "Which factor limits photosynthesis in winter despite adequate light?",
+        "options": [
+            "CO₂",
+            "Temperature",
+            "Oxygen",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "Low temperature limits enzyme activity."
+    },
+    {
+        "id": 247,
+        "question": "Which step of photosynthesis is reversible?",
+        "options": [
+            "Photolysis",
+            "Electron transport",
+            "CO₂ fixation",
+            "ATP synthesis"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ fixation reactions are enzymatic and reversible."
+    },
+    {
+        "id": 248,
+        "question": "Which process directly consumes ATP generated in light reaction?",
+        "options": [
+            "Electron transport",
+            "Calvin cycle",
+            "Photolysis",
+            "NADP reduction"
+        ],
+        "answer": 1,
+        "explanation": "ATP is consumed in Calvin cycle."
+    },
+    {
+        "id": 249,
+        "question": "Which statement correctly compares C₃ and C₄ plants?",
+        "options": [
+            "C₃ plants lack Calvin cycle",
+            "C₄ plants lack Rubisco",
+            "C₄ plants show spatial separation",
+            "C₃ plants show Kranz anatomy"
+        ],
+        "answer": 2,
+        "explanation": "C₄ plants show spatial separation of steps."
+    },
+    {
+        "id": 250,
+        "question": "Which condition leads to stomatal closure even in light?",
+        "options": [
+            "High CO₂",
+            "Water stress",
+            "Low temperature",
+            "High humidity"
+        ],
+        "answer": 1,
+        "explanation": "Water stress causes stomatal closure."
+    },
+    {
+        "id": 251,
+        "question": "Which molecule is common intermediate between photosynthesis and respiration?",
+        "options": [
+            "Glucose",
+            "ATP",
+            "G3P",
+            "RuBP"
+        ],
+        "answer": 2,
+        "explanation": "G3P is a common intermediate."
+    },
+    {
+        "id": 252,
+        "question": "Which factor increases transpiration and indirectly affects photosynthesis?",
+        "options": [
+            "Low temperature",
+            "High humidity",
+            "Wind",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "Wind increases transpiration rate."
+    },
+    {
+        "id": 253,
+        "question": "Which pigment shows maximum absorption in red region?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a absorbs strongly in red region."
+    },
+    {
+        "id": 254,
+        "question": "Which factor is least likely to limit photosynthesis under optimal conditions?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Temperature",
+            "Oxygen"
+        ],
+        "answer": 3,
+        "explanation": "Oxygen usually does not limit photosynthesis."
+    },
+    {
+        "id": 255,
+        "question": "Which statement best defines photosynthesis?",
+        "options": [
+            "Conversion of light energy into heat",
+            "Conversion of chemical energy into light",
+            "Conversion of light energy into chemical energy",
+            "Conversion of glucose into CO₂"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis converts light energy into chemical energy."
+    },
+    {
+        "id": 256,
+        "question": "Which reaction directly produces molecular oxygen?",
+        "options": [
+            "CO₂ fixation",
+            "Photolysis",
+            "Reduction of PGA",
+            "Regeneration of RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Photolysis of water produces oxygen."
+    },
+    {
+        "id": 257,
+        "question": "Which condition favours maximum photosynthesis in C₃ plants?",
+        "options": [
+            "High temperature and low CO₂",
+            "Moderate temperature and high CO₂",
+            "Low temperature and high O₂",
+            "High temperature and high O₂"
+        ],
+        "answer": 1,
+        "explanation": "Moderate temperature and high CO₂ favour C₃ photosynthesis."
+    },
+    {
+        "id": 258,
+        "question": "Which statement about photosystem II is correct?",
+        "options": [
+            "It contains P700",
+            "It reduces NADP⁺",
+            "It carries out photolysis",
+            "It is involved in cyclic photophosphorylation only"
+        ],
+        "answer": 2,
+        "explanation": "Photosystem II carries out photolysis."
+    },
+    {
+        "id": 259,
+        "question": "Which factor increases photosynthetic rate by increasing CO₂ solubility?",
+        "options": [
+            "High temperature",
+            "Low temperature",
+            "High oxygen",
+            "Low humidity"
+        ],
+        "answer": 1,
+        "explanation": "Low temperature increases CO₂ solubility."
+    },
+    {
+        "id": 260,
+        "question": "Which process occurs simultaneously with light reaction?",
+        "options": [
+            "CO₂ fixation",
+            "ATP consumption",
+            "NADPH utilisation",
+            "Proton gradient formation"
+        ],
+        "answer": 3,
+        "explanation": "Proton gradient formation occurs during light reaction."
+    },
+    {
+        "id": 261,
+        "question": "Which statement is correct regarding chloroplast structure?",
+        "options": [
+            "Outer membrane is impermeable",
+            "Inner membrane encloses stroma",
+            "Thylakoid encloses stroma",
+            "Grana enclose stroma"
+        ],
+        "answer": 1,
+        "explanation": "Inner membrane encloses stroma."
+    },
+    {
+        "id": 262,
+        "question": "Which factor controls enzymatic reactions of Calvin cycle most strongly?",
+        "options": [
+            "Light",
+            "Temperature",
+            "CO₂ concentration",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Enzyme activity depends on temperature."
+    },
+    {
+        "id": 263,
+        "question": "Which pigment absorbs light energy and initiates photochemical reaction?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a initiates photochemical reactions."
+    },
+    {
+        "id": 264,
+        "question": "Which process links light reaction and dark reaction?",
+        "options": [
+            "Oxygen evolution",
+            "ATP and NADPH transfer",
+            "CO₂ diffusion",
+            "Electron excitation"
+        ],
+        "answer": 1,
+        "explanation": "ATP and NADPH link both reactions."
+    },
+    {
+        "id": 265,
+        "question": "Which molecule is oxidised during Calvin cycle?",
+        "options": [
+            "NADPH",
+            "ATP",
+            "RuBP",
+            "CO₂"
+        ],
+        "answer": 0,
+        "explanation": "NADPH is oxidised to NADP⁺."
+    },
+    {
+        "id": 266,
+        "question": "Which compound is synthesised when two triose phosphates combine?",
+        "options": [
+            "Sucrose",
+            "Glucose",
+            "Starch",
+            "Fructose"
+        ],
+        "answer": 1,
+        "explanation": "Two triose phosphates combine to form glucose."
+    },
+    {
+        "id": 267,
+        "question": "Which statement about starch synthesis is correct?",
+        "options": [
+            "Occurs in cytosol",
+            "Occurs in chloroplast",
+            "Occurs in mitochondria",
+            "Occurs in vacuole"
+        ],
+        "answer": 1,
+        "explanation": "Starch is synthesised in chloroplast."
+    },
+    {
+        "id": 268,
+        "question": "Which product of Calvin cycle is exported to cytosol?",
+        "options": [
+            "Starch",
+            "G3P",
+            "RuBP",
+            "PGA"
+        ],
+        "answer": 1,
+        "explanation": "G3P is exported to cytosol for sucrose synthesis."
+    },
+    {
+        "id": 269,
+        "question": "Which factor limits photosynthesis when CO₂ and temperature are optimal?",
+        "options": [
+            "Light",
+            "Oxygen",
+            "Water",
+            "Humidity"
+        ],
+        "answer": 0,
+        "explanation": "Light becomes limiting under such conditions."
+    },
+    {
+        "id": 270,
+        "question": "Which enzyme catalyses conversion of glycerate to PGA?",
+        "options": [
+            "Rubisco",
+            "Kinase",
+            "ATP synthase",
+            "Isomerase"
+        ],
+        "answer": 1,
+        "explanation": "Glycerate kinase converts glycerate to PGA."
+    },
+    {
+        "id": 271,
+        "question": "Which process occurs only in presence of light?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Photolysis",
+            "Regeneration"
+        ],
+        "answer": 2,
+        "explanation": "Photolysis requires light."
+    },
+    {
+        "id": 272,
+        "question": "Which statement best explains higher ATP demand in C₄ plants?",
+        "options": [
+            "Two CO₂ fixation steps",
+            "Absence of Calvin cycle",
+            "High photorespiration",
+            "Low enzyme efficiency"
+        ],
+        "answer": 0,
+        "explanation": "C₄ plants fix CO₂ twice."
+    },
+    {
+        "id": 273,
+        "question": "Which factor is least important for CAM photosynthesis?",
+        "options": [
+            "Night temperature",
+            "Day-night cycle",
+            "Water availability",
+            "Kranz anatomy"
+        ],
+        "answer": 3,
+        "explanation": "CAM plants do not have Kranz anatomy."
+    },
+    {
+        "id": 274,
+        "question": "Which molecule accepts electrons from ferredoxin?",
+        "options": [
+            "NADP⁺",
+            "ATP",
+            "CO₂",
+            "O₂"
+        ],
+        "answer": 0,
+        "explanation": "NADP⁺ accepts electrons from ferredoxin."
+    },
+    {
+        "id": 275,
+        "question": "Which condition leads to maximum photorespiration?",
+        "options": [
+            "Low O₂ and high CO₂",
+            "High O₂ and low CO₂",
+            "Low temperature",
+            "Low light"
+        ],
+        "answer": 1,
+        "explanation": "High O₂ and low CO₂ favour photorespiration."
+    },
+    {
+        "id": 276,
+        "question": "Which statement about respiration and photorespiration is correct?",
+        "options": [
+            "Both produce ATP",
+            "Only respiration produces ATP",
+            "Only photorespiration produces ATP",
+            "Both consume ATP"
+        ],
+        "answer": 1,
+        "explanation": "Only respiration produces ATP."
+    },
+    {
+        "id": 277,
+        "question": "Which factor enhances efficiency of Calvin cycle?",
+        "options": [
+            "High oxygen",
+            "High CO₂",
+            "Low temperature",
+            "Low ATP"
+        ],
+        "answer": 1,
+        "explanation": "High CO₂ enhances Calvin cycle efficiency."
+    },
+    {
+        "id": 278,
+        "question": "Which compound is regenerated in both Calvin cycle and C₄ pathway?",
+        "options": [
+            "RuBP",
+            "PEP",
+            "PGA",
+            "Malate"
+        ],
+        "answer": 0,
+        "explanation": "RuBP is regenerated in Calvin cycle."
+    },
+    {
+        "id": 279,
+        "question": "Which condition favours sucrose synthesis over starch synthesis?",
+        "options": [
+            "High G3P in cytosol",
+            "High ATP in stroma",
+            "Low CO₂",
+            "Low light"
+        ],
+        "answer": 0,
+        "explanation": "G3P exported to cytosol favours sucrose synthesis."
+    },
+    {
+        "id": 280,
+        "question": "Which reaction is directly responsible for conversion of solar energy?",
+        "options": [
+            "Photolysis",
+            "Electron transport",
+            "Calvin cycle",
+            "ATP synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Electron excitation and transport convert solar energy."
+    },
+    {
+        "id": 281,
+        "question": "Which factor controls rate of diffusion of CO₂ inside leaf?",
+        "options": [
+            "Stomatal aperture",
+            "Chlorophyll content",
+            "Light wavelength",
+            "ATP availability"
+        ],
+        "answer": 0,
+        "explanation": "Stomatal aperture controls CO₂ diffusion."
+    },
+    {
+        "id": 282,
+        "question": "Which statement about photosynthesis is incorrect?",
+        "options": [
+            "It occurs in chloroplast",
+            "It requires enzymes",
+            "It always produces starch",
+            "It involves redox reactions"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis does not always produce starch."
+    },
+    {
+        "id": 283,
+        "question": "Which molecule is produced when NADP⁺ accepts electrons?",
+        "options": [
+            "NADPH",
+            "NADH",
+            "ATP",
+            "ADP"
+        ],
+        "answer": 0,
+        "explanation": "NADP⁺ is reduced to NADPH."
+    },
+    {
+        "id": 284,
+        "question": "Which process consumes maximum ATP in photosynthesis?",
+        "options": [
+            "Light reaction",
+            "Calvin cycle",
+            "Photolysis",
+            "Electron transport"
+        ],
+        "answer": 1,
+        "explanation": "Calvin cycle consumes ATP."
+    },
+    {
+        "id": 285,
+        "question": "Which factor limits photosynthesis during drought?",
+        "options": [
+            "CO₂",
+            "Light",
+            "Water",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Water stress limits photosynthesis."
+    },
+    {
+        "id": 286,
+        "question": "Which statement best explains importance of photosynthesis?",
+        "options": [
+            "It releases CO₂",
+            "It produces oxygen and organic matter",
+            "It consumes oxygen",
+            "It produces heat"
+        ],
+        "answer": 1,
+        "explanation": "Photosynthesis produces organic matter and oxygen."
+    },
+    {
+        "id": 287,
+        "question": "Which process results in formation of starch?",
+        "options": [
+            "G3P polymerisation",
+            "PGA reduction",
+            "RuBP regeneration",
+            "Photolysis"
+        ],
+        "answer": 0,
+        "explanation": "Polymerisation of G3P leads to starch formation."
+    },
+    {
+        "id": 288,
+        "question": "Which component of chloroplast is the site of starch synthesis?",
+        "options": [
+            "Thylakoid",
+            "Stroma",
+            "Inner membrane",
+            "Outer membrane"
+        ],
+        "answer": 1,
+        "explanation": "Starch synthesis occurs in stroma."
+    },
+    {
+        "id": 289,
+        "question": "Which factor increases photorespiration indirectly?",
+        "options": [
+            "High temperature",
+            "High CO₂",
+            "Low oxygen",
+            "High humidity"
+        ],
+        "answer": 0,
+        "explanation": "High temperature favours photorespiration."
+    },
+    {
+        "id": 290,
+        "question": "Which step of photosynthesis is common to all green plants?",
+        "options": [
+            "C₄ pathway",
+            "CAM pathway",
+            "Calvin cycle",
+            "Kranz anatomy"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle is common to all."
+    },
+    {
+        "id": 291,
+        "question": "Which statement correctly defines quantum requirement?",
+        "options": [
+            "Energy required per glucose molecule",
+            "Number of photons required to evolve one O₂",
+            "Light absorbed per chlorophyll",
+            "CO₂ fixed per ATP"
+        ],
+        "answer": 1,
+        "explanation": "Quantum requirement is photons needed to evolve one O₂ molecule."
+    },
+    {
+        "id": 292,
+        "question": "Which factor affects quantum yield?",
+        "options": [
+            "Light quality",
+            "CO₂ concentration",
+            "Water availability",
+            "Temperature"
+        ],
+        "answer": 0,
+        "explanation": "Quantum yield depends on light quality."
+    },
+    {
+        "id": 293,
+        "question": "Which wavelength shows highest quantum yield?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Yellow"
+        ],
+        "answer": 0,
+        "explanation": "Red light shows highest quantum yield."
+    },
+    {
+        "id": 294,
+        "question": "Which pigment is most efficient in photosynthesis?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a is most efficient."
+    },
+    {
+        "id": 295,
+        "question": "Which statement about Engelmann’s experiment is correct?",
+        "options": [
+            "It demonstrated Calvin cycle",
+            "It showed oxygen evolution",
+            "It proved CO₂ fixation",
+            "It showed starch synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Engelmann demonstrated oxygen evolution."
+    },
+    {
+        "id": 296,
+        "question": "Which process directly depends on number of absorbed photons?",
+        "options": [
+            "Quantum yield",
+            "Calvin cycle",
+            "CO₂ fixation",
+            "Starch synthesis"
+        ],
+        "answer": 0,
+        "explanation": "Quantum yield depends on absorbed photons."
+    },
+    {
+        "id": 297,
+        "question": "Which factor causes midday depression of photosynthesis?",
+        "options": [
+            "High humidity",
+            "High transpiration",
+            "High temperature and water stress",
+            "Low CO₂"
+        ],
+        "answer": 2,
+        "explanation": "High temperature and water stress reduce photosynthesis at midday."
+    },
+    {
+        "id": 298,
+        "question": "Which condition favours opening of stomata?",
+        "options": [
+            "Low humidity",
+            "High CO₂",
+            "Adequate water",
+            "Water stress"
+        ],
+        "answer": 2,
+        "explanation": "Adequate water favours stomatal opening."
+    },
+    {
+        "id": 299,
+        "question": "Which molecule is essential for photochemical phase but not biochemical phase?",
+        "options": [
+            "Light",
+            "CO₂",
+            "RuBP",
+            "Enzymes"
+        ],
+        "answer": 0,
+        "explanation": "Light is required only for photochemical phase."
+    },
+    {
+        "id": 300,
+        "question": "Which statement best summarises photosynthesis in higher plants?",
+        "options": [
+            "Light reactions produce glucose",
+            "Dark reactions occur only at night",
+            "Light reactions produce ATP and NADPH used for CO₂ fixation",
+            "CO₂ fixation occurs in thylakoid"
+        ],
+        "answer": 2,
+        "explanation": "ATP and NADPH from light reactions are used for CO₂ fixation."
+    },
+    {
+        "id": 301,
+        "question": "Which statement correctly describes the role of photosystem I?",
+        "options": [
+            "It splits water molecules",
+            "It reduces NADP⁺ to NADPH",
+            "It pumps protons into lumen",
+            "It initiates photolysis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states photosystem I reduces NADP⁺ to NADPH."
+    },
+    {
+        "id": 302,
+        "question": "Which component connects electron transport between photosystem I and NADP⁺?",
+        "options": [
+            "Cytochrome b6f",
+            "Plastocyanin",
+            "Ferredoxin",
+            "Plastoquinone"
+        ],
+        "answer": 2,
+        "explanation": "Ferredoxin transfers electrons from PS I to NADP⁺."
+    },
+    {
+        "id": 303,
+        "question": "Which molecule is oxidised during photolysis of water?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Water",
+            "NADP⁺"
+        ],
+        "answer": 2,
+        "explanation": "Water is oxidised during photolysis."
+    },
+    {
+        "id": 304,
+        "question": "Which factor directly affects rate of photochemical reactions?",
+        "options": [
+            "Light intensity",
+            "CO₂ concentration",
+            "Temperature",
+            "Oxygen level"
+        ],
+        "answer": 0,
+        "explanation": "Photochemical reactions depend directly on light intensity."
+    },
+    {
+        "id": 305,
+        "question": "Which statement about absorption spectrum is correct?",
+        "options": [
+            "It measures rate of photosynthesis",
+            "It shows light absorbed by pigments",
+            "It shows oxygen evolution",
+            "It shows CO₂ fixation rate"
+        ],
+        "answer": 1,
+        "explanation": "Absorption spectrum represents light absorbed by pigments."
+    },
+    {
+        "id": 306,
+        "question": "Which reaction of photosynthesis involves oxidation and reduction simultaneously?",
+        "options": [
+            "Calvin cycle",
+            "Photolysis",
+            "Light reaction",
+            "Starch synthesis"
+        ],
+        "answer": 2,
+        "explanation": "Light reaction involves redox reactions."
+    },
+    {
+        "id": 307,
+        "question": "Which pigment is absent in higher plants but present in cyanobacteria?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Phycocyanin",
+            "Carotene"
+        ],
+        "answer": 2,
+        "explanation": "Phycocyanin is absent in higher plants."
+    },
+    {
+        "id": 308,
+        "question": "Which statement best explains spatial separation in C₄ plants?",
+        "options": [
+            "Light and dark reactions in different cells",
+            "CO₂ fixation and Calvin cycle in different cells",
+            "Photolysis and electron transport in different cells",
+            "ATP synthesis and CO₂ fixation in different cells"
+        ],
+        "answer": 1,
+        "explanation": "Initial CO₂ fixation and Calvin cycle occur in different cells in C₄ plants."
+    },
+    {
+        "id": 309,
+        "question": "Which compound accumulates in bundle sheath cells of C₄ plants?",
+        "options": [
+            "PEP",
+            "Malate",
+            "Oxaloacetate",
+            "PGA"
+        ],
+        "answer": 1,
+        "explanation": "Malate accumulates and is decarboxylated in bundle sheath cells."
+    },
+    {
+        "id": 310,
+        "question": "Which factor prevents photorespiration in C₄ plants?",
+        "options": [
+            "High oxygen",
+            "High CO₂ near Rubisco",
+            "Low temperature",
+            "Low ATP"
+        ],
+        "answer": 1,
+        "explanation": "High CO₂ concentration near Rubisco suppresses photorespiration."
+    },
+    {
+        "id": 311,
+        "question": "Which statement about Rubisco is incorrect?",
+        "options": [
+            "It has carboxylase activity",
+            "It has oxygenase activity",
+            "It is membrane bound",
+            "It is located in stroma"
+        ],
+        "answer": 2,
+        "explanation": "Rubisco is a soluble stromal enzyme, not membrane bound."
+    },
+    {
+        "id": 312,
+        "question": "Which process occurs only in light irrespective of CO₂ presence?",
+        "options": [
+            "Calvin cycle",
+            "Carboxylation",
+            "Photolysis",
+            "Reduction of PGA"
+        ],
+        "answer": 2,
+        "explanation": "Photolysis occurs only in presence of light."
+    },
+    {
+        "id": 313,
+        "question": "Which molecule produced in light reaction provides reducing power?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "Oxygen",
+            "ADP"
+        ],
+        "answer": 1,
+        "explanation": "NADPH provides reducing power."
+    },
+    {
+        "id": 314,
+        "question": "Which statement correctly describes CAM pathway?",
+        "options": [
+            "Spatial separation of steps",
+            "Temporal separation of steps",
+            "Absence of Calvin cycle",
+            "Absence of Rubisco"
+        ],
+        "answer": 1,
+        "explanation": "CAM pathway shows temporal separation of steps."
+    },
+    {
+        "id": 315,
+        "question": "Which compound is decarboxylated in CAM plants during daytime?",
+        "options": [
+            "Oxaloacetate",
+            "Malate",
+            "PEP",
+            "PGA"
+        ],
+        "answer": 1,
+        "explanation": "Malate is decarboxylated during daytime."
+    },
+    {
+        "id": 316,
+        "question": "Which condition increases efficiency of CAM plants?",
+        "options": [
+            "High humidity",
+            "Low water availability",
+            "High CO₂",
+            "Low temperature"
+        ],
+        "answer": 1,
+        "explanation": "CAM pathway is efficient under water stress conditions."
+    },
+    {
+        "id": 317,
+        "question": "Which factor directly affects diffusion resistance of CO₂?",
+        "options": [
+            "Chlorophyll content",
+            "Stomatal aperture",
+            "Light wavelength",
+            "ATP availability"
+        ],
+        "answer": 1,
+        "explanation": "Stomatal aperture controls diffusion resistance."
+    },
+    {
+        "id": 318,
+        "question": "Which step of Calvin cycle is ATP independent?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photophosphorylation"
+        ],
+        "answer": 0,
+        "explanation": "Carboxylation does not require ATP."
+    },
+    {
+        "id": 319,
+        "question": "Which phase of Calvin cycle regenerates CO₂ acceptor?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 2,
+        "explanation": "Regeneration phase regenerates RuBP."
+    },
+    {
+        "id": 320,
+        "question": "Which compound acts as CO₂ acceptor in Calvin cycle?",
+        "options": [
+            "PEP",
+            "RuBP",
+            "PGA",
+            "OAA"
+        ],
+        "answer": 1,
+        "explanation": "RuBP is the CO₂ acceptor."
+    },
+    {
+        "id": 321,
+        "question": "Which condition favours maximum rate of photosynthesis?",
+        "options": [
+            "Low CO₂ and high O₂",
+            "High CO₂ and optimal temperature",
+            "Low light and low temperature",
+            "High oxygen and low CO₂"
+        ],
+        "answer": 1,
+        "explanation": "High CO₂ and optimal temperature favour photosynthesis."
+    },
+    {
+        "id": 322,
+        "question": "Which molecule returns to chloroplast after photorespiration?",
+        "options": [
+            "Serine",
+            "Glycine",
+            "Glycerate",
+            "Glyoxylate"
+        ],
+        "answer": 2,
+        "explanation": "Glycerate returns to chloroplast."
+    },
+    {
+        "id": 323,
+        "question": "Which enzyme converts glycerate to PGA during photorespiration?",
+        "options": [
+            "Rubisco",
+            "Glycerate kinase",
+            "Malic enzyme",
+            "ATP synthase"
+        ],
+        "answer": 1,
+        "explanation": "Glycerate kinase converts glycerate to PGA."
+    },
+    {
+        "id": 324,
+        "question": "Which compound enters mitochondria during photorespiration?",
+        "options": [
+            "Serine",
+            "Glycine",
+            "Glycerate",
+            "Malate"
+        ],
+        "answer": 1,
+        "explanation": "Glycine enters mitochondria."
+    },
+    {
+        "id": 325,
+        "question": "Which step of photorespiration releases CO₂?",
+        "options": [
+            "Peroxisomal step",
+            "Mitochondrial step",
+            "Chloroplastic step",
+            "Cytosolic step"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is released in mitochondria."
+    },
+    {
+        "id": 326,
+        "question": "Which factor reduces stomatal conductance?",
+        "options": [
+            "High humidity",
+            "Adequate water",
+            "Water stress",
+            "Low CO₂"
+        ],
+        "answer": 2,
+        "explanation": "Water stress reduces stomatal conductance."
+    },
+    {
+        "id": 327,
+        "question": "Which pigment protects photosynthetic apparatus from photooxidative damage?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotenoids",
+            "Anthocyanin"
+        ],
+        "answer": 2,
+        "explanation": "Carotenoids protect from photooxidation."
+    },
+    {
+        "id": 328,
+        "question": "Which wavelength region is least effective in photosynthesis?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Violet"
+        ],
+        "answer": 2,
+        "explanation": "Green light is least effective."
+    },
+    {
+        "id": 329,
+        "question": "Which statement is correct regarding light saturation point?",
+        "options": [
+            "Rate increases indefinitely",
+            "Rate becomes constant beyond a point",
+            "Rate decreases immediately",
+            "Rate becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Rate becomes constant beyond saturation point."
+    },
+    {
+        "id": 330,
+        "question": "Which factor explains lower photosynthesis in shade plants at high light?",
+        "options": [
+            "Photoinhibition",
+            "Low chlorophyll",
+            "Low CO₂",
+            "High temperature"
+        ],
+        "answer": 0,
+        "explanation": "Shade plants are prone to photoinhibition."
+    },
+    {
+        "id": 331,
+        "question": "Which component of chloroplast contains enzymes of Calvin cycle?",
+        "options": [
+            "Grana",
+            "Thylakoid",
+            "Stroma",
+            "Outer membrane"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle enzymes are in stroma."
+    },
+    {
+        "id": 332,
+        "question": "Which statement about chloroplast envelope is correct?",
+        "options": [
+            "Both membranes are freely permeable",
+            "Outer membrane is freely permeable",
+            "Inner membrane is freely permeable",
+            "Envelope synthesises ATP"
+        ],
+        "answer": 1,
+        "explanation": "Outer membrane is freely permeable."
+    },
+    {
+        "id": 333,
+        "question": "Which process leads to formation of proton gradient?",
+        "options": [
+            "CO₂ fixation",
+            "Electron transport",
+            "Sugar synthesis",
+            "Starch formation"
+        ],
+        "answer": 1,
+        "explanation": "Electron transport leads to proton gradient formation."
+    },
+    {
+        "id": 334,
+        "question": "Which event directly drives ATP synthesis?",
+        "options": [
+            "Electron excitation",
+            "Proton flow through ATP synthase",
+            "CO₂ fixation",
+            "Photolysis"
+        ],
+        "answer": 1,
+        "explanation": "Proton flow through ATP synthase drives ATP synthesis."
+    },
+    {
+        "id": 335,
+        "question": "Which statement best explains chemiosmosis?",
+        "options": [
+            "ATP formed by enzyme phosphorylation",
+            "ATP formed by proton gradient",
+            "ATP formed by light directly",
+            "ATP formed by CO₂ reduction"
+        ],
+        "answer": 1,
+        "explanation": "Chemiosmosis involves ATP synthesis using proton gradient."
+    },
+    {
+        "id": 336,
+        "question": "Which process consumes maximum reducing power?",
+        "options": [
+            "Light reaction",
+            "Calvin cycle",
+            "Photolysis",
+            "Electron transport"
+        ],
+        "answer": 1,
+        "explanation": "Calvin cycle consumes NADPH."
+    },
+    {
+        "id": 337,
+        "question": "Which compound is regenerated in both Calvin cycle and photorespiration?",
+        "options": [
+            "PGA",
+            "RuBP",
+            "G3P",
+            "ATP"
+        ],
+        "answer": 0,
+        "explanation": "PGA is regenerated during photorespiration and used in Calvin cycle."
+    },
+    {
+        "id": 338,
+        "question": "Which factor mainly determines quantum yield?",
+        "options": [
+            "Temperature",
+            "Light quality",
+            "CO₂ concentration",
+            "Humidity"
+        ],
+        "answer": 1,
+        "explanation": "Quantum yield depends on light quality."
+    },
+    {
+        "id": 339,
+        "question": "Which colour light has highest quantum efficiency?",
+        "options": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "answer": 2,
+        "explanation": "Red light has highest quantum efficiency."
+    },
+    {
+        "id": 340,
+        "question": "Which statement correctly defines quantum yield?",
+        "options": [
+            "Photons absorbed per chlorophyll",
+            "CO₂ fixed per photon",
+            "O₂ evolved per photon",
+            "Photons required per O₂ evolved"
+        ],
+        "answer": 3,
+        "explanation": "Quantum yield refers to photons required to evolve one O₂ molecule."
+    },
+    {
+        "id": 341,
+        "question": "Which process explains midday depression of photosynthesis?",
+        "options": [
+            "Low CO₂",
+            "High oxygen",
+            "High temperature and water stress",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "High temperature and water stress cause midday depression."
+    },
+    {
+        "id": 342,
+        "question": "Which factor increases photorespiration indirectly?",
+        "options": [
+            "High CO₂",
+            "Low oxygen",
+            "High temperature",
+            "High humidity"
+        ],
+        "answer": 2,
+        "explanation": "High temperature favours photorespiration."
+    },
+    {
+        "id": 343,
+        "question": "Which process links photosynthesis and respiration?",
+        "options": [
+            "ATP synthesis",
+            "G3P formation",
+            "Photolysis",
+            "Electron transport"
+        ],
+        "answer": 1,
+        "explanation": "G3P is common intermediate."
+    },
+    {
+        "id": 344,
+        "question": "Which step of Calvin cycle produces triose phosphate?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 1,
+        "explanation": "Reduction phase produces triose phosphate."
+    },
+    {
+        "id": 345,
+        "question": "Which compound is exported from chloroplast for sucrose synthesis?",
+        "options": [
+            "RuBP",
+            "PGA",
+            "G3P",
+            "Starch"
+        ],
+        "answer": 2,
+        "explanation": "G3P is exported for sucrose synthesis."
+    },
+    {
+        "id": 346,
+        "question": "Which factor limits photosynthesis during drought conditions?",
+        "options": [
+            "CO₂",
+            "Light",
+            "Water",
+            "Oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Water stress limits photosynthesis."
+    },
+    {
+        "id": 347,
+        "question": "Which condition favours starch synthesis inside chloroplast?",
+        "options": [
+            "High G3P in stroma",
+            "High G3P in cytosol",
+            "Low ATP",
+            "Low NADPH"
+        ],
+        "answer": 0,
+        "explanation": "High G3P in stroma favours starch synthesis."
+    },
+    {
+        "id": 348,
+        "question": "Which process results in formation of sucrose?",
+        "options": [
+            "Polymerisation of G3P",
+            "Condensation of G3P in cytosol",
+            "RuBP regeneration",
+            "Photolysis"
+        ],
+        "answer": 1,
+        "explanation": "Sucrose is formed from G3P in cytosol."
+    },
+    {
+        "id": 349,
+        "question": "Which statement about photosynthesis is incorrect?",
+        "options": [
+            "It is an anabolic process",
+            "It stores solar energy",
+            "It releases energy",
+            "It involves enzyme activity"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis stores energy, not releases it."
+    },
+    {
+        "id": 350,
+        "question": "Which factor has least direct effect on photosynthesis?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Temperature",
+            "Wind"
+        ],
+        "answer": 3,
+        "explanation": "Wind has least direct effect."
+    },
+    {
+        "id": 351,
+        "question": "Which statement correctly compares C₃ and C₄ plants?",
+        "options": [
+            "C₃ plants show Kranz anatomy",
+            "C₄ plants show spatial separation",
+            "C₄ plants lack Calvin cycle",
+            "C₃ plants lack photorespiration"
+        ],
+        "answer": 1,
+        "explanation": "C₄ plants show spatial separation."
+    },
+    {
+        "id": 352,
+        "question": "Which process ensures high CO₂ concentration near Rubisco in C₄ plants?",
+        "options": [
+            "PEP regeneration",
+            "Malate decarboxylation",
+            "Photolysis",
+            "Electron transport"
+        ],
+        "answer": 1,
+        "explanation": "Malate decarboxylation releases CO₂ near Rubisco."
+    },
+    {
+        "id": 353,
+        "question": "Which compound is regenerated at the end of C₄ cycle?",
+        "options": [
+            "RuBP",
+            "PEP",
+            "Malate",
+            "PGA"
+        ],
+        "answer": 1,
+        "explanation": "PEP is regenerated in C₄ cycle."
+    },
+    {
+        "id": 354,
+        "question": "Which statement is true for CAM plants?",
+        "options": [
+            "CO₂ fixation and Calvin cycle in different cells",
+            "CO₂ fixation and Calvin cycle at different times",
+            "Absence of PEP carboxylase",
+            "High photorespiration"
+        ],
+        "answer": 1,
+        "explanation": "CAM plants show temporal separation."
+    },
+    {
+        "id": 355,
+        "question": "Which factor makes CAM plants suitable for arid regions?",
+        "options": [
+            "High ATP requirement",
+            "Night stomatal opening",
+            "Kranz anatomy",
+            "Low chlorophyll"
+        ],
+        "answer": 1,
+        "explanation": "Night stomatal opening reduces water loss."
+    },
+    {
+        "id": 356,
+        "question": "Which molecule acts as immediate source of oxygen released?",
+        "options": [
+            "CO₂",
+            "H₂O",
+            "PGA",
+            "OAA"
+        ],
+        "answer": 1,
+        "explanation": "Oxygen comes from water."
+    },
+    {
+        "id": 357,
+        "question": "Which reaction proves oxygen comes from water?",
+        "options": [
+            "Blackman experiment",
+            "Hill reaction",
+            "Engelmann experiment",
+            "Calvin experiment"
+        ],
+        "answer": 1,
+        "explanation": "Hill reaction proved oxygen comes from water."
+    },
+    {
+        "id": 358,
+        "question": "Which factor limits photosynthesis in polar regions?",
+        "options": [
+            "Light",
+            "Temperature",
+            "CO₂",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Low temperature limits enzyme activity."
+    },
+    {
+        "id": 359,
+        "question": "Which condition favours photoinhibition?",
+        "options": [
+            "Low light",
+            "Excessive light",
+            "High CO₂",
+            "High humidity"
+        ],
+        "answer": 1,
+        "explanation": "Excessive light causes photoinhibition."
+    },
+    {
+        "id": 360,
+        "question": "Which statement about photoinhibition is correct?",
+        "options": [
+            "It increases photosynthesis",
+            "It damages photosystems",
+            "It enhances ATP synthesis",
+            "It increases CO₂ fixation"
+        ],
+        "answer": 1,
+        "explanation": "Photoinhibition damages photosystems."
+    },
+    {
+        "id": 361,
+        "question": "Which factor increases rate of photosynthesis in shade plants?",
+        "options": [
+            "Very high light",
+            "Moderate light",
+            "Darkness",
+            "High oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Shade plants perform best at moderate light."
+    },
+    {
+        "id": 362,
+        "question": "Which step of photosynthesis is enzyme independent?",
+        "options": [
+            "Calvin cycle",
+            "Carboxylation",
+            "Light reaction",
+            "Reduction"
+        ],
+        "answer": 2,
+        "explanation": "Light reaction is largely enzyme independent."
+    },
+    {
+        "id": 363,
+        "question": "Which pigment initiates photochemical reaction?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a initiates photochemical reaction."
+    },
+    {
+        "id": 364,
+        "question": "Which statement correctly describes role of ATP in photosynthesis?",
+        "options": [
+            "Used in light reaction",
+            "Used in Calvin cycle",
+            "Produced in Calvin cycle",
+            "Used in photolysis"
+        ],
+        "answer": 1,
+        "explanation": "ATP is used in Calvin cycle."
+    },
+    {
+        "id": 365,
+        "question": "Which process fixes inorganic carbon into organic form?",
+        "options": [
+            "Photolysis",
+            "Electron transport",
+            "Calvin cycle",
+            "Photophosphorylation"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle fixes CO₂."
+    },
+    {
+        "id": 366,
+        "question": "Which compound is first reduced in Calvin cycle?",
+        "options": [
+            "RuBP",
+            "PGA",
+            "G3P",
+            "OAA"
+        ],
+        "answer": 1,
+        "explanation": "PGA is first reduced."
+    },
+    {
+        "id": 367,
+        "question": "Which condition favours reduction phase of Calvin cycle?",
+        "options": [
+            "Availability of NADPH",
+            "High oxygen",
+            "Low ATP",
+            "Low CO₂"
+        ],
+        "answer": 0,
+        "explanation": "Reduction requires NADPH."
+    },
+    {
+        "id": 368,
+        "question": "Which factor limits photosynthesis when temperature and light are optimal?",
+        "options": [
+            "CO₂",
+            "Oxygen",
+            "Water",
+            "Wind"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ becomes limiting."
+    },
+    {
+        "id": 369,
+        "question": "Which molecule carries electrons within thylakoid membrane?",
+        "options": [
+            "Plastoquinone",
+            "Ferredoxin",
+            "NADP⁺",
+            "ATP"
+        ],
+        "answer": 0,
+        "explanation": "Plastoquinone carries electrons within membrane."
+    },
+    {
+        "id": 370,
+        "question": "Which factor controls opening and closing of stomata?",
+        "options": [
+            "Light only",
+            "CO₂ only",
+            "Water status and light",
+            "Chlorophyll"
+        ],
+        "answer": 2,
+        "explanation": "Stomatal movement depends on water status and light."
+    },
+    {
+        "id": 371,
+        "question": "Which statement about photosynthesis is correct?",
+        "options": [
+            "It occurs in all plant cells",
+            "It occurs only in green parts",
+            "It occurs in mitochondria",
+            "It occurs in nucleus"
+        ],
+        "answer": 1,
+        "explanation": "Photosynthesis occurs in green parts."
+    },
+    {
+        "id": 372,
+        "question": "Which process produces reducing equivalents?",
+        "options": [
+            "Calvin cycle",
+            "Light reaction",
+            "Photolysis",
+            "Respiration"
+        ],
+        "answer": 1,
+        "explanation": "Light reaction produces NADPH."
+    },
+    {
+        "id": 373,
+        "question": "Which factor reduces net CO₂ assimilation?",
+        "options": [
+            "High CO₂",
+            "Low oxygen",
+            "Photorespiration",
+            "Optimal temperature"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration reduces net CO₂ assimilation."
+    },
+    {
+        "id": 374,
+        "question": "Which statement about light compensation point is correct?",
+        "options": [
+            "Photosynthesis equals respiration",
+            "Photosynthesis exceeds respiration",
+            "Respiration stops",
+            "Photosynthesis is zero"
+        ],
+        "answer": 0,
+        "explanation": "At compensation point, photosynthesis equals respiration."
+    },
+    {
+        "id": 375,
+        "question": "Which plant has highest light compensation point?",
+        "options": [
+            "Shade plant",
+            "Sun plant",
+            "Aquatic plant",
+            "CAM plant"
+        ],
+        "answer": 1,
+        "explanation": "Sun plants have higher compensation point."
+    },
+    {
+        "id": 376,
+        "question": "Which factor increases photosynthetic efficiency?",
+        "options": [
+            "High photorespiration",
+            "Low CO₂",
+            "Reduced photorespiration",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "Reduced photorespiration increases efficiency."
+    },
+    {
+        "id": 377,
+        "question": "Which reaction directly produces ATP?",
+        "options": [
+            "Photophosphorylation",
+            "Calvin cycle",
+            "Carboxylation",
+            "Reduction"
+        ],
+        "answer": 0,
+        "explanation": "ATP is produced by photophosphorylation."
+    },
+    {
+        "id": 378,
+        "question": "Which molecule is common to photosynthesis and respiration?",
+        "options": [
+            "CO₂",
+            "O₂",
+            "ATP",
+            "NADP⁺"
+        ],
+        "answer": 2,
+        "explanation": "ATP is common energy currency."
+    },
+    {
+        "id": 379,
+        "question": "Which factor primarily determines distribution of plants?",
+        "options": [
+            "Photosynthetic pathway",
+            "Chlorophyll content",
+            "Leaf size",
+            "Starch content"
+        ],
+        "answer": 0,
+        "explanation": "Photosynthetic pathway influences distribution."
+    },
+    {
+        "id": 380,
+        "question": "Which statement best summarises role of photosynthesis?",
+        "options": [
+            "It consumes oxygen",
+            "It releases carbon dioxide",
+            "It sustains life on Earth",
+            "It occurs only in plants"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis sustains life on Earth."
+    },
+    {
+        "id": 381,
+        "question": "Which condition increases stomatal diffusion resistance?",
+        "options": [
+            "High humidity",
+            "Adequate water",
+            "Water stress",
+            "Low CO₂"
+        ],
+        "answer": 2,
+        "explanation": "Water stress increases diffusion resistance."
+    },
+    {
+        "id": 382,
+        "question": "Which statement about light harvesting complex is correct?",
+        "options": [
+            "It contains only chlorophyll a",
+            "It transfers energy to reaction centre",
+            "It splits water",
+            "It synthesises ATP"
+        ],
+        "answer": 1,
+        "explanation": "Light harvesting complex transfers energy to reaction centre."
+    },
+    {
+        "id": 383,
+        "question": "Which pigment broadens absorption spectrum of chlorophyll a?",
+        "options": [
+            "Chlorophyll b",
+            "Carotenoids",
+            "Both b and carotenoids",
+            "Anthocyanin"
+        ],
+        "answer": 2,
+        "explanation": "Accessory pigments broaden absorption spectrum."
+    },
+    {
+        "id": 384,
+        "question": "Which step of photosynthesis is independent of light but dependent on products of light reaction?",
+        "options": [
+            "Photolysis",
+            "Electron transport",
+            "Calvin cycle",
+            "Absorption"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle depends on ATP and NADPH."
+    },
+    {
+        "id": 385,
+        "question": "Which statement is correct regarding CO₂ concentration?",
+        "options": [
+            "Always limits photosynthesis",
+            "Never limits photosynthesis",
+            "Limits photosynthesis at low levels",
+            "Has no effect"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ limits photosynthesis at low levels."
+    },
+    {
+        "id": 386,
+        "question": "Which molecule is regenerated to continue photosynthesis?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "RuBP",
+            "G3P"
+        ],
+        "answer": 2,
+        "explanation": "RuBP regeneration is essential."
+    },
+    {
+        "id": 387,
+        "question": "Which factor determines direction of electron flow?",
+        "options": [
+            "CO₂",
+            "Light energy",
+            "ATP",
+            "Temperature"
+        ],
+        "answer": 1,
+        "explanation": "Light energy determines electron flow."
+    },
+    {
+        "id": 388,
+        "question": "Which statement about respiration and photosynthesis is correct?",
+        "options": [
+            "Both occur in chloroplast",
+            "Both produce ATP",
+            "Photosynthesis produces oxygen",
+            "Respiration produces glucose"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis produces oxygen."
+    },
+    {
+        "id": 389,
+        "question": "Which compound is reduced to form carbohydrate?",
+        "options": [
+            "CO₂",
+            "O₂",
+            "H₂O",
+            "ATP"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ is reduced to carbohydrates."
+    },
+    {
+        "id": 390,
+        "question": "Which step consumes ATP but not NADPH?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 2,
+        "explanation": "Regeneration consumes ATP."
+    },
+    {
+        "id": 391,
+        "question": "Which factor is most critical for enzyme-mediated reactions of photosynthesis?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Temperature",
+            "Oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Temperature affects enzyme activity."
+    },
+    {
+        "id": 392,
+        "question": "Which molecule acts as final electron acceptor in light reaction?",
+        "options": [
+            "Oxygen",
+            "NADP⁺",
+            "CO₂",
+            "ATP"
+        ],
+        "answer": 1,
+        "explanation": "NADP⁺ is final electron acceptor."
+    },
+    {
+        "id": 393,
+        "question": "Which statement about Calvin cycle is incorrect?",
+        "options": [
+            "It occurs in stroma",
+            "It fixes CO₂",
+            "It produces ATP",
+            "It uses NADPH"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle does not produce ATP."
+    },
+    {
+        "id": 394,
+        "question": "Which process is common in all photosynthetic plants?",
+        "options": [
+            "C₄ pathway",
+            "CAM pathway",
+            "Calvin cycle",
+            "Kranz anatomy"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle is universal."
+    },
+    {
+        "id": 395,
+        "question": "Which factor affects photosynthesis indirectly by affecting transpiration?",
+        "options": [
+            "Wind",
+            "Light",
+            "CO₂",
+            "Oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Wind affects transpiration indirectly."
+    },
+    {
+        "id": 396,
+        "question": "Which step of photosynthesis is irreversible?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Photolysis",
+            "Regeneration"
+        ],
+        "answer": 2,
+        "explanation": "Photolysis is irreversible."
+    },
+    {
+        "id": 397,
+        "question": "Which molecule is formed by reduction of NADP⁺?",
+        "options": [
+            "NADH",
+            "NADPH",
+            "ATP",
+            "ADP"
+        ],
+        "answer": 1,
+        "explanation": "NADP⁺ is reduced to NADPH."
+    },
+    {
+        "id": 398,
+        "question": "Which condition favours Calvin cycle activity?",
+        "options": [
+            "High ATP and NADPH",
+            "High oxygen",
+            "Low CO₂",
+            "Darkness only"
+        ],
+        "answer": 0,
+        "explanation": "Calvin cycle requires ATP and NADPH."
+    },
+    {
+        "id": 399,
+        "question": "Which factor explains efficiency of C₄ plants in tropics?",
+        "options": [
+            "Low ATP requirement",
+            "Reduced photorespiration",
+            "Absence of Rubisco",
+            "Low light requirement"
+        ],
+        "answer": 1,
+        "explanation": "Reduced photorespiration increases efficiency."
+    },
+    {
+        "id": 400,
+        "question": "Which statement best represents photosynthesis equation in higher plants?",
+        "options": [
+            "CO₂ + H₂O → Glucose + O₂",
+            "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O",
+            "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+            "CO₂ + O₂ → Glucose"
+        ],
+        "answer": 1,
+        "explanation": "NCERT gives balanced equation with 12 water molecules."
+    },
+    {
+        "id": 401,
+        "question": "Which component of light reaction directly converts light energy into electrical energy?",
+        "options": [
+            "Reaction centre chlorophyll",
+            "Accessory pigments",
+            "ATP synthase",
+            "Cytochrome b6f"
+        ],
+        "answer": 0,
+        "explanation": "Reaction centre chlorophyll converts light energy into electrical energy by exciting electrons."
+    },
+    {
+        "id": 402,
+        "question": "Which pigment molecule directly participates in photochemical reaction?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a directly participates in photochemical reactions."
+    },
+    {
+        "id": 403,
+        "question": "Which statement correctly describes light harvesting complex (LHC)?",
+        "options": [
+            "It splits water molecules",
+            "It synthesises ATP",
+            "It transfers excitation energy to reaction centre",
+            "It fixes carbon dioxide"
+        ],
+        "answer": 2,
+        "explanation": "LHC transfers excitation energy to reaction centre chlorophyll."
+    },
+    {
+        "id": 404,
+        "question": "Which of the following is the correct order of electron flow in non-cyclic photophosphorylation?",
+        "options": [
+            "PS I → PS II → NADP⁺",
+            "PS II → PS I → NADP⁺",
+            "PS I → NADP⁺ → PS II",
+            "PS II → NADP⁺ → PS I"
+        ],
+        "answer": 1,
+        "explanation": "Electrons flow from PS II to PS I and finally to NADP⁺."
+    },
+    {
+        "id": 405,
+        "question": "Which component is responsible for oxidation of water in photosynthesis?",
+        "options": [
+            "Photosystem I",
+            "Photosystem II",
+            "ATP synthase",
+            "Ferredoxin"
+        ],
+        "answer": 1,
+        "explanation": "Photosystem II catalyses oxidation of water."
+    },
+    {
+        "id": 406,
+        "question": "Which of the following is a direct consequence of photolysis?",
+        "options": [
+            "ATP synthesis",
+            "Release of oxygen",
+            "CO₂ fixation",
+            "NADPH oxidation"
+        ],
+        "answer": 1,
+        "explanation": "Photolysis of water releases molecular oxygen."
+    },
+    {
+        "id": 407,
+        "question": "Which statement about proton gradient in chloroplast is correct?",
+        "options": [
+            "Protons accumulate in stroma",
+            "Protons accumulate in thylakoid lumen",
+            "Protons move freely across thylakoid membrane",
+            "Protons are generated only in stroma"
+        ],
+        "answer": 1,
+        "explanation": "Protons accumulate in thylakoid lumen during light reaction."
+    },
+    {
+        "id": 408,
+        "question": "Which step of photosynthesis establishes proton gradient most directly?",
+        "options": [
+            "CO₂ fixation",
+            "Electron transport through cytochrome b6f",
+            "ATP synthesis",
+            "Reduction of NADP⁺"
+        ],
+        "answer": 1,
+        "explanation": "Electron transport through cytochrome b6f pumps protons into lumen."
+    },
+    {
+        "id": 409,
+        "question": "Which molecule carries electrons from PS II to cytochrome b6f complex?",
+        "options": [
+            "Plastocyanin",
+            "Plastoquinone",
+            "Ferredoxin",
+            "NADP⁺"
+        ],
+        "answer": 1,
+        "explanation": "Plastoquinone transfers electrons from PS II to cytochrome b6f."
+    },
+    {
+        "id": 410,
+        "question": "Which statement correctly describes ferredoxin?",
+        "options": [
+            "It is membrane bound",
+            "It carries electrons from PS I to NADP⁺",
+            "It pumps protons",
+            "It splits water"
+        ],
+        "answer": 1,
+        "explanation": "Ferredoxin transfers electrons from PS I to NADP⁺."
+    },
+    {
+        "id": 411,
+        "question": "Which condition favours non-cyclic photophosphorylation?",
+        "options": [
+            "High NADP⁺ availability",
+            "Low light intensity",
+            "Absence of water",
+            "Low oxygen"
+        ],
+        "answer": 0,
+        "explanation": "Availability of NADP⁺ favours non-cyclic photophosphorylation."
+    },
+    {
+        "id": 412,
+        "question": "Which condition shifts electron flow towards cyclic photophosphorylation?",
+        "options": [
+            "High NADP⁺",
+            "Low NADP⁺",
+            "High CO₂",
+            "Low temperature"
+        ],
+        "answer": 1,
+        "explanation": "Low NADP⁺ availability favours cyclic photophosphorylation."
+    },
+    {
+        "id": 413,
+        "question": "Which product is formed only during non-cyclic photophosphorylation?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "Oxygen",
+            "ATP and NADPH"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen is evolved only during non-cyclic photophosphorylation."
+    },
+    {
+        "id": 414,
+        "question": "Which statement about cyclic photophosphorylation is correct?",
+        "options": [
+            "It involves PS II",
+            "It produces NADPH",
+            "It produces ATP only",
+            "It releases oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Cyclic photophosphorylation produces ATP only."
+    },
+    {
+        "id": 415,
+        "question": "Which photosystem participates in both cyclic and non-cyclic photophosphorylation?",
+        "options": [
+            "Photosystem I",
+            "Photosystem II",
+            "Both PS I and PS II",
+            "Neither"
+        ],
+        "answer": 0,
+        "explanation": "Photosystem I participates in both pathways."
+    },
+    {
+        "id": 416,
+        "question": "Which step of Calvin cycle fixes CO₂?",
+        "options": [
+            "Reduction",
+            "Regeneration",
+            "Carboxylation",
+            "Photophosphorylation"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ fixation occurs during carboxylation step."
+    },
+    {
+        "id": 417,
+        "question": "Which molecule acts as CO₂ acceptor in C₃ plants?",
+        "options": [
+            "PEP",
+            "RuBP",
+            "OAA",
+            "Malate"
+        ],
+        "answer": 1,
+        "explanation": "RuBP acts as CO₂ acceptor in C₃ plants."
+    },
+    {
+        "id": 418,
+        "question": "Which enzyme catalyses the first step of Calvin cycle?",
+        "options": [
+            "PEP carboxylase",
+            "Rubisco",
+            "ATP synthase",
+            "NADP reductase"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco catalyses carboxylation step."
+    },
+    {
+        "id": 419,
+        "question": "Which compound is formed immediately after CO₂ fixation in C₃ cycle?",
+        "options": [
+            "G3P",
+            "PGA",
+            "RuBP",
+            "OAA"
+        ],
+        "answer": 1,
+        "explanation": "3-phosphoglyceric acid is formed after CO₂ fixation."
+    },
+    {
+        "id": 420,
+        "question": "Which step of Calvin cycle consumes NADPH?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "Reduction step consumes NADPH."
+    },
+    {
+        "id": 421,
+        "question": "Which molecule is regenerated at the end of Calvin cycle?",
+        "options": [
+            "PGA",
+            "G3P",
+            "RuBP",
+            "ATP"
+        ],
+        "answer": 2,
+        "explanation": "RuBP is regenerated to continue the cycle."
+    },
+    {
+        "id": 422,
+        "question": "Which phase of Calvin cycle consumes ATP but not NADPH?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Regeneration",
+            "Photolysis"
+        ],
+        "answer": 2,
+        "explanation": "Regeneration phase consumes ATP only."
+    },
+    {
+        "id": 423,
+        "question": "Which statement about Calvin cycle is correct?",
+        "options": [
+            "It occurs in thylakoid",
+            "It directly requires light",
+            "It is enzyme mediated",
+            "It produces ATP"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle reactions are enzyme mediated."
+    },
+    {
+        "id": 424,
+        "question": "How many CO₂ molecules must be fixed to synthesise one glucose molecule?",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "12"
+        ],
+        "answer": 2,
+        "explanation": "Six CO₂ molecules are required to form one glucose molecule."
+    },
+    {
+        "id": 425,
+        "question": "Which product of Calvin cycle is used to synthesise starch?",
+        "options": [
+            "RuBP",
+            "G3P",
+            "PGA",
+            "OAA"
+        ],
+        "answer": 1,
+        "explanation": "G3P is used for starch synthesis."
+    },
+    {
+        "id": 426,
+        "question": "Which factor increases rate of Calvin cycle reactions?",
+        "options": [
+            "High oxygen",
+            "High CO₂",
+            "Low ATP",
+            "Low NADPH"
+        ],
+        "answer": 1,
+        "explanation": "High CO₂ concentration increases Calvin cycle rate."
+    },
+    {
+        "id": 427,
+        "question": "Which factor limits Calvin cycle during winter?",
+        "options": [
+            "Light",
+            "Temperature",
+            "CO₂",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Low temperature limits enzyme activity."
+    },
+    {
+        "id": 428,
+        "question": "Which pathway reduces photorespiration by concentrating CO₂?",
+        "options": [
+            "C₃ pathway",
+            "C₄ pathway",
+            "CAM pathway",
+            "Glycolysis"
+        ],
+        "answer": 1,
+        "explanation": "C₄ pathway concentrates CO₂ near Rubisco."
+    },
+    {
+        "id": 429,
+        "question": "Which enzyme fixes CO₂ initially in C₄ plants?",
+        "options": [
+            "Rubisco",
+            "PEP carboxylase",
+            "Malic enzyme",
+            "ATP synthase"
+        ],
+        "answer": 1,
+        "explanation": "PEP carboxylase fixes CO₂ initially in C₄ plants."
+    },
+    {
+        "id": 430,
+        "question": "Which compound is first stable product of C₄ pathway?",
+        "options": [
+            "PGA",
+            "OAA",
+            "Malate",
+            "RuBP"
+        ],
+        "answer": 1,
+        "explanation": "Oxaloacetic acid is first stable product."
+    },
+    {
+        "id": 431,
+        "question": "Which cells show Kranz anatomy?",
+        "options": [
+            "Mesophyll cells",
+            "Bundle sheath cells",
+            "Guard cells",
+            "Epidermal cells"
+        ],
+        "answer": 1,
+        "explanation": "Bundle sheath cells show Kranz anatomy."
+    },
+    {
+        "id": 432,
+        "question": "Which feature is characteristic of bundle sheath chloroplasts?",
+        "options": [
+            "Well-developed grana",
+            "No grana",
+            "Absence of stroma",
+            "Absence of DNA"
+        ],
+        "answer": 1,
+        "explanation": "Bundle sheath chloroplasts lack grana."
+    },
+    {
+        "id": 433,
+        "question": "Which step releases CO₂ in C₄ pathway?",
+        "options": [
+            "Carboxylation by PEP",
+            "Reduction of PGA",
+            "Decarboxylation of malate",
+            "Regeneration of RuBP"
+        ],
+        "answer": 2,
+        "explanation": "Malate decarboxylation releases CO₂."
+    },
+    {
+        "id": 434,
+        "question": "Which molecule returns to mesophyll cells after decarboxylation in C₄ plants?",
+        "options": [
+            "Malate",
+            "OAA",
+            "Pyruvate",
+            "PGA"
+        ],
+        "answer": 2,
+        "explanation": "Pyruvate returns to mesophyll cells."
+    },
+    {
+        "id": 435,
+        "question": "Which enzyme regenerates PEP in C₄ plants?",
+        "options": [
+            "Rubisco",
+            "PEP carboxylase",
+            "Pyruvate phosphate dikinase",
+            "Malic enzyme"
+        ],
+        "answer": 2,
+        "explanation": "PEP is regenerated by pyruvate phosphate dikinase."
+    },
+    {
+        "id": 436,
+        "question": "Which feature explains higher ATP requirement of C₄ pathway?",
+        "options": [
+            "Two CO₂ fixation steps",
+            "Absence of Calvin cycle",
+            "High photorespiration",
+            "Low enzyme efficiency"
+        ],
+        "answer": 0,
+        "explanation": "C₄ plants fix CO₂ twice, increasing ATP demand."
+    },
+    {
+        "id": 437,
+        "question": "Which plant shows temporal separation of CO₂ fixation?",
+        "options": [
+            "Maize",
+            "Wheat",
+            "Opuntia",
+            "Rice"
+        ],
+        "answer": 2,
+        "explanation": "Opuntia is a CAM plant showing temporal separation."
+    },
+    {
+        "id": 438,
+        "question": "Which statement is correct for CAM plants?",
+        "options": [
+            "CO₂ fixed during day",
+            "Stomata open during day",
+            "CO₂ fixed at night",
+            "Calvin cycle at night"
+        ],
+        "answer": 2,
+        "explanation": "CAM plants fix CO₂ at night."
+    },
+    {
+        "id": 439,
+        "question": "Which compound accumulates in vacuoles of CAM plants at night?",
+        "options": [
+            "OAA",
+            "Malate",
+            "PGA",
+            "G3P"
+        ],
+        "answer": 1,
+        "explanation": "Malate accumulates in vacuoles at night."
+    },
+    {
+        "id": 440,
+        "question": "Which advantage do CAM plants have?",
+        "options": [
+            "High growth rate",
+            "Reduced water loss",
+            "High photorespiration",
+            "Low ATP requirement"
+        ],
+        "answer": 1,
+        "explanation": "CAM plants reduce water loss."
+    },
+    {
+        "id": 441,
+        "question": "Which process is responsible for loss of fixed carbon?",
+        "options": [
+            "Calvin cycle",
+            "Photorespiration",
+            "Photolysis",
+            "Photophosphorylation"
+        ],
+        "answer": 1,
+        "explanation": "Photorespiration causes loss of fixed carbon."
+    },
+    {
+        "id": 442,
+        "question": "Which enzyme initiates photorespiration?",
+        "options": [
+            "PEP carboxylase",
+            "Rubisco",
+            "ATP synthase",
+            "Malic enzyme"
+        ],
+        "answer": 1,
+        "explanation": "Rubisco initiates photorespiration by oxygenase activity."
+    },
+    {
+        "id": 443,
+        "question": "Which compound is formed when RuBP reacts with oxygen?",
+        "options": [
+            "Two PGA",
+            "One PGA and one phosphoglycolate",
+            "Two phosphoglycolate",
+            "One G3P"
+        ],
+        "answer": 1,
+        "explanation": "One PGA and one phosphoglycolate are formed."
+    },
+    {
+        "id": 444,
+        "question": "Which organelle is NOT involved in photorespiration?",
+        "options": [
+            "Chloroplast",
+            "Peroxisome",
+            "Mitochondria",
+            "Ribosome"
+        ],
+        "answer": 3,
+        "explanation": "Ribosome is not involved in photorespiration."
+    },
+    {
+        "id": 445,
+        "question": "Which gas is released during photorespiration?",
+        "options": [
+            "O₂",
+            "CO₂",
+            "H₂",
+            "N₂"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is released during photorespiration."
+    },
+    {
+        "id": 446,
+        "question": "Which condition favours photorespiration?",
+        "options": [
+            "High CO₂",
+            "Low oxygen",
+            "High temperature",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "High temperature favours photorespiration."
+    },
+    {
+        "id": 447,
+        "question": "Which factor reduces photorespiration in C₄ plants?",
+        "options": [
+            "High oxygen",
+            "Low CO₂",
+            "High CO₂ near Rubisco",
+            "Low ATP"
+        ],
+        "answer": 2,
+        "explanation": "High CO₂ near Rubisco suppresses photorespiration."
+    },
+    {
+        "id": 448,
+        "question": "Which process consumes ATP without producing sugar?",
+        "options": [
+            "Calvin cycle",
+            "Photorespiration",
+            "Photolysis",
+            "Electron transport"
+        ],
+        "answer": 1,
+        "explanation": "Photorespiration consumes ATP without sugar production."
+    },
+    {
+        "id": 449,
+        "question": "Which statement about photorespiration is correct?",
+        "options": [
+            "It occurs only in dark",
+            "It increases photosynthetic efficiency",
+            "It decreases net photosynthesis",
+            "It produces ATP"
+        ],
+        "answer": 2,
+        "explanation": "Photorespiration decreases net photosynthesis."
+    },
+    {
+        "id": 450,
+        "question": "Which plant group shows minimum photorespiration?",
+        "options": [
+            "C₃ plants",
+            "C₄ plants",
+            "CAM plants",
+            "Aquatic plants"
+        ],
+        "answer": 1,
+        "explanation": "C₄ plants show minimum photorespiration."
+    },
+    {
+        "id": 451,
+        "question": "Which factor limits photosynthesis at very low light intensity?",
+        "options": [
+            "CO₂",
+            "Temperature",
+            "Light",
+            "Oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Light limits photosynthesis at low intensity."
+    },
+    {
+        "id": 452,
+        "question": "Which law explains limiting factors of photosynthesis?",
+        "options": [
+            "Liebig’s law",
+            "Blackman’s law",
+            "Mendel’s law",
+            "Van Niel’s law"
+        ],
+        "answer": 1,
+        "explanation": "Blackman’s law explains limiting factors."
+    },
+    {
+        "id": 453,
+        "question": "According to Blackman, rate of photosynthesis depends on",
+        "options": [
+            "Maximum factor",
+            "Average factor",
+            "Minimum factor",
+            "All factors equally"
+        ],
+        "answer": 2,
+        "explanation": "Rate depends on the factor present in minimum."
+    },
+    {
+        "id": 454,
+        "question": "Which condition leads to photoinhibition?",
+        "options": [
+            "Low light",
+            "High light",
+            "Low temperature",
+            "High CO₂"
+        ],
+        "answer": 1,
+        "explanation": "High light causes photoinhibition."
+    },
+    {
+        "id": 455,
+        "question": "Which statement correctly describes photoinhibition?",
+        "options": [
+            "Decrease due to enzyme inactivity",
+            "Damage to photosystems",
+            "Increase in respiration",
+            "Stomatal closure"
+        ],
+        "answer": 1,
+        "explanation": "Photoinhibition damages photosystems."
+    },
+    {
+        "id": 456,
+        "question": "Which wavelength is least effective in photosynthesis?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Violet"
+        ],
+        "answer": 2,
+        "explanation": "Green light is least effective."
+    },
+    {
+        "id": 457,
+        "question": "Which pigment reflects green light?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a reflects green light."
+    },
+    {
+        "id": 458,
+        "question": "Which pigment protects chlorophyll from photooxidation?",
+        "options": [
+            "Chlorophyll b",
+            "Carotenoids",
+            "Anthocyanin",
+            "Phaeophytin"
+        ],
+        "answer": 1,
+        "explanation": "Carotenoids protect chlorophyll."
+    },
+    {
+        "id": 459,
+        "question": "Which pigment is fat soluble?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Anthocyanin",
+            "Phycobilin"
+        ],
+        "answer": 1,
+        "explanation": "Carotene is fat soluble."
+    },
+    {
+        "id": 460,
+        "question": "Which pigment is water soluble?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Anthocyanin",
+            "Xanthophyll"
+        ],
+        "answer": 2,
+        "explanation": "Anthocyanin is water soluble."
+    },
+    {
+        "id": 461,
+        "question": "Which factor controls stomatal opening during photosynthesis?",
+        "options": [
+            "Light",
+            "CO₂ concentration",
+            "Water status",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All these factors control stomatal opening."
+    },
+    {
+        "id": 462,
+        "question": "Which condition causes stomatal closure even in light?",
+        "options": [
+            "High humidity",
+            "Adequate water",
+            "Water stress",
+            "Low CO₂"
+        ],
+        "answer": 2,
+        "explanation": "Water stress causes stomatal closure."
+    },
+    {
+        "id": 463,
+        "question": "Which factor indirectly affects photosynthesis by influencing transpiration?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Wind",
+            "Oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Wind affects transpiration and indirectly photosynthesis."
+    },
+    {
+        "id": 464,
+        "question": "Which gas concentration decreases inside leaf during active photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Water vapour"
+        ],
+        "answer": 2,
+        "explanation": "CO₂ concentration decreases during photosynthesis."
+    },
+    {
+        "id": 465,
+        "question": "Which structure controls gaseous exchange in leaf?",
+        "options": [
+            "Cuticle",
+            "Stomata",
+            "Veins",
+            "Mesophyll"
+        ],
+        "answer": 1,
+        "explanation": "Stomata control gaseous exchange."
+    },
+    {
+        "id": 466,
+        "question": "Which factor limits photosynthesis in cold regions?",
+        "options": [
+            "Light",
+            "Temperature",
+            "CO₂",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "Low temperature limits enzyme activity."
+    },
+    {
+        "id": 467,
+        "question": "Which factor becomes limiting when light and temperature are optimal?",
+        "options": [
+            "CO₂",
+            "Oxygen",
+            "Water",
+            "Wind"
+        ],
+        "answer": 0,
+        "explanation": "CO₂ becomes limiting."
+    },
+    {
+        "id": 468,
+        "question": "Which condition increases solubility of CO₂?",
+        "options": [
+            "High temperature",
+            "Low temperature",
+            "High oxygen",
+            "Low humidity"
+        ],
+        "answer": 1,
+        "explanation": "Low temperature increases CO₂ solubility."
+    },
+    {
+        "id": 469,
+        "question": "Which factor determines quantum yield of photosynthesis?",
+        "options": [
+            "Light quality",
+            "CO₂ concentration",
+            "Temperature",
+            "Humidity"
+        ],
+        "answer": 0,
+        "explanation": "Quantum yield depends on light quality."
+    },
+    {
+        "id": 470,
+        "question": "Which colour light shows highest quantum efficiency?",
+        "options": [
+            "Blue",
+            "Green",
+            "Red",
+            "Yellow"
+        ],
+        "answer": 2,
+        "explanation": "Red light shows highest quantum efficiency."
+    },
+    {
+        "id": 471,
+        "question": "Which experiment demonstrated action spectrum of photosynthesis?",
+        "options": [
+            "Hill",
+            "Blackman",
+            "Engelmann",
+            "Calvin"
+        ],
+        "answer": 2,
+        "explanation": "Engelmann demonstrated action spectrum."
+    },
+    {
+        "id": 472,
+        "question": "Which experiment proved oxygen comes from water?",
+        "options": [
+            "Blackman",
+            "Hill",
+            "Engelmann",
+            "Van Niel"
+        ],
+        "answer": 1,
+        "explanation": "Hill reaction proved oxygen comes from water."
+    },
+    {
+        "id": 473,
+        "question": "Which scientist proposed general equation of photosynthesis?",
+        "options": [
+            "Blackman",
+            "Priestley",
+            "Ingenhousz",
+            "Van Niel"
+        ],
+        "answer": 3,
+        "explanation": "Van Niel proposed general equation."
+    },
+    {
+        "id": 474,
+        "question": "Which factor explains midday depression of photosynthesis?",
+        "options": [
+            "Low light",
+            "High humidity",
+            "High temperature and water stress",
+            "High CO₂"
+        ],
+        "answer": 2,
+        "explanation": "High temperature and water stress cause midday depression."
+    },
+    {
+        "id": 475,
+        "question": "Which plant type has high light compensation point?",
+        "options": [
+            "Shade plants",
+            "Sun plants",
+            "Aquatic plants",
+            "CAM plants"
+        ],
+        "answer": 1,
+        "explanation": "Sun plants have high compensation point."
+    },
+    {
+        "id": 476,
+        "question": "Which statement about light compensation point is correct?",
+        "options": [
+            "Photosynthesis exceeds respiration",
+            "Respiration exceeds photosynthesis",
+            "Photosynthesis equals respiration",
+            "Photosynthesis stops"
+        ],
+        "answer": 2,
+        "explanation": "At compensation point, photosynthesis equals respiration."
+    },
+    {
+        "id": 477,
+        "question": "Which process synthesises starch in chloroplast?",
+        "options": [
+            "Polymerisation of G3P",
+            "Reduction of PGA",
+            "Carboxylation",
+            "Photolysis"
+        ],
+        "answer": 0,
+        "explanation": "Polymerisation of G3P forms starch."
+    },
+    {
+        "id": 478,
+        "question": "Which product of Calvin cycle is exported to cytosol for sucrose synthesis?",
+        "options": [
+            "PGA",
+            "RuBP",
+            "G3P",
+            "Starch"
+        ],
+        "answer": 2,
+        "explanation": "G3P is exported to cytosol."
+    },
+    {
+        "id": 479,
+        "question": "Which molecule links photosynthesis and respiration?",
+        "options": [
+            "ATP",
+            "G3P",
+            "CO₂",
+            "O₂"
+        ],
+        "answer": 1,
+        "explanation": "G3P links photosynthesis and respiration."
+    },
+    {
+        "id": 480,
+        "question": "Which statement best explains importance of photosynthesis?",
+        "options": [
+            "It consumes oxygen",
+            "It releases heat",
+            "It produces organic matter and oxygen",
+            "It occurs only in plants"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis produces organic matter and oxygen."
+    },
+    {
+        "id": 481,
+        "question": "Which factor has least direct effect on photosynthesis?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Temperature",
+            "Wind"
+        ],
+        "answer": 3,
+        "explanation": "Wind has least direct effect."
+    },
+    {
+        "id": 482,
+        "question": "Which process directly converts solar energy into chemical energy?",
+        "options": [
+            "Photolysis",
+            "Electron excitation",
+            "Calvin cycle",
+            "Starch synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Electron excitation converts solar energy."
+    },
+    {
+        "id": 483,
+        "question": "Which step of photosynthesis is irreversible?",
+        "options": [
+            "Carboxylation",
+            "Reduction",
+            "Photolysis",
+            "Regeneration"
+        ],
+        "answer": 2,
+        "explanation": "Photolysis is irreversible."
+    },
+    {
+        "id": 484,
+        "question": "Which molecule acts as final electron acceptor in light reaction?",
+        "options": [
+            "Oxygen",
+            "CO₂",
+            "NADP⁺",
+            "ATP"
+        ],
+        "answer": 2,
+        "explanation": "NADP⁺ is final electron acceptor."
+    },
+    {
+        "id": 485,
+        "question": "Which molecule provides reducing power for CO₂ fixation?",
+        "options": [
+            "ATP",
+            "NADPH",
+            "ADP",
+            "NADP⁺"
+        ],
+        "answer": 1,
+        "explanation": "NADPH provides reducing power."
+    },
+    {
+        "id": 486,
+        "question": "Which factor increases photosynthetic efficiency?",
+        "options": [
+            "High photorespiration",
+            "Low CO₂",
+            "Reduced photorespiration",
+            "Low light"
+        ],
+        "answer": 2,
+        "explanation": "Reduced photorespiration increases efficiency."
+    },
+    {
+        "id": 487,
+        "question": "Which statement about photosynthesis is incorrect?",
+        "options": [
+            "It is anabolic",
+            "It stores energy",
+            "It releases energy",
+            "It requires enzymes"
+        ],
+        "answer": 2,
+        "explanation": "Photosynthesis stores energy."
+    },
+    {
+        "id": 488,
+        "question": "Which condition favours Calvin cycle activity?",
+        "options": [
+            "High ATP and NADPH",
+            "High oxygen",
+            "Low CO₂",
+            "Low temperature"
+        ],
+        "answer": 0,
+        "explanation": "Calvin cycle requires ATP and NADPH."
+    },
+    {
+        "id": 489,
+        "question": "Which process consumes maximum ATP in photosynthesis?",
+        "options": [
+            "Light reaction",
+            "Calvin cycle",
+            "Photolysis",
+            "Electron transport"
+        ],
+        "answer": 1,
+        "explanation": "Calvin cycle consumes ATP."
+    },
+    {
+        "id": 490,
+        "question": "Which factor limits photosynthesis during drought?",
+        "options": [
+            "Light",
+            "CO₂",
+            "Water",
+            "Temperature"
+        ],
+        "answer": 2,
+        "explanation": "Water stress limits photosynthesis."
+    },
+    {
+        "id": 491,
+        "question": "Which statement correctly summarises C₄ plants?",
+        "options": [
+            "High photorespiration",
+            "Low ATP requirement",
+            "Spatial separation of steps",
+            "Absence of Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "C₄ plants show spatial separation of steps."
+    },
+    {
+        "id": 492,
+        "question": "Which condition explains high productivity of C₄ plants in tropics?",
+        "options": [
+            "Low light requirement",
+            "Reduced photorespiration",
+            "High oxygen",
+            "Low CO₂"
+        ],
+        "answer": 1,
+        "explanation": "Reduced photorespiration increases productivity."
+    },
+    {
+        "id": 493,
+        "question": "Which process occurs in all photosynthetic plants?",
+        "options": [
+            "C₄ pathway",
+            "CAM pathway",
+            "Calvin cycle",
+            "Kranz anatomy"
+        ],
+        "answer": 2,
+        "explanation": "Calvin cycle occurs in all."
+    },
+    {
+        "id": 494,
+        "question": "Which statement about photosynthesis location is correct?",
+        "options": [
+            "Occurs in mitochondria",
+            "Occurs in chloroplast",
+            "Occurs in cytosol",
+            "Occurs in nucleus"
+        ],
+        "answer": 1,
+        "explanation": "Photosynthesis occurs in chloroplast."
+    },
+    {
+        "id": 495,
+        "question": "Which part of plant mainly performs photosynthesis?",
+        "options": [
+            "Root",
+            "Stem",
+            "Green leaves",
+            "Flowers"
+        ],
+        "answer": 2,
+        "explanation": "Green leaves mainly perform photosynthesis."
+    },
+    {
+        "id": 496,
+        "question": "Which statement best defines photosynthesis?",
+        "options": [
+            "Oxidation of glucose",
+            "Reduction of CO₂ using light energy",
+            "Conversion of ATP to glucose",
+            "Respiration in light"
+        ],
+        "answer": 1,
+        "explanation": "Photosynthesis is reduction of CO₂ using light energy."
+    },
+    {
+        "id": 497,
+        "question": "Which compound is reduced during photosynthesis?",
+        "options": [
+            "O₂",
+            "CO₂",
+            "H₂O",
+            "ATP"
+        ],
+        "answer": 1,
+        "explanation": "CO₂ is reduced to carbohydrate."
+    },
+    {
+        "id": 498,
+        "question": "Which compound is oxidised during photosynthesis?",
+        "options": [
+            "CO₂",
+            "O₂",
+            "H₂O",
+            "Glucose"
+        ],
+        "answer": 2,
+        "explanation": "Water is oxidised during photolysis."
+    },
+    {
+        "id": 499,
+        "question": "Which statement best summarises light reaction?",
+        "options": [
+            "CO₂ fixation",
+            "ATP and NADPH formation",
+            "Glucose synthesis",
+            "RuBP regeneration"
+        ],
+        "answer": 1,
+        "explanation": "Light reaction produces ATP and NADPH."
+    },
+    {
+        "id": 500,
+        "question": "Which statement best summarises photosynthesis in higher plants?",
+        "options": [
+            "Only light reaction occurs",
+            "Only dark reaction occurs",
+            "Light reactions supply ATP and NADPH for CO₂ fixation",
+            "CO₂ fixation occurs in thylakoid"
+        ],
+        "answer": 2,
+        "explanation": "ATP and NADPH from light reactions are used for CO₂ fixation."
+    }
+]

@@ -1,4 +1,4 @@
-// src/Auth.jsx
+﻿// src/Auth.jsx
 import { useState } from "react";
 import { auth } from "./firebase";
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut } from "firebase/auth";
@@ -62,3 +62,4 @@ export default function Auth({ onUserChange }) {
     </div>
   );
 }
+

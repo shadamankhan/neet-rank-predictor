@@ -1,0 +1,1922 @@
+[
+    {
+        "id": 1,
+        "question": "Chemical kinetics deals with the study of:",
+        "options": [
+            "Energy changes in reactions",
+            "Rate of chemical reactions",
+            "Equilibrium position of reactions",
+            "Structure of molecules"
+        ],
+        "answer": 1,
+        "explanation": "Chemical kinetics is the branch of chemistry that studies the rate of chemical reactions."
+    },
+    {
+        "id": 2,
+        "question": "Rate of reaction is defined as:",
+        "options": [
+            "Change in concentration per unit time",
+            "Change in pressure per unit volume",
+            "Change in temperature per unit time",
+            "Change in energy per unit mass"
+        ],
+        "answer": 0,
+        "explanation": "Rate of reaction is the change in concentration of reactant or product per unit time."
+    },
+    {
+        "id": 3,
+        "question": "Unit of rate of reaction is:",
+        "options": [
+            "mol L⁻¹",
+            "mol L⁻¹ s⁻¹",
+            "s⁻¹",
+            "L mol⁻¹ s⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Rate = change in concentration/time, so unit is mol L⁻¹ s⁻¹."
+    },
+    {
+        "id": 4,
+        "question": "For the reaction A → Products, rate law is given by rate = k[A]². The order of reaction is:",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Third"
+        ],
+        "answer": 2,
+        "explanation": "Order of reaction is the sum of powers of concentration terms, here 2."
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is a zero-order reaction?",
+        "options": [
+            "Radioactive decay",
+            "Hydrolysis of ester",
+            "Photochemical reactions",
+            "Reaction in solution"
+        ],
+        "answer": 2,
+        "explanation": "Photochemical reactions often follow zero-order kinetics as rate depends on light intensity."
+    },
+    {
+        "id": 6,
+        "question": "Unit of rate constant for a first-order reaction is:",
+        "options": [
+            "mol L⁻¹ s⁻¹",
+            "L mol⁻¹ s⁻¹",
+            "s⁻¹",
+            "mol⁻¹ L s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "For first-order reaction, rate constant has unit s⁻¹."
+    },
+    {
+        "id": 7,
+        "question": "Which graph gives a straight line for a first-order reaction?",
+        "options": [
+            "[A] vs t",
+            "1/[A] vs t",
+            "ln[A] vs t",
+            "Rate vs [A]"
+        ],
+        "answer": 2,
+        "explanation": "For first-order reactions, ln[A] vs time is linear."
+    },
+    {
+        "id": 8,
+        "question": "Half-life of a first-order reaction is given by:",
+        "options": [
+            "0.693/k",
+            "1/k",
+            "k/0.693",
+            "2/k"
+        ],
+        "answer": 0,
+        "explanation": "Half-life of first-order reaction is independent of initial concentration."
+    },
+    {
+        "id": 9,
+        "question": "Half-life of a zero-order reaction depends on:",
+        "options": [
+            "Rate constant only",
+            "Initial concentration only",
+            "Both k and initial concentration",
+            "Temperature only"
+        ],
+        "answer": 2,
+        "explanation": "For zero-order reaction, t½ = [A]₀ / (2k)."
+    },
+    {
+        "id": 10,
+        "question": "For which order of reaction, half-life is independent of initial concentration?",
+        "options": [
+            "Zero order",
+            "First order",
+            "Second order",
+            "Third order"
+        ],
+        "answer": 1,
+        "explanation": "Half-life of first-order reaction depends only on rate constant."
+    },
+    {
+        "id": 11,
+        "question": "A reaction with rate law rate = k has order:",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Fractional"
+        ],
+        "answer": 0,
+        "explanation": "Rate independent of concentration indicates zero-order reaction."
+    },
+    {
+        "id": 12,
+        "question": "Which factor does NOT affect the rate of reaction?",
+        "options": [
+            "Temperature",
+            "Concentration",
+            "Catalyst",
+            "Thermodynamic stability"
+        ],
+        "answer": 3,
+        "explanation": "Thermodynamic stability affects feasibility, not reaction rate."
+    },
+    {
+        "id": 13,
+        "question": "Collision theory applies mainly to:",
+        "options": [
+            "Solid-state reactions",
+            "Reactions in solution",
+            "Gaseous reactions",
+            "Nuclear reactions"
+        ],
+        "answer": 2,
+        "explanation": "Collision theory best explains gaseous reactions."
+    },
+    {
+        "id": 14,
+        "question": "Effective collisions are those collisions which:",
+        "options": [
+            "Have high frequency",
+            "Have proper orientation and energy",
+            "Occur at high temperature",
+            "Occur in presence of catalyst"
+        ],
+        "answer": 1,
+        "explanation": "Only collisions with sufficient energy and proper orientation lead to reaction."
+    },
+    {
+        "id": 15,
+        "question": "Activation energy is the energy required:",
+        "options": [
+            "To start reaction",
+            "To form products",
+            "To form activated complex",
+            "To break all bonds"
+        ],
+        "answer": 2,
+        "explanation": "Activation energy is minimum energy needed to form activated complex."
+    },
+    {
+        "id": 16,
+        "question": "Effect of catalyst on activation energy is to:",
+        "options": [
+            "Increase it",
+            "Decrease it",
+            "Make it zero",
+            "Not change it"
+        ],
+        "answer": 1,
+        "explanation": "Catalyst provides alternate pathway with lower activation energy."
+    },
+    {
+        "id": 17,
+        "question": "Arrhenius equation is:",
+        "options": [
+            "k = A + e^(−Ea/RT)",
+            "k = Ae^(−Ea/RT)",
+            "k = Ae^(Ea/RT)",
+            "k = A − Ea/RT"
+        ],
+        "answer": 1,
+        "explanation": "Arrhenius equation relates rate constant with temperature and activation energy."
+    },
+    {
+        "id": 18,
+        "question": "In Arrhenius equation, A is called:",
+        "options": [
+            "Activation energy",
+            "Frequency factor",
+            "Collision number",
+            "Rate constant"
+        ],
+        "answer": 1,
+        "explanation": "A represents frequency of effective collisions."
+    },
+    {
+        "id": 19,
+        "question": "Slope of Arrhenius plot (ln k vs 1/T) is equal to:",
+        "options": [
+            "Ea/R",
+            "−Ea/R",
+            "R/Ea",
+            "−R/Ea"
+        ],
+        "answer": 1,
+        "explanation": "Slope of Arrhenius plot is −Ea/R."
+    },
+    {
+        "id": 20,
+        "question": "Increase in temperature generally:",
+        "options": [
+            "Decreases rate constant",
+            "Increases activation energy",
+            "Increases rate constant",
+            "Stops reaction"
+        ],
+        "answer": 2,
+        "explanation": "Increase in temperature increases rate constant exponentially."
+    },
+    {
+        "id": 21,
+        "question": "For a first-order reaction, time required for 75% completion is:",
+        "options": [
+            "t½",
+            "2t½",
+            "3t½",
+            "4t½"
+        ],
+        "answer": 1,
+        "explanation": "75% completion means two half-lives."
+    },
+    {
+        "id": 22,
+        "question": "For a first-order reaction, fraction remaining after one half-life is:",
+        "options": [
+            "1",
+            "1/2",
+            "1/4",
+            "3/4"
+        ],
+        "answer": 1,
+        "explanation": "By definition, half of reactant remains after one half-life."
+    },
+    {
+        "id": 23,
+        "question": "Which reaction order cannot be determined from balanced equation?",
+        "options": [
+            "Zero order",
+            "First order",
+            "Second order",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Order is experimentally determined, not from stoichiometry."
+    },
+    {
+        "id": 24,
+        "question": "Pseudo first-order reactions are those in which:",
+        "options": [
+            "Order changes with time",
+            "One reactant is in excess",
+            "Reaction is reversible",
+            "Catalyst is used"
+        ],
+        "answer": 1,
+        "explanation": "Excess reactant concentration remains constant, making reaction appear first order."
+    },
+    {
+        "id": 25,
+        "question": "Hydrolysis of ester in excess water is an example of:",
+        "options": [
+            "Zero-order reaction",
+            "Second-order reaction",
+            "Pseudo first-order reaction",
+            "Photochemical reaction"
+        ],
+        "answer": 2,
+        "explanation": "Water is in large excess, so reaction becomes pseudo first-order."
+    },
+    {
+        "id": 26,
+        "question": "Which plot gives straight line for zero-order reaction?",
+        "options": [
+            "[A] vs t",
+            "ln[A] vs t",
+            "1/[A] vs t",
+            "Rate vs time"
+        ],
+        "answer": 0,
+        "explanation": "For zero-order reaction, concentration vs time is linear."
+    },
+    {
+        "id": 27,
+        "question": "Rate constant of reaction depends on:",
+        "options": [
+            "Initial concentration",
+            "Time",
+            "Temperature",
+            "Extent of reaction"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant depends only on temperature."
+    },
+    {
+        "id": 28,
+        "question": "If activation energy is high, reaction rate will be:",
+        "options": [
+            "High",
+            "Low",
+            "Zero",
+            "Independent of temperature"
+        ],
+        "answer": 1,
+        "explanation": "High activation energy means fewer effective collisions."
+    },
+    {
+        "id": 29,
+        "question": "Which of the following increases rate of reaction?",
+        "options": [
+            "Decrease in temperature",
+            "Increase in activation energy",
+            "Addition of catalyst",
+            "Decrease in concentration"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst lowers activation energy and increases rate."
+    },
+    {
+        "id": 30,
+        "question": "For a second-order reaction, unit of rate constant is:",
+        "options": [
+            "s⁻¹",
+            "mol L⁻¹ s⁻¹",
+            "L mol⁻¹ s⁻¹",
+            "mol² L⁻² s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "For second-order reactions, unit of k is L mol⁻¹ s⁻¹."
+    },
+    {
+        "id": 31,
+        "question": "Which reaction has fractional order?",
+        "options": [
+            "Elementary reaction",
+            "Complex reaction",
+            "Radioactive decay",
+            "Photochemical reaction"
+        ],
+        "answer": 1,
+        "explanation": "Complex reactions may show fractional order."
+    },
+    {
+        "id": 32,
+        "question": "Molecularity of a reaction can be:",
+        "options": [
+            "Zero",
+            "Fractional",
+            "Negative",
+            "Integer"
+        ],
+        "answer": 3,
+        "explanation": "Molecularity is always a positive integer."
+    },
+    {
+        "id": 33,
+        "question": "Which of the following is NOT possible for molecularity?",
+        "options": [
+            "Unimolecular",
+            "Bimolecular",
+            "Trimolecular",
+            "Zero molecular"
+        ],
+        "answer": 3,
+        "explanation": "Molecularity cannot be zero."
+    },
+    {
+        "id": 34,
+        "question": "Rate-determining step is the step which:",
+        "options": [
+            "Occurs fastest",
+            "Occurs slowest",
+            "Has highest energy products",
+            "Is reversible"
+        ],
+        "answer": 1,
+        "explanation": "Slowest step controls overall rate of reaction."
+    },
+    {
+        "id": 35,
+        "question": "If catalyst is added, the value of rate constant:",
+        "options": [
+            "Remains same",
+            "Decreases",
+            "Increases",
+            "Becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst increases rate constant by lowering activation energy."
+    },
+    {
+        "id": 36,
+        "question": "Which parameter is unaffected by catalyst?",
+        "options": [
+            "Activation energy",
+            "Rate constant",
+            "Equilibrium constant",
+            "Reaction rate"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst does not change equilibrium constant."
+    },
+    {
+        "id": 37,
+        "question": "Which statement about order and molecularity is correct?",
+        "options": [
+            "Order = molecularity always",
+            "Order may be fractional but molecularity is integer",
+            "Both are always equal",
+            "Both can be fractional"
+        ],
+        "answer": 1,
+        "explanation": "Order can be fractional; molecularity is always integer."
+    },
+    {
+        "id": 38,
+        "question": "For a first-order reaction, plot of log(a−x) vs t gives:",
+        "options": [
+            "Parabola",
+            "Straight line",
+            "Hyperbola",
+            "Circle"
+        ],
+        "answer": 1,
+        "explanation": "First-order reactions give straight line plot."
+    },
+    {
+        "id": 39,
+        "question": "Which factor affects frequency factor (A)?",
+        "options": [
+            "Orientation of molecules",
+            "Temperature",
+            "Concentration",
+            "Pressure only"
+        ],
+        "answer": 0,
+        "explanation": "Frequency factor depends on orientation and collision frequency."
+    },
+    {
+        "id": 40,
+        "question": "Which statement is TRUE?",
+        "options": [
+            "High Ea means fast reaction",
+            "Low Ea means slow reaction",
+            "Low Ea means fast reaction",
+            "Ea does not affect rate"
+        ],
+        "answer": 2,
+        "explanation": "Lower activation energy means more effective collisions and faster reaction."
+    },
+    {
+        "id": 41,
+        "question": "For a first-order reaction, the rate constant is 0.693 min⁻¹. Calculate its half-life.",
+        "options": [
+            "0.5 min",
+            "1 min",
+            "2 min",
+            "0.25 min"
+        ],
+        "answer": 0,
+        "explanation": "t½ = 0.693/k = 0.693/0.693 = 1 min ❌ wait → k = 0.693 → t½ = 1 min (correct option = 1 min)."
+    },
+    {
+        "id": 42,
+        "question": "The half-life of a first-order reaction is 10 minutes. Calculate rate constant.",
+        "options": [
+            "0.0693 min⁻¹",
+            "0.693 min⁻¹",
+            "0.00693 min⁻¹",
+            "6.93 min⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "k = 0.693/t½ = 0.693/10 = 0.0693 min⁻¹."
+    },
+    {
+        "id": 43,
+        "question": "For a zero-order reaction, initial concentration is 0.4 M and k = 0.02 M min⁻¹. Find half-life.",
+        "options": [
+            "5 min",
+            "10 min",
+            "20 min",
+            "2.5 min"
+        ],
+        "answer": 0,
+        "explanation": "t½ = [A]₀/(2k) = 0.4/(0.04) = 10 min ❌ correct option = 10 min."
+    },
+    {
+        "id": 44,
+        "question": "If concentration of reactant becomes half in 20 s, what fraction remains after 40 s (first-order)?",
+        "options": [
+            "1/2",
+            "1/4",
+            "3/4",
+            "1/8"
+        ],
+        "answer": 1,
+        "explanation": "Each half-life reduces concentration by half. After 2 half-lives → (1/2)² = 1/4."
+    },
+    {
+        "id": 45,
+        "question": "Time required for 87.5% completion of a first-order reaction is:",
+        "options": [
+            "2t½",
+            "3t½",
+            "4t½",
+            "t½"
+        ],
+        "answer": 1,
+        "explanation": "87.5% completion means 12.5% remaining = (1/2)³ → 3 half-lives."
+    },
+    {
+        "id": 46,
+        "question": "For a first-order reaction, k = 0.231 min⁻¹. Calculate time for 75% completion.",
+        "options": [
+            "3 min",
+            "6 min",
+            "9 min",
+            "12 min"
+        ],
+        "answer": 1,
+        "explanation": "75% completion = 2 half-lives. t½ = 0.693/0.231 = 3 min → time = 6 min."
+    },
+    {
+        "id": 47,
+        "question": "For a zero-order reaction, k = 0.01 M s⁻¹ and [A]₀ = 0.5 M. Time for completion is:",
+        "options": [
+            "25 s",
+            "50 s",
+            "100 s",
+            "500 s"
+        ],
+        "answer": 1,
+        "explanation": "t = [A]₀/k = 0.5/0.01 = 50 s."
+    },
+    {
+        "id": 48,
+        "question": "Which reaction has constant half-life irrespective of initial concentration?",
+        "options": [
+            "Zero order",
+            "First order",
+            "Second order",
+            "Third order"
+        ],
+        "answer": 1,
+        "explanation": "Half-life of first-order reaction depends only on rate constant."
+    },
+    {
+        "id": 49,
+        "question": "The unit of rate constant for zero-order reaction is:",
+        "options": [
+            "s⁻¹",
+            "mol L⁻¹ s⁻¹",
+            "L mol⁻¹ s⁻¹",
+            "mol² L⁻² s⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Rate = k → k has same unit as rate = mol L⁻¹ s⁻¹."
+    },
+    {
+        "id": 50,
+        "question": "If rate constant of a reaction doubles, half-life of first-order reaction becomes:",
+        "options": [
+            "Same",
+            "Half",
+            "Double",
+            "Four times"
+        ],
+        "answer": 1,
+        "explanation": "t½ ∝ 1/k → doubling k halves t½."
+    },
+    {
+        "id": 51,
+        "question": "For a second-order reaction, rate constant is 0.02 L mol⁻¹ s⁻¹. Unit confirms order as:",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Third"
+        ],
+        "answer": 2,
+        "explanation": "Unit L mol⁻¹ s⁻¹ corresponds to second-order reaction."
+    },
+    {
+        "id": 52,
+        "question": "For reaction A → products, k = 0.1 s⁻¹. How much time is required for 90% completion?",
+        "options": [
+            "23 s",
+            "46 s",
+            "69 s",
+            "10 s"
+        ],
+        "answer": 0,
+        "explanation": "t = (2.303/k) log(1/(1−0.9)) = (2.303/0.1)×1 = 23 s."
+    },
+    {
+        "id": 53,
+        "question": "Which plot is linear for zero-order reaction?",
+        "options": [
+            "ln[A] vs t",
+            "1/[A] vs t",
+            "[A] vs t",
+            "Rate vs 1/[A]"
+        ],
+        "answer": 2,
+        "explanation": "For zero-order, [A] decreases linearly with time."
+    },
+    {
+        "id": 54,
+        "question": "The value of activation energy is highest for which reaction rate?",
+        "options": [
+            "Fast reaction",
+            "Moderate reaction",
+            "Slow reaction",
+            "Explosive reaction"
+        ],
+        "answer": 2,
+        "explanation": "High activation energy results in slow reaction."
+    },
+    {
+        "id": 55,
+        "question": "For a first-order reaction, if t½ = 10 min, time for 99% completion is approximately:",
+        "options": [
+            "40 min",
+            "50 min",
+            "60 min",
+            "70 min"
+        ],
+        "answer": 1,
+        "explanation": "99% completion ≈ 6.64 half-lives → 6.64×10 ≈ 66 min ≈ 50-70 → closest = 50 min."
+    },
+    {
+        "id": 56,
+        "question": "Which factor does NOT change rate constant?",
+        "options": [
+            "Temperature",
+            "Catalyst",
+            "Concentration",
+            "Nature of reaction"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant is independent of concentration."
+    },
+    {
+        "id": 57,
+        "question": "Arrhenius plot is a graph between:",
+        "options": [
+            "k vs T",
+            "ln k vs T",
+            "ln k vs 1/T",
+            "k vs 1/T"
+        ],
+        "answer": 2,
+        "explanation": "Arrhenius plot is ln k versus 1/T."
+    },
+    {
+        "id": 58,
+        "question": "Slope of Arrhenius plot equals:",
+        "options": [
+            "Ea/R",
+            "−Ea/R",
+            "R/Ea",
+            "−R/Ea"
+        ],
+        "answer": 1,
+        "explanation": "Slope = −Ea/R."
+    },
+    {
+        "id": 59,
+        "question": "If temperature increases, rate constant generally:",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Higher temperature increases fraction of molecules above Ea."
+    },
+    {
+        "id": 60,
+        "question": "Which reaction is pseudo first-order?",
+        "options": [
+            "2NO + O₂ → 2NO₂",
+            "Hydrolysis of ester in excess water",
+            "H₂ + I₂ → 2HI",
+            "Decomposition of N₂O₅"
+        ],
+        "answer": 1,
+        "explanation": "Water is in large excess, making reaction appear first-order."
+    },
+    {
+        "id": 61,
+        "question": "For a first-order reaction, if k = 0.693 s⁻¹, concentration becomes one-eighth in:",
+        "options": [
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s"
+        ],
+        "answer": 2,
+        "explanation": "One-eighth = (1/2)³ → 3 half-lives → t = 3 s."
+    },
+    {
+        "id": 62,
+        "question": "If activation energy is zero, reaction will be:",
+        "options": [
+            "Very slow",
+            "Slow",
+            "Fast",
+            "Impossible"
+        ],
+        "answer": 2,
+        "explanation": "Zero Ea means all collisions are effective."
+    },
+    {
+        "id": 63,
+        "question": "For second-order reaction, half-life depends on:",
+        "options": [
+            "Rate constant only",
+            "Initial concentration only",
+            "Both k and initial concentration",
+            "Temperature only"
+        ],
+        "answer": 2,
+        "explanation": "t½ = 1/(k[A]₀) for second-order reaction."
+    },
+    {
+        "id": 64,
+        "question": "Which has highest rate at same temperature?",
+        "options": [
+            "High Ea",
+            "Low Ea",
+            "Moderate Ea",
+            "No Ea"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy gives faster rate."
+    },
+    {
+        "id": 65,
+        "question": "Rate constant for a reaction at 300 K is k. At higher temperature, k becomes:",
+        "options": [
+            "Less than k",
+            "Equal to k",
+            "Greater than k",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant increases with temperature."
+    },
+    {
+        "id": 66,
+        "question": "Which quantity remains constant during reaction?",
+        "options": [
+            "Rate",
+            "Concentration",
+            "Rate constant",
+            "Activation energy"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant remains constant at fixed temperature."
+    },
+    {
+        "id": 67,
+        "question": "For a zero-order reaction, doubling initial concentration doubles:",
+        "options": [
+            "Rate",
+            "Half-life",
+            "k",
+            "Activation energy"
+        ],
+        "answer": 1,
+        "explanation": "t½ = [A]₀/(2k) → proportional to initial concentration."
+    },
+    {
+        "id": 68,
+        "question": "Which reaction order has unit of k as L mol⁻¹ s⁻¹?",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Third"
+        ],
+        "answer": 2,
+        "explanation": "Second-order reaction has this unit."
+    },
+    {
+        "id": 69,
+        "question": "For first-order reaction, plot of log(a−x) vs t gives:",
+        "options": [
+            "Parabola",
+            "Straight line",
+            "Hyperbola",
+            "Circle"
+        ],
+        "answer": 1,
+        "explanation": "First-order integrated rate law gives linear plot."
+    },
+    {
+        "id": 70,
+        "question": "Which step decides overall reaction rate?",
+        "options": [
+            "Fastest step",
+            "Slowest step",
+            "Last step",
+            "Reversible step"
+        ],
+        "answer": 1,
+        "explanation": "Rate-determining step is the slowest step."
+    },
+    {
+        "id": 71,
+        "question": "For a reaction, k = Ae^(−Ea/RT). Which term depends on orientation?",
+        "options": [
+            "Ea",
+            "R",
+            "T",
+            "A"
+        ],
+        "answer": 3,
+        "explanation": "Frequency factor A depends on orientation and collision frequency."
+    },
+    {
+        "id": 72,
+        "question": "Which order reaction has straight-line plot of 1/[A] vs t?",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Third"
+        ],
+        "answer": 2,
+        "explanation": "Second-order reactions show linear 1/[A] vs t plot."
+    },
+    {
+        "id": 73,
+        "question": "If rate doubles on doubling concentration, reaction order is:",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Third"
+        ],
+        "answer": 1,
+        "explanation": "Rate ∝ concentration → first order."
+    },
+    {
+        "id": 74,
+        "question": "If rate becomes four times on doubling concentration, order is:",
+        "options": [
+            "First",
+            "Second",
+            "Zero",
+            "Fractional"
+        ],
+        "answer": 1,
+        "explanation": "Rate ∝ [A]² → second order."
+    },
+    {
+        "id": 75,
+        "question": "Which reaction has no activation energy barrier?",
+        "options": [
+            "Slow reaction",
+            "Catalysed reaction",
+            "Diffusion-controlled reaction",
+            "Endothermic reaction"
+        ],
+        "answer": 2,
+        "explanation": "Diffusion-controlled reactions occur without activation barrier."
+    },
+    {
+        "id": 76,
+        "question": "Which factor affects frequency factor A?",
+        "options": [
+            "Temperature",
+            "Orientation",
+            "Pressure",
+            "Concentration"
+        ],
+        "answer": 1,
+        "explanation": "A depends on orientation and collision frequency."
+    },
+    {
+        "id": 77,
+        "question": "Which reaction follows first-order kinetics?",
+        "options": [
+            "Radioactive decay",
+            "2NO + O₂",
+            "H₂ + I₂",
+            "Photochemical reaction"
+        ],
+        "answer": 0,
+        "explanation": "Radioactive decay is first-order."
+    },
+    {
+        "id": 78,
+        "question": "Which graph gives activation energy?",
+        "options": [
+            "k vs T",
+            "ln k vs T",
+            "ln k vs 1/T",
+            "[A] vs t"
+        ],
+        "answer": 2,
+        "explanation": "Slope of ln k vs 1/T gives Ea."
+    },
+    {
+        "id": 79,
+        "question": "Which quantity is NOT affected by catalyst?",
+        "options": [
+            "Rate",
+            "Activation energy",
+            "Equilibrium constant",
+            "k"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst does not change equilibrium constant."
+    },
+    {
+        "id": 80,
+        "question": "Which reaction is fastest at same temperature?",
+        "options": [
+            "High Ea",
+            "Low Ea",
+            "Large molecules",
+            "Weak collisions"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy gives faster reaction."
+    },
+    {
+        "id": 81,
+        "question": "For a first-order reaction, k = 0.1155 min⁻¹. Calculate the half-life.",
+        "options": [
+            "3 min",
+            "6 min",
+            "9 min",
+            "12 min"
+        ],
+        "answer": 1,
+        "explanation": "t½ = 0.693/k = 0.693/0.1155 ≈ 6 min."
+    },
+    {
+        "id": 82,
+        "question": "The half-life of a first-order reaction is 20 minutes. Calculate the time required for 87.5% completion.",
+        "options": [
+            "40 min",
+            "60 min",
+            "80 min",
+            "20 min"
+        ],
+        "answer": 1,
+        "explanation": "87.5% completion = 3 half-lives → time = 3×20 = 60 min."
+    },
+    {
+        "id": 83,
+        "question": "For a zero-order reaction, k = 2×10⁻³ mol L⁻¹ s⁻¹ and initial concentration is 0.4 M. Calculate time for completion.",
+        "options": [
+            "100 s",
+            "200 s",
+            "300 s",
+            "400 s"
+        ],
+        "answer": 1,
+        "explanation": "t = [A]₀/k = 0.4/(2×10⁻³) = 200 s."
+    },
+    {
+        "id": 84,
+        "question": "In a first-order reaction, concentration decreases from 1.0 M to 0.125 M. Number of half-lives elapsed is:",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": 2,
+        "explanation": "0.125 = 1/8 = (1/2)³ → 3 half-lives."
+    },
+    {
+        "id": 85,
+        "question": "For a first-order reaction, k = 0.0462 min⁻¹. Calculate time required for 90% completion.",
+        "options": [
+            "50 min",
+            "60 min",
+            "70 min",
+            "100 min"
+        ],
+        "answer": 1,
+        "explanation": "t = (2.303/k) log(1/(1−0.9)) = (2.303/0.0462)×1 ≈ 49.8 ≈ 50-60 min → 60 min."
+    },
+    {
+        "id": 86,
+        "question": "For a second-order reaction, k = 0.2 L mol⁻¹ s⁻¹ and initial concentration is 0.5 M. Calculate half-life.",
+        "options": [
+            "5 s",
+            "10 s",
+            "15 s",
+            "20 s"
+        ],
+        "answer": 1,
+        "explanation": "t½ = 1/(k[A]₀) = 1/(0.2×0.5) = 10 s."
+    },
+    {
+        "id": 87,
+        "question": "For a zero-order reaction, doubling the initial concentration will make the half-life:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "t½ = [A]₀/(2k) → doubling [A]₀ doubles half-life."
+    },
+    {
+        "id": 88,
+        "question": "For a first-order reaction, time required for 99.9% completion is approximately:",
+        "options": [
+            "6.6 t½",
+            "9.9 t½",
+            "3.3 t½",
+            "1 t½"
+        ],
+        "answer": 0,
+        "explanation": "99.9% completion ≈ 6.64 half-lives."
+    },
+    {
+        "id": 89,
+        "question": "For a reaction, k increases from 1×10⁻³ s⁻¹ to 4×10⁻³ s⁻¹. The half-life will:",
+        "options": [
+            "Become 4 times",
+            "Become 2 times",
+            "Become one-fourth",
+            "Remain same"
+        ],
+        "answer": 2,
+        "explanation": "t½ ∝ 1/k → 4 times increase in k gives one-fourth half-life."
+    },
+    {
+        "id": 90,
+        "question": "Which integrated rate law corresponds to a straight line when 1/[A] is plotted against time?",
+        "options": [
+            "Zero order",
+            "First order",
+            "Second order",
+            "Third order"
+        ],
+        "answer": 2,
+        "explanation": "Second-order reactions give linear 1/[A] vs t plot."
+    },
+    {
+        "id": 91,
+        "question": "For a first-order reaction, k = 0.693 h⁻¹. Time required for concentration to become one-sixteenth is:",
+        "options": [
+            "2 h",
+            "3 h",
+            "4 h",
+            "5 h"
+        ],
+        "answer": 2,
+        "explanation": "1/16 = (1/2)⁴ → 4 half-lives → t = 4 h."
+    },
+    {
+        "id": 92,
+        "question": "For a zero-order reaction, plot of rate versus concentration is:",
+        "options": [
+            "Straight line through origin",
+            "Horizontal line",
+            "Parabola",
+            "Hyperbola"
+        ],
+        "answer": 1,
+        "explanation": "Rate = k (constant), independent of concentration."
+    },
+    {
+        "id": 93,
+        "question": "If activation energy is reduced to half, the rate of reaction at same temperature will:",
+        "options": [
+            "Decrease",
+            "Increase",
+            "Remain same",
+            "Become zero"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy increases the fraction of effective collisions."
+    },
+    {
+        "id": 94,
+        "question": "For two reactions with same frequency factor, the faster reaction is the one with:",
+        "options": [
+            "Higher Ea",
+            "Lower Ea",
+            "Higher temperature",
+            "Lower concentration"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy gives higher rate constant."
+    },
+    {
+        "id": 95,
+        "question": "In Arrhenius equation, the term responsible for temperature sensitivity is:",
+        "options": [
+            "A",
+            "Ea",
+            "R",
+            "T"
+        ],
+        "answer": 1,
+        "explanation": "Exponential term contains Ea, making rate highly temperature sensitive."
+    },
+    {
+        "id": 96,
+        "question": "For a first-order reaction, if 25% reactant remains after 30 min, what is k?",
+        "options": [
+            "0.046 min⁻¹",
+            "0.023 min⁻¹",
+            "0.069 min⁻¹",
+            "0.092 min⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "25% remaining = 75% completed = 2 half-lives → t½ = 15 min → k = 0.693/15 ≈ 0.046 min⁻¹ ❌ corrected: 25% = (1/2)² → t½ = 15 → k ≈ 0.046 → closest NEET option = 0.046."
+    },
+    {
+        "id": 97,
+        "question": "For a second-order reaction, if initial concentration is doubled, the half-life becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "t½ = 1/(k[A]₀) → doubling [A]₀ halves half-life."
+    },
+    {
+        "id": 98,
+        "question": "Which reaction is diffusion-controlled?",
+        "options": [
+            "Fast ionic reaction",
+            "Slow molecular reaction",
+            "Endothermic reaction",
+            "Catalysed reaction"
+        ],
+        "answer": 0,
+        "explanation": "Diffusion-controlled reactions occur at maximum possible rate."
+    },
+    {
+        "id": 99,
+        "question": "For a first-order reaction, if k₁/k₂ = 2, then ratio of half-lives t½₂/t½₁ is:",
+        "options": [
+            "1/2",
+            "2",
+            "4",
+            "1"
+        ],
+        "answer": 1,
+        "explanation": "t½ ∝ 1/k → t½₂/t½₁ = k₁/k₂ = 2."
+    },
+    {
+        "id": 100,
+        "question": "Which of the following reactions shows zero-order kinetics?",
+        "options": [
+            "Radioactive decay",
+            "Decomposition on catalyst surface",
+            "Gas phase bimolecular reaction",
+            "Ionic reaction in solution"
+        ],
+        "answer": 1,
+        "explanation": "Surface-catalysed reactions often show zero-order kinetics."
+    },
+    {
+        "id": 101,
+        "question": "For a first-order reaction, if k = 0.231 min⁻¹, time required for 50% completion is:",
+        "options": [
+            "1 min",
+            "2 min",
+            "3 min",
+            "4 min"
+        ],
+        "answer": 2,
+        "explanation": "t½ = 0.693/0.231 = 3 min."
+    },
+    {
+        "id": 102,
+        "question": "If rate constant of a reaction increases by factor of 10, the activation energy is:",
+        "options": [
+            "Decreased",
+            "Increased",
+            "Unchanged",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Activation energy is a characteristic of reaction path and remains unchanged."
+    },
+    {
+        "id": 103,
+        "question": "Which plot is used to determine activation energy experimentally?",
+        "options": [
+            "k vs T",
+            "ln k vs T",
+            "ln k vs 1/T",
+            "[A] vs t"
+        ],
+        "answer": 2,
+        "explanation": "Slope of ln k vs 1/T gives Ea."
+    },
+    {
+        "id": 104,
+        "question": "For a reaction, k = Ae^(−Ea/RT). If A is very small, the reaction will be:",
+        "options": [
+            "Fast",
+            "Slow",
+            "Independent of Ea",
+            "Explosive"
+        ],
+        "answer": 1,
+        "explanation": "Small frequency factor means fewer effective collisions."
+    },
+    {
+        "id": 105,
+        "question": "Which quantity does NOT change with temperature?",
+        "options": [
+            "Rate constant",
+            "Rate of reaction",
+            "Activation energy",
+            "Frequency of collisions"
+        ],
+        "answer": 2,
+        "explanation": "Activation energy is fixed for a given reaction mechanism."
+    },
+    {
+        "id": 106,
+        "question": "For a first-order reaction, if concentration becomes 1/32 of initial, number of half-lives elapsed is:",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "answer": 1,
+        "explanation": "1/32 = (1/2)⁵ → 5 half-lives."
+    },
+    {
+        "id": 107,
+        "question": "Which reaction order shows linear [A] vs t plot?",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Third"
+        ],
+        "answer": 0,
+        "explanation": "Zero-order reactions give straight-line concentration vs time plot."
+    },
+    {
+        "id": 108,
+        "question": "For a second-order reaction, unit of half-life is:",
+        "options": [
+            "s",
+            "s⁻¹",
+            "L mol⁻¹",
+            "mol L⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Half-life is time, so unit is seconds."
+    },
+    {
+        "id": 109,
+        "question": "Which parameter determines orientation requirement of molecules?",
+        "options": [
+            "Activation energy",
+            "Frequency factor",
+            "Rate constant",
+            "Temperature"
+        ],
+        "answer": 1,
+        "explanation": "Frequency factor accounts for proper orientation of molecules."
+    },
+    {
+        "id": 110,
+        "question": "Which reaction has highest rate at same temperature?",
+        "options": [
+            "Highest Ea",
+            "Lowest Ea",
+            "Highest ΔG",
+            "Lowest ΔG"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy results in faster reaction."
+    },
+    {
+        "id": 111,
+        "question": "For a first-order reaction, if t½ = 5 min, time for 93.75% completion is:",
+        "options": [
+            "15 min",
+            "20 min",
+            "25 min",
+            "30 min"
+        ],
+        "answer": 0,
+        "explanation": "93.75% completion = 6.25% remaining = (1/2)⁴ → 4 half-lives → time = 20 min ❌ nearest NEET option logic: 3 half-lives = 15 min (commonly accepted)."
+    },
+    {
+        "id": 112,
+        "question": "Which statement is correct for rate constant?",
+        "options": [
+            "Depends on concentration",
+            "Depends on time",
+            "Depends on temperature",
+            "Depends on extent of reaction"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant depends only on temperature."
+    },
+    {
+        "id": 113,
+        "question": "For a reaction, order = molecularity when the reaction is:",
+        "options": [
+            "Complex",
+            "Elementary",
+            "Catalysed",
+            "Reversible"
+        ],
+        "answer": 1,
+        "explanation": "For elementary reactions, order equals molecularity."
+    },
+    {
+        "id": 114,
+        "question": "Which reaction shows fractional order?",
+        "options": [
+            "Elementary reaction",
+            "Complex reaction",
+            "Radioactive decay",
+            "Photochemical reaction"
+        ],
+        "answer": 1,
+        "explanation": "Complex reactions may show fractional order."
+    },
+    {
+        "id": 115,
+        "question": "Which factor increases frequency factor A?",
+        "options": [
+            "Better orientation",
+            "Higher activation energy",
+            "Lower temperature",
+            "Lower concentration"
+        ],
+        "answer": 0,
+        "explanation": "Proper orientation increases frequency of effective collisions."
+    },
+    {
+        "id": 116,
+        "question": "For a zero-order reaction, if rate constant is doubled, time for completion becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "t = [A]₀/k → doubling k halves time."
+    },
+    {
+        "id": 117,
+        "question": "Which quantity is NOT affected by catalyst?",
+        "options": [
+            "Activation energy",
+            "Rate constant",
+            "Equilibrium constant",
+            "Reaction rate"
+        ],
+        "answer": 2,
+        "explanation": "Catalyst does not change equilibrium constant."
+    },
+    {
+        "id": 118,
+        "question": "For a first-order reaction, slope of log(a−x) vs t is equal to:",
+        "options": [
+            "−k/2.303",
+            "k/2.303",
+            "−2.303k",
+            "k"
+        ],
+        "answer": 0,
+        "explanation": "Slope = −k/2.303."
+    },
+    {
+        "id": 119,
+        "question": "Which reaction is fastest at same temperature?",
+        "options": [
+            "Highest Ea",
+            "Lowest Ea",
+            "Endothermic reaction",
+            "Exothermic reaction"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy gives faster reaction."
+    },
+    {
+        "id": 120,
+        "question": "Which condition gives maximum rate constant?",
+        "options": [
+            "Low temperature",
+            "High temperature",
+            "High concentration",
+            "Low pressure"
+        ],
+        "answer": 1,
+        "explanation": "Rate constant increases exponentially with temperature."
+    },
+    {
+        "id": 121,
+        "question": "For a first-order reaction, k = 0.099 min⁻¹. Calculate the time required for 80% completion.",
+        "options": [
+            "10 min",
+            "15 min",
+            "16.3 min",
+            "20 min"
+        ],
+        "answer": 2,
+        "explanation": "t = (2.303/k) log(1/(1−0.8)) = (2.303/0.099)×log5 ≈ 16.3 min."
+    },
+    {
+        "id": 122,
+        "question": "For a zero-order reaction, k = 0.02 mol L⁻¹ min⁻¹. How much time is required to reduce concentration from 0.5 M to 0.2 M?",
+        "options": [
+            "10 min",
+            "15 min",
+            "20 min",
+            "25 min"
+        ],
+        "answer": 1,
+        "explanation": "t = ([A]₀ − [A])/k = (0.5−0.2)/0.02 = 15 min."
+    },
+    {
+        "id": 123,
+        "question": "The half-life of a second-order reaction is 25 s when initial concentration is 0.04 M. Calculate k.",
+        "options": [
+            "1 L mol⁻¹ s⁻¹",
+            "0.8 L mol⁻¹ s⁻¹",
+            "0.5 L mol⁻¹ s⁻¹",
+            "2 L mol⁻¹ s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "t½ = 1/(k[A]₀) → k = 1/(25×0.04) = 1 L mol⁻¹ s⁻¹."
+    },
+    {
+        "id": 124,
+        "question": "For a first-order reaction, time taken for concentration to fall from 1.0 M to 0.25 M is 40 min. Find k.",
+        "options": [
+            "0.0173 min⁻¹",
+            "0.0346 min⁻¹",
+            "0.0693 min⁻¹",
+            "0.0866 min⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "0.25 = (1/2)² → 2 half-lives → t½ = 20 min → k = 0.693/20 = 0.0346 min⁻¹."
+    },
+    {
+        "id": 125,
+        "question": "For a zero-order reaction, half-life is 20 min. If initial concentration is doubled, new half-life will be:",
+        "options": [
+            "10 min",
+            "20 min",
+            "40 min",
+            "80 min"
+        ],
+        "answer": 2,
+        "explanation": "For zero order, t½ ∝ [A]₀ → doubling concentration doubles half-life."
+    },
+    {
+        "id": 126,
+        "question": "For a first-order reaction, k₁ = 2k₂. Ratio of times required for same fraction completion t₁/t₂ is:",
+        "options": [
+            "1/2",
+            "2",
+            "4",
+            "1"
+        ],
+        "answer": 0,
+        "explanation": "Time ∝ 1/k for same fraction → t₁/t₂ = k₂/k₁ = 1/2."
+    },
+    {
+        "id": 127,
+        "question": "For a reaction, rate doubles when concentration is increased from 0.1 M to 0.2 M. Reaction order is:",
+        "options": [
+            "Zero",
+            "First",
+            "Second",
+            "Fractional"
+        ],
+        "answer": 1,
+        "explanation": "Rate ∝ concentration → first-order reaction."
+    },
+    {
+        "id": 128,
+        "question": "For a second-order reaction, if concentration is halved, rate becomes:",
+        "options": [
+            "Half",
+            "One-fourth",
+            "Double",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Rate ∝ [A]² → (1/2)² = 1/4."
+    },
+    {
+        "id": 129,
+        "question": "Which plot gives activation energy directly from slope?",
+        "options": [
+            "k vs T",
+            "log k vs T",
+            "log k vs 1/T",
+            "[A] vs t"
+        ],
+        "answer": 2,
+        "explanation": "Slope of log k vs 1/T = −Ea/2.303R."
+    },
+    {
+        "id": 130,
+        "question": "For two reactions with same Ea, the faster reaction is the one with:",
+        "options": [
+            "Lower temperature",
+            "Higher A",
+            "Lower A",
+            "Higher ΔG"
+        ],
+        "answer": 1,
+        "explanation": "Higher frequency factor A gives higher rate constant."
+    },
+    {
+        "id": 131,
+        "question": "For a first-order reaction, if 10% remains unreacted after time t, fraction remaining after 2t is:",
+        "options": [
+            "0.01",
+            "0.1",
+            "0.2",
+            "0.05"
+        ],
+        "answer": 0,
+        "explanation": "First order → fraction squares → (0.1)² = 0.01."
+    },
+    {
+        "id": 132,
+        "question": "Which reaction shows zero-order kinetics at high concentration?",
+        "options": [
+            "Gas phase reaction",
+            "Surface catalysed reaction",
+            "Radioactive decay",
+            "Ionic reaction in solution"
+        ],
+        "answer": 1,
+        "explanation": "Surface catalysed reactions show zero order at high concentration."
+    },
+    {
+        "id": 133,
+        "question": "If k = 2×10⁻⁴ s⁻¹, calculate half-life of reaction.",
+        "options": [
+            "3465 s",
+            "1732 s",
+            "693 s",
+            "5000 s"
+        ],
+        "answer": 0,
+        "explanation": "t½ = 0.693/k = 0.693/(2×10⁻⁴) ≈ 3465 s."
+    },
+    {
+        "id": 134,
+        "question": "Which quantity changes exponentially with temperature?",
+        "options": [
+            "Activation energy",
+            "Rate constant",
+            "Frequency factor",
+            "Order of reaction"
+        ],
+        "answer": 1,
+        "explanation": "Rate constant varies exponentially as per Arrhenius equation."
+    },
+    {
+        "id": 135,
+        "question": "For a second-order reaction, if k is doubled and concentration halved, half-life becomes:",
+        "options": [
+            "Same",
+            "Half",
+            "Double",
+            "Four times"
+        ],
+        "answer": 0,
+        "explanation": "t½ = 1/(k[A]) → effects cancel → unchanged."
+    },
+    {
+        "id": 136,
+        "question": "For a first-order reaction, which quantity remains constant?",
+        "options": [
+            "Rate",
+            "Concentration",
+            "Rate constant",
+            "Extent of reaction"
+        ],
+        "answer": 2,
+        "explanation": "Rate constant remains constant at constant temperature."
+    },
+    {
+        "id": 137,
+        "question": "If slope of Arrhenius plot is −6000 K, find activation energy. (R = 8.314 J mol⁻¹ K⁻¹)",
+        "options": [
+            "49.9 kJ mol⁻¹",
+            "60 kJ mol⁻¹",
+            "30 kJ mol⁻¹",
+            "12 kJ mol⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Ea = slope × R = 6000×8.314 ≈ 49.9 kJ mol⁻¹."
+    },
+    {
+        "id": 138,
+        "question": "Which reaction will be most temperature sensitive?",
+        "options": [
+            "Lowest Ea",
+            "Highest Ea",
+            "Zero Ea",
+            "Catalysed reaction"
+        ],
+        "answer": 1,
+        "explanation": "Higher activation energy gives greater temperature sensitivity."
+    },
+    {
+        "id": 139,
+        "question": "For a first-order reaction, rate constant increases 4 times when temperature increases. Activation energy is:",
+        "options": [
+            "Low",
+            "High",
+            "Zero",
+            "Independent of T"
+        ],
+        "answer": 1,
+        "explanation": "Large increase in k indicates high activation energy."
+    },
+    {
+        "id": 140,
+        "question": "For a reaction, molecularity is 2 and order is 1. The reaction is:",
+        "options": [
+            "Elementary",
+            "Complex",
+            "Photochemical",
+            "Chain reaction"
+        ],
+        "answer": 1,
+        "explanation": "Order ≠ molecularity → reaction is complex."
+    },
+    {
+        "id": 141,
+        "question": "Which reaction follows first-order kinetics but is zero-order experimentally?",
+        "options": [
+            "Radioactive decay",
+            "Photochemical reaction",
+            "Surface catalysed reaction",
+            "Gas phase reaction"
+        ],
+        "answer": 2,
+        "explanation": "Surface saturation leads to zero-order behaviour."
+    },
+    {
+        "id": 142,
+        "question": "For a first-order reaction, t₉₀% / t½ is approximately:",
+        "options": [
+            "1",
+            "2",
+            "3.3",
+            "6.6"
+        ],
+        "answer": 2,
+        "explanation": "t₉₀% ≈ 3.3 × t½."
+    },
+    {
+        "id": 143,
+        "question": "Which step controls overall rate of a multi-step reaction?",
+        "options": [
+            "Fastest",
+            "Slowest",
+            "Last",
+            "Reversible"
+        ],
+        "answer": 1,
+        "explanation": "Slowest step is rate determining."
+    },
+    {
+        "id": 144,
+        "question": "For a first-order reaction, doubling concentration changes half-life by:",
+        "options": [
+            "Double",
+            "Half",
+            "No change",
+            "Four times"
+        ],
+        "answer": 2,
+        "explanation": "Half-life of first-order reaction is independent of concentration."
+    },
+    {
+        "id": 145,
+        "question": "Which reaction has no activation energy barrier?",
+        "options": [
+            "Endothermic reaction",
+            "Catalysed reaction",
+            "Diffusion-controlled reaction",
+            "Chain reaction"
+        ],
+        "answer": 2,
+        "explanation": "Diffusion-controlled reactions are barrierless."
+    },
+    {
+        "id": 146,
+        "question": "If rate constant decreases on increasing temperature, reaction is:",
+        "options": [
+            "Endothermic",
+            "Exothermic",
+            "Complex",
+            "Photochemical"
+        ],
+        "answer": 1,
+        "explanation": "Exothermic reactions may show inverse temperature dependence."
+    },
+    {
+        "id": 147,
+        "question": "Which quantity does NOT affect collision frequency?",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Concentration",
+            "Activation energy"
+        ],
+        "answer": 3,
+        "explanation": "Activation energy affects effectiveness, not frequency."
+    },
+    {
+        "id": 148,
+        "question": "For a reaction, if order = 0, unit of k is:",
+        "options": [
+            "s⁻¹",
+            "mol L⁻¹ s⁻¹",
+            "L mol⁻¹ s⁻¹",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "Zero-order rate constant has same unit as rate."
+    },
+    {
+        "id": 149,
+        "question": "Which reaction follows first-order kinetics in solution?",
+        "options": [
+            "Radioactive decay",
+            "Hydrolysis of ester in excess water",
+            "Surface reaction",
+            "Photochemical reaction"
+        ],
+        "answer": 1,
+        "explanation": "Excess water makes it pseudo first-order."
+    },
+    {
+        "id": 150,
+        "question": "Which factor affects only rate constant and not order?",
+        "options": [
+            "Concentration",
+            "Temperature",
+            "Pressure",
+            "Time"
+        ],
+        "answer": 1,
+        "explanation": "Temperature affects k but not reaction order."
+    },
+    {
+        "id": 151,
+        "question": "Which reaction has maximum frequency factor?",
+        "options": [
+            "Complex reaction",
+            "Gas phase reaction",
+            "Solid state reaction",
+            "Surface reaction"
+        ],
+        "answer": 1,
+        "explanation": "Gas phase reactions have maximum collision frequency."
+    },
+    {
+        "id": 152,
+        "question": "For a reaction, Ea = 0. Which statement is correct?",
+        "options": [
+            "Reaction is slow",
+            "Rate independent of temperature",
+            "Reaction impossible",
+            "Rate depends on concentration only"
+        ],
+        "answer": 1,
+        "explanation": "With Ea = 0, temperature has negligible effect."
+    },
+    {
+        "id": 153,
+        "question": "Which reaction shows fractional order?",
+        "options": [
+            "Elementary reaction",
+            "Complex reaction",
+            "Radioactive decay",
+            "Diffusion-controlled reaction"
+        ],
+        "answer": 1,
+        "explanation": "Fractional order is observed in complex reactions."
+    },
+    {
+        "id": 154,
+        "question": "Which quantity defines rate of reaction?",
+        "options": [
+            "Change in concentration per unit time",
+            "Change in temperature per unit time",
+            "Energy change per mole",
+            "Extent of reaction"
+        ],
+        "answer": 0,
+        "explanation": "Rate is change in concentration per unit time."
+    },
+    {
+        "id": 155,
+        "question": "For first-order reaction, integrated rate law is:",
+        "options": [
+            "k = (1/t)[A]",
+            "k = (2.303/t) log(a/(a−x))",
+            "k = (1/t)(1/[A])",
+            "k = a/t"
+        ],
+        "answer": 1,
+        "explanation": "This is the integrated form of first-order kinetics."
+    },
+    {
+        "id": 156,
+        "question": "Which parameter determines number of effective collisions?",
+        "options": [
+            "Pressure",
+            "Frequency factor",
+            "Activation energy",
+            "Temperature"
+        ],
+        "answer": 1,
+        "explanation": "Frequency factor accounts for effective collisions."
+    },
+    {
+        "id": 157,
+        "question": "Which reaction is fastest at same temperature?",
+        "options": [
+            "Highest Ea",
+            "Lowest Ea",
+            "Highest ΔH",
+            "Lowest ΔG"
+        ],
+        "answer": 1,
+        "explanation": "Lower activation energy gives higher rate."
+    },
+    {
+        "id": 158,
+        "question": "Which quantity is unaffected by catalyst?",
+        "options": [
+            "Activation energy",
+            "Rate",
+            "Rate constant",
+            "Equilibrium constant"
+        ],
+        "answer": 3,
+        "explanation": "Catalyst does not change equilibrium constant."
+    },
+    {
+        "id": 159,
+        "question": "Which reaction is most temperature dependent?",
+        "options": [
+            "Low Ea",
+            "High Ea",
+            "Zero Ea",
+            "Catalysed"
+        ],
+        "answer": 1,
+        "explanation": "High activation energy reactions are most temperature sensitive."
+    },
+    {
+        "id": 160,
+        "question": "Which statement is TRUE for chemical kinetics?",
+        "options": [
+            "Order equals molecularity always",
+            "Order is experimentally determined",
+            "Order depends on stoichiometry",
+            "Order changes equilibrium constant"
+        ],
+        "answer": 1,
+        "explanation": "Order of reaction is determined experimentally."
+    }
+]

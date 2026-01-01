@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Which phase of plant growth is characterized by rapid cell division in meristematic tissues?",
+        "options": [
+            "Cell elongation phase",
+            "Cell differentiation phase",
+            "Cell division phase",
+            "Maturation phase"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states that the first phase of growth involves active cell division in meristematic regions."
+    },
+    {
+        "id": 2,
+        "question": "Increase in the size of a plant cell is mainly due to",
+        "options": [
+            "increase in protoplasm",
+            "increase in cell number",
+            "vacuolation",
+            "thickening of cell wall"
+        ],
+        "answer": 2,
+        "explanation": "According to NCERT, cell elongation occurs due to vacuolation and water uptake."
+    },
+    {
+        "id": 3,
+        "question": "Which region of root shows maximum elongation?",
+        "options": [
+            "Root cap",
+            "Meristematic zone",
+            "Elongation zone",
+            "Maturation zone"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions that cells elongate rapidly in the elongation zone."
+    },
+    {
+        "id": 4,
+        "question": "Differentiation in plants refers to",
+        "options": [
+            "increase in cell size",
+            "increase in cell number",
+            "cells becoming structurally and functionally specialized",
+            "death of cells"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines differentiation as specialization of cells for specific functions."
+    },
+    {
+        "id": 5,
+        "question": "Which cells retain the capacity to divide even after differentiation?",
+        "options": [
+            "Meristematic cells",
+            "Permanent cells",
+            "Parenchyma cells",
+            "Dedifferentiated cells"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states that differentiated cells can regain capacity to divide by dedifferentiation."
+    },
+    {
+        "id": 6,
+        "question": "Formation of interfascicular cambium from parenchyma cells is an example of",
+        "options": [
+            "Redifferentiation",
+            "Differentiation",
+            "Dedifferentiation",
+            "Apoptosis"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes this as dedifferentiation."
+    },
+    {
+        "id": 7,
+        "question": "Loss of capacity to divide by dedifferentiated cells is called",
+        "options": [
+            "Differentiation",
+            "Dedifferentiation",
+            "Redifferentiation",
+            "Elongation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines redifferentiation as loss of division capacity after dedifferentiation."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following is a quantitative parameter of plant growth?",
+        "options": [
+            "Differentiation",
+            "Development",
+            "Growth rate",
+            "Maturation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states growth can be measured quantitatively using growth rate."
+    },
+    {
+        "id": 9,
+        "question": "Growth per unit time is known as",
+        "options": [
+            "Development",
+            "Growth rate",
+            "Differentiation",
+            "Maturation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines growth rate as increase in growth per unit time."
+    },
+    {
+        "id": 10,
+        "question": "Arithmetic growth in plants is represented by",
+        "options": [
+            "sigmoid curve",
+            "exponential curve",
+            "linear curve",
+            "bell-shaped curve"
+        ],
+        "answer": 2,
+        "explanation": "NCERT shows arithmetic growth as a linear increase."
+    },
+    {
+        "id": 11,
+        "question": "In arithmetic growth, only one daughter cell continues to divide while the other",
+        "options": [
+            "dies",
+            "differentiates",
+            "remains meristematic",
+            "elongates"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains that the other cell differentiates and matures."
+    },
+    {
+        "id": 12,
+        "question": "Exponential growth occurs when",
+        "options": [
+            "both daughter cells divide",
+            "only one daughter cell divides",
+            "cells stop dividing",
+            "growth rate is constant"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states exponential growth occurs when both daughter cells continue dividing."
+    },
+    {
+        "id": 13,
+        "question": "The equation Wt = W0ert represents",
+        "options": [
+            "arithmetic growth",
+            "logistic growth",
+            "exponential growth",
+            "sigmoid growth"
+        ],
+        "answer": 2,
+        "explanation": "NCERT gives this equation for exponential growth."
+    },
+    {
+        "id": 14,
+        "question": "In the exponential growth equation, r represents",
+        "options": [
+            "initial growth",
+            "final weight",
+            "growth rate",
+            "time period"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines r as growth rate."
+    },
+    {
+        "id": 15,
+        "question": "Which curve best describes overall plant growth?",
+        "options": [
+            "Linear",
+            "Exponential",
+            "Sigmoid",
+            "Bell-shaped"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states plant growth generally follows a sigmoid curve."
+    },
+    {
+        "id": 16,
+        "question": "The phase of maximum growth rate in sigmoid curve is",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Senescence phase"
+        ],
+        "answer": 1,
+        "explanation": "NCERT identifies log phase as period of maximum growth."
+    },
+    {
+        "id": 17,
+        "question": "Which phase of sigmoid curve shows slow growth initially?",
+        "options": [
+            "Log phase",
+            "Stationary phase",
+            "Lag phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes lag phase as initial slow growth."
+    },
+    {
+        "id": 18,
+        "question": "Final phase of sigmoid growth curve represents",
+        "options": [
+            "cell division",
+            "cell elongation",
+            "maturation",
+            "differentiation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states stationary phase corresponds to maturation."
+    },
+    {
+        "id": 19,
+        "question": "Which internal factor affects plant growth and development?",
+        "options": [
+            "Light",
+            "Temperature",
+            "Phytohormones",
+            "Water"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists hormones as internal growth regulators."
+    },
+    {
+        "id": 20,
+        "question": "Which external factor directly affects photoperiodism?",
+        "options": [
+            "Temperature",
+            "Light duration",
+            "Water",
+            "Nutrients"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines photoperiodism as response to duration of light."
+    },
+    {
+        "id": 21,
+        "question": "Auxins were first isolated from",
+        "options": [
+            "Avena coleoptile",
+            "Pisum stem",
+            "Zea root",
+            "Oryza shoot"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions isolation of auxin from Avena coleoptile tips."
+    },
+    {
+        "id": 22,
+        "question": "Which phytohormone promotes cell elongation in shoots?",
+        "options": [
+            "Cytokinin",
+            "Auxin",
+            "Ethylene",
+            "Abscisic acid"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states auxins promote elongation of stem cells."
+    },
+    {
+        "id": 23,
+        "question": "Indole-3-acetic acid (IAA) is an example of",
+        "options": [
+            "synthetic auxin",
+            "natural auxin",
+            "cytokinin",
+            "gibberellin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT classifies IAA as a natural auxin."
+    },
+    {
+        "id": 24,
+        "question": "Which hormone is commonly used for rooting in cuttings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxins induce adventitious roots."
+    },
+    {
+        "id": 25,
+        "question": "Gibberellins are acidic in nature and were first discovered in",
+        "options": [
+            "bacteria",
+            "fungi",
+            "algae",
+            "plants"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states gibberellins were discovered in fungus Gibberella fujikuroi."
+    },
+    {
+        "id": 26,
+        "question": "Which hormone causes bolting in rosette plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT notes gibberellins induce bolting."
+    },
+    {
+        "id": 27,
+        "question": "Increase in length of internodes is promoted by",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions gibberellins increase internode length."
+    },
+    {
+        "id": 28,
+        "question": "Which hormone delays senescence?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Cytokinin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states cytokinins delay leaf senescence."
+    },
+    {
+        "id": 29,
+        "question": "Cytokinins are synthesized mainly in",
+        "options": [
+            "leaves",
+            "roots",
+            "fruits",
+            "flowers"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions cytokinins are synthesized in roots."
+    },
+    {
+        "id": 30,
+        "question": "Which hormone promotes lateral bud growth by overcoming apical dominance?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Cytokinin",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states cytokinins promote lateral growth."
+    },
+    {
+        "id": 31,
+        "question": "Which phytohormone is gaseous in nature?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT identifies ethylene as a gaseous hormone."
+    },
+    {
+        "id": 32,
+        "question": "Ethylene is associated with",
+        "options": [
+            "stem elongation",
+            "fruit ripening",
+            "seed dormancy",
+            "leaf expansion"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes fruit ripening."
+    },
+    {
+        "id": 33,
+        "question": "Triple response in seedlings is caused by",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT explains ethylene induces triple response."
+    },
+    {
+        "id": 34,
+        "question": "Which is a growth inhibitor hormone?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA is a growth inhibitor."
+    },
+    {
+        "id": 35,
+        "question": "Abscisic acid promotes",
+        "options": [
+            "cell division",
+            "seed germination",
+            "stomatal closure",
+            "fruit ripening"
+        ],
+        "answer": 2,
+        "explanation": "NCERT notes ABA induces stomatal closure."
+    },
+    {
+        "id": 36,
+        "question": "Which hormone is also called stress hormone?",
+        "options": [
+            "Ethylene",
+            "ABA",
+            "Auxin",
+            "Gibberellin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT refers to ABA as stress hormone."
+    },
+    {
+        "id": 37,
+        "question": "Vernalisation is the process of",
+        "options": [
+            "seed germination",
+            "flowering induced by cold",
+            "fruit ripening",
+            "leaf fall"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines vernalisation as cold-induced flowering."
+    },
+    {
+        "id": 38,
+        "question": "Vernalisation is effective in",
+        "options": [
+            "short day plants",
+            "long day plants",
+            "biennial plants",
+            "all plants"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions biennial plants require vernalisation."
+    },
+    {
+        "id": 39,
+        "question": "Photoperiodism was discovered by",
+        "options": [
+            "Darwin",
+            "Garner and Allard",
+            "Went",
+            "Blackman"
+        ],
+        "answer": 1,
+        "explanation": "NCERT credits Garner and Allard for discovery."
+    },
+    {
+        "id": 40,
+        "question": "A plant that flowers when day length is less than critical duration is called",
+        "options": [
+            "Long day plant",
+            "Short day plant",
+            "Day neutral plant",
+            "Biennial plant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines short day plants accordingly."
+    },
+    {
+        "id": 41,
+        "question": "Which plant flowers irrespective of day length?",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Tomato",
+            "Xanthium"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists tomato as a day neutral plant."
+    },
+    {
+        "id": 42,
+        "question": "Critical photoperiod refers to",
+        "options": [
+            "minimum light required",
+            "optimum light required",
+            "maximum light required",
+            "exact duration of light needed for flowering"
+        ],
+        "answer": 3,
+        "explanation": "NCERT defines critical photoperiod as specific light duration."
+    },
+    {
+        "id": 43,
+        "question": "Which pigment is involved in photoperiodic response?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Phytochrome",
+            "Xanthophyll"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions phytochrome as photoperiodic pigment."
+    },
+    {
+        "id": 44,
+        "question": "Phytochrome exists in two forms",
+        "options": [
+            "Pfr and Pr",
+            "Pa and Pb",
+            "Pi and Po",
+            "P1 and P2"
+        ],
+        "answer": 0,
+        "explanation": "NCERT describes phytochrome forms as Pr and Pfr."
+    },
+    {
+        "id": 45,
+        "question": "Which form of phytochrome is biologically active?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Pfr is active form."
+    },
+    {
+        "id": 46,
+        "question": "Red light converts phytochrome",
+        "options": [
+            "Pfr to Pr",
+            "Pr to Pfr",
+            "Pfr to P",
+            "Pr to P"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains red light converts Pr to Pfr."
+    },
+    {
+        "id": 47,
+        "question": "Far-red light converts phytochrome",
+        "options": [
+            "Pr to Pfr",
+            "Pfr to Pr",
+            "Pfr to P",
+            "Pr to P"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states far-red converts Pfr to Pr."
+    },
+    {
+        "id": 48,
+        "question": "Which hormone promotes seed germination by mobilizing endosperm reserves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins mobilize endosperm."
+    },
+    {
+        "id": 49,
+        "question": "Alpha-amylase production in aleurone layer is induced by",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions GA induces alpha-amylase."
+    },
+    {
+        "id": 50,
+        "question": "Which hormone promotes leaf abscission?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene promotes abscission."
+    },
+    {
+        "id": 51,
+        "question": "Which growth regulator is antagonistic to gibberellin in seed dormancy?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT explains ABA induces dormancy."
+    },
+    {
+        "id": 52,
+        "question": "Apical dominance is controlled mainly by",
+        "options": [
+            "Cytokinin",
+            "Auxin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states auxin maintains apical dominance."
+    },
+    {
+        "id": 53,
+        "question": "Removal of apical bud results in",
+        "options": [
+            "inhibition of lateral buds",
+            "enhanced apical dominance",
+            "activation of lateral buds",
+            "plant death"
+        ],
+        "answer": 2,
+        "explanation": "NCERT explains lateral buds grow after apical bud removal."
+    },
+    {
+        "id": 54,
+        "question": "Which hormone is synthesized in young leaves and apical meristems?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxin synthesis in young tissues."
+    },
+    {
+        "id": 55,
+        "question": "Which of the following is a synthetic auxin?",
+        "options": [
+            "IAA",
+            "IBA",
+            "NAA",
+            "2,4-D"
+        ],
+        "answer": 3,
+        "explanation": "NCERT lists 2,4-D as synthetic auxin."
+    },
+    {
+        "id": 56,
+        "question": "2,4-D is commonly used as",
+        "options": [
+            "growth promoter",
+            "weedicide",
+            "rooting hormone",
+            "anti-transpirant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states 2,4-D is used as weedicide."
+    },
+    {
+        "id": 57,
+        "question": "Which hormone is involved in breaking seed dormancy?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "ABA",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states GA breaks dormancy."
+    },
+    {
+        "id": 58,
+        "question": "Senescence in plants refers to",
+        "options": [
+            "growth of young tissues",
+            "aging of plant parts",
+            "cell elongation",
+            "cell division"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines senescence as aging process."
+    },
+    {
+        "id": 59,
+        "question": "Which hormone accelerates senescence?",
+        "options": [
+            "Cytokinin",
+            "Auxin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 60,
+        "question": "Which phase of plant life span involves maximum metabolic activity?",
+        "options": [
+            "Senescence",
+            "Maturation",
+            "Juvenile",
+            "Reproductive"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions juvenile phase is metabolically active."
+    },
+    {
+        "id": 61,
+        "question": "Plant development is the sum of",
+        "options": [
+            "growth only",
+            "differentiation only",
+            "growth and differentiation",
+            "growth, differentiation and development"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines development as growth plus differentiation."
+    },
+    {
+        "id": 62,
+        "question": "Which process involves structural and functional maturation?",
+        "options": [
+            "Growth",
+            "Differentiation",
+            "Elongation",
+            "Division"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines differentiation as maturation."
+    },
+    {
+        "id": 63,
+        "question": "Which factor does not affect plant growth?",
+        "options": [
+            "Light",
+            "Gravity",
+            "Hormones",
+            "Sound"
+        ],
+        "answer": 3,
+        "explanation": "NCERT lists light, gravity, water, temperature and hormones."
+    },
+    {
+        "id": 64,
+        "question": "Growth is said to be indeterminate in plants because",
+        "options": [
+            "they die early",
+            "they grow slowly",
+            "meristems are present",
+            "cells do not differentiate"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states meristems allow indefinite growth."
+    },
+    {
+        "id": 65,
+        "question": "Which meristem is responsible for increase in girth?",
+        "options": [
+            "Apical",
+            "Intercalary",
+            "Lateral",
+            "Primary"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states lateral meristem increases girth."
+    },
+    {
+        "id": 66,
+        "question": "Which hormone promotes parthenocarpy?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxin induces parthenocarpy."
+    },
+    {
+        "id": 67,
+        "question": "Fruit ripening involves",
+        "options": [
+            "increase in starch",
+            "increase in acidity",
+            "conversion of starch to sugar",
+            "increase in chlorophyll"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes starch conversion to sugar during ripening."
+    },
+    {
+        "id": 68,
+        "question": "Which hormone is used for artificial ripening of fruits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene is used in ripening."
+    },
+    {
+        "id": 69,
+        "question": "Which growth regulator is used to prevent premature fruit drop?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxin prevents abscission."
+    },
+    {
+        "id": 70,
+        "question": "Which of the following is not a plant hormone?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Florigen",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes florigen as hypothetical flowering hormone."
+    },
+    {
+        "id": 71,
+        "question": "Florigen is associated with",
+        "options": [
+            "fruit ripening",
+            "leaf abscission",
+            "flowering",
+            "senescence"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions florigen as flowering stimulus."
+    },
+    {
+        "id": 72,
+        "question": "Which hormone promotes cell division?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote cytokinesis."
+    },
+    {
+        "id": 73,
+        "question": "Which hormone is responsible for inhibition of growth during water stress?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ABA inhibits growth under stress."
+    },
+    {
+        "id": 74,
+        "question": "Which response shows directional growth due to stimulus?",
+        "options": [
+            "Nastic",
+            "Tropic",
+            "Autonomic",
+            "Photoperiodic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines tropic movements as directional growth responses."
+    },
+    {
+        "id": 75,
+        "question": "Growth towards light is called",
+        "options": [
+            "Geotropism",
+            "Hydrotropism",
+            "Phototropism",
+            "Chemotropism"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines phototropism as growth towards light."
+    },
+    {
+        "id": 76,
+        "question": "Auxin distribution in phototropism is explained by",
+        "options": [
+            "Cholodny-Went theory",
+            "Blackman law",
+            "Warburg effect",
+            "Hill reaction"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions Cholodny-Went theory."
+    },
+    {
+        "id": 77,
+        "question": "Which light inhibits stem elongation?",
+        "options": [
+            "Red",
+            "Blue",
+            "Green",
+            "Far-red"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states blue light inhibits elongation."
+    },
+    {
+        "id": 78,
+        "question": "Which hormone causes epinasty in tomato leaves?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Cytokinin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes epinasty."
+    },
+    {
+        "id": 79,
+        "question": "Which plant hormone was discovered last?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Ethylene"
+        ],
+        "answer": 3,
+        "explanation": "NCERT mentions ethylene discovery later."
+    },
+    {
+        "id": 80,
+        "question": "Which hormone promotes femaleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes femaleness."
+    },
+    {
+        "id": 81,
+        "question": "Which hormone promotes maleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions gibberellin promotes maleness."
+    },
+    {
+        "id": 82,
+        "question": "Which hormone increases shelf life of flowers?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 83,
+        "question": "Which growth regulator is used to synchronize flowering?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions gibberellins induce flowering."
+    },
+    {
+        "id": 84,
+        "question": "Which factor mainly controls seed germination?",
+        "options": [
+            "Light",
+            "Water",
+            "Temperature",
+            "Oxygen"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states water is essential for germination."
+    },
+    {
+        "id": 85,
+        "question": "Which hormone counteracts the effect of auxin in apical dominance?",
+        "options": [
+            "Gibberellin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions cytokinin breaks apical dominance."
+    },
+    {
+        "id": 86,
+        "question": "Which hormone causes curvature of stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states unequal auxin distribution causes curvature."
+    },
+    {
+        "id": 87,
+        "question": "Which hormone promotes dormancy in buds?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "ABA",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ABA induces dormancy."
+    },
+    {
+        "id": 88,
+        "question": "Which plant hormone is used as defoliant?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions ethylene as defoliant."
+    },
+    {
+        "id": 89,
+        "question": "Which phase comes after juvenile phase?",
+        "options": [
+            "Vegetative",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states reproductive phase follows juvenile phase."
+    },
+    {
+        "id": 90,
+        "question": "Which hormone inhibits seed germination?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA inhibits germination."
+    },
+    {
+        "id": 91,
+        "question": "Which growth regulator promotes cell expansion in leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes cell expansion."
+    },
+    {
+        "id": 92,
+        "question": "Which hormone is involved in fruit softening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions ethylene causes softening."
+    },
+    {
+        "id": 93,
+        "question": "Which growth phase shows maximum respiration?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Senescence"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states log phase is metabolically active."
+    },
+    {
+        "id": 94,
+        "question": "Which hormone induces synthesis of hydrolytic enzymes during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions GA induces enzyme synthesis."
+    },
+    {
+        "id": 95,
+        "question": "Which hormone promotes leaf expansion?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote leaf expansion."
+    },
+    {
+        "id": 96,
+        "question": "Which growth regulator promotes closing of stomata?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stomatal closure."
+    },
+    {
+        "id": 97,
+        "question": "Which hormone is responsible for hook formation in seedlings?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes hook formation."
+    },
+    {
+        "id": 98,
+        "question": "Which hormone is antagonistic to ethylene?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions cytokinin delays senescence opposed to ethylene."
+    },
+    {
+        "id": 99,
+        "question": "Which hormone promotes root growth at low concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root growth at low levels."
+    },
+    {
+        "id": 100,
+        "question": "Overall control of plant growth and development depends on",
+        "options": [
+            "genes alone",
+            "environment alone",
+            "interaction of genes and environment",
+            "hormones alone"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states growth and development depend on gene–environment interaction."
+    },
+    {
+        "id": 101,
+        "question": "Which term refers to the irreversible permanent increase in size of an organ?",
+        "options": [
+            "Development",
+            "Differentiation",
+            "Growth",
+            "Maturation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines growth as an irreversible increase in size of an organ or its parts."
+    },
+    {
+        "id": 102,
+        "question": "Growth in plants is considered indeterminate mainly due to the presence of",
+        "options": [
+            "vascular tissues",
+            "cambium",
+            "meristems",
+            "parenchyma"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states indeterminate growth is due to continuous meristematic activity."
+    },
+    {
+        "id": 103,
+        "question": "Which type of meristem is present at the base of leaves in grasses?",
+        "options": [
+            "Apical",
+            "Lateral",
+            "Intercalary",
+            "Secondary"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions intercalary meristem at the base of leaves and internodes."
+    },
+    {
+        "id": 104,
+        "question": "Which parameter measures increase in fresh weight per unit time?",
+        "options": [
+            "Absolute growth rate",
+            "Relative growth rate",
+            "Growth ratio",
+            "Development rate"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines absolute growth rate as increase in total growth per unit time."
+    },
+    {
+        "id": 105,
+        "question": "Relative growth rate is defined as",
+        "options": [
+            "growth per unit area",
+            "growth per unit volume",
+            "growth per unit initial size",
+            "growth per unit time"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states RGR is growth per unit initial size."
+    },
+    {
+        "id": 106,
+        "question": "Which growth phase is represented by steep slope in sigmoid curve?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states log phase shows maximum growth rate."
+    },
+    {
+        "id": 107,
+        "question": "Which factor directly influences enzymatic activity during growth?",
+        "options": [
+            "Light",
+            "Temperature",
+            "Gravity",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states temperature affects enzyme-mediated growth."
+    },
+    {
+        "id": 108,
+        "question": "Which external factor affects both growth and development?",
+        "options": [
+            "Hormone",
+            "Gene",
+            "Light",
+            "Meristem"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions light influences growth and flowering."
+    },
+    {
+        "id": 109,
+        "question": "Which internal factor controls synthesis of enzymes and proteins?",
+        "options": [
+            "Environment",
+            "Genes",
+            "Light",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states genes control synthesis of proteins and enzymes."
+    },
+    {
+        "id": 110,
+        "question": "Which plant hormone is involved in cell wall loosening?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin induces cell wall loosening during elongation."
+    },
+    {
+        "id": 111,
+        "question": "Auxin-induced cell elongation is explained by",
+        "options": [
+            "Acid growth hypothesis",
+            "Cholodny-Went theory",
+            "Lockhart theory",
+            "Blackman law"
+        ],
+        "answer": 0,
+        "explanation": "NCERT describes acid growth hypothesis for auxin action."
+    },
+    {
+        "id": 112,
+        "question": "Which ion accumulation in cell wall is promoted by auxin action?",
+        "options": [
+            "Na+",
+            "K+",
+            "H+",
+            "Ca2+"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin promotes H+ ion extrusion into cell wall."
+    },
+    {
+        "id": 113,
+        "question": "Which hormone promotes differentiation of vascular tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxin role in vascular differentiation."
+    },
+    {
+        "id": 114,
+        "question": "Which hormone promotes delay of leaf senescence by nutrient mobilization?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence by mobilizing nutrients."
+    },
+    {
+        "id": 115,
+        "question": "Which hormone promotes cell division in cultured plant tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote cytokinesis."
+    },
+    {
+        "id": 116,
+        "question": "Which hormone is required for malting of barley?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce alpha-amylase during malting."
+    },
+    {
+        "id": 117,
+        "question": "Which hormone promotes elongation of genetically dwarf plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT mentions gibberellins overcome genetic dwarfism."
+    },
+    {
+        "id": 118,
+        "question": "Which hormone is synthesized in senescing tissues and ripening fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene synthesis increases during senescence and ripening."
+    },
+    {
+        "id": 119,
+        "question": "Which hormone promotes horizontal growth of seedling stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions ethylene causes horizontal growth."
+    },
+    {
+        "id": 120,
+        "question": "Which hormone is responsible for inhibition of growth under stress conditions?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes ABA as growth inhibitor under stress."
+    },
+    {
+        "id": 121,
+        "question": "Which hormone induces dormancy in seeds and buds?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA induces dormancy."
+    },
+    {
+        "id": 122,
+        "question": "Which plant hormone was isolated from coconut milk?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions cytokinins isolated from coconut milk."
+    },
+    {
+        "id": 123,
+        "question": "Zeatin is an example of",
+        "options": [
+            "auxin",
+            "cytokinin",
+            "gibberellin",
+            "ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT identifies zeatin as a cytokinin."
+    },
+    {
+        "id": 124,
+        "question": "Which hormone counteracts apical dominance when applied to lateral buds?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins overcome apical dominance."
+    },
+    {
+        "id": 125,
+        "question": "Which hormone is mainly transported basipetally?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin shows polar basipetal transport."
+    },
+    {
+        "id": 126,
+        "question": "Which hormone shows non-polar transport?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ethylene diffuses freely as a gas."
+    },
+    {
+        "id": 127,
+        "question": "Which hormone is used to induce parthenocarpic fruits commercially?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxins induce parthenocarpy."
+    },
+    {
+        "id": 128,
+        "question": "Which hormone reduces transpiration rate?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA reduces transpiration by closing stomata."
+    },
+    {
+        "id": 129,
+        "question": "Which hormone promotes senescence and abscission?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene promotes senescence and abscission."
+    },
+    {
+        "id": 130,
+        "question": "Which hormone is antagonistic to abscisic acid during germination?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states gibberellins break dormancy induced by ABA."
+    },
+    {
+        "id": 131,
+        "question": "Which process includes growth, differentiation and morphogenesis?",
+        "options": [
+            "Growth",
+            "Development",
+            "Maturation",
+            "Senescence"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines development as growth plus differentiation."
+    },
+    {
+        "id": 132,
+        "question": "Which stage of plant life cycle is sensitive to vernalisation?",
+        "options": [
+            "Seedling",
+            "Vegetative",
+            "Reproductive",
+            "Senescent"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states vegetative phase responds to vernalisation."
+    },
+    {
+        "id": 133,
+        "question": "Which factor replaces low temperature requirement in vernalisation?",
+        "options": [
+            "Ethylene",
+            "Gibberellin",
+            "Auxin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions gibberellins can replace cold requirement."
+    },
+    {
+        "id": 134,
+        "question": "Which photoperiodic plant flowers when day length exceeds critical period?",
+        "options": [
+            "Short day",
+            "Long day",
+            "Day neutral",
+            "Biennial"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines long day plants accordingly."
+    },
+    {
+        "id": 135,
+        "question": "Xanthium is an example of",
+        "options": [
+            "long day plant",
+            "short day plant",
+            "day neutral plant",
+            "biennial plant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT lists Xanthium as short day plant."
+    },
+    {
+        "id": 136,
+        "question": "Rice is classified as",
+        "options": [
+            "long day plant",
+            "short day plant",
+            "day neutral plant",
+            "biennial"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states rice is a short day plant."
+    },
+    {
+        "id": 137,
+        "question": "Wheat is classified as",
+        "options": [
+            "short day plant",
+            "long day plant",
+            "day neutral plant",
+            "biennial"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states wheat is a long day plant."
+    },
+    {
+        "id": 138,
+        "question": "Which part perceives photoperiodic stimulus?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states leaves perceive photoperiod."
+    },
+    {
+        "id": 139,
+        "question": "Which substance transmits flowering signal from leaves to apex?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Florigen",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes florigen as flowering stimulus."
+    },
+    {
+        "id": 140,
+        "question": "Which form of phytochrome accumulates in darkness?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Pr form accumulates in darkness."
+    },
+    {
+        "id": 141,
+        "question": "Which wavelength converts Pfr to Pr?",
+        "options": [
+            "Red light",
+            "Blue light",
+            "Far-red light",
+            "Green light"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states far-red converts Pfr to Pr."
+    },
+    {
+        "id": 142,
+        "question": "Which wavelength converts Pr to Pfr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states red light converts Pr to Pfr."
+    },
+    {
+        "id": 143,
+        "question": "Which hormone is used to induce femaleness in cucumber?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes femaleness."
+    },
+    {
+        "id": 144,
+        "question": "Which hormone is used to increase yield by promoting maleness?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote maleness."
+    },
+    {
+        "id": 145,
+        "question": "Which hormone causes thickening of stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions ethylene promotes radial expansion."
+    },
+    {
+        "id": 146,
+        "question": "Which hormone is synthesized from methionine?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene is synthesized from methionine."
+    },
+    {
+        "id": 147,
+        "question": "Which hormone regulates opening and closing of stomata?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA regulates stomatal movement."
+    },
+    {
+        "id": 148,
+        "question": "Which growth regulator promotes rapid internodal elongation in sugarcane?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins increase internode length."
+    },
+    {
+        "id": 149,
+        "question": "Which hormone is least required for tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Both auxin and cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin and cytokinin are essential for tissue culture."
+    },
+    {
+        "id": 150,
+        "question": "Callus formation in tissue culture requires balance of",
+        "options": [
+            "auxin and ethylene",
+            "auxin and cytokinin",
+            "gibberellin and auxin",
+            "ethylene and cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states callus formation depends on auxin-cytokinin ratio."
+    },
+    {
+        "id": 151,
+        "question": "Root initiation in tissue culture requires higher concentration of",
+        "options": [
+            "cytokinin",
+            "gibberellin",
+            "auxin",
+            "ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin promotes root formation."
+    },
+    {
+        "id": 152,
+        "question": "Shoot initiation in tissue culture requires higher concentration of",
+        "options": [
+            "auxin",
+            "gibberellin",
+            "cytokinin",
+            "ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states cytokinin promotes shoot formation."
+    },
+    {
+        "id": 153,
+        "question": "Which hormone promotes mobilization of nutrients towards young leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins mobilize nutrients."
+    },
+    {
+        "id": 154,
+        "question": "Which growth regulator is involved in tropic movements?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin distribution causes tropisms."
+    },
+    {
+        "id": 155,
+        "question": "Unequal distribution of auxin causes",
+        "options": [
+            "nastic movement",
+            "tropic movement",
+            "senescence",
+            "abscission"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains tropic movements occur due to unequal auxin distribution."
+    },
+    {
+        "id": 156,
+        "question": "Which hormone causes leaf epinasty?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces epinasty."
+    },
+    {
+        "id": 157,
+        "question": "Which hormone promotes adventitious root formation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions auxin induces adventitious roots."
+    },
+    {
+        "id": 158,
+        "question": "Which hormone is responsible for synchronization of flowering in pineapple?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces flowering in pineapple."
+    },
+    {
+        "id": 159,
+        "question": "Which hormone is used to delay ripening during storage?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states cytokinins delay senescence and ripening."
+    },
+    {
+        "id": 160,
+        "question": "Which growth phase shows decline in growth rate?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 3,
+        "explanation": "NCERT shows decline phase after stationary phase."
+    },
+    {
+        "id": 161,
+        "question": "Which process leads to structural specialization of cells?",
+        "options": [
+            "Growth",
+            "Differentiation",
+            "Division",
+            "Elongation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines differentiation as specialization."
+    },
+    {
+        "id": 162,
+        "question": "Which hormone promotes breaking of dormancy in potato tubers?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states gibberellins break dormancy."
+    },
+    {
+        "id": 163,
+        "question": "Which hormone is required for normal leaf fall in autumn?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene promotes abscission."
+    },
+    {
+        "id": 164,
+        "question": "Which hormone prevents premature leaf fall?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays abscission."
+    },
+    {
+        "id": 165,
+        "question": "Which hormone promotes synthesis of RNA and proteins?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote RNA and protein synthesis."
+    },
+    {
+        "id": 166,
+        "question": "Which hormone shows synergistic effect with auxin in cell elongation?",
+        "options": [
+            "Ethylene",
+            "Gibberellin",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states gibberellins enhance auxin action."
+    },
+    {
+        "id": 167,
+        "question": "Which hormone is involved in growth of pollen tube?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote pollen tube growth."
+    },
+    {
+        "id": 168,
+        "question": "Which hormone is synthesized in developing seeds?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin is synthesized in developing seeds."
+    },
+    {
+        "id": 169,
+        "question": "Which hormone causes swelling of stem tissues?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes radial swelling."
+    },
+    {
+        "id": 170,
+        "question": "Which hormone inhibits lateral bud growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin maintains apical dominance."
+    },
+    {
+        "id": 171,
+        "question": "Which hormone promotes chlorophyll synthesis and delays yellowing?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay chlorophyll degradation."
+    },
+    {
+        "id": 172,
+        "question": "Which hormone increases permeability of cell membrane?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin increases membrane permeability."
+    },
+    {
+        "id": 173,
+        "question": "Which hormone regulates sex expression in plants?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states auxin, ethylene and gibberellin regulate sex expression."
+    },
+    {
+        "id": 174,
+        "question": "Which hormone promotes curvature in coleoptile tip?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin causes coleoptile curvature."
+    },
+    {
+        "id": 175,
+        "question": "Which hormone is involved in hydrotropism?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin mediates hydrotropic response."
+    },
+    {
+        "id": 176,
+        "question": "Which hormone is used to increase fruit size in grapes?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins increase fruit size."
+    },
+    {
+        "id": 177,
+        "question": "Which hormone suppresses growth of lateral buds?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin suppresses lateral bud growth."
+    },
+    {
+        "id": 178,
+        "question": "Which hormone promotes elongation of dwarf pea plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote elongation in dwarf peas."
+    },
+    {
+        "id": 179,
+        "question": "Which hormone reduces leaf fall under stress?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays abscission."
+    },
+    {
+        "id": 180,
+        "question": "Which hormone increases respiration rate during ripening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene increases respiration during ripening."
+    },
+    {
+        "id": 181,
+        "question": "Which hormone is associated with climacteric rise?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes climacteric rise."
+    },
+    {
+        "id": 182,
+        "question": "Which growth regulator promotes senescence least?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays senescence at low levels."
+    },
+    {
+        "id": 183,
+        "question": "Which hormone acts as natural herbicide at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin concentration acts as herbicide."
+    },
+    {
+        "id": 184,
+        "question": "Which hormone promotes elongation in roots at low concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root elongation at low levels."
+    },
+    {
+        "id": 185,
+        "question": "Which hormone inhibits root growth at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin inhibits root growth."
+    },
+    {
+        "id": 186,
+        "question": "Which hormone promotes synthesis of cellulase during abscission?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces cellulase synthesis."
+    },
+    {
+        "id": 187,
+        "question": "Which hormone causes leaf curling and senescence?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ABA causes senescence and leaf fall."
+    },
+    {
+        "id": 188,
+        "question": "Which hormone is least mobile in plant tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins have limited mobility."
+    },
+    {
+        "id": 189,
+        "question": "Which hormone regulates differentiation of xylem?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates xylem differentiation."
+    },
+    {
+        "id": 190,
+        "question": "Which hormone is required for normal fruit development after fertilization?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states multiple hormones regulate fruit development."
+    },
+    {
+        "id": 191,
+        "question": "Which hormone promotes expansion of cotyledons?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote cotyledon expansion."
+    },
+    {
+        "id": 192,
+        "question": "Which hormone reduces seed dormancy period?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins reduce dormancy."
+    },
+    {
+        "id": 193,
+        "question": "Which hormone increases sink strength of developing fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins increase sink activity."
+    },
+    {
+        "id": 194,
+        "question": "Which hormone promotes elongation of coleoptile in dark?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes elongation in dark."
+    },
+    {
+        "id": 195,
+        "question": "Which hormone is responsible for etiolation?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin causes etiolation."
+    },
+    {
+        "id": 196,
+        "question": "Which hormone counteracts ethylene-induced senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 197,
+        "question": "Which hormone promotes early flowering in plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce early flowering."
+    },
+    {
+        "id": 198,
+        "question": "Which hormone inhibits elongation of internodes?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene inhibits elongation."
+    },
+    {
+        "id": 199,
+        "question": "Which hormone is essential for root initiation in cuttings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin induces rooting in cuttings."
+    },
+    {
+        "id": 200,
+        "question": "Which statement best describes plant growth and development?",
+        "options": [
+            "Controlled only by genes",
+            "Controlled only by environment",
+            "Controlled by interaction of genes, hormones and environment",
+            "Controlled only by hormones"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states plant growth and development depend on gene–hormone–environment interaction."
+    },
+    {
+        "id": 201,
+        "question": "Which term describes the formation of different types of tissues and organs from meristems?",
+        "options": [
+            "Growth",
+            "Differentiation",
+            "Development",
+            "Maturation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines development as the sum of growth and differentiation leading to formation of tissues and organs."
+    },
+    {
+        "id": 202,
+        "question": "Which characteristic best distinguishes plant growth from animal growth?",
+        "options": [
+            "Reversibility",
+            "Determinate nature",
+            "Indeterminate nature",
+            "Hormonal control"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states plant growth is indeterminate due to presence of meristems."
+    },
+    {
+        "id": 203,
+        "question": "Which cells divide continuously throughout plant life?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Meristematic cells",
+            "Sclerenchyma"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states meristematic cells retain capacity for continuous division."
+    },
+    {
+        "id": 204,
+        "question": "Which growth curve shows three distinct phases of growth?",
+        "options": [
+            "Linear",
+            "Exponential",
+            "Sigmoid",
+            "Bell-shaped"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes sigmoid curve with lag, log and stationary phases."
+    },
+    {
+        "id": 205,
+        "question": "Which growth parameter compares increase in size with original size?",
+        "options": [
+            "Absolute growth rate",
+            "Relative growth rate",
+            "Growth efficiency",
+            "Development index"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines relative growth rate as increase relative to initial size."
+    },
+    {
+        "id": 206,
+        "question": "Which phase of sigmoid curve shows maximum cell division?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states log phase has maximum growth and division."
+    },
+    {
+        "id": 207,
+        "question": "Which environmental factor directly affects photomorphogenesis?",
+        "options": [
+            "Temperature",
+            "Light",
+            "Water",
+            "Minerals"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states photomorphogenesis is controlled by light."
+    },
+    {
+        "id": 208,
+        "question": "Which internal factor determines potential size of a plant organ?",
+        "options": [
+            "Hormones",
+            "Genes",
+            "Light",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states genes determine intrinsic growth potential."
+    },
+    {
+        "id": 209,
+        "question": "Which hormone mainly regulates cell elongation in coleoptiles?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates coleoptile elongation."
+    },
+    {
+        "id": 210,
+        "question": "Which hypothesis explains auxin-mediated cell elongation?",
+        "options": [
+            "Cholodny-Went theory",
+            "Acid growth hypothesis",
+            "Blackman law",
+            "Lockhart hypothesis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains auxin action by acid growth hypothesis."
+    },
+    {
+        "id": 211,
+        "question": "Which enzyme activity increases due to auxin-induced acidification of cell wall?",
+        "options": [
+            "Cellulase",
+            "Expansin",
+            "Amylase",
+            "Protease"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states expansins loosen cell wall under acidic conditions."
+    },
+    {
+        "id": 212,
+        "question": "Which hormone promotes synthesis of RNA and proteins leading to cell division?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote RNA and protein synthesis."
+    },
+    {
+        "id": 213,
+        "question": "Which hormone is primarily involved in stem elongation and bolting?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins cause stem elongation and bolting."
+    },
+    {
+        "id": 214,
+        "question": "Which hormone is produced abundantly during fruit ripening?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene production increases during ripening."
+    },
+    {
+        "id": 215,
+        "question": "Which hormone is termed stress hormone of plants?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "NCERT identifies ABA as stress hormone."
+    },
+    {
+        "id": 216,
+        "question": "Which hormone induces closure of stomata during water stress?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stomatal closure."
+    },
+    {
+        "id": 217,
+        "question": "Which hormone delays senescence by mobilizing nutrients?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 218,
+        "question": "Which hormone shows polar transport in plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin shows polar transport."
+    },
+    {
+        "id": 219,
+        "question": "Which hormone diffuses freely as a gas?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ethylene is gaseous and diffuses freely."
+    },
+    {
+        "id": 220,
+        "question": "Which hormone promotes adventitious root formation in stem cuttings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxins induce adventitious roots."
+    },
+    {
+        "id": 221,
+        "question": "Which hormone counteracts apical dominance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins overcome apical dominance."
+    },
+    {
+        "id": 222,
+        "question": "Which hormone promotes maleness in cucurbit plants?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote maleness."
+    },
+    {
+        "id": 223,
+        "question": "Which hormone promotes femaleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes femaleness."
+    },
+    {
+        "id": 224,
+        "question": "Which hormone promotes internodal elongation in sugarcane?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins increase internode length."
+    },
+    {
+        "id": 225,
+        "question": "Which hormone inhibits growth and induces dormancy?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA inhibits growth and induces dormancy."
+    },
+    {
+        "id": 226,
+        "question": "Which hormone promotes synthesis of alpha-amylase in aleurone layer?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellin induces alpha-amylase synthesis."
+    },
+    {
+        "id": 227,
+        "question": "Which hormone is essential for normal fruit development?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states fruit development is regulated by multiple hormones."
+    },
+    {
+        "id": 228,
+        "question": "Which hormone promotes parthenocarpy?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Cytokinin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxins induce parthenocarpy."
+    },
+    {
+        "id": 229,
+        "question": "Which hormone promotes leaf abscission?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene promotes abscission."
+    },
+    {
+        "id": 230,
+        "question": "Which hormone delays leaf abscission?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays abscission."
+    },
+    {
+        "id": 231,
+        "question": "Which phenomenon refers to flowering in response to day length?",
+        "options": [
+            "Vernalisation",
+            "Photoperiodism",
+            "Phototropism",
+            "Etiolation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines photoperiodism as flowering response to day length."
+    },
+    {
+        "id": 232,
+        "question": "Which scientists discovered photoperiodism?",
+        "options": [
+            "Darwin and Darwin",
+            "Went",
+            "Garner and Allard",
+            "Blackman"
+        ],
+        "answer": 2,
+        "explanation": "NCERT credits Garner and Allard."
+    },
+    {
+        "id": 233,
+        "question": "Which plant flowers when day length is shorter than critical photoperiod?",
+        "options": [
+            "Long day plant",
+            "Short day plant",
+            "Day neutral plant",
+            "Biennial plant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines short day plants accordingly."
+    },
+    {
+        "id": 234,
+        "question": "Which plant flowers irrespective of photoperiod?",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Tomato",
+            "Xanthium"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists tomato as day neutral plant."
+    },
+    {
+        "id": 235,
+        "question": "Which plant is a classical example of short day plant?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Spinach",
+            "Barley"
+        ],
+        "answer": 1,
+        "explanation": "NCERT lists rice as short day plant."
+    },
+    {
+        "id": 236,
+        "question": "Which plant is a long day plant?",
+        "options": [
+            "Rice",
+            "Xanthium",
+            "Wheat",
+            "Soybean"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states wheat is a long day plant."
+    },
+    {
+        "id": 237,
+        "question": "Which organ perceives photoperiodic stimulus?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower bud"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states leaves perceive photoperiodic stimulus."
+    },
+    {
+        "id": 238,
+        "question": "Which hypothetical hormone is responsible for flowering?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Florigen",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes florigen as hypothetical flowering hormone."
+    },
+    {
+        "id": 239,
+        "question": "Which pigment is involved in photoperiodism?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Phytochrome",
+            "Xanthophyll"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states phytochrome is photoperiodic pigment."
+    },
+    {
+        "id": 240,
+        "question": "Which form of phytochrome is biologically active?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Pfr is the active form."
+    },
+    {
+        "id": 241,
+        "question": "Which light converts Pr into Pfr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states red light converts Pr to Pfr."
+    },
+    {
+        "id": 242,
+        "question": "Which light converts Pfr into Pr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states far-red converts Pfr to Pr."
+    },
+    {
+        "id": 243,
+        "question": "Which form of phytochrome accumulates in darkness?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both equally",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Pr accumulates in darkness."
+    },
+    {
+        "id": 244,
+        "question": "Which process ensures flowering in biennial plants after cold treatment?",
+        "options": [
+            "Photoperiodism",
+            "Vernalisation",
+            "Etiolation",
+            "Stratification"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines vernalisation as cold-induced flowering."
+    },
+    {
+        "id": 245,
+        "question": "Which hormone can replace vernalisation requirement?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins can substitute cold requirement."
+    },
+    {
+        "id": 246,
+        "question": "Which stage of plant responds to vernalisation?",
+        "options": [
+            "Seed",
+            "Vegetative phase",
+            "Reproductive phase",
+            "Senescent phase"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states vegetative stage responds to vernalisation."
+    },
+    {
+        "id": 247,
+        "question": "Which response involves directional growth due to stimulus?",
+        "options": [
+            "Nastic movement",
+            "Tropic movement",
+            "Autonomic movement",
+            "Photoperiodic response"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines tropic movements as directional growth responses."
+    },
+    {
+        "id": 248,
+        "question": "Which tropism is growth response to gravity?",
+        "options": [
+            "Phototropism",
+            "Hydrotropism",
+            "Geotropism",
+            "Chemotropism"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines geotropism as growth response to gravity."
+    },
+    {
+        "id": 249,
+        "question": "Which hormone mediates phototropic curvature?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin mediates phototropism."
+    },
+    {
+        "id": 250,
+        "question": "Which theory explains unequal distribution of auxin in tropism?",
+        "options": [
+            "Acid growth hypothesis",
+            "Cholodny-Went theory",
+            "Blackman law",
+            "Lockhart hypothesis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains tropism by Cholodny-Went theory."
+    },
+    {
+        "id": 251,
+        "question": "Which phase of plant life span is metabolically most active?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states juvenile phase is metabolically active."
+    },
+    {
+        "id": 252,
+        "question": "Which phase follows juvenile phase?",
+        "options": [
+            "Vegetative",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states reproductive phase follows juvenile phase."
+    },
+    {
+        "id": 253,
+        "question": "Which phase shows aging and death of plant parts?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines senescence as aging phase."
+    },
+    {
+        "id": 254,
+        "question": "Which hormone accelerates senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 255,
+        "question": "Which hormone delays senescence most effectively?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 256,
+        "question": "Which hormone promotes nutrient mobilization towards developing fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins mobilize nutrients."
+    },
+    {
+        "id": 257,
+        "question": "Which hormone causes epinasty in leaves?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes epinasty."
+    },
+    {
+        "id": 258,
+        "question": "Which hormone is synthesized from methionine?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene is synthesized from methionine."
+    },
+    {
+        "id": 259,
+        "question": "Which hormone shows climacteric rise during fruit ripening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes climacteric rise."
+    },
+    {
+        "id": 260,
+        "question": "Which hormone promotes fruit softening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes fruit softening."
+    },
+    {
+        "id": 261,
+        "question": "Which hormone promotes cell expansion at low concentration and inhibits at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin shows concentration-dependent effects."
+    },
+    {
+        "id": 262,
+        "question": "Which hormone promotes root elongation at low concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root elongation at low levels."
+    },
+    {
+        "id": 263,
+        "question": "Which hormone inhibits root growth at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin inhibits root growth."
+    },
+    {
+        "id": 264,
+        "question": "Which hormone promotes lateral bud growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote lateral buds."
+    },
+    {
+        "id": 265,
+        "question": "Which hormone maintains apical dominance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin maintains apical dominance."
+    },
+    {
+        "id": 266,
+        "question": "Which hormone promotes differentiation of xylem tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates xylem differentiation."
+    },
+    {
+        "id": 267,
+        "question": "Which hormone promotes pollen tube growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote pollen tube growth."
+    },
+    {
+        "id": 268,
+        "question": "Which hormone promotes elongation of internodes in dwarf plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins overcome dwarfism."
+    },
+    {
+        "id": 269,
+        "question": "Which hormone inhibits elongation of internodes?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene inhibits elongation."
+    },
+    {
+        "id": 270,
+        "question": "Which hormone promotes radial expansion of stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes radial expansion."
+    },
+    {
+        "id": 271,
+        "question": "Which hormone is essential for callus formation in tissue culture?",
+        "options": [
+            "Auxin alone",
+            "Cytokinin alone",
+            "Auxin and cytokinin",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states callus formation requires auxin-cytokinin balance."
+    },
+    {
+        "id": 272,
+        "question": "Which hormone promotes shoot formation in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote shoot formation."
+    },
+    {
+        "id": 273,
+        "question": "Which hormone promotes root formation in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root formation."
+    },
+    {
+        "id": 274,
+        "question": "Which hormone is least required for tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Both auxin and cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin and cytokinin are essential; gibberellin is not."
+    },
+    {
+        "id": 275,
+        "question": "Which hormone delays yellowing of leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay chlorophyll degradation."
+    },
+    {
+        "id": 276,
+        "question": "Which hormone increases permeability of cell membranes?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin increases membrane permeability."
+    },
+    {
+        "id": 277,
+        "question": "Which hormone promotes etiolation in seedlings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes etiolation."
+    },
+    {
+        "id": 278,
+        "question": "Which hormone counteracts ethylene effects on senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 279,
+        "question": "Which hormone is associated with leaf curling under stress?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stress responses including leaf curling."
+    },
+    {
+        "id": 280,
+        "question": "Which hormone is used as defoliant?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene acts as defoliant."
+    },
+    {
+        "id": 281,
+        "question": "Which hormone acts as natural herbicide at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin concentration acts as herbicide."
+    },
+    {
+        "id": 282,
+        "question": "Which hormone is used as weedicide in agriculture?",
+        "options": [
+            "2,4-D",
+            "IAA",
+            "Zeatin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT lists 2,4-D as synthetic auxin weedicide."
+    },
+    {
+        "id": 283,
+        "question": "Which hormone promotes elongation of hypocotyl?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Cytokinin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes hypocotyl elongation."
+    },
+    {
+        "id": 284,
+        "question": "Which hormone promotes closing of stomata?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA induces stomatal closure."
+    },
+    {
+        "id": 285,
+        "question": "Which hormone is associated with dormancy maintenance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA maintains dormancy."
+    },
+    {
+        "id": 286,
+        "question": "Which hormone reduces transpiration rate?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA reduces transpiration."
+    },
+    {
+        "id": 287,
+        "question": "Which hormone promotes flowering in long day plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce flowering."
+    },
+    {
+        "id": 288,
+        "question": "Which hormone promotes synchronization of flowering in pineapple?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces flowering in pineapple."
+    },
+    {
+        "id": 289,
+        "question": "Which hormone promotes rapid elongation of internodes?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins cause rapid internode elongation."
+    },
+    {
+        "id": 290,
+        "question": "Which hormone increases sink strength of fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins increase sink strength."
+    },
+    {
+        "id": 291,
+        "question": "Which hormone inhibits elongation growth?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene inhibits elongation."
+    },
+    {
+        "id": 292,
+        "question": "Which hormone promotes swelling of stem tissues?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes radial swelling."
+    },
+    {
+        "id": 293,
+        "question": "Which hormone promotes mobilization of stored food during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins mobilize food reserves."
+    },
+    {
+        "id": 294,
+        "question": "Which hormone promotes synthesis of hydrolytic enzymes in germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce hydrolytic enzymes."
+    },
+    {
+        "id": 295,
+        "question": "Which hormone inhibits seed germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA inhibits germination."
+    },
+    {
+        "id": 296,
+        "question": "Which hormone promotes growth of lateral roots?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes lateral root growth."
+    },
+    {
+        "id": 297,
+        "question": "Which hormone promotes nutrient mobilization to young leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins mobilize nutrients to young tissues."
+    },
+    {
+        "id": 298,
+        "question": "Which hormone counteracts ABA during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins counteract ABA."
+    },
+    {
+        "id": 299,
+        "question": "Which hormone regulates differentiation of phloem?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates vascular differentiation."
+    },
+    {
+        "id": 300,
+        "question": "Which statement best represents control of plant growth and development?",
+        "options": [
+            "Only genes control growth",
+            "Only environment controls growth",
+            "Only hormones control growth",
+            "Interaction of genes, hormones and environment controls growth"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states plant growth and development depend on interaction of genes, hormones and environment."
+    },
+    {
+        "id": 301,
+        "question": "Which process in plants is defined as an irreversible increase in mass and size?",
+        "options": [
+            "Development",
+            "Differentiation",
+            "Growth",
+            "Maturation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines growth as an irreversible increase in mass and size."
+    },
+    {
+        "id": 302,
+        "question": "Which type of growth occurs when only one daughter cell continues to divide?",
+        "options": [
+            "Exponential growth",
+            "Arithmetic growth",
+            "Sigmoid growth",
+            "Geometric growth"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states arithmetic growth occurs when one daughter cell divides and the other differentiates."
+    },
+    {
+        "id": 303,
+        "question": "Which growth pattern results when both daughter cells retain the ability to divide?",
+        "options": [
+            "Arithmetic growth",
+            "Linear growth",
+            "Exponential growth",
+            "Stationary growth"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states exponential growth occurs when both daughter cells divide."
+    },
+    {
+        "id": 304,
+        "question": "Which parameter measures increase in dry weight per unit time?",
+        "options": [
+            "Relative growth rate",
+            "Absolute growth rate",
+            "Growth efficiency",
+            "Development rate"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines absolute growth rate as increase in total growth per unit time."
+    },
+    {
+        "id": 305,
+        "question": "Which graph best represents exponential growth?",
+        "options": [
+            "Straight line",
+            "Sigmoid curve",
+            "J-shaped curve",
+            "Bell-shaped curve"
+        ],
+        "answer": 2,
+        "explanation": "NCERT shows exponential growth as J-shaped curve."
+    },
+    {
+        "id": 306,
+        "question": "Which phase of sigmoid curve represents cessation of growth?",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Decline phase"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states stationary phase represents cessation of growth."
+    },
+    {
+        "id": 307,
+        "question": "Which factor provides energy required for growth processes?",
+        "options": [
+            "Minerals",
+            "Light",
+            "Water",
+            "Temperature"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states light provides energy for photosynthesis supporting growth."
+    },
+    {
+        "id": 308,
+        "question": "Which internal factor regulates timing of growth responses?",
+        "options": [
+            "Genes",
+            "Light",
+            "Water",
+            "Minerals"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states genes regulate timing of growth and development."
+    },
+    {
+        "id": 309,
+        "question": "Which hormone primarily influences cell elongation in stems?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxins promote stem elongation."
+    },
+    {
+        "id": 310,
+        "question": "Which hormone primarily promotes cell division in plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote cell division."
+    },
+    {
+        "id": 311,
+        "question": "Which hormone is acidic in nature and promotes internodal elongation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins are acidic and promote internode elongation."
+    },
+    {
+        "id": 312,
+        "question": "Which hormone is gaseous and diffuses through intercellular spaces?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene is a gaseous hormone."
+    },
+    {
+        "id": 313,
+        "question": "Which hormone induces dormancy in seeds?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA induces seed dormancy."
+    },
+    {
+        "id": 314,
+        "question": "Which hormone promotes breaking of dormancy in barley seeds?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins break seed dormancy."
+    },
+    {
+        "id": 315,
+        "question": "Which hormone delays senescence by preventing chlorophyll degradation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 316,
+        "question": "Which hormone promotes abscission of leaves and fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene promotes abscission."
+    },
+    {
+        "id": 317,
+        "question": "Which hormone shows basipetal polar transport?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin shows basipetal polar transport."
+    },
+    {
+        "id": 318,
+        "question": "Which hormone accumulates in ripening fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene production increases during fruit ripening."
+    },
+    {
+        "id": 319,
+        "question": "Which hormone is also known as stress hormone?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT identifies ABA as stress hormone."
+    },
+    {
+        "id": 320,
+        "question": "Which hormone promotes cell expansion by loosening cell wall?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin causes cell wall loosening."
+    },
+    {
+        "id": 321,
+        "question": "Which hypothesis explains auxin-induced cell elongation?",
+        "options": [
+            "Cholodny-Went theory",
+            "Acid growth hypothesis",
+            "Blackman law",
+            "Lockhart law"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains auxin action through acid growth hypothesis."
+    },
+    {
+        "id": 322,
+        "question": "Which ion concentration increases in cell wall due to auxin action?",
+        "options": [
+            "Na+",
+            "K+",
+            "H+",
+            "Ca2+"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin increases H+ concentration in cell wall."
+    },
+    {
+        "id": 323,
+        "question": "Which hormone promotes differentiation of vascular tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates vascular differentiation."
+    },
+    {
+        "id": 324,
+        "question": "Which hormone promotes elongation of genetically dwarf plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins overcome dwarfism."
+    },
+    {
+        "id": 325,
+        "question": "Which hormone promotes flowering in long day plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce flowering."
+    },
+    {
+        "id": 326,
+        "question": "Which hormone induces synthesis of alpha-amylase in aleurone layer?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce alpha-amylase synthesis."
+    },
+    {
+        "id": 327,
+        "question": "Which hormone promotes parthenocarpy?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxins induce parthenocarpy."
+    },
+    {
+        "id": 328,
+        "question": "Which hormone delays fruit drop?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays abscission."
+    },
+    {
+        "id": 329,
+        "question": "Which hormone accelerates fruit ripening?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates fruit ripening."
+    },
+    {
+        "id": 330,
+        "question": "Which hormone promotes lateral bud growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote lateral bud growth."
+    },
+    {
+        "id": 331,
+        "question": "Which hormone maintains apical dominance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin maintains apical dominance."
+    },
+    {
+        "id": 332,
+        "question": "Removal of apical bud results in increased activity of",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote lateral buds after apical bud removal."
+    },
+    {
+        "id": 333,
+        "question": "Which hormone promotes femaleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes femaleness."
+    },
+    {
+        "id": 334,
+        "question": "Which hormone promotes maleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote maleness."
+    },
+    {
+        "id": 335,
+        "question": "Which hormone promotes radial expansion of stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes radial swelling."
+    },
+    {
+        "id": 336,
+        "question": "Which hormone inhibits elongation growth?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene inhibits elongation."
+    },
+    {
+        "id": 337,
+        "question": "Which hormone promotes epinasty in leaves?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes epinasty."
+    },
+    {
+        "id": 338,
+        "question": "Which hormone reduces transpiration rate?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA reduces transpiration."
+    },
+    {
+        "id": 339,
+        "question": "Which hormone induces stomatal closure?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stomatal closure."
+    },
+    {
+        "id": 340,
+        "question": "Which hormone inhibits seed germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA inhibits germination."
+    },
+    {
+        "id": 341,
+        "question": "Which hormone counteracts the effect of ABA during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins counteract ABA."
+    },
+    {
+        "id": 342,
+        "question": "Which hormone promotes mobilization of food reserves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins mobilize food reserves."
+    },
+    {
+        "id": 343,
+        "question": "Which hormone promotes synthesis of hydrolytic enzymes?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce hydrolytic enzymes."
+    },
+    {
+        "id": 344,
+        "question": "Which hormone delays senescence most effectively?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 345,
+        "question": "Which hormone accelerates senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 346,
+        "question": "Which hormone is synthesized from methionine?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene is synthesized from methionine."
+    },
+    {
+        "id": 347,
+        "question": "Which hormone causes climacteric rise in respiration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene causes climacteric rise."
+    },
+    {
+        "id": 348,
+        "question": "Which hormone promotes flowering in pineapple?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces flowering in pineapple."
+    },
+    {
+        "id": 349,
+        "question": "Which hormone delays ripening when applied externally?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay ripening."
+    },
+    {
+        "id": 350,
+        "question": "Which hormone is least required in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Both auxin and cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin and cytokinin are essential for tissue culture."
+    },
+    {
+        "id": 351,
+        "question": "Which hormone promotes callus formation along with cytokinin?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin with cytokinin induces callus formation."
+    },
+    {
+        "id": 352,
+        "question": "Which hormone promotes shoot initiation in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote shoot initiation."
+    },
+    {
+        "id": 353,
+        "question": "Which hormone promotes root initiation in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root initiation."
+    },
+    {
+        "id": 354,
+        "question": "Which hormone promotes etiolation in seedlings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes etiolation."
+    },
+    {
+        "id": 355,
+        "question": "Which hormone inhibits lateral bud growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin inhibits lateral buds."
+    },
+    {
+        "id": 356,
+        "question": "Which hormone increases sink strength of developing fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins increase sink strength."
+    },
+    {
+        "id": 357,
+        "question": "Which hormone promotes pollen tube growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote pollen tube growth."
+    },
+    {
+        "id": 358,
+        "question": "Which hormone regulates differentiation of xylem and phloem?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates vascular differentiation."
+    },
+    {
+        "id": 359,
+        "question": "Which hormone reduces leaf fall under stress?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays leaf abscission."
+    },
+    {
+        "id": 360,
+        "question": "Which hormone promotes nutrient mobilization to young leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins mobilize nutrients."
+    },
+    {
+        "id": 361,
+        "question": "Which phenomenon refers to flowering induced by low temperature?",
+        "options": [
+            "Photoperiodism",
+            "Vernalisation",
+            "Etiolation",
+            "Stratification"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines vernalisation as cold-induced flowering."
+    },
+    {
+        "id": 362,
+        "question": "Which plants typically require vernalisation?",
+        "options": [
+            "Annuals",
+            "Biennials",
+            "Perennials",
+            "All plants"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states biennial plants require vernalisation."
+    },
+    {
+        "id": 363,
+        "question": "Which hormone can substitute for cold treatment in vernalisation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins can replace cold requirement."
+    },
+    {
+        "id": 364,
+        "question": "Which response depends on duration of light and dark periods?",
+        "options": [
+            "Phototropism",
+            "Photoperiodism",
+            "Vernalisation",
+            "Etiolation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines photoperiodism as response to light duration."
+    },
+    {
+        "id": 365,
+        "question": "Which scientists discovered photoperiodism?",
+        "options": [
+            "Darwin",
+            "Went",
+            "Garner and Allard",
+            "Blackman"
+        ],
+        "answer": 2,
+        "explanation": "NCERT credits Garner and Allard."
+    },
+    {
+        "id": 366,
+        "question": "Which plant flowers when day length is shorter than critical period?",
+        "options": [
+            "Long day plant",
+            "Short day plant",
+            "Day neutral plant",
+            "Biennial"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines short day plants."
+    },
+    {
+        "id": 367,
+        "question": "Which plant flowers irrespective of photoperiod?",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Tomato",
+            "Xanthium"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists tomato as day neutral plant."
+    },
+    {
+        "id": 368,
+        "question": "Which organ perceives photoperiodic stimulus?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states leaves perceive photoperiodic stimulus."
+    },
+    {
+        "id": 369,
+        "question": "Which pigment mediates photoperiodism?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Phytochrome",
+            "Xanthophyll"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states phytochrome mediates photoperiodism."
+    },
+    {
+        "id": 370,
+        "question": "Which form of phytochrome is biologically active?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Pfr is the active form."
+    },
+    {
+        "id": 371,
+        "question": "Which light converts Pr to Pfr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states red light converts Pr to Pfr."
+    },
+    {
+        "id": 372,
+        "question": "Which light converts Pfr to Pr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states far-red converts Pfr to Pr."
+    },
+    {
+        "id": 373,
+        "question": "Which form of phytochrome accumulates in darkness?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Pr accumulates in darkness."
+    },
+    {
+        "id": 374,
+        "question": "Which hypothetical hormone induces flowering?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Florigen",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes florigen as flowering stimulus."
+    },
+    {
+        "id": 375,
+        "question": "Which growth movement is directional?",
+        "options": [
+            "Nastic",
+            "Tropic",
+            "Autonomic",
+            "Photoperiodic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines tropic movements as directional growth responses."
+    },
+    {
+        "id": 376,
+        "question": "Which tropism is response to gravity?",
+        "options": [
+            "Phototropism",
+            "Hydrotropism",
+            "Geotropism",
+            "Chemotropism"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines geotropism."
+    },
+    {
+        "id": 377,
+        "question": "Which hormone mediates phototropic response?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin mediates phototropism."
+    },
+    {
+        "id": 378,
+        "question": "Which theory explains unequal auxin distribution during tropism?",
+        "options": [
+            "Acid growth hypothesis",
+            "Cholodny-Went theory",
+            "Blackman law",
+            "Lockhart hypothesis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains tropism through Cholodny-Went theory."
+    },
+    {
+        "id": 379,
+        "question": "Which phase of plant life is metabolically most active?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states juvenile phase is metabolically active."
+    },
+    {
+        "id": 380,
+        "question": "Which phase is characterized by flowering and fruiting?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states reproductive phase involves flowering and fruiting."
+    },
+    {
+        "id": 381,
+        "question": "Which phase shows aging and death of plant organs?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines senescence as aging and death."
+    },
+    {
+        "id": 382,
+        "question": "Which hormone is primarily responsible for senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 383,
+        "question": "Which hormone delays senescence and aging?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 384,
+        "question": "Which hormone promotes leaf expansion?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote leaf expansion."
+    },
+    {
+        "id": 385,
+        "question": "Which hormone causes hook formation in seedlings?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes hook formation."
+    },
+    {
+        "id": 386,
+        "question": "Which hormone inhibits root elongation at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin inhibits root elongation."
+    },
+    {
+        "id": 387,
+        "question": "Which hormone promotes lateral root formation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes lateral root formation."
+    },
+    {
+        "id": 388,
+        "question": "Which hormone acts as defoliant?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene acts as defoliant."
+    },
+    {
+        "id": 389,
+        "question": "Which hormone promotes synchronization of flowering in pineapple?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces flowering in pineapple."
+    },
+    {
+        "id": 390,
+        "question": "Which hormone promotes elongation of internodes in sugarcane?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote internode elongation."
+    },
+    {
+        "id": 391,
+        "question": "Which hormone increases respiration rate during ripening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene increases respiration during ripening."
+    },
+    {
+        "id": 392,
+        "question": "Which hormone shows climacteric rise in fruits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes climacteric rise."
+    },
+    {
+        "id": 393,
+        "question": "Which hormone reduces shelf life of fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates ripening and senescence."
+    },
+    {
+        "id": 394,
+        "question": "Which hormone increases shelf life of cut flowers?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 395,
+        "question": "Which hormone is antagonistic to ethylene?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins counteract ethylene effects."
+    },
+    {
+        "id": 396,
+        "question": "Which hormone promotes early flowering?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce early flowering."
+    },
+    {
+        "id": 397,
+        "question": "Which hormone regulates sex expression in plants?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states auxin, ethylene and gibberellin regulate sex expression."
+    },
+    {
+        "id": 398,
+        "question": "Which hormone promotes etiolation and stem elongation in dark?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes elongation in dark."
+    },
+    {
+        "id": 399,
+        "question": "Which hormone inhibits cell elongation in roots?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene inhibits root elongation."
+    },
+    {
+        "id": 400,
+        "question": "Which statement correctly describes plant growth and development?",
+        "options": [
+            "Controlled only by genes",
+            "Controlled only by environment",
+            "Controlled only by hormones",
+            "Controlled by interaction of genes, hormones and environment"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states plant growth and development are controlled by interaction of genes, hormones and environment."
+    },
+    {
+        "id": 401,
+        "question": "Which type of growth shows increase in length without increase in width?",
+        "options": [
+            "Primary growth",
+            "Secondary growth",
+            "Tertiary growth",
+            "Radial growth"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states primary growth increases length of the plant body."
+    },
+    {
+        "id": 402,
+        "question": "Which meristem is responsible for increase in thickness of stem?",
+        "options": [
+            "Apical meristem",
+            "Intercalary meristem",
+            "Lateral meristem",
+            "Primary meristem"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states lateral meristems cause increase in girth."
+    },
+    {
+        "id": 403,
+        "question": "Which process refers to resumption of cell division in differentiated cells?",
+        "options": [
+            "Differentiation",
+            "Redifferentiation",
+            "Dedifferentiation",
+            "Development"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines dedifferentiation as regaining ability to divide."
+    },
+    {
+        "id": 404,
+        "question": "Loss of capacity to divide after dedifferentiation is called",
+        "options": [
+            "Differentiation",
+            "Redifferentiation",
+            "Dedifferentiation",
+            "Maturation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines redifferentiation as loss of division ability."
+    },
+    {
+        "id": 405,
+        "question": "Which parameter compares growth rate between two organisms of different sizes?",
+        "options": [
+            "Absolute growth rate",
+            "Relative growth rate",
+            "Growth curve",
+            "Development index"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states relative growth rate compares growth per unit initial size."
+    },
+    {
+        "id": 406,
+        "question": "Which growth curve is most commonly observed in plants?",
+        "options": [
+            "Linear",
+            "Exponential",
+            "Sigmoid",
+            "Bell-shaped"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states plant growth generally follows sigmoid curve."
+    },
+    {
+        "id": 407,
+        "question": "Which phase of sigmoid curve shows maximum metabolic activity?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states log phase shows maximum metabolic activity."
+    },
+    {
+        "id": 408,
+        "question": "Which phase of sigmoid curve shows differentiation and maturation?",
+        "options": [
+            "Lag",
+            "Log",
+            "Stationary",
+            "Decline"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states stationary phase involves maturation."
+    },
+    {
+        "id": 409,
+        "question": "Which factor is essential for enzymatic reactions during growth?",
+        "options": [
+            "Light",
+            "Temperature",
+            "Gravity",
+            "Minerals"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states temperature affects enzyme activity."
+    },
+    {
+        "id": 410,
+        "question": "Which internal factor determines pattern of plant development?",
+        "options": [
+            "Hormones",
+            "Genes",
+            "Light",
+            "Water"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states genes control pattern of development."
+    },
+    {
+        "id": 411,
+        "question": "Which hormone mainly promotes cell elongation in roots at low concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root elongation at low concentration."
+    },
+    {
+        "id": 412,
+        "question": "Which hormone inhibits root elongation at higher concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin concentration inhibits root growth."
+    },
+    {
+        "id": 413,
+        "question": "Which hormone promotes cell division in root and shoot apices?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote cell division."
+    },
+    {
+        "id": 414,
+        "question": "Which hormone was discovered from Gibberella fujikuroi?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins were discovered from fungus Gibberella fujikuroi."
+    },
+    {
+        "id": 415,
+        "question": "Which hormone promotes bolting in rosette plants?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins cause bolting."
+    },
+    {
+        "id": 416,
+        "question": "Which hormone promotes mobilization of nutrients during senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins mobilize nutrients and delay senescence."
+    },
+    {
+        "id": 417,
+        "question": "Which hormone is produced during fruit ripening and senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene production increases during ripening and senescence."
+    },
+    {
+        "id": 418,
+        "question": "Which hormone induces leaf abscission under stress conditions?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes abscission."
+    },
+    {
+        "id": 419,
+        "question": "Which hormone causes stomatal closure during drought?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stomatal closure."
+    },
+    {
+        "id": 420,
+        "question": "Which hormone is also known as growth inhibitor?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states abscisic acid is a growth inhibitor."
+    },
+    {
+        "id": 421,
+        "question": "Which hormone promotes synthesis of alpha-amylase in germinating seeds?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce alpha-amylase synthesis."
+    },
+    {
+        "id": 422,
+        "question": "Which hormone breaks seed dormancy?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins break dormancy."
+    },
+    {
+        "id": 423,
+        "question": "Which hormone maintains seed dormancy?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA maintains dormancy."
+    },
+    {
+        "id": 424,
+        "question": "Which hormone delays fruit drop in orchards?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays abscission."
+    },
+    {
+        "id": 425,
+        "question": "Which hormone is commonly used as weedicide?",
+        "options": [
+            "IAA",
+            "2,4-D",
+            "Zeatin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states 2,4-D is used as weedicide."
+    },
+    {
+        "id": 426,
+        "question": "Which hormone promotes adventitious root formation in cuttings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin induces adventitious roots."
+    },
+    {
+        "id": 427,
+        "question": "Which hormone counteracts apical dominance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins overcome apical dominance."
+    },
+    {
+        "id": 428,
+        "question": "Which hormone maintains apical dominance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin maintains apical dominance."
+    },
+    {
+        "id": 429,
+        "question": "Which hormone promotes lateral bud growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote lateral bud growth."
+    },
+    {
+        "id": 430,
+        "question": "Which hormone promotes parthenocarpy?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxins induce parthenocarpy."
+    },
+    {
+        "id": 431,
+        "question": "Which hormone is gaseous in nature?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ethylene is a gaseous hormone."
+    },
+    {
+        "id": 432,
+        "question": "Which hormone causes triple response in seedlings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ethylene induces triple response."
+    },
+    {
+        "id": 433,
+        "question": "Which hormone promotes femaleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes femaleness."
+    },
+    {
+        "id": 434,
+        "question": "Which hormone promotes maleness in cucurbits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote maleness."
+    },
+    {
+        "id": 435,
+        "question": "Which hormone promotes radial expansion of stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene promotes radial swelling."
+    },
+    {
+        "id": 436,
+        "question": "Which hormone inhibits elongation of stem?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene inhibits elongation."
+    },
+    {
+        "id": 437,
+        "question": "Which hormone accelerates senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 438,
+        "question": "Which hormone delays senescence most effectively?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 439,
+        "question": "Which hormone increases sink strength of fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins increase sink strength."
+    },
+    {
+        "id": 440,
+        "question": "Which hormone increases respiration rate during fruit ripening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene increases respiration during ripening."
+    },
+    {
+        "id": 441,
+        "question": "Which phenomenon refers to flowering in response to low temperature?",
+        "options": [
+            "Photoperiodism",
+            "Vernalisation",
+            "Etiolation",
+            "Dormancy"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines vernalisation as cold-induced flowering."
+    },
+    {
+        "id": 442,
+        "question": "Which plants typically require vernalisation?",
+        "options": [
+            "Annuals",
+            "Biennials",
+            "Perennials",
+            "All plants"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states biennial plants require vernalisation."
+    },
+    {
+        "id": 443,
+        "question": "Which hormone can substitute vernalisation requirement?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins can substitute cold treatment."
+    },
+    {
+        "id": 444,
+        "question": "Which phenomenon refers to response to length of day?",
+        "options": [
+            "Phototropism",
+            "Photoperiodism",
+            "Vernalisation",
+            "Nastic movement"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines photoperiodism as response to day length."
+    },
+    {
+        "id": 445,
+        "question": "Which scientists discovered photoperiodism?",
+        "options": [
+            "Darwin",
+            "Went",
+            "Garner and Allard",
+            "Blackman"
+        ],
+        "answer": 2,
+        "explanation": "NCERT credits Garner and Allard."
+    },
+    {
+        "id": 446,
+        "question": "Which plant flowers when day length is shorter than critical period?",
+        "options": [
+            "Long day plant",
+            "Short day plant",
+            "Day neutral plant",
+            "Biennial"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines short day plants."
+    },
+    {
+        "id": 447,
+        "question": "Which plant flowers irrespective of day length?",
+        "options": [
+            "Rice",
+            "Wheat",
+            "Tomato",
+            "Xanthium"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists tomato as day neutral plant."
+    },
+    {
+        "id": 448,
+        "question": "Which organ perceives photoperiodic stimulus?",
+        "options": [
+            "Root",
+            "Stem",
+            "Leaf",
+            "Flower"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states leaves perceive photoperiodic stimulus."
+    },
+    {
+        "id": 449,
+        "question": "Which hypothetical hormone is responsible for flowering?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Florigen",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT describes florigen as hypothetical flowering hormone."
+    },
+    {
+        "id": 450,
+        "question": "Which pigment mediates photoperiodism?",
+        "options": [
+            "Chlorophyll",
+            "Carotene",
+            "Phytochrome",
+            "Xanthophyll"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states phytochrome mediates photoperiodism."
+    },
+    {
+        "id": 451,
+        "question": "Which form of phytochrome is biologically active?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Pfr is biologically active."
+    },
+    {
+        "id": 452,
+        "question": "Which light converts Pr to Pfr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states red light converts Pr to Pfr."
+    },
+    {
+        "id": 453,
+        "question": "Which light converts Pfr to Pr?",
+        "options": [
+            "Blue",
+            "Red",
+            "Far-red",
+            "Green"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states far-red converts Pfr to Pr."
+    },
+    {
+        "id": 454,
+        "question": "Which form of phytochrome accumulates in darkness?",
+        "options": [
+            "Pr",
+            "Pfr",
+            "Both",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Pr accumulates in darkness."
+    },
+    {
+        "id": 455,
+        "question": "Which movement is directional growth response?",
+        "options": [
+            "Nastic",
+            "Tropic",
+            "Autonomic",
+            "Photoperiodic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines tropic movement as directional growth."
+    },
+    {
+        "id": 456,
+        "question": "Which tropism is growth response to gravity?",
+        "options": [
+            "Phototropism",
+            "Hydrotropism",
+            "Geotropism",
+            "Chemotropism"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines geotropism."
+    },
+    {
+        "id": 457,
+        "question": "Which hormone mediates phototropic curvature?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin mediates phototropism."
+    },
+    {
+        "id": 458,
+        "question": "Which theory explains auxin redistribution in tropism?",
+        "options": [
+            "Acid growth hypothesis",
+            "Cholodny-Went theory",
+            "Blackman law",
+            "Lockhart hypothesis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT explains tropism by Cholodny-Went theory."
+    },
+    {
+        "id": 459,
+        "question": "Which phase of plant life is metabolically most active?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states juvenile phase is metabolically active."
+    },
+    {
+        "id": 460,
+        "question": "Which phase of plant life shows flowering and fruiting?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states reproductive phase involves flowering and fruiting."
+    },
+    {
+        "id": 461,
+        "question": "Which phase involves aging and death of plant organs?",
+        "options": [
+            "Juvenile",
+            "Reproductive",
+            "Senescent",
+            "Dormant"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines senescence as aging and death."
+    },
+    {
+        "id": 462,
+        "question": "Which hormone is mainly responsible for senescence?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 463,
+        "question": "Which hormone delays senescence and aging?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 464,
+        "question": "Which hormone promotes leaf expansion?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote leaf expansion."
+    },
+    {
+        "id": 465,
+        "question": "Which hormone causes hook formation in seedlings?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes hook formation."
+    },
+    {
+        "id": 466,
+        "question": "Which hormone inhibits root growth at high concentration?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states high auxin inhibits root growth."
+    },
+    {
+        "id": 467,
+        "question": "Which hormone promotes lateral root formation?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes lateral root formation."
+    },
+    {
+        "id": 468,
+        "question": "Which hormone acts as defoliant?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene acts as defoliant."
+    },
+    {
+        "id": 469,
+        "question": "Which hormone promotes synchronization of flowering in pineapple?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene induces flowering in pineapple."
+    },
+    {
+        "id": 470,
+        "question": "Which hormone promotes rapid elongation of internodes?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote internode elongation."
+    },
+    {
+        "id": 471,
+        "question": "Which hormone increases respiration during ripening?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene increases respiration."
+    },
+    {
+        "id": 472,
+        "question": "Which hormone shows climacteric rise in fruits?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "Cytokinin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ethylene causes climacteric rise."
+    },
+    {
+        "id": 473,
+        "question": "Which hormone reduces shelf life of fruits?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene accelerates senescence."
+    },
+    {
+        "id": 474,
+        "question": "Which hormone increases shelf life of cut flowers?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay senescence."
+    },
+    {
+        "id": 475,
+        "question": "Which hormone is antagonistic to ethylene?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins counteract ethylene effects."
+    },
+    {
+        "id": 476,
+        "question": "Which hormone induces early flowering?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce early flowering."
+    },
+    {
+        "id": 477,
+        "question": "Which hormone regulates sex expression in plants?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states auxin, ethylene and gibberellin regulate sex expression."
+    },
+    {
+        "id": 478,
+        "question": "Which hormone promotes elongation in dark-grown seedlings?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes elongation in darkness."
+    },
+    {
+        "id": 479,
+        "question": "Which hormone inhibits cell elongation in roots?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Gibberellin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ethylene inhibits root elongation."
+    },
+    {
+        "id": 480,
+        "question": "Which statement best describes control of plant growth?",
+        "options": [
+            "Only genes",
+            "Only environment",
+            "Only hormones",
+            "Interaction of genes, hormones and environment"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states plant growth is controlled by interaction of genes, hormones and environment."
+    },
+    {
+        "id": 481,
+        "question": "Which hormone promotes differentiation of vascular tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates vascular differentiation."
+    },
+    {
+        "id": 482,
+        "question": "Which hormone increases permeability of cell membranes?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin increases membrane permeability."
+    },
+    {
+        "id": 483,
+        "question": "Which hormone promotes callus formation with cytokinin?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin with cytokinin induces callus formation."
+    },
+    {
+        "id": 484,
+        "question": "Which hormone promotes shoot initiation in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins promote shoot initiation."
+    },
+    {
+        "id": 485,
+        "question": "Which hormone promotes root initiation in tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin promotes root initiation."
+    },
+    {
+        "id": 486,
+        "question": "Which hormone is least required for tissue culture?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Both auxin and cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states auxin and cytokinin are essential; gibberellin is least required."
+    },
+    {
+        "id": 487,
+        "question": "Which hormone delays yellowing of leaves?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins delay chlorophyll degradation."
+    },
+    {
+        "id": 488,
+        "question": "Which hormone causes leaf curling under stress?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stress responses."
+    },
+    {
+        "id": 489,
+        "question": "Which hormone reduces transpiration rate?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA reduces transpiration."
+    },
+    {
+        "id": 490,
+        "question": "Which hormone promotes closing of stomata?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA causes stomatal closure."
+    },
+    {
+        "id": 491,
+        "question": "Which hormone inhibits seed germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states ABA inhibits germination."
+    },
+    {
+        "id": 492,
+        "question": "Which hormone promotes mobilization of food reserves during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins mobilize food reserves."
+    },
+    {
+        "id": 493,
+        "question": "Which hormone induces synthesis of hydrolytic enzymes during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "ABA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins induce hydrolytic enzymes."
+    },
+    {
+        "id": 494,
+        "question": "Which hormone counteracts ABA during germination?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins counteract ABA."
+    },
+    {
+        "id": 495,
+        "question": "Which hormone promotes nutrient mobilization to young tissues?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states cytokinins mobilize nutrients."
+    },
+    {
+        "id": 496,
+        "question": "Which hormone promotes pollen tube growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote pollen tube growth."
+    },
+    {
+        "id": 497,
+        "question": "Which hormone regulates differentiation of phloem?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "ABA"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin regulates vascular differentiation."
+    },
+    {
+        "id": 498,
+        "question": "Which hormone delays leaf fall?",
+        "options": [
+            "Auxin",
+            "Ethylene",
+            "ABA",
+            "Gibberellin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states auxin delays abscission."
+    },
+    {
+        "id": 499,
+        "question": "Which hormone promotes internode elongation in sugarcane?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Ethylene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states gibberellins promote internode elongation."
+    },
+    {
+        "id": 500,
+        "question": "Which statement correctly summarizes plant growth and development?",
+        "options": [
+            "Controlled only by genes",
+            "Controlled only by environment",
+            "Controlled only by hormones",
+            "Controlled by interaction of genes, hormones and environment"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states plant growth and development depend on interaction of genes, hormones and environment."
+    }
+]

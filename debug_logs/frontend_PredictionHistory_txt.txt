@@ -1,0 +1,232 @@
+﻿// src/components/PredictionHistory.jsx
+import React, { useEffect, useState } from "react";
+import { getAuth } from "firebase/auth";
+import {
+  getFirestore,
+  collection,
+  query,
+  where,
+  orderBy,
+  getDocs
+} from "firebase/firestore";
+
+/**
+ * Helper: convert Firestore Timestamp or plain value -> ISO string
+ */
+function toISODate(val) {
+  if (!val) return "";
+  // Firestore Timestamp has seconds + nanoseconds
+  if (val.seconds !== undefined && typeof val.seconds === "number") {
+    return new Date(val.seconds * 1000).toISOString();
+  }
+  // If a plain object with toDate()
+  if (typeof val.toDate === "function") {
+    try {
+      return val.toDate().toISOString();
+    } catch {
+      // fallthrough
+    }
+  }
+  // If numeric (ms)
+  if (typeof val === "number") {
+    return new Date(val).toISOString();
+  }
+  // If string parseable
+  const d = new Date(val);
+  if (!isNaN(d.getTime())) return d.toISOString();
+  return String(val);
+}
+
+/**
+ * Convert array of objects to CSV (returns string)
+ * fields: array of { key, label } to control order and labels
+ */
+function objectsToCsv(rows, fields) {
+  const escape = (text) => {
+    if (text === null || text === undefined) return "";
+    const s = String(text);
+    // Escape double quotes by doubling them, and wrap in quotes if needed
+    if (s.includes('"') || s.includes(",") || s.includes("\n")) {
+      return `"${s.replace(/"/g, '""')}"`;
+    }
+    return s;
+  };
+
+  const header = fields.map((f) => escape(f.label)).join(",");
+  const lines = rows.map((row) =>
+    fields
+      .map((f) => {
+        const v = typeof f.key === "function" ? f.key(row) : row[f.key];
+        return escape(v);
+      })
+      .join(",")
+  );
+
+  return [header, ...lines].join("\n");
+}
+
+/**
+ * Trigger download of a string as a file
+ */
+function downloadTextFile(filename, text) {
+  const blob = new Blob([text], { type: "text/csv;charset=utf-8;" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+}
+
+export default function PredictionHistory() {
+  const [loading, setLoading] = useState(true);
+  const [history, setHistory] = useState([]);
+  const [error, setError] = useState(null);
+
+  const auth = getAuth();
+  const db = getFirestore();
+
+  useEffect(() => {
+    let mounted = true;
+
+    async function fetchHistory() {
+      const user = auth.currentUser;
+      if (!user) {
+        if (mounted) {
+          setHistory([]);
+          setLoading(false);
+        }
+        return;
+      }
+
+      try {
+        const q = query(
+          collection(db, "predictions"),
+          where("userId", "==", user.uid),
+          orderBy("timestamp", "desc")
+        );
+
+        const snapshot = await getDocs(q);
+        const items = snapshot.docs.map((doc) => {
+          const data = doc.data();
+          return {
+            id: doc.id,
+            ...data
+          };
+        });
+
+        if (mounted) {
+          setHistory(items);
+        }
+      } catch (err) {
+        console.error("Error loading history:", err);
+        if (mounted) setError("Failed to load prediction history.");
+      } finally {
+        if (mounted) setLoading(false);
+      }
+    }
+
+    fetchHistory();
+
+    return () => {
+      mounted = false;
+    };
+  }, [auth, db]);
+
+  // CSV export handler
+  const handleExportCsv = () => {
+    if (!history || !history.length) return;
+
+    const fields = [
+      { key: "id", label: "docId" },
+      { key: (r) => (r.timestamp ? toISODate(r.timestamp) : ""), label: "date_iso" },
+      { key: "score", label: "score" },
+      { key: "percentile", label: "percentile" },
+      { key: "predictedRank", label: "predictedRank" },
+      {
+        key: (r) =>
+          Array.isArray(r.rankRange) ? r.rankRange.join(" - ") : (r.rankRange ?? ""),
+        label: "rankRange"
+      },
+      { key: "year", label: "year" },
+      { key: "method", label: "method" },
+      { key: "totalCandidates", label: "totalCandidates" },
+      { key: "notes", label: "notes" } // if you store any extra text
+    ];
+
+    const csv = objectsToCsv(history, fields);
+
+    // filename with user email and date
+    const user = auth.currentUser;
+    const safeEmail = user?.email ? user.email.replace(/[@.]/g, "_") : "user";
+    const yyyy = new Date().toISOString().slice(0, 10).replace(/-/g, "");
+    const filename = `predictions_${safeEmail}_${yyyy}.csv`;
+
+    downloadTextFile(filename, csv);
+  };
+
+  if (loading) return <p style={{ padding: 20 }}>Loading prediction history...</p>;
+  if (error) return <p style={{ padding: 20, color: "red" }}>{error}</p>;
+  if (!history.length)
+    return (
+      <div style={{ padding: 20 }}>
+        <p>No previous predictions found.</p>
+      </div>
+    );
+
+  return (
+    <div style={{ padding: 20 }}>
+      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+        <h2 style={{ margin: 0 }}>Your Prediction History</h2>
+        <div>
+          <button
+            onClick={handleExportCsv}
+            style={{
+              padding: "8px 12px",
+              borderRadius: 6,
+              border: "1px solid #888",
+              background: "#fff",
+              cursor: "pointer"
+            }}
+          >
+            Export CSV
+          </button>
+        </div>
+      </div>
+
+      <div style={{ overflowX: "auto", marginTop: 16 }}>
+        <table style={{ width: "100%", borderCollapse: "collapse", minWidth: 700 }}>
+          <thead>
+            <tr>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Date</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Score</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Percentile</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Rank</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Range</th>
+              <th style={{ textAlign: "left", padding: 8, borderBottom: "1px solid #ddd" }}>Method</th>
+            </tr>
+          </thead>
+          <tbody>
+            {history.map((p) => (
+              <tr key={p.id}>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>
+                  {p.timestamp ? new Date(p.timestamp.seconds ? p.timestamp.seconds * 1000 : p.timestamp).toLocaleString() : "â€”"}
+                </td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.score ?? "â€”"}</td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.percentile ?? "â€”"}</td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.predictedRank ?? "â€”"}</td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>
+                  {Array.isArray(p.rankRange) ? p.rankRange.join(" - ") : p.rankRange ?? "â€”"}
+                </td>
+                <td style={{ padding: 8, borderBottom: "1px solid #f0f0f0" }}>{p.method ?? "â€”"}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
+}
+

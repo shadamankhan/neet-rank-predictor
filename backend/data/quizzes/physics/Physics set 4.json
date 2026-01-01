@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle is projected with speed 20 m/s at an angle of 30° to the horizontal. The maximum height reached (g = 10 m/s^2) is:",
+        "options": [
+            "5 m",
+            "10 m",
+            "15 m",
+            "20 m"
+        ],
+        "answer": 0,
+        "explanation": "H = u^2 sin^2θ / 2g = 400 × (0.5)^2 / 20 = 5 m."
+    },
+    {
+        "id": 2,
+        "question": "The time of flight of the projectile in the previous question is:",
+        "options": [
+            "1 s",
+            "2 s",
+            "3 s",
+            "4 s"
+        ],
+        "answer": 1,
+        "explanation": "T = 2u sinθ / g = 2×20×0.5 / 10 = 2 s."
+    },
+    {
+        "id": 3,
+        "question": "A body of mass 5 kg is moving with constant velocity. The net force acting on it is:",
+        "options": [
+            "0 N",
+            "5 N",
+            "10 N",
+            "Cannot be determined"
+        ],
+        "answer": 0,
+        "explanation": "Constant velocity implies zero acceleration, hence net force is zero."
+    },
+    {
+        "id": 4,
+        "question": "A spring of spring constant 1000 N/m is stretched by 0.1 m. The elastic potential energy stored is:",
+        "options": [
+            "2.5 J",
+            "5 J",
+            "10 J",
+            "20 J"
+        ],
+        "answer": 1,
+        "explanation": "U = (1/2)kx^2 = 0.5×1000×0.01 = 5 J."
+    },
+    {
+        "id": 5,
+        "question": "For a body in circular motion with constant speed, which quantity changes continuously?",
+        "options": [
+            "Velocity",
+            "Speed",
+            "Mass",
+            "Kinetic energy"
+        ],
+        "answer": 0,
+        "explanation": "Velocity changes due to continuous change in direction."
+    },
+    {
+        "id": 6,
+        "question": "The moment of inertia of a thin ring of mass M and radius R about its diameter is:",
+        "options": [
+            "(1/2)MR^2",
+            "MR^2",
+            "(3/2)MR^2",
+            "(1/4)MR^2"
+        ],
+        "answer": 0,
+        "explanation": "For ring, I_diameter = (1/2)MR^2."
+    },
+    {
+        "id": 7,
+        "question": "If angular momentum of a body is conserved, which quantity must remain constant?",
+        "options": [
+            "External torque",
+            "Angular velocity",
+            "Moment of inertia",
+            "External force"
+        ],
+        "answer": 0,
+        "explanation": "Angular momentum is conserved when external torque is zero."
+    },
+    {
+        "id": 8,
+        "question": "The acceleration due to gravity at a height h above Earth’s surface (h << R) is approximately:",
+        "options": [
+            "g(1−2h/R)",
+            "g(1+h/R)",
+            "g(1−h/R)",
+            "g(1+2h/R)"
+        ],
+        "answer": 0,
+        "explanation": "g' ≈ g(1 − 2h/R) for small heights."
+    },
+    {
+        "id": 9,
+        "question": "The excess pressure inside a soap bubble of radius r and surface tension T is:",
+        "options": [
+            "4T/r",
+            "2T/r",
+            "T/r",
+            "8T/r"
+        ],
+        "answer": 0,
+        "explanation": "Soap bubble has two surfaces: ΔP = 4T/r."
+    },
+    {
+        "id": 10,
+        "question": "The coefficient of volume expansion of an ideal gas is equal to:",
+        "options": [
+            "1/T",
+            "T",
+            "0",
+            "2/T"
+        ],
+        "answer": 0,
+        "explanation": "For ideal gas, β = 1/T."
+    },
+    {
+        "id": 11,
+        "question": "The work done in an adiabatic process is:",
+        "options": [
+            "Greater than isothermal",
+            "Less than isothermal",
+            "Zero",
+            "Same as isothermal"
+        ],
+        "answer": 1,
+        "explanation": "Adiabatic curve is steeper, so work done is less than isothermal."
+    },
+    {
+        "id": 12,
+        "question": "In SHM, the velocity of the particle is maximum at:",
+        "options": [
+            "Mean position",
+            "Extreme position",
+            "Half amplitude",
+            "Random position"
+        ],
+        "answer": 0,
+        "explanation": "Velocity is maximum at mean position."
+    },
+    {
+        "id": 13,
+        "question": "The fundamental frequency of a stretched string fixed at both ends is:",
+        "options": [
+            "v/2L",
+            "v/L",
+            "2v/L",
+            "L/2v"
+        ],
+        "answer": 0,
+        "explanation": "Fundamental frequency f = v/2L."
+    },
+    {
+        "id": 14,
+        "question": "The electric field lines originate from:",
+        "options": [
+            "Positive charges",
+            "Negative charges",
+            "Both",
+            "Neutral bodies"
+        ],
+        "answer": 0,
+        "explanation": "Electric field lines start from positive charges."
+    },
+    {
+        "id": 15,
+        "question": "The electric potential energy of a charge q in potential V is:",
+        "options": [
+            "qV",
+            "V/q",
+            "q/V",
+            "V^2"
+        ],
+        "answer": 0,
+        "explanation": "U = qV."
+    },
+    {
+        "id": 16,
+        "question": "If three identical capacitors are connected in series, the equivalent capacitance is:",
+        "options": [
+            "C/3",
+            "3C",
+            "C",
+            "C/2"
+        ],
+        "answer": 0,
+        "explanation": "For series: 1/Ceq = 3/C → Ceq = C/3."
+    },
+    {
+        "id": 17,
+        "question": "The drift velocity of electrons is directly proportional to:",
+        "options": [
+            "Electric field",
+            "Resistance",
+            "Length",
+            "Temperature"
+        ],
+        "answer": 0,
+        "explanation": "vd ∝ E."
+    },
+    {
+        "id": 18,
+        "question": "The magnetic field inside a long solenoid is:",
+        "options": [
+            "μ0nI",
+            "μ0I/2πr",
+            "μ0Ir",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "B = μ0nI."
+    },
+    {
+        "id": 19,
+        "question": "The SI unit of magnetic field is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic field unit is tesla."
+    },
+    {
+        "id": 20,
+        "question": "The back emf in a motor is maximum when:",
+        "options": [
+            "Motor runs at full speed",
+            "Motor starts",
+            "Load is high",
+            "Current is maximum"
+        ],
+        "answer": 0,
+        "explanation": "Back emf is maximum at full speed."
+    },
+    {
+        "id": 21,
+        "question": "In an AC circuit, the current leads the voltage by 90° in:",
+        "options": [
+            "Capacitor",
+            "Inductor",
+            "Resistor",
+            "LCR circuit"
+        ],
+        "answer": 0,
+        "explanation": "In capacitor, current leads voltage by 90°."
+    },
+    {
+        "id": 22,
+        "question": "The power dissipated in a resistor connected to AC source is:",
+        "options": [
+            "VIcosφ",
+            "VI",
+            "V^2",
+            "I^2"
+        ],
+        "answer": 0,
+        "explanation": "Average power P = VIcosφ."
+    },
+    {
+        "id": 23,
+        "question": "The magnification produced by a concave mirror for object at infinity is:",
+        "options": [
+            "Zero",
+            "One",
+            "Infinity",
+            "Negative unity"
+        ],
+        "answer": 0,
+        "explanation": "Image formed at focus with negligible size."
+    },
+    {
+        "id": 24,
+        "question": "The refractive index of a medium is independent of:",
+        "options": [
+            "Amplitude",
+            "Wavelength",
+            "Nature of medium",
+            "Temperature"
+        ],
+        "answer": 0,
+        "explanation": "Refractive index does not depend on amplitude."
+    },
+    {
+        "id": 25,
+        "question": "In Young’s double slit experiment, the fringe width increases if:",
+        "options": [
+            "Screen distance increases",
+            "Slit separation increases",
+            "Wavelength decreases",
+            "Source intensity decreases"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d, so β ∝ D."
+    },
+    {
+        "id": 26,
+        "question": "The photoelectric current depends on:",
+        "options": [
+            "Intensity of light",
+            "Frequency only",
+            "Work function",
+            "Stopping potential"
+        ],
+        "answer": 0,
+        "explanation": "Photoelectric current ∝ intensity."
+    },
+    {
+        "id": 27,
+        "question": "The Bohr radius is proportional to:",
+        "options": [
+            "1/Z",
+            "Z",
+            "1/Z^2",
+            "Z^2"
+        ],
+        "answer": 0,
+        "explanation": "r_n ∝ 1/Z."
+    },
+    {
+        "id": 28,
+        "question": "The binding energy of a nucleus is related to:",
+        "options": [
+            "Mass defect",
+            "Atomic number",
+            "Neutron number",
+            "Radius"
+        ],
+        "answer": 0,
+        "explanation": "Binding energy = Δmc^2."
+    },
+    {
+        "id": 29,
+        "question": "The half-life of a radioactive substance is independent of:",
+        "options": [
+            "Temperature",
+            "Initial mass",
+            "Pressure",
+            "Chemical state"
+        ],
+        "answer": 0,
+        "explanation": "Half-life depends only on decay constant."
+    },
+    {
+        "id": 30,
+        "question": "The energy gap of a semiconductor is of the order of:",
+        "options": [
+            "1 eV",
+            "10 eV",
+            "10^3 eV",
+            "0 eV"
+        ],
+        "answer": 0,
+        "explanation": "Semiconductors have band gap ~1 eV."
+    },
+    {
+        "id": 31,
+        "question": "In a p-n junction diode, the depletion region is formed due to:",
+        "options": [
+            "Diffusion of charge carriers",
+            "Drift only",
+            "External field",
+            "Heating"
+        ],
+        "answer": 0,
+        "explanation": "Diffusion causes formation of depletion layer."
+    },
+    {
+        "id": 32,
+        "question": "The current gain of a transistor in common emitter configuration is:",
+        "options": [
+            "β",
+            "α",
+            "γ",
+            "δ"
+        ],
+        "answer": 0,
+        "explanation": "Current gain in CE is β."
+    },
+    {
+        "id": 33,
+        "question": "The dimensional formula of electric charge is:",
+        "options": [
+            "IT",
+            "I/T",
+            "MLT",
+            "MLT−2"
+        ],
+        "answer": 0,
+        "explanation": "Charge Q = current × time."
+    },
+    {
+        "id": 34,
+        "question": "The speed of a satellite in a circular orbit of radius r is:",
+        "options": [
+            "√(GM/r)",
+            "√(2GM/r)",
+            "GM/r",
+            "2GM/r"
+        ],
+        "answer": 0,
+        "explanation": "Orbital speed v = √(GM/r)."
+    },
+    {
+        "id": 35,
+        "question": "The phenomenon of beats occurs due to:",
+        "options": [
+            "Superposition of waves of slightly different frequencies",
+            "Reflection",
+            "Refraction",
+            "Diffraction"
+        ],
+        "answer": 0,
+        "explanation": "Beats occur due to interference of close frequencies."
+    },
+    {
+        "id": 36,
+        "question": "Electric flux through a closed surface enclosing a charge q is:",
+        "options": [
+            "q/ε0",
+            "ε0q",
+            "qε0",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "Gauss’s law: Φ = q/ε0."
+    },
+    {
+        "id": 37,
+        "question": "The unit of inductance is:",
+        "options": [
+            "Henry",
+            "Tesla",
+            "Weber",
+            "Ohm"
+        ],
+        "answer": 0,
+        "explanation": "SI unit of inductance is henry."
+    },
+    {
+        "id": 38,
+        "question": "At resonance in LCR circuit, impedance is equal to:",
+        "options": [
+            "R",
+            "XL",
+            "XC",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "At resonance, Z = R."
+    },
+    {
+        "id": 39,
+        "question": "A convex lens produces a virtual image when the object is placed:",
+        "options": [
+            "Between lens and focus",
+            "Beyond 2F",
+            "At focus",
+            "At infinity"
+        ],
+        "answer": 0,
+        "explanation": "Virtual image is formed when object is within focal length."
+    },
+    {
+        "id": 40,
+        "question": "The resolving power of a telescope depends on:",
+        "options": [
+            "Diameter of objective",
+            "Focal length of eyepiece",
+            "Magnification",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "Resolving power ∝ diameter of objective."
+    },
+    {
+        "id": 41,
+        "question": "The energy of nth orbit of hydrogen atom is proportional to:",
+        "options": [
+            "1/n^2",
+            "n^2",
+            "1/n",
+            "n"
+        ],
+        "answer": 0,
+        "explanation": "En = −13.6/n^2 eV."
+    },
+    {
+        "id": 42,
+        "question": "Gamma rays are:",
+        "options": [
+            "Electromagnetic waves",
+            "Charged particles",
+            "Neutrons",
+            "Sound waves"
+        ],
+        "answer": 0,
+        "explanation": "Gamma rays are high-energy EM waves."
+    },
+    {
+        "id": 43,
+        "question": "The activity of a radioactive sample is proportional to:",
+        "options": [
+            "Number of undecayed nuclei",
+            "Half-life",
+            "Time",
+            "Energy released"
+        ],
+        "answer": 0,
+        "explanation": "A = λN."
+    },
+    {
+        "id": 44,
+        "question": "The conductivity of a semiconductor increases when:",
+        "options": [
+            "Temperature increases",
+            "Temperature decreases",
+            "Light removed",
+            "Voltage decreases"
+        ],
+        "answer": 0,
+        "explanation": "Higher temperature increases charge carriers."
+    },
+    {
+        "id": 45,
+        "question": "The logic gate used for addition of two binary digits is:",
+        "options": [
+            "XOR",
+            "AND",
+            "OR",
+            "NOT"
+        ],
+        "answer": 0,
+        "explanation": "XOR is used in half-adder."
+    },
+    {
+        "id": 46,
+        "question": "The SI unit of electric power is:",
+        "options": [
+            "Watt",
+            "Joule",
+            "Volt",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Electric power is measured in watt."
+    },
+    {
+        "id": 47,
+        "question": "The center of mass of an isolated system moves with:",
+        "options": [
+            "Constant velocity",
+            "Increasing velocity",
+            "Zero velocity always",
+            "Random velocity"
+        ],
+        "answer": 0,
+        "explanation": "No external force → constant velocity of COM."
+    },
+    {
+        "id": 48,
+        "question": "The unit of coefficient of friction is:",
+        "options": [
+            "Dimensionless",
+            "N",
+            "m/s",
+            "kg"
+        ],
+        "answer": 0,
+        "explanation": "Coefficient of friction has no units."
+    },
+    {
+        "id": 49,
+        "question": "The phenomenon responsible for blue color of sky is:",
+        "options": [
+            "Scattering",
+            "Reflection",
+            "Refraction",
+            "Interference"
+        ],
+        "answer": 0,
+        "explanation": "Rayleigh scattering causes blue sky."
+    },
+    {
+        "id": 50,
+        "question": "The speed of sound depends on:",
+        "options": [
+            "Elasticity and density",
+            "Pressure only",
+            "Frequency only",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "v = √(Elastic modulus/density)."
+    }
+]

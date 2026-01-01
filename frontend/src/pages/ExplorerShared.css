@@ -1,0 +1,232 @@
+/* ExplorerShared.css */
+
+.explorer-container {
+    max-width: 1200px;
+    margin: 40px auto;
+    padding: 20px;
+    font-family: 'Outfit', sans-serif;
+    min-height: 80vh;
+}
+
+.explorer-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.explorer-title {
+    font-size: 2.5rem;
+    color: var(--text-primary, #1e293b);
+    margin-bottom: 10px;
+    font-weight: 800;
+}
+
+.explorer-subtitle {
+    color: var(--text-secondary, #64748b);
+    font-size: 1.1rem;
+}
+
+.explorer-stats-badge {
+    display: inline-block;
+    background: #e0e7ff;
+    /* indigo-100 */
+    color: #4338ca;
+    /* indigo-700 */
+    padding: 6px 16px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-top: 15px;
+}
+
+.explorer-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 25px;
+}
+
+/* Card Styling */
+.explorer-card {
+    background: white;
+    border-radius: 16px;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    transition: all 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+
+.explorer-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 15px 30px -5px rgba(0, 0, 0, 0.1);
+    border-color: #6366f1;
+    /* primary color */
+}
+
+.card-content {
+    padding: 24px;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.card-header-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 15px;
+}
+
+.college-code {
+    font-family: monospace;
+    color: #64748b;
+    font-size: 0.85rem;
+    background: #f1f5f9;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+
+.college-type-badge {
+    background: #dbeafe;
+    color: #1e40af;
+    font-size: 0.7rem;
+    padding: 4px 8px;
+    border-radius: 50px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.college-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    color: #0f172a;
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+
+.fee-row {
+    margin-top: auto;
+    background: #f8fafc;
+    border-radius: 12px;
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.fee-item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    color: #475569;
+}
+
+.fee-val {
+    font-weight: 700;
+    color: #0f172a;
+}
+
+/* Button */
+.btn-view-cutoffs {
+    width: 100%;
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-top: none;
+    padding: 15px;
+    color: #6366f1;
+    /* primary */
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.2s;
+    text-align: center;
+    border-top: 1px solid #e2e8f0;
+}
+
+.btn-view-cutoffs:hover {
+    background: #f8fafc;
+    color: #4f46e5;
+}
+
+/* Expanded Section */
+.expanded-details {
+    background: #f8fafc;
+    padding: 20px;
+    border-top: 1px solid #e2e8f0;
+    animation: slideDown 0.3s ease-out;
+}
+
+.detail-group {
+    background: white;
+    border: 1px solid #e2e8f0;
+    border-radius: 10px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.detail-group:last-child {
+    margin-bottom: 0;
+}
+
+.detail-title {
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: #334155;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding-bottom: 8px;
+    border-bottom: 1px dashed #cbd5e1;
+}
+
+.dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot-green {
+    background: #10b981;
+}
+
+.dot-purple {
+    background: #8b5cf6;
+}
+
+.dot-orange {
+    background: #f97316;
+}
+
+.cutoff-item {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.85rem;
+    margin-bottom: 6px;
+    color: #64748b;
+}
+
+.cutoff-val {
+    font-weight: 600;
+    color: #1e293b;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Loading */
+.loading-box {
+    text-align: center;
+    padding: 60px;
+    font-size: 1.2rem;
+    color: #64748b;
+}

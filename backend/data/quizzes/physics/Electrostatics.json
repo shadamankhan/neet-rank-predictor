@@ -1,0 +1,6007 @@
+[
+    {
+        "id": 1,
+        "question": "The SI unit of electric charge is derived from:",
+        "options": [
+            "force and time",
+            "current and time",
+            "energy and voltage",
+            "power and time"
+        ],
+        "answer": 1,
+        "explanation": "Electric charge Q = I t, hence unit coulomb = ampere × second."
+    },
+    {
+        "id": 2,
+        "question": "According to Coulomb's law, the electrostatic force between two point charges is proportional to:",
+        "options": [
+            "product of charges and square of distance",
+            "product of charges and inverse square of distance",
+            "sum of charges and inverse distance",
+            "difference of charges and inverse square of distance"
+        ],
+        "answer": 1,
+        "explanation": "Coulomb's law states F ∝ q1 q2 / r^2."
+    },
+    {
+        "id": 3,
+        "question": "The value of Coulomb's constant k in vacuum is equal to:",
+        "options": [
+            "1/(4\\pi\\varepsilon_0)",
+            "4\\pi\\varepsilon_0",
+            "\\varepsilon_0/4\\pi",
+            "1/\\varepsilon_0"
+        ],
+        "answer": 0,
+        "explanation": "k = 1/(4\\pi\\varepsilon_0) as defined in Coulomb's law."
+    },
+    {
+        "id": 4,
+        "question": "The permittivity of free space \\(\\varepsilon_0\\) has SI unit:",
+        "options": [
+            "C² N⁻¹ m⁻²",
+            "N C⁻² m²",
+            "C² N m²",
+            "N m² C⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "From Coulomb's law, \\(\\varepsilon_0\\) has unit C² N⁻¹ m⁻²."
+    },
+    {
+        "id": 5,
+        "question": "If the distance between two point charges is doubled, the electrostatic force becomes:",
+        "options": [
+            "four times",
+            "half",
+            "one-fourth",
+            "unchanged"
+        ],
+        "answer": 2,
+        "explanation": "Force varies inversely as square of distance."
+    },
+    {
+        "id": 6,
+        "question": "Electric field intensity is defined as:",
+        "options": [
+            "force per unit charge",
+            "charge per unit force",
+            "energy per unit charge",
+            "force per unit mass"
+        ],
+        "answer": 0,
+        "explanation": "Electric field E = F/q."
+    },
+    {
+        "id": 7,
+        "question": "The SI unit of electric field is:",
+        "options": [
+            "N C⁻¹",
+            "C N⁻¹",
+            "V C⁻¹",
+            "J C⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Electric field is force per unit charge."
+    },
+    {
+        "id": 8,
+        "question": "Electric field due to a point charge varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "r",
+            "r²"
+        ],
+        "answer": 1,
+        "explanation": "E = kq/r² for a point charge."
+    },
+    {
+        "id": 9,
+        "question": "The direction of electric field at a point is defined as the direction of force on:",
+        "options": [
+            "any charge",
+            "a positive test charge",
+            "a negative test charge",
+            "unit mass"
+        ],
+        "answer": 1,
+        "explanation": "Electric field direction is defined using a positive test charge."
+    },
+    {
+        "id": 10,
+        "question": "The electric field inside a conductor in electrostatic equilibrium is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "variable"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside a conductor is zero in electrostatic equilibrium."
+    },
+    {
+        "id": 11,
+        "question": "Electric flux through a surface is given by:",
+        "options": [
+            "E·dS",
+            "∫E·dS",
+            "∫E dS",
+            "E/dS"
+        ],
+        "answer": 1,
+        "explanation": "Electric flux is defined as surface integral of E·dS."
+    },
+    {
+        "id": 12,
+        "question": "Gauss's law relates electric flux through a closed surface to:",
+        "options": [
+            "electric field",
+            "charge enclosed",
+            "potential",
+            "energy"
+        ],
+        "answer": 1,
+        "explanation": "Gauss's law states flux = Q_enclosed/\\varepsilon_0."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of electric flux is:",
+        "options": [
+            "N m² C⁻¹",
+            "C m⁻²",
+            "V m⁻¹",
+            "N C⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Electric flux = E·area, unit N m² C⁻¹."
+    },
+    {
+        "id": 14,
+        "question": "If no charge is enclosed by a Gaussian surface, the electric flux through it is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "From Gauss's law, flux depends only on enclosed charge."
+    },
+    {
+        "id": 15,
+        "question": "Electric field on the surface of a charged conductor is:",
+        "options": [
+            "zero",
+            "tangential",
+            "normal to surface",
+            "parallel to surface"
+        ],
+        "answer": 2,
+        "explanation": "Electric field at conductor surface is normal."
+    },
+    {
+        "id": 16,
+        "question": "Electric potential is defined as:",
+        "options": [
+            "force per unit charge",
+            "work done per unit charge",
+            "energy per unit mass",
+            "charge per unit work"
+        ],
+        "answer": 1,
+        "explanation": "Electric potential V = W/q."
+    },
+    {
+        "id": 17,
+        "question": "The SI unit of electric potential is:",
+        "options": [
+            "joule",
+            "volt",
+            "newton",
+            "coulomb"
+        ],
+        "answer": 1,
+        "explanation": "Electric potential is measured in volts."
+    },
+    {
+        "id": 18,
+        "question": "Electric potential due to a point charge varies with distance r as:",
+        "options": [
+            "1/r²",
+            "r",
+            "1/r",
+            "r²"
+        ],
+        "answer": 2,
+        "explanation": "V = kq/r for a point charge."
+    },
+    {
+        "id": 19,
+        "question": "Electric potential is a:",
+        "options": [
+            "vector quantity",
+            "scalar quantity",
+            "tensor quantity",
+            "pseudo-vector"
+        ],
+        "answer": 1,
+        "explanation": "Electric potential has magnitude only."
+    },
+    {
+        "id": 20,
+        "question": "The relation between electric field and potential is:",
+        "options": [
+            "E = -∇V",
+            "E = ∇V",
+            "V = -∇E",
+            "V = ∇E"
+        ],
+        "answer": 0,
+        "explanation": "Electric field is negative gradient of potential."
+    },
+    {
+        "id": 21,
+        "question": "Equipotential surfaces are always:",
+        "options": [
+            "parallel to electric field",
+            "perpendicular to electric field",
+            "circular",
+            "spherical"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is normal to equipotential surfaces."
+    },
+    {
+        "id": 22,
+        "question": "No work is done in moving a charge along an equipotential surface because:",
+        "options": [
+            "electric field is zero",
+            "potential difference is zero",
+            "force is zero",
+            "charge is zero"
+        ],
+        "answer": 1,
+        "explanation": "Work depends on potential difference which is zero."
+    },
+    {
+        "id": 23,
+        "question": "Electric potential energy of a system of two point charges is:",
+        "options": [
+            "kq1q2r",
+            "kq1q2/r",
+            "kq1q2/r²",
+            "kq1q2r²"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy U = kq1q2/r."
+    },
+    {
+        "id": 24,
+        "question": "The SI unit of electric potential energy is:",
+        "options": [
+            "coulomb",
+            "volt",
+            "joule",
+            "newton"
+        ],
+        "answer": 2,
+        "explanation": "Energy is measured in joules."
+    },
+    {
+        "id": 25,
+        "question": "Capacitance is defined as:",
+        "options": [
+            "Q/V",
+            "V/Q",
+            "Q×V",
+            "V²/Q"
+        ],
+        "answer": 0,
+        "explanation": "Capacitance C = Q/V."
+    },
+    {
+        "id": 26,
+        "question": "The SI unit of capacitance is:",
+        "options": [
+            "volt",
+            "coulomb",
+            "farad",
+            "ohm"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance is measured in farad."
+    },
+    {
+        "id": 27,
+        "question": "Capacitance of an isolated conductor depends on:",
+        "options": [
+            "charge only",
+            "potential only",
+            "geometry and surrounding medium",
+            "current"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance depends on shape and surrounding medium."
+    },
+    {
+        "id": 28,
+        "question": "Capacitance of a parallel plate capacitor is directly proportional to:",
+        "options": [
+            "distance between plates",
+            "area of plates",
+            "inverse of area",
+            "square of distance"
+        ],
+        "answer": 1,
+        "explanation": "C = \\varepsilon_0 A/d."
+    },
+    {
+        "id": 29,
+        "question": "Capacitance of a parallel plate capacitor is inversely proportional to:",
+        "options": [
+            "area",
+            "permittivity",
+            "distance between plates",
+            "charge"
+        ],
+        "answer": 2,
+        "explanation": "C ∝ 1/d."
+    },
+    {
+        "id": 30,
+        "question": "The energy stored in a capacitor is:",
+        "options": [
+            "QV",
+            "Q²/2C",
+            "CV²",
+            "2QV"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored U = Q²/(2C)."
+    },
+    {
+        "id": 31,
+        "question": "The energy density in an electric field is given by:",
+        "options": [
+            "(1/2)\\varepsilon_0E²",
+            "\\varepsilon_0E",
+            "(1/2)E²",
+            "\\varepsilon_0/E²"
+        ],
+        "answer": 0,
+        "explanation": "Energy density = (1/2)\\varepsilon_0E²."
+    },
+    {
+        "id": 32,
+        "question": "Introducing a dielectric between capacitor plates:",
+        "options": [
+            "decreases capacitance",
+            "does not affect capacitance",
+            "increases capacitance",
+            "destroys capacitor"
+        ],
+        "answer": 2,
+        "explanation": "Dielectric increases effective permittivity."
+    },
+    {
+        "id": 33,
+        "question": "Dielectric constant K is defined as:",
+        "options": [
+            "C/C0",
+            "C0/C",
+            "Q/V",
+            "V/Q"
+        ],
+        "answer": 0,
+        "explanation": "K = capacitance with dielectric / capacitance without dielectric."
+    },
+    {
+        "id": 34,
+        "question": "Electric polarization occurs due to:",
+        "options": [
+            "movement of free charges",
+            "alignment of dipoles",
+            "loss of charge",
+            "gain of electrons"
+        ],
+        "answer": 1,
+        "explanation": "Polarization is due to alignment of dipoles."
+    },
+    {
+        "id": 35,
+        "question": "The electric field inside a dielectric is:",
+        "options": [
+            "greater than vacuum",
+            "zero",
+            "less than vacuum",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Polarization reduces electric field."
+    },
+    {
+        "id": 36,
+        "question": "The dielectric constant of vacuum is:",
+        "options": [
+            "0",
+            "1",
+            "infinite",
+            "depends on field"
+        ],
+        "answer": 1,
+        "explanation": "Vacuum has dielectric constant 1."
+    },
+    {
+        "id": 37,
+        "question": "Electric lines of force originate from:",
+        "options": [
+            "negative charges",
+            "positive charges",
+            "both",
+            "neutral bodies"
+        ],
+        "answer": 1,
+        "explanation": "Field lines originate from positive charges."
+    },
+    {
+        "id": 38,
+        "question": "Electric field lines terminate on:",
+        "options": [
+            "positive charges",
+            "negative charges",
+            "neutral bodies",
+            "infinity only"
+        ],
+        "answer": 1,
+        "explanation": "Field lines end on negative charges."
+    },
+    {
+        "id": 39,
+        "question": "Two electric field lines can never intersect because:",
+        "options": [
+            "field is zero",
+            "potential is zero",
+            "direction of field would be ambiguous",
+            "charge disappears"
+        ],
+        "answer": 2,
+        "explanation": "Intersection implies two directions of field at one point."
+    },
+    {
+        "id": 40,
+        "question": "Electric field at the center of a uniformly charged spherical shell is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "From Gauss's law, field inside shell is zero."
+    },
+    {
+        "id": 41,
+        "question": "The potential inside a charged spherical shell is:",
+        "options": [
+            "zero",
+            "variable",
+            "constant",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Potential inside shell remains constant."
+    },
+    {
+        "id": 42,
+        "question": "Electric field just outside a charged conductor is:",
+        "options": [
+            "\\sigma/\\varepsilon_0",
+            "\\sigma/2\\varepsilon_0",
+            "2\\sigma/\\varepsilon_0",
+            "zero"
+        ],
+        "answer": 0,
+        "explanation": "E = \\sigma/\\varepsilon_0 at surface of conductor."
+    },
+    {
+        "id": 43,
+        "question": "Surface charge density has SI unit:",
+        "options": [
+            "C m⁻²",
+            "C m²",
+            "C m⁻¹",
+            "C² m⁻²"
+        ],
+        "answer": 0,
+        "explanation": "Surface charge density is charge per unit area."
+    },
+    {
+        "id": 44,
+        "question": "Volume charge density has SI unit:",
+        "options": [
+            "C m⁻³",
+            "C m⁻²",
+            "C m",
+            "C m³"
+        ],
+        "answer": 0,
+        "explanation": "Volume charge density is charge per unit volume."
+    },
+    {
+        "id": 45,
+        "question": "Linear charge density has SI unit:",
+        "options": [
+            "C m⁻¹",
+            "C m⁻²",
+            "C m³",
+            "C² m⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Linear charge density is charge per unit length."
+    },
+    {
+        "id": 46,
+        "question": "The electric field due to an infinite line charge varies with distance r as:",
+        "options": [
+            "1/r²",
+            "1/r",
+            "r",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "From Gauss's law, E ∝ 1/r."
+    },
+    {
+        "id": 47,
+        "question": "The electric field due to an infinite plane sheet of charge is:",
+        "options": [
+            "zero",
+            "varies with distance",
+            "constant",
+            "inversely proportional to distance"
+        ],
+        "answer": 2,
+        "explanation": "Field due to infinite plane sheet is constant."
+    },
+    {
+        "id": 48,
+        "question": "Work done in moving a charge between two points in an electric field depends on:",
+        "options": [
+            "path followed",
+            "initial velocity",
+            "potential difference",
+            "mass of charge"
+        ],
+        "answer": 2,
+        "explanation": "Work done depends only on potential difference."
+    },
+    {
+        "id": 49,
+        "question": "Electrostatic force is a:",
+        "options": [
+            "contact force",
+            "long-range force",
+            "short-range force",
+            "frictional force"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic force acts over long distances."
+    },
+    {
+        "id": 50,
+        "question": "Which of the following quantities is always conserved in electrostatics?",
+        "options": [
+            "electric field",
+            "electric potential",
+            "electric charge",
+            "electric flux"
+        ],
+        "answer": 2,
+        "explanation": "Electric charge is conserved."
+    }
+]
+[
+    {
+        "id": 51,
+        "question": "The force between two charges placed in a medium of dielectric constant K compared to vacuum becomes:",
+        "options": [
+            "K times",
+            "1/K times",
+            "K² times",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic force in a medium is reduced by factor K, F = F0/K."
+    },
+    {
+        "id": 52,
+        "question": "Relative permittivity of a medium is numerically equal to the ratio of:",
+        "options": [
+            "electric fields in vacuum and medium",
+            "forces in medium and vacuum",
+            "capacitances with and without medium",
+            "potentials in medium and vacuum"
+        ],
+        "answer": 2,
+        "explanation": "Dielectric constant K = C/C0 as per NCERT."
+    },
+    {
+        "id": 53,
+        "question": "The electric field due to a uniformly charged solid sphere inside the sphere varies with distance r as:",
+        "options": [
+            "1/r²",
+            "1/r",
+            "r",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "From Gauss's law, E ∝ r inside uniformly charged solid sphere."
+    },
+    {
+        "id": 54,
+        "question": "The electric potential at the center of a charged spherical shell (radius R, charge Q) is:",
+        "options": [
+            "kQ/R",
+            "zero",
+            "kQ/R²",
+            "depends on radius"
+        ],
+        "answer": 0,
+        "explanation": "Potential inside shell is constant and equal to surface potential kQ/R."
+    },
+    {
+        "id": 55,
+        "question": "The work done in assembling two point charges q and q from infinity to distance r is:",
+        "options": [
+            "kq²/r",
+            "2kq²/r",
+            "kq²/2r",
+            "zero"
+        ],
+        "answer": 0,
+        "explanation": "Electrostatic potential energy of two charges is kq²/r."
+    },
+    {
+        "id": 56,
+        "question": "If electric potential at a point is zero, electric field at that point:",
+        "options": [
+            "must be zero",
+            "must be infinite",
+            "may or may not be zero",
+            "must be maximum"
+        ],
+        "answer": 2,
+        "explanation": "Electric field depends on gradient of potential, not its absolute value."
+    },
+    {
+        "id": 57,
+        "question": "The electric field is zero at a point but electric potential is non-zero. This situation is possible at:",
+        "options": [
+            "midpoint between unlike charges",
+            "inside a charged conductor",
+            "midpoint between like charges",
+            "far away from charges"
+        ],
+        "answer": 1,
+        "explanation": "Inside a conductor, E = 0 but potential is constant and non-zero."
+    },
+    {
+        "id": 58,
+        "question": "The electrostatic potential energy stored in a capacitor depends on:",
+        "options": [
+            "charge only",
+            "voltage only",
+            "capacitance and charge",
+            "resistance"
+        ],
+        "answer": 2,
+        "explanation": "Energy U = Q²/(2C) depends on both Q and C."
+    },
+    {
+        "id": 59,
+        "question": "A capacitor of capacitance C is charged to potential V. If charge is doubled keeping C same, the energy stored becomes:",
+        "options": [
+            "same",
+            "double",
+            "four times",
+            "half"
+        ],
+        "answer": 2,
+        "explanation": "Energy U ∝ Q², so doubling Q makes energy four times."
+    },
+    {
+        "id": 60,
+        "question": "If distance between plates of a parallel plate capacitor is doubled, capacitance becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "one-fourth"
+        ],
+        "answer": 2,
+        "explanation": "C ∝ 1/d, so doubling d halves capacitance."
+    },
+    {
+        "id": 61,
+        "question": "The electric field between plates of an ideal parallel plate capacitor is:",
+        "options": [
+            "zero",
+            "non-uniform",
+            "uniform",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Neglecting edge effects, field is uniform."
+    },
+    {
+        "id": 62,
+        "question": "The electric field intensity inside a conductor in electrostatic equilibrium is zero because:",
+        "options": [
+            "charges are absent",
+            "charges are fixed",
+            "free charges redistribute",
+            "field lines cancel"
+        ],
+        "answer": 2,
+        "explanation": "Free charges move to cancel internal electric field."
+    },
+    {
+        "id": 63,
+        "question": "The unit of electric dipole moment is:",
+        "options": [
+            "C m",
+            "C m²",
+            "N m",
+            "C² m"
+        ],
+        "answer": 0,
+        "explanation": "Dipole moment p = q × separation, unit C m."
+    },
+    {
+        "id": 64,
+        "question": "Electric dipole moment is a vector quantity directed from:",
+        "options": [
+            "negative to positive charge",
+            "positive to negative charge",
+            "center to surface",
+            "higher potential to lower potential"
+        ],
+        "answer": 0,
+        "explanation": "By NCERT convention, dipole moment points from −q to +q."
+    },
+    {
+        "id": 65,
+        "question": "The electric field on the axial line of a dipole at large distance r varies as:",
+        "options": [
+            "1/r²",
+            "1/r³",
+            "1/r",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Electric field of a dipole varies as 1/r³."
+    },
+    {
+        "id": 66,
+        "question": "The torque acting on an electric dipole in a uniform electric field is maximum when angle between p and E is:",
+        "options": [
+            "0°",
+            "30°",
+            "60°",
+            "90°"
+        ],
+        "answer": 3,
+        "explanation": "Torque τ = pE sinθ is maximum at θ = 90°."
+    },
+    {
+        "id": 67,
+        "question": "The potential energy of an electric dipole in a uniform electric field is minimum when dipole moment is:",
+        "options": [
+            "perpendicular to field",
+            "opposite to field",
+            "aligned with field",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "U = −pE cosθ is minimum at θ = 0°."
+    },
+    {
+        "id": 68,
+        "question": "The net electric flux through a closed surface enclosing an electric dipole is:",
+        "options": [
+            "maximum",
+            "non-zero",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Total enclosed charge is zero, so net flux is zero."
+    },
+    {
+        "id": 69,
+        "question": "If a charged conductor has a cavity with no charge inside, the electric field inside the cavity is:",
+        "options": [
+            "zero",
+            "uniform",
+            "maximum",
+            "variable"
+        ],
+        "answer": 0,
+        "explanation": "Electric field inside cavity with no charge is zero."
+    },
+    {
+        "id": 70,
+        "question": "If a point charge is placed inside a conducting cavity, induced charge appears on:",
+        "options": [
+            "outer surface only",
+            "inner surface only",
+            "both surfaces",
+            "neither surface"
+        ],
+        "answer": 2,
+        "explanation": "Equal and opposite charge appears on inner surface, rest on outer surface."
+    },
+    {
+        "id": 71,
+        "question": "The electrostatic shielding effect is due to:",
+        "options": [
+            "dielectric polarization",
+            "conduction of charges",
+            "magnetic induction",
+            "resistance"
+        ],
+        "answer": 1,
+        "explanation": "Free charges rearrange to cancel external field."
+    },
+    {
+        "id": 72,
+        "question": "The electric field due to a charged conductor is maximum at:",
+        "options": [
+            "flat surface",
+            "sharp edges",
+            "center",
+            "uniform region"
+        ],
+        "answer": 1,
+        "explanation": "Surface charge density is highest at sharp points."
+    },
+    {
+        "id": 73,
+        "question": "Corona discharge occurs due to:",
+        "options": [
+            "high temperature",
+            "high electric field near sharp points",
+            "low resistance",
+            "high current"
+        ],
+        "answer": 1,
+        "explanation": "Strong electric field ionizes air near sharp conductors."
+    },
+    {
+        "id": 74,
+        "question": "The dimensional formula of electric potential is:",
+        "options": [
+            "ML²T⁻³A⁻¹",
+            "MLT⁻²A⁻¹",
+            "ML²T⁻²A⁻¹",
+            "ML²T⁻³A⁻²"
+        ],
+        "answer": 0,
+        "explanation": "Potential = work/charge; dimensions ML²T⁻³A⁻¹."
+    },
+    {
+        "id": 75,
+        "question": "The dimensional formula of permittivity ε0 is:",
+        "options": [
+            "M⁻¹L⁻³T⁴A²",
+            "ML³T⁻⁴A⁻²",
+            "M⁻¹L⁻²T²A²",
+            "ML²T⁻²A⁻²"
+        ],
+        "answer": 0,
+        "explanation": "Derived from Coulomb's law as per NCERT."
+    },
+    {
+        "id": 76,
+        "question": "Two capacitors C1 and C2 are connected in series. The equivalent capacitance is:",
+        "options": [
+            "C1 + C2",
+            "C1C2/(C1 + C2)",
+            "(C1 + C2)/2",
+            "maximum of C1 and C2"
+        ],
+        "answer": 1,
+        "explanation": "For series combination, 1/C = 1/C1 + 1/C2."
+    },
+    {
+        "id": 77,
+        "question": "Two capacitors are connected in parallel. The equivalent capacitance is:",
+        "options": [
+            "less than both",
+            "equal to average",
+            "greater than each",
+            "product of capacitances"
+        ],
+        "answer": 2,
+        "explanation": "Parallel capacitance adds directly."
+    },
+    {
+        "id": 78,
+        "question": "In series combination of capacitors, which quantity remains same?",
+        "options": [
+            "potential difference",
+            "energy",
+            "charge",
+            "capacitance"
+        ],
+        "answer": 2,
+        "explanation": "Same charge flows through series capacitors."
+    },
+    {
+        "id": 79,
+        "question": "In parallel combination of capacitors, which quantity remains same?",
+        "options": [
+            "charge",
+            "energy",
+            "potential difference",
+            "electric field"
+        ],
+        "answer": 2,
+        "explanation": "Potential difference across each capacitor is same."
+    },
+    {
+        "id": 80,
+        "question": "If a charged capacitor is disconnected from battery and dielectric is inserted, the charge on capacitor:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Charge remains constant when capacitor is isolated."
+    },
+    {
+        "id": 81,
+        "question": "If a charged capacitor is connected to battery and dielectric is inserted, the potential difference:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Battery maintains constant potential difference."
+    },
+    {
+        "id": 82,
+        "question": "The force between two charges is independent of:",
+        "options": [
+            "magnitude of charges",
+            "distance between charges",
+            "medium between charges",
+            "masses of charges"
+        ],
+        "answer": 3,
+        "explanation": "Electrostatic force does not depend on mass."
+    },
+    {
+        "id": 83,
+        "question": "Electric field is conservative in electrostatics because:",
+        "options": [
+            "field lines are closed",
+            "work done is path independent",
+            "charge is conserved",
+            "field is uniform"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic field has zero curl."
+    },
+    {
+        "id": 84,
+        "question": "The work done in moving a charge in a closed loop in electrostatic field is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic field is conservative."
+    },
+    {
+        "id": 85,
+        "question": "The electric field at a point on the equatorial line of a dipole is directed:",
+        "options": [
+            "along dipole moment",
+            "opposite to dipole moment",
+            "perpendicular to dipole axis",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Field on equatorial line is opposite to dipole moment."
+    },
+    {
+        "id": 86,
+        "question": "The electric potential at a point on equatorial line of a dipole is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Potentials due to +q and −q cancel."
+    },
+    {
+        "id": 87,
+        "question": "The capacitance of Earth considered as isolated sphere is proportional to its:",
+        "options": [
+            "mass",
+            "surface area",
+            "radius",
+            "volume"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance of isolated sphere C = 4π ε0 R."
+    },
+    {
+        "id": 88,
+        "question": "The electric field just outside a conductor depends on:",
+        "options": [
+            "total charge",
+            "shape of conductor",
+            "surface charge density",
+            "volume charge density"
+        ],
+        "answer": 2,
+        "explanation": "E = σ/ε0 depends on surface charge density."
+    },
+    {
+        "id": 89,
+        "question": "If the radius of an isolated spherical conductor is doubled, its capacitance becomes:",
+        "options": [
+            "half",
+            "same",
+            "double",
+            "four times"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance of sphere is proportional to radius."
+    },
+    {
+        "id": 90,
+        "question": "Electric field lines represent:",
+        "options": [
+            "paths of charges",
+            "equipotential surfaces",
+            "direction of electric field",
+            "motion of electrons"
+        ],
+        "answer": 2,
+        "explanation": "Field lines indicate direction of electric field."
+    },
+    {
+        "id": 91,
+        "question": "The number of electric field lines crossing a surface is proportional to:",
+        "options": [
+            "electric field",
+            "electric flux",
+            "electric potential",
+            "electric charge"
+        ],
+        "answer": 1,
+        "explanation": "Electric flux measures number of field lines."
+    },
+    {
+        "id": 92,
+        "question": "If a Gaussian surface encloses equal positive and negative charges, net flux is:",
+        "options": [
+            "maximum",
+            "negative",
+            "positive",
+            "zero"
+        ],
+        "answer": 3,
+        "explanation": "Net enclosed charge is zero."
+    },
+    {
+        "id": 93,
+        "question": "The electrostatic potential energy of a system of charges depends on:",
+        "options": [
+            "path of assembly",
+            "positions of charges",
+            "velocities of charges",
+            "medium only"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy depends on configuration."
+    },
+    {
+        "id": 94,
+        "question": "The electric field inside a hollow charged sphere of finite thickness is:",
+        "options": [
+            "non-zero",
+            "uniform",
+            "zero",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "By Gauss's law, field inside hollow region is zero."
+    },
+    {
+        "id": 95,
+        "question": "The force experienced by a charge placed at the center of a charged spherical shell is:",
+        "options": [
+            "maximum",
+            "zero",
+            "finite",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Electric field at center is zero."
+    },
+    {
+        "id": 96,
+        "question": "Electric field inside a uniformly charged non-conducting sphere at center is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Field is zero at center due to symmetry."
+    },
+    {
+        "id": 97,
+        "question": "The potential energy of an electric dipole in unstable equilibrium is maximum when angle θ is:",
+        "options": [
+            "0°",
+            "45°",
+            "90°",
+            "180°"
+        ],
+        "answer": 3,
+        "explanation": "U = −pE cosθ is maximum at θ = 180°."
+    },
+    {
+        "id": 98,
+        "question": "The electric field inside a dielectric slab placed in uniform external field is:",
+        "options": [
+            "greater than external field",
+            "equal to external field",
+            "less than external field",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Polarization reduces net electric field."
+    },
+    {
+        "id": 99,
+        "question": "The force between two charges in vacuum is 10 N. If medium of dielectric constant 5 is introduced, force becomes:",
+        "options": [
+            "50 N",
+            "10 N",
+            "5 N",
+            "2 N"
+        ],
+        "answer": 3,
+        "explanation": "Force reduces by factor K, so F = 10/5 = 2 N."
+    },
+    {
+        "id": 100,
+        "question": "Electrostatics deals with charges:",
+        "options": [
+            "in uniform motion",
+            "at rest",
+            "in accelerated motion",
+            "in magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatics studies charges at rest."
+    }
+]
+[
+    {
+        "id": 101,
+        "question": "If a point charge q is placed at the center of a Gaussian spherical surface, the electric flux through the surface is:",
+        "options": ["q/\varepsilon_0", "4\pi q/\varepsilon_0", "q/4\pi\varepsilon_0",
+            "zero"
+        ],
+        "answer": 0,
+        "explanation": "By Gauss’s law, total flux through a closed surface equals q/\varepsilon_0."
+    },
+    {
+        "id": 102,
+        "question": "If a charge is placed outside a closed Gaussian surface, the net electric flux through the surface is:",
+        "options": [
+            "positive",
+            "negative",
+            "zero",
+            "depends on distance"
+        ],
+        "answer": 2,
+        "explanation": "Flux depends only on enclosed charge; external charges do not contribute."
+    },
+    {
+        "id": 103,
+        "question": "The electric field inside a uniformly charged thin spherical shell is:",
+        "options": [
+            "uniform",
+            "inversely proportional to r",
+            "directly proportional to r",
+            "zero"
+        ],
+        "answer": 3,
+        "explanation": "Using Gauss’s law, field inside a thin spherical shell is zero."
+    },
+    {
+        "id": 104,
+        "question": "For a charged conducting sphere, the electric potential inside the sphere is:",
+        "options": [
+            "zero",
+            "same as at surface",
+            "maximum at center",
+            "inversely proportional to r"
+        ],
+        "answer": 1,
+        "explanation": "Potential remains constant throughout the conductor and equals surface potential."
+    },
+    {
+        "id": 105,
+        "question": "The electric field at the surface of a charged conductor is related to surface charge density σ by:",
+        "options": ["E = 2\sigma/\varepsilon_0", "E = \sigma/2\varepsilon_0", "E = \sigma/\varepsilon_0", "E = 4\pi\sigma"
+        ],
+        "answer": 2,
+        "explanation": "For a conductor, electric field just outside the surface is \sigma/\varepsilon_0."
+    },
+    {
+        "id": 106,
+        "question": "The electrostatic potential energy of a system of charges is defined as:",
+        "options": [
+            "work done by external agent",
+            "work done by electric field",
+            "kinetic energy of charges",
+            "energy due to motion"
+        ],
+        "answer": 0,
+        "explanation": "Potential energy equals work done by an external agent in assembling the system."
+    },
+    {
+        "id": 107,
+        "question": "The electric potential due to a dipole at a point on its axial line varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "For a dipole, axial potential varies as 1/r² for large r."
+    },
+    {
+        "id": 108,
+        "question": "The electric field due to a dipole at a point on its equatorial line varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "r"
+        ],
+        "answer": 2,
+        "explanation": "Electric field of a dipole varies as 1/r³ at large distances."
+    },
+    {
+        "id": 109,
+        "question": "The net force on an electric dipole placed in a uniform electric field is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "For a uniform field, forces on charges cancel, giving zero net force."
+    },
+    {
+        "id": 110,
+        "question": "An electric dipole placed in a non-uniform electric field experiences:",
+        "options": [
+            "only torque",
+            "only force",
+            "both force and torque",
+            "neither force nor torque"
+        ],
+        "answer": 2,
+        "explanation": "In a non-uniform field, both force and torque act on a dipole."
+    },
+    {
+        "id": 111,
+        "question": "The SI unit of electric dipole moment can also be written as:",
+        "options": [
+            "A s m",
+            "N m",
+            "V m",
+            "C² m"
+        ],
+        "answer": 0,
+        "explanation": "Since 1 C = 1 A s, dipole moment unit is A s m."
+    },
+    {
+        "id": 112,
+        "question": "The work done in rotating an electric dipole from angle θ1 to θ2 in a uniform electric field is equal to change in:",
+        "options": [
+            "kinetic energy",
+            "electric potential energy",
+            "electric flux",
+            "electric field"
+        ],
+        "answer": 1,
+        "explanation": "Work done equals change in electric potential energy of dipole."
+    },
+    {
+        "id": 113,
+        "question": "The electric potential energy of a dipole in a uniform electric field is given by:",
+        "options": [
+            "pE sin\theta",
+            "pE cos\theta",
+            "−pE cos\theta",
+            "−pE sin\theta"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy U = −pE cos\theta."
+    },
+    {
+        "id": 114,
+        "question": "A parallel plate capacitor has plates of area A and separation d. Its capacitance is proportional to:",
+        "options": [
+            "A/d",
+            "d/A",
+            "Ad",
+            "A²/d"
+        ],
+        "answer": 0,
+        "explanation": "Capacitance C = \varepsilon_0 A/d."
+    },
+    {
+        "id": 115,
+        "question": "If a dielectric slab completely fills the space between capacitor plates, the capacitance becomes:",
+        "options": [
+            "C/K",
+            "KC",
+            "C + K",
+            "C − K"
+        ],
+        "answer": 1,
+        "explanation": "Capacitance increases by factor K when dielectric fills the gap."
+    },
+    {
+        "id": 116,
+        "question": "The bound charges in a dielectric arise due to:",
+        "options": [
+            "free electron flow",
+            "polarization of molecules",
+            "conduction current",
+            "thermal motion"
+        ],
+        "answer": 1,
+        "explanation": "Bound charges appear due to polarization of dielectric molecules."
+    },
+    {
+        "id": 117,
+        "question": "The electric field inside a polarized dielectric is:",
+        "options": [
+            "same as applied field",
+            "greater than applied field",
+            "less than applied field",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Polarization produces an opposing field, reducing the net field."
+    },
+    {
+        "id": 118,
+        "question": "The net electric field inside a conductor with a cavity containing no charge is:",
+        "options": [
+            "uniform",
+            "zero",
+            "non-zero",
+            "depends on shape"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic shielding ensures zero field inside the cavity."
+    },
+    {
+        "id": 119,
+        "question": "The phenomenon of electric shielding is explained using:",
+        "options": [
+            "Coulomb’s law",
+            "Gauss’s law",
+            "Faraday’s law",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Gauss’s law explains zero field inside conductors."
+    },
+    {
+        "id": 120,
+        "question": "The capacitance of an isolated spherical conductor of radius R is:",
+        "options": ["4\pi\varepsilon_0R", "4\pi\varepsilon_0/R", "\varepsilon_0R", "\varepsilon_0/R"
+        ],
+        "answer": 0,
+        "explanation": "Capacitance of isolated sphere is C = 4\pi\varepsilon_0R."
+    },
+    {
+        "id": 121,
+        "question": "If the radius of an isolated spherical conductor is halved, its capacitance becomes:",
+        "options": [
+            "double",
+            "half",
+            "one-fourth",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Capacitance of a sphere is proportional to radius."
+    },
+    {
+        "id": 122,
+        "question": "The energy stored per unit volume in an electric field is proportional to:",
+        "options": [
+            "E",
+            "E²",
+            "1/E",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Energy density u = (1/2)\varepsilon_0E²."
+    },
+    {
+        "id": 123,
+        "question": "If the electric field at a point is zero, the electric potential at that point:",
+        "options": [
+            "must be zero",
+            "must be maximum",
+            "must be minimum",
+            "may be zero or non-zero"
+        ],
+        "answer": 3,
+        "explanation": "Zero field implies zero gradient of potential, not necessarily zero potential."
+    },
+    {
+        "id": 124,
+        "question": "The electric potential is continuous across:",
+        "options": [
+            "surface of conductor",
+            "surface of dielectric",
+            "both conductor and dielectric surfaces",
+            "vacuum only"
+        ],
+        "answer": 2,
+        "explanation": "Potential remains continuous across all boundaries."
+    },
+    {
+        "id": 125,
+        "question": "The electric field is discontinuous across the surface of a conductor due to:",
+        "options": [
+            "change in potential",
+            "surface charge density",
+            "dielectric constant",
+            "magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Surface charge density causes discontinuity in electric field."
+    },
+    {
+        "id": 126,
+        "question": "The electric flux through a closed surface enclosing a dipole is zero because:",
+        "options": [
+            "field is zero everywhere",
+            "charges cancel inside",
+            "no field lines exist",
+            "dipole moment is zero"
+        ],
+        "answer": 1,
+        "explanation": "Net enclosed charge is zero."
+    },
+    {
+        "id": 127,
+        "question": "Electric field lines are always perpendicular to:",
+        "options": [
+            "magnetic field lines",
+            "equipotential surfaces",
+            "conducting surfaces only",
+            "dielectric surfaces only"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is normal to equipotential surfaces."
+    },
+    {
+        "id": 128,
+        "question": "The work done by electrostatic force in moving a charge between two points depends on:",
+        "options": [
+            "path taken",
+            "speed of charge",
+            "potential difference",
+            "time taken"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic force is conservative; work depends only on potential difference."
+    },
+    {
+        "id": 129,
+        "question": "If two identical charges are placed at a distance r, the potential at the midpoint is:",
+        "options": [
+            "zero",
+            "kq/r",
+            "2kq/r",
+            "kq/2r"
+        ],
+        "answer": 1,
+        "explanation": "Potentials add algebraically at the midpoint."
+    },
+    {
+        "id": 130,
+        "question": "The electric field at the midpoint between two equal like charges is:",
+        "options": [
+            "zero",
+            "maximum",
+            "finite",
+            "infinite"
+        ],
+        "answer": 0,
+        "explanation": "Fields due to each charge cancel by symmetry."
+    },
+    {
+        "id": 131,
+        "question": "If a capacitor is charged and then disconnected from the battery, the electric field between plates depends on:",
+        "options": [
+            "charge only",
+            "voltage only",
+            "distance only",
+            "capacitance only"
+        ],
+        "answer": 0,
+        "explanation": "With fixed charge, field depends on surface charge density."
+    },
+    {
+        "id": 132,
+        "question": "The electric field inside a hollow conducting shell is zero because:",
+        "options": [
+            "no charge exists",
+            "charges reside on outer surface",
+            "field lines cancel",
+            "potential is zero"
+        ],
+        "answer": 1,
+        "explanation": "Excess charge resides on the outer surface of conductor."
+    },
+    {
+        "id": 133,
+        "question": "The direction of electric field is the direction of force on a:",
+        "options": [
+            "negative test charge",
+            "positive test charge",
+            "unit mass",
+            "electron only"
+        ],
+        "answer": 1,
+        "explanation": "By definition, field direction is that of force on a positive test charge."
+    },
+    {
+        "id": 134,
+        "question": "The SI unit of electric flux can also be written as:",
+        "options": [
+            "V m",
+            "N m² C⁻¹",
+            "J C⁻¹",
+            "C m⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Electric flux = E × area; unit N m² C⁻¹."
+    },
+    {
+        "id": 135,
+        "question": "The electric field due to an infinite plane sheet of charge is independent of:",
+        "options": [
+            "surface charge density",
+            "distance from sheet",
+            "permittivity of medium",
+            "sign of charge"
+        ],
+        "answer": 1,
+        "explanation": "Field due to infinite plane sheet is constant, independent of distance."
+    },
+    {
+        "id": 136,
+        "question": "The electric potential energy of two unlike charges placed close together is:",
+        "options": [
+            "positive",
+            "negative",
+            "zero",
+            "maximum"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy is negative for unlike charges."
+    },
+    {
+        "id": 137,
+        "question": "The potential energy of a charged capacitor is stored in the form of:",
+        "options": [
+            "electric charges",
+            "magnetic field",
+            "electric field",
+            "chemical energy"
+        ],
+        "answer": 2,
+        "explanation": "Energy is stored in the electric field between plates."
+    },
+    {
+        "id": 138,
+        "question": "The electric field inside a dielectric is reduced due to:",
+        "options": [
+            "free charge motion",
+            "polarization charges",
+            "loss of charge",
+            "conduction current"
+        ],
+        "answer": 1,
+        "explanation": "Bound charges due to polarization oppose applied field."
+    },
+    {
+        "id": 139,
+        "question": "The capacitance of a capacitor depends on:",
+        "options": [
+            "charge stored",
+            "potential difference",
+            "geometry and medium",
+            "electric field only"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance depends on shape, size, and dielectric medium."
+    },
+    {
+        "id": 140,
+        "question": "The electric potential at infinity due to a finite charge distribution is taken as:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Reference potential is chosen zero at infinity."
+    },
+    {
+        "id": 141,
+        "question": "The electric field at a point is numerically equal to the rate of change of potential with:",
+        "options": [
+            "time",
+            "charge",
+            "distance",
+            "area"
+        ],
+        "answer": 2,
+        "explanation": "E = −dV/dr."
+    },
+    {
+        "id": 142,
+        "question": "The electric potential due to a uniformly charged solid sphere at its center is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "equal to surface potential"
+        ],
+        "answer": 0,
+        "explanation": "Potential is maximum at the center of a uniformly charged solid sphere."
+    },
+    {
+        "id": 143,
+        "question": "If the electric field is uniform, the equipotential surfaces are:",
+        "options": [
+            "concentric spheres",
+            "parallel planes",
+            "cylinders",
+            "random surfaces"
+        ],
+        "answer": 1,
+        "explanation": "Uniform field corresponds to parallel planar equipotential surfaces."
+    },
+    {
+        "id": 144,
+        "question": "The force on a charge q placed in an electric field E is:",
+        "options": [
+            "q/E",
+            "E/q",
+            "qE",
+            "E/q²"
+        ],
+        "answer": 2,
+        "explanation": "Force F = qE."
+    },
+    {
+        "id": 145,
+        "question": "The electric field due to a point charge at distance r is inversely proportional to:",
+        "options": [
+            "r",
+            "r²",
+            "r³",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "E ∝ 1/r² for a point charge."
+    },
+    {
+        "id": 146,
+        "question": "The potential difference between two points in an electric field is defined as:",
+        "options": [
+            "work per unit charge",
+            "force per unit charge",
+            "energy per unit mass",
+            "charge per unit work"
+        ],
+        "answer": 0,
+        "explanation": "Potential difference equals work done per unit charge."
+    },
+    {
+        "id": 147,
+        "question": "If a conductor is given excess charge, the charge resides on:",
+        "options": [
+            "entire volume",
+            "inner surface only",
+            "outer surface only",
+            "center only"
+        ],
+        "answer": 2,
+        "explanation": "In electrostatic equilibrium, excess charge resides on outer surface."
+    },
+    {
+        "id": 148,
+        "question": "The electric field just inside the surface of a charged conductor is:",
+        "options": ["\sigma/\varepsilon_0", "\sigma/2\varepsilon_0",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside a conductor is zero."
+    },
+    {
+        "id": 149,
+        "question": "The electric field due to a uniformly charged infinite line varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "r",
+            "constant"
+        ],
+        "answer": 0,
+        "explanation": "Using Gauss’s law, E ∝ 1/r."
+    },
+    {
+        "id": 150,
+        "question": "Electrostatic potential energy of a system is a property of its:",
+        "options": [
+            "motion",
+            "configuration",
+            "temperature",
+            "mass"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy depends on relative positions of charges."
+    }
+]
+[
+    {
+        "id": 151,
+        "question": "The electric field at a point due to a point charge is independent of:",
+        "options": [
+            "magnitude of charge",
+            "distance from charge",
+            "medium between charges",
+            "mass of test charge"
+        ],
+        "answer": 3,
+        "explanation": "Electric field depends on source charge, distance and medium, not on mass of test charge."
+    },
+    {
+        "id": 152,
+        "question": "If the distance between two charges is increased by a factor of 3, the electrostatic force becomes:",
+        "options": [
+            "1/3 times",
+            "1/6 times",
+            "1/9 times",
+            "3 times"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic force varies inversely as square of distance."
+    },
+    {
+        "id": 153,
+        "question": "The electric field at a point on the axial line of a short dipole is proportional to:",
+        "options": [
+            "p/r²",
+            "p/r³",
+            "p²/r³",
+            "1/r"
+        ],
+        "answer": 1,
+        "explanation": "Electric field of a dipole at axial point varies as p/r³."
+    },
+    {
+        "id": 154,
+        "question": "The electric field at a point on the equatorial line of a short dipole is:",
+        "options": [
+            "along dipole moment",
+            "opposite to dipole moment",
+            "perpendicular to dipole moment",
+            "zero always"
+        ],
+        "answer": 1,
+        "explanation": "Field on equatorial line is opposite to dipole moment direction."
+    },
+    {
+        "id": 155,
+        "question": "If the magnitude of electric field is zero at a point, the electric potential at that point is:",
+        "options": [
+            "necessarily zero",
+            "necessarily maximum",
+            "necessarily minimum",
+            "constant locally"
+        ],
+        "answer": 3,
+        "explanation": "Zero field implies zero gradient of potential, so potential is locally constant."
+    },
+    {
+        "id": 156,
+        "question": "The work done in moving a test charge between two equipotential surfaces is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "depends on path"
+        ],
+        "answer": 2,
+        "explanation": "No work is done since potential difference is zero."
+    },
+    {
+        "id": 157,
+        "question": "The electric field inside a metallic conductor is zero in electrostatic equilibrium because:",
+        "options": [
+            "no charges are present",
+            "charges are tightly bound",
+            "free charges rearrange themselves",
+            "electric field lines are absent"
+        ],
+        "answer": 2,
+        "explanation": "Free charges redistribute to cancel the internal electric field."
+    },
+    {
+        "id": 158,
+        "question": "The electric field just outside a charged conductor depends on:",
+        "options": [
+            "volume charge density",
+            "surface charge density",
+            "total charge only",
+            "shape only"
+        ],
+        "answer": 1,
+        "explanation": "E = σ/ε0, where σ is surface charge density."
+    },
+    {
+        "id": 159,
+        "question": "If a charge is placed inside a cavity of a conductor, the induced charge on the inner surface is:",
+        "options": [
+            "equal and same sign",
+            "equal and opposite sign",
+            "greater than placed charge",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Induced charge on inner surface is equal in magnitude and opposite in sign."
+    },
+    {
+        "id": 160,
+        "question": "The net charge induced on the outer surface of a conducting shell containing a charge q inside is:",
+        "options": [
+            "−q",
+            "q",
+            "0",
+            "depends on shape"
+        ],
+        "answer": 1,
+        "explanation": "To conserve total charge, +q appears on outer surface."
+    },
+    {
+        "id": 161,
+        "question": "The capacitance of a capacitor is independent of:",
+        "options": [
+            "geometry of plates",
+            "dielectric medium",
+            "potential difference applied",
+            "distance between plates"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance does not depend on applied potential difference."
+    },
+    {
+        "id": 162,
+        "question": "If a capacitor is charged and isolated, then dielectric is inserted, the energy stored:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "With constant charge, energy U = Q²/(2C) decreases as C increases."
+    },
+    {
+        "id": 163,
+        "question": "If a capacitor is connected to a battery and dielectric is inserted, the energy stored:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "With constant voltage, energy U = (1/2)CV² increases with capacitance."
+    },
+    {
+        "id": 164,
+        "question": "The electric field between the plates of a parallel plate capacitor is given by:",
+        "options": [
+            "σ/2ε0",
+            "σ/ε0",
+            "Q/ε0A",
+            "both σ/ε0 and Q/ε0A"
+        ],
+        "answer": 3,
+        "explanation": "Since σ = Q/A, E = σ/ε0 = Q/ε0A."
+    },
+    {
+        "id": 165,
+        "question": "The electric field inside a dielectric slab placed between capacitor plates is:",
+        "options": [
+            "greater than external field",
+            "equal to external field",
+            "less than external field",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Polarization produces an opposing field, reducing net field."
+    },
+    {
+        "id": 166,
+        "question": "The direction of polarization in a dielectric is the direction of:",
+        "options": [
+            "applied electric field",
+            "motion of free electrons",
+            "magnetic field",
+            "electric current"
+        ],
+        "answer": 0,
+        "explanation": "Dipoles align along the applied electric field."
+    },
+    {
+        "id": 167,
+        "question": "Bound charges appear in a dielectric due to:",
+        "options": [
+            "conduction of electrons",
+            "ionization",
+            "polarization of molecules",
+            "thermal agitation"
+        ],
+        "answer": 2,
+        "explanation": "Bound charges arise due to polarization of dielectric molecules."
+    },
+    {
+        "id": 168,
+        "question": "The SI unit of surface charge density is:",
+        "options": [
+            "C m⁻¹",
+            "C m⁻²",
+            "C m⁻³",
+            "N m⁻²"
+        ],
+        "answer": 1,
+        "explanation": "Surface charge density is charge per unit area."
+    },
+    {
+        "id": 169,
+        "question": "The electric field due to an infinite plane sheet of charge is:",
+        "options": [
+            "inversely proportional to distance",
+            "directly proportional to distance",
+            "constant",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Electric field due to infinite plane sheet is constant."
+    },
+    {
+        "id": 170,
+        "question": "The electric potential due to an infinite plane sheet of charge varies with distance as:",
+        "options": [
+            "constant",
+            "linearly",
+            "1/r",
+            "1/r²"
+        ],
+        "answer": 1,
+        "explanation": "Potential changes linearly with distance from the sheet."
+    },
+    {
+        "id": 171,
+        "question": "The electric field inside a hollow charged conductor is:",
+        "options": [
+            "uniform",
+            "non-zero",
+            "zero",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside a conductor is zero in electrostatic equilibrium."
+    },
+    {
+        "id": 172,
+        "question": "The capacitance of a spherical conductor depends on its:",
+        "options": [
+            "charge",
+            "potential",
+            "radius",
+            "mass"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance of an isolated sphere is proportional to its radius."
+    },
+    {
+        "id": 173,
+        "question": "If two capacitors are connected in series, the equivalent capacitance is always:",
+        "options": [
+            "greater than each",
+            "equal to each",
+            "less than each",
+            "sum of both"
+        ],
+        "answer": 2,
+        "explanation": "Series combination gives capacitance less than smallest capacitor."
+    },
+    {
+        "id": 174,
+        "question": "If two capacitors are connected in parallel, the equivalent capacitance is:",
+        "options": [
+            "less than each",
+            "greater than each",
+            "equal to smaller one",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Parallel capacitance is sum of individual capacitances."
+    },
+    {
+        "id": 175,
+        "question": "The energy stored in a capacitor is directly proportional to:",
+        "options": [
+            "Q",
+            "V",
+            "Q²",
+            "1/C"
+        ],
+        "answer": 2,
+        "explanation": "Energy U = Q²/(2C) is proportional to square of charge."
+    },
+    {
+        "id": 176,
+        "question": "The electric field is conservative in electrostatics because:",
+        "options": [
+            "field lines are straight",
+            "curl of field is zero",
+            "divergence is zero",
+            "charge is conserved"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic field has zero curl."
+    },
+    {
+        "id": 177,
+        "question": "The line integral of electric field over a closed path is:",
+        "options": [
+            "positive",
+            "negative",
+            "zero",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic field is conservative, so closed loop integral is zero."
+    },
+    {
+        "id": 178,
+        "question": "The electric field lines around a positive point charge are:",
+        "options": [
+            "circular",
+            "radial outward",
+            "radial inward",
+            "closed loops"
+        ],
+        "answer": 1,
+        "explanation": "Field lines originate from positive charges."
+    },
+    {
+        "id": 179,
+        "question": "Electric field lines never intersect because:",
+        "options": [
+            "field is uniform",
+            "potential is scalar",
+            "direction becomes ambiguous",
+            "charges repel"
+        ],
+        "answer": 2,
+        "explanation": "Intersection would imply two directions of field at a point."
+    },
+    {
+        "id": 180,
+        "question": "The electric potential energy of two like charges placed close to each other is:",
+        "options": [
+            "negative",
+            "zero",
+            "positive",
+            "minimum"
+        ],
+        "answer": 2,
+        "explanation": "Work is done against repulsion, so potential energy is positive."
+    },
+    {
+        "id": 181,
+        "question": "The electric field at the midpoint between two equal and opposite charges is:",
+        "options": [
+            "zero",
+            "maximum",
+            "finite",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Fields due to both charges add in same direction."
+    },
+    {
+        "id": 182,
+        "question": "The electric potential at the midpoint between two equal and opposite charges is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Potentials due to +q and −q cancel."
+    },
+    {
+        "id": 183,
+        "question": "The potential energy of an electric dipole is maximum when it is oriented:",
+        "options": [
+            "parallel to field",
+            "perpendicular to field",
+            "anti-parallel to field",
+            "at 45° to field"
+        ],
+        "answer": 2,
+        "explanation": "U = −pE cosθ is maximum at θ = 180°."
+    },
+    {
+        "id": 184,
+        "question": "The torque on an electric dipole is zero when dipole is:",
+        "options": [
+            "parallel to field",
+            "perpendicular to field",
+            "at 45°",
+            "always non-zero"
+        ],
+        "answer": 0,
+        "explanation": "Torque τ = pE sinθ is zero at θ = 0°."
+    },
+    {
+        "id": 185,
+        "question": "The electric field inside a uniformly charged solid sphere varies with distance r as:",
+        "options": [
+            "1/r²",
+            "1/r",
+            "r",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "From Gauss’s law, E ∝ r inside the sphere."
+    },
+    {
+        "id": 186,
+        "question": "The electric potential inside a uniformly charged solid sphere is:",
+        "options": [
+            "constant",
+            "maximum at surface",
+            "minimum at center",
+            "maximum at center"
+        ],
+        "answer": 3,
+        "explanation": "Potential is maximum at the center of solid sphere."
+    },
+    {
+        "id": 187,
+        "question": "The electric field due to a uniformly charged spherical shell outside the shell is:",
+        "options": [
+            "zero",
+            "constant",
+            "same as point charge at center",
+            "proportional to r"
+        ],
+        "answer": 2,
+        "explanation": "Outside, shell behaves like a point charge."
+    },
+    {
+        "id": 188,
+        "question": "The electric potential due to a uniformly charged spherical shell outside the shell varies as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "r",
+            "constant"
+        ],
+        "answer": 0,
+        "explanation": "Potential outside varies as 1/r."
+    },
+    {
+        "id": 189,
+        "question": "The electric flux through a closed surface is independent of:",
+        "options": [
+            "enclosed charge",
+            "shape of surface",
+            "permittivity",
+            "electric field"
+        ],
+        "answer": 1,
+        "explanation": "Flux depends only on enclosed charge, not on shape."
+    },
+    {
+        "id": 190,
+        "question": "The net electric flux through a closed surface containing no charge is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "depends on field"
+        ],
+        "answer": 2,
+        "explanation": "From Gauss’s law, flux is zero if no charge is enclosed."
+    },
+    {
+        "id": 191,
+        "question": "The energy stored in an electric field per unit volume is called:",
+        "options": [
+            "electric intensity",
+            "electric energy density",
+            "electric flux density",
+            "polarization"
+        ],
+        "answer": 1,
+        "explanation": "Energy density = (1/2)ε0E²."
+    },
+    {
+        "id": 192,
+        "question": "The dielectric constant of vacuum is:",
+        "options": [
+            "0",
+            "1",
+            "infinite",
+            "depends on field"
+        ],
+        "answer": 1,
+        "explanation": "Vacuum has dielectric constant equal to 1."
+    },
+    {
+        "id": 193,
+        "question": "The presence of a dielectric between capacitor plates increases capacitance because:",
+        "options": [
+            "electric field increases",
+            "effective permittivity increases",
+            "distance decreases",
+            "charge increases automatically"
+        ],
+        "answer": 1,
+        "explanation": "Dielectric increases effective permittivity of medium."
+    },
+    {
+        "id": 194,
+        "question": "Electrostatic shielding is used to protect sensitive instruments from:",
+        "options": [
+            "magnetic fields",
+            "electric fields",
+            "gravitational fields",
+            "radiation"
+        ],
+        "answer": 1,
+        "explanation": "Shielding prevents external electric fields from entering."
+    },
+    {
+        "id": 195,
+        "question": "The electric field at a sharp point on a charged conductor is:",
+        "options": [
+            "minimum",
+            "uniform",
+            "maximum",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Charge density is highest at sharp points."
+    },
+    {
+        "id": 196,
+        "question": "Lightning conductor works on the principle of:",
+        "options": [
+            "electrostatic shielding",
+            "magnetic induction",
+            "electromagnetic induction",
+            "resistance heating"
+        ],
+        "answer": 0,
+        "explanation": "Lightning conductor provides electrostatic shielding."
+    },
+    {
+        "id": 197,
+        "question": "The electric potential difference between two points is independent of:",
+        "options": [
+            "path followed",
+            "electric field",
+            "charge moved",
+            "positions of points"
+        ],
+        "answer": 0,
+        "explanation": "Potential difference depends only on positions, not path."
+    },
+    {
+        "id": 198,
+        "question": "The electrostatic force is a central force because it acts along:",
+        "options": [
+            "line joining charges",
+            "perpendicular direction",
+            "equipotential surface",
+            "electric field lines always"
+        ],
+        "answer": 0,
+        "explanation": "Force acts along the line joining the two charges."
+    },
+    {
+        "id": 199,
+        "question": "The electric field at a point is numerically equal to the force experienced by a:",
+        "options": [
+            "unit negative charge",
+            "unit positive charge",
+            "any charge",
+            "electron only"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is force on unit positive test charge."
+    },
+    {
+        "id": 200,
+        "question": "Electrostatic force between two charges obeys Newton’s third law because:",
+        "options": [
+            "field is conservative",
+            "forces are equal and opposite",
+            "charges are stationary",
+            "medium is uniform"
+        ],
+        "answer": 1,
+        "explanation": "Forces between charges are equal in magnitude and opposite in direction."
+    }
+]
+[
+    {
+        "id": 201,
+        "question": "If two point charges +q and −q are separated by distance 2a, the electric field at the midpoint is:",
+        "options": [
+            "zero",
+            "kq/a²",
+            "2kq/a²",
+            "4kq/a²"
+        ],
+        "answer": 2,
+        "explanation": "Fields due to +q and −q add in same direction at midpoint, giving E = 2kq/a²."
+    },
+    {
+        "id": 202,
+        "question": "The electric potential at the midpoint between two charges +q and −q separated by distance 2a is:",
+        "options": [
+            "kq/a",
+            "−kq/a",
+            "2kq/a",
+            "zero"
+        ],
+        "answer": 3,
+        "explanation": "Potentials due to +q and −q cancel algebraically."
+    },
+    {
+        "id": 203,
+        "question": "The electric field at the center of a uniformly charged ring is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "finite",
+            "zero"
+        ],
+        "answer": 3,
+        "explanation": "By symmetry, electric field contributions cancel at the center."
+    },
+    {
+        "id": 204,
+        "question": "The electric potential at the center of a uniformly charged ring of radius R and charge Q is:",
+        "options": [
+            "kQ/R",
+            "zero",
+            "kQ/R²",
+            "depends on position"
+        ],
+        "answer": 0,
+        "explanation": "All charge elements are at same distance R, so V = kQ/R."
+    },
+    {
+        "id": 205,
+        "question": "The electric field on the axis of a uniformly charged ring at large distance x varies as:",
+        "options": [
+            "1/x",
+            "1/x²",
+            "1/x³",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "At large distances, ring behaves like a dipole, E ∝ 1/x³."
+    },
+    {
+        "id": 206,
+        "question": "The electric potential on the axis of a charged ring at large distance x varies as:",
+        "options": [
+            "1/x",
+            "1/x²",
+            "1/x³",
+            "constant"
+        ],
+        "answer": 0,
+        "explanation": "At large distance, ring behaves like a point charge, V ∝ 1/x."
+    },
+    {
+        "id": 207,
+        "question": "The electric field at the center of a uniformly charged disc is:",
+        "options": [
+            "zero",
+            "maximum",
+            "minimum",
+            "depends on radius"
+        ],
+        "answer": 1,
+        "explanation": "All field components add along axis, giving maximum field at center."
+    },
+    {
+        "id": 208,
+        "question": "The electric field due to a uniformly charged infinite plane sheet depends on:",
+        "options": [
+            "distance from sheet",
+            "surface charge density",
+            "area of sheet",
+            "shape of sheet"
+        ],
+        "answer": 1,
+        "explanation": "E = σ/(2ε0), depends only on surface charge density."
+    },
+    {
+        "id": 209,
+        "question": "The electric potential due to an infinite line charge varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "ln r",
+            "r"
+        ],
+        "answer": 2,
+        "explanation": "Potential due to infinite line charge varies logarithmically with distance."
+    },
+    {
+        "id": 210,
+        "question": "The electric field due to an infinite line charge is proportional to:",
+        "options": [
+            "r",
+            "1/r",
+            "1/r²",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Using Gauss’s law, E ∝ 1/r."
+    },
+    {
+        "id": 211,
+        "question": "The equipotential surfaces for a point charge are:",
+        "options": [
+            "planes",
+            "cylinders",
+            "spheres",
+            "cones"
+        ],
+        "answer": 2,
+        "explanation": "Potential depends only on distance from charge, giving spherical surfaces."
+    },
+    {
+        "id": 212,
+        "question": "The equipotential surfaces for a uniform electric field are:",
+        "options": [
+            "concentric spheres",
+            "parallel planes",
+            "cylindrical surfaces",
+            "random surfaces"
+        ],
+        "answer": 1,
+        "explanation": "Uniform field corresponds to parallel equipotential planes."
+    },
+    {
+        "id": 213,
+        "question": "If the electric field strength is doubled, the energy density of the field becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Energy density u ∝ E²."
+    },
+    {
+        "id": 214,
+        "question": "The electric potential energy of two charges q1 and q2 separated by distance r is:",
+        "options": [
+            "kq1q2r",
+            "kq1q2/r",
+            "kq1q2/r²",
+            "kq1q2r²"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic potential energy is U = kq1q2/r."
+    },
+    {
+        "id": 215,
+        "question": "If q1 and q2 are like charges, the potential energy of the system is:",
+        "options": [
+            "negative",
+            "zero",
+            "positive",
+            "minimum"
+        ],
+        "answer": 2,
+        "explanation": "Work is done against repulsion, giving positive potential energy."
+    },
+    {
+        "id": 216,
+        "question": "The electric potential due to a dipole at a point on its equatorial line is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Potentials due to +q and −q cancel on equatorial line."
+    },
+    {
+        "id": 217,
+        "question": "The electric field at the equatorial point of a dipole is directed:",
+        "options": [
+            "along dipole moment",
+            "opposite to dipole moment",
+            "perpendicular to dipole axis",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Resultant field is opposite to dipole moment direction."
+    },
+    {
+        "id": 218,
+        "question": "The electric field of a dipole decreases more rapidly with distance than that of a point charge because it varies as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "1/r⁴"
+        ],
+        "answer": 2,
+        "explanation": "Dipole field varies as 1/r³."
+    },
+    {
+        "id": 219,
+        "question": "An electric dipole placed in a uniform electric field has stable equilibrium when dipole moment is:",
+        "options": [
+            "perpendicular to field",
+            "parallel to field",
+            "anti-parallel to field",
+            "at 45°"
+        ],
+        "answer": 1,
+        "explanation": "Potential energy is minimum when p is parallel to E."
+    },
+    {
+        "id": 220,
+        "question": "An electric dipole placed in a uniform electric field has unstable equilibrium when dipole moment is:",
+        "options": [
+            "parallel to field",
+            "perpendicular to field",
+            "anti-parallel to field",
+            "at 60°"
+        ],
+        "answer": 2,
+        "explanation": "Potential energy is maximum when p is anti-parallel to E."
+    },
+    {
+        "id": 221,
+        "question": "The torque on an electric dipole in a uniform electric field depends on:",
+        "options": [
+            "pE cosθ",
+            "pE sinθ",
+            "pE",
+            "p/E"
+        ],
+        "answer": 1,
+        "explanation": "Torque τ = pE sinθ."
+    },
+    {
+        "id": 222,
+        "question": "The maximum torque on an electric dipole in a uniform electric field is:",
+        "options": [
+            "pE",
+            "pE/2",
+            "2pE",
+            "zero"
+        ],
+        "answer": 0,
+        "explanation": "Maximum torque occurs at θ = 90°, giving τmax = pE."
+    },
+    {
+        "id": 223,
+        "question": "The work done in rotating a dipole from stable to unstable equilibrium in uniform field is:",
+        "options": [
+            "pE",
+            "2pE",
+            "pE/2",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Work done equals change in potential energy = 2pE."
+    },
+    {
+        "id": 224,
+        "question": "The capacitance of a capacitor increases when:",
+        "options": [
+            "plate area decreases",
+            "plate separation increases",
+            "dielectric is inserted",
+            "charge decreases"
+        ],
+        "answer": 2,
+        "explanation": "Dielectric increases effective permittivity."
+    },
+    {
+        "id": 225,
+        "question": "The energy stored in a capacitor of capacitance C and potential V is:",
+        "options": [
+            "CV²",
+            "½CV²",
+            "QV",
+            "2CV²"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored U = ½CV²."
+    },
+    {
+        "id": 226,
+        "question": "If the potential difference across a capacitor is doubled, the energy stored becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Energy U ∝ V²."
+    },
+    {
+        "id": 227,
+        "question": "The capacitance of a parallel plate capacitor filled with dielectric of constant K is:",
+        "options": [
+            "ε0A/d",
+            "Kε0A/d",
+            "ε0A/Kd",
+            "A/Kε0d"
+        ],
+        "answer": 1,
+        "explanation": "C = Kε0A/d when dielectric fills the space."
+    },
+    {
+        "id": 228,
+        "question": "The electric displacement vector D in vacuum is related to E as:",
+        "options": [
+            "D = ε0E",
+            "D = E/ε0",
+            "D = ε0/E",
+            "D = E²"
+        ],
+        "answer": 0,
+        "explanation": "In vacuum, electric displacement D = ε0E."
+    },
+    {
+        "id": 229,
+        "question": "The bound surface charge density on a polarized dielectric depends on:",
+        "options": [
+            "free charge",
+            "polarization vector",
+            "electric current",
+            "magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Bound charge density is related to polarization."
+    },
+    {
+        "id": 230,
+        "question": "The net electric field inside a conductor with an internal cavity containing a charge is:",
+        "options": [
+            "uniform",
+            "non-zero",
+            "zero",
+            "depends on cavity shape"
+        ],
+        "answer": 2,
+        "explanation": "Field inside conducting material remains zero."
+    },
+    {
+        "id": 231,
+        "question": "The potential inside a conducting shell containing a point charge is:",
+        "options": [
+            "zero everywhere",
+            "constant throughout conductor",
+            "maximum at cavity surface",
+            "variable"
+        ],
+        "answer": 1,
+        "explanation": "Potential is constant throughout conductor."
+    },
+    {
+        "id": 232,
+        "question": "The electric field at the surface of a conductor is maximum at:",
+        "options": [
+            "flat regions",
+            "sharp points",
+            "center",
+            "uniform regions"
+        ],
+        "answer": 1,
+        "explanation": "Charge density is highest at sharp points."
+    },
+    {
+        "id": 233,
+        "question": "The phenomenon of corona discharge is associated with:",
+        "options": [
+            "uniform electric field",
+            "weak electric field",
+            "strong electric field at sharp points",
+            "magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Strong field ionizes air near sharp points."
+    },
+    {
+        "id": 234,
+        "question": "Electrostatic shielding is effective because the electric field inside a conductor is:",
+        "options": [
+            "uniform",
+            "maximum",
+            "zero",
+            "variable"
+        ],
+        "answer": 2,
+        "explanation": "Conductors cancel internal electric field."
+    },
+    {
+        "id": 235,
+        "question": "The electric field inside a charged conducting sphere is:",
+        "options": [
+            "non-zero",
+            "uniform",
+            "zero",
+            "maximum at center"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside a conductor is zero."
+    },
+    {
+        "id": 236,
+        "question": "The potential difference between two points A and B is defined as:",
+        "options": [
+            "VA + VB",
+            "VB − VA",
+            "work done per unit charge",
+            "electric field per unit distance"
+        ],
+        "answer": 2,
+        "explanation": "Potential difference is work done per unit charge."
+    },
+    {
+        "id": 237,
+        "question": "The electrostatic force between two charges in a medium is reduced because:",
+        "options": [
+            "charge decreases",
+            "distance increases",
+            "effective permittivity increases",
+            "field becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Higher permittivity reduces force."
+    },
+    {
+        "id": 238,
+        "question": "The electric field at a point is equal to the negative gradient of:",
+        "options": [
+            "charge",
+            "electric potential",
+            "electric flux",
+            "electric energy"
+        ],
+        "answer": 1,
+        "explanation": "E = −∇V."
+    },
+    {
+        "id": 239,
+        "question": "The electric potential is a scalar quantity because:",
+        "options": [
+            "it has magnitude only",
+            "it has direction only",
+            "it depends on path",
+            "it is vector product"
+        ],
+        "answer": 0,
+        "explanation": "Potential has magnitude but no direction."
+    },
+    {
+        "id": 240,
+        "question": "The electric field is a vector quantity because:",
+        "options": [
+            "it has magnitude only",
+            "it has direction only",
+            "it has both magnitude and direction",
+            "it depends on path"
+        ],
+        "answer": 2,
+        "explanation": "Electric field has both magnitude and direction."
+    },
+    {
+        "id": 241,
+        "question": "The number of electric field lines emerging from a charge is proportional to:",
+        "options": [
+            "charge magnitude",
+            "charge sign",
+            "distance",
+            "electric potential"
+        ],
+        "answer": 0,
+        "explanation": "Field lines represent flux, proportional to charge."
+    },
+    {
+        "id": 242,
+        "question": "Electric field lines terminate on:",
+        "options": [
+            "positive charges",
+            "negative charges",
+            "neutral points",
+            "conductors only"
+        ],
+        "answer": 1,
+        "explanation": "Field lines end on negative charges."
+    },
+    {
+        "id": 243,
+        "question": "The electric field inside a dielectric is zero when:",
+        "options": [
+            "dielectric is perfect conductor",
+            "no external field is applied",
+            "polarization is maximum",
+            "bound charges vanish"
+        ],
+        "answer": 1,
+        "explanation": "Without external field, no polarization occurs."
+    },
+    {
+        "id": 244,
+        "question": "The potential energy of a capacitor is stored in:",
+        "options": [
+            "plates only",
+            "dielectric only",
+            "electric field",
+            "battery"
+        ],
+        "answer": 2,
+        "explanation": "Energy is stored in electric field between plates."
+    },
+    {
+        "id": 245,
+        "question": "If the separation between capacitor plates is reduced, the capacitance:",
+        "options": [
+            "decreases",
+            "increases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "C ∝ 1/d."
+    },
+    {
+        "id": 246,
+        "question": "The SI unit of electric dipole moment is equivalent to:",
+        "options": [
+            "N m",
+            "C m",
+            "V m",
+            "J C⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Dipole moment p = q × separation, unit C m."
+    },
+    {
+        "id": 247,
+        "question": "The electric field due to a charged spherical conductor outside the sphere varies as:",
+        "options": [
+            "r",
+            "1/r",
+            "1/r²",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "Outside, conductor behaves like a point charge."
+    },
+    {
+        "id": 248,
+        "question": "The electric potential outside a charged spherical conductor varies as:",
+        "options": [
+            "r",
+            "1/r",
+            "1/r²",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Potential outside varies as 1/r."
+    },
+    {
+        "id": 249,
+        "question": "The electrostatic force is a long-range force because it varies as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Inverse square dependence makes it long-range."
+    },
+    {
+        "id": 250,
+        "question": "The fundamental principle behind Gauss’s law is:",
+        "options": [
+            "inverse square nature of force",
+            "conservation of charge",
+            "vector nature of field",
+            "scalar nature of potential"
+        ],
+        "answer": 0,
+        "explanation": "Gauss’s law follows from inverse square nature of Coulomb’s law."
+    }
+]
+[
+    {
+        "id": 251,
+        "question": "If two identical point charges are placed at a distance r in vacuum, the electric field at the midpoint is:",
+        "options": [
+            "maximum",
+            "zero",
+            "finite but non-zero",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Electric fields due to identical charges cancel at the midpoint by symmetry."
+    },
+    {
+        "id": 252,
+        "question": "The electric potential at the midpoint between two identical point charges separated by distance r is:",
+        "options": [
+            "zero",
+            "kq/r",
+            "2kq/r",
+            "kq/2r"
+        ],
+        "answer": 2,
+        "explanation": "Potential is a scalar and adds algebraically, giving 2kq/r."
+    },
+    {
+        "id": 253,
+        "question": "The electric field inside a uniformly charged spherical shell is zero because:",
+        "options": [
+            "charge density is zero",
+            "potential is zero",
+            "net enclosed charge is zero",
+            "electric field lines cancel due to symmetry"
+        ],
+        "answer": 2,
+        "explanation": "By Gauss’s law, zero enclosed charge gives zero electric field."
+    },
+    {
+        "id": 254,
+        "question": "If the radius of a charged spherical shell is doubled keeping charge constant, the surface electric field becomes:",
+        "options": [
+            "double",
+            "half",
+            "one-fourth",
+            "four times"
+        ],
+        "answer": 2,
+        "explanation": "Electric field at surface E = kQ/R², so doubling R makes E one-fourth."
+    },
+    {
+        "id": 255,
+        "question": "The potential energy of two charges is independent of:",
+        "options": [
+            "magnitude of charges",
+            "distance between charges",
+            "medium",
+            "path of bringing charges"
+        ],
+        "answer": 3,
+        "explanation": "Electrostatic force is conservative, so energy is path independent."
+    },
+    {
+        "id": 256,
+        "question": "If electric field at a point is zero, the force on a charge placed there is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Force F = qE, hence zero field gives zero force."
+    },
+    {
+        "id": 257,
+        "question": "The electric potential difference between two points is numerically equal to:",
+        "options": [
+            "work done per unit charge",
+            "force per unit charge",
+            "energy per unit mass",
+            "charge per unit work"
+        ],
+        "answer": 0,
+        "explanation": "Potential difference is defined as work done per unit charge."
+    },
+    {
+        "id": 258,
+        "question": "If a charged particle is moved along a closed path in an electrostatic field, the net work done is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "depends on path"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic field is conservative."
+    },
+    {
+        "id": 259,
+        "question": "The electric field inside a conductor is zero in electrostatic equilibrium because:",
+        "options": [
+            "no free electrons exist",
+            "electrons move randomly",
+            "free charges redistribute to cancel field",
+            "potential is zero"
+        ],
+        "answer": 2,
+        "explanation": "Free charges rearrange to make internal field zero."
+    },
+    {
+        "id": 260,
+        "question": "If a conductor is hollow and contains no charge inside the cavity, the electric field in the cavity is:",
+        "options": [
+            "uniform",
+            "zero",
+            "maximum",
+            "non-zero"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic shielding ensures zero field in empty cavity."
+    },
+    {
+        "id": 261,
+        "question": "The capacitance of a parallel plate capacitor increases if:",
+        "options": [
+            "plate separation increases",
+            "plate area decreases",
+            "dielectric is inserted",
+            "charge is increased"
+        ],
+        "answer": 2,
+        "explanation": "Dielectric increases effective permittivity, increasing capacitance."
+    },
+    {
+        "id": 262,
+        "question": "The capacitance of a capacitor depends on:",
+        "options": [
+            "charge stored",
+            "potential difference",
+            "geometry and medium",
+            "electric field strength"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance depends only on geometry and dielectric medium."
+    },
+    {
+        "id": 263,
+        "question": "The SI unit of electric field can also be written as:",
+        "options": [
+            "V m⁻¹",
+            "J C⁻¹",
+            "N m⁻¹",
+            "C m⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Electric field E = V/d, so unit V m⁻¹."
+    },
+    {
+        "id": 264,
+        "question": "The electric potential energy of a charged capacitor is stored in its:",
+        "options": [
+            "plates",
+            "dielectric",
+            "electric field",
+            "battery"
+        ],
+        "answer": 2,
+        "explanation": "Energy is stored in the electric field between plates."
+    },
+    {
+        "id": 265,
+        "question": "If the charge on a capacitor is doubled keeping capacitance constant, the energy stored becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Energy U = Q²/(2C), so doubling Q makes energy four times."
+    },
+    {
+        "id": 266,
+        "question": "The electric field at the surface of a charged conductor is always:",
+        "options": [
+            "tangential",
+            "parallel",
+            "normal to surface",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Electric field at conductor surface is normal to it."
+    },
+    {
+        "id": 267,
+        "question": "The electric field due to an infinite plane sheet of charge is independent of:",
+        "options": [
+            "distance from sheet",
+            "surface charge density",
+            "medium",
+            "sign of charge"
+        ],
+        "answer": 0,
+        "explanation": "Field due to infinite plane sheet does not depend on distance."
+    },
+    {
+        "id": 268,
+        "question": "The electric potential due to a point charge becomes zero at:",
+        "options": [
+            "finite distance",
+            "surface of conductor",
+            "infinity",
+            "center of charge"
+        ],
+        "answer": 2,
+        "explanation": "Reference potential is taken zero at infinity."
+    },
+    {
+        "id": 269,
+        "question": "The electric field lines are closer together in regions where the field is:",
+        "options": [
+            "weaker",
+            "stronger",
+            "zero",
+            "uniform"
+        ],
+        "answer": 1,
+        "explanation": "Density of field lines represents field strength."
+    },
+    {
+        "id": 270,
+        "question": "Two equipotential surfaces can never:",
+        "options": [
+            "be parallel",
+            "be perpendicular",
+            "intersect",
+            "be concentric"
+        ],
+        "answer": 2,
+        "explanation": "Intersection would imply two potentials at one point."
+    },
+    {
+        "id": 271,
+        "question": "The electric field inside a uniformly charged solid sphere at the center is:",
+        "options": [
+            "maximum",
+            "finite",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "By symmetry, field at center is zero."
+    },
+    {
+        "id": 272,
+        "question": "The electric potential inside a uniformly charged solid sphere is maximum at:",
+        "options": [
+            "surface",
+            "center",
+            "midway",
+            "infinity"
+        ],
+        "answer": 1,
+        "explanation": "Potential is highest at the center of solid sphere."
+    },
+    {
+        "id": 273,
+        "question": "If two capacitors are connected in series, the charge on each capacitor is:",
+        "options": [
+            "different",
+            "zero",
+            "same",
+            "maximum on larger capacitor"
+        ],
+        "answer": 2,
+        "explanation": "Same charge flows through capacitors in series."
+    },
+    {
+        "id": 274,
+        "question": "If two capacitors are connected in parallel, the potential difference across each is:",
+        "options": [
+            "different",
+            "zero",
+            "same",
+            "maximum on larger capacitor"
+        ],
+        "answer": 2,
+        "explanation": "Parallel capacitors have same potential difference."
+    },
+    {
+        "id": 275,
+        "question": "The electric field just inside a conductor is:",
+        "options": [
+            "σ/ε0",
+            "σ/2ε0",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside conductor is zero."
+    },
+    {
+        "id": 276,
+        "question": "The phenomenon of electrostatic shielding is based on the fact that:",
+        "options": [
+            "electric field lines cannot penetrate conductors",
+            "conductors have high resistance",
+            "dielectrics polarize easily",
+            "charges attract each other"
+        ],
+        "answer": 0,
+        "explanation": "Electric field inside conductor is zero."
+    },
+    {
+        "id": 277,
+        "question": "The potential difference between two points in an electric field is independent of:",
+        "options": [
+            "path taken",
+            "electric field",
+            "positions of points",
+            "charge moved"
+        ],
+        "answer": 0,
+        "explanation": "Potential difference is path independent."
+    },
+    {
+        "id": 278,
+        "question": "The electric field at a point is numerically equal to:",
+        "options": [
+            "work per unit charge",
+            "force per unit charge",
+            "energy per unit charge",
+            "charge per unit force"
+        ],
+        "answer": 1,
+        "explanation": "Electric field E = F/q."
+    },
+    {
+        "id": 279,
+        "question": "The potential energy of two unlike charges is:",
+        "options": [
+            "positive",
+            "zero",
+            "negative",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "Attraction leads to negative potential energy."
+    },
+    {
+        "id": 280,
+        "question": "The electric field inside a dielectric is less than applied field because:",
+        "options": [
+            "charge leaks",
+            "polarization opposes field",
+            "dielectric conducts electricity",
+            "field lines vanish"
+        ],
+        "answer": 1,
+        "explanation": "Polarization produces an opposing electric field."
+    },
+    {
+        "id": 281,
+        "question": "The SI unit of permittivity ε0 can be written as:",
+        "options": [
+            "C² N⁻¹ m⁻²",
+            "N m² C⁻²",
+            "C N⁻¹ m²",
+            "N C⁻¹ m²"
+        ],
+        "answer": 0,
+        "explanation": "From Coulomb’s law, unit of ε0 is C² N⁻¹ m⁻²."
+    },
+    {
+        "id": 282,
+        "question": "The electric field at a point due to a point charge is:",
+        "options": [
+            "vector",
+            "scalar",
+            "dimensionless",
+            "always zero"
+        ],
+        "answer": 0,
+        "explanation": "Electric field has both magnitude and direction."
+    },
+    {
+        "id": 283,
+        "question": "The electric potential at a point due to a point charge is:",
+        "options": [
+            "vector",
+            "scalar",
+            "tensor",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "Electric potential is a scalar quantity."
+    },
+    {
+        "id": 284,
+        "question": "The force between two charges in a medium compared to vacuum is reduced by a factor equal to:",
+        "options": [
+            "dielectric constant",
+            "inverse dielectric constant",
+            "square of dielectric constant",
+            "permittivity"
+        ],
+        "answer": 1,
+        "explanation": "Force in medium is F = F0/K."
+    },
+    {
+        "id": 285,
+        "question": "The electric field inside a conducting shell containing a charge in its cavity is:",
+        "options": [
+            "uniform",
+            "non-zero",
+            "zero",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside conductor material remains zero."
+    },
+    {
+        "id": 286,
+        "question": "The net charge induced on the inner surface of a conducting cavity equals:",
+        "options": [
+            "charge placed inside",
+            "negative of charge placed",
+            "zero",
+            "depends on cavity shape"
+        ],
+        "answer": 1,
+        "explanation": "Equal and opposite charge is induced on inner surface."
+    },
+    {
+        "id": 287,
+        "question": "The electric field near a sharp point on a charged conductor is:",
+        "options": [
+            "minimum",
+            "uniform",
+            "maximum",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Surface charge density is highest at sharp points."
+    },
+    {
+        "id": 288,
+        "question": "The phenomenon of lightning is associated with:",
+        "options": [
+            "magnetic field",
+            "electrostatic discharge",
+            "electromagnetic induction",
+            "conduction current"
+        ],
+        "answer": 1,
+        "explanation": "Lightning is due to electrostatic discharge."
+    },
+    {
+        "id": 289,
+        "question": "The electric field lines originate from:",
+        "options": [
+            "negative charges",
+            "positive charges",
+            "neutral bodies",
+            "conductors only"
+        ],
+        "answer": 1,
+        "explanation": "Electric field lines start from positive charges."
+    },
+    {
+        "id": 290,
+        "question": "The electric field lines end on:",
+        "options": [
+            "positive charges",
+            "negative charges",
+            "neutral bodies",
+            "dielectrics"
+        ],
+        "answer": 1,
+        "explanation": "Electric field lines terminate on negative charges."
+    },
+    {
+        "id": 291,
+        "question": "The electric flux through a closed surface depends on:",
+        "options": [
+            "shape of surface",
+            "area of surface",
+            "enclosed charge",
+            "electric field strength only"
+        ],
+        "answer": 2,
+        "explanation": "By Gauss’s law, flux depends only on enclosed charge."
+    },
+    {
+        "id": 292,
+        "question": "The electric flux through a closed surface enclosing no charge is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Zero enclosed charge gives zero flux."
+    },
+    {
+        "id": 293,
+        "question": "The electric field at a point on the equatorial line of a dipole is proportional to:",
+        "options": [
+            "p/r²",
+            "p/r³",
+            "p²/r³",
+            "1/r"
+        ],
+        "answer": 1,
+        "explanation": "Dipole field varies as p/r³."
+    },
+    {
+        "id": 294,
+        "question": "The electric potential at a point on the equatorial line of a dipole is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Potentials due to +q and −q cancel."
+    },
+    {
+        "id": 295,
+        "question": "The torque on an electric dipole in a uniform electric field is zero when dipole is:",
+        "options": [
+            "parallel to field",
+            "perpendicular to field",
+            "at 45°",
+            "always zero"
+        ],
+        "answer": 0,
+        "explanation": "Torque τ = pE sinθ, zero at θ = 0°."
+    },
+    {
+        "id": 296,
+        "question": "The electric potential energy of a dipole in stable equilibrium is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Stable equilibrium corresponds to minimum potential energy."
+    },
+    {
+        "id": 297,
+        "question": "The electric field at the center of a uniformly charged ring is zero because:",
+        "options": [
+            "charge density is zero",
+            "potential is zero",
+            "symmetry cancels field",
+            "ring has no charge"
+        ],
+        "answer": 2,
+        "explanation": "Fields due to opposite elements cancel by symmetry."
+    },
+    {
+        "id": 298,
+        "question": "The electric potential at the center of a uniformly charged ring is:",
+        "options": [
+            "zero",
+            "kQ/R",
+            "kQ/R²",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "All charge elements are at same distance R."
+    },
+    {
+        "id": 299,
+        "question": "The electric field due to a uniformly charged ring on its axis at large distance behaves like that of a:",
+        "options": [
+            "dipole",
+            "point charge",
+            "plane sheet",
+            "line charge"
+        ],
+        "answer": 0,
+        "explanation": "At large distances, ring behaves like a dipole."
+    },
+    {
+        "id": 300,
+        "question": "The electric potential due to a uniformly charged ring on its axis at large distance behaves like that of a:",
+        "options": [
+            "dipole",
+            "point charge",
+            "plane sheet",
+            "line charge"
+        ],
+        "answer": 1,
+        "explanation": "At large distances, potential behaves like that of a point charge."
+    }
+]
+[
+    {
+        "id": 301,
+        "question": "If two equal charges +q are placed at x = ±a on the x-axis, the electric field at the origin is:",
+        "options": [
+            "zero",
+            "2kq/a²",
+            "kq/a²",
+            "4kq/a²"
+        ],
+        "answer": 0,
+        "explanation": "Electric fields due to equal charges cancel at the midpoint by symmetry."
+    },
+    {
+        "id": 302,
+        "question": "The electric potential at the origin due to two equal charges +q placed at x = ±a is:",
+        "options": [
+            "zero",
+            "kq/a",
+            "2kq/a",
+            "4kq/a"
+        ],
+        "answer": 2,
+        "explanation": "Potential is scalar and adds, giving V = 2kq/a."
+    },
+    {
+        "id": 303,
+        "question": "If the electric field at a point is zero, the point is necessarily:",
+        "options": [
+            "an equipotential point",
+            "a point of minimum potential",
+            "a point of maximum potential",
+            "a saddle or extremum point of potential"
+        ],
+        "answer": 3,
+        "explanation": "Zero electric field implies zero gradient of potential, which can be maximum, minimum or saddle point."
+    },
+    {
+        "id": 304,
+        "question": "The electric potential due to a point charge is independent of:",
+        "options": [
+            "magnitude of charge",
+            "distance from charge",
+            "medium",
+            "path of approach"
+        ],
+        "answer": 3,
+        "explanation": "Electric potential is path independent."
+    },
+    {
+        "id": 305,
+        "question": "The electric field inside a conducting sphere carrying excess charge is:",
+        "options": [
+            "uniform",
+            "maximum at center",
+            "zero",
+            "inversely proportional to r"
+        ],
+        "answer": 2,
+        "explanation": "Electric field inside a conductor in electrostatic equilibrium is zero."
+    },
+    {
+        "id": 306,
+        "question": "If a charged conductor has a sharp edge, the surface charge density at the edge is:",
+        "options": [
+            "minimum",
+            "uniform",
+            "maximum",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Charge accumulates more at regions of small radius of curvature."
+    },
+    {
+        "id": 307,
+        "question": "The electric field inside the material of a conductor is zero because:",
+        "options": [
+            "there are no charges",
+            "charges are fixed",
+            "free charges redistribute to cancel field",
+            "electric field lines avoid conductors"
+        ],
+        "answer": 2,
+        "explanation": "Free charges rearrange themselves to nullify internal field."
+    },
+    {
+        "id": 308,
+        "question": "The capacitance of an isolated conductor depends on:",
+        "options": [
+            "charge on it",
+            "potential of it",
+            "shape and size",
+            "electric field around it"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance depends only on geometry and surrounding medium."
+    },
+    {
+        "id": 309,
+        "question": "The SI unit of electric potential gradient is:",
+        "options": [
+            "V m⁻¹",
+            "N C⁻¹",
+            "both V m⁻¹ and N C⁻¹",
+            "J C⁻¹ m⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "Electric field equals potential gradient; units V m⁻¹ and N C⁻¹ are equivalent."
+    },
+    {
+        "id": 310,
+        "question": "Which of the following quantities can be zero at a point while the others are non-zero?",
+        "options": [
+            "Electric field only",
+            "Electric potential only",
+            "Both electric field and potential",
+            "Neither electric field nor potential"
+        ],
+        "answer": 0,
+        "explanation": "Electric field can be zero at a point while potential is non-zero."
+    },
+    {
+        "id": 311,
+        "question": "The electric field inside a uniformly charged non-conducting spherical shell is:",
+        "options": [
+            "constant",
+            "inversely proportional to r",
+            "zero",
+            "directly proportional to r"
+        ],
+        "answer": 2,
+        "explanation": "By Gauss’s law, electric field inside shell is zero."
+    },
+    {
+        "id": 312,
+        "question": "The electric potential inside a uniformly charged spherical shell is:",
+        "options": [
+            "zero",
+            "constant",
+            "maximum at center",
+            "minimum at center"
+        ],
+        "answer": 1,
+        "explanation": "Potential inside a charged shell remains constant."
+    },
+    {
+        "id": 313,
+        "question": "The electric field due to a uniformly charged solid sphere is maximum at:",
+        "options": [
+            "center",
+            "surface",
+            "midway",
+            "outside the sphere"
+        ],
+        "answer": 1,
+        "explanation": "Electric field increases linearly inside and is maximum at surface."
+    },
+    {
+        "id": 314,
+        "question": "The electric potential due to a uniformly charged solid sphere is maximum at:",
+        "options": [
+            "surface",
+            "center",
+            "outside the sphere",
+            "infinity"
+        ],
+        "answer": 1,
+        "explanation": "Potential is maximum at the center of solid sphere."
+    },
+    {
+        "id": 315,
+        "question": "If the electric field at a point is E, the force on an electron placed at that point is:",
+        "options": [
+            "eE",
+            "−eE",
+            "E/e",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Force F = qE, for electron q = −e."
+    },
+    {
+        "id": 316,
+        "question": "The electric field at a point is related to electric potential by:",
+        "options": [
+            "E = dV/dr",
+            "E = −dV/dr",
+            "V = −dE/dr",
+            "V = dE/dr"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is the negative gradient of potential."
+    },
+    {
+        "id": 317,
+        "question": "Which of the following remains conserved in electrostatic interactions?",
+        "options": [
+            "Electric field",
+            "Electric potential",
+            "Electric flux",
+            "Electric charge"
+        ],
+        "answer": 3,
+        "explanation": "Electric charge is always conserved."
+    },
+    {
+        "id": 318,
+        "question": "The electric flux through a closed surface enclosing charges +q and −q is:",
+        "options": [
+            "q/ε0",
+            "−q/ε0",
+            "2q/ε0",
+            "zero"
+        ],
+        "answer": 3,
+        "explanation": "Net enclosed charge is zero, so flux is zero."
+    },
+    {
+        "id": 319,
+        "question": "The electric field inside a cavity of a conductor containing no charge is:",
+        "options": [
+            "uniform",
+            "non-zero",
+            "zero",
+            "depends on cavity shape"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic shielding ensures zero field."
+    },
+    {
+        "id": 320,
+        "question": "If a point charge is placed at the center of a conducting spherical shell, the induced charge on the inner surface is:",
+        "options": [
+            "zero",
+            "+q",
+            "−q",
+            "depends on radius"
+        ],
+        "answer": 2,
+        "explanation": "Equal and opposite charge is induced on inner surface."
+    },
+    {
+        "id": 321,
+        "question": "The electric field outside a charged conducting sphere behaves as if the charge were:",
+        "options": [
+            "spread uniformly on surface",
+            "concentrated at center",
+            "distributed in volume",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Outside field is same as that of a point charge at center."
+    },
+    {
+        "id": 322,
+        "question": "The electric potential outside a charged conducting sphere varies with distance r as:",
+        "options": [
+            "r",
+            "1/r",
+            "1/r²",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Potential outside behaves as V ∝ 1/r."
+    },
+    {
+        "id": 323,
+        "question": "The energy stored per unit volume in an electric field is proportional to:",
+        "options": [
+            "E",
+            "E²",
+            "1/E",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Energy density u = (1/2)ε0E²."
+    },
+    {
+        "id": 324,
+        "question": "If the electric field is doubled, the electric energy density becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Energy density varies as square of electric field."
+    },
+    {
+        "id": 325,
+        "question": "The capacitance of a parallel plate capacitor depends on:",
+        "options": [
+            "charge stored",
+            "potential difference",
+            "area of plates",
+            "electric field"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance C = ε0A/d depends on plate area and separation."
+    },
+    {
+        "id": 326,
+        "question": "If the separation between capacitor plates is halved, the capacitance becomes:",
+        "options": [
+            "half",
+            "double",
+            "four times",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Capacitance is inversely proportional to separation."
+    },
+    {
+        "id": 327,
+        "question": "The electric field between the plates of an ideal parallel plate capacitor is:",
+        "options": [
+            "zero",
+            "uniform",
+            "non-uniform",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Neglecting edge effects, field is uniform."
+    },
+    {
+        "id": 328,
+        "question": "The capacitance of a capacitor increases when:",
+        "options": [
+            "distance increases",
+            "dielectric is removed",
+            "dielectric is inserted",
+            "charge decreases"
+        ],
+        "answer": 2,
+        "explanation": "Dielectric increases effective permittivity."
+    },
+    {
+        "id": 329,
+        "question": "The electric displacement vector D in a dielectric is related to E by:",
+        "options": [
+            "D = εE",
+            "D = ε0E",
+            "D = E/ε",
+            "D = ε0/E"
+        ],
+        "answer": 0,
+        "explanation": "In dielectric medium, D = εE."
+    },
+    {
+        "id": 330,
+        "question": "The bound volume charge density in a dielectric depends on:",
+        "options": [
+            "electric current",
+            "polarization vector",
+            "free charge",
+            "electric flux"
+        ],
+        "answer": 1,
+        "explanation": "Bound charge density is related to polarization."
+    },
+    {
+        "id": 331,
+        "question": "The electric field inside a dielectric slab placed in an external field is reduced due to:",
+        "options": [
+            "conduction",
+            "ionization",
+            "polarization",
+            "radiation"
+        ],
+        "answer": 2,
+        "explanation": "Polarization produces an opposing electric field."
+    },
+    {
+        "id": 332,
+        "question": "The dielectric constant of a medium is defined as the ratio of:",
+        "options": [
+            "E0/E",
+            "C/C0",
+            "V/V0",
+            "Q/Q0"
+        ],
+        "answer": 1,
+        "explanation": "Dielectric constant K = C/C0."
+    },
+    {
+        "id": 333,
+        "question": "The dielectric constant of vacuum is:",
+        "options": [
+            "0",
+            "1",
+            "infinite",
+            "depends on field"
+        ],
+        "answer": 1,
+        "explanation": "Vacuum has dielectric constant equal to 1."
+    },
+    {
+        "id": 334,
+        "question": "The electric field lines near a positively charged conductor are directed:",
+        "options": [
+            "towards surface",
+            "along surface",
+            "away from surface",
+            "parallel to surface"
+        ],
+        "answer": 2,
+        "explanation": "Field lines originate from positive charges."
+    },
+    {
+        "id": 335,
+        "question": "The electric field lines are perpendicular to the surface of a conductor because:",
+        "options": [
+            "field is zero",
+            "charges are stationary",
+            "tangential component is zero",
+            "potential is zero"
+        ],
+        "answer": 2,
+        "explanation": "Tangential component would cause charge motion, so it must be zero."
+    },
+    {
+        "id": 336,
+        "question": "The phenomenon of lightning is due to:",
+        "options": [
+            "magnetic induction",
+            "electrostatic discharge",
+            "electromagnetic waves",
+            "thermal conduction"
+        ],
+        "answer": 1,
+        "explanation": "Lightning occurs due to electrostatic discharge."
+    },
+    {
+        "id": 337,
+        "question": "A lightning conductor protects buildings by providing:",
+        "options": [
+            "high resistance path",
+            "low resistance path to earth",
+            "magnetic shielding",
+            "dielectric shielding"
+        ],
+        "answer": 1,
+        "explanation": "It safely conducts charge to earth."
+    },
+    {
+        "id": 338,
+        "question": "The electric field at a sharp point of a charged conductor is high because:",
+        "options": [
+            "area is large",
+            "radius of curvature is small",
+            "potential is zero",
+            "charge is small"
+        ],
+        "answer": 1,
+        "explanation": "Smaller radius of curvature gives higher surface charge density."
+    },
+    {
+        "id": 339,
+        "question": "The electrostatic force is conservative because:",
+        "options": [
+            "it depends on charge",
+            "it is long-range",
+            "work done is path independent",
+            "it acts at a distance"
+        ],
+        "answer": 2,
+        "explanation": "Work done by electrostatic force does not depend on path."
+    },
+    {
+        "id": 340,
+        "question": "The work done in moving a charge around a closed loop in an electrostatic field is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "depends on path"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic field is conservative."
+    },
+    {
+        "id": 341,
+        "question": "The electric potential difference between two points is zero if the points lie on:",
+        "options": [
+            "electric field line",
+            "equipotential surface",
+            "conducting surface",
+            "axis of dipole"
+        ],
+        "answer": 1,
+        "explanation": "Potential remains constant on equipotential surfaces."
+    },
+    {
+        "id": 342,
+        "question": "The electric field is always perpendicular to:",
+        "options": [
+            "field lines",
+            "equipotential surfaces",
+            "conductors",
+            "charge distribution"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is normal to equipotential surfaces."
+    },
+    {
+        "id": 343,
+        "question": "The electric potential energy of two unlike charges decreases when the distance between them:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Attraction lowers potential energy as distance decreases."
+    },
+    {
+        "id": 344,
+        "question": "The electric field strength is maximum where the electric potential changes:",
+        "options": [
+            "slowly",
+            "uniformly",
+            "most rapidly",
+            "not at all"
+        ],
+        "answer": 2,
+        "explanation": "Electric field equals rate of change of potential."
+    },
+    {
+        "id": 345,
+        "question": "The electric potential at infinity is conventionally taken as:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Infinity is chosen as zero reference potential."
+    },
+    {
+        "id": 346,
+        "question": "The electric field due to a point charge varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Electric field follows inverse square law."
+    },
+    {
+        "id": 347,
+        "question": "The electric potential due to a point charge varies with distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 0,
+        "explanation": "Electric potential varies inversely with distance."
+    },
+    {
+        "id": 348,
+        "question": "The electric field due to a dipole at large distances varies as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "Dipole field falls off as inverse cube of distance."
+    },
+    {
+        "id": 349,
+        "question": "The electric potential due to a dipole at large distances varies as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Dipole potential varies as 1/r²."
+    },
+    {
+        "id": 350,
+        "question": "Electrostatics mainly deals with charges that are:",
+        "options": [
+            "moving with constant velocity",
+            "accelerating",
+            "at rest",
+            "in magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatics studies charges at rest."
+    }
+]
+[
+    {
+        "id": 351,
+        "question": "If two equal and opposite charges are placed very close to each other, the system behaves like a:",
+        "options": [
+            "point charge",
+            "charged ring",
+            "electric dipole",
+            "conducting sphere"
+        ],
+        "answer": 2,
+        "explanation": "A pair of equal and opposite charges separated by a small distance forms an electric dipole."
+    },
+    {
+        "id": 352,
+        "question": "The electric dipole moment of a system of charges depends on:",
+        "options": [
+            "net charge only",
+            "separation only",
+            "magnitude of charges and separation",
+            "medium only"
+        ],
+        "answer": 2,
+        "explanation": "Dipole moment p = q × separation between charges."
+    },
+    {
+        "id": 353,
+        "question": "The SI unit of electric dipole moment can also be expressed as:",
+        "options": [
+            "A m",
+            "C m",
+            "N m",
+            "V m"
+        ],
+        "answer": 1,
+        "explanation": "Electric dipole moment has unit coulomb–metre."
+    },
+    {
+        "id": 354,
+        "question": "The electric field due to a dipole on its axial line is maximum when the point is:",
+        "options": [
+            "at the center",
+            "very far away",
+            "very close to charges",
+            "at infinity"
+        ],
+        "answer": 2,
+        "explanation": "Electric field is strongest near the charges."
+    },
+    {
+        "id": 355,
+        "question": "The electric field at the midpoint of a dipole is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "At the midpoint, fields due to +q and −q cancel."
+    },
+    {
+        "id": 356,
+        "question": "The electric potential at the midpoint of an electric dipole is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Potentials due to equal and opposite charges cancel."
+    },
+    {
+        "id": 357,
+        "question": "The electric field inside a uniformly charged solid sphere varies linearly with distance because:",
+        "options": [
+            "charge is concentrated at center",
+            "enclosed charge is proportional to r³",
+            "field lines are straight",
+            "potential is constant"
+        ],
+        "answer": 1,
+        "explanation": "From Gauss’s law, enclosed charge ∝ r³, giving E ∝ r."
+    },
+    {
+        "id": 358,
+        "question": "The electric field inside a hollow conducting shell is zero irrespective of:",
+        "options": [
+            "size of shell",
+            "shape of shell",
+            "external electric field",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "Electrostatic shielding makes field zero inside conductor cavities."
+    },
+    {
+        "id": 359,
+        "question": "The electric potential inside a conductor is:",
+        "options": [
+            "zero everywhere",
+            "maximum at surface",
+            "constant throughout",
+            "minimum at center"
+        ],
+        "answer": 2,
+        "explanation": "Potential remains constant inside a conductor in electrostatic equilibrium."
+    },
+    {
+        "id": 360,
+        "question": "The electric field at the surface of a charged conductor is directed:",
+        "options": [
+            "tangentially",
+            "radially inward",
+            "radially outward",
+            "normal to surface"
+        ],
+        "answer": 3,
+        "explanation": "Electric field at a conductor surface is normal to the surface."
+    },
+    {
+        "id": 361,
+        "question": "The phenomenon of electric wind is caused by:",
+        "options": [
+            "electric current",
+            "strong electric field near sharp points",
+            "magnetic induction",
+            "heating effect"
+        ],
+        "answer": 1,
+        "explanation": "Ionization of air near sharp points causes electric wind."
+    },
+    {
+        "id": 362,
+        "question": "If the surface charge density on a conductor is doubled, the electric field just outside becomes:",
+        "options": [
+            "same",
+            "double",
+            "half",
+            "four times"
+        ],
+        "answer": 1,
+        "explanation": "Electric field E = σ/ε0, so it doubles with σ."
+    },
+    {
+        "id": 363,
+        "question": "The capacitance of an isolated spherical conductor depends on:",
+        "options": [
+            "charge on it",
+            "potential of it",
+            "radius of sphere",
+            "electric field outside"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance of isolated sphere C = 4π ε0 R."
+    },
+    {
+        "id": 364,
+        "question": "If the radius of an isolated conducting sphere is tripled, its capacitance becomes:",
+        "options": [
+            "same",
+            "double",
+            "triple",
+            "nine times"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance is directly proportional to radius."
+    },
+    {
+        "id": 365,
+        "question": "The energy stored in a charged capacitor is independent of:",
+        "options": [
+            "charge",
+            "potential difference",
+            "capacitance",
+            "resistance"
+        ],
+        "answer": 3,
+        "explanation": "Capacitor energy does not depend on resistance."
+    },
+    {
+        "id": 366,
+        "question": "The electric energy density in vacuum depends on:",
+        "options": [
+            "electric field",
+            "charge density",
+            "electric potential",
+            "distance"
+        ],
+        "answer": 0,
+        "explanation": "Energy density u = (1/2)ε0E²."
+    },
+    {
+        "id": 367,
+        "question": "The electric field between two parallel plates with equal and opposite charges is:",
+        "options": [
+            "zero",
+            "uniform",
+            "non-uniform",
+            "radial"
+        ],
+        "answer": 1,
+        "explanation": "Between ideal parallel plates, field is uniform."
+    },
+    {
+        "id": 368,
+        "question": "The work done in charging a capacitor is stored as:",
+        "options": [
+            "heat energy",
+            "electric field energy",
+            "chemical energy",
+            "kinetic energy"
+        ],
+        "answer": 1,
+        "explanation": "Energy is stored in the electric field between plates."
+    },
+    {
+        "id": 369,
+        "question": "If a capacitor is disconnected from the battery, its charge remains:",
+        "options": [
+            "zero",
+            "constant",
+            "increasing",
+            "decreasing"
+        ],
+        "answer": 1,
+        "explanation": "Isolated capacitor retains its charge."
+    },
+    {
+        "id": 370,
+        "question": "If a dielectric slab is partially inserted into a charged isolated capacitor, the capacitance:",
+        "options": [
+            "decreases",
+            "increases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Dielectric increases effective permittivity, increasing capacitance."
+    },
+    {
+        "id": 371,
+        "question": "The electric displacement vector D is related to free charge density by:",
+        "options": [
+            "Gauss’s law",
+            "Faraday’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 0,
+        "explanation": "Gauss’s law in dielectrics relates ∇·D to free charge density."
+    },
+    {
+        "id": 372,
+        "question": "The bound surface charges in a dielectric appear because of:",
+        "options": [
+            "conduction",
+            "polarization",
+            "ionization",
+            "magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Polarization of dielectric molecules creates bound charges."
+    },
+    {
+        "id": 373,
+        "question": "The electric field inside a dielectric is less than the applied field because:",
+        "options": [
+            "dielectric conducts current",
+            "polarization produces opposing field",
+            "charge leaks away",
+            "field lines disappear"
+        ],
+        "answer": 1,
+        "explanation": "Polarization induces an opposing electric field."
+    },
+    {
+        "id": 374,
+        "question": "The dielectric constant of a medium is always:",
+        "options": [
+            "less than 1",
+            "equal to 1",
+            "greater than or equal to 1",
+            "negative"
+        ],
+        "answer": 2,
+        "explanation": "Dielectric constant K ≥ 1 for all media."
+    },
+    {
+        "id": 375,
+        "question": "The electric field inside a cavity of a conductor containing a charge is:",
+        "options": [
+            "zero everywhere",
+            "non-zero and irregular",
+            "uniform",
+            "depends on external field"
+        ],
+        "answer": 1,
+        "explanation": "Field exists in cavity due to the charge inside."
+    },
+    {
+        "id": 376,
+        "question": "The net electric flux through a closed surface enclosing an electric dipole is:",
+        "options": [
+            "positive",
+            "negative",
+            "zero",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "Net enclosed charge is zero."
+    },
+    {
+        "id": 377,
+        "question": "The number of electric field lines crossing a surface represents:",
+        "options": [
+            "electric field",
+            "electric potential",
+            "electric flux",
+            "electric energy"
+        ],
+        "answer": 2,
+        "explanation": "Electric flux is proportional to number of field lines."
+    },
+    {
+        "id": 378,
+        "question": "The electric field lines never form closed loops because:",
+        "options": [
+            "field is uniform",
+            "electric field is conservative",
+            "electric charges exist",
+            "potential is scalar"
+        ],
+        "answer": 1,
+        "explanation": "Conservative fields do not form closed loops."
+    },
+    {
+        "id": 379,
+        "question": "The electric field is maximum where the equipotential surfaces are:",
+        "options": [
+            "far apart",
+            "close together",
+            "parallel",
+            "perpendicular"
+        ],
+        "answer": 1,
+        "explanation": "Closer equipotentials indicate stronger field."
+    },
+    {
+        "id": 380,
+        "question": "If two equipotential surfaces are very close, the electric field between them is:",
+        "options": [
+            "small",
+            "zero",
+            "large",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "Large potential gradient gives strong electric field."
+    },
+    {
+        "id": 381,
+        "question": "The electric field inside a conducting shell placed in an external field is:",
+        "options": [
+            "same as external field",
+            "opposite to external field",
+            "zero",
+            "maximum"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic shielding cancels internal field."
+    },
+    {
+        "id": 382,
+        "question": "The electric field at a point is the negative rate of change of potential with:",
+        "options": [
+            "time",
+            "charge",
+            "distance",
+            "area"
+        ],
+        "answer": 2,
+        "explanation": "E = −dV/dr."
+    },
+    {
+        "id": 383,
+        "question": "The potential difference between two points is zero if they are on the same:",
+        "options": [
+            "field line",
+            "equipotential surface",
+            "axis of dipole",
+            "conducting wire"
+        ],
+        "answer": 1,
+        "explanation": "Potential remains constant on equipotential surfaces."
+    },
+    {
+        "id": 384,
+        "question": "The electrostatic force between two charges is repulsive when charges are:",
+        "options": [
+            "unlike",
+            "like",
+            "neutral",
+            "equal"
+        ],
+        "answer": 1,
+        "explanation": "Like charges repel each other."
+    },
+    {
+        "id": 385,
+        "question": "The electric potential energy of a system of charges is minimum when the system is:",
+        "options": [
+            "stable",
+            "unstable",
+            "neutral",
+            "isolated"
+        ],
+        "answer": 0,
+        "explanation": "Stable equilibrium corresponds to minimum potential energy."
+    },
+    {
+        "id": 386,
+        "question": "The electric field due to a point charge is directed:",
+        "options": [
+            "along equipotential surface",
+            "towards negative charge",
+            "away from positive charge",
+            "both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Field lines go away from positive and towards negative charges."
+    },
+    {
+        "id": 387,
+        "question": "The electric potential due to a point charge is zero at:",
+        "options": [
+            "finite distance",
+            "surface of charge",
+            "infinity",
+            "center"
+        ],
+        "answer": 2,
+        "explanation": "Infinity is taken as reference zero potential."
+    },
+    {
+        "id": 388,
+        "question": "The work done in moving a charge along a closed equipotential surface is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "non-zero"
+        ],
+        "answer": 2,
+        "explanation": "No potential difference exists along equipotential surface."
+    },
+    {
+        "id": 389,
+        "question": "The electric field at a point is numerically equal to:",
+        "options": [
+            "potential",
+            "potential gradient",
+            "electric flux",
+            "electric energy"
+        ],
+        "answer": 1,
+        "explanation": "Electric field equals magnitude of potential gradient."
+    },
+    {
+        "id": 390,
+        "question": "The electric potential is independent of:",
+        "options": [
+            "path",
+            "charge",
+            "distance",
+            "medium"
+        ],
+        "answer": 0,
+        "explanation": "Electric potential is path independent."
+    },
+    {
+        "id": 391,
+        "question": "The electric field inside a uniformly charged infinite plane sheet is:",
+        "options": [
+            "zero",
+            "uniform",
+            "radial",
+            "non-uniform"
+        ],
+        "answer": 1,
+        "explanation": "Field due to infinite plane sheet is uniform."
+    },
+    {
+        "id": 392,
+        "question": "The electric potential due to an infinite plane sheet varies with distance:",
+        "options": [
+            "as 1/r",
+            "as r",
+            "as ln r",
+            "is constant"
+        ],
+        "answer": 1,
+        "explanation": "Potential varies linearly with distance from plane sheet."
+    },
+    {
+        "id": 393,
+        "question": "The electric field near a charged conductor is strongest at:",
+        "options": [
+            "flat surfaces",
+            "sharp edges",
+            "center",
+            "uniform regions"
+        ],
+        "answer": 1,
+        "explanation": "Surface charge density is highest at sharp edges."
+    },
+    {
+        "id": 394,
+        "question": "Corona discharge occurs because of:",
+        "options": [
+            "low electric field",
+            "high electric field at sharp points",
+            "high temperature",
+            "magnetic field"
+        ],
+        "answer": 1,
+        "explanation": "Strong electric field ionizes surrounding air."
+    },
+    {
+        "id": 395,
+        "question": "The electric field inside a conductor during electrostatic equilibrium is:",
+        "options": [
+            "uniform",
+            "zero",
+            "maximum",
+            "variable"
+        ],
+        "answer": 1,
+        "explanation": "Internal electric field is zero in electrostatic equilibrium."
+    },
+    {
+        "id": 396,
+        "question": "The net electric flux through a closed surface is independent of:",
+        "options": [
+            "enclosed charge",
+            "shape of surface",
+            "permittivity",
+            "electric field distribution"
+        ],
+        "answer": 1,
+        "explanation": "Flux depends only on enclosed charge."
+    },
+    {
+        "id": 397,
+        "question": "The electric field lines near a negative charge are directed:",
+        "options": [
+            "away from charge",
+            "towards charge",
+            "along surface",
+            "circular"
+        ],
+        "answer": 1,
+        "explanation": "Field lines terminate on negative charges."
+    },
+    {
+        "id": 398,
+        "question": "The electric field at a point on an equipotential surface is:",
+        "options": [
+            "parallel to surface",
+            "perpendicular to surface",
+            "zero",
+            "undefined"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is normal to equipotential surfaces."
+    },
+    {
+        "id": 399,
+        "question": "The potential energy of two like charges increases when the distance between them:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Work is done against repulsion when like charges are brought closer."
+    },
+    {
+        "id": 400,
+        "question": "Electrostatic force obeys Newton’s third law because:",
+        "options": [
+            "it is conservative",
+            "it is long-range",
+            "forces are equal and opposite",
+            "charges are stationary"
+        ],
+        "answer": 2,
+        "explanation": "Forces between two charges are equal in magnitude and opposite in direction."
+    }
+]
+[
+    {
+        "id": 401,
+        "question": "If two identical charges are placed at the ends of a diameter of a circular ring, the electric field at the center is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Electric fields due to identical charges cancel at the center by symmetry."
+    },
+    {
+        "id": 402,
+        "question": "The electric potential at the center of a circular ring carrying total charge Q is:",
+        "options": [
+            "zero",
+            "kQ/R",
+            "kQ/R²",
+            "depends on angle"
+        ],
+        "answer": 1,
+        "explanation": "All charge elements are at distance R from center, so V = kQ/R."
+    },
+    {
+        "id": 403,
+        "question": "The electric field at a point on the axis of a uniformly charged disc is zero when the point is:",
+        "options": [
+            "on the disc surface",
+            "at center of disc",
+            "at infinity",
+            "on the rim"
+        ],
+        "answer": 1,
+        "explanation": "By symmetry, the field at the center of the disc is zero."
+    },
+    {
+        "id": 404,
+        "question": "The electric field on the axis of a uniformly charged disc decreases with distance x as:",
+        "options": [
+            "1/x",
+            "1/x²",
+            "1/x³",
+            "approaches zero"
+        ],
+        "answer": 3,
+        "explanation": "At large distances, the field due to the disc approaches zero."
+    },
+    {
+        "id": 405,
+        "question": "The electric potential due to a uniformly charged disc on its axis at large distance behaves like that of a:",
+        "options": [
+            "dipole",
+            "line charge",
+            "plane sheet",
+            "point charge"
+        ],
+        "answer": 3,
+        "explanation": "At large distances, a finite charged disc behaves like a point charge."
+    },
+    {
+        "id": 406,
+        "question": "The electric field due to a charged ring on its axis at large distance behaves like that of a:",
+        "options": [
+            "point charge",
+            "dipole",
+            "plane sheet",
+            "line charge"
+        ],
+        "answer": 1,
+        "explanation": "At large distances, a charged ring behaves like a dipole."
+    },
+    {
+        "id": 407,
+        "question": "The electric potential due to a charged ring on its axis at large distance behaves like that of a:",
+        "options": [
+            "dipole",
+            "point charge",
+            "plane sheet",
+            "line charge"
+        ],
+        "answer": 1,
+        "explanation": "Potential at large distance is like that of a point charge."
+    },
+    {
+        "id": 408,
+        "question": "The electric field due to an infinite plane sheet of charge has magnitude:",
+        "options": [
+            "σ/ε0",
+            "σ/2ε0",
+            "2σ/ε0",
+            "σ²/ε0"
+        ],
+        "answer": 1,
+        "explanation": "Field due to a single infinite plane sheet is σ/2ε0."
+    },
+    {
+        "id": 409,
+        "question": "The electric field between two oppositely charged infinite plane sheets of equal surface charge density is:",
+        "options": [
+            "σ/2ε0",
+            "σ/ε0",
+            "2σ/ε0",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Fields add between the sheets giving σ/ε0."
+    },
+    {
+        "id": 410,
+        "question": "The electric potential between two parallel infinite plane sheets with equal and opposite charges varies:",
+        "options": [
+            "quadratically",
+            "logarithmically",
+            "linearly",
+            "exponentially"
+        ],
+        "answer": 2,
+        "explanation": "Uniform field between sheets gives linear potential variation."
+    },
+    {
+        "id": 411,
+        "question": "The electric field due to an infinite line charge depends on distance r as:",
+        "options": [
+            "1/r",
+            "1/r²",
+            "1/r³",
+            "constant"
+        ],
+        "answer": 0,
+        "explanation": "Using Gauss’s law, E ∝ 1/r."
+    },
+    {
+        "id": 412,
+        "question": "The electric potential due to an infinite line charge depends on distance r as:",
+        "options": [
+            "1/r",
+            "ln r",
+            "r",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Potential varies logarithmically with distance."
+    },
+    {
+        "id": 413,
+        "question": "The equipotential surfaces due to an infinite line charge are:",
+        "options": [
+            "planes",
+            "spheres",
+            "cylinders",
+            "cones"
+        ],
+        "answer": 2,
+        "explanation": "Potential depends only on radial distance from line, giving cylindrical surfaces."
+    },
+    {
+        "id": 414,
+        "question": "The equipotential surfaces due to a plane sheet of charge are:",
+        "options": [
+            "parallel planes",
+            "concentric spheres",
+            "cylinders",
+            "cones"
+        ],
+        "answer": 0,
+        "explanation": "Equipotential surfaces are planes parallel to the sheet."
+    },
+    {
+        "id": 415,
+        "question": "The electric field lines due to a positive infinite plane sheet are:",
+        "options": [
+            "parallel and outward",
+            "radial",
+            "circular",
+            "closed loops"
+        ],
+        "answer": 0,
+        "explanation": "Field lines are straight, parallel and perpendicular to the sheet."
+    },
+    {
+        "id": 416,
+        "question": "If a conductor is placed in an external electric field, the electric field inside the conductor is:",
+        "options": [
+            "same as external field",
+            "reduced field",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Free charges rearrange to cancel the internal field."
+    },
+    {
+        "id": 417,
+        "question": "The electric potential inside a conductor placed in an external electric field is:",
+        "options": [
+            "zero",
+            "variable",
+            "constant",
+            "maximum at center"
+        ],
+        "answer": 2,
+        "explanation": "Potential remains constant throughout the conductor."
+    },
+    {
+        "id": 418,
+        "question": "The phenomenon of electrostatic shielding is used in:",
+        "options": [
+            "transformers",
+            "Faraday cage",
+            "electric motors",
+            "generators"
+        ],
+        "answer": 1,
+        "explanation": "Faraday cage blocks external electric fields."
+    },
+    {
+        "id": 419,
+        "question": "The electric field just outside the surface of a charged conductor depends on:",
+        "options": [
+            "volume charge density",
+            "surface charge density",
+            "radius only",
+            "mass of conductor"
+        ],
+        "answer": 1,
+        "explanation": "E = σ/ε0, depends on surface charge density."
+    },
+    {
+        "id": 420,
+        "question": "The electric field at a sharp corner of a charged conductor is:",
+        "options": [
+            "minimum",
+            "uniform",
+            "maximum",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Charge density is highest at sharp corners."
+    },
+    {
+        "id": 421,
+        "question": "Corona discharge is commonly observed in:",
+        "options": [
+            "smooth conductors",
+            "sharp pointed conductors",
+            "dielectrics",
+            "insulators only"
+        ],
+        "answer": 1,
+        "explanation": "High field near sharp points ionizes surrounding air."
+    },
+    {
+        "id": 422,
+        "question": "The electric field inside a cavity of a conductor with no charge inside is:",
+        "options": [
+            "uniform",
+            "zero",
+            "non-zero",
+            "depends on cavity shape"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic shielding ensures zero field."
+    },
+    {
+        "id": 423,
+        "question": "If a charge q is placed inside a cavity of a conductor, the induced charge on the cavity surface is:",
+        "options": [
+            "+q",
+            "−q",
+            "zero",
+            "depends on cavity shape"
+        ],
+        "answer": 1,
+        "explanation": "An equal and opposite charge is induced on the inner surface."
+    },
+    {
+        "id": 424,
+        "question": "The total induced charge on the outer surface of the conductor in the above case is:",
+        "options": [
+            "−q",
+            "q",
+            "zero",
+            "2q"
+        ],
+        "answer": 1,
+        "explanation": "To conserve charge, +q appears on the outer surface."
+    },
+    {
+        "id": 425,
+        "question": "The capacitance of an isolated spherical conductor of radius R is proportional to:",
+        "options": [
+            "R²",
+            "R",
+            "1/R",
+            "1/R²"
+        ],
+        "answer": 1,
+        "explanation": "C = 4π ε0 R."
+    },
+    {
+        "id": 426,
+        "question": "If the radius of an isolated conductor is reduced to half, its capacitance becomes:",
+        "options": [
+            "double",
+            "same",
+            "half",
+            "one-fourth"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance is directly proportional to radius."
+    },
+    {
+        "id": 427,
+        "question": "The capacitance of a parallel plate capacitor depends on:",
+        "options": [
+            "charge stored",
+            "potential difference",
+            "geometry and medium",
+            "electric field strength"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance depends on plate area, separation and dielectric."
+    },
+    {
+        "id": 428,
+        "question": "The energy stored in a capacitor of capacitance C and charge Q is:",
+        "options": [
+            "Q²/C",
+            "Q²/2C",
+            "CQ²",
+            "2Q²/C"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored U = Q²/2C."
+    },
+    {
+        "id": 429,
+        "question": "The energy stored per unit volume in an electric field is called:",
+        "options": [
+            "electric intensity",
+            "electric energy density",
+            "electric flux density",
+            "polarization"
+        ],
+        "answer": 1,
+        "explanation": "Energy density u = (1/2)ε0E²."
+    },
+    {
+        "id": 430,
+        "question": "If the electric field strength is tripled, the electric energy density becomes:",
+        "options": [
+            "3 times",
+            "6 times",
+            "9 times",
+            "27 times"
+        ],
+        "answer": 2,
+        "explanation": "Energy density ∝ E²."
+    },
+    {
+        "id": 431,
+        "question": "The electric displacement vector D is related to free charge enclosed by:",
+        "options": [
+            "Gauss’s law",
+            "Faraday’s law",
+            "Ampere’s law",
+            "Ohm’s law"
+        ],
+        "answer": 0,
+        "explanation": "∮D·dS equals free charge enclosed."
+    },
+    {
+        "id": 432,
+        "question": "The bound volume charge density in a dielectric is given by divergence of:",
+        "options": [
+            "electric field",
+            "electric displacement",
+            "polarization vector",
+            "electric flux"
+        ],
+        "answer": 2,
+        "explanation": "Bound charge density depends on divergence of polarization."
+    },
+    {
+        "id": 433,
+        "question": "The dielectric constant of a medium is defined as the ratio of:",
+        "options": [
+            "E/E0",
+            "C/C0",
+            "V/V0",
+            "Q/Q0"
+        ],
+        "answer": 1,
+        "explanation": "Dielectric constant K = C/C0."
+    },
+    {
+        "id": 434,
+        "question": "The dielectric constant of vacuum is:",
+        "options": [
+            "0",
+            "1",
+            "infinite",
+            "depends on field"
+        ],
+        "answer": 1,
+        "explanation": "Vacuum has dielectric constant equal to 1."
+    },
+    {
+        "id": 435,
+        "question": "The electric field inside a dielectric slab placed in a uniform external field is:",
+        "options": [
+            "greater than external field",
+            "equal to external field",
+            "less than external field",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Polarization reduces the net electric field."
+    },
+    {
+        "id": 436,
+        "question": "The force between two charges placed in a dielectric medium is reduced because:",
+        "options": [
+            "charge reduces",
+            "distance increases",
+            "effective permittivity increases",
+            "field becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Higher permittivity reduces electric force."
+    },
+    {
+        "id": 437,
+        "question": "The electric field lines originate from:",
+        "options": [
+            "negative charges",
+            "positive charges",
+            "neutral bodies",
+            "conductors only"
+        ],
+        "answer": 1,
+        "explanation": "Electric field lines originate from positive charges."
+    },
+    {
+        "id": 438,
+        "question": "The electric field lines terminate on:",
+        "options": [
+            "positive charges",
+            "negative charges",
+            "neutral points",
+            "equipotential surfaces"
+        ],
+        "answer": 1,
+        "explanation": "Field lines end on negative charges."
+    },
+    {
+        "id": 439,
+        "question": "Electric field lines never intersect because:",
+        "options": [
+            "electric field is uniform",
+            "electric potential is scalar",
+            "field direction would be ambiguous",
+            "charges repel"
+        ],
+        "answer": 2,
+        "explanation": "Intersection would imply two directions at a point."
+    },
+    {
+        "id": 440,
+        "question": "The electric field is perpendicular to equipotential surfaces because:",
+        "options": [
+            "field is uniform",
+            "work done along surface is zero",
+            "potential is zero",
+            "charges are stationary"
+        ],
+        "answer": 1,
+        "explanation": "No work is done along equipotential surfaces."
+    },
+    {
+        "id": 441,
+        "question": "The electric potential difference between two points is independent of:",
+        "options": [
+            "path taken",
+            "electric field",
+            "positions of points",
+            "charge moved"
+        ],
+        "answer": 0,
+        "explanation": "Potential difference is path independent."
+    },
+    {
+        "id": 442,
+        "question": "The work done in moving a charge along a closed path in electrostatic field is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "non-zero"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic field is conservative."
+    },
+    {
+        "id": 443,
+        "question": "The electric potential energy of two like charges increases when the distance between them:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Work is done against repulsion when charges come closer."
+    },
+    {
+        "id": 444,
+        "question": "The electric potential energy of two unlike charges is:",
+        "options": [
+            "positive",
+            "negative",
+            "zero",
+            "maximum"
+        ],
+        "answer": 1,
+        "explanation": "Attraction leads to negative potential energy."
+    },
+    {
+        "id": 445,
+        "question": "The electrostatic force between two charges acts along the:",
+        "options": [
+            "direction of motion",
+            "electric field lines only",
+            "line joining the charges",
+            "equipotential surface"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic force is a central force."
+    },
+    {
+        "id": 446,
+        "question": "The electrostatic force obeys Newton’s third law because:",
+        "options": [
+            "field is conservative",
+            "charges are stationary",
+            "forces are equal and opposite",
+            "force is long-range"
+        ],
+        "answer": 2,
+        "explanation": "Forces between two charges are equal in magnitude and opposite in direction."
+    },
+    {
+        "id": 447,
+        "question": "The electric field at a point is numerically equal to the force on a:",
+        "options": [
+            "unit negative charge",
+            "unit positive charge",
+            "electron",
+            "proton only"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is defined as force on unit positive test charge."
+    },
+    {
+        "id": 448,
+        "question": "The electric potential at a point is defined as the work done in bringing a:",
+        "options": [
+            "unit charge from infinity",
+            "unit charge from origin",
+            "charge from nearby point",
+            "test charge from conductor"
+        ],
+        "answer": 0,
+        "explanation": "Potential is work done per unit charge from infinity."
+    },
+    {
+        "id": 449,
+        "question": "The electric field at infinity due to a finite charge distribution is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Electric field tends to zero at infinity."
+    },
+    {
+        "id": 450,
+        "question": "Electrostatics is the branch of physics that deals with:",
+        "options": [
+            "moving charges",
+            "accelerated charges",
+            "charges at rest",
+            "charges in magnetic field"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatics studies charges at rest."
+    }
+]
+[
+    {
+        "id": 451,
+        "question": "If two equal point charges are placed at the corners of an equilateral triangle, the electric field at the third corner due to these charges is:",
+        "options": [
+            "zero",
+            "along one side only",
+            "along angle bisector of the corner",
+            "perpendicular to the plane"
+        ],
+        "answer": 2,
+        "explanation": "Fields due to equal charges make equal angles; resultant lies along angle bisector."
+    },
+    {
+        "id": 452,
+        "question": "The electric potential at a point due to several point charges is obtained by:",
+        "options": [
+            "vector addition of fields",
+            "scalar addition of potentials",
+            "vector subtraction",
+            "product of charges"
+        ],
+        "answer": 1,
+        "explanation": "Electric potential is a scalar and adds algebraically."
+    },
+    {
+        "id": 453,
+        "question": "The principle of superposition in electrostatics applies to:",
+        "options": [
+            "electric field only",
+            "electric potential only",
+            "both electric field and potential",
+            "neither field nor potential"
+        ],
+        "answer": 2,
+        "explanation": "Superposition applies to both electric field and electric potential."
+    },
+    {
+        "id": 454,
+        "question": "If the electric potential at a point is negative, the test charge placed there has:",
+        "options": [
+            "negative potential energy",
+            "positive potential energy",
+            "zero potential energy",
+            "infinite energy"
+        ],
+        "answer": 0,
+        "explanation": "Potential energy U = qV; for positive test charge, negative V gives negative U."
+    },
+    {
+        "id": 455,
+        "question": "The electric field at the center of a square due to charges +q at all four corners is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "By symmetry, electric fields cancel at the center."
+    },
+    {
+        "id": 456,
+        "question": "The electric potential at the center of a square due to equal charges at all four corners is:",
+        "options": [
+            "zero",
+            "kq/a",
+            "4kq/a",
+            "2kq/a"
+        ],
+        "answer": 2,
+        "explanation": "Potential is scalar; contributions from all charges add."
+    },
+    {
+        "id": 457,
+        "question": "The electric field inside a hollow conducting sphere placed in an external electric field is:",
+        "options": [
+            "same as external field",
+            "opposite to external field",
+            "zero",
+            "non-uniform"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatic shielding cancels the internal electric field."
+    },
+    {
+        "id": 458,
+        "question": "The electric potential inside a conducting shell placed in an external field is:",
+        "options": [
+            "zero everywhere",
+            "constant throughout",
+            "maximum at surface",
+            "variable"
+        ],
+        "answer": 1,
+        "explanation": "Potential remains constant inside a conductor."
+    },
+    {
+        "id": 459,
+        "question": "The electric field due to a uniformly charged thin spherical shell outside the shell varies as:",
+        "options": [
+            "r",
+            "1/r",
+            "1/r²",
+            "constant"
+        ],
+        "answer": 2,
+        "explanation": "Outside the shell, field is same as that of a point charge."
+    },
+    {
+        "id": 460,
+        "question": "The electric potential due to a uniformly charged thin spherical shell inside the shell is:",
+        "options": [
+            "zero",
+            "constant",
+            "1/r",
+            "r"
+        ],
+        "answer": 1,
+        "explanation": "Potential inside a charged shell remains constant."
+    },
+    {
+        "id": 461,
+        "question": "If a charged capacitor is isolated and its plate separation is increased, the potential difference:",
+        "options": [
+            "decreases",
+            "increases",
+            "remains constant",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "With constant charge, increasing separation reduces capacitance, increasing voltage."
+    },
+    {
+        "id": 462,
+        "question": "If a charged capacitor remains connected to a battery and plate separation is increased, the charge on plates:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains constant",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Battery keeps voltage constant; increased separation lowers capacitance and charge."
+    },
+    {
+        "id": 463,
+        "question": "The electric energy density in a dielectric medium is proportional to:",
+        "options": [
+            "E",
+            "E²",
+            "1/E",
+            "constant"
+        ],
+        "answer": 1,
+        "explanation": "Energy density varies as square of electric field."
+    },
+    {
+        "id": 464,
+        "question": "The bound surface charge density on a dielectric surface is proportional to:",
+        "options": [
+            "electric field",
+            "polarization",
+            "electric potential",
+            "free charge density"
+        ],
+        "answer": 1,
+        "explanation": "Bound surface charge density is related to polarization."
+    },
+    {
+        "id": 465,
+        "question": "The electric displacement vector D in vacuum is given by:",
+        "options": [
+            "D = E",
+            "D = ε0E",
+            "D = E/ε0",
+            "D = εE"
+        ],
+        "answer": 1,
+        "explanation": "In vacuum, D equals ε0E."
+    },
+    {
+        "id": 466,
+        "question": "The divergence of electric field is related to:",
+        "options": [
+            "electric potential",
+            "electric flux",
+            "charge density",
+            "electric current"
+        ],
+        "answer": 2,
+        "explanation": "Gauss’s law in differential form relates divergence of E to charge density."
+    },
+    {
+        "id": 467,
+        "question": "The electric field inside a conductor during electrostatic equilibrium is zero because:",
+        "options": [
+            "electric field lines cancel",
+            "charges move freely",
+            "charges redistribute",
+            "potential is zero"
+        ],
+        "answer": 2,
+        "explanation": "Free charges rearrange to cancel the internal field."
+    },
+    {
+        "id": 468,
+        "question": "The potential energy of an electric dipole in a uniform electric field is minimum when the dipole is:",
+        "options": [
+            "parallel to field",
+            "perpendicular to field",
+            "anti-parallel to field",
+            "at 45°"
+        ],
+        "answer": 0,
+        "explanation": "Minimum potential energy occurs when dipole aligns with the field."
+    },
+    {
+        "id": 469,
+        "question": "The work done in rotating an electric dipole from parallel to anti-parallel orientation in a uniform field is:",
+        "options": [
+            "pE",
+            "2pE",
+            "pE/2",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Work done equals change in potential energy, which is 2pE."
+    },
+    {
+        "id": 470,
+        "question": "The electric field on the equatorial line of a dipole is directed:",
+        "options": [
+            "along dipole moment",
+            "opposite to dipole moment",
+            "perpendicular to dipole moment",
+            "radially outward"
+        ],
+        "answer": 1,
+        "explanation": "Resultant field on equatorial line is opposite to dipole moment."
+    },
+    {
+        "id": 471,
+        "question": "The electric potential on the equatorial line of a dipole is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Potentials due to +q and −q cancel on equatorial line."
+    },
+    {
+        "id": 472,
+        "question": "The electric field inside a uniformly charged infinite plane sheet is:",
+        "options": [
+            "zero",
+            "uniform",
+            "radial",
+            "non-uniform"
+        ],
+        "answer": 1,
+        "explanation": "Field due to infinite plane sheet is uniform."
+    },
+    {
+        "id": 473,
+        "question": "The electric potential difference between two points in a uniform electric field depends on:",
+        "options": [
+            "path taken",
+            "distance along field",
+            "charge moved",
+            "time taken"
+        ],
+        "answer": 1,
+        "explanation": "Potential difference equals field multiplied by displacement along field."
+    },
+    {
+        "id": 474,
+        "question": "The electric field lines are denser in regions where electric field is:",
+        "options": [
+            "weaker",
+            "uniform",
+            "stronger",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Density of field lines indicates field strength."
+    },
+    {
+        "id": 475,
+        "question": "The electric potential energy of two like charges separated by distance r is:",
+        "options": [
+            "negative",
+            "zero",
+            "positive",
+            "minimum"
+        ],
+        "answer": 2,
+        "explanation": "Work done against repulsion gives positive potential energy."
+    },
+    {
+        "id": 476,
+        "question": "The electric potential energy of two unlike charges becomes more negative as the distance between them:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Attraction lowers potential energy when charges come closer."
+    },
+    {
+        "id": 477,
+        "question": "The electric field at a point is equal to the force experienced by a:",
+        "options": [
+            "unit negative charge",
+            "unit positive charge",
+            "electron",
+            "proton only"
+        ],
+        "answer": 1,
+        "explanation": "Electric field is defined using a unit positive test charge."
+    },
+    {
+        "id": 478,
+        "question": "The electric potential at a point is defined as the work done per unit charge in bringing it from:",
+        "options": [
+            "origin",
+            "infinity",
+            "another charge",
+            "conducting surface"
+        ],
+        "answer": 1,
+        "explanation": "Reference potential is taken as zero at infinity."
+    },
+    {
+        "id": 479,
+        "question": "The electric field inside a dielectric slab placed in an external field is less than the external field due to:",
+        "options": [
+            "conduction",
+            "polarization",
+            "ionization",
+            "leakage of charge"
+        ],
+        "answer": 1,
+        "explanation": "Polarization produces an opposing electric field."
+    },
+    {
+        "id": 480,
+        "question": "The dielectric constant of a medium is defined as the ratio of:",
+        "options": [
+            "E/E0",
+            "C/C0",
+            "V/V0",
+            "Q/Q0"
+        ],
+        "answer": 1,
+        "explanation": "Dielectric constant equals ratio of capacitances."
+    },
+    {
+        "id": 481,
+        "question": "The dielectric constant of vacuum is:",
+        "options": [
+            "0",
+            "1",
+            "infinite",
+            "less than 1"
+        ],
+        "answer": 1,
+        "explanation": "Vacuum has dielectric constant equal to 1."
+    },
+    {
+        "id": 482,
+        "question": "The force between two charges in a medium of dielectric constant K compared to vacuum is:",
+        "options": [
+            "K times",
+            "1/K times",
+            "K² times",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "Electrostatic force reduces by factor K in a medium."
+    },
+    {
+        "id": 483,
+        "question": "The electric field just outside a charged conductor is proportional to:",
+        "options": [
+            "volume charge density",
+            "surface charge density",
+            "total charge only",
+            "radius of conductor"
+        ],
+        "answer": 1,
+        "explanation": "E = σ/ε0."
+    },
+    {
+        "id": 484,
+        "question": "The electric field is maximum at the surface of a conductor where the surface is:",
+        "options": [
+            "smooth",
+            "flat",
+            "sharp",
+            "spherical"
+        ],
+        "answer": 2,
+        "explanation": "Charge density is highest at sharp points."
+    },
+    {
+        "id": 485,
+        "question": "The phenomenon of corona discharge occurs due to:",
+        "options": [
+            "high temperature",
+            "strong electric field at sharp points",
+            "magnetic field",
+            "chemical reaction"
+        ],
+        "answer": 1,
+        "explanation": "Strong electric field ionizes surrounding air."
+    },
+    {
+        "id": 486,
+        "question": "Electrostatic shielding is the phenomenon in which:",
+        "options": [
+            "electric field is enhanced",
+            "electric field is reduced",
+            "electric field inside conductor is zero",
+            "potential becomes zero"
+        ],
+        "answer": 2,
+        "explanation": "Conductors block external electric fields."
+    },
+    {
+        "id": 487,
+        "question": "The electric field inside a cavity of a conductor containing no charge is:",
+        "options": [
+            "uniform",
+            "zero",
+            "non-zero",
+            "depends on cavity shape"
+        ],
+        "answer": 1,
+        "explanation": "No enclosed charge leads to zero field."
+    },
+    {
+        "id": 488,
+        "question": "If a charge is placed inside a conducting cavity, the electric field inside the conductor material is:",
+        "options": [
+            "uniform",
+            "zero",
+            "non-zero",
+            "depends on position"
+        ],
+        "answer": 1,
+        "explanation": "Electric field inside conductor material remains zero."
+    },
+    {
+        "id": 489,
+        "question": "The net induced charge on the inner surface of a conductor enclosing a point charge q is:",
+        "options": [
+            "+q",
+            "−q",
+            "0",
+            "2q"
+        ],
+        "answer": 1,
+        "explanation": "Equal and opposite charge is induced on inner surface."
+    },
+    {
+        "id": 490,
+        "question": "The total induced charge on the outer surface of the conductor in the above case is:",
+        "options": [
+            "−q",
+            "q",
+            "0",
+            "2q"
+        ],
+        "answer": 1,
+        "explanation": "Charge conservation requires +q on outer surface."
+    },
+    {
+        "id": 491,
+        "question": "The capacitance of a capacitor is independent of:",
+        "options": [
+            "geometry",
+            "dielectric medium",
+            "potential difference",
+            "plate separation"
+        ],
+        "answer": 2,
+        "explanation": "Capacitance depends on geometry and medium, not on applied voltage."
+    },
+    {
+        "id": 492,
+        "question": "If a dielectric is inserted between the plates of an isolated capacitor, the energy stored:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Capacitance increases, reducing energy for constant charge."
+    },
+    {
+        "id": 493,
+        "question": "If a dielectric is inserted between the plates of a capacitor connected to a battery, the energy stored:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains same",
+            "becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "With constant voltage, increased capacitance increases energy."
+    },
+    {
+        "id": 494,
+        "question": "The electric field between the plates of a parallel plate capacitor filled with dielectric is:",
+        "options": [
+            "E0",
+            "E0/K",
+            "KE0",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Field reduces by factor K inside dielectric."
+    },
+    {
+        "id": 495,
+        "question": "The electric displacement vector D is continuous across the boundary when:",
+        "options": [
+            "no free surface charge exists",
+            "dielectric constant changes",
+            "electric field is zero",
+            "polarization is zero"
+        ],
+        "answer": 0,
+        "explanation": "Normal component of D is continuous without free surface charge."
+    },
+    {
+        "id": 496,
+        "question": "The electric potential is continuous across the boundary of:",
+        "options": [
+            "conductors only",
+            "dielectrics only",
+            "all media",
+            "vacuum only"
+        ],
+        "answer": 2,
+        "explanation": "Electric potential remains continuous across boundaries."
+    },
+    {
+        "id": 497,
+        "question": "The electric field is discontinuous across a boundary due to presence of:",
+        "options": [
+            "volume charge",
+            "surface charge",
+            "dipole moment",
+            "electric current"
+        ],
+        "answer": 1,
+        "explanation": "Surface charge causes discontinuity in electric field."
+    },
+    {
+        "id": 498,
+        "question": "The electrostatic force between two charges is a central force because it acts along the:",
+        "options": [
+            "direction of motion",
+            "electric field lines",
+            "line joining the charges",
+            "equipotential surface"
+        ],
+        "answer": 2,
+        "explanation": "Force acts along line joining the charges."
+    },
+    {
+        "id": 499,
+        "question": "The electric field due to a point charge is zero at:",
+        "options": [
+            "finite distance",
+            "infinity",
+            "surface of charge",
+            "center of charge"
+        ],
+        "answer": 1,
+        "explanation": "Electric field tends to zero at infinity."
+    },
+    {
+        "id": 500,
+        "question": "Electrostatics primarily deals with the study of:",
+        "options": [
+            "moving charges",
+            "accelerating charges",
+            "charges at rest",
+            "charges in magnetic fields"
+        ],
+        "answer": 2,
+        "explanation": "Electrostatics studies charges at rest."
+    }
+]

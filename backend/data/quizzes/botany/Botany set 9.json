@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic aid provides step-wise identification using paired contrasting characters?",
+        "options": [
+            "Flora",
+            "Monograph",
+            "Key",
+            "Manual"
+        ],
+        "answer": 2,
+        "explanation": "Keys are based on paired contrasting characters."
+    },
+    {
+        "id": 2,
+        "question": "Which algal pigment masks chlorophyll in brown algae?",
+        "options": [
+            "Phycoerythrin",
+            "Phycocyanin",
+            "Fucoxanthin",
+            "Carotene"
+        ],
+        "answer": 2,
+        "explanation": "Fucoxanthin masks chlorophyll in brown algae."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group shows dominant gametophyte generation?",
+        "options": [
+            "Gymnosperms",
+            "Angiosperms",
+            "Pteridophytes",
+            "Bryophytes"
+        ],
+        "answer": 3,
+        "explanation": "Bryophytes have dominant gametophyte."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of maize grain is:",
+        "options": [
+            "Pericarp",
+            "Endosperm",
+            "Cotyledon",
+            "Scutellum"
+        ],
+        "answer": 1,
+        "explanation": "Maize grain stores food in endosperm."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue is responsible for protection in plants?",
+        "options": [
+            "Parenchyma",
+            "Meristem",
+            "Epidermal tissue system",
+            "Vascular tissue"
+        ],
+        "answer": 2,
+        "explanation": "Epidermal tissue system provides protection."
+    },
+    {
+        "id": 6,
+        "question": "Casparian strips are made up of:",
+        "options": [
+            "Cellulose",
+            "Lignin",
+            "Suberin",
+            "Pectin"
+        ],
+        "answer": 2,
+        "explanation": "Casparian strips contain suberin."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle contains hydrolytic enzymes?",
+        "options": [
+            "Golgi apparatus",
+            "Peroxisome",
+            "Lysosome",
+            "Mitochondria"
+        ],
+        "answer": 2,
+        "explanation": "Lysosomes contain hydrolytic enzymes."
+    },
+    {
+        "id": 8,
+        "question": "Which biomolecule forms the genetic material in most organisms?",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Carbohydrate"
+        ],
+        "answer": 2,
+        "explanation": "DNA is the genetic material in most organisms."
+    },
+    {
+        "id": 9,
+        "question": "Which phase of cell cycle shows duplication of DNA?",
+        "options": [
+            "G1",
+            "S",
+            "G2",
+            "M"
+        ],
+        "answer": 1,
+        "explanation": "DNA duplication occurs during S phase."
+    },
+    {
+        "id": 10,
+        "question": "Which process explains movement of water through cell membrane?",
+        "options": [
+            "Diffusion",
+            "Active transport",
+            "Osmosis",
+            "Mass flow"
+        ],
+        "answer": 2,
+        "explanation": "Osmosis is movement of water through semipermeable membrane."
+    },
+    {
+        "id": 11,
+        "question": "Which macronutrient is required for synthesis of chlorophyll?",
+        "options": [
+            "Nitrogen",
+            "Magnesium",
+            "Potassium",
+            "Calcium"
+        ],
+        "answer": 1,
+        "explanation": "Magnesium is a component of chlorophyll."
+    },
+    {
+        "id": 12,
+        "question": "Which pigment participates directly in light reaction?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a acts as reaction centre."
+    },
+    {
+        "id": 13,
+        "question": "Which compound is the first stable product of C4 pathway?",
+        "options": [
+            "3-PGA",
+            "RuBP",
+            "Oxaloacetic acid",
+            "Malic acid"
+        ],
+        "answer": 2,
+        "explanation": "Oxaloacetic acid is first stable product of C4 pathway."
+    },
+    {
+        "id": 14,
+        "question": "Which respiratory step produces maximum ATP?",
+        "options": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transport chain",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Maximum ATP is produced in electron transport chain."
+    },
+    {
+        "id": 15,
+        "question": "Which plant hormone promotes cell elongation in stems?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Abscisic acid"
+        ],
+        "answer": 0,
+        "explanation": "Auxin promotes cell elongation."
+    },
+    {
+        "id": 16,
+        "question": "Which structure nourishes the developing pollen grains?",
+        "options": [
+            "Endothecium",
+            "Tapetum",
+            "Middle layer",
+            "Epidermis"
+        ],
+        "answer": 1,
+        "explanation": "Tapetum provides nourishment to pollen grains."
+    },
+    {
+        "id": 17,
+        "question": "Which breeding method exploits heterosis?",
+        "options": [
+            "Inbreeding",
+            "Pureline selection",
+            "Hybridisation",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Hybridisation exploits heterosis."
+    },
+    {
+        "id": 18,
+        "question": "Which microorganism is used for production of statins?",
+        "options": [
+            "Penicillium notatum",
+            "Rhizopus",
+            "Monascus purpureus",
+            "Aspergillus niger"
+        ],
+        "answer": 2,
+        "explanation": "Statins are produced by Monascus purpureus."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme synthesises RNA using DNA template?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Ligase",
+            "Reverse transcriptase"
+        ],
+        "answer": 1,
+        "explanation": "RNA polymerase synthesises RNA."
+    },
+    {
+        "id": 20,
+        "question": "Which term represents number of individuals added per unit time?",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Density",
+            "Dispersion"
+        ],
+        "answer": 1,
+        "explanation": "Natality is birth rate."
+    },
+    {
+        "id": 21,
+        "question": "Which trophic level has maximum energy?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Tertiary consumers"
+        ],
+        "answer": 0,
+        "explanation": "Producers capture maximum energy."
+    },
+    {
+        "id": 22,
+        "question": "Which biodiversity pattern shows more species in tropics?",
+        "options": [
+            "Latitudinal gradient",
+            "Species-area relationship",
+            "Island biogeography",
+            "Succession"
+        ],
+        "answer": 0,
+        "explanation": "Species richness decreases from equator to poles."
+    },
+    {
+        "id": 23,
+        "question": "Which pollutant is responsible for depletion of ozone layer?",
+        "options": [
+            "CO₂",
+            "SO₂",
+            "CFCs",
+            "NO₂"
+        ],
+        "answer": 2,
+        "explanation": "CFCs cause ozone depletion."
+    },
+    {
+        "id": 24,
+        "question": "Which taxonomic aid gives detailed information about a single species or genus?",
+        "options": [
+            "Flora",
+            "Manual",
+            "Monograph",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Monograph deals with a single taxon."
+    },
+    {
+        "id": 25,
+        "question": "Which algae shows haplontic life cycle?",
+        "options": [
+            "Fucus",
+            "Ectocarpus",
+            "Ulothrix",
+            "Polysiphonia"
+        ],
+        "answer": 2,
+        "explanation": "Ulothrix shows haplontic life cycle."
+    },
+    {
+        "id": 26,
+        "question": "Which tissue is responsible for mechanical strength in plants?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Phloem"
+        ],
+        "answer": 2,
+        "explanation": "Sclerenchyma provides mechanical strength."
+    },
+    {
+        "id": 27,
+        "question": "Which plastid stores starch?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Amyloplast",
+            "Elaioplast"
+        ],
+        "answer": 2,
+        "explanation": "Amyloplast stores starch."
+    },
+    {
+        "id": 28,
+        "question": "Which nitrogenous base is present only in RNA?",
+        "options": [
+            "Adenine",
+            "Thymine",
+            "Cytosine",
+            "Uracil"
+        ],
+        "answer": 3,
+        "explanation": "Uracil is present only in RNA."
+    },
+    {
+        "id": 29,
+        "question": "Which stage of meiosis shows terminalisation of chiasmata?",
+        "options": [
+            "Pachytene",
+            "Diplotene",
+            "Diakinesis",
+            "Metaphase I"
+        ],
+        "answer": 2,
+        "explanation": "Terminalisation occurs during diakinesis."
+    },
+    {
+        "id": 30,
+        "question": "Which phenomenon explains upward movement of water in plants?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull explains ascent of sap."
+    },
+    {
+        "id": 31,
+        "question": "Which micronutrient is a component of plastocyanin?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Manganese"
+        ],
+        "answer": 1,
+        "explanation": "Plastocyanin contains copper."
+    },
+    {
+        "id": 32,
+        "question": "Which pathway fixes CO₂ at night?",
+        "options": [
+            "C3 pathway",
+            "C4 pathway",
+            "CAM pathway",
+            "Calvin cycle"
+        ],
+        "answer": 2,
+        "explanation": "CAM pathway fixes CO₂ at night."
+    },
+    {
+        "id": 33,
+        "question": "Which respiratory substrate gives RQ greater than 1?",
+        "options": [
+            "Carbohydrates",
+            "Proteins",
+            "Fats",
+            "Organic acids"
+        ],
+        "answer": 3,
+        "explanation": "Organic acids give RQ greater than 1."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone promotes fruit ripening?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Ethylene",
+            "Cytokinin"
+        ],
+        "answer": 2,
+        "explanation": "Ethylene promotes fruit ripening."
+    },
+    {
+        "id": 35,
+        "question": "Which part of ovule forms seed coat?",
+        "options": [
+            "Nucellus",
+            "Integuments",
+            "Funiculus",
+            "Chalaza"
+        ],
+        "answer": 1,
+        "explanation": "Integuments form seed coat."
+    },
+    {
+        "id": 36,
+        "question": "Which breeding method transfers a single desirable gene to elite variety?",
+        "options": [
+            "Mass selection",
+            "Pureline selection",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Backcrossing transfers a single desirable gene."
+    },
+    {
+        "id": 37,
+        "question": "Which microorganism is used for production of ethanol?",
+        "options": [
+            "Acetobacter",
+            "Saccharomyces cerevisiae",
+            "Rhizobium",
+            "Nitrosomonas"
+        ],
+        "answer": 1,
+        "explanation": "Saccharomyces produces ethanol."
+    },
+    {
+        "id": 38,
+        "question": "Which technique separates DNA fragments based on size?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Gel electrophoresis",
+            "Blotting"
+        ],
+        "answer": 2,
+        "explanation": "Gel electrophoresis separates DNA fragments by size."
+    },
+    {
+        "id": 39,
+        "question": "Which dispersion pattern shows individuals grouped in patches?",
+        "options": [
+            "Random",
+            "Uniform",
+            "Clumped",
+            "Regular"
+        ],
+        "answer": 2,
+        "explanation": "Clumped dispersion shows aggregation."
+    },
+    {
+        "id": 40,
+        "question": "Which ecological pyramid is always upright?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "All pyramids"
+        ],
+        "answer": 2,
+        "explanation": "Energy pyramid is always upright."
+    },
+    {
+        "id": 41,
+        "question": "Which biome is characterised by tall grasses with scattered trees?",
+        "options": [
+            "Tundra",
+            "Savanna",
+            "Taiga",
+            "Desert"
+        ],
+        "answer": 1,
+        "explanation": "Savanna has tall grasses and scattered trees."
+    },
+    {
+        "id": 42,
+        "question": "Which gas is responsible for acid rain?",
+        "options": [
+            "CO₂",
+            "SO₂",
+            "CH₄",
+            "N₂"
+        ],
+        "answer": 1,
+        "explanation": "Sulphur dioxide causes acid rain."
+    },
+    {
+        "id": 43,
+        "question": "Which system of classification considers evolutionary relationships?",
+        "options": [
+            "Artificial",
+            "Natural",
+            "Phylogenetic",
+            "Numerical"
+        ],
+        "answer": 2,
+        "explanation": "Phylogenetic classification is based on evolution."
+    },
+    {
+        "id": 44,
+        "question": "Which algae is used as source of carrageenan?",
+        "options": [
+            "Gelidium",
+            "Gracilaria",
+            "Sargassum",
+            "Ulothrix"
+        ],
+        "answer": 1,
+        "explanation": "Gracilaria is source of carrageenan."
+    },
+    {
+        "id": 45,
+        "question": "Which tissue lies just inside epidermis in dicot stem?",
+        "options": [
+            "Endodermis",
+            "Cortex",
+            "Pericycle",
+            "Pith"
+        ],
+        "answer": 1,
+        "explanation": "Cortex lies just inside epidermis."
+    },
+    {
+        "id": 46,
+        "question": "Which plastid is involved in photosynthesis?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Amyloplast",
+            "Leucoplast"
+        ],
+        "answer": 0,
+        "explanation": "Chloroplast carries out photosynthesis."
+    },
+    {
+        "id": 47,
+        "question": "Which nitrogenous base is present only in DNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Cytosine",
+            "Thymine"
+        ],
+        "answer": 3,
+        "explanation": "Thymine is present only in DNA."
+    },
+    {
+        "id": 48,
+        "question": "Which stage of mitosis involves condensation of chromosomes?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 0,
+        "explanation": "Chromosomes condense during prophase."
+    },
+    {
+        "id": 49,
+        "question": "Which force is mainly responsible for ascent of sap?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull is the main force."
+    },
+    {
+        "id": 50,
+        "question": "Which international agreement focuses on climate change mitigation?",
+        "options": [
+            "Montreal Protocol",
+            "Ramsar Convention",
+            "Kyoto Protocol",
+            "Stockholm Convention"
+        ],
+        "answer": 2,
+        "explanation": "Kyoto Protocol deals with climate change mitigation."
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic rank is the basic unit of classification?",
+        "options": [
+            "Genus",
+            "Species",
+            "Family",
+            "Order"
+        ],
+        "answer": 1,
+        "explanation": "Species is the basic unit of classification."
+    },
+    {
+        "id": 2,
+        "question": "Which algal class contains silica in the cell wall?",
+        "options": [
+            "Chlorophyceae",
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Bacillariophyceae"
+        ],
+        "answer": 3,
+        "explanation": "Diatoms possess silica in their cell walls."
+    },
+    {
+        "id": 3,
+        "question": "Antherozoids are motile gametes found in:",
+        "options": [
+            "Angiosperms",
+            "Gymnosperms",
+            "Bryophytes",
+            "Fungi"
+        ],
+        "answer": 2,
+        "explanation": "Bryophytes have motile male gametes called antherozoids."
+    },
+    {
+        "id": 4,
+        "question": "Which type of aestivation is found in Calotropis?",
+        "options": [
+            "Valvate",
+            "Twisted",
+            "Imbricate",
+            "Vexillary"
+        ],
+        "answer": 2,
+        "explanation": "Calotropis shows imbricate aestivation."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue in dicot root gives rise to lateral roots?",
+        "options": [
+            "Endodermis",
+            "Cortex",
+            "Pericycle",
+            "Pith"
+        ],
+        "answer": 2,
+        "explanation": "Lateral roots originate from pericycle."
+    },
+    {
+        "id": 6,
+        "question": "Which component of cell wall provides tensile strength?",
+        "options": [
+            "Pectin",
+            "Cellulose",
+            "Hemicellulose",
+            "Lignin"
+        ],
+        "answer": 1,
+        "explanation": "Cellulose microfibrils provide tensile strength."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle is involved in lipid synthesis?",
+        "options": [
+            "Rough endoplasmic reticulum",
+            "Smooth endoplasmic reticulum",
+            "Golgi apparatus",
+            "Lysosome"
+        ],
+        "answer": 1,
+        "explanation": "Smooth ER synthesises lipids."
+    },
+    {
+        "id": 8,
+        "question": "Which polysaccharide is the reserve food in animals?",
+        "options": [
+            "Starch",
+            "Cellulose",
+            "Glycogen",
+            "Chitin"
+        ],
+        "answer": 2,
+        "explanation": "Glycogen is the reserve food in animals."
+    },
+    {
+        "id": 9,
+        "question": "Which phase of mitosis involves disappearance of nuclear membrane?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 0,
+        "explanation": "Nuclear membrane disappears during prophase."
+    },
+    {
+        "id": 10,
+        "question": "Diffusion of gases in plants occurs through:",
+        "options": [
+            "Xylem",
+            "Phloem",
+            "Stomata",
+            "Cambium"
+        ],
+        "answer": 2,
+        "explanation": "Gases diffuse mainly through stomata."
+    },
+    {
+        "id": 11,
+        "question": "Which element is a component of chlorophyll molecule?",
+        "options": [
+            "Iron",
+            "Magnesium",
+            "Manganese",
+            "Zinc"
+        ],
+        "answer": 1,
+        "explanation": "Magnesium is present at the centre of chlorophyll."
+    },
+    {
+        "id": 12,
+        "question": "Which photosynthetic pigment absorbs maximum light at 680 nm?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotene",
+            "Xanthophyll"
+        ],
+        "answer": 0,
+        "explanation": "Chlorophyll a absorbs maximum at 680 nm."
+    },
+    {
+        "id": 13,
+        "question": "Which compound is regenerated in Calvin cycle?",
+        "options": [
+            "3-PGA",
+            "RuBP",
+            "OAA",
+            "PEP"
+        ],
+        "answer": 1,
+        "explanation": "RuBP is regenerated during Calvin cycle."
+    },
+    {
+        "id": 14,
+        "question": "Which respiratory step occurs in mitochondrial matrix?",
+        "options": [
+            "Glycolysis",
+            "Electron transport",
+            "Krebs cycle",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Krebs cycle occurs in mitochondrial matrix."
+    },
+    {
+        "id": 15,
+        "question": "Which hormone promotes cell division?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Abscisic acid"
+        ],
+        "answer": 2,
+        "explanation": "Cytokinins promote cell division."
+    },
+    {
+        "id": 16,
+        "question": "Which type of ovule is most common in angiosperms?",
+        "options": [
+            "Orthotropous",
+            "Anatropous",
+            "Campylotropous",
+            "Circinotropous"
+        ],
+        "answer": 1,
+        "explanation": "Most angiosperms have anatropous ovules."
+    },
+    {
+        "id": 17,
+        "question": "Which breeding method increases homozygosity?",
+        "options": [
+            "Outcrossing",
+            "Hybridisation",
+            "Inbreeding",
+            "Clonal selection"
+        ],
+        "answer": 2,
+        "explanation": "Inbreeding increases homozygosity."
+    },
+    {
+        "id": 18,
+        "question": "Which microorganism produces penicillin?",
+        "options": [
+            "Aspergillus niger",
+            "Penicillium notatum",
+            "Rhizobium",
+            "Streptococcus"
+        ],
+        "answer": 1,
+        "explanation": "Penicillin is produced by Penicillium notatum."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme joins DNA fragments?",
+        "options": [
+            "Restriction endonuclease",
+            "Ligase",
+            "Polymerase",
+            "Reverse transcriptase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase joins DNA fragments."
+    },
+    {
+        "id": 20,
+        "question": "Birth rate of a population is called:",
+        "options": [
+            "Mortality",
+            "Natality",
+            "Density",
+            "Dispersion"
+        ],
+        "answer": 1,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 21,
+        "question": "Which trophic level has least energy?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Tertiary consumers"
+        ],
+        "answer": 3,
+        "explanation": "Energy decreases at higher trophic levels."
+    },
+    {
+        "id": 22,
+        "question": "Which biome has highest species diversity?",
+        "options": [
+            "Desert",
+            "Tundra",
+            "Tropical rainforest",
+            "Taiga"
+        ],
+        "answer": 2,
+        "explanation": "Tropical rainforests show highest diversity."
+    },
+    {
+        "id": 23,
+        "question": "Which pollutant causes Itai-itai disease?",
+        "options": [
+            "Mercury",
+            "Cadmium",
+            "Lead",
+            "Arsenic"
+        ],
+        "answer": 1,
+        "explanation": "Cadmium causes Itai-itai disease."
+    },
+    {
+        "id": 24,
+        "question": "Which taxonomic aid is used for identification based on morphological characters?",
+        "options": [
+            "Key",
+            "Monograph",
+            "Manual",
+            "Flora"
+        ],
+        "answer": 0,
+        "explanation": "Keys use contrasting morphological characters."
+    },
+    {
+        "id": 25,
+        "question": "Which algae is used in manufacture of agar?",
+        "options": [
+            "Ulothrix",
+            "Gelidium",
+            "Chlamydomonas",
+            "Sargassum"
+        ],
+        "answer": 1,
+        "explanation": "Gelidium is used to produce agar."
+    },
+    {
+        "id": 26,
+        "question": "Which plant group shows heterospory?",
+        "options": [
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms",
+            "Angiosperms"
+        ],
+        "answer": 1,
+        "explanation": "Some pteridophytes like Selaginella are heterosporous."
+    },
+    {
+        "id": 27,
+        "question": "Which tissue provides mechanical support in young stems?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": 1,
+        "explanation": "Collenchyma provides mechanical support to young stems."
+    },
+    {
+        "id": 28,
+        "question": "Which plastid stores oils and fats?",
+        "options": [
+            "Amyloplast",
+            "Elaioplast",
+            "Proteinoplast",
+            "Chromoplast"
+        ],
+        "answer": 1,
+        "explanation": "Elaioplast stores oils and fats."
+    },
+    {
+        "id": 29,
+        "question": "Which nitrogenous base is present only in RNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Cytosine",
+            "Uracil"
+        ],
+        "answer": 3,
+        "explanation": "Uracil is present only in RNA."
+    },
+    {
+        "id": 30,
+        "question": "Which stage of meiosis shows maximum condensation of chromosomes?",
+        "options": [
+            "Pachytene",
+            "Diplotene",
+            "Diakinesis",
+            "Metaphase I"
+        ],
+        "answer": 2,
+        "explanation": "Chromosomes are most condensed during diakinesis."
+    },
+    {
+        "id": 31,
+        "question": "Upward movement of water in plants is called:",
+        "options": [
+            "Translocation",
+            "Diffusion",
+            "Ascent of sap",
+            "Osmosis"
+        ],
+        "answer": 2,
+        "explanation": "Upward movement of water is ascent of sap."
+    },
+    {
+        "id": 32,
+        "question": "Which element is involved in opening of stomata?",
+        "options": [
+            "Calcium",
+            "Potassium",
+            "Iron",
+            "Zinc"
+        ],
+        "answer": 1,
+        "explanation": "Potassium ions regulate stomatal opening."
+    },
+    {
+        "id": 33,
+        "question": "Which plant shows Kranz anatomy?",
+        "options": [
+            "Wheat",
+            "Rice",
+            "Maize",
+            "Potato"
+        ],
+        "answer": 2,
+        "explanation": "Maize shows Kranz anatomy."
+    },
+    {
+        "id": 34,
+        "question": "Which step of respiration produces NADH?",
+        "options": [
+            "Glycolysis",
+            "Krebs cycle",
+            "Electron transport",
+            "Both glycolysis and Krebs cycle"
+        ],
+        "answer": 3,
+        "explanation": "NADH is produced in both glycolysis and Krebs cycle."
+    },
+    {
+        "id": 35,
+        "question": "Which hormone induces dormancy in seeds?",
+        "options": [
+            "Auxin",
+            "Gibberellin",
+            "Cytokinin",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "Abscisic acid induces seed dormancy."
+    },
+    {
+        "id": 36,
+        "question": "Which part of ovule gives rise to seed coat?",
+        "options": [
+            "Nucellus",
+            "Integuments",
+            "Funiculus",
+            "Chalaza"
+        ],
+        "answer": 1,
+        "explanation": "Integuments form the seed coat."
+    },
+    {
+        "id": 37,
+        "question": "Which breeding method is used to incorporate disease resistance?",
+        "options": [
+            "Hybridisation",
+            "Mutation breeding",
+            "Backcrossing",
+            "Pureline selection"
+        ],
+        "answer": 2,
+        "explanation": "Backcrossing is used to introduce disease resistance."
+    },
+    {
+        "id": 38,
+        "question": "Which microorganism is used in sewage treatment?",
+        "options": [
+            "Methanobacterium",
+            "Rhizobium",
+            "Azotobacter",
+            "Nitrosomonas"
+        ],
+        "answer": 0,
+        "explanation": "Methanobacterium helps in anaerobic digestion of sewage."
+    },
+    {
+        "id": 39,
+        "question": "Which technique is used to detect specific DNA sequences?",
+        "options": [
+            "PCR",
+            "Southern blotting",
+            "ELISA",
+            "Chromatography"
+        ],
+        "answer": 1,
+        "explanation": "Southern blotting detects specific DNA sequences."
+    },
+    {
+        "id": 40,
+        "question": "Immigration increases population by:",
+        "options": [
+            "Deaths",
+            "Births",
+            "Individuals entering population",
+            "Individuals leaving population"
+        ],
+        "answer": 2,
+        "explanation": "Immigration adds individuals to population."
+    },
+    {
+        "id": 41,
+        "question": "Which pyramid can be inverted?",
+        "options": [
+            "Pyramid of energy",
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Both pyramid of numbers and biomass"
+        ],
+        "answer": 3,
+        "explanation": "Pyramids of numbers and biomass can be inverted."
+    },
+    {
+        "id": 42,
+        "question": "Which biome has permafrost?",
+        "options": [
+            "Tundra",
+            "Taiga",
+            "Desert",
+            "Savanna"
+        ],
+        "answer": 0,
+        "explanation": "Tundra has permanently frozen subsoil."
+    },
+    {
+        "id": 43,
+        "question": "Which pollutant causes Blue baby syndrome?",
+        "options": [
+            "Nitrates",
+            "Sulphur dioxide",
+            "Carbon monoxide",
+            "Ozone"
+        ],
+        "answer": 0,
+        "explanation": "Nitrates cause Blue baby syndrome."
+    },
+    {
+        "id": 44,
+        "question": "Which publication deals with a single taxon?",
+        "options": [
+            "Flora",
+            "Manual",
+            "Monograph",
+            "Catalogue"
+        ],
+        "answer": 2,
+        "explanation": "Monograph gives detailed account of a single taxon."
+    },
+    {
+        "id": 45,
+        "question": "Which algae shows haplontic life cycle?",
+        "options": [
+            "Fucus",
+            "Ulothrix",
+            "Ectocarpus",
+            "Polysiphonia"
+        ],
+        "answer": 1,
+        "explanation": "Ulothrix shows haplontic life cycle."
+    },
+    {
+        "id": 46,
+        "question": "Which tissue stores food in plants?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Xylem"
+        ],
+        "answer": 0,
+        "explanation": "Parenchyma stores food materials."
+    },
+    {
+        "id": 47,
+        "question": "Which plastid develops from leucoplast during greening?",
+        "options": [
+            "Chromoplast",
+            "Chloroplast",
+            "Gerontoplast",
+            "Elaioplast"
+        ],
+        "answer": 1,
+        "explanation": "Leucoplast can differentiate into chloroplast."
+    },
+    {
+        "id": 48,
+        "question": "Which bond holds two DNA strands together?",
+        "options": [
+            "Peptide bond",
+            "Hydrogen bond",
+            "Phosphodiester bond",
+            "Glycosidic bond"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen bonds hold two DNA strands."
+    },
+    {
+        "id": 49,
+        "question": "Which stage of meiosis shows terminalisation of chiasmata?",
+        "options": [
+            "Diplotene",
+            "Pachytene",
+            "Diakinesis",
+            "Metaphase I"
+        ],
+        "answer": 2,
+        "explanation": "Terminalisation occurs during diakinesis."
+    },
+    {
+        "id": 50,
+        "question": "Which micronutrient is a component of plastocyanin?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Zinc",
+            "Manganese"
+        ],
+        "answer": 1,
+        "explanation": "Plastocyanin contains copper."
+    }
+]

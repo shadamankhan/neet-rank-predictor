@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Which enzyme is used to cut DNA at specific recognition sequences as per NCERT?",
+        "options": [
+            "DNA ligase",
+            "Restriction endonuclease",
+            "RNA polymerase",
+            "DNA polymerase"
+        ],
+        "answer": 1,
+        "explanation": "Restriction endonucleases cut DNA at specific palindromic sequences."
+    },
+    {
+        "id": 2,
+        "question": "The first restriction endonuclease discovered was obtained from which bacterium?",
+        "options": [
+            "Escherichia coli",
+            "Haemophilus influenzae",
+            "Agrobacterium tumefaciens",
+            "Bacillus thuringiensis"
+        ],
+        "answer": 1,
+        "explanation": "Hind II was isolated from Haemophilus influenzae."
+    },
+    {
+        "id": 3,
+        "question": "Restriction enzymes belong to which class of enzymes?",
+        "options": [
+            "Ligases",
+            "Hydrolases",
+            "Oxidoreductases",
+            "Isomerases"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes are hydrolases that cut phosphodiester bonds."
+    },
+    {
+        "id": 4,
+        "question": "Sticky ends are produced due to",
+        "options": [
+            "Blunt cutting of DNA",
+            "Overhanging ends after cleavage",
+            "Action of ligase",
+            "Methylation of DNA"
+        ],
+        "answer": 1,
+        "explanation": "Sticky ends are overhanging single-stranded ends."
+    },
+    {
+        "id": 5,
+        "question": "Which enzyme is responsible for joining DNA fragments?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "DNA ligase",
+            "Primase"
+        ],
+        "answer": 2,
+        "explanation": "DNA ligase joins DNA fragments by forming phosphodiester bonds."
+    },
+    {
+        "id": 6,
+        "question": "Plasmids are defined in NCERT as",
+        "options": [
+            "Linear DNA",
+            "Circular extrachromosomal DNA",
+            "RNA molecules",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "Plasmids are circular, extrachromosomal DNA in bacteria."
+    },
+    {
+        "id": 7,
+        "question": "Which plasmid is used as a cloning vector in E. coli?",
+        "options": [
+            "pBR322",
+            "Ti plasmid",
+            "Ri plasmid",
+            "Cosmid"
+        ],
+        "answer": 0,
+        "explanation": "pBR322 is a commonly used E. coli cloning vector."
+    },
+    {
+        "id": 8,
+        "question": "pBR322 contains resistance genes for",
+        "options": [
+            "Ampicillin and tetracycline",
+            "Kanamycin and chloramphenicol",
+            "Penicillin and streptomycin",
+            "Ampicillin and kanamycin"
+        ],
+        "answer": 0,
+        "explanation": "pBR322 has ampR and tetR genes."
+    },
+    {
+        "id": 9,
+        "question": "Selectable marker in a vector helps in",
+        "options": [
+            "DNA cutting",
+            "Identifying transformants",
+            "DNA replication",
+            "Protein synthesis"
+        ],
+        "answer": 1,
+        "explanation": "Selectable markers help identify transformed cells."
+    },
+    {
+        "id": 10,
+        "question": "Which enzyme synthesizes DNA using RNA primer?",
+        "options": [
+            "DNA ligase",
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase"
+        ],
+        "answer": 1,
+        "explanation": "DNA polymerase synthesizes DNA using RNA primer."
+    },
+    {
+        "id": 11,
+        "question": "Reverse transcriptase is used to synthesize",
+        "options": [
+            "RNA from DNA",
+            "DNA from RNA",
+            "Protein from RNA",
+            "RNA from protein"
+        ],
+        "answer": 1,
+        "explanation": "Reverse transcriptase synthesizes DNA from RNA."
+    },
+    {
+        "id": 12,
+        "question": "cDNA is synthesized from",
+        "options": [
+            "Genomic DNA",
+            "mRNA",
+            "tRNA",
+            "rRNA"
+        ],
+        "answer": 1,
+        "explanation": "Complementary DNA is synthesized from mRNA."
+    },
+    {
+        "id": 13,
+        "question": "Polymerase Chain Reaction requires how many main components?",
+        "options": [
+            "Two",
+            "Three",
+            "Four",
+            "Five"
+        ],
+        "answer": 1,
+        "explanation": "PCR requires template DNA, primers, and DNA polymerase."
+    },
+    {
+        "id": 14,
+        "question": "Taq polymerase is isolated from",
+        "options": [
+            "Thermus aquaticus",
+            "Escherichia coli",
+            "Bacillus subtilis",
+            "Agrobacterium tumefaciens"
+        ],
+        "answer": 0,
+        "explanation": "Taq polymerase comes from Thermus aquaticus."
+    },
+    {
+        "id": 15,
+        "question": "Denaturation in PCR occurs at approximately",
+        "options": [
+            "37°C",
+            "50°C",
+            "72°C",
+            "94°C"
+        ],
+        "answer": 3,
+        "explanation": "Denaturation occurs at about 94°C."
+    },
+    {
+        "id": 16,
+        "question": "Annealing in PCR allows",
+        "options": [
+            "DNA synthesis",
+            "Primer binding",
+            "DNA denaturation",
+            "Ligase activity"
+        ],
+        "answer": 1,
+        "explanation": "Annealing allows primers to bind to template DNA."
+    },
+    {
+        "id": 17,
+        "question": "Extension step in PCR occurs at",
+        "options": [
+            "37°C",
+            "50°C",
+            "72°C",
+            "94°C"
+        ],
+        "answer": 2,
+        "explanation": "Extension occurs at 72°C using Taq polymerase."
+    },
+    {
+        "id": 18,
+        "question": "Gel electrophoresis separates DNA fragments based on",
+        "options": [
+            "Shape",
+            "Charge",
+            "Size",
+            "Sequence"
+        ],
+        "answer": 2,
+        "explanation": "DNA fragments are separated based on size."
+    },
+    {
+        "id": 19,
+        "question": "DNA moves towards which electrode in gel electrophoresis?",
+        "options": [
+            "Positive",
+            "Negative",
+            "Both",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "DNA moves towards the positive electrode due to negative charge."
+    },
+    {
+        "id": 20,
+        "question": "Ethidium bromide is used in gel electrophoresis to",
+        "options": [
+            "Cut DNA",
+            "Ligate DNA",
+            "Stain DNA",
+            "Amplify DNA"
+        ],
+        "answer": 2,
+        "explanation": "Ethidium bromide stains DNA for visualization."
+    },
+    {
+        "id": 21,
+        "question": "Transformation is defined as",
+        "options": [
+            "Uptake of protein",
+            "Uptake of RNA",
+            "Uptake of DNA",
+            "Uptake of lipid"
+        ],
+        "answer": 2,
+        "explanation": "Transformation is uptake of foreign DNA."
+    },
+    {
+        "id": 22,
+        "question": "Competent cells are",
+        "options": [
+            "Virus infected cells",
+            "Cells capable of DNA uptake",
+            "Mutated cells",
+            "Dividing cells"
+        ],
+        "answer": 1,
+        "explanation": "Competent cells can take up DNA."
+    },
+    {
+        "id": 23,
+        "question": "Calcium chloride treatment makes cells",
+        "options": [
+            "Resistant",
+            "Competent",
+            "Virulent",
+            "Pathogenic"
+        ],
+        "answer": 1,
+        "explanation": "CaCl2 treatment makes bacterial cells competent."
+    },
+    {
+        "id": 24,
+        "question": "Biolistics is also called",
+        "options": [
+            "Gene gun",
+            "Electroporation",
+            "Microinjection",
+            "Hybridization"
+        ],
+        "answer": 0,
+        "explanation": "Biolistics uses a gene gun."
+    },
+    {
+        "id": 25,
+        "question": "Agrobacterium tumefaciens transfers",
+        "options": [
+            "Plasmid DNA",
+            "Protein",
+            "RNA",
+            "Virus"
+        ],
+        "answer": 0,
+        "explanation": "Agrobacterium transfers T-DNA from plasmid."
+    },
+    {
+        "id": 26,
+        "question": "Ti plasmid is naturally used to infect",
+        "options": [
+            "Animals",
+            "Plants",
+            "Fungi",
+            "Bacteria"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid infects plant cells."
+    },
+    {
+        "id": 27,
+        "question": "Selectable marker gene commonly used in plants confers resistance to",
+        "options": [
+            "Antibiotic",
+            "Herbicide",
+            "Virus",
+            "Fungus"
+        ],
+        "answer": 1,
+        "explanation": "Herbicide resistance genes are used in plants."
+    },
+    {
+        "id": 28,
+        "question": "Bt toxin is produced by",
+        "options": [
+            "Bacillus subtilis",
+            "Bacillus thuringiensis",
+            "Agrobacterium tumefaciens",
+            "Escherichia coli"
+        ],
+        "answer": 1,
+        "explanation": "Bt toxin is produced by Bacillus thuringiensis."
+    },
+    {
+        "id": 29,
+        "question": "Cry genes encode",
+        "options": [
+            "Antibiotics",
+            "Insecticidal proteins",
+            "Hormones",
+            "Enzymes"
+        ],
+        "answer": 1,
+        "explanation": "Cry genes encode insecticidal proteins."
+    },
+    {
+        "id": 30,
+        "question": "Bt cotton is resistant to",
+        "options": [
+            "Aphids",
+            "Whitefly",
+            "Bollworm",
+            "Leaf hopper"
+        ],
+        "answer": 2,
+        "explanation": "Bt cotton is resistant to bollworm."
+    },
+    {
+        "id": 31,
+        "question": "RNA interference involves",
+        "options": [
+            "DNA silencing",
+            "RNA silencing",
+            "Protein degradation",
+            "DNA mutation"
+        ],
+        "answer": 1,
+        "explanation": "RNA interference leads to RNA silencing."
+    },
+    {
+        "id": 32,
+        "question": "RNAi was first discovered in",
+        "options": [
+            "Plants",
+            "Animals",
+            "Nematodes",
+            "Bacteria"
+        ],
+        "answer": 2,
+        "explanation": "RNA interference was discovered in nematodes."
+    },
+    {
+        "id": 33,
+        "question": "Golden rice is enriched with",
+        "options": [
+            "Iron",
+            "Vitamin A",
+            "Vitamin C",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice is rich in beta-carotene, precursor of vitamin A."
+    },
+    {
+        "id": 34,
+        "question": "Gene therapy was first attempted on",
+        "options": [
+            "ADA deficiency",
+            "SCID",
+            "Cancer",
+            "Hemophilia"
+        ],
+        "answer": 0,
+        "explanation": "First gene therapy was for ADA deficiency."
+    },
+    {
+        "id": 35,
+        "question": "ADA deficiency affects",
+        "options": [
+            "Immune system",
+            "Digestive system",
+            "Respiratory system",
+            "Circulatory system"
+        ],
+        "answer": 0,
+        "explanation": "ADA deficiency causes immune disorder."
+    },
+    {
+        "id": 36,
+        "question": "Recombinant insulin is produced using",
+        "options": [
+            "Animal pancreas",
+            "Human pancreas",
+            "E. coli",
+            "Yeast only"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant insulin is produced using E. coli."
+    },
+    {
+        "id": 37,
+        "question": "Insulin consists of how many chains?",
+        "options": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+        ],
+        "answer": 1,
+        "explanation": "Insulin has A and B chains."
+    },
+    {
+        "id": 38,
+        "question": "Humulin is",
+        "options": [
+            "Animal insulin",
+            "Human insulin",
+            "Plant insulin",
+            "Synthetic hormone"
+        ],
+        "answer": 1,
+        "explanation": "Humulin is recombinant human insulin."
+    },
+    {
+        "id": 39,
+        "question": "Biotechnology deals with",
+        "options": [
+            "Plants only",
+            "Animals only",
+            "Microorganisms only",
+            "Living organisms and products"
+        ],
+        "answer": 3,
+        "explanation": "Biotechnology uses living organisms or their products."
+    },
+    {
+        "id": 40,
+        "question": "Downstream processing refers to",
+        "options": [
+            "Gene isolation",
+            "Product purification",
+            "DNA amplification",
+            "Vector selection"
+        ],
+        "answer": 1,
+        "explanation": "Downstream processing involves purification of product."
+    },
+    {
+        "id": 41,
+        "question": "Bioreactors provide",
+        "options": [
+            "Optimal growth conditions",
+            "DNA synthesis",
+            "Protein folding",
+            "Cell division"
+        ],
+        "answer": 0,
+        "explanation": "Bioreactors provide optimal growth conditions."
+    },
+    {
+        "id": 42,
+        "question": "Stirred tank bioreactor is used to",
+        "options": [
+            "Separate DNA",
+            "Grow large cultures",
+            "Amplify genes",
+            "Sequence DNA"
+        ],
+        "answer": 1,
+        "explanation": "Stirred tank bioreactors grow large cultures."
+    },
+    {
+        "id": 43,
+        "question": "Gene cloning involves",
+        "options": [
+            "RNA synthesis",
+            "Protein synthesis",
+            "Formation of recombinant DNA",
+            "Cell division"
+        ],
+        "answer": 2,
+        "explanation": "Gene cloning involves recombinant DNA formation."
+    },
+    {
+        "id": 44,
+        "question": "Restriction sites are",
+        "options": [
+            "Random sequences",
+            "Specific DNA sequences",
+            "RNA sequences",
+            "Protein sequences"
+        ],
+        "answer": 1,
+        "explanation": "Restriction sites are specific DNA sequences."
+    },
+    {
+        "id": 45,
+        "question": "Vectors must have",
+        "options": [
+            "Selectable marker",
+            "Replication origin",
+            "Cloning site",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Vectors require ori, marker and cloning site."
+    },
+    {
+        "id": 46,
+        "question": "Origin of replication is required for",
+        "options": [
+            "Protein synthesis",
+            "DNA replication",
+            "Transcription",
+            "Translation"
+        ],
+        "answer": 1,
+        "explanation": "Ori initiates DNA replication."
+    },
+    {
+        "id": 47,
+        "question": "Palindromic sequence reads same in",
+        "options": [
+            "One direction",
+            "Opposite directions",
+            "Circular DNA",
+            "RNA"
+        ],
+        "answer": 1,
+        "explanation": "Palindromic sequences read same in opposite directions."
+    },
+    {
+        "id": 48,
+        "question": "Selectable markers are generally",
+        "options": [
+            "Lethal genes",
+            "Antibiotic resistance genes",
+            "Hormone genes",
+            "Structural genes"
+        ],
+        "answer": 1,
+        "explanation": "Antibiotic resistance genes act as markers."
+    },
+    {
+        "id": 49,
+        "question": "Expression vectors differ by having",
+        "options": [
+            "Ori only",
+            "Selectable marker only",
+            "Promoter",
+            "Restriction site"
+        ],
+        "answer": 2,
+        "explanation": "Expression vectors contain promoter sequences."
+    },
+    {
+        "id": 50,
+        "question": "ELISA is used to detect",
+        "options": [
+            "DNA",
+            "RNA",
+            "Antigen-antibody interaction",
+            "Protein synthesis"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects antigen-antibody interactions."
+    },
+    {
+        "id": 51,
+        "question": "PCR amplification is exponential because",
+        "options": [
+            "One cycle forms one copy",
+            "Two copies form multiple copies",
+            "DNA degrades",
+            "RNA multiplies"
+        ],
+        "answer": 1,
+        "explanation": "Each cycle doubles the DNA copies."
+    },
+    {
+        "id": 52,
+        "question": "Molecular diagnosis uses",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Both PCR and ELISA",
+            "Neither"
+        ],
+        "answer": 2,
+        "explanation": "Both PCR and ELISA are used."
+    },
+    {
+        "id": 53,
+        "question": "GM crops are produced by",
+        "options": [
+            "Hybridization",
+            "Mutation",
+            "Genetic engineering",
+            "Selection"
+        ],
+        "answer": 2,
+        "explanation": "GM crops are produced by genetic engineering."
+    },
+    {
+        "id": 54,
+        "question": "Transgenic plants contain",
+        "options": [
+            "Foreign protein",
+            "Foreign DNA",
+            "Foreign RNA",
+            "Foreign lipid"
+        ],
+        "answer": 1,
+        "explanation": "Transgenic plants contain foreign DNA."
+    },
+    {
+        "id": 55,
+        "question": "Biotechnology regulation in India is under",
+        "options": [
+            "ICMR",
+            "DBT",
+            "AIIMS",
+            "UGC"
+        ],
+        "answer": 1,
+        "explanation": "Department of Biotechnology regulates biotechnology."
+    },
+    {
+        "id": 56,
+        "question": "Ethical issues in biotechnology include",
+        "options": [
+            "Biosafety",
+            "Biopiracy",
+            "Bioethics",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are ethical issues mentioned in NCERT."
+    },
+    {
+        "id": 57,
+        "question": "Biopiracy refers to",
+        "options": [
+            "Illegal gene transfer",
+            "Unauthorized use of bioresources",
+            "Gene mutation",
+            "DNA theft"
+        ],
+        "answer": 1,
+        "explanation": "Biopiracy is unauthorized use of bioresources."
+    },
+    {
+        "id": 58,
+        "question": "Patenting of life forms raises issue of",
+        "options": [
+            "Economy",
+            "Ethics",
+            "Health",
+            "Education"
+        ],
+        "answer": 1,
+        "explanation": "Ethical issues arise from patenting life forms."
+    },
+    {
+        "id": 59,
+        "question": "GM crops reduce use of",
+        "options": [
+            "Water",
+            "Fertilizers",
+            "Chemical pesticides",
+            "Seeds"
+        ],
+        "answer": 2,
+        "explanation": "GM crops reduce chemical pesticide use."
+    },
+    {
+        "id": 60,
+        "question": "Bt toxin becomes active in",
+        "options": [
+            "Human gut",
+            "Insect gut",
+            "Plant cell",
+            "Soil"
+        ],
+        "answer": 1,
+        "explanation": "Bt toxin activates in alkaline insect gut."
+    },
+    {
+        "id": 61,
+        "question": "Cry proteins are initially produced as",
+        "options": [
+            "Active toxins",
+            "Inactive protoxins",
+            "Enzymes",
+            "Hormones"
+        ],
+        "answer": 1,
+        "explanation": "Cry proteins are produced as protoxins."
+    },
+    {
+        "id": 62,
+        "question": "RNAi in plants uses",
+        "options": [
+            "Single-stranded RNA",
+            "Double-stranded RNA",
+            "DNA",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "RNA interference uses double-stranded RNA."
+    },
+    {
+        "id": 63,
+        "question": "First recombinant DNA molecule was produced by",
+        "options": [
+            "Watson and Crick",
+            "Stanley Cohen and Herbert Boyer",
+            "Meselson and Stahl",
+            "Hargobind Khorana"
+        ],
+        "answer": 1,
+        "explanation": "Cohen and Boyer produced first recombinant DNA."
+    },
+    {
+        "id": 64,
+        "question": "Cloning vector pBR322 was constructed by",
+        "options": [
+            "Boyer",
+            "Cohen",
+            "Bolivar and Rodriguez",
+            "Watson"
+        ],
+        "answer": 2,
+        "explanation": "pBR322 was constructed by Bolivar and Rodriguez."
+    },
+    {
+        "id": 65,
+        "question": "Selectable marker helps in",
+        "options": [
+            "DNA replication",
+            "Identification of recombinants",
+            "Protein folding",
+            "Gene silencing"
+        ],
+        "answer": 1,
+        "explanation": "Markers help identify recombinants."
+    },
+    {
+        "id": 66,
+        "question": "Blue white screening uses",
+        "options": [
+            "lacZ gene",
+            "ampR gene",
+            "tetR gene",
+            "ori"
+        ],
+        "answer": 0,
+        "explanation": "Blue white screening is based on lacZ gene."
+    },
+    {
+        "id": 67,
+        "question": "X-gal is a",
+        "options": [
+            "Antibiotic",
+            "Chromogenic substrate",
+            "Vector",
+            "Enzyme"
+        ],
+        "answer": 1,
+        "explanation": "X-gal is a chromogenic substrate."
+    },
+    {
+        "id": 68,
+        "question": "White colonies indicate",
+        "options": [
+            "Non-recombinant",
+            "Recombinant",
+            "Mutant",
+            "Pathogenic"
+        ],
+        "answer": 1,
+        "explanation": "White colonies indicate recombinants."
+    },
+    {
+        "id": 69,
+        "question": "Insulin gene was first expressed in",
+        "options": [
+            "Yeast",
+            "Bacteria",
+            "Plant",
+            "Animal"
+        ],
+        "answer": 1,
+        "explanation": "Insulin gene was expressed in bacteria."
+    },
+    {
+        "id": 70,
+        "question": "Somatic gene therapy targets",
+        "options": [
+            "Germ cells",
+            "Somatic cells",
+            "Zygote",
+            "Gametes"
+        ],
+        "answer": 1,
+        "explanation": "Somatic gene therapy targets somatic cells."
+    },
+    {
+        "id": 71,
+        "question": "Germline gene therapy affects",
+        "options": [
+            "Only patient",
+            "Future generations",
+            "Only tissues",
+            "Only organs"
+        ],
+        "answer": 1,
+        "explanation": "Germline therapy affects future generations."
+    },
+    {
+        "id": 72,
+        "question": "Bioremediation uses",
+        "options": [
+            "Plants",
+            "Microorganisms",
+            "Animals",
+            "Chemicals"
+        ],
+        "answer": 1,
+        "explanation": "Bioremediation uses microorganisms."
+    },
+    {
+        "id": 73,
+        "question": "GM microbes are used for",
+        "options": [
+            "Fuel",
+            "Medicine",
+            "Pollution control",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "GM microbes are used for multiple purposes."
+    },
+    {
+        "id": 74,
+        "question": "Hirudin is used as",
+        "options": [
+            "Antibiotic",
+            "Anticoagulant",
+            "Hormone",
+            "Enzyme"
+        ],
+        "answer": 1,
+        "explanation": "Hirudin is an anticoagulant."
+    },
+    {
+        "id": 75,
+        "question": "Recombinant vaccines are",
+        "options": [
+            "Killed vaccines",
+            "Live vaccines",
+            "Genetically engineered vaccines",
+            "Toxoids"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant vaccines are genetically engineered."
+    },
+    {
+        "id": 76,
+        "question": "Hepatitis B vaccine is produced using",
+        "options": [
+            "Bacteria",
+            "Yeast",
+            "Plant",
+            "Virus"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B vaccine is produced using yeast."
+    },
+    {
+        "id": 77,
+        "question": "DNA fingerprinting is based on",
+        "options": [
+            "RFLP",
+            "PCR",
+            "ELISA",
+            "Hybridization"
+        ],
+        "answer": 0,
+        "explanation": "DNA fingerprinting is based on RFLP."
+    },
+    {
+        "id": 78,
+        "question": "VNTRs are",
+        "options": [
+            "Coding sequences",
+            "Non-coding repetitive DNA",
+            "RNA sequences",
+            "Protein regions"
+        ],
+        "answer": 1,
+        "explanation": "VNTRs are non-coding repetitive DNA."
+    },
+    {
+        "id": 79,
+        "question": "DNA fingerprinting was developed by",
+        "options": [
+            "Watson",
+            "Crick",
+            "Alec Jeffreys",
+            "Sanger"
+        ],
+        "answer": 2,
+        "explanation": "DNA fingerprinting was developed by Alec Jeffreys."
+    },
+    {
+        "id": 80,
+        "question": "Molecular diagnosis allows detection at",
+        "options": [
+            "Symptomatic stage",
+            "Late stage",
+            "Early stage",
+            "Terminal stage"
+        ],
+        "answer": 2,
+        "explanation": "Molecular diagnosis detects disease early."
+    },
+    {
+        "id": 81,
+        "question": "PCR can detect",
+        "options": [
+            "Low amount of DNA",
+            "Only proteins",
+            "Only RNA",
+            "Lipids"
+        ],
+        "answer": 0,
+        "explanation": "PCR detects even minute amounts of DNA."
+    },
+    {
+        "id": 82,
+        "question": "GM crops help in",
+        "options": [
+            "Higher yield",
+            "Stress resistance",
+            "Reduced pesticide use",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All benefits are mentioned in NCERT."
+    },
+    {
+        "id": 83,
+        "question": "Bt toxin gene introduced into plants is",
+        "options": [
+            "Activated form",
+            "Protoxin form",
+            "Inactive RNA",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "Bt gene produces protoxin form."
+    },
+    {
+        "id": 84,
+        "question": "RNAi technology was used to develop resistance against",
+        "options": [
+            "Virus",
+            "Nematode",
+            "Bacteria",
+            "Fungus"
+        ],
+        "answer": 1,
+        "explanation": "RNAi was used against nematode in plants."
+    },
+    {
+        "id": 85,
+        "question": "Flavr Savr tomato shows delayed",
+        "options": [
+            "Ripening",
+            "Germination",
+            "Flowering",
+            "Senescence"
+        ],
+        "answer": 0,
+        "explanation": "Flavr Savr tomato shows delayed ripening."
+    },
+    {
+        "id": 86,
+        "question": "Antisense RNA prevents",
+        "options": [
+            "Translation",
+            "Replication",
+            "Transcription",
+            "Mutation"
+        ],
+        "answer": 0,
+        "explanation": "Antisense RNA blocks translation."
+    },
+    {
+        "id": 87,
+        "question": "Biotechnology aims at",
+        "options": [
+            "Industrial production",
+            "Health care",
+            "Agriculture",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are aims of biotechnology."
+    },
+    {
+        "id": 88,
+        "question": "Restriction enzymes are named based on",
+        "options": [
+            "Disease",
+            "Host organism",
+            "Discovery year",
+            "Function"
+        ],
+        "answer": 1,
+        "explanation": "They are named after host organism."
+    },
+    {
+        "id": 89,
+        "question": "EcoRI is obtained from",
+        "options": [
+            "Escherichia coli",
+            "Enterobacter",
+            "Entamoeba",
+            "Euglena"
+        ],
+        "answer": 0,
+        "explanation": "EcoRI is obtained from Escherichia coli."
+    },
+    {
+        "id": 90,
+        "question": "Blunt ends are produced by",
+        "options": [
+            "EcoRI",
+            "HindIII",
+            "SmaI",
+            "BamHI"
+        ],
+        "answer": 2,
+        "explanation": "SmaI produces blunt ends."
+    },
+    {
+        "id": 91,
+        "question": "Biotechnology safety is ensured by",
+        "options": [
+            "Ethical committees",
+            "Biosafety regulations",
+            "Guidelines",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All ensure biotechnology safety."
+    },
+    {
+        "id": 92,
+        "question": "GEAC stands for",
+        "options": [
+            "Genetic Engineering Approval Committee",
+            "General Engineering Advisory Committee",
+            "Genome Editing Authority Council",
+            "Genetic Ethics Advisory Committee"
+        ],
+        "answer": 0,
+        "explanation": "GEAC regulates GM organisms."
+    },
+    {
+        "id": 93,
+        "question": "Downstream processing includes",
+        "options": [
+            "Harvesting",
+            "Purification",
+            "Quality control",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All steps are part of downstream processing."
+    },
+    {
+        "id": 94,
+        "question": "Upstream processing includes",
+        "options": [
+            "Product formulation",
+            "Growth of cells",
+            "Packaging",
+            "Marketing"
+        ],
+        "answer": 1,
+        "explanation": "Upstream processing involves cell growth."
+    },
+    {
+        "id": 95,
+        "question": "Biotechnology uses interdisciplinary sciences including",
+        "options": [
+            "Physics",
+            "Chemistry",
+            "Biology",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Biotechnology is interdisciplinary."
+    },
+    {
+        "id": 96,
+        "question": "Recombinant DNA technology was first regulated due to",
+        "options": [
+            "Ethical issues",
+            "Health risks",
+            "Environmental risks",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All concerns led to regulation."
+    },
+    {
+        "id": 97,
+        "question": "Asilomar Conference was related to",
+        "options": [
+            "Cloning",
+            "Biosafety",
+            "Gene therapy",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Asilomar Conference focused on biosafety."
+    },
+    {
+        "id": 98,
+        "question": "Biotechnology has led to production of",
+        "options": [
+            "Vaccines",
+            "Hormones",
+            "Enzymes",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are products of biotechnology."
+    },
+    {
+        "id": 99,
+        "question": "Recombinant therapeutics are safer because",
+        "options": [
+            "Less immune response",
+            "More side effects",
+            "Animal origin",
+            "Higher dose"
+        ],
+        "answer": 0,
+        "explanation": "They cause less immune response."
+    },
+    {
+        "id": 100,
+        "question": "Biotechnology in agriculture mainly aims at",
+        "options": [
+            "Food security",
+            "Industrialization",
+            "Urbanization",
+            "Mechanization"
+        ],
+        "answer": 0,
+        "explanation": "Biotechnology aims to improve food security."
+    },
+    {
+        "id": 101,
+        "question": "Which vector is specifically modified to express a foreign gene in host cells?",
+        "options": [
+            "Cloning vector",
+            "Shuttle vector",
+            "Expression vector",
+            "Cosmid"
+        ],
+        "answer": 2,
+        "explanation": "Expression vectors contain promoter sequences for gene expression."
+    },
+    {
+        "id": 102,
+        "question": "Promoter is defined as a DNA sequence that",
+        "options": [
+            "Codes for protein",
+            "Initiates transcription",
+            "Terminates translation",
+            "Replicates DNA"
+        ],
+        "answer": 1,
+        "explanation": "Promoters initiate transcription by RNA polymerase."
+    },
+    {
+        "id": 103,
+        "question": "Lac operon based expression system uses",
+        "options": [
+            "lacZ promoter",
+            "trp promoter",
+            "ara promoter",
+            "T7 promoter"
+        ],
+        "answer": 0,
+        "explanation": "Lac operon system uses lac promoter."
+    },
+    {
+        "id": 104,
+        "question": "IPTG is used in biotechnology to",
+        "options": [
+            "Inhibit transcription",
+            "Induce transcription",
+            "Stop translation",
+            "Digest DNA"
+        ],
+        "answer": 1,
+        "explanation": "IPTG induces transcription in lac operon based systems."
+    },
+    {
+        "id": 105,
+        "question": "Selectable marker genes are essential because",
+        "options": [
+            "Vectors cannot replicate",
+            "Transformation efficiency is low",
+            "Only few cells take up DNA",
+            "DNA degrades rapidly"
+        ],
+        "answer": 2,
+        "explanation": "Only a small fraction of cells take up recombinant DNA."
+    },
+    {
+        "id": 106,
+        "question": "Insertional inactivation occurs when",
+        "options": [
+            "Vector self-ligates",
+            "Foreign DNA inserts into marker gene",
+            "DNA fails to replicate",
+            "Protein misfolds"
+        ],
+        "answer": 1,
+        "explanation": "Insertion disrupts marker gene function."
+    },
+    {
+        "id": 107,
+        "question": "Which gene is inactivated during blue-white screening?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "lacZ gene is inactivated in recombinants."
+    },
+    {
+        "id": 108,
+        "question": "Alkaline pH of insect gut is essential for",
+        "options": [
+            "Cry gene transcription",
+            "Activation of Bt toxin",
+            "Protein synthesis",
+            "DNA replication"
+        ],
+        "answer": 1,
+        "explanation": "Bt protoxin is activated in alkaline insect gut."
+    },
+    {
+        "id": 109,
+        "question": "Bt toxin kills insects by",
+        "options": [
+            "Blocking digestion",
+            "Creating pores in gut epithelium",
+            "Stopping respiration",
+            "Inhibiting nerves"
+        ],
+        "answer": 1,
+        "explanation": "Activated toxin forms pores in gut epithelial cells."
+    },
+    {
+        "id": 110,
+        "question": "RNA interference leads to",
+        "options": [
+            "DNA degradation",
+            "mRNA degradation",
+            "Protein denaturation",
+            "Gene mutation"
+        ],
+        "answer": 1,
+        "explanation": "RNAi causes degradation of target mRNA."
+    },
+    {
+        "id": 111,
+        "question": "Double-stranded RNA in RNAi is produced by",
+        "options": [
+            "Virus",
+            "Host genome",
+            "Transgene",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "dsRNA can originate from virus, transgene or host."
+    },
+    {
+        "id": 112,
+        "question": "Golden rice was developed to combat deficiency of",
+        "options": [
+            "Iron",
+            "Iodine",
+            "Vitamin A",
+            "Vitamin D"
+        ],
+        "answer": 2,
+        "explanation": "Golden rice is rich in beta-carotene."
+    },
+    {
+        "id": 113,
+        "question": "Beta-carotene is a precursor of",
+        "options": [
+            "Vitamin B",
+            "Vitamin C",
+            "Vitamin A",
+            "Vitamin K"
+        ],
+        "answer": 2,
+        "explanation": "Beta-carotene is precursor of vitamin A."
+    },
+    {
+        "id": 114,
+        "question": "Gene therapy involves",
+        "options": [
+            "Replacement of defective gene",
+            "Removal of gene",
+            "Mutation of gene",
+            "Silencing of gene"
+        ],
+        "answer": 0,
+        "explanation": "Gene therapy replaces defective gene with functional gene."
+    },
+    {
+        "id": 115,
+        "question": "ADA gene therapy initially failed because",
+        "options": [
+            "Immune rejection",
+            "Short-lived gene expression",
+            "Wrong vector",
+            "High mutation rate"
+        ],
+        "answer": 1,
+        "explanation": "Gene expression was short-lived."
+    },
+    {
+        "id": 116,
+        "question": "Permanent cure of ADA deficiency requires gene insertion in",
+        "options": [
+            "Bone marrow cells",
+            "Blood plasma",
+            "Lymphocytes",
+            "Skin cells"
+        ],
+        "answer": 0,
+        "explanation": "Gene insertion in bone marrow cells gives permanent cure."
+    },
+    {
+        "id": 117,
+        "question": "Recombinant insulin production required removal of",
+        "options": [
+            "Signal peptide",
+            "C-peptide",
+            "A chain",
+            "B chain"
+        ],
+        "answer": 1,
+        "explanation": "C-peptide was removed to produce functional insulin."
+    },
+    {
+        "id": 118,
+        "question": "Earlier insulin preparations caused allergy because they were",
+        "options": [
+            "Human insulin",
+            "Animal insulin",
+            "Synthetic insulin",
+            "Plant insulin"
+        ],
+        "answer": 1,
+        "explanation": "Animal insulin caused allergic reactions."
+    },
+    {
+        "id": 119,
+        "question": "Downstream processing starts after",
+        "options": [
+            "Gene cloning",
+            "Product formation",
+            "Cell growth",
+            "DNA replication"
+        ],
+        "answer": 1,
+        "explanation": "Downstream processing begins after product formation."
+    },
+    {
+        "id": 120,
+        "question": "Fermenter and bioreactor are used interchangeably because both",
+        "options": [
+            "Separate proteins",
+            "Grow microbes",
+            "Amplify DNA",
+            "Sequence genes"
+        ],
+        "answer": 1,
+        "explanation": "Both grow microbes under controlled conditions."
+    },
+    {
+        "id": 121,
+        "question": "Batch culture in bioreactor means",
+        "options": [
+            "Continuous supply of nutrients",
+            "Single addition of nutrients",
+            "No aeration",
+            "No stirring"
+        ],
+        "answer": 1,
+        "explanation": "Batch culture involves single nutrient addition."
+    },
+    {
+        "id": 122,
+        "question": "Continuous culture allows",
+        "options": [
+            "Limited growth",
+            "Constant growth",
+            "No growth",
+            "Cell death"
+        ],
+        "answer": 1,
+        "explanation": "Continuous culture maintains constant growth."
+    },
+    {
+        "id": 123,
+        "question": "Gene cloning requires insertion of gene into",
+        "options": [
+            "Chromosome",
+            "Vector",
+            "Ribosome",
+            "Mitochondria"
+        ],
+        "answer": 1,
+        "explanation": "Gene is inserted into vector for cloning."
+    },
+    {
+        "id": 124,
+        "question": "EcoRI recognizes a sequence that is",
+        "options": [
+            "Random",
+            "Palindromic",
+            "Repeated",
+            "Non-coding"
+        ],
+        "answer": 1,
+        "explanation": "EcoRI recognizes palindromic sequence."
+    },
+    {
+        "id": 125,
+        "question": "Restriction enzymes protect host DNA by",
+        "options": [
+            "Methylation",
+            "Mutation",
+            "Repair",
+            "Replication"
+        ],
+        "answer": 0,
+        "explanation": "Host DNA is methylated to prevent cleavage."
+    },
+    {
+        "id": 126,
+        "question": "DNA ligase requires which molecule for activity?",
+        "options": [
+            "ATP",
+            "GTP",
+            "NAD only",
+            "FAD"
+        ],
+        "answer": 0,
+        "explanation": "DNA ligase uses ATP for ligation."
+    },
+    {
+        "id": 127,
+        "question": "Gel electrophoresis uses agarose because it",
+        "options": [
+            "Conducts electricity",
+            "Forms porous matrix",
+            "Binds DNA",
+            "Cuts DNA"
+        ],
+        "answer": 1,
+        "explanation": "Agarose forms a porous matrix for separation."
+    },
+    {
+        "id": 128,
+        "question": "Smaller DNA fragments move",
+        "options": [
+            "Slower",
+            "Faster",
+            "Same speed",
+            "Backward"
+        ],
+        "answer": 1,
+        "explanation": "Smaller fragments move faster in gel."
+    },
+    {
+        "id": 129,
+        "question": "UV light is used after electrophoresis to",
+        "options": [
+            "Cut DNA",
+            "Visualize DNA",
+            "Amplify DNA",
+            "Ligate DNA"
+        ],
+        "answer": 1,
+        "explanation": "DNA stained with ethidium bromide fluoresces under UV."
+    },
+    {
+        "id": 130,
+        "question": "Elution refers to",
+        "options": [
+            "DNA cutting",
+            "DNA staining",
+            "DNA recovery from gel",
+            "DNA amplification"
+        ],
+        "answer": 2,
+        "explanation": "Elution recovers DNA fragments from gel."
+    },
+    {
+        "id": 131,
+        "question": "Chemical method of transformation uses",
+        "options": [
+            "CaCl2",
+            "MgCl2",
+            "NaCl",
+            "KCl"
+        ],
+        "answer": 0,
+        "explanation": "Calcium chloride is used to make cells competent."
+    },
+    {
+        "id": 132,
+        "question": "Heat shock in transformation facilitates",
+        "options": [
+            "DNA binding",
+            "DNA uptake",
+            "DNA replication",
+            "DNA ligation"
+        ],
+        "answer": 1,
+        "explanation": "Heat shock helps DNA enter bacterial cells."
+    },
+    {
+        "id": 133,
+        "question": "Microinjection involves direct injection of DNA into",
+        "options": [
+            "Nucleus",
+            "Cytoplasm",
+            "Cell wall",
+            "Mitochondria"
+        ],
+        "answer": 0,
+        "explanation": "DNA is injected directly into nucleus."
+    },
+    {
+        "id": 134,
+        "question": "Electroporation uses",
+        "options": [
+            "Heat",
+            "Chemical",
+            "Electric pulse",
+            "Radiation"
+        ],
+        "answer": 2,
+        "explanation": "Electric pulse creates pores in membrane."
+    },
+    {
+        "id": 135,
+        "question": "Agrobacterium mediated gene transfer exploits",
+        "options": [
+            "Plasmid replication",
+            "Natural infection mechanism",
+            "Protein synthesis",
+            "DNA repair"
+        ],
+        "answer": 1,
+        "explanation": "It uses natural infection ability of Agrobacterium."
+    },
+    {
+        "id": 136,
+        "question": "T-DNA is part of",
+        "options": [
+            "Ri plasmid",
+            "Ti plasmid",
+            "pBR322",
+            "Cosmid"
+        ],
+        "answer": 1,
+        "explanation": "T-DNA is transferred from Ti plasmid."
+    },
+    {
+        "id": 137,
+        "question": "Disarmed Ti plasmid means",
+        "options": [
+            "Virulent",
+            "Non-pathogenic",
+            "Inactive",
+            "Deleted"
+        ],
+        "answer": 1,
+        "explanation": "Tumor causing genes are removed."
+    },
+    {
+        "id": 138,
+        "question": "Herbicide tolerant plants allow use of",
+        "options": [
+            "Less water",
+            "Specific herbicides",
+            "More fertilizers",
+            "More pesticides"
+        ],
+        "answer": 1,
+        "explanation": "They tolerate specific herbicides."
+    },
+    {
+        "id": 139,
+        "question": "Bt cotton contains gene from",
+        "options": [
+            "Virus",
+            "Bacterium",
+            "Fungus",
+            "Plant"
+        ],
+        "answer": 1,
+        "explanation": "Gene is from Bacillus thuringiensis."
+    },
+    {
+        "id": 140,
+        "question": "CryIAc and CryIIAb genes provide resistance against",
+        "options": [
+            "Aphids",
+            "Bollworms",
+            "Whiteflies",
+            "Beetles"
+        ],
+        "answer": 1,
+        "explanation": "These Cry genes target bollworms."
+    },
+    {
+        "id": 141,
+        "question": "RNAi based nematode resistance was shown in",
+        "options": [
+            "Tobacco",
+            "Cotton",
+            "Tomato",
+            "Potato"
+        ],
+        "answer": 2,
+        "explanation": "RNAi was used in tomato against nematode."
+    },
+    {
+        "id": 142,
+        "question": "Antisense RNA technology reduces",
+        "options": [
+            "Protein synthesis",
+            "DNA replication",
+            "RNA transcription",
+            "Cell division"
+        ],
+        "answer": 0,
+        "explanation": "Antisense RNA blocks translation."
+    },
+    {
+        "id": 143,
+        "question": "Flavr Savr tomato delays ripening by inhibiting",
+        "options": [
+            "Ethylene",
+            "Pectinase",
+            "Polygalacturonase",
+            "Cellulase"
+        ],
+        "answer": 2,
+        "explanation": "Polygalacturonase enzyme is inhibited."
+    },
+    {
+        "id": 144,
+        "question": "GM crops improve nutritional quality by",
+        "options": [
+            "Adding vitamins",
+            "Removing toxins",
+            "Enhancing nutrients",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All improvements are possible through GM crops."
+    },
+    {
+        "id": 145,
+        "question": "Recombinant vaccines are safer because they",
+        "options": [
+            "Contain whole pathogen",
+            "Contain only antigenic protein",
+            "Cause disease",
+            "Are live vaccines"
+        ],
+        "answer": 1,
+        "explanation": "They contain only antigenic protein."
+    },
+    {
+        "id": 146,
+        "question": "Hepatitis B surface antigen is produced in",
+        "options": [
+            "Bacteria",
+            "Yeast",
+            "Plant",
+            "Animal cell"
+        ],
+        "answer": 1,
+        "explanation": "Produced in yeast cells."
+    },
+    {
+        "id": 147,
+        "question": "DNA fingerprinting is useful in",
+        "options": [
+            "Forensics",
+            "Paternity testing",
+            "Crime detection",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are applications of DNA fingerprinting."
+    },
+    {
+        "id": 148,
+        "question": "RFLP stands for",
+        "options": [
+            "Random Fragment Length Polymorphism",
+            "Restriction Fragment Length Polymorphism",
+            "Repeated Fragment Length Polymorphism",
+            "Recombinant Fragment Length Polymorphism"
+        ],
+        "answer": 1,
+        "explanation": "RFLP is Restriction Fragment Length Polymorphism."
+    },
+    {
+        "id": 149,
+        "question": "VNTRs show high degree of",
+        "options": [
+            "Similarity",
+            "Mutation",
+            "Polymorphism",
+            "Conservation"
+        ],
+        "answer": 2,
+        "explanation": "VNTRs are highly polymorphic."
+    },
+    {
+        "id": 150,
+        "question": "DNA fingerprinting differs between individuals because of",
+        "options": [
+            "Coding genes",
+            "Non-coding DNA",
+            "RNA",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "Differences are in non-coding VNTR regions."
+    },
+    {
+        "id": 151,
+        "question": "PCR based diagnosis is preferred because it is",
+        "options": [
+            "Slow",
+            "Less sensitive",
+            "Highly sensitive",
+            "Inaccurate"
+        ],
+        "answer": 2,
+        "explanation": "PCR is highly sensitive."
+    },
+    {
+        "id": 152,
+        "question": "ELISA is based on",
+        "options": [
+            "DNA-DNA interaction",
+            "RNA-RNA interaction",
+            "Antigen-antibody interaction",
+            "Protein-protein interaction"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects antigen-antibody reactions."
+    },
+    {
+        "id": 153,
+        "question": "Biopiracy mainly affects",
+        "options": [
+            "Developed nations",
+            "Developing nations",
+            "Researchers",
+            "Industries"
+        ],
+        "answer": 1,
+        "explanation": "Developing nations are affected by biopiracy."
+    },
+    {
+        "id": 154,
+        "question": "Traditional knowledge is protected to prevent",
+        "options": [
+            "Bioethics",
+            "Biopiracy",
+            "Biosafety",
+            "Biotechnology"
+        ],
+        "answer": 1,
+        "explanation": "Protection prevents biopiracy."
+    },
+    {
+        "id": 155,
+        "question": "GEAC evaluates",
+        "options": [
+            "Food safety",
+            "GM organisms",
+            "Medical drugs",
+            "Vaccines"
+        ],
+        "answer": 1,
+        "explanation": "GEAC regulates GM organisms."
+    },
+    {
+        "id": 156,
+        "question": "Biosafety refers to protection against",
+        "options": [
+            "Economic loss",
+            "Biological hazards",
+            "Ethical issues",
+            "Industrial waste"
+        ],
+        "answer": 1,
+        "explanation": "Biosafety deals with biological hazards."
+    },
+    {
+        "id": 157,
+        "question": "GM foods are tested for",
+        "options": [
+            "Taste",
+            "Safety",
+            "Cost",
+            "Shelf life"
+        ],
+        "answer": 1,
+        "explanation": "GM foods are tested for safety."
+    },
+    {
+        "id": 158,
+        "question": "Bioremediation involves removal of pollutants using",
+        "options": [
+            "Plants",
+            "Microbes",
+            "Chemicals",
+            "Radiation"
+        ],
+        "answer": 1,
+        "explanation": "Microorganisms are used in bioremediation."
+    },
+    {
+        "id": 159,
+        "question": "Genetically engineered microbes help in",
+        "options": [
+            "Oil spill cleanup",
+            "Sewage treatment",
+            "Pollution control",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are applications of GM microbes."
+    },
+    {
+        "id": 160,
+        "question": "Hirudin is obtained from",
+        "options": [
+            "Bacteria",
+            "Leech",
+            "Frog",
+            "Snake"
+        ],
+        "answer": 1,
+        "explanation": "Hirudin is obtained from leech."
+    },
+    {
+        "id": 161,
+        "question": "Somatic gene therapy does not affect",
+        "options": [
+            "Patient",
+            "Somatic cells",
+            "Germ cells",
+            "Target tissue"
+        ],
+        "answer": 2,
+        "explanation": "Somatic therapy does not affect germ cells."
+    },
+    {
+        "id": 162,
+        "question": "Germline gene therapy is controversial because it affects",
+        "options": [
+            "Individual",
+            "Future generations",
+            "Only organs",
+            "Only tissues"
+        ],
+        "answer": 1,
+        "explanation": "Changes are heritable."
+    },
+    {
+        "id": 163,
+        "question": "Ethical issues in biotechnology arise due to",
+        "options": [
+            "Manipulation of life",
+            "GM organisms",
+            "Gene therapy",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All raise ethical concerns."
+    },
+    {
+        "id": 164,
+        "question": "Asilomar conference resulted in",
+        "options": [
+            "Ban on rDNA",
+            "Guidelines for rDNA research",
+            "Promotion of cloning",
+            "Discovery of PCR"
+        ],
+        "answer": 1,
+        "explanation": "It framed biosafety guidelines."
+    },
+    {
+        "id": 165,
+        "question": "Recombinant therapeutics reduce risk of",
+        "options": [
+            "Infection",
+            "Immune reaction",
+            "Allergy",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "They are safer than animal-derived products."
+    },
+    {
+        "id": 166,
+        "question": "Human insulin produced by rDNA technology is identical to",
+        "options": [
+            "Porcine insulin",
+            "Bovine insulin",
+            "Natural human insulin",
+            "Synthetic insulin"
+        ],
+        "answer": 2,
+        "explanation": "It is identical to human insulin."
+    },
+    {
+        "id": 167,
+        "question": "Biotechnology in medicine mainly helps in",
+        "options": [
+            "Diagnosis",
+            "Therapy",
+            "Prevention",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All aspects are improved."
+    },
+    {
+        "id": 168,
+        "question": "Biotechnology in agriculture aims to",
+        "options": [
+            "Increase yield",
+            "Improve resistance",
+            "Enhance nutrition",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All aims are mentioned in NCERT."
+    },
+    {
+        "id": 169,
+        "question": "Genetic engineering differs from traditional breeding because it is",
+        "options": [
+            "Random",
+            "Specific",
+            "Slow",
+            "Uncontrolled"
+        ],
+        "answer": 1,
+        "explanation": "Genetic engineering is precise and specific."
+    },
+    {
+        "id": 170,
+        "question": "Recombinant DNA technology combines DNA from",
+        "options": [
+            "Same species",
+            "Different species",
+            "Same cell",
+            "Same chromosome"
+        ],
+        "answer": 1,
+        "explanation": "It combines DNA from different sources."
+    },
+    {
+        "id": 171,
+        "question": "Cloned genes can be expressed in",
+        "options": [
+            "Prokaryotes",
+            "Eukaryotes",
+            "Both",
+            "Neither"
+        ],
+        "answer": 2,
+        "explanation": "Genes can be expressed in both systems."
+    },
+    {
+        "id": 172,
+        "question": "Vectors are carriers of",
+        "options": [
+            "Proteins",
+            "RNA",
+            "Foreign DNA",
+            "Enzymes"
+        ],
+        "answer": 2,
+        "explanation": "Vectors carry foreign DNA."
+    },
+    {
+        "id": 173,
+        "question": "High copy number vectors increase",
+        "options": [
+            "Cell size",
+            "Protein yield",
+            "Mutation",
+            "Cell death"
+        ],
+        "answer": 1,
+        "explanation": "More copies increase product yield."
+    },
+    {
+        "id": 174,
+        "question": "Low copy number vectors are used when",
+        "options": [
+            "Gene is toxic",
+            "Gene is inactive",
+            "Protein is unstable",
+            "Cell grows slowly"
+        ],
+        "answer": 0,
+        "explanation": "Toxic genes require low copy number."
+    },
+    {
+        "id": 175,
+        "question": "PCR based diagnosis can detect disease",
+        "options": [
+            "After symptoms",
+            "Before symptoms",
+            "At death",
+            "Only after treatment"
+        ],
+        "answer": 1,
+        "explanation": "PCR allows early detection."
+    },
+    {
+        "id": 176,
+        "question": "Biotechnology laws aim to protect",
+        "options": [
+            "Environment",
+            "Human health",
+            "Biodiversity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All protections are intended."
+    },
+    {
+        "id": 177,
+        "question": "Transgenic animals are used for",
+        "options": [
+            "Disease study",
+            "Drug testing",
+            "Biological products",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All uses are mentioned in NCERT."
+    },
+    {
+        "id": 178,
+        "question": "Rosie is a transgenic",
+        "options": [
+            "Cow",
+            "Goat",
+            "Sheep",
+            "Mouse"
+        ],
+        "answer": 0,
+        "explanation": "Rosie is a transgenic cow."
+    },
+    {
+        "id": 179,
+        "question": "Rosie produced milk enriched with",
+        "options": [
+            "Insulin",
+            "Alpha-lactalbumin",
+            "Casein",
+            "Hemoglobin"
+        ],
+        "answer": 1,
+        "explanation": "Milk was enriched with alpha-lactalbumin."
+    },
+    {
+        "id": 180,
+        "question": "Biotechnology contributes to food security by",
+        "options": [
+            "Increasing yield",
+            "Reducing losses",
+            "Improving quality",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All contribute to food security."
+    },
+    {
+        "id": 181,
+        "question": "Genetically modified organisms are evaluated for",
+        "options": [
+            "Risk assessment",
+            "Biosafety",
+            "Environmental impact",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All evaluations are necessary."
+    },
+    {
+        "id": 182,
+        "question": "Public concern about GM foods relates to",
+        "options": [
+            "Taste",
+            "Cost",
+            "Safety",
+            "Availability"
+        ],
+        "answer": 2,
+        "explanation": "Safety is main concern."
+    },
+    {
+        "id": 183,
+        "question": "Intellectual Property Rights protect",
+        "options": [
+            "Ideas",
+            "Discoveries",
+            "Innovations",
+            "Traditional knowledge"
+        ],
+        "answer": 2,
+        "explanation": "IPR protects innovations."
+    },
+    {
+        "id": 184,
+        "question": "Patent allows inventor to",
+        "options": [
+            "Share freely",
+            "Commercially exploit",
+            "Hide invention",
+            "Destroy invention"
+        ],
+        "answer": 1,
+        "explanation": "Patent grants commercial rights."
+    },
+    {
+        "id": 185,
+        "question": "Traditional knowledge holders demand",
+        "options": [
+            "Free access",
+            "Benefit sharing",
+            "No use",
+            "Patent rights"
+        ],
+        "answer": 1,
+        "explanation": "They demand benefit sharing."
+    },
+    {
+        "id": 186,
+        "question": "Biotechnology education integrates",
+        "options": [
+            "Theory only",
+            "Practical only",
+            "Multiple disciplines",
+            "Single subject"
+        ],
+        "answer": 2,
+        "explanation": "It integrates multiple disciplines."
+    },
+    {
+        "id": 187,
+        "question": "Recombinant DNA research began in",
+        "options": [
+            "1960s",
+            "1970s",
+            "1980s",
+            "1990s"
+        ],
+        "answer": 1,
+        "explanation": "rDNA research began in 1970s."
+    },
+    {
+        "id": 188,
+        "question": "Cohen and Boyer experiment was done in",
+        "options": [
+            "1968",
+            "1972",
+            "1974",
+            "1980"
+        ],
+        "answer": 1,
+        "explanation": "First rDNA experiment was in 1972."
+    },
+    {
+        "id": 189,
+        "question": "Biotechnology primarily manipulates",
+        "options": [
+            "Cells",
+            "DNA",
+            "Proteins",
+            "Lipids"
+        ],
+        "answer": 1,
+        "explanation": "DNA manipulation is central."
+    },
+    {
+        "id": 190,
+        "question": "Modern biotechnology is based on",
+        "options": [
+            "Fermentation",
+            "Genetic engineering",
+            "Hybridization",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Modern biotechnology relies on genetic engineering."
+    },
+    {
+        "id": 191,
+        "question": "Biotechnology products must undergo",
+        "options": [
+            "Quality control",
+            "Clinical trials",
+            "Field trials",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All steps are required."
+    },
+    {
+        "id": 192,
+        "question": "GM crops are field tested to assess",
+        "options": [
+            "Yield",
+            "Safety",
+            "Environmental impact",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All assessments are needed."
+    },
+    {
+        "id": 193,
+        "question": "Recombinant proteins are purified during",
+        "options": [
+            "Upstream processing",
+            "Downstream processing",
+            "Cloning",
+            "Transformation"
+        ],
+        "answer": 1,
+        "explanation": "Purification occurs in downstream processing."
+    },
+    {
+        "id": 194,
+        "question": "Upstream processing ends with",
+        "options": [
+            "Cell harvesting",
+            "Gene cloning",
+            "Product purification",
+            "Packaging"
+        ],
+        "answer": 0,
+        "explanation": "Upstream processing ends at harvesting."
+    },
+    {
+        "id": 195,
+        "question": "Biotechnology in diagnostics reduces",
+        "options": [
+            "Cost",
+            "Time",
+            "Error",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Diagnostics become faster, cheaper and accurate."
+    },
+    {
+        "id": 196,
+        "question": "PCR uses thermostable DNA polymerase because",
+        "options": [
+            "High temperature",
+            "Low pH",
+            "High pressure",
+            "UV exposure"
+        ],
+        "answer": 0,
+        "explanation": "High temperatures require thermostable enzyme."
+    },
+    {
+        "id": 197,
+        "question": "Taq polymerase lacks",
+        "options": [
+            "Polymerase activity",
+            "Exonuclease activity",
+            "Thermostability",
+            "Processivity"
+        ],
+        "answer": 1,
+        "explanation": "Taq polymerase lacks proofreading exonuclease activity."
+    },
+    {
+        "id": 198,
+        "question": "Biotechnology improves crop resistance to",
+        "options": [
+            "Drought",
+            "Salinity",
+            "Pests",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All stress resistances can be improved."
+    },
+    {
+        "id": 199,
+        "question": "Ethical committees ensure",
+        "options": [
+            "Profit",
+            "Safety",
+            "Ethical compliance",
+            "Speed"
+        ],
+        "answer": 2,
+        "explanation": "They ensure ethical compliance."
+    },
+    {
+        "id": 200,
+        "question": "Biotechnology ultimately aims at",
+        "options": [
+            "Human welfare",
+            "Industrial growth",
+            "Scientific curiosity",
+            "Economic monopoly"
+        ],
+        "answer": 0,
+        "explanation": "Human welfare is the ultimate aim."
+    },
+    {
+        "id": 201,
+        "question": "Which feature differentiates modern biotechnology from traditional biotechnology as per NCERT?",
+        "options": [
+            "Use of microbes",
+            "Use of enzymes",
+            "Genetic engineering",
+            "Fermentation"
+        ],
+        "answer": 2,
+        "explanation": "Modern biotechnology is based on genetic engineering."
+    },
+    {
+        "id": 202,
+        "question": "Recombinant DNA technology involves cutting and joining DNA using",
+        "options": [
+            "Ligase only",
+            "Polymerase only",
+            "Restriction enzymes and ligase",
+            "Primase and helicase"
+        ],
+        "answer": 2,
+        "explanation": "Restriction enzymes cut DNA and ligase joins fragments."
+    },
+    {
+        "id": 203,
+        "question": "A cloning vector must essentially possess",
+        "options": [
+            "Origin of replication",
+            "Selectable marker",
+            "Cloning site",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All three are essential features of a cloning vector."
+    },
+    {
+        "id": 204,
+        "question": "The site where foreign DNA is inserted in a vector is called",
+        "options": [
+            "Ori",
+            "Promoter",
+            "Selectable marker",
+            "Cloning site"
+        ],
+        "answer": 3,
+        "explanation": "Cloning site allows insertion of foreign DNA."
+    },
+    {
+        "id": 205,
+        "question": "Restriction enzymes cut DNA by breaking",
+        "options": [
+            "Hydrogen bonds",
+            "Phosphodiester bonds",
+            "Glycosidic bonds",
+            "Peptide bonds"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes cleave phosphodiester bonds."
+    },
+    {
+        "id": 206,
+        "question": "EcoRI produces",
+        "options": [
+            "Blunt ends",
+            "Sticky ends",
+            "Hairpin loops",
+            "Circular DNA"
+        ],
+        "answer": 1,
+        "explanation": "EcoRI produces sticky ends."
+    },
+    {
+        "id": 207,
+        "question": "Sticky ends facilitate recombinant DNA formation because they",
+        "options": [
+            "Are blunt",
+            "Have complementary overhangs",
+            "Repel each other",
+            "Are methylated"
+        ],
+        "answer": 1,
+        "explanation": "Complementary overhangs facilitate base pairing."
+    },
+    {
+        "id": 208,
+        "question": "DNA ligase forms which bond during ligation?",
+        "options": [
+            "Hydrogen bond",
+            "Ionic bond",
+            "Phosphodiester bond",
+            "Peptide bond"
+        ],
+        "answer": 2,
+        "explanation": "DNA ligase forms phosphodiester bonds."
+    },
+    {
+        "id": 209,
+        "question": "Plasmids replicate independently because they have",
+        "options": [
+            "Promoter",
+            "Selectable marker",
+            "Ori",
+            "Restriction site"
+        ],
+        "answer": 2,
+        "explanation": "Origin of replication allows independent replication."
+    },
+    {
+        "id": 210,
+        "question": "High copy number plasmids are preferred when",
+        "options": [
+            "Gene is toxic",
+            "High product yield is needed",
+            "Protein is harmful",
+            "Gene expression is lethal"
+        ],
+        "answer": 1,
+        "explanation": "High copy number increases yield."
+    },
+    {
+        "id": 211,
+        "question": "Selectable markers in cloning vectors are generally",
+        "options": [
+            "Structural genes",
+            "Antibiotic resistance genes",
+            "Housekeeping genes",
+            "Regulatory genes"
+        ],
+        "answer": 1,
+        "explanation": "Antibiotic resistance genes act as selectable markers."
+    },
+    {
+        "id": 212,
+        "question": "Insertional inactivation is used to identify",
+        "options": [
+            "Vectors",
+            "Non-recombinants",
+            "Recombinants",
+            "Mutants"
+        ],
+        "answer": 2,
+        "explanation": "Insertion disrupts marker gene in recombinants."
+    },
+    {
+        "id": 213,
+        "question": "In pBR322, insertion of foreign DNA into tetR gene results in",
+        "options": [
+            "Ampicillin resistance",
+            "Tetracycline sensitivity",
+            "Both resistances",
+            "Cell death"
+        ],
+        "answer": 1,
+        "explanation": "Insertion in tetR disrupts tetracycline resistance."
+    },
+    {
+        "id": 214,
+        "question": "Blue-white screening is based on",
+        "options": [
+            "ampR gene",
+            "tetR gene",
+            "lacZ gene",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "lacZ gene is used for blue-white screening."
+    },
+    {
+        "id": 215,
+        "question": "Blue colonies indicate",
+        "options": [
+            "Recombinants",
+            "Non-recombinants",
+            "Mutants",
+            "Dead cells"
+        ],
+        "answer": 1,
+        "explanation": "Non-recombinants produce functional beta-galactosidase."
+    },
+    {
+        "id": 216,
+        "question": "White colonies on X-gal medium represent",
+        "options": [
+            "Non-transformed cells",
+            "Recombinant cells",
+            "Dead cells",
+            "Contaminants"
+        ],
+        "answer": 1,
+        "explanation": "Recombinants lack functional lacZ gene."
+    },
+    {
+        "id": 217,
+        "question": "Polymerase Chain Reaction amplifies",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Chromosomes"
+        ],
+        "answer": 2,
+        "explanation": "PCR amplifies specific DNA segments."
+    },
+    {
+        "id": 218,
+        "question": "PCR requires primers because DNA polymerase",
+        "options": [
+            "Cannot bind DNA",
+            "Cannot initiate synthesis",
+            "Is inactive",
+            "Degrades DNA"
+        ],
+        "answer": 1,
+        "explanation": "DNA polymerase cannot initiate synthesis without primers."
+    },
+    {
+        "id": 219,
+        "question": "In PCR, primers anneal to",
+        "options": [
+            "Same strand",
+            "Opposite strands",
+            "RNA",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "Primers bind to opposite strands of DNA."
+    },
+    {
+        "id": 220,
+        "question": "After 3 PCR cycles, number of DNA copies formed is",
+        "options": [
+            "4",
+            "6",
+            "8",
+            "16"
+        ],
+        "answer": 2,
+        "explanation": "Each cycle doubles DNA; 2^3 = 8."
+    },
+    {
+        "id": 221,
+        "question": "Gel electrophoresis separates DNA fragments in",
+        "options": [
+            "Liquid medium",
+            "Agarose gel",
+            "Polymerase solution",
+            "Buffer only"
+        ],
+        "answer": 1,
+        "explanation": "DNA fragments move through agarose gel."
+    },
+    {
+        "id": 222,
+        "question": "DNA fragments move towards anode because DNA is",
+        "options": [
+            "Positively charged",
+            "Neutral",
+            "Negatively charged",
+            "Zwitterionic"
+        ],
+        "answer": 2,
+        "explanation": "DNA has negatively charged phosphate groups."
+    },
+    {
+        "id": 223,
+        "question": "Ethidium bromide intercalates between",
+        "options": [
+            "Sugars",
+            "Bases",
+            "Phosphates",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "Ethidium bromide intercalates between DNA bases."
+    },
+    {
+        "id": 224,
+        "question": "Eluted DNA fragments are used for",
+        "options": [
+            "Discarding",
+            "Ligation",
+            "Denaturation",
+            "Methylation"
+        ],
+        "answer": 1,
+        "explanation": "Recovered DNA is ligated into vectors."
+    },
+    {
+        "id": 225,
+        "question": "Competent cells are prepared to",
+        "options": [
+            "Resist antibiotics",
+            "Take up DNA",
+            "Divide rapidly",
+            "Produce proteins"
+        ],
+        "answer": 1,
+        "explanation": "Competent cells can take up foreign DNA."
+    },
+    {
+        "id": 226,
+        "question": "Heat shock treatment helps DNA entry by",
+        "options": [
+            "Breaking DNA",
+            "Creating pores",
+            "Activating enzymes",
+            "Denaturing proteins"
+        ],
+        "answer": 1,
+        "explanation": "Heat shock creates temporary pores in membrane."
+    },
+    {
+        "id": 227,
+        "question": "Electroporation makes cells competent by",
+        "options": [
+            "Chemical treatment",
+            "Electric shock",
+            "Heat treatment",
+            "Radiation"
+        ],
+        "answer": 1,
+        "explanation": "Electric pulses create pores in membrane."
+    },
+    {
+        "id": 228,
+        "question": "Microinjection is commonly used in",
+        "options": [
+            "Bacteria",
+            "Plants",
+            "Animal cells",
+            "Viruses"
+        ],
+        "answer": 2,
+        "explanation": "Microinjection is used in animal cells."
+    },
+    {
+        "id": 229,
+        "question": "Biolistics method is mainly used for gene transfer in",
+        "options": [
+            "Bacteria",
+            "Fungi",
+            "Plants",
+            "Animals"
+        ],
+        "answer": 2,
+        "explanation": "Gene gun is mainly used in plants."
+    },
+    {
+        "id": 230,
+        "question": "Agrobacterium tumefaciens naturally transfers genes to",
+        "options": [
+            "Animals",
+            "Plants",
+            "Fungi",
+            "Bacteria"
+        ],
+        "answer": 1,
+        "explanation": "Agrobacterium infects plant cells."
+    },
+    {
+        "id": 231,
+        "question": "The tumor inducing ability of Ti plasmid is due to genes present in",
+        "options": [
+            "Ori region",
+            "Selectable marker",
+            "T-DNA region",
+            "Promoter region"
+        ],
+        "answer": 2,
+        "explanation": "T-DNA carries tumor-inducing genes."
+    },
+    {
+        "id": 232,
+        "question": "Disarmed Ti plasmid lacks",
+        "options": [
+            "Ori",
+            "T-DNA",
+            "Tumor causing genes",
+            "Selectable marker"
+        ],
+        "answer": 2,
+        "explanation": "Tumor genes are removed in disarmed plasmid."
+    },
+    {
+        "id": 233,
+        "question": "Bt toxin genes are expressed in plants to provide resistance against",
+        "options": [
+            "Viruses",
+            "Fungi",
+            "Insects",
+            "Bacteria"
+        ],
+        "answer": 2,
+        "explanation": "Bt genes provide insect resistance."
+    },
+    {
+        "id": 234,
+        "question": "Cry proteins are toxic to insects because they",
+        "options": [
+            "Digest gut",
+            "Form pores in gut epithelium",
+            "Block nerves",
+            "Stop respiration"
+        ],
+        "answer": 1,
+        "explanation": "Cry proteins create pores in gut epithelial cells."
+    },
+    {
+        "id": 235,
+        "question": "Cry genes are activated in insect gut due to",
+        "options": [
+            "Neutral pH",
+            "Acidic pH",
+            "Alkaline pH",
+            "Enzymatic cleavage only"
+        ],
+        "answer": 2,
+        "explanation": "Alkaline pH activates protoxin."
+    },
+    {
+        "id": 236,
+        "question": "RNA interference results in",
+        "options": [
+            "Protein synthesis",
+            "mRNA degradation",
+            "DNA replication",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "RNAi causes degradation of specific mRNA."
+    },
+    {
+        "id": 237,
+        "question": "RNAi is a natural defense mechanism in",
+        "options": [
+            "Plants only",
+            "Animals only",
+            "Eukaryotes",
+            "Prokaryotes"
+        ],
+        "answer": 2,
+        "explanation": "RNAi occurs in eukaryotes."
+    },
+    {
+        "id": 238,
+        "question": "In RNAi, antisense RNA pairs with",
+        "options": [
+            "DNA",
+            "Protein",
+            "mRNA",
+            "tRNA"
+        ],
+        "answer": 2,
+        "explanation": "Antisense RNA pairs with complementary mRNA."
+    },
+    {
+        "id": 239,
+        "question": "Golden rice was genetically engineered to produce",
+        "options": [
+            "Iron",
+            "Beta-carotene",
+            "Vitamin C",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice produces beta-carotene."
+    },
+    {
+        "id": 240,
+        "question": "Beta-carotene deficiency mainly leads to",
+        "options": [
+            "Night blindness",
+            "Scurvy",
+            "Rickets",
+            "Beriberi"
+        ],
+        "answer": 0,
+        "explanation": "Vitamin A deficiency causes night blindness."
+    },
+    {
+        "id": 241,
+        "question": "Gene therapy aims to correct",
+        "options": [
+            "Protein folding",
+            "Genetic defects",
+            "Chromosome number",
+            "Cell division"
+        ],
+        "answer": 1,
+        "explanation": "Gene therapy corrects genetic defects."
+    },
+    {
+        "id": 242,
+        "question": "First successful gene therapy was performed for",
+        "options": [
+            "Hemophilia",
+            "ADA deficiency",
+            "Cystic fibrosis",
+            "Cancer"
+        ],
+        "answer": 1,
+        "explanation": "First gene therapy targeted ADA deficiency."
+    },
+    {
+        "id": 243,
+        "question": "Somatic gene therapy affects",
+        "options": [
+            "Gametes",
+            "Zygote",
+            "Body cells",
+            "Future generations"
+        ],
+        "answer": 2,
+        "explanation": "Somatic therapy targets body cells."
+    },
+    {
+        "id": 244,
+        "question": "Germline gene therapy is not permitted because it affects",
+        "options": [
+            "Patient only",
+            "Future generations",
+            "Specific tissue",
+            "Only organs"
+        ],
+        "answer": 1,
+        "explanation": "Changes are heritable."
+    },
+    {
+        "id": 245,
+        "question": "Recombinant insulin differs from proinsulin by absence of",
+        "options": [
+            "A chain",
+            "B chain",
+            "C peptide",
+            "Signal peptide"
+        ],
+        "answer": 2,
+        "explanation": "C-peptide is absent in mature insulin."
+    },
+    {
+        "id": 246,
+        "question": "Earlier insulin extracted from animals caused allergy due to",
+        "options": [
+            "Low purity",
+            "Structural differences",
+            "High dose",
+            "Wrong administration"
+        ],
+        "answer": 1,
+        "explanation": "Animal insulin differs slightly from human insulin."
+    },
+    {
+        "id": 247,
+        "question": "Downstream processing includes",
+        "options": [
+            "Cell growth",
+            "Gene cloning",
+            "Product purification",
+            "Transformation"
+        ],
+        "answer": 2,
+        "explanation": "Downstream processing purifies the product."
+    },
+    {
+        "id": 248,
+        "question": "Upstream processing involves",
+        "options": [
+            "Product packaging",
+            "Cell culture",
+            "Purification",
+            "Marketing"
+        ],
+        "answer": 1,
+        "explanation": "Upstream processing includes cell culture."
+    },
+    {
+        "id": 249,
+        "question": "Bioreactors are designed to provide",
+        "options": [
+            "Sterility only",
+            "Aeration only",
+            "Optimal growth conditions",
+            "Low temperature"
+        ],
+        "answer": 2,
+        "explanation": "Bioreactors maintain optimal conditions."
+    },
+    {
+        "id": 250,
+        "question": "Stirred tank bioreactors are preferred because they",
+        "options": [
+            "Are cheap",
+            "Allow better mixing",
+            "Prevent mutation",
+            "Kill cells"
+        ],
+        "answer": 1,
+        "explanation": "Stirring ensures uniform mixing."
+    },
+    {
+        "id": 251,
+        "question": "Batch culture is characterized by",
+        "options": [
+            "Continuous nutrient supply",
+            "Single nutrient addition",
+            "No waste removal",
+            "Cell death"
+        ],
+        "answer": 1,
+        "explanation": "Batch culture uses one-time nutrient supply."
+    },
+    {
+        "id": 252,
+        "question": "Continuous culture maintains cells in",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Death phase"
+        ],
+        "answer": 1,
+        "explanation": "Continuous culture maintains log phase."
+    },
+    {
+        "id": 253,
+        "question": "Molecular diagnosis detects disease",
+        "options": [
+            "After symptoms",
+            "Before symptoms",
+            "At terminal stage",
+            "After treatment"
+        ],
+        "answer": 1,
+        "explanation": "Early detection is possible."
+    },
+    {
+        "id": 254,
+        "question": "PCR based diagnosis is useful because it requires",
+        "options": [
+            "Large DNA amount",
+            "Small DNA amount",
+            "Protein",
+            "RNA only"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies minute DNA quantities."
+    },
+    {
+        "id": 255,
+        "question": "ELISA detects disease by identifying",
+        "options": [
+            "DNA",
+            "RNA",
+            "Antigen or antibody",
+            "Enzymes"
+        ],
+        "answer": 2,
+        "explanation": "ELISA is based on antigen-antibody interaction."
+    },
+    {
+        "id": 256,
+        "question": "DNA fingerprinting is based on polymorphism in",
+        "options": [
+            "Coding DNA",
+            "Non-coding DNA",
+            "mRNA",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "VNTRs in non-coding DNA show polymorphism."
+    },
+    {
+        "id": 257,
+        "question": "VNTR stands for",
+        "options": [
+            "Variable Nucleotide Tandem Repeat",
+            "Variable Number Tandem Repeat",
+            "Verified Nucleotide Tandem Repeat",
+            "Variable Number Transcription Region"
+        ],
+        "answer": 1,
+        "explanation": "VNTR is Variable Number Tandem Repeat."
+    },
+    {
+        "id": 258,
+        "question": "DNA fingerprinting was first developed by",
+        "options": [
+            "Watson",
+            "Crick",
+            "Alec Jeffreys",
+            "Sanger"
+        ],
+        "answer": 2,
+        "explanation": "Alec Jeffreys developed DNA fingerprinting."
+    },
+    {
+        "id": 259,
+        "question": "DNA fingerprinting is widely used in",
+        "options": [
+            "Agriculture",
+            "Forensics",
+            "Ecology",
+            "Botany"
+        ],
+        "answer": 1,
+        "explanation": "It is widely used in forensic science."
+    },
+    {
+        "id": 260,
+        "question": "GM crops reduce dependence on",
+        "options": [
+            "Water",
+            "Fertilizers",
+            "Chemical pesticides",
+            "Seeds"
+        ],
+        "answer": 2,
+        "explanation": "GM crops reduce pesticide usage."
+    },
+    {
+        "id": 261,
+        "question": "Herbicide tolerant crops allow",
+        "options": [
+            "Less weeding",
+            "More pests",
+            "Less yield",
+            "More disease"
+        ],
+        "answer": 0,
+        "explanation": "They allow easy weed control."
+    },
+    {
+        "id": 262,
+        "question": "Transgenic plants contain",
+        "options": [
+            "Foreign RNA",
+            "Foreign DNA",
+            "Foreign protein only",
+            "Foreign lipid"
+        ],
+        "answer": 1,
+        "explanation": "Transgenic plants contain foreign DNA."
+    },
+    {
+        "id": 263,
+        "question": "Biopiracy refers to",
+        "options": [
+            "Illegal gene cloning",
+            "Unauthorized use of bioresources",
+            "Gene theft",
+            "DNA mutation"
+        ],
+        "answer": 1,
+        "explanation": "Biopiracy is unauthorized exploitation of bioresources."
+    },
+    {
+        "id": 264,
+        "question": "Biosafety guidelines are essential to",
+        "options": [
+            "Increase yield",
+            "Prevent misuse",
+            "Promote patents",
+            "Stop research"
+        ],
+        "answer": 1,
+        "explanation": "They prevent misuse of biotechnology."
+    },
+    {
+        "id": 265,
+        "question": "GEAC in India regulates",
+        "options": [
+            "Medical drugs",
+            "Vaccines",
+            "GM organisms",
+            "All biotechnology"
+        ],
+        "answer": 2,
+        "explanation": "GEAC regulates GM organisms."
+    },
+    {
+        "id": 266,
+        "question": "Asilomar Conference was held to discuss",
+        "options": [
+            "Gene therapy",
+            "PCR",
+            "Biosafety of rDNA",
+            "Cloning vectors"
+        ],
+        "answer": 2,
+        "explanation": "It focused on biosafety issues."
+    },
+    {
+        "id": 267,
+        "question": "Recombinant therapeutics are preferred because they are",
+        "options": [
+            "Cheaper",
+            "Safer",
+            "Less effective",
+            "More toxic"
+        ],
+        "answer": 1,
+        "explanation": "They are safer and specific."
+    },
+    {
+        "id": 268,
+        "question": "Human growth hormone is produced using",
+        "options": [
+            "Animal pituitary",
+            "Recombinant DNA technology",
+            "Plant cells",
+            "Synthetic methods"
+        ],
+        "answer": 1,
+        "explanation": "It is produced using rDNA technology."
+    },
+    {
+        "id": 269,
+        "question": "Transgenic animals are used to study",
+        "options": [
+            "Normal physiology",
+            "Disease",
+            "Drug safety",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "They are used for multiple research purposes."
+    },
+    {
+        "id": 270,
+        "question": "Rosie, the first transgenic cow, produced milk enriched with",
+        "options": [
+            "Insulin",
+            "Alpha-lactalbumin",
+            "Casein",
+            "Hemoglobin"
+        ],
+        "answer": 1,
+        "explanation": "Milk was enriched with alpha-lactalbumin."
+    },
+    {
+        "id": 271,
+        "question": "Biotechnology contributes to agriculture by",
+        "options": [
+            "Increasing yield",
+            "Improving nutrition",
+            "Enhancing resistance",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are contributions of biotechnology."
+    },
+    {
+        "id": 272,
+        "question": "Intellectual Property Rights protect",
+        "options": [
+            "Ideas",
+            "Discoveries",
+            "Innovations",
+            "Resources"
+        ],
+        "answer": 2,
+        "explanation": "IPR protects innovations."
+    },
+    {
+        "id": 273,
+        "question": "Patents encourage",
+        "options": [
+            "Copying",
+            "Innovation",
+            "Secrecy",
+            "Biopiracy"
+        ],
+        "answer": 1,
+        "explanation": "Patents promote innovation."
+    },
+    {
+        "id": 274,
+        "question": "Traditional knowledge protection prevents",
+        "options": [
+            "Research",
+            "Biopiracy",
+            "Development",
+            "Education"
+        ],
+        "answer": 1,
+        "explanation": "Protection prevents biopiracy."
+    },
+    {
+        "id": 275,
+        "question": "Biotechnology ethics deals with",
+        "options": [
+            "Profit",
+            "Manipulation of life",
+            "Speed of research",
+            "Marketing"
+        ],
+        "answer": 1,
+        "explanation": "Ethics concerns manipulation of life forms."
+    },
+    {
+        "id": 276,
+        "question": "GM foods are evaluated mainly for",
+        "options": [
+            "Taste",
+            "Safety",
+            "Colour",
+            "Cost"
+        ],
+        "answer": 1,
+        "explanation": "Safety evaluation is essential."
+    },
+    {
+        "id": 277,
+        "question": "Environmental impact of GM crops includes effect on",
+        "options": [
+            "Non-target organisms",
+            "Soil",
+            "Biodiversity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All environmental effects are assessed."
+    },
+    {
+        "id": 278,
+        "question": "Biotechnology laws aim to protect",
+        "options": [
+            "Environment",
+            "Human health",
+            "Biodiversity",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All protections are intended."
+    },
+    {
+        "id": 279,
+        "question": "Recombinant DNA technology combines DNA from",
+        "options": [
+            "Same organism",
+            "Different organisms",
+            "Same chromosome",
+            "Same cell"
+        ],
+        "answer": 1,
+        "explanation": "DNA from different organisms is combined."
+    },
+    {
+        "id": 280,
+        "question": "Ultimate aim of biotechnology as per NCERT is",
+        "options": [
+            "Profit",
+            "Scientific fame",
+            "Human welfare",
+            "Industrialization"
+        ],
+        "answer": 2,
+        "explanation": "Biotechnology ultimately aims at human welfare."
+    },
+    {
+        "id": 281,
+        "question": "Recombinant DNA technology allows transfer of genes across",
+        "options": [
+            "Same species only",
+            "Closely related species",
+            "Unrelated species",
+            "Same population"
+        ],
+        "answer": 2,
+        "explanation": "rDNA technology allows gene transfer across unrelated species."
+    },
+    {
+        "id": 282,
+        "question": "The basic principle behind genetic engineering is",
+        "options": [
+            "Hybridisation",
+            "Mutation",
+            "Cutting and joining of DNA",
+            "Natural selection"
+        ],
+        "answer": 2,
+        "explanation": "Genetic engineering involves cutting and joining DNA molecules."
+    },
+    {
+        "id": 283,
+        "question": "Restriction endonucleases show specificity due to recognition of",
+        "options": [
+            "Random sequences",
+            "Palindromic sequences",
+            "Repeated sequences",
+            "Non-coding DNA"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes recognize specific palindromic sequences."
+    },
+    {
+        "id": 284,
+        "question": "Palindromic DNA sequence reads the same",
+        "options": [
+            "In one direction only",
+            "From 5'→3' on one strand",
+            "From 5'→3' on both strands",
+            "From 3'→5' on one strand"
+        ],
+        "answer": 2,
+        "explanation": "Palindromic sequences read the same on both strands in 5'→3' direction."
+    },
+    {
+        "id": 285,
+        "question": "DNA ligase is required in recombinant DNA technology to",
+        "options": [
+            "Cut DNA",
+            "Separate DNA fragments",
+            "Join DNA fragments",
+            "Denature DNA"
+        ],
+        "answer": 2,
+        "explanation": "DNA ligase joins DNA fragments by forming phosphodiester bonds."
+    },
+    {
+        "id": 286,
+        "question": "Plasmids used as vectors must replicate independently inside the host due to presence of",
+        "options": [
+            "Promoter",
+            "Selectable marker",
+            "Origin of replication",
+            "Restriction site"
+        ],
+        "answer": 2,
+        "explanation": "Origin of replication allows independent replication."
+    },
+    {
+        "id": 287,
+        "question": "A selectable marker helps to identify",
+        "options": [
+            "All host cells",
+            "Only transformed cells",
+            "Only non-transformed cells",
+            "Dead cells"
+        ],
+        "answer": 1,
+        "explanation": "Selectable markers identify transformed cells."
+    },
+    {
+        "id": 288,
+        "question": "In blue-white screening, non-recombinant colonies appear blue due to activity of",
+        "options": [
+            "DNA ligase",
+            "Beta-galactosidase",
+            "Restriction enzyme",
+            "RNA polymerase"
+        ],
+        "answer": 1,
+        "explanation": "Functional beta-galactosidase converts X-gal to blue product."
+    },
+    {
+        "id": 289,
+        "question": "White colonies in blue-white screening indicate",
+        "options": [
+            "Non-transformed cells",
+            "Recombinant cells",
+            "Dead cells",
+            "Mutant host cells"
+        ],
+        "answer": 1,
+        "explanation": "Insertional inactivation of lacZ results in white colonies."
+    },
+    {
+        "id": 290,
+        "question": "PCR amplification requires repeated cycles of denaturation, annealing and",
+        "options": [
+            "Translation",
+            "Transcription",
+            "Extension",
+            "Ligation"
+        ],
+        "answer": 2,
+        "explanation": "Extension step synthesizes new DNA strands."
+    },
+    {
+        "id": 291,
+        "question": "Taq polymerase used in PCR is thermostable because it is isolated from",
+        "options": [
+            "Escherichia coli",
+            "Thermus aquaticus",
+            "Bacillus subtilis",
+            "Agrobacterium tumefaciens"
+        ],
+        "answer": 1,
+        "explanation": "Taq polymerase is obtained from Thermus aquaticus."
+    },
+    {
+        "id": 292,
+        "question": "During PCR, primers anneal at temperature approximately",
+        "options": [
+            "94°C",
+            "72°C",
+            "50–65°C",
+            "37°C"
+        ],
+        "answer": 2,
+        "explanation": "Annealing occurs at around 50–65°C."
+    },
+    {
+        "id": 293,
+        "question": "Gel electrophoresis separates DNA fragments mainly on the basis of",
+        "options": [
+            "Charge",
+            "Shape",
+            "Size",
+            "Base composition"
+        ],
+        "answer": 2,
+        "explanation": "DNA fragments are separated according to size."
+    },
+    {
+        "id": 294,
+        "question": "DNA fragments in agarose gel move towards",
+        "options": [
+            "Cathode",
+            "Anode",
+            "Both electrodes",
+            "Centre of gel"
+        ],
+        "answer": 1,
+        "explanation": "Negatively charged DNA moves towards the anode."
+    },
+    {
+        "id": 295,
+        "question": "Ethidium bromide is used in gel electrophoresis to",
+        "options": [
+            "Digest DNA",
+            "Stain DNA",
+            "Ligate DNA",
+            "Amplify DNA"
+        ],
+        "answer": 1,
+        "explanation": "Ethidium bromide stains DNA for visualization under UV light."
+    },
+    {
+        "id": 296,
+        "question": "Transformation is defined as",
+        "options": [
+            "Uptake of protein by host cell",
+            "Uptake of RNA by host cell",
+            "Uptake of foreign DNA by host cell",
+            "Uptake of virus by host cell"
+        ],
+        "answer": 2,
+        "explanation": "Transformation involves uptake of foreign DNA by host cell."
+    },
+    {
+        "id": 297,
+        "question": "Calcium chloride treatment makes bacterial cells",
+        "options": [
+            "Virulent",
+            "Pathogenic",
+            "Competent",
+            "Resistant"
+        ],
+        "answer": 2,
+        "explanation": "CaCl2 treatment makes cells competent to take up DNA."
+    },
+    {
+        "id": 298,
+        "question": "Agrobacterium tumefaciens transfers genes to plant cells using",
+        "options": [
+            "Ri plasmid",
+            "Ti plasmid",
+            "pBR322",
+            "Cosmid"
+        ],
+        "answer": 1,
+        "explanation": "Agrobacterium uses Ti plasmid to transfer genes."
+    },
+    {
+        "id": 299,
+        "question": "Bt toxin genes introduced into plants code for",
+        "options": [
+            "Antibiotic proteins",
+            "Insecticidal proteins",
+            "Herbicidal proteins",
+            "Antiviral proteins"
+        ],
+        "answer": 1,
+        "explanation": "Bt genes code for insecticidal Cry proteins."
+    },
+    {
+        "id": 300,
+        "question": "Ultimate objective of biotechnology applications in agriculture as per NCERT is",
+        "options": [
+            "Industrial profit",
+            "Human welfare",
+            "Export promotion",
+            "Mechanisation"
+        ],
+        "answer": 1,
+        "explanation": "Biotechnology aims at human welfare including food security."
+    },
+    {
+        "id": 301,
+        "question": "Recombinant DNA technology makes it possible to isolate and amplify a gene of interest because",
+        "options": [
+            "Genes replicate naturally",
+            "Vectors replicate independently",
+            "Host cells divide rapidly",
+            "DNA is stable"
+        ],
+        "answer": 1,
+        "explanation": "Independent replication of vectors allows amplification of the inserted gene."
+    },
+    {
+        "id": 302,
+        "question": "The cloning site in a vector is also called",
+        "options": [
+            "Selectable marker",
+            "Origin of replication",
+            "Recognition site",
+            "Multiple cloning site"
+        ],
+        "answer": 3,
+        "explanation": "Multiple cloning site contains several unique restriction sites."
+    },
+    {
+        "id": 303,
+        "question": "Restriction enzymes cut DNA only when the recognition site is",
+        "options": [
+            "Methylated",
+            "Palindromic",
+            "Repeated many times",
+            "Non-coding"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes recognize specific palindromic sequences."
+    },
+    {
+        "id": 304,
+        "question": "Methylation of host DNA protects it from",
+        "options": [
+            "Mutation",
+            "Replication",
+            "Restriction enzyme digestion",
+            "Transcription"
+        ],
+        "answer": 2,
+        "explanation": "Methylation prevents restriction enzymes from cutting host DNA."
+    },
+    {
+        "id": 305,
+        "question": "Blunt end ligation is less efficient than sticky end ligation because",
+        "options": [
+            "No base pairing occurs",
+            "Ligase is inactive",
+            "Ends repel each other",
+            "DNA is degraded"
+        ],
+        "answer": 0,
+        "explanation": "Blunt ends lack complementary overhangs for base pairing."
+    },
+    {
+        "id": 306,
+        "question": "Selectable markers help in screening by allowing growth on",
+        "options": [
+            "Simple media",
+            "Antibiotic media",
+            "Minimal media",
+            "Enriched media"
+        ],
+        "answer": 1,
+        "explanation": "Only transformants grow on antibiotic-containing media."
+    },
+    {
+        "id": 307,
+        "question": "Insertional inactivation results in loss of",
+        "options": [
+            "Replication ability",
+            "Antibiotic resistance",
+            "Promoter function",
+            "Ori function"
+        ],
+        "answer": 1,
+        "explanation": "Insertion disrupts the marker gene function."
+    },
+    {
+        "id": 308,
+        "question": "Beta-galactosidase enzyme acts on",
+        "options": [
+            "IPTG",
+            "X-gal",
+            "Lactose",
+            "Galactose"
+        ],
+        "answer": 1,
+        "explanation": "Beta-galactosidase converts X-gal to a blue product."
+    },
+    {
+        "id": 309,
+        "question": "PCR amplification is called exponential because the number of DNA copies",
+        "options": [
+            "Increases linearly",
+            "Doubles every cycle",
+            "Remains constant",
+            "Decreases"
+        ],
+        "answer": 1,
+        "explanation": "Each cycle doubles the DNA amount."
+    },
+    {
+        "id": 310,
+        "question": "DNA polymerase used in PCR cannot initiate synthesis because it requires",
+        "options": [
+            "DNA template",
+            "RNA primer",
+            "ATP",
+            "Ligase"
+        ],
+        "answer": 1,
+        "explanation": "DNA polymerase requires a primer to start synthesis."
+    },
+    {
+        "id": 311,
+        "question": "Denaturation step in PCR separates DNA strands by breaking",
+        "options": [
+            "Phosphodiester bonds",
+            "Hydrogen bonds",
+            "Glycosidic bonds",
+            "Peptide bonds"
+        ],
+        "answer": 1,
+        "explanation": "Hydrogen bonds between complementary bases are broken."
+    },
+    {
+        "id": 312,
+        "question": "Annealing temperature in PCR depends on",
+        "options": [
+            "Template length",
+            "Primer length",
+            "DNA polymerase",
+            "Number of cycles"
+        ],
+        "answer": 1,
+        "explanation": "Primer length and composition determine annealing temperature."
+    },
+    {
+        "id": 313,
+        "question": "Gel electrophoresis requires an electric field because DNA fragments",
+        "options": [
+            "Are neutral",
+            "Are negatively charged",
+            "Are positively charged",
+            "Are hydrophobic"
+        ],
+        "answer": 1,
+        "explanation": "Negatively charged DNA migrates in an electric field."
+    },
+    {
+        "id": 314,
+        "question": "Agarose concentration in gel affects",
+        "options": [
+            "Charge of DNA",
+            "Speed of electrophoresis",
+            "Pore size of gel",
+            "DNA staining"
+        ],
+        "answer": 2,
+        "explanation": "Higher agarose concentration reduces pore size."
+    },
+    {
+        "id": 315,
+        "question": "Elution of DNA from gel is performed after",
+        "options": [
+            "PCR",
+            "Staining",
+            "Electrophoresis",
+            "Transformation"
+        ],
+        "answer": 2,
+        "explanation": "DNA fragments are eluted after separation by electrophoresis."
+    },
+    {
+        "id": 316,
+        "question": "Chemical transformation method commonly uses",
+        "options": [
+            "Calcium chloride",
+            "Sodium chloride",
+            "Potassium chloride",
+            "Magnesium sulphate"
+        ],
+        "answer": 0,
+        "explanation": "Calcium chloride treatment makes cells competent."
+    },
+    {
+        "id": 317,
+        "question": "Heat shock during transformation helps DNA entry due to",
+        "options": [
+            "Increase in enzyme activity",
+            "Formation of pores",
+            "DNA denaturation",
+            "Cell division"
+        ],
+        "answer": 1,
+        "explanation": "Heat shock creates temporary pores in membrane."
+    },
+    {
+        "id": 318,
+        "question": "Electroporation is preferred for cells that are",
+        "options": [
+            "Easily transformed",
+            "Hard to transform",
+            "Bacterial only",
+            "Plant only"
+        ],
+        "answer": 1,
+        "explanation": "Electroporation is used for difficult-to-transform cells."
+    },
+    {
+        "id": 319,
+        "question": "Microinjection requires specialized equipment because DNA is injected directly into",
+        "options": [
+            "Cell wall",
+            "Cytoplasm",
+            "Nucleus",
+            "Vacuole"
+        ],
+        "answer": 2,
+        "explanation": "DNA is injected directly into the nucleus."
+    },
+    {
+        "id": 320,
+        "question": "Biolistics involves coating of microprojectiles with",
+        "options": [
+            "RNA",
+            "Proteins",
+            "DNA",
+            "Lipids"
+        ],
+        "answer": 2,
+        "explanation": "DNA is coated onto microprojectiles in gene gun method."
+    },
+    {
+        "id": 321,
+        "question": "Agrobacterium tumefaciens is used in plant genetic engineering because it",
+        "options": [
+            "Kills plant cells",
+            "Naturally transfers DNA",
+            "Produces enzymes",
+            "Fixes nitrogen"
+        ],
+        "answer": 1,
+        "explanation": "It naturally transfers T-DNA into plant genome."
+    },
+    {
+        "id": 322,
+        "question": "The T-DNA region integrates into",
+        "options": [
+            "Plasmid DNA",
+            "Mitochondrial DNA",
+            "Plant nuclear DNA",
+            "Chloroplast DNA"
+        ],
+        "answer": 2,
+        "explanation": "T-DNA integrates into plant nuclear genome."
+    },
+    {
+        "id": 323,
+        "question": "Disarmed Ti plasmid retains ability to",
+        "options": [
+            "Cause tumor",
+            "Transfer T-DNA",
+            "Kill cells",
+            "Replicate in plants"
+        ],
+        "answer": 1,
+        "explanation": "Tumor genes are removed but transfer ability remains."
+    },
+    {
+        "id": 324,
+        "question": "Cry genes encode proteins that are toxic specifically to",
+        "options": [
+            "All insects",
+            "Target insects",
+            "Humans",
+            "Plants"
+        ],
+        "answer": 1,
+        "explanation": "Cry proteins are specific to certain insects."
+    },
+    {
+        "id": 325,
+        "question": "Specificity of Bt toxin is due to",
+        "options": [
+            "Universal receptors",
+            "Specific gut receptors",
+            "High toxicity",
+            "High dose"
+        ],
+        "answer": 1,
+        "explanation": "Specific receptors in insect gut determine toxicity."
+    },
+    {
+        "id": 326,
+        "question": "RNA interference protects plants against",
+        "options": [
+            "Bacteria",
+            "Fungi",
+            "Viruses and nematodes",
+            "Herbicides"
+        ],
+        "answer": 2,
+        "explanation": "RNAi acts as defense against viruses and nematodes."
+    },
+    {
+        "id": 327,
+        "question": "Double stranded RNA in RNAi is processed into",
+        "options": [
+            "mRNA",
+            "siRNA",
+            "tRNA",
+            "rRNA"
+        ],
+        "answer": 1,
+        "explanation": "dsRNA is processed into small interfering RNA."
+    },
+    {
+        "id": 328,
+        "question": "siRNA guides degradation of",
+        "options": [
+            "DNA",
+            "Protein",
+            "Target mRNA",
+            "Ribosome"
+        ],
+        "answer": 2,
+        "explanation": "siRNA directs degradation of complementary mRNA."
+    },
+    {
+        "id": 329,
+        "question": "Golden rice is called so due to",
+        "options": [
+            "Yellow endosperm",
+            "High iron",
+            "High protein",
+            "High starch"
+        ],
+        "answer": 0,
+        "explanation": "Accumulation of beta-carotene gives yellow colour."
+    },
+    {
+        "id": 330,
+        "question": "Beta-carotene is synthesized in golden rice endosperm due to",
+        "options": [
+            "Gene deletion",
+            "Introduction of new genes",
+            "Gene silencing",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Genes for beta-carotene synthesis are introduced."
+    },
+    {
+        "id": 331,
+        "question": "Gene therapy is considered successful only when",
+        "options": [
+            "Gene is inserted",
+            "Gene is expressed",
+            "Symptoms reduce temporarily",
+            "Cells divide"
+        ],
+        "answer": 1,
+        "explanation": "Therapeutic gene must be expressed."
+    },
+    {
+        "id": 332,
+        "question": "Initial ADA gene therapy involved transfer of gene into",
+        "options": [
+            "Bone marrow cells",
+            "Lymphocytes",
+            "Stem cells",
+            "Gametes"
+        ],
+        "answer": 1,
+        "explanation": "Functional ADA gene was introduced into lymphocytes."
+    },
+    {
+        "id": 333,
+        "question": "Short lived expression in ADA gene therapy occurred because",
+        "options": [
+            "Cells died",
+            "Gene was not stable",
+            "Lymphocytes have limited lifespan",
+            "Immune rejection"
+        ],
+        "answer": 2,
+        "explanation": "Lymphocytes do not survive long."
+    },
+    {
+        "id": 334,
+        "question": "Permanent correction of ADA deficiency requires gene transfer into",
+        "options": [
+            "Red blood cells",
+            "Bone marrow stem cells",
+            "Skin cells",
+            "Neurons"
+        ],
+        "answer": 1,
+        "explanation": "Bone marrow stem cells ensure long term expression."
+    },
+    {
+        "id": 335,
+        "question": "Proinsulin contains",
+        "options": [
+            "Only A chain",
+            "Only B chain",
+            "A, B and C chains",
+            "Two chains"
+        ],
+        "answer": 2,
+        "explanation": "Proinsulin has A, B and C peptide."
+    },
+    {
+        "id": 336,
+        "question": "Recombinant insulin production avoids C peptide by",
+        "options": [
+            "Chemical removal",
+            "Enzymatic cleavage",
+            "Separate synthesis of A and B chains",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "A and B chains are produced separately and joined."
+    },
+    {
+        "id": 337,
+        "question": "Downstream processing ensures",
+        "options": [
+            "Gene cloning",
+            "Product purity",
+            "Cell growth",
+            "DNA amplification"
+        ],
+        "answer": 1,
+        "explanation": "Downstream processing purifies the final product."
+    },
+    {
+        "id": 338,
+        "question": "Bioreactors maintain pH, temperature and",
+        "options": [
+            "Sterility",
+            "Aeration",
+            "Nutrients",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All parameters are controlled in bioreactors."
+    },
+    {
+        "id": 339,
+        "question": "Stirrer in bioreactor ensures",
+        "options": [
+            "Cell death",
+            "Uniform mixing",
+            "DNA replication",
+            "Protein folding"
+        ],
+        "answer": 1,
+        "explanation": "Stirring maintains uniform conditions."
+    },
+    {
+        "id": 340,
+        "question": "Foam formation in bioreactor is controlled by",
+        "options": [
+            "Antibiotics",
+            "Antifoam agents",
+            "Enzymes",
+            "Buffers"
+        ],
+        "answer": 1,
+        "explanation": "Antifoam agents prevent foam formation."
+    },
+    {
+        "id": 341,
+        "question": "Batch culture differs from continuous culture because nutrients are",
+        "options": [
+            "Continuously supplied",
+            "Supplied once",
+            "Never supplied",
+            "Supplied irregularly"
+        ],
+        "answer": 1,
+        "explanation": "Batch culture uses single nutrient supply."
+    },
+    {
+        "id": 342,
+        "question": "Continuous culture is advantageous because it provides",
+        "options": [
+            "Higher mutation",
+            "Constant product formation",
+            "Cell death",
+            "Nutrient limitation"
+        ],
+        "answer": 1,
+        "explanation": "Cells remain in log phase producing product continuously."
+    },
+    {
+        "id": 343,
+        "question": "Molecular diagnosis using PCR detects disease by identifying",
+        "options": [
+            "Symptoms",
+            "Proteins",
+            "Pathogen DNA",
+            "Antibodies"
+        ],
+        "answer": 2,
+        "explanation": "PCR detects pathogen DNA."
+    },
+    {
+        "id": 344,
+        "question": "ELISA can detect HIV infection by identifying",
+        "options": [
+            "Viral DNA",
+            "Antibodies against HIV",
+            "Viral RNA only",
+            "Symptoms"
+        ],
+        "answer": 1,
+        "explanation": "ELISA detects antibodies against HIV."
+    },
+    {
+        "id": 345,
+        "question": "DNA fingerprinting is highly specific because",
+        "options": [
+            "Genes are same",
+            "VNTRs vary among individuals",
+            "Proteins differ",
+            "RNA varies"
+        ],
+        "answer": 1,
+        "explanation": "VNTR regions are highly polymorphic."
+    },
+    {
+        "id": 346,
+        "question": "RFLP analysis requires digestion of DNA using",
+        "options": [
+            "Ligase",
+            "Restriction enzymes",
+            "Polymerase",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes cut DNA into fragments."
+    },
+    {
+        "id": 347,
+        "question": "DNA fingerprinting patterns are inherited according to",
+        "options": [
+            "Mutation",
+            "Mendelian inheritance",
+            "Environmental influence",
+            "Random chance"
+        ],
+        "answer": 1,
+        "explanation": "VNTRs follow Mendelian inheritance."
+    },
+    {
+        "id": 348,
+        "question": "GM crops help in sustainable agriculture by reducing",
+        "options": [
+            "Yield",
+            "Input cost",
+            "Pesticide use",
+            "Nutrient uptake"
+        ],
+        "answer": 2,
+        "explanation": "GM crops reduce chemical pesticide usage."
+    },
+    {
+        "id": 349,
+        "question": "Herbicide tolerant crops reduce labour by allowing",
+        "options": [
+            "Manual weeding",
+            "Mechanical harvesting",
+            "Chemical weed control",
+            "Crop rotation"
+        ],
+        "answer": 2,
+        "explanation": "Specific herbicides can be used without harming crops."
+    },
+    {
+        "id": 350,
+        "question": "Transgenic plants are tested in field trials to assess",
+        "options": [
+            "Only yield",
+            "Only safety",
+            "Environmental impact",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All parameters are evaluated in field trials."
+    },
+    {
+        "id": 351,
+        "question": "Biopiracy mainly involves exploitation of",
+        "options": [
+            "Genetic material",
+            "Chemical resources",
+            "Minerals",
+            "Water"
+        ],
+        "answer": 0,
+        "explanation": "Biopiracy involves unauthorized use of genetic resources."
+    },
+    {
+        "id": 352,
+        "question": "Traditional knowledge is valuable because it is",
+        "options": [
+            "Written",
+            "Scientific",
+            "Community owned",
+            "Commercial"
+        ],
+        "answer": 2,
+        "explanation": "Traditional knowledge belongs to local communities."
+    },
+    {
+        "id": 353,
+        "question": "Biosafety regulations are necessary to prevent",
+        "options": [
+            "Research",
+            "Innovation",
+            "Environmental damage",
+            "Education"
+        ],
+        "answer": 2,
+        "explanation": "They prevent harm to environment and health."
+    },
+    {
+        "id": 354,
+        "question": "GEAC functions under",
+        "options": [
+            "ICMR",
+            "DBT",
+            "UGC",
+            "AIIMS"
+        ],
+        "answer": 1,
+        "explanation": "GEAC functions under Department of Biotechnology."
+    },
+    {
+        "id": 355,
+        "question": "Asilomar Conference emphasized the need for",
+        "options": [
+            "Cloning",
+            "Gene therapy",
+            "Self regulation",
+            "Commercialisation"
+        ],
+        "answer": 2,
+        "explanation": "It emphasized self regulation in rDNA research."
+    },
+    {
+        "id": 356,
+        "question": "Recombinant therapeutics are preferred over conventional drugs because they are",
+        "options": [
+            "Cheaper",
+            "More effective",
+            "Highly specific",
+            "Easily degraded"
+        ],
+        "answer": 2,
+        "explanation": "They are highly specific with fewer side effects."
+    },
+    {
+        "id": 357,
+        "question": "Human insulin produced by rDNA technology is identical to",
+        "options": [
+            "Animal insulin",
+            "Synthetic insulin",
+            "Natural human insulin",
+            "Plant insulin"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant insulin is identical to natural human insulin."
+    },
+    {
+        "id": 358,
+        "question": "Transgenic animals are produced to study",
+        "options": [
+            "Crop yield",
+            "Human diseases",
+            "Plant physiology",
+            "Photosynthesis"
+        ],
+        "answer": 1,
+        "explanation": "They help in understanding human diseases."
+    },
+    {
+        "id": 359,
+        "question": "Rosie, the transgenic cow, produced milk enriched with",
+        "options": [
+            "Casein",
+            "Alpha-lactalbumin",
+            "Insulin",
+            "Hemoglobin"
+        ],
+        "answer": 1,
+        "explanation": "Milk was enriched with alpha-lactalbumin."
+    },
+    {
+        "id": 360,
+        "question": "Biotechnology helps in food security by",
+        "options": [
+            "Increasing production",
+            "Improving quality",
+            "Reducing losses",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All contribute to food security."
+    },
+    {
+        "id": 361,
+        "question": "Intellectual Property Rights provide protection to",
+        "options": [
+            "Resources",
+            "Ideas",
+            "Innovations",
+            "Communities"
+        ],
+        "answer": 2,
+        "explanation": "IPR protects innovations."
+    },
+    {
+        "id": 362,
+        "question": "Patents encourage researchers by providing",
+        "options": [
+            "Recognition",
+            "Financial benefits",
+            "Exclusive rights",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Patents provide exclusive commercial rights."
+    },
+    {
+        "id": 363,
+        "question": "Ethical concerns in biotechnology arise due to",
+        "options": [
+            "Use of microbes",
+            "Manipulation of genetic material",
+            "Fermentation",
+            "Breeding"
+        ],
+        "answer": 1,
+        "explanation": "Ethical issues arise from manipulation of life forms."
+    },
+    {
+        "id": 364,
+        "question": "GM food safety assessment includes testing for",
+        "options": [
+            "Allergenicity",
+            "Toxicity",
+            "Nutritional quality",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All safety parameters are tested."
+    },
+    {
+        "id": 365,
+        "question": "Environmental risk assessment of GM crops focuses on impact on",
+        "options": [
+            "Humans",
+            "Soil",
+            "Non target organisms",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All environmental impacts are evaluated."
+    },
+    {
+        "id": 366,
+        "question": "Biotechnology laws aim to balance innovation with",
+        "options": [
+            "Profit",
+            "Safety",
+            "Speed",
+            "Competition"
+        ],
+        "answer": 1,
+        "explanation": "Laws ensure safety along with innovation."
+    },
+    {
+        "id": 367,
+        "question": "Recombinant DNA research expanded rapidly after",
+        "options": [
+            "Discovery of PCR",
+            "Discovery of restriction enzymes",
+            "Asilomar Conference",
+            "Human Genome Project"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes made rDNA possible."
+    },
+    {
+        "id": 368,
+        "question": "Modern biotechnology integrates biology with",
+        "options": [
+            "Mathematics only",
+            "Physics and chemistry",
+            "Engineering only",
+            "Geography"
+        ],
+        "answer": 1,
+        "explanation": "It integrates biology with chemistry and physics."
+    },
+    {
+        "id": 369,
+        "question": "Central molecule manipulated in biotechnology is",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "DNA is the central molecule manipulated."
+    },
+    {
+        "id": 370,
+        "question": "Final aim of biotechnology as per NCERT is improvement of",
+        "options": [
+            "Industry",
+            "Economy",
+            "Human life",
+            "Technology"
+        ],
+        "answer": 2,
+        "explanation": "Human welfare is the final aim."
+    },
+    {
+        "id": 371,
+        "question": "Recombinant vaccines differ from conventional vaccines because they",
+        "options": [
+            "Contain live pathogen",
+            "Contain killed pathogen",
+            "Contain specific antigen",
+            "Cause infection"
+        ],
+        "answer": 2,
+        "explanation": "They contain only antigenic proteins."
+    },
+    {
+        "id": 372,
+        "question": "Hepatitis B vaccine is produced using",
+        "options": [
+            "Bacteria",
+            "Yeast",
+            "Plant cells",
+            "Animal cells"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B surface antigen is produced in yeast."
+    },
+    {
+        "id": 373,
+        "question": "Transgenic plants expressing vaccines are called",
+        "options": [
+            "Edible vaccines",
+            "Killed vaccines",
+            "Live vaccines",
+            "Toxoids"
+        ],
+        "answer": 0,
+        "explanation": "They are known as edible vaccines."
+    },
+    {
+        "id": 374,
+        "question": "DNA fingerprinting helps in resolving disputes related to",
+        "options": [
+            "Land",
+            "Property",
+            "Paternity",
+            "Education"
+        ],
+        "answer": 2,
+        "explanation": "DNA fingerprinting is used in paternity disputes."
+    },
+    {
+        "id": 375,
+        "question": "Forensic application of biotechnology mainly uses",
+        "options": [
+            "PCR",
+            "DNA fingerprinting",
+            "ELISA",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "DNA fingerprinting is widely used in forensics."
+    },
+    {
+        "id": 376,
+        "question": "PCR has largely replaced RFLP in diagnostics because PCR is",
+        "options": [
+            "Cheaper",
+            "Faster",
+            "Requires less DNA",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "PCR is faster and needs very little DNA."
+    },
+    {
+        "id": 377,
+        "question": "GM microbes are used in bioremediation to remove",
+        "options": [
+            "Heavy metals",
+            "Oil spills",
+            "Organic pollutants",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "GM microbes help remove various pollutants."
+    },
+    {
+        "id": 378,
+        "question": "Biotechnology helps environment by",
+        "options": [
+            "Increasing pollution",
+            "Reducing pollution",
+            "No effect",
+            "Only agriculture"
+        ],
+        "answer": 1,
+        "explanation": "Biotechnology aids in pollution reduction."
+    },
+    {
+        "id": 379,
+        "question": "Ethical committees in biotechnology ensure",
+        "options": [
+            "Profit",
+            "Compliance with ethical norms",
+            "Faster approval",
+            "Commercial success"
+        ],
+        "answer": 1,
+        "explanation": "They ensure ethical compliance."
+    },
+    {
+        "id": 380,
+        "question": "Biosafety committees evaluate risks associated with",
+        "options": [
+            "GM organisms",
+            "Medicines",
+            "Surgery",
+            "Vaccination"
+        ],
+        "answer": 0,
+        "explanation": "They assess risks of GM organisms."
+    },
+    {
+        "id": 381,
+        "question": "Gene banks conserve",
+        "options": [
+            "Proteins",
+            "DNA and genes",
+            "Cells only",
+            "Enzymes"
+        ],
+        "answer": 1,
+        "explanation": "Gene banks conserve genetic material."
+    },
+    {
+        "id": 382,
+        "question": "Cry genes introduced into crops reduce need for",
+        "options": [
+            "Irrigation",
+            "Fertilizers",
+            "Chemical insecticides",
+            "Seeds"
+        ],
+        "answer": 2,
+        "explanation": "Bt crops reduce insecticide usage."
+    },
+    {
+        "id": 383,
+        "question": "Target specificity of RNAi is due to",
+        "options": [
+            "Protein binding",
+            "Complementary base pairing",
+            "High temperature",
+            "Random cleavage"
+        ],
+        "answer": 1,
+        "explanation": "Complementary base pairing ensures specificity."
+    },
+    {
+        "id": 384,
+        "question": "GM crops are developed to tolerate abiotic stresses like",
+        "options": [
+            "Pests",
+            "Pathogens",
+            "Drought and salinity",
+            "Herbivory"
+        ],
+        "answer": 2,
+        "explanation": "Abiotic stress tolerance includes drought and salinity."
+    },
+    {
+        "id": 385,
+        "question": "Recombinant DNA technology differs from conventional breeding by allowing transfer of",
+        "options": [
+            "Multiple genes",
+            "Specific genes",
+            "Whole genome",
+            "Chromosomes"
+        ],
+        "answer": 1,
+        "explanation": "Specific gene transfer is possible."
+    },
+    {
+        "id": 386,
+        "question": "Biotechnology contributes to medicine by producing",
+        "options": [
+            "Antibiotics",
+            "Vaccines",
+            "Hormones",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are products of biotechnology."
+    },
+    {
+        "id": 387,
+        "question": "Genetically engineered insulin avoids risk of",
+        "options": [
+            "Overdose",
+            "Infection",
+            "Immune response",
+            "Degradation"
+        ],
+        "answer": 2,
+        "explanation": "It reduces immune response seen with animal insulin."
+    },
+    {
+        "id": 388,
+        "question": "Transgenic animals help in toxicity testing by",
+        "options": [
+            "Producing toxins",
+            "Responding to toxic substances",
+            "Breaking toxins",
+            "Absorbing toxins"
+        ],
+        "answer": 1,
+        "explanation": "They respond to toxic substances similarly to humans."
+    },
+    {
+        "id": 389,
+        "question": "Biotechnology research is regulated to ensure",
+        "options": [
+            "Speed",
+            "Profit",
+            "Safety and ethics",
+            "Secrecy"
+        ],
+        "answer": 2,
+        "explanation": "Regulation ensures safety and ethical standards."
+    },
+    {
+        "id": 390,
+        "question": "Major concern regarding GM foods is related to",
+        "options": [
+            "Taste",
+            "Colour",
+            "Safety",
+            "Cost"
+        ],
+        "answer": 2,
+        "explanation": "Safety is the major concern."
+    },
+    {
+        "id": 391,
+        "question": "Intellectual property protection helps innovators to",
+        "options": [
+            "Hide discoveries",
+            "Share freely",
+            "Gain economic benefit",
+            "Stop research"
+        ],
+        "answer": 2,
+        "explanation": "IPR allows innovators to gain economic benefits."
+    },
+    {
+        "id": 392,
+        "question": "Traditional knowledge systems are rich sources of",
+        "options": [
+            "Synthetic chemicals",
+            "Genetic diversity",
+            "Industrial products",
+            "Minerals"
+        ],
+        "answer": 1,
+        "explanation": "They are rich in genetic diversity."
+    },
+    {
+        "id": 393,
+        "question": "Biopiracy can be prevented by",
+        "options": [
+            "Ignoring research",
+            "Patenting traditional knowledge",
+            "Benefit sharing",
+            "Stopping biotechnology"
+        ],
+        "answer": 2,
+        "explanation": "Benefit sharing helps prevent biopiracy."
+    },
+    {
+        "id": 394,
+        "question": "Ethical use of biotechnology requires",
+        "options": [
+            "No regulation",
+            "Strict laws",
+            "Responsible research",
+            "Complete ban"
+        ],
+        "answer": 2,
+        "explanation": "Responsible research ensures ethical use."
+    },
+    {
+        "id": 395,
+        "question": "Biotechnology education emphasizes",
+        "options": [
+            "Theory only",
+            "Practical skills",
+            "Interdisciplinary approach",
+            "Single subject"
+        ],
+        "answer": 2,
+        "explanation": "Biotechnology is interdisciplinary."
+    },
+    {
+        "id": 396,
+        "question": "Recombinant DNA technology has maximum impact in field of",
+        "options": [
+            "Astronomy",
+            "Medicine",
+            "Geology",
+            "Meteorology"
+        ],
+        "answer": 1,
+        "explanation": "Medicine has major applications of rDNA technology."
+    },
+    {
+        "id": 397,
+        "question": "Genetic engineering has helped in understanding",
+        "options": [
+            "Cell structure",
+            "Gene function",
+            "Ecosystems",
+            "Evolution only"
+        ],
+        "answer": 1,
+        "explanation": "Gene function can be studied using genetic engineering."
+    },
+    {
+        "id": 398,
+        "question": "Biotechnology applications must comply with",
+        "options": [
+            "Ethical norms",
+            "Biosafety guidelines",
+            "Legal regulations",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All compliance measures are required."
+    },
+    {
+        "id": 399,
+        "question": "GM organisms are released into environment only after",
+        "options": [
+            "Laboratory testing",
+            "Greenhouse testing",
+            "Field trials",
+            "All stages"
+        ],
+        "answer": 3,
+        "explanation": "They undergo all stages of testing."
+    },
+    {
+        "id": 400,
+        "question": "Overall objective of biotechnology as highlighted in NCERT is to",
+        "options": [
+            "Advance technology",
+            "Increase profit",
+            "Serve human welfare",
+            "Promote industry"
+        ],
+        "answer": 2,
+        "explanation": "Human welfare is the central objective."
+    },
+    {
+        "id": 401,
+        "question": "Recombinant DNA technology allows multiplication of a gene because the gene is inserted into a",
+        "options": [
+            "Chromosome",
+            "Vector",
+            "Ribosome",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "Insertion into a vector allows replication and amplification of the gene."
+    },
+    {
+        "id": 402,
+        "question": "A cloning vector without an origin of replication would",
+        "options": [
+            "Replicate slowly",
+            "Fail to replicate",
+            "Produce protein",
+            "Undergo mutation"
+        ],
+        "answer": 1,
+        "explanation": "Ori is essential for replication of vector DNA."
+    },
+    {
+        "id": 403,
+        "question": "Restriction enzymes are also known as",
+        "options": [
+            "Ligases",
+            "Molecular scissors",
+            "Molecular glue",
+            "Polymerases"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes cut DNA at specific sites."
+    },
+    {
+        "id": 404,
+        "question": "The specificity of restriction enzymes depends on",
+        "options": [
+            "DNA length",
+            "Recognition sequence",
+            "DNA charge",
+            "DNA concentration"
+        ],
+        "answer": 1,
+        "explanation": "They recognize specific nucleotide sequences."
+    },
+    {
+        "id": 405,
+        "question": "Sticky ends are advantageous in cloning because they",
+        "options": [
+            "Repel each other",
+            "Facilitate base pairing",
+            "Prevent ligation",
+            "Are resistant to enzymes"
+        ],
+        "answer": 1,
+        "explanation": "Complementary overhangs allow easy base pairing."
+    },
+    {
+        "id": 406,
+        "question": "DNA ligase joins DNA fragments by forming",
+        "options": [
+            "Hydrogen bonds",
+            "Ionic bonds",
+            "Phosphodiester bonds",
+            "Glycosidic bonds"
+        ],
+        "answer": 2,
+        "explanation": "DNA ligase catalyzes phosphodiester bond formation."
+    },
+    {
+        "id": 407,
+        "question": "Plasmids are commonly used as vectors because they",
+        "options": [
+            "Are linear",
+            "Carry genes",
+            "Replicate independently",
+            "Are proteins"
+        ],
+        "answer": 2,
+        "explanation": "Independent replication makes plasmids suitable vectors."
+    },
+    {
+        "id": 408,
+        "question": "High copy number vectors result in",
+        "options": [
+            "Lower gene yield",
+            "Higher gene yield",
+            "No replication",
+            "Cell death"
+        ],
+        "answer": 1,
+        "explanation": "More copies lead to higher yield of gene product."
+    },
+    {
+        "id": 409,
+        "question": "Selectable markers help in identifying",
+        "options": [
+            "Vectors",
+            "Recombinant cells",
+            "Dead cells",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "Markers identify cells that have taken up recombinant DNA."
+    },
+    {
+        "id": 410,
+        "question": "Insertional inactivation refers to",
+        "options": [
+            "Gene deletion",
+            "Gene mutation",
+            "Disruption of marker gene",
+            "Loss of ori"
+        ],
+        "answer": 2,
+        "explanation": "Insertion of foreign DNA disrupts marker gene function."
+    },
+    {
+        "id": 411,
+        "question": "Blue-white screening uses chromogenic substrate",
+        "options": [
+            "IPTG",
+            "X-gal",
+            "Lactose",
+            "Sucrose"
+        ],
+        "answer": 1,
+        "explanation": "X-gal produces blue colour when cleaved by beta-galactosidase."
+    },
+    {
+        "id": 412,
+        "question": "PCR is used to amplify",
+        "options": [
+            "Proteins",
+            "RNA",
+            "DNA",
+            "Chromosomes"
+        ],
+        "answer": 2,
+        "explanation": "PCR selectively amplifies DNA segments."
+    },
+    {
+        "id": 413,
+        "question": "PCR requires thermostable DNA polymerase because",
+        "options": [
+            "Low temperature",
+            "High temperature",
+            "Neutral pH",
+            "High pressure"
+        ],
+        "answer": 1,
+        "explanation": "High temperatures during denaturation require thermostable enzyme."
+    },
+    {
+        "id": 414,
+        "question": "Primers in PCR are required to provide",
+        "options": [
+            "ATP",
+            "Free 3' OH group",
+            "Restriction site",
+            "Ligase activity"
+        ],
+        "answer": 1,
+        "explanation": "DNA polymerase requires a free 3' OH group to initiate synthesis."
+    },
+    {
+        "id": 415,
+        "question": "After 5 cycles of PCR, the number of DNA copies produced is",
+        "options": [
+            "10",
+            "16",
+            "32",
+            "64"
+        ],
+        "answer": 2,
+        "explanation": "DNA copies double each cycle; 2^5 = 32."
+    },
+    {
+        "id": 416,
+        "question": "Gel electrophoresis separates DNA fragments on the basis of",
+        "options": [
+            "Shape",
+            "Charge",
+            "Size",
+            "Sequence"
+        ],
+        "answer": 2,
+        "explanation": "DNA fragments are separated according to size."
+    },
+    {
+        "id": 417,
+        "question": "DNA fragments migrate towards the anode because DNA is",
+        "options": [
+            "Positively charged",
+            "Neutral",
+            "Negatively charged",
+            "Amphoteric"
+        ],
+        "answer": 2,
+        "explanation": "Phosphate groups give DNA a negative charge."
+    },
+    {
+        "id": 418,
+        "question": "Ethidium bromide fluoresces under",
+        "options": [
+            "Visible light",
+            "UV light",
+            "Infrared light",
+            "X-rays"
+        ],
+        "answer": 1,
+        "explanation": "Ethidium bromide fluoresces under UV light."
+    },
+    {
+        "id": 419,
+        "question": "Elution is the process of",
+        "options": [
+            "Cutting DNA",
+            "Separating DNA",
+            "Recovering DNA from gel",
+            "Staining DNA"
+        ],
+        "answer": 2,
+        "explanation": "Elution recovers DNA fragments from agarose gel."
+    },
+    {
+        "id": 420,
+        "question": "Transformation in bacteria refers to",
+        "options": [
+            "Protein synthesis",
+            "DNA replication",
+            "Uptake of foreign DNA",
+            "Cell division"
+        ],
+        "answer": 2,
+        "explanation": "Transformation is uptake of foreign DNA by bacteria."
+    },
+    {
+        "id": 421,
+        "question": "Calcium chloride treatment increases DNA uptake by",
+        "options": [
+            "Increasing enzyme activity",
+            "Neutralising charges",
+            "Destroying cell wall",
+            "Stopping metabolism"
+        ],
+        "answer": 1,
+        "explanation": "Ca2+ ions neutralise negative charges, facilitating DNA entry."
+    },
+    {
+        "id": 422,
+        "question": "Heat shock during transformation is usually given at",
+        "options": [
+            "0°C",
+            "25°C",
+            "42°C",
+            "60°C"
+        ],
+        "answer": 2,
+        "explanation": "Heat shock at 42°C facilitates DNA entry."
+    },
+    {
+        "id": 423,
+        "question": "Electroporation creates temporary pores in",
+        "options": [
+            "Nucleus",
+            "Cell wall",
+            "Cell membrane",
+            "Chromosome"
+        ],
+        "answer": 2,
+        "explanation": "Electric pulse creates pores in cell membrane."
+    },
+    {
+        "id": 424,
+        "question": "Microinjection is commonly used to introduce genes into",
+        "options": [
+            "Bacteria",
+            "Plant cells",
+            "Animal cells",
+            "Viruses"
+        ],
+        "answer": 2,
+        "explanation": "Microinjection is used mainly in animal cells."
+    },
+    {
+        "id": 425,
+        "question": "Biolistics is also known as",
+        "options": [
+            "Gene gun method",
+            "Electroporation",
+            "Microinjection",
+            "Transformation"
+        ],
+        "answer": 0,
+        "explanation": "Biolistics uses gene gun to deliver DNA."
+    },
+    {
+        "id": 426,
+        "question": "Agrobacterium tumefaciens transfers genes using",
+        "options": [
+            "Ri plasmid",
+            "Ti plasmid",
+            "Cosmid",
+            "Phagemid"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid transfers T-DNA into plant cells."
+    },
+    {
+        "id": 427,
+        "question": "T-DNA integrates into",
+        "options": [
+            "Plasmid DNA",
+            "Mitochondrial DNA",
+            "Plant nuclear DNA",
+            "Chloroplast DNA"
+        ],
+        "answer": 2,
+        "explanation": "T-DNA integrates into plant nuclear genome."
+    },
+    {
+        "id": 428,
+        "question": "Disarmed Ti plasmid is used because it",
+        "options": [
+            "Causes tumor",
+            "Kills plant cells",
+            "Transfers genes safely",
+            "Cannot replicate"
+        ],
+        "answer": 2,
+        "explanation": "Tumor causing genes are removed for safe gene transfer."
+    },
+    {
+        "id": 429,
+        "question": "Bt toxin genes are derived from",
+        "options": [
+            "Virus",
+            "Fungus",
+            "Bacterium",
+            "Plant"
+        ],
+        "answer": 2,
+        "explanation": "Bt genes come from Bacillus thuringiensis."
+    },
+    {
+        "id": 430,
+        "question": "Cry proteins become active in insect gut due to",
+        "options": [
+            "Acidic pH",
+            "Neutral pH",
+            "Alkaline pH",
+            "High temperature"
+        ],
+        "answer": 2,
+        "explanation": "Alkaline pH activates Cry protoxins."
+    },
+    {
+        "id": 431,
+        "question": "Cry proteins kill insects by",
+        "options": [
+            "Blocking respiration",
+            "Damaging gut lining",
+            "Inhibiting nerves",
+            "Stopping digestion"
+        ],
+        "answer": 1,
+        "explanation": "They form pores in gut epithelial cells."
+    },
+    {
+        "id": 432,
+        "question": "RNA interference leads to gene silencing by",
+        "options": [
+            "DNA mutation",
+            "mRNA degradation",
+            "Protein denaturation",
+            "Chromosome deletion"
+        ],
+        "answer": 1,
+        "explanation": "RNAi degrades target mRNA."
+    },
+    {
+        "id": 433,
+        "question": "Double stranded RNA is processed into",
+        "options": [
+            "mRNA",
+            "rRNA",
+            "siRNA",
+            "tRNA"
+        ],
+        "answer": 2,
+        "explanation": "dsRNA is processed into small interfering RNA."
+    },
+    {
+        "id": 434,
+        "question": "RNAi technology is used to develop resistance against",
+        "options": [
+            "Viruses",
+            "Nematodes",
+            "Both",
+            "Neither"
+        ],
+        "answer": 2,
+        "explanation": "RNAi is effective against viruses and nematodes."
+    },
+    {
+        "id": 435,
+        "question": "Golden rice is enriched with",
+        "options": [
+            "Iron",
+            "Vitamin A",
+            "Vitamin C",
+            "Protein"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice produces beta-carotene, precursor of vitamin A."
+    },
+    {
+        "id": 436,
+        "question": "Yellow colour of golden rice is due to accumulation of",
+        "options": [
+            "Xanthophyll",
+            "Carotene",
+            "Chlorophyll",
+            "Anthocyanin"
+        ],
+        "answer": 1,
+        "explanation": "Beta-carotene imparts yellow colour."
+    },
+    {
+        "id": 437,
+        "question": "Gene therapy aims to",
+        "options": [
+            "Alter chromosome number",
+            "Replace defective gene",
+            "Mutate genes",
+            "Silence all genes"
+        ],
+        "answer": 1,
+        "explanation": "Gene therapy replaces defective gene with functional gene."
+    },
+    {
+        "id": 438,
+        "question": "First clinical gene therapy was done for",
+        "options": [
+            "Cancer",
+            "Hemophilia",
+            "ADA deficiency",
+            "Cystic fibrosis"
+        ],
+        "answer": 2,
+        "explanation": "First gene therapy targeted ADA deficiency."
+    },
+    {
+        "id": 439,
+        "question": "Initial ADA gene therapy involved transfer of gene into",
+        "options": [
+            "Bone marrow cells",
+            "Lymphocytes",
+            "Stem cells",
+            "Gametes"
+        ],
+        "answer": 1,
+        "explanation": "Functional ADA gene was introduced into lymphocytes."
+    },
+    {
+        "id": 440,
+        "question": "Permanent cure of ADA deficiency requires gene insertion into",
+        "options": [
+            "Liver cells",
+            "Skin cells",
+            "Bone marrow stem cells",
+            "Muscle cells"
+        ],
+        "answer": 2,
+        "explanation": "Stem cells ensure long-term gene expression."
+    },
+    {
+        "id": 441,
+        "question": "Human insulin produced by rDNA technology is also called",
+        "options": [
+            "Proinsulin",
+            "Humulin",
+            "Animal insulin",
+            "Synthetic insulin"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant human insulin is called Humulin."
+    },
+    {
+        "id": 442,
+        "question": "Earlier insulin caused allergic reactions because it was",
+        "options": [
+            "Impure",
+            "Animal derived",
+            "Synthetic",
+            "Plant derived"
+        ],
+        "answer": 1,
+        "explanation": "Animal insulin differs slightly from human insulin."
+    },
+    {
+        "id": 443,
+        "question": "Downstream processing includes steps like",
+        "options": [
+            "Cell growth",
+            "Gene cloning",
+            "Purification and formulation",
+            "Transformation"
+        ],
+        "answer": 2,
+        "explanation": "Downstream processing purifies the product."
+    },
+    {
+        "id": 444,
+        "question": "Upstream processing mainly involves",
+        "options": [
+            "Product packaging",
+            "Cell culture",
+            "Purification",
+            "Marketing"
+        ],
+        "answer": 1,
+        "explanation": "Upstream processing includes growth of cells."
+    },
+    {
+        "id": 445,
+        "question": "Bioreactors are large vessels used for",
+        "options": [
+            "DNA sequencing",
+            "Large scale cell culture",
+            "Gel electrophoresis",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Bioreactors support large scale production."
+    },
+    {
+        "id": 446,
+        "question": "Stirred tank bioreactor ensures",
+        "options": [
+            "Cell death",
+            "Uniform mixing",
+            "DNA mutation",
+            "Low oxygen"
+        ],
+        "answer": 1,
+        "explanation": "Stirring maintains uniform conditions."
+    },
+    {
+        "id": 447,
+        "question": "Antifoam agents in bioreactors prevent",
+        "options": [
+            "Contamination",
+            "Foam formation",
+            "Mutation",
+            "Heating"
+        ],
+        "answer": 1,
+        "explanation": "Antifoam agents reduce foam formation."
+    },
+    {
+        "id": 448,
+        "question": "Continuous culture maintains cells in",
+        "options": [
+            "Lag phase",
+            "Log phase",
+            "Stationary phase",
+            "Death phase"
+        ],
+        "answer": 1,
+        "explanation": "Continuous supply maintains log phase."
+    },
+    {
+        "id": 449,
+        "question": "Batch culture differs from continuous culture because nutrients are",
+        "options": [
+            "Supplied continuously",
+            "Supplied once",
+            "Never supplied",
+            "Supplied intermittently"
+        ],
+        "answer": 1,
+        "explanation": "Batch culture has one-time nutrient supply."
+    },
+    {
+        "id": 450,
+        "question": "Molecular diagnosis using PCR detects disease by identifying",
+        "options": [
+            "Symptoms",
+            "Proteins",
+            "Pathogen DNA",
+            "Antibodies"
+        ],
+        "answer": 2,
+        "explanation": "PCR detects pathogen DNA."
+    },
+    {
+        "id": 451,
+        "question": "ELISA is based on",
+        "options": [
+            "DNA-DNA interaction",
+            "RNA-RNA interaction",
+            "Antigen-antibody interaction",
+            "Protein synthesis"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects antigen-antibody reactions."
+    },
+    {
+        "id": 452,
+        "question": "DNA fingerprinting is based on polymorphism in",
+        "options": [
+            "Coding DNA",
+            "Non-coding DNA",
+            "mRNA",
+            "Proteins"
+        ],
+        "answer": 1,
+        "explanation": "VNTRs in non-coding DNA show variation."
+    },
+    {
+        "id": 453,
+        "question": "VNTR stands for",
+        "options": [
+            "Variable Nucleotide Tandem Repeat",
+            "Variable Number Tandem Repeat",
+            "Verified Nucleotide Tandem Repeat",
+            "Variable Number Transcription Region"
+        ],
+        "answer": 1,
+        "explanation": "VNTR means Variable Number Tandem Repeat."
+    },
+    {
+        "id": 454,
+        "question": "DNA fingerprinting is used in forensics for",
+        "options": [
+            "Crime detection",
+            "Paternity disputes",
+            "Identity confirmation",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are applications of DNA fingerprinting."
+    },
+    {
+        "id": 455,
+        "question": "GM crops reduce the use of",
+        "options": [
+            "Water",
+            "Fertilizers",
+            "Chemical pesticides",
+            "Seeds"
+        ],
+        "answer": 2,
+        "explanation": "GM crops reduce pesticide usage."
+    },
+    {
+        "id": 456,
+        "question": "Herbicide tolerant crops allow farmers to",
+        "options": [
+            "Avoid weeds",
+            "Use specific herbicides",
+            "Increase pests",
+            "Reduce yield"
+        ],
+        "answer": 1,
+        "explanation": "They tolerate specific herbicides."
+    },
+    {
+        "id": 457,
+        "question": "Transgenic plants are those which contain",
+        "options": [
+            "Foreign RNA",
+            "Foreign DNA",
+            "Foreign protein only",
+            "Foreign lipid"
+        ],
+        "answer": 1,
+        "explanation": "Transgenic plants contain foreign DNA."
+    },
+    {
+        "id": 458,
+        "question": "Biopiracy refers to",
+        "options": [
+            "Illegal cloning",
+            "Unauthorized use of bioresources",
+            "Gene mutation",
+            "DNA theft"
+        ],
+        "answer": 1,
+        "explanation": "Biopiracy is unauthorized exploitation of bioresources."
+    },
+    {
+        "id": 459,
+        "question": "Biosafety guidelines are framed to protect",
+        "options": [
+            "Researchers",
+            "Environment and human health",
+            "Industries",
+            "Patents"
+        ],
+        "answer": 1,
+        "explanation": "They ensure environmental and human safety."
+    },
+    {
+        "id": 460,
+        "question": "GEAC in India regulates",
+        "options": [
+            "Vaccines",
+            "Medical drugs",
+            "GM organisms",
+            "All medicines"
+        ],
+        "answer": 2,
+        "explanation": "GEAC regulates genetically modified organisms."
+    },
+    {
+        "id": 461,
+        "question": "Asilomar Conference was held to address concerns related to",
+        "options": [
+            "Cloning",
+            "Gene therapy",
+            "Biosafety of rDNA",
+            "PCR"
+        ],
+        "answer": 2,
+        "explanation": "It focused on biosafety issues of rDNA technology."
+    },
+    {
+        "id": 462,
+        "question": "Recombinant therapeutics are preferred because they",
+        "options": [
+            "Are cheaper",
+            "Are highly specific",
+            "Have side effects",
+            "Are unstable"
+        ],
+        "answer": 1,
+        "explanation": "They are specific with fewer side effects."
+    },
+    {
+        "id": 463,
+        "question": "Human growth hormone produced by rDNA technology is used to treat",
+        "options": [
+            "Diabetes",
+            "Dwarfism",
+            "Cancer",
+            "Anemia"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant HGH treats growth hormone deficiency."
+    },
+    {
+        "id": 464,
+        "question": "Transgenic animals are useful in studying",
+        "options": [
+            "Photosynthesis",
+            "Human diseases",
+            "Plant growth",
+            "Evolution"
+        ],
+        "answer": 1,
+        "explanation": "They help in understanding human diseases."
+    },
+    {
+        "id": 465,
+        "question": "Rosie, the transgenic cow, produced milk enriched with",
+        "options": [
+            "Insulin",
+            "Alpha-lactalbumin",
+            "Casein",
+            "Hemoglobin"
+        ],
+        "answer": 1,
+        "explanation": "Milk contained alpha-lactalbumin."
+    },
+    {
+        "id": 466,
+        "question": "Biotechnology contributes to agriculture by",
+        "options": [
+            "Increasing yield",
+            "Improving nutrition",
+            "Enhancing resistance",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are major contributions."
+    },
+    {
+        "id": 467,
+        "question": "Intellectual Property Rights protect",
+        "options": [
+            "Ideas",
+            "Innovations",
+            "Resources",
+            "Communities"
+        ],
+        "answer": 1,
+        "explanation": "IPR protects innovations."
+    },
+    {
+        "id": 468,
+        "question": "Patents provide inventors with",
+        "options": [
+            "Free access",
+            "Exclusive rights",
+            "No protection",
+            "No benefits"
+        ],
+        "answer": 1,
+        "explanation": "Patents give exclusive commercial rights."
+    },
+    {
+        "id": 469,
+        "question": "Traditional knowledge protection prevents",
+        "options": [
+            "Research",
+            "Biopiracy",
+            "Innovation",
+            "Education"
+        ],
+        "answer": 1,
+        "explanation": "It prevents exploitation of traditional knowledge."
+    },
+    {
+        "id": 470,
+        "question": "Ethical concerns in biotechnology arise due to",
+        "options": [
+            "Use of enzymes",
+            "Manipulation of genetic material",
+            "Fermentation",
+            "Cell culture"
+        ],
+        "answer": 1,
+        "explanation": "Ethical issues arise from manipulation of life forms."
+    },
+    {
+        "id": 471,
+        "question": "GM food safety assessment includes testing for",
+        "options": [
+            "Taste",
+            "Colour",
+            "Allergenicity",
+            "Yield"
+        ],
+        "answer": 2,
+        "explanation": "Allergenicity is a key safety parameter."
+    },
+    {
+        "id": 472,
+        "question": "Environmental impact assessment of GM crops evaluates effect on",
+        "options": [
+            "Humans",
+            "Soil",
+            "Non-target organisms",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All environmental effects are assessed."
+    },
+    {
+        "id": 473,
+        "question": "Biotechnology laws aim to balance innovation with",
+        "options": [
+            "Speed",
+            "Profit",
+            "Safety",
+            "Competition"
+        ],
+        "answer": 2,
+        "explanation": "Safety is balanced with innovation."
+    },
+    {
+        "id": 474,
+        "question": "Recombinant DNA technology has maximum application in",
+        "options": [
+            "Geology",
+            "Medicine",
+            "Astronomy",
+            "Meteorology"
+        ],
+        "answer": 1,
+        "explanation": "Medicine has extensive applications."
+    },
+    {
+        "id": 475,
+        "question": "Modern biotechnology integrates biology with",
+        "options": [
+            "Geography",
+            "Physics and chemistry",
+            "Economics",
+            "History"
+        ],
+        "answer": 1,
+        "explanation": "It integrates biology with chemistry and physics."
+    },
+    {
+        "id": 476,
+        "question": "Central molecule manipulated in biotechnology is",
+        "options": [
+            "Protein",
+            "RNA",
+            "DNA",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "DNA is the central molecule manipulated."
+    },
+    {
+        "id": 477,
+        "question": "Recombinant vaccines differ from conventional vaccines because they",
+        "options": [
+            "Contain whole pathogen",
+            "Contain specific antigen",
+            "Cause disease",
+            "Are live"
+        ],
+        "answer": 1,
+        "explanation": "They contain only antigenic proteins."
+    },
+    {
+        "id": 478,
+        "question": "Hepatitis B vaccine is produced using",
+        "options": [
+            "Bacteria",
+            "Yeast",
+            "Plant cells",
+            "Animal cells"
+        ],
+        "answer": 1,
+        "explanation": "HBsAg is produced in yeast."
+    },
+    {
+        "id": 479,
+        "question": "Edible vaccines are produced using",
+        "options": [
+            "Animals",
+            "Plants",
+            "Bacteria",
+            "Viruses"
+        ],
+        "answer": 1,
+        "explanation": "Edible vaccines are produced in transgenic plants."
+    },
+    {
+        "id": 480,
+        "question": "PCR has replaced RFLP in diagnostics because PCR",
+        "options": [
+            "Is slower",
+            "Needs more DNA",
+            "Is faster and sensitive",
+            "Is less accurate"
+        ],
+        "answer": 2,
+        "explanation": "PCR is faster and highly sensitive."
+    },
+    {
+        "id": 481,
+        "question": "GM microbes are used in bioremediation to remove",
+        "options": [
+            "Oil spills",
+            "Heavy metals",
+            "Organic pollutants",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "GM microbes remove various pollutants."
+    },
+    {
+        "id": 482,
+        "question": "Biotechnology helps environment by",
+        "options": [
+            "Increasing pollution",
+            "Reducing pollution",
+            "No effect",
+            "Only agriculture"
+        ],
+        "answer": 1,
+        "explanation": "Biotechnology aids pollution control."
+    },
+    {
+        "id": 483,
+        "question": "Ethical committees ensure biotechnology research follows",
+        "options": [
+            "Profit goals",
+            "Ethical norms",
+            "Fast approval",
+            "Commercial rules"
+        ],
+        "answer": 1,
+        "explanation": "Ethical committees ensure ethical compliance."
+    },
+    {
+        "id": 484,
+        "question": "Biosafety committees assess risks associated with",
+        "options": [
+            "Vaccines",
+            "Medicines",
+            "GM organisms",
+            "Surgery"
+        ],
+        "answer": 2,
+        "explanation": "They assess risks of GM organisms."
+    },
+    {
+        "id": 485,
+        "question": "Gene banks are used to conserve",
+        "options": [
+            "Proteins",
+            "Genes",
+            "Enzymes",
+            "Lipids"
+        ],
+        "answer": 1,
+        "explanation": "Gene banks conserve genetic material."
+    },
+    {
+        "id": 486,
+        "question": "Bt crops reduce need for",
+        "options": [
+            "Irrigation",
+            "Fertilizers",
+            "Chemical insecticides",
+            "Seeds"
+        ],
+        "answer": 2,
+        "explanation": "Bt crops reduce insecticide usage."
+    },
+    {
+        "id": 487,
+        "question": "RNAi specificity depends on",
+        "options": [
+            "Temperature",
+            "Complementary base pairing",
+            "Protein interaction",
+            "Random cleavage"
+        ],
+        "answer": 1,
+        "explanation": "Complementary base pairing ensures specificity."
+    },
+    {
+        "id": 488,
+        "question": "GM crops are developed to tolerate abiotic stress such as",
+        "options": [
+            "Herbivory",
+            "Pathogens",
+            "Drought and salinity",
+            "Insects"
+        ],
+        "answer": 2,
+        "explanation": "Abiotic stress tolerance includes drought and salinity."
+    },
+    {
+        "id": 489,
+        "question": "Recombinant DNA technology allows transfer of",
+        "options": [
+            "Whole genome",
+            "Specific gene",
+            "Chromosome",
+            "Cell"
+        ],
+        "answer": 1,
+        "explanation": "Specific gene transfer is possible."
+    },
+    {
+        "id": 490,
+        "question": "Biotechnology contributes to medicine by producing",
+        "options": [
+            "Vaccines",
+            "Hormones",
+            "Enzymes",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All are biotechnology products."
+    },
+    {
+        "id": 491,
+        "question": "Genetically engineered insulin reduces risk of",
+        "options": [
+            "Overdose",
+            "Immune response",
+            "Mutation",
+            "Degradation"
+        ],
+        "answer": 1,
+        "explanation": "It avoids immune reactions seen with animal insulin."
+    },
+    {
+        "id": 492,
+        "question": "Transgenic animals are used in toxicity testing because they",
+        "options": [
+            "Produce toxins",
+            "Respond like humans",
+            "Absorb toxins",
+            "Destroy toxins"
+        ],
+        "answer": 1,
+        "explanation": "They show responses similar to humans."
+    },
+    {
+        "id": 493,
+        "question": "Biotechnology research is regulated mainly to ensure",
+        "options": [
+            "Profit",
+            "Speed",
+            "Safety and ethics",
+            "Secrecy"
+        ],
+        "answer": 2,
+        "explanation": "Regulation ensures safety and ethical standards."
+    },
+    {
+        "id": 494,
+        "question": "Major public concern regarding GM foods is related to",
+        "options": [
+            "Taste",
+            "Colour",
+            "Safety",
+            "Cost"
+        ],
+        "answer": 2,
+        "explanation": "Safety is the major concern."
+    },
+    {
+        "id": 495,
+        "question": "Intellectual property protection allows innovators to",
+        "options": [
+            "Hide discoveries",
+            "Gain economic benefit",
+            "Stop research",
+            "Avoid sharing"
+        ],
+        "answer": 1,
+        "explanation": "IPR provides economic benefits to innovators."
+    },
+    {
+        "id": 496,
+        "question": "Traditional knowledge systems are rich sources of",
+        "options": [
+            "Synthetic chemicals",
+            "Genetic diversity",
+            "Industrial goods",
+            "Minerals"
+        ],
+        "answer": 1,
+        "explanation": "Traditional knowledge holds genetic diversity."
+    },
+    {
+        "id": 497,
+        "question": "Biopiracy can be prevented through",
+        "options": [
+            "Ignoring research",
+            "Benefit sharing",
+            "Stopping biotechnology",
+            "No protection"
+        ],
+        "answer": 1,
+        "explanation": "Benefit sharing prevents biopiracy."
+    },
+    {
+        "id": 498,
+        "question": "Ethical use of biotechnology requires",
+        "options": [
+            "No regulation",
+            "Responsible research",
+            "Complete ban",
+            "Only patents"
+        ],
+        "answer": 1,
+        "explanation": "Responsible research ensures ethical use."
+    },
+    {
+        "id": 499,
+        "question": "Applications of biotechnology must comply with",
+        "options": [
+            "Ethical norms",
+            "Biosafety guidelines",
+            "Legal regulations",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All compliances are mandatory."
+    },
+    {
+        "id": 500,
+        "question": "The ultimate objective of biotechnology as stated in NCERT is",
+        "options": [
+            "Industrial growth",
+            "Scientific advancement",
+            "Human welfare",
+            "Economic monopoly"
+        ],
+        "answer": 2,
+        "explanation": "Human welfare is the ultimate objective of biotechnology."
+    }
+]

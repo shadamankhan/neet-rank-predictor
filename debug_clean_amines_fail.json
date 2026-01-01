@@ -1,0 +1,1151 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is a primary amine?",
+        "options": [
+            "CH3NH2",
+            "(CH3)2NH",
+            "(CH3)3N",
+            "C6H5NHCH3"
+        ],
+        "answer": 0,
+        "explanation": "Primary amines have one alkyl/aryl group and two hydrogens attached to N (CH3NH2)."
+    },
+    {
+        "id": 2,
+        "question": "The nitrogen atom in amines is typically:",
+        "options": [
+            "sp hybridised",
+            "sp2 hybridised",
+            "sp3 hybridised",
+            "sp3d hybridised"
+        ],
+        "answer": 2,
+        "explanation": "Amines have an sp3 hybridised nitrogen with a lone pair of electrons."
+    },
+    {
+        "id": 3,
+        "question": "Which method is used to prepare primary amines from amides?",
+        "options": [
+            "Gabriel phthalimide synthesis",
+            "Hofmann bromamide reaction",
+            "Carbylamine reaction",
+            "Stephen reduction"
+        ],
+        "answer": 1,
+        "explanation": "Hofmann bromamide degradation converts amides to primary amines."
+    },
+    {
+        "id": 4,
+        "question": "What is the IUPAC name of CH3CH2NH2?",
+        "options": [
+            "Methanamine",
+            "Ethanamine",
+            "Propylamine",
+            "Aminoethane"
+        ],
+        "answer": 1,
+        "explanation": "CH3CH2NH2 is named ethanamine according to IUPAC rules."
+    },
+    {
+        "id": 5,
+        "question": "Which of the following amines is most basic in aqueous solution?",
+        "options": [
+            "Aniline",
+            "Methylamine",
+            "Dimethylamine",
+            "Trimethylamine"
+        ],
+        "answer": 2,
+        "explanation": "Secondary amines (like dimethylamine) often show higher basicity due to inductive effects, though solvation also matters."
+    },
+    {
+        "id": 6,
+        "question": "Basicity of amines in aqueous solution depends on:",
+        "options": [
+            "Inductive effect",
+            "Solvation effect",
+            "Resonance",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Basicity is influenced by inductive, resonance, and solvation effects in aqueous medium."
+    },
+    {
+        "id": 7,
+        "question": "Which amine reacts with nitrous acid to form alcohol?",
+        "options": [
+            "Primary alkyl amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "Aromatic amine"
+        ],
+        "answer": 0,
+        "explanation": "Primary alkylamines with nitrous acid give alcohols."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following does not react with nitrous acid?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "Amide"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary amines do not form nitroso derivatives with nitrous acid."
+    },
+    {
+        "id": 9,
+        "question": "Which reagent is used in the carbylamine test?",
+        "options": [
+            "Phenyl isocyanide",
+            "Chloroform + base",
+            "Acetic anhydride",
+            "HNO3"
+        ],
+        "answer": 1,
+        "explanation": "Carbylamine reaction uses chloroform and base to produce isocyanides with primary amines."
+    },
+    {
+        "id": 10,
+        "question": "Gabriel phthalimide synthesis is used for the preparation of:",
+        "options": [
+            "Secondary amines",
+            "Tertiary amines",
+            "Primary amines",
+            "Quaternary ammonium salts"
+        ],
+        "answer": 2,
+        "explanation": "It prepares primary amines selectively."
+    },
+    {
+        "id": 11,
+        "question": "Which of the following is an aromatic amine?",
+        "options": [
+            "Methylamine",
+            "Ethanamine",
+            "Aniline",
+            "Diethylamine"
+        ],
+        "answer": 2,
+        "explanation": "Aniline (C6H5NH2) is an aromatic amine."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following describes a secondary amine?",
+        "options": [
+            "RNH2",
+            "R2NH",
+            "R3N",
+            "NH3"
+        ],
+        "answer": 1,
+        "explanation": "Secondary amines have two alkyl/aryl groups attached to nitrogen (R2NH)."
+    },
+    {
+        "id": 13,
+        "question": "The lone pair on nitrogen in amines is responsible for its:",
+        "options": [
+            "Nucleophilicity",
+            "Basicity",
+            "Coordination ability",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "The lone pair gives amines basic and nucleophilic character."
+    },
+    {
+        "id": 14,
+        "question": "Which reaction converts acetamide to methanamine?",
+        "options": [
+            "Hofmann bromamide reaction",
+            "Gabriel synthesis",
+            "Esterification",
+            "Cannizzaro reaction"
+        ],
+        "answer": 0,
+        "explanation": "Hofmann bromamide degradation forms methanamine from acetamide."
+    },
+    {
+        "id": 15,
+        "question": "Which of the following is least basic?",
+        "options": [
+            "Methylamine",
+            "Aniline",
+            "Dimethylamine",
+            "Ethanamine"
+        ],
+        "answer": 1,
+        "explanation": "Aniline’s lone pair is delocalised into the aromatic ring, reducing basicity."
+    },
+    {
+        "id": 16,
+        "question": "Upon reaction with nitrous acid, arylamines produce:",
+        "options": [
+            "Alcohols",
+            "Phenols",
+            "Azo compounds",
+            "No reaction"
+        ],
+        "answer": 1,
+        "explanation": "Aryl primary amines with nitrous acid give phenols."
+    },
+    {
+        "id": 17,
+        "question": "How many structural isomers are possible for C3H9N?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "2"
+        ],
+        "answer": 1,
+        "explanation": "C3H9N has four isomers including primary, secondary and mixed chain amines."
+    },
+    {
+        "id": 18,
+        "question": "Which test distinguishes primary from secondary and tertiary amines?",
+        "options": [
+            "Lucas test",
+            "Hinsberg test",
+            "Tollens test",
+            "Bromine water test"
+        ],
+        "answer": 1,
+        "explanation": "Hinsberg test separates amines based on sulphonamide formation."
+    },
+    {
+        "id": 19,
+        "question": "Which amine will not react with Hinsberg reagent?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "None of the above"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary amines do not form sulphonamides with Hinsberg reagent."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following has the highest boiling point?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "Ammonia"
+        ],
+        "answer": 0,
+        "explanation": "Primary amines can hydrogen bond more effectively than secondary or tertiary amines."
+    },
+    {
+        "id": 21,
+        "question": "Carbylamine reaction identifies:",
+        "options": [
+            "Primary amines",
+            "Secondary amines",
+            "Tertiary amines",
+            "All amines"
+        ],
+        "answer": 0,
+        "explanation": "Carbylamine (isocyanide) test is positive for primary amines."
+    },
+    {
+        "id": 22,
+        "question": "Aromatic amines are generally:",
+        "options": [
+            "More basic than aliphatic amines",
+            "Less basic than aliphatic amines",
+            "Equally basic",
+            "Non-basic"
+        ],
+        "answer": 1,
+        "explanation": "Aryl amines are less basic due to lone pair delocalisation into the benzene ring."
+    },
+    {
+        "id": 23,
+        "question": "Which synthesis is used to prepare primary amines without rearrangement?",
+        "options": [
+            "Gabriel synthesis",
+            "Hofmann degradation",
+            "Carbylamine reaction",
+            "Eschweiler–Clarke reaction"
+        ],
+        "answer": 0,
+        "explanation": "Gabriel synthesis gives primary amines without rearrangement."
+    },
+    {
+        "id": 24,
+        "question": "The basic strength order in aqueous solution is often influenced by:",
+        "options": [
+            "Inductive effect",
+            "Solvation",
+            "Resonance",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Basicity depends on several electronic and solvation effects."
+    },
+    {
+        "id": 25,
+        "question": "Which amine does not form diazonium salt with nitrous acid?",
+        "options": [
+            "Primary aromatic amine",
+            "Primary aliphatic amine",
+            "Secondary amine",
+            "None"
+        ],
+        "answer": 2,
+        "explanation": "Secondary amines do not form stable diazonium salts with nitrous acid."
+    },
+    {
+        "id": 26,
+        "question": "Reduction of nitrobenzene gives:",
+        "options": [
+            "Aniline",
+            "Nitrosobenzene",
+            "Phenol",
+            "Benzene"
+        ],
+        "answer": 0,
+        "explanation": "Hydrogenation/reduction of nitrobenzene yields aniline."
+    },
+    {
+        "id": 27,
+        "question": "Which of the following reagents can be used to reduce nitro compounds to amines?",
+        "options": [
+            "H2/Pd",
+            "Sn/HCl",
+            "Fe/HCl",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "All listed reduce nitro groups to amines under suitable conditions."
+    },
+    {
+        "id": 28,
+        "question": "Which amine is least soluble in water?",
+        "options": [
+            "Methylamine",
+            "Ethanamine",
+            "Aniline",
+            "Dimethylamine"
+        ],
+        "answer": 2,
+        "explanation": "Aromatic amines like aniline are less soluble due to hydrophobic benzene ring."
+    },
+    {
+        "id": 29,
+        "question": "The Hoffmann elimination of amines produces:",
+        "options": [
+            "Alkene",
+            "Alkane",
+            "Alcohol",
+            "amide"
+        ],
+        "answer": 0,
+        "explanation": "Hoffmann elimination leads to alkene formation from quaternary ammonium salts."
+    },
+    {
+        "id": 30,
+        "question": "Which of the following will react with Hinsberg reagent to give a soluble sulphonamide that doesn’t precipitate on acidification?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "All amines"
+        ],
+        "answer": 0,
+        "explanation": "Primary amines form soluble sulphonamides which don’t precipitate on acidification."
+    },
+    {
+        "id": 31,
+        "question": "Which compound is a tertiary amine?",
+        "options": [
+            "CH3NH2",
+            "CH3NHCH3",
+            "N(CH3)3",
+            "C6H5NH2"
+        ],
+        "answer": 2,
+        "explanation": "N(CH3)3 has three alkyl groups on nitrogen, making it tertiary."
+    },
+    {
+        "id": 32,
+        "question": "The solubility of amines in water increases due to:",
+        "options": [
+            "Hydrogen bonding",
+            "Dipole interactions",
+            "Ionic interactions after protonation",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Protonated amines form ions that interact strongly with water."
+    },
+    {
+        "id": 33,
+        "question": "Which of these cannot be used to prepare amines?",
+        "options": [
+            "Reduction of nitriles",
+            "Reductive amination",
+            "Oxidation of alcohols",
+            "Hofmann bromamide reaction"
+        ],
+        "answer": 2,
+        "explanation": "Oxidation of alcohols does not produce amines."
+    },
+    {
+        "id": 34,
+        "question": "IUPAC name of (CH3)2NH is:",
+        "options": [
+            "Methanamine",
+            "Ethanamine",
+            "Dimethylamine",
+            "Trimethylamine"
+        ],
+        "answer": 2,
+        "explanation": "(CH3)2NH is named dimethylamine."
+    },
+    {
+        "id": 35,
+        "question": "Which amine gives positive carbylamine test?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "All amines"
+        ],
+        "answer": 0,
+        "explanation": "Carbylamine test is positive only for primary amines."
+    },
+    {
+        "id": 36,
+        "question": "Which reaction converts nitriles to amines?",
+        "options": [
+            "LiAlH4 reduction",
+            "Hofmann elimination",
+            "Esterification",
+            "Friedel–Crafts"
+        ],
+        "answer": 0,
+        "explanation": "LiAlH4 reduces nitriles to amines."
+    },
+    {
+        "id": 37,
+        "question": "Which of the following amines is most hindered?",
+        "options": [
+            "Methylamine",
+            "Ethylamine",
+            "Diethylamine",
+            "Trimethylamine"
+        ],
+        "answer": 3,
+        "explanation": "Trimethylamine is most sterically hindered."
+    },
+    {
+        "id": 38,
+        "question": "Reaction of amines with acyl chlorides gives:",
+        "options": [
+            "Amides",
+            "Esters",
+            "Alcohols",
+            "Aldehydes"
+        ],
+        "answer": 0,
+        "explanation": "Amines acylate to form amides."
+    },
+    {
+        "id": 39,
+        "question": "Which test can separate primary and secondary amines?",
+        "options": [
+            "Lucas test",
+            "Hinsberg test",
+            "Bromine water test",
+            "Tollens test"
+        ],
+        "answer": 1,
+        "explanation": "Hinsberg test distinguishes primary and secondary amines."
+    },
+    {
+        "id": 40,
+        "question": "Which factor decreases basicity of an aromatic amine compared to aliphatic amines?",
+        "options": [
+            "Inductive effect",
+            "Electron delocalisation",
+            "Hyperconjugation",
+            "Steric hindrance"
+        ],
+        "answer": 1,
+        "explanation": "Electron delocalisation of the lone pair into the benzene ring reduces basicity of aromatic amines."
+    }
+,
+    {
+        "id": 41,
+        "question": "Which of the following amines is expected to be the **strongest base** in aqueous solution?",
+        "options": [
+            "Aniline",
+            "Benzylamine",
+            "Ethylamine",
+            "4-Nitroaniline"
+        ],
+        "answer": 2,
+        "explanation": "Aliphatic amines are stronger bases than aromatic amines; electron withdrawing NO₂ decreases basicity."
+    },
+    {
+        "id": 42,
+        "question": "The **Hinsberg test** is used to distinguish between primary, secondary and tertiary amines because:",
+        "options": [
+            "Only primary amines react to form sulphonamides",
+            "Tertiary amines react fastest",
+            "Secondary amines form soluble products",
+            "Tertiary amines form ammonium salts only"
+        ],
+        "answer": 0,
+        "explanation": "Primary amines form sulphonamides which are soluble; secondary form insoluble sulphonamides and tertiary do not react."
+    },
+    {
+        "id": 43,
+        "question": "Nitrous acid reacts with primary aliphatic amines to give:",
+        "options": [
+            "Alcohols",
+            "Diazonium salts",
+            "Azo compounds",
+            "No reaction"
+        ],
+        "answer": 0,
+        "explanation": "Primary aliphatic amines with nitrous acid give alcohols (via N₂ expulsion)."
+    },
+    {
+        "id": 44,
+        "question": "Which method is used for the preparation of primary amines without rearrangement?",
+        "options": [
+            "Gabriel phthalimide synthesis",
+            "Hofmann bromamide degradation",
+            "Carbylamine reaction",
+            "Ammonolysis of alkyl halides"
+        ],
+        "answer": 0,
+        "explanation": "Gabriel synthesis gives primary amines without rearrangement."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following is a **secondary amine**?",
+        "options": [
+            "CH3NH2",
+            "(CH3)2NH",
+            "(CH3)3N",
+            "C6H5NH2"
+        ],
+        "answer": 1,
+        "explanation": "Secondary amines have two alkyl groups attached to N."
+    },
+    {
+        "id": 46,
+        "question": "In the **carbylamine test**, which compound is formed when primary amines react with chloroform and base?",
+        "options": [
+            "Isocyanide",
+            "Amide",
+            "Amine salt",
+            "Azo compound"
+        ],
+        "answer": 0,
+        "explanation": "Carbylamine reaction produces isocyanides with primary amines."
+    },
+    {
+        "id": 47,
+        "question": "Which of the following will **not form a diazonium salt** with nitrous acid?",
+        "options": [
+            "Aniline",
+            "p-Nitroaniline",
+            "Benzylamine",
+            "Aromatic primary amine"
+        ],
+        "answer": 2,
+        "explanation": "Aliphatic amines like benzylamine do not form stable diazonium salts with HNO₂."
+    },
+    {
+        "id": 48,
+        "question": "The order of *basic strength* in aqueous solution for amines is influenced by:",
+        "options": [
+            "Inductive effect",
+            "Solvation effects",
+            "Resonance",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Basicity in aqueous solution depends on inductive, resonance and solvation effects."
+    },
+    {
+        "id": 49,
+        "question": "Which of the following will undergo **Hofmann elimination** to give the major alkene with the least substituted double bond?",
+        "options": [
+            "Ammonium salt of (CH3)3N",
+            "Ammonium salt of CH3NH2",
+            "Ammonium salt of C6H5NH2",
+            "Ammonium salt of (CH3)2NH"
+        ],
+        "answer": 0,
+        "explanation": "Hofmann elimination from quaternary ammonium salts gives the least substituted alkene."
+    },
+    {
+        "id": 50,
+        "question": "Which amine is most likely to be **soluble in dilute HCl**?",
+        "options": [
+            "Aniline",
+            "Tertiary amine",
+            "Primary aliphatic amine",
+            "Aromatic tertiary amine"
+        ],
+        "answer": 2,
+        "explanation": "Amines form ammonium salts with HCl and dissolve; aliphatic amines are more soluble than aromatic."
+    },
+    {
+        "id": 51,
+        "question": "Which of the following amines will give a **positive carbylamine test**?",
+        "options": [
+            "Secondary amine",
+            "Tertiary amine",
+            "Primary amine",
+            "Aromatic tertiary amine"
+        ],
+        "answer": 2,
+        "explanation": "Carbylamine test is positive only for primary amines."
+    },
+    {
+        "id": 52,
+        "question": "The molecule CH₂=CH-NHCH₃ is named as:",
+        "options": [
+            "N-Methyl-ethenamine",
+            "Ethenylamine",
+            "1-Amino-ethene",
+            "Vinyl methylamine"
+        ],
+        "answer": 0,
+        "explanation": "Naming considers substituent and alkene position."
+    },
+    {
+        "id": 53,
+        "question": "Which reagent is used to distinguish primary and secondary amines by forming sulphonamides?",
+        "options": [
+            "Benzene sulphonyl chloride",
+            "Acetic acid",
+            "Nitrous acid",
+            "FeCl₃"
+        ],
+        "answer": 0,
+        "explanation": "Hinsberg reagent (benzene sulphonyl chloride) distinguishes primary and secondary amines."
+    },
+    {
+        "id": 54,
+        "question": "Which of these amines has the **least basic** character in aqueous solution?",
+        "options": [
+            "Methylamine",
+            "Dimethylamine",
+            "Aniline",
+            "Triethylamine"
+        ],
+        "answer": 2,
+        "explanation": "Aniline’s lone pair delocalises into aromatic ring, lowering basicity."
+    },
+    {
+        "id": 55,
+        "question": "In Gabriel phthalimide synthesis, the active intermediate formed is:",
+        "options": [
+            "Imide anion",
+            "Carbocation",
+            "Free radical",
+            "Azide ion"
+        ],
+        "answer": 0,
+        "explanation": "Gabriel synthesis proceeds through an imide anion intermediate."
+    },
+    {
+        "id": 56,
+        "question": "Which reagent converts a primary amine to an alcohol?",
+        "options": [
+            "HNO₂",
+            "Br₂/NaOH",
+            "H₂/Pd",
+            "NaBH₄"
+        ],
+        "answer": 0,
+        "explanation": "Nitrous acid converts primary amines to alcohols via diazonium formation."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following is a **secondary amine?**",
+        "options": [
+            "CH3NHCH2CH3",
+            "NH3",
+            "CH3CH2NH2",
+            "(CH3)3N"
+        ],
+        "answer": 0,
+        "explanation": "Secondary amines have two carbon substituents on nitrogen."
+    },
+    {
+        "id": 58,
+        "question": "The reaction of an amine with an acyl chloride produces:",
+        "options": [
+            "Amide",
+            "Ester",
+            "Alcohol",
+            "Ketone"
+        ],
+        "answer": 0,
+        "explanation": "Amines acylate to form amides."
+    },
+    {
+        "id": 59,
+        "question": "Which property increases when an amine forms an ammonium salt?",
+        "options": [
+            "Boiling point",
+            "Water solubility",
+            "Basicity",
+            "Aromaticity"
+        ],
+        "answer": 1,
+        "explanation": "Ammonium salts are ionic and more soluble in water."
+    },
+    {
+        "id": 60,
+        "question": "Which of the following is NOT a method for preparing amines?",
+        "options": [
+            "Reduction of nitriles",
+            "Hofmann degradation of amides",
+            "Oxidation of alcohols",
+            "Gabriel synthesis"
+        ],
+        "answer": 2,
+        "explanation": "Alcohol oxidation does not produce amines."
+    },
+    {
+        "id": 61,
+        "question": "Which reagent reduces a nitrile to a primary amine?",
+        "options": [
+            "LiAlH₄",
+            "Pd/C",
+            "NaOH",
+            "Fe/HCl"
+        ],
+        "answer": 0,
+        "explanation": "Lithium aluminium hydride reduces nitriles to amines."
+    },
+    {
+        "id": 62,
+        "question": "Which of the following is an aromatic amine?",
+        "options": [
+            "Aniline",
+            "Methylamine",
+            "Ethylamine",
+            "Diethylamine"
+        ],
+        "answer": 0,
+        "explanation": "Aniline is an aromatic amine."
+    },
+    {
+        "id": 63,
+        "question": "The basic strength of amines generally increases with:",
+        "options": [
+            "Electron donating groups",
+            "Electron withdrawing groups",
+            "Aromatic rings attached",
+            "Steric hindrance"
+        ],
+        "answer": 0,
+        "explanation": "Electron donating groups increase electron density on N, raising basicity."
+    },
+    {
+        "id": 64,
+        "question": "Which of the following amines is most sterically hindered?",
+        "options": [
+            "Trimethylamine",
+            "Methylamine",
+            "Dimethylamine",
+            "Ethylamine"
+        ],
+        "answer": 0,
+        "explanation": "Trimethylamine has greatest steric crowding at N."
+    },
+    {
+        "id": 65,
+        "question": "Which reagent distinguishes primary from secondary amines by producing different types of sulphonamides?",
+        "options": [
+            "Hinsberg reagent",
+            "Benzoyl chloride",
+            "Nitrous acid",
+            "Sulphuric acid"
+        ],
+        "answer": 0,
+        "explanation": "Hinsberg reagent forms distinct products with primary vs secondary amines."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following salts results from amine reacting with acid?",
+        "options": [
+            "Ammonium salt",
+            "Carboxylate",
+            "Sulphonate",
+            "Ether"
+        ],
+        "answer": 0,
+        "explanation": "Amines neutralize acids to form ammonium salts."
+    },
+    {
+        "id": 67,
+        "question": "Which amine reacts vigorously with nitrous acid to form nitrogen gas?",
+        "options": [
+            "Primary aliphatic amine",
+      "Secondary amine
+      ",
+      "Tertiary amine
+      ","None"
+        ],
+        "answer": 0,
+        "explanation": "Primary aliphatic amines with nitrous acid evolve N₂."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is a **tertiary amine**?",
+        "options": [
+      "NH(CH3)2
+      ",
+      "N(CH3)3
+      ",
+      "CH3NH2
+      ",
+      "C6H5NH2
+      "
+        ],
+        "answer": 1,
+        "explanation": "N(CH3)3 has three carbon bonds to N."
+    },
+    {
+        "id": 69,
+        "question": "The boiling point of amines increases with:",
+        "options": [
+            "Increased hydrogen bonding",
+            "Increased aromaticity",
+            "Decreased molecular mass",
+            "Branching"
+        ],
+        "answer": 0,
+        "explanation": "Primary amines hydrogen bond strongly, raising bp."
+    },
+    {
+        "id": 70,
+        "question": "Which of the following is not a characteristic reaction of amines?",
+        "options": [
+            "Acylation",
+            "Esterification",
+      "Alkylation
+      ",
+      "Formation of ammonium salt
+      "
+        ],
+        "answer": 1,
+        "explanation": "Amines do not undergo esterification like alcohols.^†"
+    }
+,
+    {
+        "id": 81,
+        "question": "Which of the following amines is the most basic in aqueous solution?",
+        "options": [
+            "Aniline",
+            "Methylamine",
+            "N-Ethylethanamine",
+            "N-Methylaniline"
+        ],
+        "answer": 2,
+        "explanation": "Aliphatic amines are more basic than aromatic ones; secondary aliphatic amines show stronger inductive effects. Order: N-ethylethanamine > ethanamine > N-methylaniline > benzenamine."
+    },
+    {
+        "id": 82,
+        "question": "Which reagent is used to distinguish primary and secondary amines by forming sulphonamides?",
+        "options": [
+            "Benzene sulphonyl chloride",
+            "Nitrous acid",
+            "Acetic anhydride",
+            "Lucas reagent"
+        ],
+        "answer": 0,
+        "explanation": "Hinsberg reagent (benzene sulphonyl chloride) reacts differently with primary and secondary amines."
+    },
+    {
+        "id": 83,
+        "question": "Which amine will form a diazonium salt with nitrous acid?",
+        "options": [
+            "Secondary aliphatic amine",
+            "Tertiary amine",
+            "Primary aromatic amine",
+            "All amines"
+        ],
+        "answer": 2,
+        "explanation": "Primary aromatic amines form diazonium salts with nitrous acid at low temperature."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following is a primary amine?",
+        "options": [
+            "Diethylamine",
+            "Trimethylamine",
+            "Aniline",
+            "Cyclohexylamine"
+        ],
+        "answer": 3,
+        "explanation": "Cyclohexylamine has one alkyl substituent on nitrogen."
+    },
+    {
+        "id": 85,
+        "question": "Which of the following tests identifies the presence of primary amines by producing foul smell?",
+        "options": [
+            "Hinsberg test",
+            "Lucas test",
+            "Carbylamine reaction",
+            "Tollens test"
+        ],
+        "answer": 2,
+        "explanation": "Carbylamine reaction gives isocyanides (foul smell) with primary amines."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following compounds is a tertiary amine?",
+        "options": [
+            "NH(CH3)2",
+            "N(CH3)3",
+            "CH3NH2",
+            "C6H5NH2"
+        ],
+        "answer": 1,
+        "explanation": "N(CH3)3 has three alkyl groups bonded to nitrogen."
+    },
+    {
+        "id": 87,
+        "question": "Which of the following amines does not react with nitrous acid to evolve nitrogen gas?",
+        "options": [
+            "Primary aliphatic amine",
+            "Secondary amine",
+            "Primary aromatic amine",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "Secondary amines do not form diazonium salts or evolve nitrogen with nitrous acid."
+    },
+    {
+        "id": 88,
+        "question": "In Gabriel phthalimide synthesis, the intermediate formed is:",
+        "options": [
+            "Carbocation",
+            "Imide anion",
+            "Free radical",
+            "Nitrene"
+        ],
+        "answer": 1,
+        "explanation": "Gabriel synthesis proceeds via an imide anion intermediate."
+    },
+    {
+        "id": 89,
+        "question": "The boiling point of an amine increases due to:",
+        "options": [
+            "Increased branching",
+            "Hydrogen bonding",
+            "Aromaticity",
+            "Decreased polarity"
+        ],
+        "answer": 1,
+        "explanation": "Amines can hydrogen bond, increasing boiling point."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following amines is least soluble in water?",
+        "options": [
+            "Methylamine",
+            "Ethanamine",
+            "Propanamine",
+            "Benzenamine"
+        ],
+        "answer": 3,
+        "explanation": "Aromatic amines like aniline are less soluble due to hydrophobic benzene ring."
+    },
+    {
+        "id": 91,
+        "question": "Which reagent converts an amine into its ammonium salt?",
+        "options": [
+            "Dilute HCl",
+            "NaOH",
+            "HNO2",
+            "Sulphuric acid"
+        ],
+        "answer": 0,
+        "explanation": "Amines react with acids like HCl to form ammonium salts."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following amines will give a positive Hinsberg test with a soluble sulphonamide that dissolves in alkali?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "Quaternary amine"
+        ],
+        "answer": 0,
+        "explanation": "Primary amines form sulphonamides that are soluble and remain so in alkali."
+    },
+    {
+        "id": 93,
+        "question": "Which statement about aromatic amines is correct?",
+        "options": [
+            "More basic than aliphatic amines",
+            "Less basic than aliphatic amines",
+            "Equal basicity",
+            "Not basic at all"
+        ],
+        "answer": 1,
+        "explanation": "Aromatic amines are less basic due to lone pair delocalisation."
+    },
+    {
+        "id": 94,
+        "question": "The reaction of an amine with acyl chloride yields:",
+        "options": [
+            "Amide",
+            "Ester",
+            "Alcohol",
+            "Aldehyde"
+        ],
+        "answer": 0,
+        "explanation": "Amines acylate to form amides."
+    },
+    {
+        "id": 95,
+        "question": "Which of the following is an example of a secondary amine?",
+        "options": [
+            "CH3NHCH2CH3",
+            "NH3",
+            "CH3NH2",
+            "(CH3)3N"
+        ],
+        "answer": 0,
+        "explanation": "Secondary amines have two alkyl substituents on nitrogen."
+    },
+    {
+        "id": 96,
+        "question": "Which preparation method gives primary amines without rearrangement?",
+        "options": [
+            "Hofmann bromamide reaction",
+            "Gabriel phthalimide synthesis",
+            "Reductive amination",
+            "Carbylamine reaction"
+        ],
+        "answer": 1,
+        "explanation": "Gabriel synthesis yields primary amines without rearrangement."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following amines can be distinguished using nitrous acid test?",
+        "options": [
+            "Primary aliphatic amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "All of them"
+        ],
+        "answer": 0,
+        "explanation": "Primary aliphatic amines react with HNO₂ to give alcohols."
+    },
+    {
+        "id": 98,
+        "question": "Which amine reacts to produce an isocyanide in carbylamine test?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "Quaternary ammonium"
+        ],
+        "answer": 0,
+        "explanation": "Only primary amines produce isocyanides in the carbylamine test."
+    },
+    {
+        "id": 99,
+        "question": "Which amine is expected to have the lowest boiling point?",
+        "options": [
+            "Primary amine",
+            "Secondary amine",
+            "Tertiary amine",
+            "Ammonia"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary amines have less hydrogen bonding and lower boiling points."
+    },
+    {
+        "id": 100,
+        "question": "Which method converts amides to primary amines?",
+        "options": [
+            "Hofmann bromamide reaction",
+            "Gabriel synthesis",
+            "Nitration",
+            "Esterification"
+        ],
+        "answer": 0,
+        "explanation": "Hofmann bromamide degradation converts amides to primary amines."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following is the functional group present in amines?",
+        "options": [
+            "–OH",
+            "–NH2 / –NR2",
+            "–COOH",
+            "–CHO"
+        ],
+        "answer": 1,
+        "explanation": "Amines have an amino group with nitrogen hybridised sp³."
+    },
+    {
+        "id": 102,
+        "question": "Which amine will be most easily protonated in acidic medium?",
+        "options": [
+            "Aniline",
+            "Methylamine",
+            "Benzylamine",
+            "N-Methylaniline"
+        ],
+        "answer": 1,
+        "explanation": "Aliphatic amines are more readily protonated than aromatic ones."
+    },
+    {
+        "id": 103,
+        "question": "Which reagent will reduce a nitro compound to an amine?",
+        "options": [
+            "LiAlH4",
+            "NaOH",
+            "H2/Pt or Sn/HCl",
+            "KMnO4"
+        ],
+        "answer": 2,
+        "explanation": "Hydrogenation with H₂/Pt or reduction with Sn/HCl reduces nitro to amines."
+    },
+    {
+        "id": 104,
+        "question": "Which of the following factors decreases basicity of an amine?",
+        "options": [
+            "Electron donating groups",
+            "Electron withdrawing groups",
+            "Alkyl substituents",
+            "Solvation"
+        ],
+        "answer": 1,
+        "explanation": "Electron-withdrawing groups reduce lone pair availability, lowering basicity."
+    },
+    {
+        "id": 105,
+        "question": "Aromatic amines like aniline are less basic because:",
+        "options": [
+            "Nitrogen is sp hybridised",
+            "Lone pair delocalises into ring",
+            "They react rapidly with acids",
+            "They form hydrogen bonds"
+        ],
+        "answer": 1,
+        "explanation": "Lone pair delocalisation into benzene ring reduces basicity."
+    }
+]

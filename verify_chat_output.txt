@@ -1,0 +1,38 @@
+--- TEST 1: 'Generate a full mock test' ---
+Response: {
+  "ok": true,
+  "reply": "Generating a Full Syllabus NEET Mock Test (180 Questions) for you. Good luck!",
+  "action": {
+    "type": "GENERATE_TEST",
+    "constraints": {
+      "subjectDistribution": {
+        "Physics": 45,
+        "Chemistry": 45,
+        "Biology": 90
+      },
+      "chapters": []
+    }
+  }
+}
+
+--- TEST 2: 'I want a physics test' ---
+Response: {
+  "ok": true,
+  "reply": "Generating a Physics practice test (45 questions) for you now.",
+  "action": {
+    "type": "GENERATE_TEST",
+    "constraints": {
+      "subjectDistribution": {
+        "Physics": 45
+      },
+      "chapters": []
+    }
+  }
+}
+
+--- TEST 3: 'Hello' ---
+Response: {
+  "ok": true,
+  "reply": "Hello! I can generate custom tests for you. Try saying:\n- 'Generate a full mock test'\n- 'I want a Physics test'\n- 'Give me a Biology test'",
+  "action": null
+}

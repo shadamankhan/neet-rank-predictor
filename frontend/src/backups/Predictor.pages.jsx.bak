@@ -1,0 +1,226 @@
+// frontend/src/pages/Predictor.jsx
+import React, { useEffect, useState } from "react";
+import axios from "axios";
+import {
+  onAuthStateChanged,
+  signInWithPopup,
+  GoogleAuthProvider,
+  signOut as firebaseSignOut,
+} from "firebase/auth";
+import { auth } from "../firebase"; // initialized firebase auth
+
+function fmtNumber(n) {
+  if (n == null) return "—";
+  if (typeof n === "number") return n.toLocaleString();
+  // if numeric string
+  const maybe = Number(n);
+  return Number.isFinite(maybe) ? maybe.toLocaleString() : String(n);
+}
+
+function formatRankRange(r) {
+  if (!r && r !== 0) return "—";
+  if (typeof r === "string") return r;
+  if (typeof r === "object") {
+    // try different possible keys
+    const low = r.low ?? r.from ?? r[0] ?? null;
+    const high = r.high ?? r.to ?? r[1] ?? null;
+    if (low == null && high == null) return JSON.stringify(r);
+    return `${fmtNumber(low)} — ${fmtNumber(high)}`;
+  }
+  return String(r);
+}
+
+export default function Predictor() {
+  const [year, setYear] = useState(2025);
+  const [score, setScore] = useState(400);
+  const [result, setResult] = useState(null);
+  const [loading, setLoading] = useState(false);
+
+  // Auth state
+  const [user, setUser] = useState(null);
+  const [saving, setSaving] = useState(false);
+  const [message, setMessage] = useState(null);
+
+  useEffect(() => {
+    if (!auth) {
+      setMessage("Firebase not initialized. Check src/firebase.js and .env");
+      return;
+    }
+    const unsub = onAuthStateChanged(auth, (u) => {
+      setUser(u || null);
+    });
+    return () => unsub();
+  }, []);
+
+  const doPredict = async () => {
+    setLoading(true);
+    setMessage(null);
+    try {
+      const { data } = await axios.post("/api", { year, score });
+      setResult(data);
+    } catch (err) {
+      setMessage("Prediction failed: " + (err?.response?.data?.message || err.message));
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  // Sign in with Google popup
+  const signIn = async () => {
+    if (!auth) return setMessage("Auth not initialized.");
+    try {
+      const provider = new GoogleAuthProvider();
+      await signInWithPopup(auth, provider);
+      setMessage(null);
+    } catch (err) {
+      setMessage("Sign-in failed: " + err.message);
+    }
+  };
+  const doSignOut = async () => {
+    if (!auth) return;
+    await firebaseSignOut(auth);
+  };
+
+  // replace the existing savePrediction in Predictor.jsx with this
+const savePrediction = async () => {
+  if (!result) return setMessage("No prediction to save.");
+  if (!auth || !auth.currentUser) return setMessage("You must be signed in to save.");
+  setSaving(true);
+  setMessage(null);
+
+  const payload = {
+    year,
+    score,
+    percentile: result.percentile,
+    predictedRank: result.predictedRank ?? result.rank ?? null,
+    rankRange: result.rankRange ?? result.rank_range ?? null,
+    method: result.method ?? null,
+  };
+
+  // DIRECT backend url (dev)
+  const apiUrl = "http://localhost:5000/api/savePrediction";
+
+  try {
+    const idToken = await auth.currentUser.getIdToken(true);
+
+    const resp = await axios.post(apiUrl, payload, {
+      headers: { Authorization: `Bearer ${idToken}`, "Content-Type": "application/json" },
+    });
+
+    setMessage("Saved prediction ✅");
+    console.log("savePrediction response:", resp.data);
+  } catch (err) {
+    // fallback: try sending token in body if server expects that
+    const status = err?.response?.status;
+    if (status === 401 || status === 403) {
+      try {
+        const idToken = await auth.currentUser.getIdToken();
+        const resp2 = await axios.post(apiUrl, { ...payload, idToken }, {
+          headers: { "Content-Type": "application/json" },
+        });
+        setMessage("Saved prediction (fallback) ✅");
+        console.log("savePrediction response (fallback):", resp2.data);
+        setSaving(false);
+        return;
+      } catch (err2) {
+        setMessage("Save failed (auth). " + (err2?.response?.data?.message || err2?.message || ""));
+        setSaving(false);
+        return;
+      }
+    }
+
+    // show server message if any
+    setMessage("Save failed: " + (err?.response?.data?.message || err.message));
+    console.error("savePrediction error:", err?.response || err);
+  } finally {
+    setSaving(false);
+  }
+};
+
+  return (
+    <div style={{ maxWidth: 720, margin: "24px auto", padding: 12 }}>
+      <h2>NEET Rank Predictor</h2>
+
+      <div style={{ display: "flex", gap: 8, marginBottom: 12, alignItems: "center" }}>
+        <label>
+          Year
+          <input
+            style={{ width: 100, marginLeft: 6 }}
+            type="number"
+            value={year}
+            onChange={(e) => setYear(Number(e.target.value))}
+          />
+        </label>
+
+        <label>
+          Score (0–720)
+          <input
+            style={{ width: 120, marginLeft: 6 }}
+            type="number"
+            value={score}
+            onChange={(e) => setScore(Number(e.target.value))}
+          />
+        </label>
+
+        <button onClick={doPredict} disabled={loading}>
+          {loading ? "Predicting..." : "Predict"}
+        </button>
+
+        <button
+          onClick={() => {
+            setScore(0);
+            setResult(null);
+            setMessage(null);
+          }}
+        >
+          Reset
+        </button>
+      </div>
+
+      {result ? (
+        <div style={{ padding: 12, border: "1px solid #ddd", borderRadius: 8 }}>
+          <div>
+            <strong>Score:</strong> {fmtNumber(score)}
+          </div>
+          <div>
+            <strong>Percentile:</strong> {result.percentile ?? "—"}
+          </div>
+          <div>
+            <strong>Predicted Rank:</strong> {fmtNumber(result.predictedRank ?? result.rank ?? null)}
+          </div>
+          <div>
+            <strong>Rank Range:</strong> {formatRankRange(result.rankRange ?? result.rank_range ?? null)}
+          </div>
+          <div>
+            <strong>Method:</strong> {result.method ?? "cumulative_distribution_v1"}
+          </div>
+
+          <div style={{ marginTop: 12 }}>
+            {!user ? (
+              <>
+                <button onClick={signIn}>Sign in with Google to Save</button>
+              </>
+            ) : (
+              <>
+                <div style={{ marginBottom: 8 }}>
+                  Signed in as <strong>{user.email}</strong>{" "}
+                  <button onClick={doSignOut} style={{ marginLeft: 8 }}>
+                    Sign out
+                  </button>
+                </div>
+
+                <button onClick={savePrediction} disabled={saving}>
+                  {saving ? "Saving..." : "Save prediction"}
+                </button>
+              </>
+            )}
+          </div>
+        </div>
+      ) : (
+        <div style={{ color: "#666" }}>No prediction yet — click Predict.</div>
+      )}
+
+      {message && <div style={{ marginTop: 12, color: "crimson" }}>{message}</div>}
+    </div>
+  );
+}

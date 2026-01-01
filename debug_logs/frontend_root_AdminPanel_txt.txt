@@ -1,0 +1,76 @@
+﻿// frontend/src/components/AdminPanel.jsx
+import React, { useState } from "react";
+
+/**
+ * Simple Admin upload panel.
+ * - In development it sends x-admin-key header (REACT_APP_ADMIN_KEY or 'changeme')
+ * - In production you must add Authorization: Bearer <idToken>
+ */
+export default function AdminPanel() {
+  const [year, setYear] = useState("");
+  const [file, setFile] = useState(null);
+  const [msg, setMsg] = useState("");
+
+  const onFile = (e) => {
+    setFile(e.target.files && e.target.files[0]);
+  };
+
+  const upload = async (e) => {
+    e.preventDefault();
+    setMsg("Uploading...");
+    if (!file || !year) {
+      setMsg("Choose a file and enter year.");
+      return;
+    }
+
+    const form = new FormData();
+    form.append("dataset", "distribution");
+    form.append("year", year);
+    form.append("file", file);
+
+    const headers = {};
+    if (process.env.NODE_ENV !== "production") {
+      headers["x-admin-key"] = process.env.REACT_APP_ADMIN_KEY || "changeme";
+    } else {
+      // In production, obtain Firebase idToken from signed-in user and set:
+      // headers['Authorization'] = 'Bearer ' + idToken;
+    }
+
+    try {
+      const res = await fetch("http://localhost:5000/admin/upload-distribution", {
+        method: "POST",
+        headers,
+        body: form,
+        credentials: "include",
+      });
+
+      const data = await res.json();
+      if (!res.ok) {
+        setMsg("Upload failed: " + (data.message || JSON.stringify(data)));
+      } else {
+        setMsg("Upload OK: " + (data.message || JSON.stringify(data)));
+      }
+    } catch (err) {
+      setMsg("Upload error: " + err.message);
+    }
+  };
+
+  return (
+    <div style={{ padding: 16, maxWidth: 640 }}>
+      <h3>Admin â€” Upload Distribution</h3>
+      <form onSubmit={upload}>
+        <div style={{ marginBottom: 8 }}>
+          <label>Year: </label>
+          <input value={year} onChange={(e) => setYear(e.target.value)} placeholder="2024" />
+        </div>
+        <div style={{ marginBottom: 12 }}>
+          <label>File: </label>
+          <input type="file" accept=".json" onChange={onFile} />
+        </div>
+        <button type="submit">Upload</button>
+      </form>
+      <div style={{ marginTop: 12 }}>{msg}</div>
+    </div>
+  );
+}
+

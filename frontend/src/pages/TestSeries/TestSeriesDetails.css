@@ -1,0 +1,262 @@
+/* Test Series Details Styling */
+
+.series-details-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 100px 20px 60px 20px;
+    font-family: 'Inter', sans-serif;
+    color: #1e293b;
+    min-height: 100vh;
+}
+
+.back-link {
+    background: none;
+    border: none;
+    color: #64748b;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 20px;
+    padding: 0;
+}
+
+.back-link:hover {
+    color: #2563eb;
+    text-decoration: underline;
+}
+
+/* Header Card */
+.series-header-card {
+    background: white;
+    /* Default bg */
+    border-radius: 16px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border: 1px solid #e2e8f0;
+    margin-bottom: 40px;
+    align-items: flex-start;
+}
+
+.series-info {
+    flex: 1;
+}
+
+.badge-premium {
+    background: #fef9c3;
+    color: #ca8a04;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    display: inline-block;
+    margin-bottom: 12px;
+}
+
+.series-info h1 {
+    font-size: 2rem;
+    color: #0f172a;
+    margin-bottom: 12px;
+    line-height: 1.2;
+}
+
+.series-info p {
+    color: #475569;
+    font-size: 1.05rem;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.feature-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.feature-pills span {
+    background: #f1f5f9;
+    color: #334155;
+    padding: 6px 14px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+/* Action Card (Right Side) */
+.series-action-card {
+    min-width: 280px;
+    background: #f8fafc;
+    padding: 24px;
+    border-radius: 12px;
+    text-align: center;
+    border: 1px solid #e2e8f0;
+}
+
+.price-tag {
+    margin-bottom: 16px;
+}
+
+.price-main {
+    display: block;
+    font-size: 2.5rem;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1;
+}
+
+.price-slashed {
+    color: #94a3b8;
+    text-decoration: line-through;
+    font-size: 1.1rem;
+    margin-right: 8px;
+}
+
+.discount-tag {
+    color: #16a34a;
+    font-weight: 700;
+    font-size: 0.9rem;
+}
+
+.btn-buy-now {
+    width: 100%;
+    background: #2563eb;
+    color: white;
+    border: none;
+    padding: 14px;
+    border-radius: 8px;
+    font-weight: 700;
+    font-size: 1rem;
+    cursor: pointer;
+    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);
+    margin-bottom: 12px;
+    transition: background 0.2s;
+}
+
+.btn-buy-now:hover {
+    background: #1d4ed8;
+}
+
+.guarantee-text {
+    font-size: 0.8rem;
+    color: #64748b;
+}
+
+/* Tabs */
+.series-tabs {
+    display: flex;
+    gap: 20px;
+    border-bottom: 1px solid #e2e8f0;
+    margin-bottom: 30px;
+}
+
+.tab-btn {
+    background: none;
+    border: none;
+    padding: 12px 0;
+    font-size: 1rem;
+    color: #64748b;
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    transition: all 0.2s;
+}
+
+.tab-btn:hover {
+    color: #1e293b;
+}
+
+.tab-btn.active {
+    color: #2563eb;
+    border-bottom-color: #2563eb;
+}
+
+/* Content List */
+.schedule-list {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.schedule-item {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #e2e8f0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: box-shadow 0.2s;
+}
+
+.schedule-item:hover {
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+}
+
+.test-info {
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.status-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #cbd5e1;
+}
+
+.status-dot.live {
+    background: #22c55e;
+    box-shadow: 0 0 0 3px #dcfce7;
+}
+
+.status-dot.upcoming {
+    background: #f59e0b;
+}
+
+.schedule-item h4 {
+    margin: 0 0 4px 0;
+    font-size: 1.05rem;
+    color: #1e293b;
+}
+
+.test-date {
+    font-size: 0.85rem;
+    color: #64748b;
+}
+
+.btn-test-action {
+    padding: 8px 16px;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.9rem;
+    cursor: pointer;
+    border: 1px solid transparent;
+}
+
+.btn-test-action.start {
+    background: #dcfce7;
+    color: #16a34a;
+    border-color: #bbf7d0;
+}
+
+.btn-test-action.notify {
+    background: white;
+    color: #64748b;
+    border-color: #cbd5e1;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    .series-header-card {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .series-action-card {
+        width: 100%;
+        min-width: auto;
+    }
+}

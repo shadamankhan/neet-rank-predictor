@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Which enzyme is used to cut DNA at specific palindromic sequences in recombinant DNA technology?",
+        "options": [
+            "DNA ligase",
+            "Restriction endonuclease",
+            "RNA polymerase",
+            "Reverse transcriptase"
+        ],
+        "answer": 1,
+        "explanation": "Restriction endonucleases recognize specific palindromic DNA sequences and cleave DNA."
+    },
+    {
+        "id": 2,
+        "question": "The enzyme that joins Okazaki fragments during DNA replication is also used in genetic engineering for joining DNA fragments. Identify it.",
+        "options": [
+            "DNA polymerase I",
+            "DNA polymerase III",
+            "DNA ligase",
+            "Primase"
+        ],
+        "answer": 2,
+        "explanation": "DNA ligase joins DNA fragments by forming phosphodiester bonds."
+    },
+    {
+        "id": 3,
+        "question": "Which selectable marker is commonly used in E. coli plasmid vectors to identify transformants?",
+        "options": [
+            "lacZ",
+            "ampicillin resistance gene",
+            "ori",
+            "restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Antibiotic resistance genes like ampicillin resistance act as selectable markers."
+    },
+    {
+        "id": 4,
+        "question": "The plasmid vector pBR322 contains resistance genes for",
+        "options": [
+            "ampicillin and kanamycin",
+            "ampicillin and tetracycline",
+            "chloramphenicol and tetracycline",
+            "kanamycin and streptomycin"
+        ],
+        "answer": 1,
+        "explanation": "pBR322 has ampicillin and tetracycline resistance genes."
+    },
+    {
+        "id": 5,
+        "question": "In recombinant DNA technology, the site where DNA replication begins is called",
+        "options": [
+            "selectable marker",
+            "restriction site",
+            "origin of replication",
+            "promoter"
+        ],
+        "answer": 2,
+        "explanation": "Origin of replication (ori) is the site where DNA replication initiates."
+    },
+    {
+        "id": 6,
+        "question": "Which host cell is most commonly used for cloning recombinant DNA?",
+        "options": [
+            "Saccharomyces cerevisiae",
+            "Escherichia coli",
+            "Agrobacterium tumefaciens",
+            "Bacillus subtilis"
+        ],
+        "answer": 1,
+        "explanation": "E. coli is widely used due to well-known genetics and rapid growth."
+    },
+    {
+        "id": 7,
+        "question": "The bacterium used as a natural genetic engineer in plant biotechnology is",
+        "options": [
+            "Rhizobium",
+            "Agrobacterium tumefaciens",
+            "Azotobacter",
+            "Clostridium"
+        ],
+        "answer": 1,
+        "explanation": "Agrobacterium tumefaciens transfers T-DNA into plant cells."
+    },
+    {
+        "id": 8,
+        "question": "The Ti plasmid of Agrobacterium tumefaciens is used for",
+        "options": [
+            "gene transfer in animals",
+            "gene transfer in plants",
+            "protein synthesis",
+            "antibiotic production"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid mediates gene transfer in plants."
+    },
+    {
+        "id": 9,
+        "question": "Which part of Ti plasmid is transferred into plant genome?",
+        "options": [
+            "ori",
+            "vir genes",
+            "T-DNA",
+            "selectable marker"
+        ],
+        "answer": 2,
+        "explanation": "T-DNA region integrates into plant genome."
+    },
+    {
+        "id": 10,
+        "question": "Which technique is used to introduce recombinant DNA directly into plant cells without a vector?",
+        "options": [
+            "Biolistics",
+            "Transformation",
+            "Conjugation",
+            "Transduction"
+        ],
+        "answer": 0,
+        "explanation": "Biolistics or gene gun delivers DNA directly into cells."
+    },
+    {
+        "id": 11,
+        "question": "Bt toxin gene is obtained from",
+        "options": [
+            "Bacillus anthracis",
+            "Bacillus thuringiensis",
+            "Escherichia coli",
+            "Pseudomonas"
+        ],
+        "answer": 1,
+        "explanation": "Bt toxin is produced by Bacillus thuringiensis."
+    },
+    {
+        "id": 12,
+        "question": "Cry proteins encoded by Bt genes are toxic to",
+        "options": [
+            "all insects",
+            "specific insect larvae",
+            "plants",
+            "vertebrates"
+        ],
+        "answer": 1,
+        "explanation": "Cry proteins are insect-specific toxins."
+    },
+    {
+        "id": 13,
+        "question": "Bt cotton is resistant to",
+        "options": [
+            "boll weevil",
+            "bollworm",
+            "aphids",
+            "whitefly"
+        ],
+        "answer": 1,
+        "explanation": "Bt cotton provides resistance against bollworms."
+    },
+    {
+        "id": 14,
+        "question": "Which RNA molecule is used to silence a gene in RNA interference technology?",
+        "options": [
+            "tRNA",
+            "mRNA",
+            "dsRNA",
+            "rRNA"
+        ],
+        "answer": 2,
+        "explanation": "Double-stranded RNA initiates RNA interference."
+    },
+    {
+        "id": 15,
+        "question": "RNA interference was first discovered in",
+        "options": [
+            "plants",
+            "animals",
+            "fungi",
+            "bacteria"
+        ],
+        "answer": 0,
+        "explanation": "RNAi was first discovered in plants."
+    },
+    {
+        "id": 16,
+        "question": "Golden rice is genetically engineered to produce",
+        "options": [
+            "vitamin C",
+            "vitamin A",
+            "vitamin D",
+            "vitamin K"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice is enriched with vitamin A (beta-carotene)."
+    },
+    {
+        "id": 17,
+        "question": "Which deficiency is addressed by Golden rice?",
+        "options": [
+            "Scurvy",
+            "Night blindness",
+            "Rickets",
+            "Beriberi"
+        ],
+        "answer": 1,
+        "explanation": "Vitamin A deficiency causes night blindness."
+    },
+    {
+        "id": 18,
+        "question": "Which enzyme is used to synthesize cDNA from mRNA?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "DNA ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesizes cDNA from mRNA."
+    },
+    {
+        "id": 19,
+        "question": "Insulin produced by recombinant DNA technology is",
+        "options": [
+            "extracted from pancreas",
+            "synthetic insulin",
+            "human insulin",
+            "animal insulin"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant technology produces human insulin."
+    },
+    {
+        "id": 20,
+        "question": "The first recombinant therapeutic protein approved for human use was",
+        "options": [
+            "growth hormone",
+            "insulin",
+            "interferon",
+            "erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Human insulin was the first recombinant therapeutic protein."
+    },
+    {
+        "id": 21,
+        "question": "Which organism was used to produce recombinant human insulin?",
+        "options": [
+            "Saccharomyces cerevisiae",
+            "Escherichia coli",
+            "Agrobacterium",
+            "Bacillus"
+        ],
+        "answer": 1,
+        "explanation": "E. coli was used for insulin production."
+    },
+    {
+        "id": 22,
+        "question": "ELISA is used for the detection of",
+        "options": [
+            "DNA",
+            "RNA",
+            "antigen-antibody interaction",
+            "enzymes"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects antigen-antibody interactions."
+    },
+    {
+        "id": 23,
+        "question": "Which hormone is used for treating dwarfism and is produced using recombinant DNA technology?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Thyroxine",
+            "Adrenaline"
+        ],
+        "answer": 1,
+        "explanation": "Human growth hormone treats dwarfism."
+    },
+    {
+        "id": 24,
+        "question": "Which of the following is an example of transgenic animal?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Rosie cow",
+            "Dolly sheep"
+        ],
+        "answer": 2,
+        "explanation": "Rosie cow was a transgenic animal producing human protein."
+    },
+    {
+        "id": 25,
+        "question": "Transgenic animals are used to study",
+        "options": [
+            "cell structure",
+            "gene regulation",
+            "ecosystem",
+            "taxonomy"
+        ],
+        "answer": 1,
+        "explanation": "They help in understanding gene regulation and expression."
+    },
+    {
+        "id": 26,
+        "question": "Which protein was produced in the milk of transgenic Rosie cow?",
+        "options": [
+            "Insulin",
+            "Alpha-lactalbumin",
+            "Casein",
+            "Hemoglobin"
+        ],
+        "answer": 1,
+        "explanation": "Rosie cow produced human alpha-lactalbumin."
+    },
+    {
+        "id": 27,
+        "question": "Which technique separates DNA fragments based on size?",
+        "options": [
+            "PCR",
+            "Gel electrophoresis",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Gel electrophoresis separates DNA by size."
+    },
+    {
+        "id": 28,
+        "question": "PCR stands for",
+        "options": [
+            "Protein chain reaction",
+            "Polymerase chain reaction",
+            "Primer cloning reaction",
+            "Polynucleotide chain reaction"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies DNA using polymerase chain reaction."
+    },
+    {
+        "id": 29,
+        "question": "Which enzyme is used in PCR?",
+        "options": [
+            "DNA ligase",
+            "Restriction enzyme",
+            "Taq polymerase",
+            "Reverse transcriptase"
+        ],
+        "answer": 2,
+        "explanation": "Taq polymerase is heat-stable and used in PCR."
+    },
+    {
+        "id": 30,
+        "question": "Taq polymerase is obtained from",
+        "options": [
+            "E. coli",
+            "Thermus aquaticus",
+            "Bacillus",
+            "Clostridium"
+        ],
+        "answer": 1,
+        "explanation": "Taq polymerase is isolated from Thermus aquaticus."
+    },
+    {
+        "id": 31,
+        "question": "Which step of PCR involves primer annealing?",
+        "options": [
+            "Denaturation",
+            "Extension",
+            "Annealing",
+            "Elongation"
+        ],
+        "answer": 2,
+        "explanation": "Annealing allows primers to bind to template DNA."
+    },
+    {
+        "id": 32,
+        "question": "Gene therapy is defined as",
+        "options": [
+            "replacement of defective gene",
+            "protein therapy",
+            "enzyme therapy",
+            "hormone therapy"
+        ],
+        "answer": 0,
+        "explanation": "Gene therapy replaces or corrects defective genes."
+    },
+    {
+        "id": 33,
+        "question": "Which disease was first successfully treated by gene therapy?",
+        "options": [
+            "Cystic fibrosis",
+            "ADA deficiency",
+            "Thalassemia",
+            "SCID"
+        ],
+        "answer": 1,
+        "explanation": "ADA deficiency was treated using gene therapy."
+    },
+    {
+        "id": 34,
+        "question": "Which cells are targeted in somatic gene therapy?",
+        "options": [
+            "Germ cells",
+            "Somatic cells",
+            "Gametes",
+            "Zygote"
+        ],
+        "answer": 1,
+        "explanation": "Somatic gene therapy targets body cells."
+    },
+    {
+        "id": 35,
+        "question": "Which vector is commonly used in gene therapy?",
+        "options": [
+            "Plasmid",
+            "Virus",
+            "Cosmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Viruses are commonly used as vectors."
+    },
+    {
+        "id": 36,
+        "question": "Which blotting technique is used for DNA detection?",
+        "options": [
+            "Northern blot",
+            "Western blot",
+            "Southern blot",
+            "Eastern blot"
+        ],
+        "answer": 2,
+        "explanation": "Southern blot detects DNA."
+    },
+    {
+        "id": 37,
+        "question": "Western blotting is used to detect",
+        "options": [
+            "DNA",
+            "RNA",
+            "Protein",
+            "Lipid"
+        ],
+        "answer": 2,
+        "explanation": "Western blot detects proteins."
+    },
+    {
+        "id": 38,
+        "question": "Northern blotting detects",
+        "options": [
+            "DNA",
+            "RNA",
+            "Protein",
+            "Carbohydrate"
+        ],
+        "answer": 1,
+        "explanation": "Northern blot detects RNA."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following is a bioreactor?",
+        "options": [
+            "PCR machine",
+            "Fermenter",
+            "Autoclave",
+            "Centrifuge"
+        ],
+        "answer": 1,
+        "explanation": "Fermenter is used as a bioreactor for large-scale production."
+    },
+    {
+        "id": 40,
+        "question": "Stirred-tank bioreactors are used for",
+        "options": [
+            "small scale experiments",
+            "industrial production",
+            "DNA sequencing",
+            "microscopy"
+        ],
+        "answer": 1,
+        "explanation": "They are used for large-scale industrial production."
+    },
+    {
+        "id": 41,
+        "question": "Which property of plasmids makes them suitable as vectors?",
+        "options": [
+            "Linear DNA",
+            "Large size",
+            "Autonomous replication",
+            "Protein coding"
+        ],
+        "answer": 2,
+        "explanation": "Plasmids can replicate independently in host."
+    },
+    {
+        "id": 42,
+        "question": "Selectable markers help in",
+        "options": [
+            "DNA replication",
+            "protein synthesis",
+            "identifying transformants",
+            "cutting DNA"
+        ],
+        "answer": 2,
+        "explanation": "They identify cells carrying recombinant DNA."
+    },
+    {
+        "id": 43,
+        "question": "Which technique amplifies a specific DNA segment in vitro?",
+        "options": [
+            "Cloning",
+            "PCR",
+            "Hybridization",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies specific DNA sequences."
+    },
+    {
+        "id": 44,
+        "question": "Which recombinant product is used for treatment of hemophilia?",
+        "options": [
+            "Insulin",
+            "Factor VIII",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant Factor VIII treats hemophilia."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following is not an application of biotechnology in agriculture?",
+        "options": [
+            "Bt crops",
+            "Herbicide resistance",
+            "Biofertilizers",
+            "Antibiotic therapy"
+        ],
+        "answer": 3,
+        "explanation": "Antibiotic therapy is medical, not agricultural."
+    },
+    {
+        "id": 46,
+        "question": "Which gene is introduced to make plants resistant to insects?",
+        "options": [
+            "Cry gene",
+            "ori gene",
+            "ampR gene",
+            "lacZ gene"
+        ],
+        "answer": 0,
+        "explanation": "Cry gene codes for Bt toxin."
+    },
+    {
+        "id": 47,
+        "question": "Which technique allows separation and identification of recombinant DNA?",
+        "options": [
+            "Electrophoresis",
+            "Centrifugation",
+            "Filtration",
+            "Chromatography"
+        ],
+        "answer": 0,
+        "explanation": "Gel electrophoresis separates DNA fragments."
+    },
+    {
+        "id": 48,
+        "question": "Which enzyme prevents degradation of recombinant DNA inside host?",
+        "options": [
+            "Ligase",
+            "Polymerase",
+            "Methylase",
+            "Endonuclease"
+        ],
+        "answer": 2,
+        "explanation": "Methylases protect DNA from restriction enzymes."
+    },
+    {
+        "id": 49,
+        "question": "Which application of biotechnology uses monoclonal antibodies?",
+        "options": [
+            "Vaccination",
+            "Diagnostics",
+            "Fertilization",
+            "Fermentation"
+        ],
+        "answer": 1,
+        "explanation": "Monoclonal antibodies are used in diagnostics."
+    },
+    {
+        "id": 50,
+        "question": "Which step is common to both cloning and PCR?",
+        "options": [
+            "Denaturation",
+            "Ligation",
+            "Transformation",
+            "Hybridization"
+        ],
+        "answer": 0,
+        "explanation": "Denaturation of DNA is common in both processes."
+    },
+    {
+        "id": 51,
+        "question": "Which organism produces interferons naturally?",
+        "options": [
+            "Virus",
+            "Bacteria",
+            "Animal cells",
+            "Plants"
+        ],
+        "answer": 2,
+        "explanation": "Interferons are produced by animal cells."
+    },
+    {
+        "id": 52,
+        "question": "Interferons are used for",
+        "options": [
+            "antibacterial therapy",
+            "antiviral therapy",
+            "antifungal therapy",
+            "antiparasitic therapy"
+        ],
+        "answer": 1,
+        "explanation": "Interferons protect against viral infections."
+    },
+    {
+        "id": 53,
+        "question": "Which is an ethical concern related to GM crops?",
+        "options": [
+            "High yield",
+            "Gene flow to wild relatives",
+            "Reduced pesticide use",
+            "Improved nutrition"
+        ],
+        "answer": 1,
+        "explanation": "Gene flow to wild species is an ethical concern."
+    },
+    {
+        "id": 54,
+        "question": "Which protein is used as a molecular marker in blue-white screening?",
+        "options": [
+            "Beta-galactosidase",
+            "DNA ligase",
+            "RNA polymerase",
+            "Taq polymerase"
+        ],
+        "answer": 0,
+        "explanation": "Beta-galactosidase activity differentiates recombinants."
+    },
+    {
+        "id": 55,
+        "question": "Blue-white screening is based on the inactivation of",
+        "options": [
+            "ampR gene",
+            "tetR gene",
+            "lacZ gene",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "Insertional inactivation of lacZ gene produces white colonies."
+    },
+    {
+        "id": 56,
+        "question": "Which crop was first genetically modified for commercial use?",
+        "options": [
+            "Bt cotton",
+            "Flavr Savr tomato",
+            "Golden rice",
+            "Bt maize"
+        ],
+        "answer": 1,
+        "explanation": "Flavr Savr tomato was the first GM crop."
+    },
+    {
+        "id": 57,
+        "question": "Which technology involves transfer of genes across species boundaries?",
+        "options": [
+            "Hybridization",
+            "Mutation breeding",
+            "Genetic engineering",
+            "Clonal propagation"
+        ],
+        "answer": 2,
+        "explanation": "Genetic engineering transfers genes across species."
+    },
+    {
+        "id": 58,
+        "question": "Which recombinant hormone is used to treat infertility?",
+        "options": [
+            "LH",
+            "FSH",
+            "Insulin",
+            "Thyroxine"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant FSH is used in infertility treatment."
+    },
+    {
+        "id": 59,
+        "question": "Which method detects antigen using enzyme-linked antibodies?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Western blot",
+            "Southern blot"
+        ],
+        "answer": 1,
+        "explanation": "ELISA uses enzyme-linked antibodies."
+    },
+    {
+        "id": 60,
+        "question": "Which biotechnology product increases shelf life of fruits?",
+        "options": [
+            "Bt toxin",
+            "Flavr Savr gene",
+            "Cry gene",
+            "Insulin gene"
+        ],
+        "answer": 1,
+        "explanation": "Flavr Savr tomato delays ripening and increases shelf life."
+    },
+    {
+        "id": 61,
+        "question": "Which type of vector can carry large DNA fragments?",
+        "options": [
+            "Plasmid",
+            "Cosmid",
+            "Phage",
+            "Ti plasmid"
+        ],
+        "answer": 1,
+        "explanation": "Cosmids can carry larger DNA inserts."
+    },
+    {
+        "id": 62,
+        "question": "Which step of genetic engineering ensures expression of foreign gene?",
+        "options": [
+            "Insertion",
+            "Transformation",
+            "Cloning",
+            "Transcription and translation"
+        ],
+        "answer": 3,
+        "explanation": "Expression requires transcription and translation."
+    },
+    {
+        "id": 63,
+        "question": "Which recombinant vaccine is produced using yeast?",
+        "options": [
+            "Polio vaccine",
+            "Hepatitis B vaccine",
+            "BCG",
+            "MMR"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B vaccine is produced using yeast."
+    },
+    {
+        "id": 64,
+        "question": "Which molecule acts as a primer in PCR?",
+        "options": [
+            "RNA",
+            "DNA oligonucleotide",
+            "Protein",
+            "Lipid"
+        ],
+        "answer": 1,
+        "explanation": "Short DNA oligonucleotides act as primers."
+    },
+    {
+        "id": 65,
+        "question": "Which application of biotechnology helps in forensic science?",
+        "options": [
+            "ELISA",
+            "DNA fingerprinting",
+            "Bioreactors",
+            "Fermentation"
+        ],
+        "answer": 1,
+        "explanation": "DNA fingerprinting is used in forensics."
+    },
+    {
+        "id": 66,
+        "question": "DNA fingerprinting is based on",
+        "options": [
+            "VNTRs",
+            "mtDNA",
+            "rRNA",
+            "plasmids"
+        ],
+        "answer": 0,
+        "explanation": "VNTRs show individual-specific patterns."
+    },
+    {
+        "id": 67,
+        "question": "Which enzyme cuts DNA to produce sticky ends?",
+        "options": [
+            "DNA ligase",
+            "Restriction endonuclease",
+            "RNA polymerase",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes produce sticky ends."
+    },
+    {
+        "id": 68,
+        "question": "Which vector is modified for monocot transformation?",
+        "options": [
+            "pBR322",
+            "Ti plasmid",
+            "Ri plasmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Modified Ti plasmid is used for monocots."
+    },
+    {
+        "id": 69,
+        "question": "Which is not a feature of genetically modified organisms?",
+        "options": [
+            "Stable gene expression",
+            "Inheritance of transgene",
+            "Natural gene transfer",
+            "Desired trait expression"
+        ],
+        "answer": 2,
+        "explanation": "GMOs involve artificial gene transfer."
+    },
+    {
+        "id": 70,
+        "question": "Which biotech product reduces pesticide use?",
+        "options": [
+            "Biofertilizer",
+            "Bt crops",
+            "Hybrid seeds",
+            "Organic manure"
+        ],
+        "answer": 1,
+        "explanation": "Bt crops reduce pesticide application."
+    },
+    {
+        "id": 71,
+        "question": "Which transgenic animal is used to study cancer?",
+        "options": [
+            "Mouse",
+            "Cow",
+            "Sheep",
+            "Goat"
+        ],
+        "answer": 0,
+        "explanation": "Transgenic mice are widely used in cancer research."
+    },
+    {
+        "id": 72,
+        "question": "Which application of biotechnology improves nutritional quality of food?",
+        "options": [
+            "Bt crops",
+            "Golden rice",
+            "Biofertilizers",
+            "Bioreactors"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice improves vitamin A content."
+    },
+    {
+        "id": 73,
+        "question": "Which technique uses antibodies tagged with enzymes?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Electrophoresis",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "ELISA uses enzyme-tagged antibodies."
+    },
+    {
+        "id": 74,
+        "question": "Which recombinant product is used to dissolve blood clots?",
+        "options": [
+            "Insulin",
+            "Streptokinase",
+            "Interferon",
+            "Factor VIII"
+        ],
+        "answer": 1,
+        "explanation": "Streptokinase dissolves blood clots."
+    },
+    {
+        "id": 75,
+        "question": "Which gene is responsible for herbicide resistance in crops?",
+        "options": [
+            "Cry gene",
+            "EPSPS gene",
+            "lacZ gene",
+            "ori"
+        ],
+        "answer": 1,
+        "explanation": "EPSPS gene provides herbicide resistance."
+    },
+    {
+        "id": 76,
+        "question": "Which biotech process involves large-scale cell culture?",
+        "options": [
+            "PCR",
+            "Bioreactor operation",
+            "Electrophoresis",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Bioreactors allow large-scale culture."
+    },
+    {
+        "id": 77,
+        "question": "Which is a disadvantage of GM crops?",
+        "options": [
+            "High yield",
+            "Environmental concern",
+            "Reduced pests",
+            "Improved nutrition"
+        ],
+        "answer": 1,
+        "explanation": "Environmental concerns are disadvantages."
+    },
+    {
+        "id": 78,
+        "question": "Which gene therapy approach replaces defective ADA gene?",
+        "options": [
+            "Germ line therapy",
+            "Somatic cell therapy",
+            "Protein therapy",
+            "Hormone therapy"
+        ],
+        "answer": 1,
+        "explanation": "Somatic cell therapy corrects ADA deficiency."
+    },
+    {
+        "id": 79,
+        "question": "Which organism is used to produce recombinant vaccines?",
+        "options": [
+            "Bacteria",
+            "Yeast",
+            "Virus",
+            "Protozoa"
+        ],
+        "answer": 1,
+        "explanation": "Yeast is commonly used for vaccine production."
+    },
+    {
+        "id": 80,
+        "question": "Which step confirms insertion of foreign DNA?",
+        "options": [
+            "PCR analysis",
+            "Fermentation",
+            "Translation",
+            "Bioreactor"
+        ],
+        "answer": 0,
+        "explanation": "PCR confirms presence of foreign DNA."
+    },
+    {
+        "id": 81,
+        "question": "Which molecule carries the foreign gene into host cell?",
+        "options": [
+            "Vector",
+            "Primer",
+            "Probe",
+            "Marker"
+        ],
+        "answer": 0,
+        "explanation": "Vector carries foreign DNA."
+    },
+    {
+        "id": 82,
+        "question": "Which biotechnology tool uses complementary base pairing?",
+        "options": [
+            "Hybridization",
+            "Centrifugation",
+            "Filtration",
+            "Chromatography"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization is based on complementary base pairing."
+    },
+    {
+        "id": 83,
+        "question": "Which application uses recombinant erythropoietin?",
+        "options": [
+            "Anemia treatment",
+            "Diabetes",
+            "Dwarfism",
+            "Cancer"
+        ],
+        "answer": 0,
+        "explanation": "Erythropoietin treats anemia."
+    },
+    {
+        "id": 84,
+        "question": "Which process introduces recombinant DNA into host?",
+        "options": [
+            "Cloning",
+            "Transformation",
+            "Replication",
+            "Translation"
+        ],
+        "answer": 1,
+        "explanation": "Transformation introduces DNA into host."
+    },
+    {
+        "id": 85,
+        "question": "Which is a biosafety concern of GM organisms?",
+        "options": [
+            "Improved yield",
+            "Allergenicity",
+            "Disease resistance",
+            "Better nutrition"
+        ],
+        "answer": 1,
+        "explanation": "Allergenicity is a biosafety concern."
+    },
+    {
+        "id": 86,
+        "question": "Which transgenic plant produces its own insecticide?",
+        "options": [
+            "Golden rice",
+            "Bt cotton",
+            "Flavr Savr tomato",
+            "Hybrid maize"
+        ],
+        "answer": 1,
+        "explanation": "Bt cotton produces Bt toxin."
+    },
+    {
+        "id": 87,
+        "question": "Which recombinant protein treats viral infections?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "Factor VIII"
+        ],
+        "answer": 1,
+        "explanation": "Interferons act against viruses."
+    },
+    {
+        "id": 88,
+        "question": "Which biotechnology application uses stem cells?",
+        "options": [
+            "Gene therapy",
+            "Cell therapy",
+            "PCR",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Stem cells are used in cell therapy."
+    },
+    {
+        "id": 89,
+        "question": "Which product is obtained from genetically engineered bacteria?",
+        "options": [
+            "Insulin",
+            "Penicillin",
+            "Vitamin C",
+            "Morphine"
+        ],
+        "answer": 0,
+        "explanation": "Insulin is produced by engineered bacteria."
+    },
+    {
+        "id": 90,
+        "question": "Which enzyme creates phosphodiester bonds?",
+        "options": [
+            "DNA ligase",
+            "Restriction enzyme",
+            "RNA polymerase",
+            "Primase"
+        ],
+        "answer": 0,
+        "explanation": "DNA ligase forms phosphodiester bonds."
+    },
+    {
+        "id": 91,
+        "question": "Which transgenic animal produces pharmaceutical proteins in milk?",
+        "options": [
+            "Rosie cow",
+            "Dolly sheep",
+            "Transgenic mouse",
+            "Goat"
+        ],
+        "answer": 0,
+        "explanation": "Rosie cow produced human protein in milk."
+    },
+    {
+        "id": 92,
+        "question": "Which recombinant vaccine is edible?",
+        "options": [
+            "Polio",
+            "Hepatitis B",
+            "Edible potato vaccine",
+            "BCG"
+        ],
+        "answer": 2,
+        "explanation": "Edible vaccines are produced in transgenic plants like potato."
+    },
+    {
+        "id": 93,
+        "question": "Which process prevents self-ligation of vector DNA?",
+        "options": [
+            "Alkaline phosphatase treatment",
+            "Ligation",
+            "Transformation",
+            "Replication"
+        ],
+        "answer": 0,
+        "explanation": "Alkaline phosphatase removes phosphate groups."
+    },
+    {
+        "id": 94,
+        "question": "Which marker gene produces blue colonies?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "lacZ gene activity produces blue colonies."
+    },
+    {
+        "id": 95,
+        "question": "Which organism is used as a factory for insulin production?",
+        "options": [
+            "Virus",
+            "Bacteria",
+            "Plant",
+            "Animal"
+        ],
+        "answer": 1,
+        "explanation": "Bacteria like E. coli produce insulin."
+    },
+    {
+        "id": 96,
+        "question": "Which biotech product helps in burn treatment?",
+        "options": [
+            "Insulin",
+            "Artificial skin",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Artificial skin is produced using biotechnology."
+    },
+    {
+        "id": 97,
+        "question": "Which gene is silenced in RNA interference?",
+        "options": [
+            "Target gene",
+            "Vector gene",
+            "Marker gene",
+            "Ori gene"
+        ],
+        "answer": 0,
+        "explanation": "RNAi silences specific target gene."
+    },
+    {
+        "id": 98,
+        "question": "Which biotechnology tool uses probes?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Bioreactor"
+        ],
+        "answer": 0,
+        "explanation": "Probes are used in hybridization."
+    },
+    {
+        "id": 99,
+        "question": "Which crop was genetically modified for delayed ripening?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Flavr Savr tomato",
+            "Bt maize"
+        ],
+        "answer": 2,
+        "explanation": "Flavr Savr tomato shows delayed ripening."
+    },
+    {
+        "id": 100,
+        "question": "Which application of biotechnology is used for crime detection?",
+        "options": [
+            "Gene therapy",
+            "DNA fingerprinting",
+            "ELISA",
+            "Bioreactor"
+        ],
+        "answer": 1,
+        "explanation": "DNA fingerprinting is used in crime detection."
+    },
+    {
+        "id": 101,
+        "question": "Which feature distinguishes recombinant DNA technology from traditional breeding?",
+        "options": [
+            "Hybridization",
+            "Selection",
+            "Insertion of foreign gene",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant DNA technology involves insertion of a foreign gene into an organism."
+    },
+    {
+        "id": 102,
+        "question": "Which plasmid feature allows easy insertion of foreign DNA?",
+        "options": [
+            "Selectable marker",
+            "Restriction site",
+            "Ori",
+            "Promoter"
+        ],
+        "answer": 1,
+        "explanation": "Restriction sites allow insertion of foreign DNA fragments."
+    },
+    {
+        "id": 103,
+        "question": "Which restriction enzyme produces blunt ends?",
+        "options": [
+            "EcoRI",
+            "HindIII",
+            "SmaI",
+            "BamHI"
+        ],
+        "answer": 2,
+        "explanation": "SmaI cuts DNA to produce blunt ends."
+    },
+    {
+        "id": 104,
+        "question": "Sticky ends facilitate cloning because they",
+        "options": [
+            "are resistant to enzymes",
+            "repel each other",
+            "can form hydrogen bonds",
+            "are blunt"
+        ],
+        "answer": 2,
+        "explanation": "Sticky ends form hydrogen bonds with complementary sequences."
+    },
+    {
+        "id": 105,
+        "question": "Which step follows ligation in recombinant DNA technology?",
+        "options": [
+            "Isolation of DNA",
+            "Transformation",
+            "Restriction digestion",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "After ligation, recombinant DNA is introduced into host by transformation."
+    },
+    {
+        "id": 106,
+        "question": "Which host is preferred for large-scale production of recombinant proteins?",
+        "options": [
+            "Virus",
+            "Bacteria",
+            "Plant cell",
+            "Animal cell"
+        ],
+        "answer": 1,
+        "explanation": "Bacteria grow rapidly and are used for large-scale production."
+    },
+    {
+        "id": 107,
+        "question": "Which protein is produced by Bt gene expression in plants?",
+        "options": [
+            "Insecticidal protein",
+            "Antibiotic",
+            "Herbicide",
+            "Vitamin"
+        ],
+        "answer": 0,
+        "explanation": "Bt gene encodes insecticidal Cry protein."
+    },
+    {
+        "id": 108,
+        "question": "Bt toxin becomes active in insect gut due to",
+        "options": [
+            "acidic pH",
+            "alkaline pH",
+            "neutral pH",
+            "enzymes of plant"
+        ],
+        "answer": 1,
+        "explanation": "Bt toxin is activated in alkaline pH of insect gut."
+    },
+    {
+        "id": 109,
+        "question": "Which part of Cry protein is toxic to insects?",
+        "options": [
+            "C-terminal",
+            "N-terminal",
+            "Whole protein",
+            "Signal peptide"
+        ],
+        "answer": 1,
+        "explanation": "N-terminal region of Cry protein is toxic."
+    },
+    {
+        "id": 110,
+        "question": "RNA interference leads to",
+        "options": [
+            "gene amplification",
+            "gene mutation",
+            "gene silencing",
+            "gene duplication"
+        ],
+        "answer": 2,
+        "explanation": "RNAi suppresses expression of specific genes."
+    },
+    {
+        "id": 111,
+        "question": "In RNA interference, mRNA is degraded by",
+        "options": [
+            "DNA polymerase",
+            "RISC complex",
+            "RNA polymerase",
+            "Ligase"
+        ],
+        "answer": 1,
+        "explanation": "RISC complex degrades target mRNA."
+    },
+    {
+        "id": 112,
+        "question": "Which crop was engineered using RNA interference to resist nematodes?",
+        "options": [
+            "Bt cotton",
+            "Tobacco",
+            "Tomato",
+            "Rice"
+        ],
+        "answer": 1,
+        "explanation": "Tobacco was engineered for nematode resistance using RNAi."
+    },
+    {
+        "id": 113,
+        "question": "Golden rice contains genes from",
+        "options": [
+            "maize and bacterium",
+            "daffodil and bacterium",
+            "rice only",
+            "wheat and bacterium"
+        ],
+        "answer": 1,
+        "explanation": "Genes from daffodil and bacterium enable beta-carotene synthesis."
+    },
+    {
+        "id": 114,
+        "question": "Which pigment gives golden rice its color?",
+        "options": [
+            "Xanthophyll",
+            "Chlorophyll",
+            "Beta-carotene",
+            "Anthocyanin"
+        ],
+        "answer": 2,
+        "explanation": "Beta-carotene imparts golden color."
+    },
+    {
+        "id": 115,
+        "question": "Which disease is caused by deficiency of vitamin A?",
+        "options": [
+            "Rickets",
+            "Scurvy",
+            "Night blindness",
+            "Beriberi"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin A deficiency causes night blindness."
+    },
+    {
+        "id": 116,
+        "question": "Which recombinant product is used to treat myocardial infarction?",
+        "options": [
+            "Insulin",
+            "Streptokinase",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Streptokinase dissolves blood clots in myocardial infarction."
+    },
+    {
+        "id": 117,
+        "question": "Which system is used for expression of recombinant proteins in animals?",
+        "options": [
+            "Bacterial plasmid",
+            "Animal cell culture",
+            "Ti plasmid",
+            "Cosmid"
+        ],
+        "answer": 1,
+        "explanation": "Animal cell cultures are used for protein expression."
+    },
+    {
+        "id": 118,
+        "question": "Which factor is essential for efficient transcription of foreign gene?",
+        "options": [
+            "Selectable marker",
+            "Promoter",
+            "Ori",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Promoter initiates transcription of gene."
+    },
+    {
+        "id": 119,
+        "question": "Which promoter is commonly used in E. coli expression systems?",
+        "options": [
+            "lac promoter",
+            "TATA box",
+            "Enhancer",
+            "Ori"
+        ],
+        "answer": 0,
+        "explanation": "lac promoter regulates gene expression in E. coli."
+    },
+    {
+        "id": 120,
+        "question": "Which recombinant hormone increases red blood cell production?",
+        "options": [
+            "Insulin",
+            "Erythropoietin",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Erythropoietin stimulates RBC production."
+    },
+    {
+        "id": 121,
+        "question": "Which transgenic animal is used to test vaccine safety?",
+        "options": [
+            "Mouse",
+            "Cow",
+            "Sheep",
+            "Pig"
+        ],
+        "answer": 0,
+        "explanation": "Transgenic mice are used for vaccine safety testing."
+    },
+    {
+        "id": 122,
+        "question": "Which protein is used as an anticoagulant and produced by biotechnology?",
+        "options": [
+            "Heparin",
+            "Streptokinase",
+            "Factor VIII",
+            "Insulin"
+        ],
+        "answer": 0,
+        "explanation": "Heparin acts as an anticoagulant."
+    },
+    {
+        "id": 123,
+        "question": "Which technique confirms size of amplified DNA?",
+        "options": [
+            "PCR",
+            "Gel electrophoresis",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Gel electrophoresis separates DNA based on size."
+    },
+    {
+        "id": 124,
+        "question": "Which is an advantage of PCR?",
+        "options": [
+            "Requires large DNA sample",
+            "Slow process",
+            "Rapid amplification",
+            "Low specificity"
+        ],
+        "answer": 2,
+        "explanation": "PCR rapidly amplifies DNA."
+    },
+    {
+        "id": 125,
+        "question": "Which step of PCR uses thermostable enzyme?",
+        "options": [
+            "Denaturation",
+            "Annealing",
+            "Extension",
+            "Hybridization"
+        ],
+        "answer": 2,
+        "explanation": "Extension uses Taq polymerase."
+    },
+    {
+        "id": 126,
+        "question": "Which vector is used for cloning large DNA fragments in bacteria?",
+        "options": [
+            "Plasmid",
+            "BAC",
+            "Ti plasmid",
+            "Phage lambda"
+        ],
+        "answer": 1,
+        "explanation": "BACs can carry large DNA fragments."
+    },
+    {
+        "id": 127,
+        "question": "Which gene therapy approach involves in vitro correction of cells?",
+        "options": [
+            "In vivo therapy",
+            "Ex vivo therapy",
+            "Germ line therapy",
+            "Protein therapy"
+        ],
+        "answer": 1,
+        "explanation": "Ex vivo therapy corrects cells outside the body."
+    },
+    {
+        "id": 128,
+        "question": "Which disease is caused by absence of adenosine deaminase?",
+        "options": [
+            "SCID",
+            "Cystic fibrosis",
+            "Hemophilia",
+            "Thalassemia"
+        ],
+        "answer": 0,
+        "explanation": "ADA deficiency leads to SCID."
+    },
+    {
+        "id": 129,
+        "question": "Which enzyme deficiency is treated by gene therapy in SCID?",
+        "options": [
+            "ADA",
+            "Hexokinase",
+            "Catalase",
+            "Amylase"
+        ],
+        "answer": 0,
+        "explanation": "ADA deficiency is treated using gene therapy."
+    },
+    {
+        "id": 130,
+        "question": "Which vector is preferred for human gene therapy?",
+        "options": [
+            "Plasmid",
+            "Retrovirus",
+            "Cosmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Retroviruses integrate genes into host genome."
+    },
+    {
+        "id": 131,
+        "question": "Which blotting method uses radioactive probes?",
+        "options": [
+            "Southern",
+            "Western",
+            "ELISA",
+            "PCR"
+        ],
+        "answer": 0,
+        "explanation": "Southern blot uses labeled probes to detect DNA."
+    },
+    {
+        "id": 132,
+        "question": "Which application of biotechnology helps in early disease diagnosis?",
+        "options": [
+            "Bioreactors",
+            "ELISA",
+            "Fermentation",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "ELISA detects disease-specific antigens or antibodies."
+    },
+    {
+        "id": 133,
+        "question": "Which product is used to treat hemophilia A?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Insulin",
+            "Interferon"
+        ],
+        "answer": 0,
+        "explanation": "Hemophilia A is due to Factor VIII deficiency."
+    },
+    {
+        "id": 134,
+        "question": "Which transgenic plant reduces use of chemical insecticides?",
+        "options": [
+            "Hybrid maize",
+            "Bt cotton",
+            "Golden rice",
+            "Flavr Savr tomato"
+        ],
+        "answer": 1,
+        "explanation": "Bt cotton produces insecticidal protein."
+    },
+    {
+        "id": 135,
+        "question": "Which application of biotechnology involves manipulation of embryos?",
+        "options": [
+            "IVF",
+            "Gene therapy",
+            "PCR",
+            "ELISA"
+        ],
+        "answer": 0,
+        "explanation": "IVF involves manipulation of embryos."
+    },
+    {
+        "id": 136,
+        "question": "Which term describes organisms containing foreign genes?",
+        "options": [
+            "Hybrid",
+            "Mutant",
+            "Transgenic",
+            "Clone"
+        ],
+        "answer": 2,
+        "explanation": "Transgenic organisms carry foreign genes."
+    },
+    {
+        "id": 137,
+        "question": "Which step prevents degradation of foreign DNA by host restriction enzymes?",
+        "options": [
+            "Ligation",
+            "Methylation",
+            "Transformation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Methylation protects DNA from restriction enzymes."
+    },
+    {
+        "id": 138,
+        "question": "Which enzyme removes phosphate groups from DNA ends?",
+        "options": [
+            "Ligase",
+            "Alkaline phosphatase",
+            "Polymerase",
+            "Endonuclease"
+        ],
+        "answer": 1,
+        "explanation": "Alkaline phosphatase removes phosphate groups."
+    },
+    {
+        "id": 139,
+        "question": "Which recombinant product is used in treatment of viral hepatitis?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Erythropoietin",
+            "Growth hormone"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used against viral hepatitis."
+    },
+    {
+        "id": 140,
+        "question": "Which technology is used to detect genetic disorders before birth?",
+        "options": [
+            "Amniocentesis",
+            "DNA fingerprinting",
+            "PCR",
+            "ELISA"
+        ],
+        "answer": 2,
+        "explanation": "PCR helps detect genetic disorders prenatally."
+    },
+    {
+        "id": 141,
+        "question": "Which biotech application uses immobilized enzymes?",
+        "options": [
+            "PCR",
+            "Bioreactors",
+            "ELISA",
+            "Fermentation"
+        ],
+        "answer": 1,
+        "explanation": "Bioreactors often use immobilized enzymes."
+    },
+    {
+        "id": 142,
+        "question": "Which advantage is associated with transgenic animals?",
+        "options": [
+            "Ethical concerns",
+            "Disease models",
+            "Low cost",
+            "Natural selection"
+        ],
+        "answer": 1,
+        "explanation": "Transgenic animals serve as disease models."
+    },
+    {
+        "id": 143,
+        "question": "Which gene is used as reporter gene in cloning?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "lacZ is used as reporter gene."
+    },
+    {
+        "id": 144,
+        "question": "Which enzyme catalyzes synthesis of RNA primer in vivo but not used in PCR?",
+        "options": [
+            "Primase",
+            "Taq polymerase",
+            "DNA ligase",
+            "Restriction enzyme"
+        ],
+        "answer": 0,
+        "explanation": "Primase synthesizes RNA primers in vivo."
+    },
+    {
+        "id": 145,
+        "question": "Which biotechnology product improves cheese production?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Rennin",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Rennin is used in cheese making."
+    },
+    {
+        "id": 146,
+        "question": "Which genetically engineered bacterium cleans oil spills?",
+        "options": [
+            "E. coli",
+            "Pseudomonas",
+            "Rhizobium",
+            "Agrobacterium"
+        ],
+        "answer": 1,
+        "explanation": "Pseudomonas strains degrade hydrocarbons."
+    },
+    {
+        "id": 147,
+        "question": "Which application of biotechnology addresses environmental pollution?",
+        "options": [
+            "Bioremediation",
+            "Gene therapy",
+            "ELISA",
+            "PCR"
+        ],
+        "answer": 0,
+        "explanation": "Bioremediation uses organisms to clean pollutants."
+    },
+    {
+        "id": 148,
+        "question": "Which feature ensures stable inheritance of transgene?",
+        "options": [
+            "Promoter",
+            "Integration into genome",
+            "Selectable marker",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Integration ensures stable inheritance."
+    },
+    {
+        "id": 149,
+        "question": "Which recombinant product treats anemia associated with kidney failure?",
+        "options": [
+            "Insulin",
+            "Erythropoietin",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Erythropoietin treats anemia."
+    },
+    {
+        "id": 150,
+        "question": "Which type of vector is used in plant transformation besides Ti plasmid?",
+        "options": [
+            "BAC",
+            "Ri plasmid",
+            "Cosmid",
+            "Phage"
+        ],
+        "answer": 1,
+        "explanation": "Ri plasmid can also be used in plants."
+    },
+    {
+        "id": 151,
+        "question": "Which process identifies recombinant colonies using color change?",
+        "options": [
+            "Selectable marker screening",
+            "Blue-white screening",
+            "Gel electrophoresis",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Blue-white screening distinguishes recombinants."
+    },
+    {
+        "id": 152,
+        "question": "Which gene disruption leads to white colonies?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "lacZ disruption produces white colonies."
+    },
+    {
+        "id": 153,
+        "question": "Which technique amplifies DNA from minute biological samples in forensics?",
+        "options": [
+            "ELISA",
+            "PCR",
+            "Southern blot",
+            "Bioreactor"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies DNA from small samples."
+    },
+    {
+        "id": 154,
+        "question": "Which part of bioreactor maintains pH and temperature?",
+        "options": [
+            "Agitator",
+            "Sensors and control system",
+            "Sparger",
+            "Jacket"
+        ],
+        "answer": 1,
+        "explanation": "Sensors regulate pH and temperature."
+    },
+    {
+        "id": 155,
+        "question": "Which biotechnology product is used as vaccine adjuvant?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Alum",
+            "Erythropoietin"
+        ],
+        "answer": 2,
+        "explanation": "Alum is used as vaccine adjuvant."
+    },
+    {
+        "id": 156,
+        "question": "Which organism is used to produce recombinant chymosin?",
+        "options": [
+            "Bacteria",
+            "Yeast",
+            "Plant",
+            "Virus"
+        ],
+        "answer": 1,
+        "explanation": "Yeast produces recombinant chymosin."
+    },
+    {
+        "id": 157,
+        "question": "Which application of biotechnology increases crop resistance to stress?",
+        "options": [
+            "Hybridization",
+            "Genetic engineering",
+            "Mutation",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Genetic engineering introduces stress-resistant genes."
+    },
+    {
+        "id": 158,
+        "question": "Which disadvantage is associated with gene therapy?",
+        "options": [
+            "Permanent cure",
+            "High cost",
+            "Rapid effect",
+            "Target specificity"
+        ],
+        "answer": 1,
+        "explanation": "Gene therapy is expensive."
+    },
+    {
+        "id": 159,
+        "question": "Which recombinant enzyme is used in laundry detergents?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Multiple recombinant enzymes are used in detergents."
+    },
+    {
+        "id": 160,
+        "question": "Which technique identifies specific DNA sequence using probe?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Centrifugation"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization uses probes to detect sequences."
+    },
+    {
+        "id": 161,
+        "question": "Which process allows multiplication of recombinant plasmid inside host?",
+        "options": [
+            "Translation",
+            "Replication",
+            "Transcription",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Replication multiplies plasmid DNA."
+    },
+    {
+        "id": 162,
+        "question": "Which recombinant hormone is used in assisted reproduction?",
+        "options": [
+            "FSH",
+            "Insulin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 0,
+        "explanation": "FSH is used in assisted reproduction."
+    },
+    {
+        "id": 163,
+        "question": "Which gene confers resistance to glyphosate?",
+        "options": [
+            "Cry",
+            "EPSPS",
+            "lacZ",
+            "ampR"
+        ],
+        "answer": 1,
+        "explanation": "EPSPS gene provides glyphosate resistance."
+    },
+    {
+        "id": 164,
+        "question": "Which biosafety level is required for work with recombinant DNA?",
+        "options": [
+            "BSL-1",
+            "BSL-2",
+            "BSL-3",
+            "BSL-4"
+        ],
+        "answer": 1,
+        "explanation": "BSL-2 is commonly required for recombinant DNA work."
+    },
+    {
+        "id": 165,
+        "question": "Which recombinant product treats growth disorders in children?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Growth hormone treats growth disorders."
+    },
+    {
+        "id": 166,
+        "question": "Which plant part accumulates beta-carotene in golden rice?",
+        "options": [
+            "Leaf",
+            "Endosperm",
+            "Embryo",
+            "Aleurone"
+        ],
+        "answer": 1,
+        "explanation": "Beta-carotene accumulates in endosperm."
+    },
+    {
+        "id": 167,
+        "question": "Which technique ensures amplification specificity in PCR?",
+        "options": [
+            "High primer concentration",
+            "Complementary primers",
+            "Low temperature",
+            "Random primers"
+        ],
+        "answer": 1,
+        "explanation": "Specific primers ensure specificity."
+    },
+    {
+        "id": 168,
+        "question": "Which recombinant product prevents Rh incompatibility?",
+        "options": [
+            "Insulin",
+            "Anti-Rh antibodies",
+            "Interferon",
+            "Factor VIII"
+        ],
+        "answer": 1,
+        "explanation": "Anti-Rh antibodies prevent Rh incompatibility."
+    },
+    {
+        "id": 169,
+        "question": "Which organism is used to express hepatitis B surface antigen?",
+        "options": [
+            "E. coli",
+            "Yeast",
+            "Virus",
+            "Plant"
+        ],
+        "answer": 1,
+        "explanation": "Yeast expresses hepatitis B surface antigen."
+    },
+    {
+        "id": 170,
+        "question": "Which step of genetic engineering produces recombinant molecule?",
+        "options": [
+            "Restriction digestion",
+            "Ligation",
+            "Transformation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Ligation forms recombinant DNA molecule."
+    },
+    {
+        "id": 171,
+        "question": "Which application of biotechnology reduces post-harvest losses?",
+        "options": [
+            "Bt crops",
+            "Flavr Savr tomato",
+            "Biofertilizers",
+            "Bioreactors"
+        ],
+        "answer": 1,
+        "explanation": "Flavr Savr tomato delays ripening."
+    },
+    {
+        "id": 172,
+        "question": "Which technique is used to study gene expression?",
+        "options": [
+            "Western blot",
+            "Northern blot",
+            "Southern blot",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Northern blot studies RNA expression."
+    },
+    {
+        "id": 173,
+        "question": "Which biotechnology tool separates proteins by size?",
+        "options": [
+            "Gel electrophoresis",
+            "PCR",
+            "Hybridization",
+            "ELISA"
+        ],
+        "answer": 0,
+        "explanation": "Gel electrophoresis separates proteins or DNA."
+    },
+    {
+        "id": 174,
+        "question": "Which enzyme is used to convert RNA into DNA?",
+        "options": [
+            "DNA polymerase",
+            "Reverse transcriptase",
+            "RNA polymerase",
+            "Ligase"
+        ],
+        "answer": 1,
+        "explanation": "Reverse transcriptase synthesizes cDNA."
+    },
+    {
+        "id": 175,
+        "question": "Which recombinant product treats hemophilia B?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Insulin",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Hemophilia B is due to Factor IX deficiency."
+    },
+    {
+        "id": 176,
+        "question": "Which vector has ability to integrate into plant genome naturally?",
+        "options": [
+            "pBR322",
+            "Ti plasmid",
+            "BAC",
+            "Cosmid"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid integrates into plant genome."
+    },
+    {
+        "id": 177,
+        "question": "Which application of biotechnology uses antisense RNA?",
+        "options": [
+            "RNA interference",
+            "PCR",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 0,
+        "explanation": "RNA interference uses antisense RNA."
+    },
+    {
+        "id": 178,
+        "question": "Which enzyme is required to remove RNA primers during replication but not used in PCR?",
+        "options": [
+            "DNA polymerase I",
+            "Taq polymerase",
+            "Ligase",
+            "Primase"
+        ],
+        "answer": 0,
+        "explanation": "DNA polymerase I removes RNA primers in vivo."
+    },
+    {
+        "id": 179,
+        "question": "Which recombinant protein is used to treat multiple sclerosis?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Erythropoietin",
+            "Growth hormone"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in multiple sclerosis."
+    },
+    {
+        "id": 180,
+        "question": "Which factor determines copy number of plasmid?",
+        "options": [
+            "Selectable marker",
+            "Ori",
+            "Promoter",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Origin of replication determines copy number."
+    },
+    {
+        "id": 181,
+        "question": "Which application of biotechnology produces biodegradable plastics?",
+        "options": [
+            "Bioremediation",
+            "Genetic engineering",
+            "Fermentation",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Genetically engineered microbes produce biodegradable plastics."
+    },
+    {
+        "id": 182,
+        "question": "Which transgenic organism produces human insulin?",
+        "options": [
+            "Plant",
+            "Bacterium",
+            "Virus",
+            "Protozoan"
+        ],
+        "answer": 1,
+        "explanation": "Bacteria are engineered to produce insulin."
+    },
+    {
+        "id": 183,
+        "question": "Which step ensures selection of transformed cells?",
+        "options": [
+            "Ligation",
+            "Selectable marker",
+            "Ori",
+            "Promoter"
+        ],
+        "answer": 1,
+        "explanation": "Selectable markers identify transformed cells."
+    },
+    {
+        "id": 184,
+        "question": "Which technique is used to visualize DNA bands?",
+        "options": [
+            "UV illumination",
+            "ELISA",
+            "PCR",
+            "Centrifugation"
+        ],
+        "answer": 0,
+        "explanation": "DNA stained gels are visualized under UV light."
+    },
+    {
+        "id": 185,
+        "question": "Which recombinant product treats leukemia?",
+        "options": [
+            "Interferon",
+            "Insulin",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Interferon is used in leukemia treatment."
+    },
+    {
+        "id": 186,
+        "question": "Which feature of bioreactor ensures oxygen supply?",
+        "options": [
+            "Agitator",
+            "Sparger",
+            "Sensor",
+            "Jacket"
+        ],
+        "answer": 1,
+        "explanation": "Sparger supplies oxygen."
+    },
+    {
+        "id": 187,
+        "question": "Which GMO trait improves nutrient uptake?",
+        "options": [
+            "Bt gene",
+            "Herbicide resistance",
+            "Biofortification",
+            "Selectable marker"
+        ],
+        "answer": 2,
+        "explanation": "Biofortification improves nutrient content."
+    },
+    {
+        "id": 188,
+        "question": "Which technique confirms expression of recombinant protein?",
+        "options": [
+            "Western blot",
+            "Southern blot",
+            "PCR",
+            "Gel electrophoresis"
+        ],
+        "answer": 0,
+        "explanation": "Western blot detects protein expression."
+    },
+    {
+        "id": 189,
+        "question": "Which application of biotechnology uses cloned genes for diagnosis?",
+        "options": [
+            "DNA probes",
+            "ELISA",
+            "Bioreactors",
+            "Fermentation"
+        ],
+        "answer": 0,
+        "explanation": "DNA probes detect specific sequences."
+    },
+    {
+        "id": 190,
+        "question": "Which molecule is detected by ELISA in HIV testing?",
+        "options": [
+            "DNA",
+            "RNA",
+            "Antigen or antibody",
+            "Protein enzyme"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects HIV antigen or antibodies."
+    },
+    {
+        "id": 191,
+        "question": "Which process integrates foreign DNA into host chromosome?",
+        "options": [
+            "Transformation",
+            "Transcription",
+            "Recombination",
+            "Translation"
+        ],
+        "answer": 2,
+        "explanation": "Recombination integrates foreign DNA."
+    },
+    {
+        "id": 192,
+        "question": "Which enzyme seals nicks in DNA backbone?",
+        "options": [
+            "DNA ligase",
+            "DNA polymerase",
+            "Restriction enzyme",
+            "Primase"
+        ],
+        "answer": 0,
+        "explanation": "DNA ligase seals nicks by phosphodiester bonds."
+    },
+    {
+        "id": 193,
+        "question": "Which biotechnology application provides pest resistance without chemicals?",
+        "options": [
+            "Bt crops",
+            "Hybridization",
+            "Mutation",
+            "Selection"
+        ],
+        "answer": 0,
+        "explanation": "Bt crops resist pests biologically."
+    },
+    {
+        "id": 194,
+        "question": "Which gene therapy targets body cells only?",
+        "options": [
+            "Germ line therapy",
+            "Somatic gene therapy",
+            "Ex vivo therapy",
+            "Protein therapy"
+        ],
+        "answer": 1,
+        "explanation": "Somatic gene therapy targets body cells."
+    },
+    {
+        "id": 195,
+        "question": "Which vector system is used in production of edible vaccines?",
+        "options": [
+            "Bacterial plasmid",
+            "Plant expression system",
+            "Viral vector",
+            "Animal cell culture"
+        ],
+        "answer": 1,
+        "explanation": "Plants are used to produce edible vaccines."
+    },
+    {
+        "id": 196,
+        "question": "Which recombinant enzyme is used to remove blood clots?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Streptokinase",
+            "Lipase"
+        ],
+        "answer": 2,
+        "explanation": "Streptokinase dissolves clots."
+    },
+    {
+        "id": 197,
+        "question": "Which technique separates macromolecules using electric field?",
+        "options": [
+            "Electrophoresis",
+            "Centrifugation",
+            "Chromatography",
+            "Filtration"
+        ],
+        "answer": 0,
+        "explanation": "Electrophoresis uses electric field."
+    },
+    {
+        "id": 198,
+        "question": "Which biotechnology product improves crop yield indirectly?",
+        "options": [
+            "Bt toxin",
+            "Biofertilizers",
+            "Herbicide resistance",
+            "Selectable marker"
+        ],
+        "answer": 1,
+        "explanation": "Biofertilizers enhance nutrient availability."
+    },
+    {
+        "id": 199,
+        "question": "Which application of biotechnology uses cloned animals?",
+        "options": [
+            "Therapeutics",
+            "Research models",
+            "Agriculture",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Cloned animals are used in multiple applications."
+    },
+    {
+        "id": 200,
+        "question": "Which biotechnology principle underlies all recombinant DNA applications?",
+        "options": [
+            "Complementary base pairing",
+            "Natural selection",
+            "Random mutation",
+            "Hybrid vigor"
+        ],
+        "answer": 0,
+        "explanation": "Complementary base pairing is fundamental to recombinant DNA technology."
+    },
+    {
+        "id": 201,
+        "question": "Which step in recombinant DNA technology involves separation of DNA fragments based on size?",
+        "options": [
+            "PCR",
+            "Gel electrophoresis",
+            "Hybridization",
+            "Ligation"
+        ],
+        "answer": 1,
+        "explanation": "Gel electrophoresis separates DNA fragments according to size."
+    },
+    {
+        "id": 202,
+        "question": "Which dye is commonly used to visualize DNA bands in agarose gel?",
+        "options": [
+            "Safranin",
+            "Ethidium bromide",
+            "Methylene blue",
+            "Crystal violet"
+        ],
+        "answer": 1,
+        "explanation": "Ethidium bromide intercalates with DNA and fluoresces under UV light."
+    },
+    {
+        "id": 203,
+        "question": "Which condition is essential for activation of Bt protoxin?",
+        "options": [
+            "Acidic pH",
+            "Alkaline pH",
+            "Neutral pH",
+            "High temperature"
+        ],
+        "answer": 1,
+        "explanation": "Bt protoxin is activated in the alkaline gut of insects."
+    },
+    {
+        "id": 204,
+        "question": "Which transgenic crop expresses multiple Cry genes for better pest resistance?",
+        "options": [
+            "Bt cotton",
+            "Bt brinjal",
+            "Bt maize",
+            "Pyramided Bt cotton"
+        ],
+        "answer": 3,
+        "explanation": "Pyramided Bt cotton expresses multiple Cry genes."
+    },
+    {
+        "id": 205,
+        "question": "Which sequence is recognized by restriction endonucleases?",
+        "options": [
+            "Random sequence",
+            "Palindromic sequence",
+            "Coding sequence",
+            "Promoter sequence"
+        ],
+        "answer": 1,
+        "explanation": "Restriction enzymes recognize palindromic DNA sequences."
+    },
+    {
+        "id": 206,
+        "question": "Which technique amplifies RNA by converting it first into DNA?",
+        "options": [
+            "PCR",
+            "RT-PCR",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "RT-PCR uses reverse transcriptase to convert RNA into cDNA."
+    },
+    {
+        "id": 207,
+        "question": "Which enzyme is responsible for synthesis of cDNA in RT-PCR?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesizes cDNA from RNA."
+    },
+    {
+        "id": 208,
+        "question": "Which gene therapy approach involves direct delivery of gene into patient?",
+        "options": [
+            "Ex vivo",
+            "In vitro",
+            "In vivo",
+            "Somatic culture"
+        ],
+        "answer": 2,
+        "explanation": "In vivo gene therapy delivers genes directly into the patient."
+    },
+    {
+        "id": 209,
+        "question": "Which recombinant protein is used to prevent graft rejection?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Cyclosporin A",
+            "Erythropoietin"
+        ],
+        "answer": 2,
+        "explanation": "Cyclosporin A is used as an immunosuppressant."
+    },
+    {
+        "id": 210,
+        "question": "Which microorganism is genetically engineered to produce cyclosporin A?",
+        "options": [
+            "Trichoderma",
+            "Aspergillus",
+            "Monascus",
+            "Saccharomyces"
+        ],
+        "answer": 0,
+        "explanation": "Cyclosporin A is produced by Trichoderma polysporum."
+    },
+    {
+        "id": 211,
+        "question": "Which biotechnology product is obtained from genetically modified rice?",
+        "options": [
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D",
+            "Vitamin K"
+        ],
+        "answer": 0,
+        "explanation": "Golden rice is enriched with vitamin A."
+    },
+    {
+        "id": 212,
+        "question": "Which molecule acts as a signal for termination of transcription in bacteria?",
+        "options": [
+            "Promoter",
+            "Enhancer",
+            "Terminator",
+            "Ori"
+        ],
+        "answer": 2,
+        "explanation": "Terminator signals end of transcription."
+    },
+    {
+        "id": 213,
+        "question": "Which recombinant enzyme is used in treatment of digestive disorders?",
+        "options": [
+            "Protease",
+            "Amylase",
+            "Lipase",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Digestive enzymes produced by biotechnology treat disorders."
+    },
+    {
+        "id": 214,
+        "question": "Which technique is used to identify presence of specific DNA fragment after electrophoresis?",
+        "options": [
+            "PCR",
+            "Southern blot",
+            "Western blot",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Southern blot identifies specific DNA fragments."
+    },
+    {
+        "id": 215,
+        "question": "Which feature of Ti plasmid enables gene transfer?",
+        "options": [
+            "Ori",
+            "vir genes",
+            "Selectable marker",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "vir genes mediate transfer of T-DNA."
+    },
+    {
+        "id": 216,
+        "question": "Which crop was genetically engineered for delayed softening?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Flavr Savr tomato",
+            "Bt brinjal"
+        ],
+        "answer": 2,
+        "explanation": "Flavr Savr tomato shows delayed softening."
+    },
+    {
+        "id": 217,
+        "question": "Which hormone produced by recombinant DNA is used in diabetes mellitus?",
+        "options": [
+            "Insulin",
+            "Glucagon",
+            "Somatostatin",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Recombinant insulin is used in diabetes mellitus."
+    },
+    {
+        "id": 218,
+        "question": "Which application of biotechnology uses restriction fragment length polymorphism?",
+        "options": [
+            "DNA fingerprinting",
+            "PCR",
+            "ELISA",
+            "Fermentation"
+        ],
+        "answer": 0,
+        "explanation": "RFLP is used in DNA fingerprinting."
+    },
+    {
+        "id": 219,
+        "question": "Which enzyme protects host DNA from restriction enzymes?",
+        "options": [
+            "Ligase",
+            "Methylase",
+            "Polymerase",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "Methylase modifies host DNA to protect it."
+    },
+    {
+        "id": 220,
+        "question": "Which step of PCR separates double-stranded DNA?",
+        "options": [
+            "Annealing",
+            "Extension",
+            "Denaturation",
+            "Hybridization"
+        ],
+        "answer": 2,
+        "explanation": "Denaturation separates DNA strands."
+    },
+    {
+        "id": 221,
+        "question": "Which recombinant protein is used in treatment of AIDS-related cancers?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in certain AIDS-related cancers."
+    },
+    {
+        "id": 222,
+        "question": "Which vector carries T-DNA into plant cells?",
+        "options": [
+            "pBR322",
+            "Ri plasmid",
+            "Ti plasmid",
+            "BAC"
+        ],
+        "answer": 2,
+        "explanation": "Ti plasmid transfers T-DNA into plant genome."
+    },
+    {
+        "id": 223,
+        "question": "Which biotechnology tool uses antigen-antibody specificity?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Electrophoresis",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "ELISA is based on antigen-antibody interaction."
+    },
+    {
+        "id": 224,
+        "question": "Which recombinant protein increases immunity against viral infection?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Erythropoietin",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferons provide antiviral defense."
+    },
+    {
+        "id": 225,
+        "question": "Which gene confers insect resistance in plants?",
+        "options": [
+            "EPSPS",
+            "Cry",
+            "lacZ",
+            "ampR"
+        ],
+        "answer": 1,
+        "explanation": "Cry gene encodes insecticidal protein."
+    },
+    {
+        "id": 226,
+        "question": "Which component of bioreactor ensures proper mixing?",
+        "options": [
+            "Sparger",
+            "Agitator",
+            "Sensor",
+            "Jacket"
+        ],
+        "answer": 1,
+        "explanation": "Agitator ensures proper mixing."
+    },
+    {
+        "id": 227,
+        "question": "Which method identifies protein expression level?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "PCR"
+        ],
+        "answer": 2,
+        "explanation": "Western blot detects specific proteins."
+    },
+    {
+        "id": 228,
+        "question": "Which crop is engineered to tolerate herbicide glyphosate?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Roundup Ready soybean",
+            "Flavr Savr tomato"
+        ],
+        "answer": 2,
+        "explanation": "Roundup Ready soybean tolerates glyphosate."
+    },
+    {
+        "id": 229,
+        "question": "Which technique uses short labeled DNA fragments as probes?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Electrophoresis"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization uses labeled probes."
+    },
+    {
+        "id": 230,
+        "question": "Which transgenic animal produces human proteins in milk?",
+        "options": [
+            "Dolly sheep",
+            "Rosie cow",
+            "Transgenic mouse",
+            "Pig"
+        ],
+        "answer": 1,
+        "explanation": "Rosie cow produced human alpha-lactalbumin."
+    },
+    {
+        "id": 231,
+        "question": "Which recombinant product is used to treat dwarfism?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Growth hormone treats dwarfism."
+    },
+    {
+        "id": 232,
+        "question": "Which biotechnology application uses microbes to clean pollutants?",
+        "options": [
+            "Bioremediation",
+            "Biofertilization",
+            "Gene therapy",
+            "PCR"
+        ],
+        "answer": 0,
+        "explanation": "Bioremediation uses microbes to degrade pollutants."
+    },
+    {
+        "id": 233,
+        "question": "Which step of genetic engineering ensures selection of recombinants?",
+        "options": [
+            "Ori",
+            "Selectable marker",
+            "Promoter",
+            "Terminator"
+        ],
+        "answer": 1,
+        "explanation": "Selectable markers identify recombinants."
+    },
+    {
+        "id": 234,
+        "question": "Which enzyme cuts DNA asymmetrically producing sticky ends?",
+        "options": [
+            "SmaI",
+            "EcoRI",
+            "AluI",
+            "HaeIII"
+        ],
+        "answer": 1,
+        "explanation": "EcoRI produces sticky ends."
+    },
+    {
+        "id": 235,
+        "question": "Which biotechnology product is used in blood clot dissolution?",
+        "options": [
+            "Insulin",
+            "Streptokinase",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Streptokinase dissolves blood clots."
+    },
+    {
+        "id": 236,
+        "question": "Which transgenic plant is enriched with beta-carotene?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Bt maize",
+            "Flavr Savr tomato"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice accumulates beta-carotene."
+    },
+    {
+        "id": 237,
+        "question": "Which component of PCR determines specificity of amplification?",
+        "options": [
+            "dNTPs",
+            "Primers",
+            "Polymerase",
+            "Buffer"
+        ],
+        "answer": 1,
+        "explanation": "Primers determine specificity."
+    },
+    {
+        "id": 238,
+        "question": "Which gene therapy targets germ cells?",
+        "options": [
+            "Somatic therapy",
+            "Ex vivo therapy",
+            "Germ line therapy",
+            "Protein therapy"
+        ],
+        "answer": 2,
+        "explanation": "Germ line therapy targets germ cells."
+    },
+    {
+        "id": 239,
+        "question": "Which application of biotechnology uses recombinant antibodies?",
+        "options": [
+            "Vaccination",
+            "Diagnostics",
+            "Fermentation",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant antibodies are used in diagnostics."
+    },
+    {
+        "id": 240,
+        "question": "Which product is used to treat hemophilia B?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Insulin",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Hemophilia B is treated with Factor IX."
+    },
+    {
+        "id": 241,
+        "question": "Which feature of plasmid ensures its maintenance in host cell?",
+        "options": [
+            "Selectable marker",
+            "Ori",
+            "Promoter",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Ori allows plasmid replication in host."
+    },
+    {
+        "id": 242,
+        "question": "Which technique detects mRNA levels in a cell?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Northern blot detects RNA."
+    },
+    {
+        "id": 243,
+        "question": "Which recombinant vaccine is produced using yeast cells?",
+        "options": [
+            "Polio",
+            "Hepatitis B",
+            "BCG",
+            "MMR"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B vaccine is produced in yeast."
+    },
+    {
+        "id": 244,
+        "question": "Which step of bioreactor operation maintains sterility?",
+        "options": [
+            "Agitation",
+            "Aeration",
+            "Sterilization",
+            "Cooling"
+        ],
+        "answer": 2,
+        "explanation": "Sterilization prevents contamination."
+    },
+    {
+        "id": 245,
+        "question": "Which application of biotechnology improves nutritional quality of crops?",
+        "options": [
+            "Bt crops",
+            "Biofortification",
+            "Hybridization",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Biofortification improves nutritional value."
+    },
+    {
+        "id": 246,
+        "question": "Which enzyme is used to remove RNA primers during DNA replication?",
+        "options": [
+            "DNA polymerase I",
+            "Taq polymerase",
+            "Ligase",
+            "Primase"
+        ],
+        "answer": 0,
+        "explanation": "DNA polymerase I removes RNA primers."
+    },
+    {
+        "id": 247,
+        "question": "Which recombinant product is used as anticoagulant?",
+        "options": [
+            "Insulin",
+            "Heparin",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Heparin prevents blood clotting."
+    },
+    {
+        "id": 248,
+        "question": "Which crop expresses Cry1Ac gene?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Bt maize",
+            "Bt brinjal"
+        ],
+        "answer": 0,
+        "explanation": "Bt cotton expresses Cry1Ac gene."
+    },
+    {
+        "id": 249,
+        "question": "Which biotechnology application uses stem cells for repair?",
+        "options": [
+            "Gene therapy",
+            "Cell therapy",
+            "PCR",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Cell therapy uses stem cells."
+    },
+    {
+        "id": 250,
+        "question": "Which process introduces recombinant DNA into bacteria?",
+        "options": [
+            "Transcription",
+            "Translation",
+            "Transformation",
+            "Replication"
+        ],
+        "answer": 2,
+        "explanation": "Transformation introduces DNA into bacteria."
+    },
+    {
+        "id": 251,
+        "question": "Which enzyme joins DNA fragments during cloning?",
+        "options": [
+            "DNA polymerase",
+            "DNA ligase",
+            "Restriction enzyme",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase joins DNA fragments."
+    },
+    {
+        "id": 252,
+        "question": "Which component of bioreactor supplies oxygen?",
+        "options": [
+            "Agitator",
+            "Sparger",
+            "Jacket",
+            "Sensor"
+        ],
+        "answer": 1,
+        "explanation": "Sparger supplies oxygen."
+    },
+    {
+        "id": 253,
+        "question": "Which recombinant protein treats anemia?",
+        "options": [
+            "Insulin",
+            "Erythropoietin",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Erythropoietin treats anemia."
+    },
+    {
+        "id": 254,
+        "question": "Which technique allows detection of specific antigen in serum?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Blotting",
+            "Electrophoresis"
+        ],
+        "answer": 1,
+        "explanation": "ELISA detects specific antigens."
+    },
+    {
+        "id": 255,
+        "question": "Which vector can carry very large DNA fragments?",
+        "options": [
+            "Plasmid",
+            "Cosmid",
+            "BAC",
+            "Ti plasmid"
+        ],
+        "answer": 2,
+        "explanation": "BACs carry very large DNA fragments."
+    },
+    {
+        "id": 256,
+        "question": "Which gene silencing mechanism uses double-stranded RNA?",
+        "options": [
+            "PCR",
+            "RNA interference",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "RNA interference uses dsRNA."
+    },
+    {
+        "id": 257,
+        "question": "Which recombinant enzyme is used in cheese production?",
+        "options": [
+            "Amylase",
+            "Rennin",
+            "Lipase",
+            "Protease"
+        ],
+        "answer": 1,
+        "explanation": "Rennin is used in cheese making."
+    },
+    {
+        "id": 258,
+        "question": "Which transgenic animal is used to study gene function?",
+        "options": [
+            "Mouse",
+            "Cow",
+            "Sheep",
+            "Pig"
+        ],
+        "answer": 0,
+        "explanation": "Transgenic mice are used to study gene function."
+    },
+    {
+        "id": 259,
+        "question": "Which biotechnology application reduces pesticide dependence?",
+        "options": [
+            "Biofertilizers",
+            "Bt crops",
+            "Hybrid seeds",
+            "Organic manure"
+        ],
+        "answer": 1,
+        "explanation": "Bt crops reduce pesticide use."
+    },
+    {
+        "id": 260,
+        "question": "Which step ensures amplification of target DNA in PCR?",
+        "options": [
+            "Annealing",
+            "Denaturation",
+            "Repeated cycling",
+            "Hybridization"
+        ],
+        "answer": 2,
+        "explanation": "Repeated cycling leads to exponential amplification."
+    },
+    {
+        "id": 261,
+        "question": "Which recombinant protein is used to treat hepatitis C?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Erythropoietin",
+            "Growth hormone"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in hepatitis C treatment."
+    },
+    {
+        "id": 262,
+        "question": "Which method identifies recombinant plasmids by antibiotic resistance?",
+        "options": [
+            "Blue-white screening",
+            "Selectable marker screening",
+            "PCR",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Selectable markers confer antibiotic resistance."
+    },
+    {
+        "id": 263,
+        "question": "Which component of PCR is heat stable?",
+        "options": [
+            "Primer",
+            "dNTP",
+            "Taq polymerase",
+            "Buffer"
+        ],
+        "answer": 2,
+        "explanation": "Taq polymerase is heat stable."
+    },
+    {
+        "id": 264,
+        "question": "Which application of biotechnology uses cloned genes for probes?",
+        "options": [
+            "DNA fingerprinting",
+            "Gene therapy",
+            "Fermentation",
+            "Bioreactors"
+        ],
+        "answer": 0,
+        "explanation": "DNA fingerprinting uses cloned genes as probes."
+    },
+    {
+        "id": 265,
+        "question": "Which recombinant product is used in treatment of burns?",
+        "options": [
+            "Artificial skin",
+            "Insulin",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Artificial skin helps in burn treatment."
+    },
+    {
+        "id": 266,
+        "question": "Which transgenic crop improves nutritional deficiency?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Bt maize",
+            "Flavr Savr tomato"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice improves vitamin A deficiency."
+    },
+    {
+        "id": 267,
+        "question": "Which process ensures expression of foreign gene?",
+        "options": [
+            "Ligation",
+            "Transformation",
+            "Transcription and translation",
+            "Restriction digestion"
+        ],
+        "answer": 2,
+        "explanation": "Expression requires transcription and translation."
+    },
+    {
+        "id": 268,
+        "question": "Which application of biotechnology involves enzyme-linked antibodies?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Electrophoresis",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "ELISA uses enzyme-linked antibodies."
+    },
+    {
+        "id": 269,
+        "question": "Which enzyme produces blunt ends in DNA cutting?",
+        "options": [
+            "EcoRI",
+            "HindIII",
+            "SmaI",
+            "BamHI"
+        ],
+        "answer": 2,
+        "explanation": "SmaI produces blunt ends."
+    },
+    {
+        "id": 270,
+        "question": "Which gene therapy is ethically controversial?",
+        "options": [
+            "Somatic therapy",
+            "Ex vivo therapy",
+            "Germ line therapy",
+            "Protein therapy"
+        ],
+        "answer": 2,
+        "explanation": "Germ line therapy is ethically controversial."
+    },
+    {
+        "id": 271,
+        "question": "Which biotechnology application helps in forensic identification?",
+        "options": [
+            "PCR",
+            "DNA fingerprinting",
+            "ELISA",
+            "Bioreactors"
+        ],
+        "answer": 1,
+        "explanation": "DNA fingerprinting is used in forensics."
+    },
+    {
+        "id": 272,
+        "question": "Which recombinant hormone is used in assisted reproductive techniques?",
+        "options": [
+            "Insulin",
+            "FSH",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "FSH is used in ART."
+    },
+    {
+        "id": 273,
+        "question": "Which crop expresses multiple Bt genes for resistance?",
+        "options": [
+            "Bt cotton",
+            "Bt brinjal",
+            "Pyramided Bt cotton",
+            "Golden rice"
+        ],
+        "answer": 2,
+        "explanation": "Pyramided Bt cotton expresses multiple Bt genes."
+    },
+    {
+        "id": 274,
+        "question": "Which step in cloning produces recombinant molecule?",
+        "options": [
+            "Restriction digestion",
+            "Ligation",
+            "Transformation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Ligation forms recombinant DNA."
+    },
+    {
+        "id": 275,
+        "question": "Which biotech product treats leukemia?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in leukemia."
+    },
+    {
+        "id": 276,
+        "question": "Which vector integrates naturally into plant genome?",
+        "options": [
+            "Plasmid",
+            "Ti plasmid",
+            "Cosmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid integrates into plant genome."
+    },
+    {
+        "id": 277,
+        "question": "Which technique uses radioactively labeled probes?",
+        "options": [
+            "Southern blot",
+            "Western blot",
+            "ELISA",
+            "PCR"
+        ],
+        "answer": 0,
+        "explanation": "Southern blot uses labeled probes."
+    },
+    {
+        "id": 278,
+        "question": "Which enzyme seals breaks in sugar-phosphate backbone?",
+        "options": [
+            "DNA polymerase",
+            "DNA ligase",
+            "Restriction enzyme",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase seals breaks."
+    },
+    {
+        "id": 279,
+        "question": "Which biotech application produces biodegradable plastics?",
+        "options": [
+            "PCR",
+            "Genetic engineering",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Genetically engineered microbes produce biodegradable plastics."
+    },
+    {
+        "id": 280,
+        "question": "Which molecule is detected in HIV test by ELISA?",
+        "options": [
+            "DNA",
+            "RNA",
+            "Antigen or antibody",
+            "Enzyme"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects HIV antigen or antibodies."
+    },
+    {
+        "id": 281,
+        "question": "Which recombinant protein is used in treatment of multiple sclerosis?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Erythropoietin",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in multiple sclerosis."
+    },
+    {
+        "id": 282,
+        "question": "Which application of biotechnology improves crop stress tolerance?",
+        "options": [
+            "Hybridization",
+            "Genetic engineering",
+            "Selection",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Genetic engineering introduces stress tolerance genes."
+    },
+    {
+        "id": 283,
+        "question": "Which bioreactor component controls temperature?",
+        "options": [
+            "Agitator",
+            "Jacket",
+            "Sparger",
+            "Sensor"
+        ],
+        "answer": 1,
+        "explanation": "Jacket regulates temperature."
+    },
+    {
+        "id": 284,
+        "question": "Which gene confers resistance to insects in cotton?",
+        "options": [
+            "EPSPS",
+            "Cry",
+            "ampR",
+            "lacZ"
+        ],
+        "answer": 1,
+        "explanation": "Cry gene provides insect resistance."
+    },
+    {
+        "id": 285,
+        "question": "Which technique separates DNA fragments using electric field?",
+        "options": [
+            "Electrophoresis",
+            "Centrifugation",
+            "Chromatography",
+            "Filtration"
+        ],
+        "answer": 0,
+        "explanation": "Electrophoresis uses electric field."
+    },
+    {
+        "id": 286,
+        "question": "Which recombinant vaccine is edible in concept?",
+        "options": [
+            "Polio",
+            "Hepatitis B",
+            "Edible plant vaccine",
+            "BCG"
+        ],
+        "answer": 2,
+        "explanation": "Edible vaccines are produced in plants."
+    },
+    {
+        "id": 287,
+        "question": "Which process ensures maintenance of plasmid copy number?",
+        "options": [
+            "Selectable marker",
+            "Ori",
+            "Promoter",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Ori determines copy number."
+    },
+    {
+        "id": 288,
+        "question": "Which enzyme removes phosphate groups to prevent self-ligation?",
+        "options": [
+            "Ligase",
+            "Alkaline phosphatase",
+            "Polymerase",
+            "Endonuclease"
+        ],
+        "answer": 1,
+        "explanation": "Alkaline phosphatase removes phosphate groups."
+    },
+    {
+        "id": 289,
+        "question": "Which application of biotechnology uses recombinant chymosin?",
+        "options": [
+            "Bread making",
+            "Cheese production",
+            "Alcohol fermentation",
+            "Vinegar production"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant chymosin is used in cheese production."
+    },
+    {
+        "id": 290,
+        "question": "Which recombinant product is used to treat anemia in kidney failure?",
+        "options": [
+            "Insulin",
+            "Erythropoietin",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Erythropoietin treats anemia."
+    },
+    {
+        "id": 291,
+        "question": "Which method identifies recombinants by colony color?",
+        "options": [
+            "Selectable marker screening",
+            "Blue-white screening",
+            "PCR",
+            "Southern blot"
+        ],
+        "answer": 1,
+        "explanation": "Blue-white screening uses colony color."
+    },
+    {
+        "id": 292,
+        "question": "Which gene disruption results in white colonies?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "lacZ disruption produces white colonies."
+    },
+    {
+        "id": 293,
+        "question": "Which application of biotechnology helps in prenatal diagnosis?",
+        "options": [
+            "PCR",
+            "DNA fingerprinting",
+            "ELISA",
+            "Bioreactors"
+        ],
+        "answer": 0,
+        "explanation": "PCR helps in prenatal diagnosis."
+    },
+    {
+        "id": 294,
+        "question": "Which recombinant protein is used to dissolve clots in myocardial infarction?",
+        "options": [
+            "Insulin",
+            "Streptokinase",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Streptokinase dissolves clots."
+    },
+    {
+        "id": 295,
+        "question": "Which biotechnology application uses cloned animals?",
+        "options": [
+            "Research",
+            "Therapeutics",
+            "Agriculture",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Cloned animals are used in multiple fields."
+    },
+    {
+        "id": 296,
+        "question": "Which process allows stable inheritance of transgene?",
+        "options": [
+            "Expression",
+            "Integration",
+            "Replication",
+            "Translation"
+        ],
+        "answer": 1,
+        "explanation": "Integration ensures stable inheritance."
+    },
+    {
+        "id": 297,
+        "question": "Which recombinant hormone treats growth disorders?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Growth hormone treats growth disorders."
+    },
+    {
+        "id": 298,
+        "question": "Which biotech application detects specific DNA sequence using probe?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Electrophoresis"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization uses probes."
+    },
+    {
+        "id": 299,
+        "question": "Which enzyme synthesizes phosphodiester bonds?",
+        "options": [
+            "DNA polymerase",
+            "DNA ligase",
+            "Restriction enzyme",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase synthesizes phosphodiester bonds."
+    },
+    {
+        "id": 300,
+        "question": "Which fundamental principle enables recombinant DNA technology?",
+        "options": [
+            "Complementary base pairing",
+            "Natural selection",
+            "Random mutation",
+            "Hybrid vigor"
+        ],
+        "answer": 0,
+        "explanation": "Complementary base pairing underlies recombinant DNA technology."
+    },
+    {
+        "id": 301,
+        "question": "Which molecule is used as a vector in cloning genes of eukaryotic origin in bacteria?",
+        "options": [
+            "Plasmid",
+            "Cosmid",
+            "BAC",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Plasmids, cosmids and BACs are used as cloning vectors depending on insert size."
+    },
+    {
+        "id": 302,
+        "question": "Which step in recombinant DNA technology involves cutting of DNA at specific sites?",
+        "options": [
+            "Ligation",
+            "Restriction digestion",
+            "Transformation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Restriction digestion cuts DNA at specific recognition sites."
+    },
+    {
+        "id": 303,
+        "question": "Which component of plasmid vector helps in selection of transformed host cells?",
+        "options": [
+            "Ori",
+            "Promoter",
+            "Selectable marker",
+            "Restriction site"
+        ],
+        "answer": 2,
+        "explanation": "Selectable marker helps identify transformed cells."
+    },
+    {
+        "id": 304,
+        "question": "Which restriction enzyme is commonly used in cloning due to sticky end formation?",
+        "options": [
+            "SmaI",
+            "EcoRI",
+            "HaeIII",
+            "AluI"
+        ],
+        "answer": 1,
+        "explanation": "EcoRI produces sticky ends facilitating ligation."
+    },
+    {
+        "id": 305,
+        "question": "Which process ensures entry of recombinant DNA into bacterial host?",
+        "options": [
+            "Transcription",
+            "Translation",
+            "Transformation",
+            "Replication"
+        ],
+        "answer": 2,
+        "explanation": "Transformation introduces recombinant DNA into bacteria."
+    },
+    {
+        "id": 306,
+        "question": "Which enzyme is used to seal recombinant DNA into vector?",
+        "options": [
+            "DNA polymerase",
+            "DNA ligase",
+            "Restriction endonuclease",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase joins DNA fragments by phosphodiester bonds."
+    },
+    {
+        "id": 307,
+        "question": "Which gene product of Bacillus thuringiensis kills insect larvae?",
+        "options": [
+            "Bt toxin",
+            "Interferon",
+            "Protease",
+            "Lipase"
+        ],
+        "answer": 0,
+        "explanation": "Bt toxin encoded by Cry genes is insecticidal."
+    },
+    {
+        "id": 308,
+        "question": "Bt toxin acts specifically on",
+        "options": [
+            "All insects",
+            "Specific insect larvae",
+            "Plants",
+            "Vertebrates"
+        ],
+        "answer": 1,
+        "explanation": "Bt toxin is insect-specific and harmless to vertebrates."
+    },
+    {
+        "id": 309,
+        "question": "Which condition in insect gut activates Bt protoxin?",
+        "options": [
+            "Acidic pH",
+            "Alkaline pH",
+            "Neutral pH",
+            "High temperature"
+        ],
+        "answer": 1,
+        "explanation": "Alkaline pH of insect gut activates Bt protoxin."
+    },
+    {
+        "id": 310,
+        "question": "Which strategy is used to develop insect resistance in plants without using chemicals?",
+        "options": [
+            "Hybridization",
+            "Bt gene insertion",
+            "Mutation breeding",
+            "Selection"
+        ],
+        "answer": 1,
+        "explanation": "Insertion of Bt gene confers insect resistance."
+    },
+    {
+        "id": 311,
+        "question": "RNA interference results in",
+        "options": [
+            "Gene amplification",
+            "Gene silencing",
+            "Gene duplication",
+            "Gene mutation"
+        ],
+        "answer": 1,
+        "explanation": "RNA interference suppresses gene expression."
+    },
+    {
+        "id": 312,
+        "question": "Which molecule triggers RNA interference mechanism?",
+        "options": [
+            "Single-stranded RNA",
+            "Double-stranded RNA",
+            "tRNA",
+            "rRNA"
+        ],
+        "answer": 1,
+        "explanation": "Double-stranded RNA initiates RNA interference."
+    },
+    {
+        "id": 313,
+        "question": "Which crop was protected from nematodes using RNA interference?",
+        "options": [
+            "Tobacco",
+            "Cotton",
+            "Rice",
+            "Maize"
+        ],
+        "answer": 0,
+        "explanation": "Tobacco plants were engineered using RNAi against nematodes."
+    },
+    {
+        "id": 314,
+        "question": "Golden rice is genetically modified to produce",
+        "options": [
+            "Iron",
+            "Vitamin A",
+            "Vitamin C",
+            "Vitamin D"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice produces beta-carotene, a precursor of vitamin A."
+    },
+    {
+        "id": 315,
+        "question": "Which part of rice grain accumulates beta-carotene in golden rice?",
+        "options": [
+            "Embryo",
+            "Endosperm",
+            "Aleurone",
+            "Seed coat"
+        ],
+        "answer": 1,
+        "explanation": "Beta-carotene accumulates in the endosperm."
+    },
+    {
+        "id": 316,
+        "question": "Which deficiency disorder is targeted by golden rice?",
+        "options": [
+            "Scurvy",
+            "Rickets",
+            "Night blindness",
+            "Beriberi"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin A deficiency causes night blindness."
+    },
+    {
+        "id": 317,
+        "question": "Which recombinant hormone is used for treatment of diabetes mellitus?",
+        "options": [
+            "Insulin",
+            "Glucagon",
+            "FSH",
+            "Growth hormone"
+        ],
+        "answer": 0,
+        "explanation": "Recombinant human insulin treats diabetes mellitus."
+    },
+    {
+        "id": 318,
+        "question": "Which organism is commonly used to produce recombinant human insulin?",
+        "options": [
+            "Yeast",
+            "Escherichia coli",
+            "Agrobacterium",
+            "Bacillus"
+        ],
+        "answer": 1,
+        "explanation": "E. coli is used to produce recombinant human insulin."
+    },
+    {
+        "id": 319,
+        "question": "Which recombinant protein is used as clot buster in myocardial infarction?",
+        "options": [
+            "Interferon",
+            "Erythropoietin",
+            "Streptokinase",
+            "Insulin"
+        ],
+        "answer": 2,
+        "explanation": "Streptokinase dissolves blood clots."
+    },
+    {
+        "id": 320,
+        "question": "Which recombinant hormone increases red blood cell production?",
+        "options": [
+            "Insulin",
+            "FSH",
+            "Erythropoietin",
+            "Interferon"
+        ],
+        "answer": 2,
+        "explanation": "Erythropoietin stimulates RBC production."
+    },
+    {
+        "id": 321,
+        "question": "Which technique is used to detect antigen-antibody interaction?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Electrophoresis",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "ELISA is based on antigen-antibody interaction."
+    },
+    {
+        "id": 322,
+        "question": "Which blotting technique is used to detect DNA fragments?",
+        "options": [
+            "Western blot",
+            "Northern blot",
+            "Southern blot",
+            "Eastern blot"
+        ],
+        "answer": 2,
+        "explanation": "Southern blotting detects DNA."
+    },
+    {
+        "id": 323,
+        "question": "Which blotting technique is used to detect RNA?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Northern blotting detects RNA."
+    },
+    {
+        "id": 324,
+        "question": "Which blotting technique detects proteins?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "PCR"
+        ],
+        "answer": 2,
+        "explanation": "Western blotting detects proteins."
+    },
+    {
+        "id": 325,
+        "question": "Which method separates DNA fragments using electric field?",
+        "options": [
+            "Chromatography",
+            "Centrifugation",
+            "Electrophoresis",
+            "Filtration"
+        ],
+        "answer": 2,
+        "explanation": "Gel electrophoresis separates DNA fragments by size."
+    },
+    {
+        "id": 326,
+        "question": "Which dye is used to visualize DNA under UV light?",
+        "options": [
+            "Ethidium bromide",
+            "Safranin",
+            "Crystal violet",
+            "Methylene blue"
+        ],
+        "answer": 0,
+        "explanation": "Ethidium bromide fluoresces when bound to DNA."
+    },
+    {
+        "id": 327,
+        "question": "Which technique amplifies a specific DNA segment in vitro?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Blotting",
+            "Hybridization"
+        ],
+        "answer": 0,
+        "explanation": "PCR amplifies specific DNA sequences."
+    },
+    {
+        "id": 328,
+        "question": "Which enzyme is essential for PCR amplification?",
+        "options": [
+            "DNA ligase",
+            "Restriction enzyme",
+            "Taq polymerase",
+            "Primase"
+        ],
+        "answer": 2,
+        "explanation": "Taq polymerase is heat stable and used in PCR."
+    },
+    {
+        "id": 329,
+        "question": "Taq polymerase is obtained from",
+        "options": [
+            "E. coli",
+            "Thermus aquaticus",
+            "Bacillus",
+            "Agrobacterium"
+        ],
+        "answer": 1,
+        "explanation": "Taq polymerase is isolated from Thermus aquaticus."
+    },
+    {
+        "id": 330,
+        "question": "Which step of PCR involves binding of primers to template DNA?",
+        "options": [
+            "Denaturation",
+            "Annealing",
+            "Extension",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "Annealing allows primers to bind to template DNA."
+    },
+    {
+        "id": 331,
+        "question": "Which approach of gene therapy involves correction of cells outside the body?",
+        "options": [
+            "In vivo",
+            "Ex vivo",
+            "Germ line",
+            "Somatic"
+        ],
+        "answer": 1,
+        "explanation": "Ex vivo gene therapy corrects cells outside the body."
+    },
+    {
+        "id": 332,
+        "question": "Which disease was first treated successfully by gene therapy?",
+        "options": [
+            "Hemophilia",
+            "SCID due to ADA deficiency",
+            "Cystic fibrosis",
+            "Thalassemia"
+        ],
+        "answer": 1,
+        "explanation": "ADA deficiency causing SCID was treated by gene therapy."
+    },
+    {
+        "id": 333,
+        "question": "Which cells are targeted in somatic gene therapy?",
+        "options": [
+            "Germ cells",
+            "Gametes",
+            "Somatic cells",
+            "Zygote"
+        ],
+        "answer": 2,
+        "explanation": "Somatic gene therapy targets body cells."
+    },
+    {
+        "id": 334,
+        "question": "Which type of gene therapy is heritable?",
+        "options": [
+            "Somatic therapy",
+            "Ex vivo therapy",
+            "Germ line therapy",
+            "Protein therapy"
+        ],
+        "answer": 2,
+        "explanation": "Germ line therapy affects germ cells and is heritable."
+    },
+    {
+        "id": 335,
+        "question": "Which vector is commonly used in gene therapy?",
+        "options": [
+            "Plasmid",
+            "Retrovirus",
+            "Cosmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Retroviruses are commonly used vectors in gene therapy."
+    },
+    {
+        "id": 336,
+        "question": "Which transgenic animal produces human alpha-lactalbumin in milk?",
+        "options": [
+            "Dolly sheep",
+            "Rosie cow",
+            "Transgenic mouse",
+            "Goat"
+        ],
+        "answer": 1,
+        "explanation": "Rosie cow produced human alpha-lactalbumin."
+    },
+    {
+        "id": 337,
+        "question": "Transgenic animals are mainly used to study",
+        "options": [
+            "Taxonomy",
+            "Gene regulation",
+            "Ecology",
+            "Evolution"
+        ],
+        "answer": 1,
+        "explanation": "They help in understanding gene regulation and expression."
+    },
+    {
+        "id": 338,
+        "question": "Which transgenic animal is widely used as disease model?",
+        "options": [
+            "Cow",
+            "Mouse",
+            "Sheep",
+            "Pig"
+        ],
+        "answer": 1,
+        "explanation": "Transgenic mice are widely used as disease models."
+    },
+    {
+        "id": 339,
+        "question": "Which application of biotechnology uses monoclonal antibodies?",
+        "options": [
+            "Diagnostics",
+            "Fermentation",
+            "PCR",
+            "Bioremediation"
+        ],
+        "answer": 0,
+        "explanation": "Monoclonal antibodies are used in diagnostics."
+    },
+    {
+        "id": 340,
+        "question": "Which recombinant protein is used to treat viral infections?",
+        "options": [
+            "Interferon",
+            "Insulin",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Interferons protect against viral infections."
+    },
+    {
+        "id": 341,
+        "question": "Which transgenic plant was first commercialized for delayed ripening?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Flavr Savr tomato",
+            "Bt maize"
+        ],
+        "answer": 2,
+        "explanation": "Flavr Savr tomato was engineered for delayed ripening."
+    },
+    {
+        "id": 342,
+        "question": "Which gene modification in Flavr Savr tomato delays softening?",
+        "options": [
+            "Bt gene insertion",
+            "Antisense polygalacturonase gene",
+            "EPSPS gene",
+            "Cry gene"
+        ],
+        "answer": 1,
+        "explanation": "Antisense polygalacturonase gene delays fruit softening."
+    },
+    {
+        "id": 343,
+        "question": "Which application of biotechnology improves nutritional quality of crops?",
+        "options": [
+            "Hybridization",
+            "Biofortification",
+            "Selection",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Biofortification enhances nutritional content."
+    },
+    {
+        "id": 344,
+        "question": "Which biotech product is used as anticoagulant?",
+        "options": [
+            "Insulin",
+            "Heparin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Heparin prevents blood clotting."
+    },
+    {
+        "id": 345,
+        "question": "Which recombinant protein is used to treat hemophilia A?",
+        "options": [
+            "Factor IX",
+            "Factor VIII",
+            "Insulin",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Hemophilia A is due to deficiency of Factor VIII."
+    },
+    {
+        "id": 346,
+        "question": "Which recombinant protein is used to treat hemophilia B?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Growth hormone",
+            "Insulin"
+        ],
+        "answer": 1,
+        "explanation": "Hemophilia B is due to deficiency of Factor IX."
+    },
+    {
+        "id": 347,
+        "question": "Which application of biotechnology is used in forensic science?",
+        "options": [
+            "PCR",
+            "DNA fingerprinting",
+            "ELISA",
+            "Bioreactors"
+        ],
+        "answer": 1,
+        "explanation": "DNA fingerprinting is used for forensic identification."
+    },
+    {
+        "id": 348,
+        "question": "DNA fingerprinting is based on variation in",
+        "options": [
+            "mtDNA",
+            "rRNA",
+            "VNTRs",
+            "Plasmids"
+        ],
+        "answer": 2,
+        "explanation": "DNA fingerprinting is based on VNTR polymorphism."
+    },
+    {
+        "id": 349,
+        "question": "Which application of biotechnology helps in prenatal diagnosis?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Fermentation",
+            "Bioremediation"
+        ],
+        "answer": 0,
+        "explanation": "PCR helps detect genetic disorders prenatally."
+    },
+    {
+        "id": 350,
+        "question": "Which molecule acts as probe in hybridization techniques?",
+        "options": [
+            "RNA",
+            "Labeled DNA",
+            "Protein",
+            "Enzyme"
+        ],
+        "answer": 1,
+        "explanation": "Labeled DNA fragments act as probes."
+    },
+    {
+        "id": 351,
+        "question": "Which bioreactor component maintains optimum pH?",
+        "options": [
+            "Agitator",
+            "Sensor and control system",
+            "Sparger",
+            "Jacket"
+        ],
+        "answer": 1,
+        "explanation": "Sensors and control systems regulate pH."
+    },
+    {
+        "id": 352,
+        "question": "Which bioreactor component ensures oxygen supply?",
+        "options": [
+            "Agitator",
+            "Sparger",
+            "Jacket",
+            "Sensor"
+        ],
+        "answer": 1,
+        "explanation": "Sparger supplies oxygen."
+    },
+    {
+        "id": 353,
+        "question": "Which bioreactor component controls temperature?",
+        "options": [
+            "Agitator",
+            "Jacket",
+            "Sparger",
+            "Sensor"
+        ],
+        "answer": 1,
+        "explanation": "Jacket regulates temperature."
+    },
+    {
+        "id": 354,
+        "question": "Which type of bioreactor is most commonly used in industry?",
+        "options": [
+            "Stirred-tank bioreactor",
+            "Bubble column",
+            "Airlift bioreactor",
+            "Packed bed"
+        ],
+        "answer": 0,
+        "explanation": "Stirred-tank bioreactors are widely used industrially."
+    },
+    {
+        "id": 355,
+        "question": "Which application of biotechnology uses microbes to clean oil spills?",
+        "options": [
+            "Biofertilization",
+            "Bioremediation",
+            "Gene therapy",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Bioremediation uses microbes to degrade pollutants."
+    },
+    {
+        "id": 356,
+        "question": "Which genetically engineered bacterium degrades hydrocarbons?",
+        "options": [
+            "E. coli",
+            "Pseudomonas",
+            "Rhizobium",
+            "Agrobacterium"
+        ],
+        "answer": 1,
+        "explanation": "Pseudomonas species degrade hydrocarbons."
+    },
+    {
+        "id": 357,
+        "question": "Which recombinant enzyme is used in cheese production?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Rennin",
+            "Protease"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant rennin is used in cheese making."
+    },
+    {
+        "id": 358,
+        "question": "Which recombinant enzymes are used in detergent industry?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All these enzymes are used in detergents."
+    },
+    {
+        "id": 359,
+        "question": "Which biotech product helps in treatment of burns?",
+        "options": [
+            "Artificial skin",
+            "Insulin",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Artificial skin is used in burn treatment."
+    },
+    {
+        "id": 360,
+        "question": "Which recombinant hormone is used in assisted reproductive techniques?",
+        "options": [
+            "FSH",
+            "Insulin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 0,
+        "explanation": "FSH is used in assisted reproduction."
+    },
+    {
+        "id": 361,
+        "question": "Which plant expression system is used for production of edible vaccines?",
+        "options": [
+            "Bacterial system",
+            "Plant system",
+            "Animal system",
+            "Viral system"
+        ],
+        "answer": 1,
+        "explanation": "Plants are used to produce edible vaccines."
+    },
+    {
+        "id": 362,
+        "question": "Which application of biotechnology reduces pesticide usage?",
+        "options": [
+            "Biofertilizers",
+            "Bt crops",
+            "Organic farming",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "Bt crops reduce pesticide application."
+    },
+    {
+        "id": 363,
+        "question": "Which gene confers herbicide resistance in crops?",
+        "options": [
+            "Cry",
+            "EPSPS",
+            "lacZ",
+            "ampR"
+        ],
+        "answer": 1,
+        "explanation": "EPSPS gene provides herbicide resistance."
+    },
+    {
+        "id": 364,
+        "question": "Which transgenic crop is tolerant to glyphosate?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Roundup Ready soybean",
+            "Flavr Savr tomato"
+        ],
+        "answer": 2,
+        "explanation": "Roundup Ready soybean tolerates glyphosate."
+    },
+    {
+        "id": 365,
+        "question": "Which process ensures stable inheritance of transgene?",
+        "options": [
+            "Replication",
+            "Integration",
+            "Translation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Integration into genome ensures stable inheritance."
+    },
+    {
+        "id": 366,
+        "question": "Which biotechnology application produces biodegradable plastics?",
+        "options": [
+            "PCR",
+            "Genetic engineering",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Genetically engineered microbes produce biodegradable plastics."
+    },
+    {
+        "id": 367,
+        "question": "Which biosafety concern is associated with GM crops?",
+        "options": [
+            "Increased yield",
+            "Gene flow to wild relatives",
+            "Better nutrition",
+            "Reduced pesticides"
+        ],
+        "answer": 1,
+        "explanation": "Gene flow to wild relatives is a biosafety concern."
+    },
+    {
+        "id": 368,
+        "question": "Which recombinant vaccine is produced using yeast?",
+        "options": [
+            "Polio",
+            "Hepatitis B",
+            "BCG",
+            "MMR"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B vaccine is produced in yeast."
+    },
+    {
+        "id": 369,
+        "question": "Which biotechnology application helps in early disease diagnosis?",
+        "options": [
+            "Bioreactors",
+            "ELISA",
+            "Fermentation",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "ELISA detects disease-specific antigens or antibodies."
+    },
+    {
+        "id": 370,
+        "question": "Which principle underlies hybridization-based detection methods?",
+        "options": [
+            "Complementary base pairing",
+            "Natural selection",
+            "Random mutation",
+            "Enzyme specificity"
+        ],
+        "answer": 0,
+        "explanation": "Complementary base pairing enables hybridization."
+    },
+    {
+        "id": 371,
+        "question": "Which component of vector determines copy number?",
+        "options": [
+            "Selectable marker",
+            "Ori",
+            "Promoter",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Origin of replication determines copy number."
+    },
+    {
+        "id": 372,
+        "question": "Which enzyme removes phosphate groups to prevent self-ligation of vector?",
+        "options": [
+            "DNA ligase",
+            "Alkaline phosphatase",
+            "Restriction enzyme",
+            "DNA polymerase"
+        ],
+        "answer": 1,
+        "explanation": "Alkaline phosphatase removes phosphate groups."
+    },
+    {
+        "id": 373,
+        "question": "Which screening method distinguishes recombinants by colony color?",
+        "options": [
+            "Selectable marker screening",
+            "Blue-white screening",
+            "PCR",
+            "Southern blot"
+        ],
+        "answer": 1,
+        "explanation": "Blue-white screening differentiates recombinants."
+    },
+    {
+        "id": 374,
+        "question": "Which gene disruption results in white colonies?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "Disruption of lacZ produces white colonies."
+    },
+    {
+        "id": 375,
+        "question": "Which recombinant protein is used in treatment of leukemia?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in leukemia treatment."
+    },
+    {
+        "id": 376,
+        "question": "Which biotechnology application involves manipulation of embryos?",
+        "options": [
+            "IVF",
+            "PCR",
+            "ELISA",
+            "Bioremediation"
+        ],
+        "answer": 0,
+        "explanation": "IVF involves manipulation of embryos."
+    },
+    {
+        "id": 377,
+        "question": "Which application of biotechnology improves stress tolerance in plants?",
+        "options": [
+            "Selection",
+            "Hybridization",
+            "Genetic engineering",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "Genetic engineering introduces stress tolerance genes."
+    },
+    {
+        "id": 378,
+        "question": "Which recombinant product treats anemia associated with kidney failure?",
+        "options": [
+            "Insulin",
+            "Erythropoietin",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Erythropoietin treats anemia."
+    },
+    {
+        "id": 379,
+        "question": "Which technique confirms expression of recombinant protein?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "PCR"
+        ],
+        "answer": 2,
+        "explanation": "Western blot confirms protein expression."
+    },
+    {
+        "id": 380,
+        "question": "Which enzyme synthesizes phosphodiester bonds during ligation?",
+        "options": [
+            "DNA polymerase",
+            "DNA ligase",
+            "Restriction enzyme",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase forms phosphodiester bonds."
+    },
+    {
+        "id": 381,
+        "question": "Which recombinant hormone is used in growth disorders?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Growth hormone treats growth disorders."
+    },
+    {
+        "id": 382,
+        "question": "Which application of biotechnology uses cloned animals?",
+        "options": [
+            "Research",
+            "Therapeutics",
+            "Agriculture",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Cloned animals are used in multiple applications."
+    },
+    {
+        "id": 383,
+        "question": "Which application of biotechnology addresses environmental pollution?",
+        "options": [
+            "Gene therapy",
+            "Bioremediation",
+            "ELISA",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Bioremediation cleans environmental pollutants."
+    },
+    {
+        "id": 384,
+        "question": "Which molecule is detected in HIV test by ELISA?",
+        "options": [
+            "DNA",
+            "RNA",
+            "Antigen or antibody",
+            "Enzyme"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects HIV antigens or antibodies."
+    },
+    {
+        "id": 385,
+        "question": "Which recombinant protein is used to treat multiple sclerosis?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in multiple sclerosis."
+    },
+    {
+        "id": 386,
+        "question": "Which step of cloning produces recombinant DNA molecule?",
+        "options": [
+            "Restriction digestion",
+            "Ligation",
+            "Transformation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Ligation forms recombinant DNA."
+    },
+    {
+        "id": 387,
+        "question": "Which biotechnology principle is fundamental to recombinant DNA technology?",
+        "options": [
+            "Complementary base pairing",
+            "Natural selection",
+            "Random mutation",
+            "Hybrid vigor"
+        ],
+        "answer": 0,
+        "explanation": "Complementary base pairing underlies recombinant DNA technology."
+    },
+    {
+        "id": 388,
+        "question": "Which enzyme converts RNA into DNA during cDNA synthesis?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesizes cDNA."
+    },
+    {
+        "id": 389,
+        "question": "Which application of biotechnology uses DNA probes?",
+        "options": [
+            "DNA fingerprinting",
+            "Fermentation",
+            "Bioreactors",
+            "Gene therapy"
+        ],
+        "answer": 0,
+        "explanation": "DNA fingerprinting uses DNA probes."
+    },
+    {
+        "id": 390,
+        "question": "Which recombinant product is used as vaccine against hepatitis B?",
+        "options": [
+            "Insulin",
+            "Hepatitis B surface antigen",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B vaccine contains recombinant surface antigen."
+    },
+    {
+        "id": 391,
+        "question": "Which transgenic crop improves vitamin content of diet?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Bt maize",
+            "Flavr Savr tomato"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice improves vitamin A content."
+    },
+    {
+        "id": 392,
+        "question": "Which biotechnology application uses antisense RNA?",
+        "options": [
+            "RNA interference",
+            "PCR",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 0,
+        "explanation": "RNA interference uses antisense RNA."
+    },
+    {
+        "id": 393,
+        "question": "Which enzyme is not used in PCR?",
+        "options": [
+            "Taq polymerase",
+            "DNA ligase",
+            "dNTPs",
+            "Primers"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase is not used in PCR."
+    },
+    {
+        "id": 394,
+        "question": "Which vector naturally transfers genes to plants?",
+        "options": [
+            "Plasmid",
+            "Ti plasmid",
+            "Cosmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid transfers genes into plant genome."
+    },
+    {
+        "id": 395,
+        "question": "Which application of biotechnology improves shelf life of fruits?",
+        "options": [
+            "Bt crops",
+            "Golden rice",
+            "Flavr Savr tomato",
+            "Biofertilizers"
+        ],
+        "answer": 2,
+        "explanation": "Flavr Savr tomato shows delayed ripening."
+    },
+    {
+        "id": 396,
+        "question": "Which recombinant protein treats viral hepatitis?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in viral hepatitis."
+    },
+    {
+        "id": 397,
+        "question": "Which technique separates proteins based on size?",
+        "options": [
+            "Gel electrophoresis",
+            "PCR",
+            "Hybridization",
+            "ELISA"
+        ],
+        "answer": 0,
+        "explanation": "Gel electrophoresis separates proteins by size."
+    },
+    {
+        "id": 398,
+        "question": "Which application of biotechnology helps in identification of criminals?",
+        "options": [
+            "ELISA",
+            "PCR",
+            "DNA fingerprinting",
+            "Bioreactors"
+        ],
+        "answer": 2,
+        "explanation": "DNA fingerprinting identifies individuals."
+    },
+    {
+        "id": 399,
+        "question": "Which recombinant protein is used in infertility treatment?",
+        "options": [
+            "FSH",
+            "Insulin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 0,
+        "explanation": "FSH is used in infertility treatment."
+    },
+    {
+        "id": 400,
+        "question": "Which biotechnology application relies on specific binding of probe to target DNA?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Electrophoresis"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization depends on specific probe-target binding."
+    },
+    {
+        "id": 401,
+        "question": "Which type of plasmid vector is engineered from Ti plasmid for use in plant biotechnology?",
+        "options": [
+            "Disarmed Ti plasmid",
+            "Virulent Ti plasmid",
+            "Natural Ti plasmid",
+            "Ri plasmid"
+        ],
+        "answer": 0,
+        "explanation": "Disarmed Ti plasmid lacks tumor-inducing genes and is used for gene transfer."
+    },
+    {
+        "id": 402,
+        "question": "Which gene of Agrobacterium tumefaciens is responsible for transfer of T-DNA?",
+        "options": [
+            "ori",
+            "vir",
+            "cry",
+            "lacZ"
+        ],
+        "answer": 1,
+        "explanation": "vir genes mediate transfer of T-DNA into plant cells."
+    },
+    {
+        "id": 403,
+        "question": "Which selectable marker is commonly used in plant transformation?",
+        "options": [
+            "ampicillin resistance",
+            "kanamycin resistance",
+            "tetracycline resistance",
+            "streptomycin resistance"
+        ],
+        "answer": 1,
+        "explanation": "Kanamycin resistance gene is widely used in plant transformation."
+    },
+    {
+        "id": 404,
+        "question": "Which technique introduces DNA-coated particles into plant cells?",
+        "options": [
+            "Transformation",
+            "Transduction",
+            "Biolistics",
+            "Conjugation"
+        ],
+        "answer": 2,
+        "explanation": "Biolistics or gene gun shoots DNA-coated particles into cells."
+    },
+    {
+        "id": 405,
+        "question": "Which component of PCR provides building blocks for DNA synthesis?",
+        "options": [
+            "Primers",
+            "dNTPs",
+            "Buffer",
+            "Taq polymerase"
+        ],
+        "answer": 1,
+        "explanation": "dNTPs are substrates for DNA synthesis."
+    },
+    {
+        "id": 406,
+        "question": "Which step of PCR requires highest temperature?",
+        "options": [
+            "Annealing",
+            "Extension",
+            "Denaturation",
+            "Hybridization"
+        ],
+        "answer": 2,
+        "explanation": "Denaturation occurs at high temperature to separate DNA strands."
+    },
+    {
+        "id": 407,
+        "question": "Which recombinant protein is used to dissolve blood clots in heart attack patients?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Streptokinase",
+            "Growth hormone"
+        ],
+        "answer": 2,
+        "explanation": "Streptokinase acts as a clot buster."
+    },
+    {
+        "id": 408,
+        "question": "Which application of biotechnology involves use of recombinant erythropoietin?",
+        "options": [
+            "Treatment of anemia",
+            "Diabetes management",
+            "Cancer therapy",
+            "Infertility treatment"
+        ],
+        "answer": 0,
+        "explanation": "Erythropoietin stimulates red blood cell production."
+    },
+    {
+        "id": 409,
+        "question": "Which transgenic crop was developed for resistance against bollworm?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Bt maize",
+            "Flavr Savr tomato"
+        ],
+        "answer": 0,
+        "explanation": "Bt cotton confers resistance to bollworm."
+    },
+    {
+        "id": 410,
+        "question": "Which Cry gene is commonly introduced into Bt cotton?",
+        "options": [
+            "Cry1Ac",
+            "Cry2Ab",
+            "Cry3",
+            "Cry9"
+        ],
+        "answer": 0,
+        "explanation": "Cry1Ac gene provides resistance against cotton bollworm."
+    },
+    {
+        "id": 411,
+        "question": "Which mechanism prevents expression of nematode genes in RNA interference?",
+        "options": [
+            "mRNA degradation",
+            "DNA mutation",
+            "Protein denaturation",
+            "Translation enhancement"
+        ],
+        "answer": 0,
+        "explanation": "RNA interference causes degradation of specific mRNA."
+    },
+    {
+        "id": 412,
+        "question": "Which molecule forms the core of RISC complex in RNA interference?",
+        "options": [
+            "siRNA",
+            "mRNA",
+            "tRNA",
+            "rRNA"
+        ],
+        "answer": 0,
+        "explanation": "siRNA guides RISC to target mRNA."
+    },
+    {
+        "id": 413,
+        "question": "Which vitamin precursor accumulates in golden rice?",
+        "options": [
+            "Retinol",
+            "Beta-carotene",
+            "Ascorbic acid",
+            "Ergocalciferol"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice accumulates beta-carotene."
+    },
+    {
+        "id": 414,
+        "question": "Which part of rice plant is genetically modified in golden rice?",
+        "options": [
+            "Leaf",
+            "Root",
+            "Endosperm",
+            "Embryo"
+        ],
+        "answer": 2,
+        "explanation": "Endosperm is modified to produce beta-carotene."
+    },
+    {
+        "id": 415,
+        "question": "Which disease is prevented by consumption of golden rice?",
+        "options": [
+            "Rickets",
+            "Scurvy",
+            "Night blindness",
+            "Beriberi"
+        ],
+        "answer": 2,
+        "explanation": "Vitamin A deficiency causes night blindness."
+    },
+    {
+        "id": 416,
+        "question": "Which recombinant hormone is used in treatment of pituitary dwarfism?",
+        "options": [
+            "Insulin",
+            "Growth hormone",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant growth hormone treats pituitary dwarfism."
+    },
+    {
+        "id": 417,
+        "question": "Which host cell is used to produce hepatitis B surface antigen?",
+        "options": [
+            "E. coli",
+            "Yeast",
+            "Plant cell",
+            "Animal cell"
+        ],
+        "answer": 1,
+        "explanation": "Yeast cells are used to produce hepatitis B vaccine."
+    },
+    {
+        "id": 418,
+        "question": "Which blotting technique confirms presence of specific DNA sequence?",
+        "options": [
+            "Northern blot",
+            "Western blot",
+            "Southern blot",
+            "ELISA"
+        ],
+        "answer": 2,
+        "explanation": "Southern blot detects specific DNA sequences."
+    },
+    {
+        "id": 419,
+        "question": "Which principle is used in DNA probe hybridization?",
+        "options": [
+            "Antigen-antibody interaction",
+            "Complementary base pairing",
+            "Enzyme specificity",
+            "Natural selection"
+        ],
+        "answer": 1,
+        "explanation": "Hybridization depends on complementary base pairing."
+    },
+    {
+        "id": 420,
+        "question": "Which recombinant protein acts as antiviral agent?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Erythropoietin",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferons inhibit viral replication."
+    },
+    {
+        "id": 421,
+        "question": "Which enzyme is used to remove phosphate groups from vector DNA?",
+        "options": [
+            "DNA ligase",
+            "Restriction enzyme",
+            "Alkaline phosphatase",
+            "DNA polymerase"
+        ],
+        "answer": 2,
+        "explanation": "Alkaline phosphatase prevents self-ligation of vector."
+    },
+    {
+        "id": 422,
+        "question": "Which screening technique uses blue and white colonies?",
+        "options": [
+            "Selectable marker screening",
+            "PCR screening",
+            "Blue-white screening",
+            "Southern blotting"
+        ],
+        "answer": 2,
+        "explanation": "Blue-white screening identifies recombinants."
+    },
+    {
+        "id": 423,
+        "question": "Which gene is disrupted in blue-white screening?",
+        "options": [
+            "ampR",
+            "tetR",
+            "lacZ",
+            "ori"
+        ],
+        "answer": 2,
+        "explanation": "Insertional inactivation of lacZ gives white colonies."
+    },
+    {
+        "id": 424,
+        "question": "Which molecule is detected in HIV diagnosis by ELISA?",
+        "options": [
+            "DNA",
+            "RNA",
+            "Antigen or antibody",
+            "Enzyme"
+        ],
+        "answer": 2,
+        "explanation": "ELISA detects HIV antigen or antibodies."
+    },
+    {
+        "id": 425,
+        "question": "Which technique amplifies DNA for forensic analysis?",
+        "options": [
+            "ELISA",
+            "PCR",
+            "Hybridization",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies DNA from minute samples."
+    },
+    {
+        "id": 426,
+        "question": "Which application of biotechnology is used for identification of criminals?",
+        "options": [
+            "PCR",
+            "DNA fingerprinting",
+            "ELISA",
+            "Bioreactors"
+        ],
+        "answer": 1,
+        "explanation": "DNA fingerprinting identifies individuals uniquely."
+    },
+    {
+        "id": 427,
+        "question": "DNA fingerprinting is based on polymorphism of",
+        "options": [
+            "rRNA",
+            "mtDNA",
+            "VNTRs",
+            "Plasmids"
+        ],
+        "answer": 2,
+        "explanation": "VNTRs show individual-specific variation."
+    },
+    {
+        "id": 428,
+        "question": "Which application of biotechnology helps in prenatal diagnosis?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Fermentation",
+            "Bioremediation"
+        ],
+        "answer": 0,
+        "explanation": "PCR detects genetic disorders prenatally."
+    },
+    {
+        "id": 429,
+        "question": "Which recombinant protein is used to treat hemophilia A?",
+        "options": [
+            "Factor IX",
+            "Factor VIII",
+            "Insulin",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Hemophilia A is due to deficiency of Factor VIII."
+    },
+    {
+        "id": 430,
+        "question": "Which recombinant protein is used to treat hemophilia B?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Growth hormone",
+            "Insulin"
+        ],
+        "answer": 1,
+        "explanation": "Hemophilia B is due to deficiency of Factor IX."
+    },
+    {
+        "id": 431,
+        "question": "Which bioreactor component ensures uniform mixing of culture medium?",
+        "options": [
+            "Sparger",
+            "Agitator",
+            "Jacket",
+            "Sensor"
+        ],
+        "answer": 1,
+        "explanation": "Agitator maintains uniform mixing."
+    },
+    {
+        "id": 432,
+        "question": "Which component of bioreactor provides oxygen to growing cells?",
+        "options": [
+            "Agitator",
+            "Jacket",
+            "Sparger",
+            "Sensor"
+        ],
+        "answer": 2,
+        "explanation": "Sparger supplies oxygen."
+    },
+    {
+        "id": 433,
+        "question": "Which bioreactor component regulates temperature?",
+        "options": [
+            "Agitator",
+            "Sparger",
+            "Jacket",
+            "Sensor"
+        ],
+        "answer": 2,
+        "explanation": "Jacket maintains optimum temperature."
+    },
+    {
+        "id": 434,
+        "question": "Which type of bioreactor is most widely used in industry?",
+        "options": [
+            "Stirred-tank",
+            "Airlift",
+            "Bubble column",
+            "Packed bed"
+        ],
+        "answer": 0,
+        "explanation": "Stirred-tank bioreactors are most common."
+    },
+    {
+        "id": 435,
+        "question": "Which biotechnology application uses microbes to degrade pollutants?",
+        "options": [
+            "Biofertilization",
+            "Bioremediation",
+            "Gene therapy",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Bioremediation uses microbes to remove pollutants."
+    },
+    {
+        "id": 436,
+        "question": "Which genetically engineered bacterium is used for oil spill cleanup?",
+        "options": [
+            "E. coli",
+            "Pseudomonas",
+            "Rhizobium",
+            "Agrobacterium"
+        ],
+        "answer": 1,
+        "explanation": "Pseudomonas species degrade hydrocarbons."
+    },
+    {
+        "id": 437,
+        "question": "Which recombinant enzyme is used in cheese making?",
+        "options": [
+            "Amylase",
+            "Lipase",
+            "Rennin",
+            "Protease"
+        ],
+        "answer": 2,
+        "explanation": "Recombinant rennin is used in cheese production."
+    },
+    {
+        "id": 438,
+        "question": "Which recombinant enzymes are used in detergent industry?",
+        "options": [
+            "Amylase",
+            "Protease",
+            "Lipase",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Detergents use multiple recombinant enzymes."
+    },
+    {
+        "id": 439,
+        "question": "Which biotechnology product is used in treatment of burns?",
+        "options": [
+            "Artificial skin",
+            "Insulin",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Artificial skin aids burn treatment."
+    },
+    {
+        "id": 440,
+        "question": "Which recombinant hormone is used in assisted reproductive techniques?",
+        "options": [
+            "FSH",
+            "Insulin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 0,
+        "explanation": "FSH is used in assisted reproduction."
+    },
+    {
+        "id": 441,
+        "question": "Which plant system is used to produce edible vaccines?",
+        "options": [
+            "Bacterial",
+            "Plant",
+            "Animal",
+            "Viral"
+        ],
+        "answer": 1,
+        "explanation": "Plants are used to produce edible vaccines."
+    },
+    {
+        "id": 442,
+        "question": "Which biotechnology application reduces chemical pesticide usage?",
+        "options": [
+            "Biofertilizers",
+            "Bt crops",
+            "Organic manure",
+            "Hybridization"
+        ],
+        "answer": 1,
+        "explanation": "Bt crops reduce pesticide application."
+    },
+    {
+        "id": 443,
+        "question": "Which gene provides herbicide resistance in crops?",
+        "options": [
+            "Cry",
+            "EPSPS",
+            "lacZ",
+            "ampR"
+        ],
+        "answer": 1,
+        "explanation": "EPSPS gene confers herbicide resistance."
+    },
+    {
+        "id": 444,
+        "question": "Which transgenic crop tolerates glyphosate herbicide?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Roundup Ready soybean",
+            "Flavr Savr tomato"
+        ],
+        "answer": 2,
+        "explanation": "Roundup Ready soybean is glyphosate tolerant."
+    },
+    {
+        "id": 445,
+        "question": "Which process ensures stable inheritance of foreign gene?",
+        "options": [
+            "Replication",
+            "Integration",
+            "Translation",
+            "Expression"
+        ],
+        "answer": 1,
+        "explanation": "Integration into genome ensures stability."
+    },
+    {
+        "id": 446,
+        "question": "Which biotechnology application produces biodegradable plastics?",
+        "options": [
+            "PCR",
+            "Genetic engineering",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Engineered microbes produce biodegradable plastics."
+    },
+    {
+        "id": 447,
+        "question": "Which biosafety concern is associated with GM crops?",
+        "options": [
+            "High yield",
+            "Gene flow to wild relatives",
+            "Improved nutrition",
+            "Reduced pesticides"
+        ],
+        "answer": 1,
+        "explanation": "Gene flow to wild relatives is a concern."
+    },
+    {
+        "id": 448,
+        "question": "Which recombinant vaccine is produced using yeast cells?",
+        "options": [
+            "Polio",
+            "Hepatitis B",
+            "BCG",
+            "MMR"
+        ],
+        "answer": 1,
+        "explanation": "Hepatitis B vaccine is produced in yeast."
+    },
+    {
+        "id": 449,
+        "question": "Which technique detects early stage diseases using antigen-antibody reaction?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Hybridization",
+            "Electrophoresis"
+        ],
+        "answer": 1,
+        "explanation": "ELISA detects disease markers early."
+    },
+    {
+        "id": 450,
+        "question": "Which fundamental principle supports probe-target binding?",
+        "options": [
+            "Complementary base pairing",
+            "Enzyme specificity",
+            "Natural selection",
+            "Random mutation"
+        ],
+        "answer": 0,
+        "explanation": "Complementary base pairing ensures probe binding."
+    },
+    {
+        "id": 451,
+        "question": "Which vector feature controls number of copies inside host cell?",
+        "options": [
+            "Selectable marker",
+            "Ori",
+            "Promoter",
+            "Restriction site"
+        ],
+        "answer": 1,
+        "explanation": "Origin of replication controls copy number."
+    },
+    {
+        "id": 452,
+        "question": "Which enzyme joins DNA fragments by forming phosphodiester bonds?",
+        "options": [
+            "DNA polymerase",
+            "DNA ligase",
+            "Restriction enzyme",
+            "Primase"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase forms phosphodiester bonds."
+    },
+    {
+        "id": 453,
+        "question": "Which recombinant protein is used in treatment of leukemia?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in leukemia."
+    },
+    {
+        "id": 454,
+        "question": "Which biotechnology application involves manipulation of embryos outside the body?",
+        "options": [
+            "IVF",
+            "PCR",
+            "ELISA",
+            "Bioremediation"
+        ],
+        "answer": 0,
+        "explanation": "IVF involves embryo manipulation."
+    },
+    {
+        "id": 455,
+        "question": "Which application improves stress tolerance in plants?",
+        "options": [
+            "Selection",
+            "Hybridization",
+            "Genetic engineering",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "Genetic engineering introduces stress tolerance genes."
+    },
+    {
+        "id": 456,
+        "question": "Which recombinant product treats anemia due to kidney failure?",
+        "options": [
+            "Insulin",
+            "Erythropoietin",
+            "Growth hormone",
+            "Interferon"
+        ],
+        "answer": 1,
+        "explanation": "Erythropoietin treats anemia."
+    },
+    {
+        "id": 457,
+        "question": "Which technique confirms expression of recombinant protein?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "PCR"
+        ],
+        "answer": 2,
+        "explanation": "Western blot confirms protein expression."
+    },
+    {
+        "id": 458,
+        "question": "Which enzyme converts RNA into complementary DNA?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesizes cDNA."
+    },
+    {
+        "id": 459,
+        "question": "Which application uses cloned genes as probes?",
+        "options": [
+            "DNA fingerprinting",
+            "Fermentation",
+            "Bioreactors",
+            "Gene therapy"
+        ],
+        "answer": 0,
+        "explanation": "DNA fingerprinting uses DNA probes."
+    },
+    {
+        "id": 460,
+        "question": "Which recombinant antigen is used as vaccine against hepatitis B?",
+        "options": [
+            "Insulin",
+            "HBsAg",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Recombinant HBsAg is used as hepatitis B vaccine."
+    },
+    {
+        "id": 461,
+        "question": "Which transgenic crop improves vitamin A intake?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Bt maize",
+            "Flavr Savr tomato"
+        ],
+        "answer": 1,
+        "explanation": "Golden rice improves vitamin A intake."
+    },
+    {
+        "id": 462,
+        "question": "Which technique uses antisense RNA for gene suppression?",
+        "options": [
+            "RNA interference",
+            "PCR",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 0,
+        "explanation": "RNA interference uses antisense RNA."
+    },
+    {
+        "id": 463,
+        "question": "Which enzyme is not required in PCR?",
+        "options": [
+            "Taq polymerase",
+            "DNA ligase",
+            "dNTPs",
+            "Primers"
+        ],
+        "answer": 1,
+        "explanation": "DNA ligase is not used in PCR."
+    },
+    {
+        "id": 464,
+        "question": "Which vector naturally transfers genes to plant genome?",
+        "options": [
+            "Plasmid",
+            "Ti plasmid",
+            "Cosmid",
+            "BAC"
+        ],
+        "answer": 1,
+        "explanation": "Ti plasmid transfers genes to plants."
+    },
+    {
+        "id": 465,
+        "question": "Which biotechnology application improves shelf life of fruits?",
+        "options": [
+            "Bt crops",
+            "Golden rice",
+            "Flavr Savr tomato",
+            "Biofertilizers"
+        ],
+        "answer": 2,
+        "explanation": "Flavr Savr tomato delays ripening."
+    },
+    {
+        "id": 466,
+        "question": "Which recombinant protein is used to treat viral hepatitis?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in viral hepatitis."
+    },
+    {
+        "id": 467,
+        "question": "Which technique separates proteins based on molecular weight?",
+        "options": [
+            "Gel electrophoresis",
+            "PCR",
+            "Hybridization",
+            "ELISA"
+        ],
+        "answer": 0,
+        "explanation": "Gel electrophoresis separates proteins by size."
+    },
+    {
+        "id": 468,
+        "question": "Which biotechnology application identifies criminals using DNA patterns?",
+        "options": [
+            "ELISA",
+            "PCR",
+            "DNA fingerprinting",
+            "Bioreactors"
+        ],
+        "answer": 2,
+        "explanation": "DNA fingerprinting identifies individuals."
+    },
+    {
+        "id": 469,
+        "question": "Which recombinant hormone is used in infertility treatment?",
+        "options": [
+            "FSH",
+            "Insulin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 0,
+        "explanation": "FSH is used in infertility treatment."
+    },
+    {
+        "id": 470,
+        "question": "Which biotechnology technique relies on specific binding of probe to target DNA?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Electrophoresis"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization depends on probe-target binding."
+    },
+    {
+        "id": 471,
+        "question": "Which application of biotechnology produces biodegradable polymers?",
+        "options": [
+            "Bioremediation",
+            "Genetic engineering",
+            "PCR",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Genetic engineering produces biodegradable polymers."
+    },
+    {
+        "id": 472,
+        "question": "Which recombinant protein is used in multiple sclerosis treatment?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in multiple sclerosis."
+    },
+    {
+        "id": 473,
+        "question": "Which biotechnology application involves use of transgenic animals as disease models?",
+        "options": [
+            "Diagnostics",
+            "Research",
+            "Agriculture",
+            "Industry"
+        ],
+        "answer": 1,
+        "explanation": "Transgenic animals are used as research models."
+    },
+    {
+        "id": 474,
+        "question": "Which transgenic animal produced human alpha-lactalbumin?",
+        "options": [
+            "Goat",
+            "Cow",
+            "Sheep",
+            "Mouse"
+        ],
+        "answer": 1,
+        "explanation": "Rosie cow produced human alpha-lactalbumin."
+    },
+    {
+        "id": 475,
+        "question": "Which application of biotechnology addresses environmental pollution?",
+        "options": [
+            "Gene therapy",
+            "Bioremediation",
+            "ELISA",
+            "PCR"
+        ],
+        "answer": 1,
+        "explanation": "Bioremediation removes pollutants."
+    },
+    {
+        "id": 476,
+        "question": "Which molecule is detected in early pregnancy test by biotechnology?",
+        "options": [
+            "hCG",
+            "FSH",
+            "LH",
+            "Prolactin"
+        ],
+        "answer": 0,
+        "explanation": "hCG is detected in pregnancy tests."
+    },
+    {
+        "id": 477,
+        "question": "Which recombinant protein is used as anticoagulant?",
+        "options": [
+            "Insulin",
+            "Heparin",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Heparin prevents clotting."
+    },
+    {
+        "id": 478,
+        "question": "Which technique confirms presence of specific mRNA?",
+        "options": [
+            "Southern blot",
+            "Northern blot",
+            "Western blot",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Northern blot detects mRNA."
+    },
+    {
+        "id": 479,
+        "question": "Which vector can carry very large DNA fragments?",
+        "options": [
+            "Plasmid",
+            "Cosmid",
+            "BAC",
+            "Ti plasmid"
+        ],
+        "answer": 2,
+        "explanation": "BACs carry very large DNA inserts."
+    },
+    {
+        "id": 480,
+        "question": "Which principle is fundamental to all recombinant DNA applications?",
+        "options": [
+            "Complementary base pairing",
+            "Natural selection",
+            "Random mutation",
+            "Hybrid vigor"
+        ],
+        "answer": 0,
+        "explanation": "Complementary base pairing is fundamental."
+    },
+    {
+        "id": 481,
+        "question": "Which recombinant product is used to treat burns and wounds?",
+        "options": [
+            "Artificial skin",
+            "Insulin",
+            "Interferon",
+            "FSH"
+        ],
+        "answer": 0,
+        "explanation": "Artificial skin aids healing."
+    },
+    {
+        "id": 482,
+        "question": "Which transgenic crop reduces post-harvest losses?",
+        "options": [
+            "Bt cotton",
+            "Golden rice",
+            "Flavr Savr tomato",
+            "Bt maize"
+        ],
+        "answer": 2,
+        "explanation": "Flavr Savr tomato has delayed ripening."
+    },
+    {
+        "id": 483,
+        "question": "Which biotechnology tool detects proteins using antibodies?",
+        "options": [
+            "PCR",
+            "Western blot",
+            "Southern blot",
+            "Northern blot"
+        ],
+        "answer": 1,
+        "explanation": "Western blot detects proteins."
+    },
+    {
+        "id": 484,
+        "question": "Which enzyme cuts DNA to produce sticky ends?",
+        "options": [
+            "SmaI",
+            "EcoRI",
+            "HaeIII",
+            "AluI"
+        ],
+        "answer": 1,
+        "explanation": "EcoRI produces sticky ends."
+    },
+    {
+        "id": 485,
+        "question": "Which gene confers resistance against insects in Bt crops?",
+        "options": [
+            "EPSPS",
+            "Cry",
+            "lacZ",
+            "ampR"
+        ],
+        "answer": 1,
+        "explanation": "Cry gene produces insecticidal protein."
+    },
+    {
+        "id": 486,
+        "question": "Which technique multiplies DNA exponentially?",
+        "options": [
+            "Hybridization",
+            "PCR",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "PCR amplifies DNA exponentially."
+    },
+    {
+        "id": 487,
+        "question": "Which application of biotechnology is used for vaccine safety testing?",
+        "options": [
+            "Transgenic animals",
+            "PCR",
+            "ELISA",
+            "Bioreactors"
+        ],
+        "answer": 0,
+        "explanation": "Transgenic animals test vaccine safety."
+    },
+    {
+        "id": 488,
+        "question": "Which recombinant hormone stimulates ovulation?",
+        "options": [
+            "FSH",
+            "Insulin",
+            "Interferon",
+            "Erythropoietin"
+        ],
+        "answer": 0,
+        "explanation": "FSH stimulates follicular development."
+    },
+    {
+        "id": 489,
+        "question": "Which biotechnology product improves cheese yield?",
+        "options": [
+            "Amylase",
+            "Rennin",
+            "Lipase",
+            "Protease"
+        ],
+        "answer": 1,
+        "explanation": "Rennin improves cheese production."
+    },
+    {
+        "id": 490,
+        "question": "Which technique identifies specific DNA sequence after electrophoresis?",
+        "options": [
+            "PCR",
+            "Southern blot",
+            "Western blot",
+            "ELISA"
+        ],
+        "answer": 1,
+        "explanation": "Southern blot identifies DNA sequences."
+    },
+    {
+        "id": 491,
+        "question": "Which recombinant protein is used in cancer therapy?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "FSH"
+        ],
+        "answer": 1,
+        "explanation": "Interferon is used in cancer therapy."
+    },
+    {
+        "id": 492,
+        "question": "Which biotechnology application improves nutritional value of crops?",
+        "options": [
+            "Hybridization",
+            "Biofortification",
+            "Selection",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "Biofortification improves nutrition."
+    },
+    {
+        "id": 493,
+        "question": "Which transgenic crop expresses multiple Bt genes?",
+        "options": [
+            "Bt maize",
+            "Bt cotton",
+            "Pyramided Bt cotton",
+            "Golden rice"
+        ],
+        "answer": 2,
+        "explanation": "Pyramided Bt cotton has multiple Bt genes."
+    },
+    {
+        "id": 494,
+        "question": "Which enzyme is used to synthesize complementary DNA from RNA?",
+        "options": [
+            "DNA polymerase",
+            "RNA polymerase",
+            "Reverse transcriptase",
+            "Ligase"
+        ],
+        "answer": 2,
+        "explanation": "Reverse transcriptase synthesizes cDNA."
+    },
+    {
+        "id": 495,
+        "question": "Which technique separates macromolecules using electric field?",
+        "options": [
+            "Centrifugation",
+            "Electrophoresis",
+            "Chromatography",
+            "Filtration"
+        ],
+        "answer": 1,
+        "explanation": "Electrophoresis uses electric field."
+    },
+    {
+        "id": 496,
+        "question": "Which biotechnology application uses immobilized enzymes?",
+        "options": [
+            "PCR",
+            "Bioreactors",
+            "ELISA",
+            "Blotting"
+        ],
+        "answer": 1,
+        "explanation": "Bioreactors often use immobilized enzymes."
+    },
+    {
+        "id": 497,
+        "question": "Which recombinant protein is used to treat hepatitis C?",
+        "options": [
+            "Insulin",
+            "Interferon",
+            "Growth hormone",
+            "Erythropoietin"
+        ],
+        "answer": 1,
+        "explanation": "Interferon treats hepatitis C."
+    },
+    {
+        "id": 498,
+        "question": "Which technique detects antigen using enzyme-linked antibodies?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Hybridization",
+            "Electrophoresis"
+        ],
+        "answer": 1,
+        "explanation": "ELISA uses enzyme-linked antibodies."
+    },
+    {
+        "id": 499,
+        "question": "Which application of biotechnology relies on complementary base pairing?",
+        "options": [
+            "Hybridization",
+            "ELISA",
+            "Bioremediation",
+            "Fermentation"
+        ],
+        "answer": 0,
+        "explanation": "Hybridization relies on complementary base pairing."
+    },
+    {
+        "id": 500,
+        "question": "Which biotechnology application integrates foreign DNA into host genome?",
+        "options": [
+            "Transformation",
+            "Recombination",
+            "Translation",
+            "Replication"
+        ],
+        "answer": 1,
+        "explanation": "Recombination integrates foreign DNA into genome."
+    }
+]

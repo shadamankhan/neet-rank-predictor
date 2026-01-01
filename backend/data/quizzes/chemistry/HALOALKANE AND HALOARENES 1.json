@@ -1,0 +1,1502 @@
+[
+    {
+        "id": 1,
+        "question": "What is the IUPAC name of $$CH_3CH_2CH_2Br$$?",
+        "options": [
+            "1-Bromopropane",
+            "2-Bromopropane",
+            "Bromomethane",
+            "1-Bromobutane"
+        ],
+        "answer": 0,
+        "explanation": "$CH_3CH_2CH_2Br$ is a straight chain with Br on C-1 → 1-Bromopropane."
+    },
+    {
+        "id": 2,
+        "question": "Which of the following is an example of a *primary* haloalkane?",
+        "options": [
+            "2-Bromo-2-methylbutane",
+            "1-Bromo-2-methylbutane",
+            "2-Bromo-3-methylbutane",
+            "3-Bromo-2-methylbutane"
+        ],
+        "answer": 1,
+        "explanation": "1-Bromo-2-methylbutane has the halogen on a carbon attached to only one other carbon (primary)."
+    },
+    {
+        "id": 3,
+        "question": "Which compound will undergo the *fastest SN1* reaction?",
+        "options": [
+            "1-Chloro-3-methylbutane",
+            "1-Bromo-3-methylbutane",
+            "1-Iodo-3-methylbutane",
+            "1-Fluoro-3-methylbutane"
+        ],
+        "answer": 2,
+        "explanation": "Iodides form the best leaving groups due to their weak C-I bond and large size, favoring SN1."
+    },
+    {
+        "id": 4,
+        "question": "The reaction of a haloalkane with *aqueous KOH* typically shows:",
+        "options": [
+            "Substitution",
+            "Elimination",
+            "Addition",
+            "Oxidation"
+        ],
+        "answer": 0,
+        "explanation": "A haloalkane with aq. KOH undergoes nucleophilic substitution forming an alcohol."
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is a *haloarene*?",
+        "options": [
+            "C6H6",
+            "C6H5Br",
+            "CH3CH2OH",
+            "CH3CH2Cl"
+        ],
+        "answer": 1,
+        "explanation": "Haloarenes are halogen-substituted aromatic rings; C6H5Br is one."
+    },
+    {
+        "id": 6,
+        "question": "The general formula for haloalkanes is:",
+        "options": [
+            "C_nH_{2n+2}X",
+            "C_nH_{2n}X",
+            "C_nH_{2n-2}X",
+            "C_nH_{2n+1}X"
+        ],
+        "answer": 0,
+        "explanation": "Haloalkanes result from the substitution of one H of an alkane → C_nH_{2n+2}X."
+    },
+    {
+        "id": 7,
+        "question": "Which of the following is *not* a haloarene?",
+        "options": [
+            "Chlorobenzene",
+            "Bromobenzene",
+            "Fluorobenzene",
+            "Iodobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Fluorobenzene is less reactive in typical haloarene reactions; but all listed are haloarenes — this option might be a distractor test focusing on reactivity differences."
+    },
+    {
+        "id": 8,
+        "question": "What type of reaction is the hydrolysis of CH3CH2Br with aq. NaOH?",
+        "options": [
+            "SN1",
+            "SN2",
+            "E1",
+            "E2"
+        ],
+        "answer": 1,
+        "explanation": "Primary haloalkane with strong nucleophile typically undergoes SN2."
+    },
+    {
+        "id": 9,
+        "question": "Which of the following is a *geminal dihalide*?",
+        "options": [
+            "CH2Cl-CH2Cl",
+            "CHCl2-CH3",
+            "CCl4",
+            "CH2Cl2"
+        ],
+        "answer": 1,
+        "explanation": "Geminal dihalide has two halogens on the *same* carbon (CHCl2-CH3)."
+    },
+    {
+        "id": 10,
+        "question": "Which of the following is a *benzyl halide*?",
+        "options": [
+            "C6H5-CH2Cl",
+            "CH3-CH2-Cl",
+            "CH2=CH-CH2Cl",
+            "C6H5-Cl"
+        ],
+        "answer": 0,
+        "explanation": "A benzyl halide has halogen attached to the carbon next to an aromatic ring."
+    },
+    {
+        "id": 11,
+        "question": "SN1 reaction is fastest for which alkyl halide?",
+        "options": [
+            "1-Chlorobutane",
+            "2-Chlorobutane",
+            "2-Bromo-2-methylpropane",
+            "1-Bromopropane"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary haloalkanes form more stable carbocations, favoring SN1."
+    },
+    {
+        "id": 12,
+        "question": "Reaction of haloalkanes with alcoholic KOH gives:",
+        "options": [
+            "Alkanes",
+            "Alkenes",
+            "Alcohols",
+            "Ethers"
+        ],
+        "answer": 1,
+        "explanation": "Elimination produces alkenes with alcoholic base."
+    },
+    {
+        "id": 13,
+        "question": "The order of *SN2 reactivity* for halides is:",
+        "options": [
+            "RI > RBr > RCl > RF",
+            "RF > RCl > RBr > RI",
+            "RCl > RBr > RI > RF",
+            "RI > RF > RBr > RCl"
+        ],
+        "answer": 0,
+        "explanation": "Better leaving group (I-) enhances SN2 reactivity."
+    },
+    {
+        "id": 14,
+        "question": "Which reagent converts alcohols to haloalkanes?",
+        "options": [
+            "PCl5",
+            "SOCl2",
+            "PBr3",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "All these reagents replace -OH with a halogen."
+    },
+    {
+        "id": 15,
+        "question": "Which product forms when propene reacts with HBr in presence of peroxides?",
+        "options": [
+            "1-Bromopropane",
+            "2-Bromopropane",
+            "Propane",
+            "Allyl bromide"
+        ],
+        "answer": 0,
+        "explanation": "Peroxide effect gives anti-Markovnikov addition → 1-bromopropane."
+    },
+    {
+        "id": 16,
+        "question": "In haloarenes, the carbon to which halogen is bonded is:",
+        "options": [
+            "sp hybridized",
+            "sp2 hybridized",
+            "sp3 hybridized",
+            "None of the above"
+        ],
+        "answer": 1,
+        "explanation": "Aryl halides have halogen on aromatic carbon (sp2)."
+    },
+    {
+        "id": 17,
+        "question": "Which of the following will undergo *E2 elimination* readily?",
+        "options": [
+            "Tertiary bromoalkane with strong base",
+            "Primary bromoalkane with weak base",
+            "Vinyl chloride",
+            "Aryl chloride"
+        ],
+        "answer": 0,
+        "explanation": "E2 favored in tertiary with strong base."
+    },
+    {
+        "id": 18,
+        "question": "Order of *bond dissociation energy* (C-X) from highest to lowest is:",
+        "options": [
+            "C-F > C-Cl > C-Br > C-I",
+            "C-I > C-Br > C-Cl > C-F",
+            "C-Cl > C-F > C-Br > C-I",
+            "C-Br > C-Cl > C-F > C-I"
+        ],
+        "answer": 0,
+        "explanation": "Smaller halogen forms stronger bond (higher BDE)."
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is true about haloarenes compared to haloalkanes?",
+        "options": [
+            "They undergo SN1 easily",
+            "They undergo SN2 easily",
+            "They resist nucleophilic substitution under normal conditions",
+            "They are more reactive in addition reactions"
+        ],
+        "answer": 2,
+        "explanation": "Aryl halides are less reactive in SN1/SN2 due to resonance stabilization."
+    },
+    {
+        "id": 20,
+        "question": "Reaction of chlorobenzene with $$NaNH_2$$ gives:",
+        "options": [
+            "Aniline",
+            "Benzene",
+            "Chlorobenzene remains unchanged",
+            "Phenol"
+        ],
+        "answer": 0,
+        "explanation": "Strong base can substitute Cl with -NH2 under specific conditions."
+    },
+    {
+        "id": 21,
+        "question": "Which will undergo *SN1* reaction most rapidly?",
+        "options": [
+            "tert-butyl chloride",
+            "isopropyl chloride",
+            "ethyl chloride",
+            "methyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "Tertiary haloalkanes form more stable carbocations, favoring SN1."
+    },
+    {
+        "id": 22,
+        "question": "Which of the following is an *allylic halide*?",
+        "options": [
+            "CH2=CH-CH2Br",
+            "CH3CH2Br",
+            "C6H5CH2Br",
+            "CH3CH(Br)CH3"
+        ],
+        "answer": 0,
+        "explanation": "Allylic halide has the halogen on carbon adjacent to a double bond."
+    },
+    {
+        "id": 23,
+        "question": "What type of reaction is $$CH3CH2Br + NaOH(aq) \\to CH3CH2OH$$?",
+        "options": [
+            "Elimination",
+            "Substitution (SN2)",
+            "Oxidation",
+            "Addition"
+        ],
+        "answer": 1,
+        "explanation": "Primary haloalkane with strong nucleophile undergoes SN2 substitution."
+    },
+    {
+        "id": 24,
+        "question": "Which reagent is commonly used to prepare haloalkanes from alcohols?",
+        "options": [
+            "PCl5",
+            "SOCl2",
+            "PBr3",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "All these reagents convert alcohols to haloalkanes."
+    },
+    {
+        "id": 25,
+        "question": "Which of the following is a *benzyl halide*?",
+        "options": [
+            "C6H5CH2Cl",
+            "C6H5Cl",
+            "CH3CH2Br",
+            "CH2=CHBr"
+        ],
+        "answer": 0,
+        "explanation": "Benzyl halide has halogen on carbon next to aromatic ring."
+    },
+    {
+        "id": 26,
+        "question": "Order of *leaving group ability* (best first) is:",
+        "options": [
+            "I- > Br- > Cl- > F-",
+            "F- > Cl- > Br- > I-",
+            "Cl- > Br- > I- > F-",
+            "Br- > Cl- > I- > F-"
+        ],
+        "answer": 0,
+        "explanation": "Larger halides (I-) are better leaving groups due to weaker C-X bonds."
+    },
+    {
+        "id": 27,
+        "question": "Which will undergo *E2 elimination* most readily with alcoholic KOH?",
+        "options": [
+            "1-Bromopropane",
+            "2-Bromopropane",
+            "tert-Butyl bromide",
+            "Chlorobenzene"
+        ],
+        "answer": 2,
+        "explanation": "Tertiary haloalkanes favor E2 elimination with strong base."
+    },
+    {
+        "id": 28,
+        "question": "Which haloarene does not undergo nucleophilic substitution easily?",
+        "options": [
+            "Chlorobenzene",
+            "Bromobenzene",
+            "Fluorobenzene",
+            "All of the above"
+        ],
+        "answer": 3,
+        "explanation": "Haloarenes generally resist SN1/SN2 due to resonance stabilization of C-X bond."
+    },
+    {
+        "id": 29,
+        "question": "Which of the following compounds is a *geminal dihalide*?",
+        "options": [
+            "CH2Cl-CH2Cl",
+            "CHCl2-CH3",
+            "CH3CH2Cl",
+            "CCl4"
+        ],
+        "answer": 1,
+        "explanation": "Geminal dihalides have two halogens on the same carbon."
+    },
+    {
+        "id": 30,
+        "question": "Which of these is a *vinyl halide*?",
+        "options": [
+            "CH2=CHCl",
+            "CH3CH2Cl",
+            "CH2Br2",
+            "C6H5Br"
+        ],
+        "answer": 0,
+        "explanation": "Vinyl halides have halogen directly on an sp-hybridized carbon of a double bond."
+    },
+    {
+        "id": 31,
+        "question": "Which reagent can convert CH3CH2Br to CH3CH2OH?",
+        "options": [
+            "NaCN",
+            "KOH(aq)",
+            "NaH",
+            "AlCl3"
+        ],
+        "answer": 1,
+        "explanation": "Haloalkane hydrolysis with aq. base gives alcohol."
+    },
+    {
+        "id": 32,
+        "question": "Which of the following undergoes *SN1* exclusively?",
+        "options": [
+            "Benzyl chloride",
+            "Ethyl chloride",
+            "Chlorobenzene",
+            "Isopropyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "Benzyl carbocation is stabilized, favoring SN1."
+    },
+    {
+        "id": 33,
+        "question": "Which has the highest *C-X bond polarity*?",
+        "options": [
+            "C-F",
+            "C-Cl",
+            "C-Br",
+            "C-I"
+        ],
+        "answer": 0,
+        "explanation": "Fluorine’s high electronegativity gives high bond polarity."
+    },
+    {
+        "id": 34,
+        "question": "Which of the following is *not* a haloalkane?",
+        "options": [
+            "CH3CH2Br",
+            "CH3Cl",
+            "C6H5Br",
+            "CH3CH2CH2I"
+        ],
+        "answer": 2,
+        "explanation": "C6H5Br is a haloarene, not haloalkane."
+    },
+    {
+        "id": 35,
+        "question": "Which of the following reactions is an example of *nucleophilic substitution*?",
+        "options": [
+            "Hydrolysis of R-Cl",
+            "Dehydrohalogenation",
+            "Addition to alkene",
+            "Free radical halogenation"
+        ],
+        "answer": 0,
+        "explanation": "Hydrolysis of haloalkanes is SN1/SN2 substitution."
+    },
+    {
+        "id": 36,
+        "question": "Which of these is a *secondary haloalkane*?",
+        "options": [
+            "CH3CH(Br)CH3",
+            "CH3CH2Br",
+            "CH3CH2CH2Cl",
+            "(CH3)3CBr"
+        ],
+        "answer": 0,
+        "explanation": "Secondary haloalkane has halogen on carbon attached to two other carbons."
+    },
+    {
+        "id": 37,
+        "question": "Which reagent promotes elimination to give alkene from R-Br?",
+        "options": [
+            "KOH(aq)",
+            "KOH(alc)",
+            "NaCl",
+            "H2O"
+        ],
+        "answer": 1,
+        "explanation": "Alcoholic KOH favors elimination (E2)."
+    },
+    {
+        "id": 38,
+        "question": "Which of the following haloalkanes will be most reactive in SN2?",
+        "options": [
+            "methyl chloride",
+            "1-chlorobutane",
+            "2-chloro-2-methylpropane",
+            "chlorobenzene"
+        ],
+        "answer": 0,
+        "explanation": "SN2 is fastest on least sterically hindered haloalkanes."
+    },
+    {
+        "id": 39,
+        "question": "Which is a characteristic reaction of haloarenes with diazonium salts?",
+        "options": [
+            "Sandmeyer reaction",
+            "Wurtz reaction",
+            "Cannizzaro reaction",
+            "Aldol condensation"
+        ],
+        "answer": 0,
+        "explanation": "Sandmeyer converts diazonium to haloarene derivatives."
+    },
+    {
+        "id": 40,
+        "question": "When propene reacts with HBr under peroxides, the major product is:",
+        "options": [
+            "2-Bromopropane",
+            "1-Bromopropane",
+            "Propane",
+            "Allyl bromide"
+        ],
+        "answer": 1,
+        "explanation": "Peroxide effect causes anti-Markovnikov addition."
+    },
+    {
+        "id": 41,
+        "question": "Which of the following is true about haloarenes compared to haloalkanes?",
+        "options": [
+            "More reactive in SN2",
+            "Less reactive in nucleophilic substitution",
+            "More reactive in elimination",
+            "React easily with NaOH(aq)"
+        ],
+        "answer": 1,
+        "explanation": "Haloarenes resist SN1/SN2 due to resonance stabilization."
+    },
+    {
+        "id": 42,
+        "question": "Which of the following is a primary haloalkane?",
+        "options": [
+            "CH3CH2Br",
+            "CH3CH(Br)CH3",
+            "CH3C(Br)(CH3)2",
+            "C6H5Br"
+        ],
+        "answer": 0,
+        "explanation": "Primary haloalkane has halogen on carbon attached to only one carbon chain."
+    },
+    {
+        "id": 43,
+        "question": "The hybridization of the carbon bearing the halogen in haloalkanes is:",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "none"
+        ],
+        "answer": 2,
+        "explanation": "Haloalkanes have halogen on sp3 carbon."
+    },
+    {
+        "id": 44,
+        "question": "Which reagent can convert chlorobenzene to phenol (via substitution)?",
+        "options": [
+            "NaOH (aq), heat",
+            "KOH(alc)",
+            "LiAlH4",
+            "HCl"
+        ],
+        "answer": 0,
+        "explanation": "Hot aqueous KOH substitutes Cl with OH in haloarenes under severe conditions."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following halides undergoes only SN2, not SN1?",
+        "options": [
+            "1-Bromopropane",
+            "tert-Butyl bromide",
+            "Benzyl chloride",
+            "2-Bromo-2-methylpropane"
+        ],
+        "answer": 0,
+        "explanation": "Primary haloalkanes favor SN2 mechanism."
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is a common example of a *polyhalogen compound* used as solvent?",
+        "options": [
+            "Chloroform (CHCl3)",
+            "Methane",
+            "Ethanol",
+            "Benzene"
+        ],
+        "answer": 0,
+        "explanation": "Polyhalogenated haloalkanes like CHCl3 are solvents."
+    },
+    {
+        "id": 47,
+        "question": "Which reagent will replace halogen with CN in R-X?",
+        "options": [
+            "NaCN",
+            "H2O",
+            "NaOH(aq)",
+            "Zn"
+        ],
+        "answer": 0,
+        "explanation": "CN− acts as nucleophile in substitution."
+    },
+    {
+        "id": 48,
+        "question": "Which haloalkane is likely to form a carbocation intermediate?",
+        "options": [
+            "tert-Butyl chloride",
+            "methyl chloride",
+            "1-Chloropropane",
+            "Vinyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "Tertiary carbocations are stable intermediates for SN1."
+    },
+    {
+        "id": 49,
+        "question": "Which of the following undergoes dehydrohalogenation to give alkene under basic conditions?",
+        "options": [
+            "CH3CHBrCH3",
+            "CH3CH2Cl",
+            "C6H5Cl",
+            "CH3Cl"
+        ],
+        "answer": 0,
+        "explanation": "Secondary haloalkanes eliminate HX to form alkenes."
+    },
+    {
+        "id": 50,
+        "question": "Which halide is most reactive in nucleophilic substitution?",
+        "options": [
+            "CH3I",
+            "CH3Br",
+            "CH3Cl",
+            "CH3F"
+        ],
+        "answer": 0,
+        "explanation": "Iodides leave most easily due to weakest C-I bond."
+    },
+    {
+        "id": 51,
+        "question": "In haloalkanes, halogen is bonded to carbon of which hybridization?",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "none"
+        ],
+        "answer": 2,
+        "explanation": "Haloalkanes have halogen on sp3 C."
+    },
+    {
+        "id": 52,
+        "question": "Which halide is expected to show least SN2 reactivity?",
+        "options": [
+            "CH3Cl",
+            "CH3Br",
+            "CH3I",
+            "tert-Butyl chloride"
+        ],
+        "answer": 3,
+        "explanation": "Tertiary haloalkanes are sterically hindered and show low SN2."
+    },
+    {
+        "id": 53,
+        "question": "Which of the following is an *aryl halide*?",
+        "options": [
+            "C6H5Cl",
+            "CH3CH2Cl",
+            "BrCH2CH3",
+            "CH3Cl"
+        ],
+        "answer": 0,
+        "explanation": "Aryl halide has halogen attached directly to aromatic ring."
+    },
+    {
+        "id": 54,
+        "question": "Which reagent replaces halogen with OH in aromatic ring via nucleophilic substitution?",
+        "options": [
+            "Hot aq. KOH",
+            "HCl",
+            "Zn/HCl",
+            "H2/Pd"
+        ],
+        "answer": 0,
+        "explanation": "Harsh conditions (hot aq. base) substitute Cl in haloarenes."
+    },
+    {
+        "id": 55,
+        "question": "Which haloalkane yields alkene upon heating with alcoholic KOH?",
+        "options": [
+            "CH3CHBrCH3",
+            "CH3CH2Br",
+            "CH3Cl",
+            "C6H5Cl"
+        ],
+        "answer": 0,
+        "explanation": "Secondary haloalkane eliminates HX to give alkene."
+    },
+    {
+        "id": 56,
+        "question": "Which of the following is least reactive in SN1 reaction?",
+        "options": [
+            "tert-Butyl chloride",
+            "C6H5CH2Cl",
+            "1-Chloropropane",
+            "Benzyl chloride"
+        ],
+        "answer": 2,
+        "explanation": "Primary haloalkanes form unstable carbocations."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following is an example of heterolytic cleavage?",
+        "options": [
+            "C-Br bond breaking to give Br- and carbocation",
+            "C-C bond homolysis",
+            "Cl2 splitting to radicals",
+            "None"
+        ],
+        "answer": 0,
+        "explanation": "SN1 mechanism involves heterolytic C-X bond cleavage."
+    },
+    {
+        "id": 58,
+        "question": "Which haloalkane upon reaction with Zn and dry ether yields Wurtz product?",
+        "options": [
+            "CH3Cl",
+            "CH3Br",
+            "Both",
+            "Neither"
+        ],
+        "answer": 2,
+        "explanation": "Wurtz coupling uses alkyl halides with sodium (or Zn in some variants)."
+    },
+    {
+        "id": 59,
+        "question": "Which factor does *not* affect SN2 reaction rate?",
+        "options": [
+            "Nature of substrate",
+            "Strength of nucleophile",
+            "Leaving group ability",
+            "Solubility of product"
+        ],
+        "answer": 3,
+        "explanation": "Product solubility doesn’t affect SN2 rate directly."
+    },
+    {
+        "id": 60,
+        "question": "Which reaction involves backside attack on carbon bearing halogen?",
+        "options": [
+            "SN1",
+            "SN2",
+            "E1",
+            "E2"
+        ],
+        "answer": 1,
+        "explanation": "SN2 proceeds with backside attack causing inversion of configuration."
+    },
+    {
+        "id": 61,
+        "question": "The IUPAC name of $$CH_3CH(Br)CH_2CH_3$$ is:",
+        "options": [
+            "1-Bromobutane",
+            "2-Bromobutane",
+            "1-Bromopropane",
+            "2-Bromopropane"
+        ],
+        "answer": 1,
+        "explanation": "The substituent Br is on carbon-2 in the straight chain, giving 2-Bromobutane."
+    },
+    {
+        "id": 62,
+        "question": "Which of the following is an example of a *voltage effect* that favors anti-Markovnikov addition?",
+        "options": [
+            "Peroxides in addition of HBr",
+            "Heat with KOH(aq)",
+            "Light with Br2",
+            "Cold conditions"
+        ],
+        "answer": 0,
+        "explanation": "Peroxides cause the peroxide effect, leading to anti-Markovnikov addition of HBr to alkenes."
+    },
+    {
+        "id": 63,
+        "question": "Which reaction mechanism involves a *backside attack*?",
+        "options": [
+            "SN1",
+            "SN2",
+            "E1",
+            "E1cB"
+        ],
+        "answer": 1,
+        "explanation": "The SN2 mechanism proceeds by a backside attack, leading to inversion of configuration."
+    },
+    {
+        "id": 64,
+        "question": "Which is *not* a typical characteristic of haloarenes?",
+        "options": [
+            "Undergo SN2 easily",
+            "Bonded halogen to sp2 carbon",
+            "Less reactive than haloalkanes",
+            "Require harsh conditions for substitution"
+        ],
+        "answer": 0,
+        "explanation": "Haloarenes do *not* undergo SN2 easily due to resonance stabilization of the C-X bond."
+    },
+    {
+        "id": 65,
+        "question": "Which of the following is a *tertiary haloalkane*?",
+        "options": [
+            "(CH_3)_3CBr",
+            "CH_3CH_2Br",
+            "CH_3CH(Br)CH_3",
+            "C6H5CH2Br"
+        ],
+        "answer": 0,
+        "explanation": "In (CH3)3CBr the carbon bearing Br is attached to three other carbons."
+    },
+    {
+        "id": 66,
+        "question": "Which reagent converts alcohols to haloalkanes with inversion of configuration?",
+        "options": [
+            "PCl_5",
+            "SOCl_2 + pyridine",
+            "HCl / ZnCl_2",
+            "Br_2 / hv"
+        ],
+        "answer": 1,
+        "explanation": "SOCl2 with a base like pyridine converts alcohols to chloroalkanes with inversion."
+    },
+    {
+        "id": 67,
+        "question": "Which of these halogen substituents is *most reactive in SN1*?",
+        "options": [
+            "CH_3Cl",
+            "CH_3Br",
+            "CH_3I",
+            "CH_3F"
+        ],
+        "answer": 2,
+        "explanation": "Iodides are best leaving groups, making SN1 easier."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is an *aryl halide*?",
+        "options": [
+            "C_6H_5Cl",
+            "CH_3CH_2Cl",
+            "CH_2Br_2",
+            "C_2H_5Br"
+        ],
+        "answer": 0,
+        "explanation": "Aryl halides have the halogen directly on the aromatic ring carbon."
+    },
+    {
+        "id": 69,
+        "question": "Which reagent is needed for the Wurtz reaction?",
+        "options": [
+            "Sodium in dry ether",
+            "H_2/Pd",
+            "KOH(aq)",
+            "HBr"
+        ],
+        "answer": 0,
+        "explanation": "The Wurtz reaction uses sodium in dry ether to couple two alkyl halides."
+    },
+    {
+        "id": 70,
+        "question": "Which of the following undergoes *E2 elimination* readily?",
+        "options": [
+            "tert-Butyl bromide with alcoholic KOH",
+            "Methyl chloride with aqueous KOH",
+            "Chlorobenzene with water",
+            "Vinyl chloride with cold base"
+        ],
+        "answer": 0,
+        "explanation": "E2 elimination is favored with a strong base and β-hydrogen."
+    },
+    {
+        "id": 71,
+        "question": "Which of these is a *geminal dihalide*?",
+        "options": [
+            "CH2Cl-CH2Cl",
+            "CHCl2-CH3",
+            "CH3CH2Cl",
+            "CCl4"
+        ],
+        "answer": 1,
+        "explanation": "A geminal dihalide has two halogen atoms on the same carbon."
+    },
+    {
+        "id": 72,
+        "question": "The mechanism in which a carbocation intermediate is formed is:",
+        "options": [
+            "SN2",
+            "SN1",
+            "E2",
+            "Free radical substitution"
+        ],
+        "answer": 1,
+        "explanation": "SN1 reactions proceed via a carbocation intermediate."
+    },
+    {
+        "id": 73,
+        "question": "Which of the following will give an *alcohol* when hydrolyzed with aq. KOH?",
+        "options": [
+            "CH3Br",
+            "C6H5Br",
+            "CH2=CHBr",
+            "CH3CHBrCH3"
+        ],
+        "answer": 0,
+        "explanation": "Hydrolysis of alkyl halides produces alcohols."
+    },
+    {
+        "id": 74,
+        "question": "Fluorobenzene differs from other haloarenes in that it is:",
+        "options": [
+            "More reactive in SN1",
+            "Most reactive in SN2",
+            "Less reactive generally",
+            "Soluble in water"
+        ],
+        "answer": 2,
+        "explanation": "Fluorobenzene shows low reactivity due to strong C-F bonding and resonance."
+    },
+    {
+        "id": 75,
+        "question": "Which type of carbon immediately attached to X in haloalkanes is sp3 hybridized?",
+        "options": [
+            "Aryl",
+            "Alkyl",
+            "Vinyl",
+            "All of the above"
+        ],
+        "answer": 1,
+        "explanation": "Haloalkanes contain halogen on sp3 carbon whereas vinyl/aromatic cases differ."
+    },
+    {
+        "id": 76,
+        "question": "Which product is formed by elimination of HBr from 2-bromobutane with alcoholic KOH?",
+        "options": [
+            "But-1-ene",
+            "But-2-ene",
+            "Butane",
+            "1-Bromobutane"
+        ],
+        "answer": 1,
+        "explanation": "β-elimination produces the more substituted alkene (Zaitsev’s rule)."
+    },
+    {
+        "id": 77,
+        "question": "Which reagent does NOT typically replace -OH with -Cl?",
+        "options": [
+            "PCl5",
+            "SOCl2",
+            "PBr3",
+            "HCl/ZnCl2"
+        ],
+        "answer": 2,
+        "explanation": "PBr3 replaces -OH with Br, not chlorine."
+    },
+    {
+        "id": 78,
+        "question": "Benzyl chloride on reaction with NaCN gives:",
+        "options": [
+            "Benzyl cyanide",
+            "Benzoic acid",
+            "Phenol",
+            "Benzene"
+        ],
+        "answer": 0,
+        "explanation": "CN− substitutes halogen forming benzyl cyanide."
+    },
+    {
+        "id": 79,
+        "question": "Which reagent is used to prepare alkyl fluorides from alcohols?",
+        "options": [
+            "HF/P2O5",
+            "HCl",
+            "HBr",
+            "HI"
+        ],
+        "answer": 0,
+        "explanation": "HF/P2O5 converts alcohols to alkyl fluorides."
+    },
+    {
+        "id": 80,
+        "question": "Which process describes the Wurtz reaction?",
+        "options": [
+            "Coupling of alkyl halides",
+            "Elimination of HX",
+            "Hydrohalogenation of alkenes",
+            "Free radical bromination"
+        ],
+        "answer": 0,
+        "explanation": "The Wurtz reaction couples two alkyl halides to form a higher alkane."
+    },
+    {
+        "id": 81,
+        "question": "When phenyl chloride reacts with hot alkali, it forms:",
+        "options": [
+            "Phenol",
+            "Chlorobenzene",
+            "Benzene",
+            "Aniline"
+        ],
+        "answer": 0,
+        "explanation": "Under harsh conditions haloarenes can be converted to phenols."
+    },
+    {
+        "id": 82,
+        "question": "The general formula of haloalkanes is:",
+        "options": [
+            "C_nH_{2n+2}X",
+            "C_nH_{2n}X",
+            "C_nH_{2n−2}X",
+            "C_nH_{2n+1}X"
+        ],
+        "answer": 0,
+        "explanation": "Haloalkanes are derived from alkanes with one H replaced."
+    },
+    {
+        "id": 83,
+        "question": "Which of these is educationally classified as a *vinyl halide*?",
+        "options": [
+            "CH2=CHCl",
+            "C6H5Cl",
+            "CH3Br",
+            "CH2Br2"
+        ],
+        "answer": 0,
+        "explanation": "Vinyl halides have halogen on an sp-hybridized carbon of C=C."
+    },
+    {
+        "id": 84,
+        "question": "Which halide is most easily eliminated to give an alkene?",
+        "options": [
+            "tert-Butyl bromide",
+            "Methyl chloride",
+            "Vinyl chloride",
+            "Chlorobenzene"
+        ],
+        "answer": 0,
+        "explanation": "Tertiary haloalkanes easily undergo elimination."
+    },
+    {
+        "id": 85,
+        "question": "Which process converts haloalkanes to hydrocarbons?",
+        "options": [
+            "Reduction with Zn/HCl",
+            "Hydrolysis with NaOH(aq)",
+            "Reaction with NaCN",
+            "Addition to alkenes"
+        ],
+        "answer": 0,
+        "explanation": "Reduction removes halogen to give hydrocarbon."
+    },
+    {
+        "id": 86,
+        "question": "What is the common name of (CH₃)₂CHCl?",
+        "options": [
+            "Isopropyl chloride",
+            "Ethyl chloride",
+            "Methyl chloride",
+            "n-Propyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "(CH₃)₂CHCl is isopropyl chloride, a common name for 2-chloropropane."
+    },
+    {
+        "id": 87,
+        "question": "Which of the following is an example of **vinyl halide**?",
+        "options": [
+            "CH₂=CHCl",
+            "C₆H₅CH₂Cl",
+            "CH₃CH₂Cl",
+            "CH₂Br₂"
+        ],
+        "answer": 0,
+        "explanation": "Vinyl halides have halogen directly bonded to a carbon of a double bond."
+    },
+    {
+        "id": 88,
+        "question": "Which of the following reagents is most suitable for preparing alkyl fluorides from alcohols?",
+        "options": [
+            "HF/P₂O₅",
+            "PCl₅",
+            "HBr",
+            "HCl"
+        ],
+        "answer": 0,
+        "explanation": "Alcohols react with HF/P₂O₅ to form alkyl fluorides."
+    },
+    {
+        "id": 89,
+        "question": "Which of the following is NOT correct about haloarenes?",
+        "options": [
+            "More reactive in SN2 than haloalkanes",
+            "Halogen attached to sp² carbon",
+            "Less reactive towards nucleophilic substitution",
+            "Require harsh conditions for substitution"
+        ],
+        "answer": 0,
+        "explanation": "Haloarenes do *not* undergo SN2 easily due to resonance and sp2 hybridization."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following is a **benzyl halide**?",
+        "options": [
+            "C₆H₅CH₂Cl",
+            "C₆H₅Cl",
+            "CH₃CH₂Br",
+            "CH₃CH₂CH₂Cl"
+        ],
+        "answer": 0,
+        "explanation": "Benzyl halides have halogen on the carbon adjacent to the aromatic ring."
+    },
+    {
+        "id": 91,
+        "question": "What is the IUPAC name of CH₂Cl₂?",
+        "options": [
+            "Dichloromethane",
+            "Chloromethane",
+            "Methane dichloride",
+            "Methylene chloride"
+        ],
+        "answer": 0,
+        "explanation": "CH₂Cl₂ is systematically named dichloromethane."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following undergoes nucleophilic substitution by **SN1** mechanism preferentially?",
+        "options": [
+            "Benzyl chloride",
+            "Ethyl chloride",
+            "Chlorobenzene",
+            "Methyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "Benzyl carbocation is stabilized by resonance, favoring SN1."
+    },
+    {
+        "id": 93,
+        "question": "Which haloalkane on elimination with alcoholic KOH gives predominantly but-2-ene?",
+        "options": [
+            "2-Bromobutane",
+            "1-Bromobutane",
+            "tert-Butyl chloride",
+            "Chlorobenzene"
+        ],
+        "answer": 0,
+        "explanation": "Elimination from 2-bromobutane follows Zaitsev’s rule to give but-2-ene."
+    },
+    {
+        "id": 94,
+        "question": "Which of the following reacts fastest with aqueous AgNO₃ to give a precipitate?",
+        "options": [
+            "CH₃I",
+            "CH₃Br",
+            "CH₃Cl",
+            "CH₃F"
+        ],
+        "answer": 0,
+        "explanation": "Iodides form AgI precipitate fastest due to better leaving ability."
+    },
+    {
+        "id": 95,
+        "question": "Which reagent is used in Grignard reagent preparation?",
+        "options": [
+            "Dry ether",
+            "Alcoholic KOH",
+            "Aqueous NaOH",
+            "Conc. HCl"
+        ],
+        "answer": 0,
+        "explanation": "Grignard reagents are prepared in dry ether."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following is a **polyhalogen compound** often used as solvent?",
+        "options": [
+            "Chloroform (CHCl₃)",
+            "Ethanol",
+            "Cyclohexane",
+            "Acetone"
+        ],
+        "answer": 0,
+        "explanation": "Chloroform is a polyhalogenated haloalkane solvent."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following conditions does NOT favor SN1 reactions?",
+        "options": [
+            "Polar protic solvents",
+            "Tertiary haloalkanes",
+            "Strong nucleophiles",
+            "Stable carbocation"
+        ],
+        "answer": 2,
+        "explanation": "SN1 is favored by weak nucleophiles; strong nucleophiles favor SN2."
+    },
+    {
+        "id": 98,
+        "question": "Which of these compounds is least reactive towards **SN2**?",
+        "options": [
+            "CH₃Cl",
+            "CH₃Br",
+            "CH₃I",
+            "tert-Butyl chloride"
+        ],
+        "answer": 3,
+        "explanation": "Steric hindrance in tertiary haloalkanes hinders SN2."
+    },
+    {
+        "id": 99,
+        "question": "In haloalkanes, the carbon attached to the halogen is always:",
+        "options": [
+            "sp3 hybridized",
+            "sp2 hybridized",
+            "sp hybridized",
+            "sp3d"
+        ],
+        "answer": 0,
+        "explanation": "Haloalkanes have sp³ carbon bonded to halogen."
+    },
+    {
+        "id": 100,
+        "question": "Which of the following haloalkanes on reaction with NaCN gives a nitrile?",
+        "options": [
+            "CH₃Br + NaCN",
+            "C₆H₅Br + NaCN",
+            "CH₂=CHCl + NaCN",
+            "Chlorobenzene + NaCN"
+        ],
+        "answer": 0,
+        "explanation": "Alkyl halides react with CN− to form nitriles."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following does NOT undergo **SN2** under normal conditions?",
+        "options": [
+            "Methyl chloride",
+            "1-Bromopropane",
+            "Chlorobenzene",
+            "CH₃CH₂Br"
+        ],
+        "answer": 2,
+        "explanation": "Nucleophilic substitution on haloarenes under normal conditions is difficult."
+    },
+    {
+        "id": 102,
+        "question": "Which of the following haloalkanes gives predominantly an **ether** with sodium ethoxide?",
+        "options": [
+            "CH₃Br",
+            "2-Bromopropane",
+            "1-Chlorobutane",
+            "Chlorobenzene"
+        ],
+        "answer": 0,
+        "explanation": "SN2 reaction with alkoxide gives the corresponding ether."
+    },
+    {
+        "id": 103,
+        "question": "Which reagent will replace halogen with OH in aromatic ring under harsh conditions?",
+        "options": [
+            "Hot aqueous KOH",
+            "Cold aq. NaOH",
+            "NaBH₄",
+            "LiAlH₄"
+        ],
+        "answer": 0,
+        "explanation": "Harsh base conditions can substitute Cl in haloarenes with OH."
+    },
+    {
+        "id": 104,
+        "question": "In haloalkane nomenclature, which type of halide has two halogens on adjacent carbons?",
+        "options": [
+            "Geminal dihalide",
+            "Vicinal dihalide",
+            "Polyhalide",
+            "Isohalide"
+        ],
+        "answer": 1,
+        "explanation": "Vicinal dihalides have halogens on adjacent carbons."
+    },
+    {
+        "id": 105,
+        "question": "Which of the following will undergo elimination to form an alkene?",
+        "options": [
+            "tert-Butyl bromide with alcoholic KOH",
+            "Methyl chloride with water",
+            "Vinyl chloride with cold base",
+            "Chlorobenzene with aq. base"
+        ],
+        "answer": 0,
+        "explanation": "Elimination reactions are common with tertiary haloalkanes and strong bases."
+    },
+    {
+        "id": 106,
+        "question": "Which halogen has the strongest C-X bond in haloalkanes?",
+        "options": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ],
+        "answer": 0,
+        "explanation": "Carbon-fluorine bonds are strongest due to high electronegativity."
+    },
+    {
+        "id": 107,
+        "question": "Which of the following is *not* a typical reagent to convert alcohols into haloalkanes?",
+        "options": [
+            "PCl₅",
+            "SOCl₂",
+            "HBr",
+            "NaOH(aq)"
+        ],
+        "answer": 3,
+        "explanation": "Aqueous NaOH does not convert alcohol into haloalkane directly."
+    },
+    {
+        "id": 108,
+        "question": "Which of the following is an *allylic halide*?",
+        "options": [
+            "CH₂=CH-CH₂Br",
+            "CH₃CH₂Br",
+            "CH₃CHBrCH₃",
+            "C₆H₅Br"
+        ],
+        "answer": 0,
+        "explanation": "Allylic halides have halogen on carbon next to a double bond."
+    },
+    {
+        "id": 109,
+        "question": "Which of the following is true about haloalkanes’ boiling points?",
+        "options": [
+            "Increase with molecular mass",
+            "Decrease with molecular mass",
+            "Independent of molecular mass",
+            "All are gases"
+        ],
+        "answer": 0,
+        "explanation": "Haloalkanes’ boiling points increase with molecular mass due to London forces."
+    },
+    {
+        "id": 110,
+        "question": "Which halide yields a **Grignard reagent** with Mg in dry ether?",
+        "options": [
+            "Alkyl halide",
+            "Aryl halide",
+            "Vinyl halide",
+            "All of the above"
+        ],
+        "answer": 0,
+        "explanation": "Grignard reagents are typically formed from alkyl halides in dry ether."
+    },
+    {
+        "id": 111,
+        "question": "Which of these reacts fastest in SN2?",
+        "options": [
+            "CH₃I",
+            "CH₃Br",
+            "CH₃Cl",
+            "CH₃F"
+        ],
+        "answer": 0,
+        "explanation": "Iodides have the best leaving group ability in SN2."
+    },
+    {
+        "id": 112,
+        "question": "Which of the following reagents is used to test for halide ions by precipitating AgX?",
+        "options": [
+            "AgNO₃",
+            "BaCl₂",
+            "FeCl₃",
+            "Tollens’ reagent"
+        ],
+        "answer": 0,
+        "explanation": "AgNO₃ precipitates AgX with halide ions."
+    },
+    {
+        "id": 113,
+        "question": "Which haloalkane is most likely to undergo **E1** elimination?",
+        "options": [
+            "tert-Butyl chloride",
+            "Methyl chloride",
+            "1-Chloropropane",
+            "Vinyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "E1 is favored with tertiary substrates."
+    },
+    {
+        "id": 114,
+        "question": "Which of the following is not a haloalkane or haloarene?",
+        "options": [
+            "C₆H₅Cl",
+            "CH₃Cl",
+            "CH₃OH",
+            "CH₂Br₂"
+        ],
+        "answer": 2,
+        "explanation": "CH₃OH is an alcohol, not a halo compound."
+    },
+    {
+        "id": 115,
+        "question": "Which effective reagent forms ethers from haloalkanes?",
+        "options": [
+            "RO⁻",
+            "H₂O",
+            "Dil. HCl",
+            "O₂"
+        ],
+        "answer": 0,
+        "explanation": "Alkoxide ion can attack haloalkanes to form ethers."
+    },
+    {
+        "id": 116,
+        "question": "Which hybridization does the carbon attached to halogen have in haloalkanes?",
+        "options": [
+            "sp",
+            "sp2",
+            "sp3",
+            "none"
+        ],
+        "answer": 2,
+        "explanation": "Haloalkanes have halogen on sp³ carbon."
+    },
+    {
+        "id": 117,
+        "question": "What is the product when CH₃CH₂Br reacts with NaOH (aq)?",
+        "options": [
+            "Ethanol",
+            "Ethene",
+            "Ethane",
+            "Diethyl ether"
+        ],
+        "answer": 0,
+        "explanation": "Hydrolysis yields ethanol from ethyl bromide."
+    },
+    {
+        "id": 118,
+        "question": "Which haloarene reacts with hot NaOH to form phenol?",
+        "options": [
+            "Chlorobenzene",
+            "Bromobenzene",
+            "Fluorobenzene",
+            "Iodobenzene"
+        ],
+        "answer": 0,
+        "explanation": "Chlorobenzene can be converted to phenol under harsh conditions."
+    },
+    {
+        "id": 119,
+        "question": "Which reagent is used for **free radical halogenation** of alkanes?",
+        "options": [
+            "Cl₂ / hv",
+            "NaOH(aq)",
+            "Pd/H₂",
+            "SOCl₂"
+        ],
+        "answer": 0,
+        "explanation": "Free radical halogenation uses halogen with light/heat."
+    },
+    {
+        "id": 120,
+        "question": "Which of the following is a *vicinal dihalide*?",
+        "options": [
+            "CHCl₂-CHCl₂",
+            "CH₂Cl-CH₃",
+            "CH₃CH₂Cl",
+            "C₆H₅Cl"
+        ],
+        "answer": 0,
+        "explanation": "Vicinal dihalide has halogens on adjacent carbons."
+    },
+    {
+        "id": 121,
+        "question": "Which haloalkane can form stable carbocation readily aiding SN1?",
+        "options": [
+            "tert-Butyl chloride",
+            "CH₃Cl",
+            "CH₃CH₂Cl",
+            "Vinyl chloride"
+        ],
+        "answer": 0,
+        "explanation": "Tertiary carbocation is most stable."
+    },
+    {
+        "id": 122,
+        "question": "Which of the following alkanes upon chlorination can give optically active products?",
+        "options": [
+            "2-Butane",
+            "Propane",
+            "Butane",
+            "Methane"
+        ],
+        "answer": 0,
+        "explanation": "Chlorination of 2-butane can yield chiral chlorination products."
+    },
+    {
+        "id": 123,
+        "question": "Which halide is least reactive towards SN2?",
+        "options": [
+            "CH₃F",
+            "CH₃Cl",
+            "CH₃Br",
+            "CH₃I"
+        ],
+        "answer": 0,
+        "explanation": "Fluoride is a poor leaving group, reducing SN2."
+    },
+    {
+        "id": 124,
+        "question": "People practice **Haloalkanes & Haloarenes** MCQs because they are present in which exam section?",
+        "options": [
+            "Organic Chemistry - Reactions",
+            "Inorganic Chemistry",
+            "Physical Chemistry only",
+            "Mathematics"
+        ],
+        "answer": 0,
+        "explanation": "These MCQs are part of organic chemistry tests."
+    },
+    {
+        "id": 125,
+        "question": "Hot alcoholic KOH converts haloalkanes to:",
+        "options": [
+            "Alkenes",
+            "Alcohols",
+            "Alkanes",
+            "Ethers"
+        ],
+        "answer": 0,
+        "explanation": "Hot alcoholic KOH promotes elimination to alkenes."
+    }
+]

@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A car starts from rest and accelerates uniformly at 2 m/s^2. The distance covered in 5 s is:",
+        "options": [
+            "25 m",
+            "20 m",
+            "12.5 m",
+            "50 m"
+        ],
+        "answer": 0,
+        "explanation": "Using s = ut + (1/2)at^2 = 0 + (1/2)(2)(25) = 25 m."
+    },
+    {
+        "id": 2,
+        "question": "A particle moves in a circle of radius 2 m with speed 4 m/s. The centripetal acceleration is:",
+        "options": [
+            "2 m/s^2",
+            "4 m/s^2",
+            "8 m/s^2",
+            "16 m/s^2"
+        ],
+        "answer": 2,
+        "explanation": "a = v^2/r = 16/2 = 8 m/s^2."
+    },
+    {
+        "id": 3,
+        "question": "Two forces of 5 N each act at an angle of 60° between them. The resultant force is:",
+        "options": [
+            "5 N",
+            "10 N",
+            "8.66 N",
+            "7.5 N"
+        ],
+        "answer": 2,
+        "explanation": "R = √(F^2+F^2+2F^2cos60°) = √75 = 8.66 N."
+    },
+    {
+        "id": 4,
+        "question": "A block of mass 4 kg slides on a smooth surface with speed 5 m/s. Its kinetic energy is:",
+        "options": [
+            "25 J",
+            "50 J",
+            "62.5 J",
+            "100 J"
+        ],
+        "answer": 3,
+        "explanation": "KE = (1/2)mv^2 = 0.5×4×25 = 50 J."
+    },
+    {
+        "id": 5,
+        "question": "A body of mass 2 kg is lifted vertically through 5 m. The work done against gravity (g = 10 m/s^2) is:",
+        "options": [
+            "50 J",
+            "100 J",
+            "150 J",
+            "200 J"
+        ],
+        "answer": 1,
+        "explanation": "Work = mgh = 2×10×5 = 100 J."
+    },
+    {
+        "id": 6,
+        "question": "The angular acceleration of a body rotating with angular velocity ω = 4t^2 rad/s is:",
+        "options": [
+            "8t rad/s^2",
+            "4t rad/s^2",
+            "8 rad/s^2",
+            "2t rad/s^2"
+        ],
+        "answer": 0,
+        "explanation": "α = dω/dt = 8t rad/s^2."
+    },
+    {
+        "id": 7,
+        "question": "The orbital velocity of a satellite close to Earth is proportional to:",
+        "options": [
+            "√(gR)",
+            "gR",
+            "√(g/R)",
+            "1/R"
+        ],
+        "answer": 0,
+        "explanation": "v = √(gR), hence proportional to √(gR)."
+    },
+    {
+        "id": 8,
+        "question": "The bulk modulus has the same dimensions as:",
+        "options": [
+            "Pressure",
+            "Force",
+            "Energy",
+            "Density"
+        ],
+        "answer": 0,
+        "explanation": "Bulk modulus = stress/strain, same dimension as pressure."
+    },
+    {
+        "id": 9,
+        "question": "The RMS speed of gas molecules is proportional to:",
+        "options": [
+            "√T",
+            "T",
+            "1/√T",
+            "1/T"
+        ],
+        "answer": 0,
+        "explanation": "v_rms = √(3RT/M) ∝ √T."
+    },
+    {
+        "id": 10,
+        "question": "In an adiabatic process for ideal gas, which remains constant?",
+        "options": [
+            "TV^(γ−1)",
+            "PV",
+            "T/P",
+            "V/T"
+        ],
+        "answer": 0,
+        "explanation": "For adiabatic process, TV^(γ−1) = constant."
+    },
+    {
+        "id": 11,
+        "question": "The potential energy of a spring compressed by x is:",
+        "options": [
+            "(1/2)kx^2",
+            "kx",
+            "kx^2",
+            "2kx^2"
+        ],
+        "answer": 0,
+        "explanation": "Spring PE = (1/2)kx^2."
+    },
+    {
+        "id": 12,
+        "question": "A simple pendulum has time period 2 s. Its frequency is:",
+        "options": [
+            "0.5 Hz",
+            "1 Hz",
+            "2 Hz",
+            "4 Hz"
+        ],
+        "answer": 0,
+        "explanation": "f = 1/T = 1/2 = 0.5 Hz."
+    },
+    {
+        "id": 13,
+        "question": "The speed of transverse waves on a string depends on:",
+        "options": [
+            "Tension",
+            "Mass of string",
+            "Amplitude",
+            "Frequency"
+        ],
+        "answer": 0,
+        "explanation": "v = √(T/μ), depends on tension."
+    },
+    {
+        "id": 14,
+        "question": "Electric potential at a distance r from a point charge q is:",
+        "options": [
+            "kq/r",
+            "kq/r^2",
+            "qr",
+            "q/r^3"
+        ],
+        "answer": 0,
+        "explanation": "V = kq/r."
+    },
+    {
+        "id": 15,
+        "question": "If the electric field is zero, the electric potential is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Infinite",
+            "Negative"
+        ],
+        "answer": 0,
+        "explanation": "Zero field implies constant potential."
+    },
+    {
+        "id": 16,
+        "question": "Capacitance of an isolated spherical conductor of radius R is:",
+        "options": [
+            "4πε0R",
+            "ε0R",
+            "R/ε0",
+            "4πR"
+        ],
+        "answer": 0,
+        "explanation": "C = 4πε0R."
+    },
+    {
+        "id": 17,
+        "question": "Current through a conductor is doubled. Drift velocity becomes:",
+        "options": [
+            "Doubled",
+            "Halved",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "Drift velocity ∝ current, hence doubled."
+    },
+    {
+        "id": 18,
+        "question": "The resistivity of a conductor depends on:",
+        "options": [
+            "Material",
+            "Length",
+            "Area",
+            "Shape"
+        ],
+        "answer": 0,
+        "explanation": "Resistivity is a material property."
+    },
+    {
+        "id": 19,
+        "question": "Magnetic field at the center of a long straight current-carrying conductor is:",
+        "options": [
+            "μ0I/2πr",
+            "μ0Ir/2π",
+            "μ0I/r^2",
+            "μ0I"
+        ],
+        "answer": 0,
+        "explanation": "B = μ0I/2πr."
+    },
+    {
+        "id": 20,
+        "question": "Force between two parallel current-carrying conductors is:",
+        "options": [
+            "Attractive if currents are same",
+            "Always repulsive",
+            "Zero",
+            "Independent of current"
+        ],
+        "answer": 0,
+        "explanation": "Same direction currents attract."
+    },
+    {
+        "id": 21,
+        "question": "Self-inductance of a coil depends on:",
+        "options": [
+            "Number of turns",
+            "Current",
+            "Voltage",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "L ∝ N^2."
+    },
+    {
+        "id": 22,
+        "question": "Inductive reactance in AC circuit is:",
+        "options": [
+            "ωL",
+            "1/ωC",
+            "R",
+            "ωC"
+        ],
+        "answer": 0,
+        "explanation": "XL = ωL."
+    },
+    {
+        "id": 23,
+        "question": "In AC circuit, RMS value of current is:",
+        "options": [
+            "I0/√2",
+            "I0",
+            "√2 I0",
+            "I0/2"
+        ],
+        "answer": 0,
+        "explanation": "Irms = I0/√2."
+    },
+    {
+        "id": 24,
+        "question": "Power dissipated in pure capacitor connected to AC source is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Average power in capacitor is zero."
+    },
+    {
+        "id": 25,
+        "question": "The image formed by convex lens for object beyond 2F is:",
+        "options": [
+            "Real, inverted, diminished",
+            "Virtual",
+            "Erect",
+            "Magnified"
+        ],
+        "answer": 0,
+        "explanation": "Convex lens forms real diminished image beyond 2F."
+    },
+    {
+        "id": 26,
+        "question": "Refractive index of medium is defined as:",
+        "options": [
+            "c/v",
+            "v/c",
+            "sin i/sin r",
+            "Both A and C"
+        ],
+        "answer": 3,
+        "explanation": "Refractive index n = c/v = sin i/sin r."
+    },
+    {
+        "id": 27,
+        "question": "The condition for constructive interference is:",
+        "options": [
+            "Path difference = nλ",
+            "nλ/2",
+            "λ/4",
+            "Zero always"
+        ],
+        "answer": 0,
+        "explanation": "Constructive interference when Δx = nλ."
+    },
+    {
+        "id": 28,
+        "question": "Stopping potential in photoelectric effect depends on:",
+        "options": [
+            "Frequency of light",
+            "Intensity",
+            "Time",
+            "Area"
+        ],
+        "answer": 0,
+        "explanation": "Stopping potential depends on frequency."
+    },
+    {
+        "id": 29,
+        "question": "The minimum energy required to emit photoelectron is:",
+        "options": [
+            "Work function",
+            "Threshold frequency",
+            "Photon energy",
+            "Kinetic energy"
+        ],
+        "answer": 0,
+        "explanation": "Minimum energy equals work function."
+    },
+    {
+        "id": 30,
+        "question": "De Broglie wavelength of electron accelerated through V volts is proportional to:",
+        "options": [
+            "1/√V",
+            "√V",
+            "V",
+            "1/V"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/√(2meV) ∝ 1/√V."
+    },
+    {
+        "id": 31,
+        "question": "Radioactive decay follows:",
+        "options": [
+            "Exponential law",
+            "Linear law",
+            "Quadratic law",
+            "Logarithmic law"
+        ],
+        "answer": 0,
+        "explanation": "Decay follows N = N0e^(−λt)."
+    },
+    {
+        "id": 32,
+        "question": "Binding energy per nucleon is maximum for:",
+        "options": [
+            "Iron",
+            "Uranium",
+            "Hydrogen",
+            "Helium"
+        ],
+        "answer": 0,
+        "explanation": "Iron has maximum binding energy per nucleon."
+    },
+    {
+        "id": 33,
+        "question": "Energy of a photon is given by:",
+        "options": [
+            "hν",
+            "hc",
+            "h/λ",
+            "Both A and C"
+        ],
+        "answer": 3,
+        "explanation": "E = hν = hc/λ."
+    },
+    {
+        "id": 34,
+        "question": "Intrinsic semiconductor at room temperature behaves as:",
+        "options": [
+            "Insulator",
+            "Conductor",
+            "Semiconductor",
+            "Superconductor"
+        ],
+        "answer": 2,
+        "explanation": "Intrinsic semiconductor has limited conductivity."
+    },
+    {
+        "id": 35,
+        "question": "p-n junction diode allows current in:",
+        "options": [
+            "One direction",
+            "Both directions",
+            "No direction",
+            "Alternating direction"
+        ],
+        "answer": 0,
+        "explanation": "Diode conducts only in forward bias."
+    },
+    {
+        "id": 36,
+        "question": "Rectifier converts:",
+        "options": [
+            "AC to DC",
+            "DC to AC",
+            "AC to AC",
+            "DC to DC"
+        ],
+        "answer": 0,
+        "explanation": "Rectifier converts AC to DC."
+    },
+    {
+        "id": 37,
+        "question": "The unit of Young’s modulus is:",
+        "options": [
+            "N/m^2",
+            "N",
+            "J",
+            "kg"
+        ],
+        "answer": 0,
+        "explanation": "Young’s modulus has unit of stress: N/m^2."
+    },
+    {
+        "id": 38,
+        "question": "If torque acting on a body is zero, angular momentum is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 0,
+        "explanation": "Zero torque implies conservation of angular momentum."
+    },
+    {
+        "id": 39,
+        "question": "The dimensional formula of gravitational constant G is:",
+        "options": [
+            "M−1L^3T−2",
+            "ML^3T−2",
+            "M−2L^3T−2",
+            "MLT−2"
+        ],
+        "answer": 0,
+        "explanation": "From F = Gm1m2/r^2, G = M−1L^3T−2."
+    },
+    {
+        "id": 40,
+        "question": "Time period of satellite near Earth is independent of:",
+        "options": [
+            "Mass of satellite",
+            "Radius of orbit",
+            "g",
+            "Earth radius"
+        ],
+        "answer": 0,
+        "explanation": "Orbital period does not depend on satellite mass."
+    },
+    {
+        "id": 41,
+        "question": "The efficiency of an engine can never be:",
+        "options": [
+            "100%",
+            "50%",
+            "60%",
+            "70%"
+        ],
+        "answer": 0,
+        "explanation": "Second law forbids 100% efficiency."
+    },
+    {
+        "id": 42,
+        "question": "Sound waves are:",
+        "options": [
+            "Longitudinal",
+            "Transverse",
+            "Electromagnetic",
+            "Polarized"
+        ],
+        "answer": 0,
+        "explanation": "Sound waves in air are longitudinal."
+    },
+    {
+        "id": 43,
+        "question": "The unit of frequency is:",
+        "options": [
+            "Hz",
+            "rad/s",
+            "s",
+            "m/s"
+        ],
+        "answer": 0,
+        "explanation": "Frequency is measured in hertz."
+    },
+    {
+        "id": 44,
+        "question": "The phenomenon responsible for bending of light is:",
+        "options": [
+            "Refraction",
+            "Reflection",
+            "Diffraction",
+            "Interference"
+        ],
+        "answer": 0,
+        "explanation": "Bending of light occurs due to refraction."
+    },
+    {
+        "id": 45,
+        "question": "Momentum has the same dimensions as:",
+        "options": [
+            "Impulse",
+            "Force",
+            "Energy",
+            "Power"
+        ],
+        "answer": 0,
+        "explanation": "Impulse = change in momentum."
+    },
+    {
+        "id": 46,
+        "question": "If wavelength of radiation decreases, its energy:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 0,
+        "explanation": "E = hc/λ, so energy increases."
+    },
+    {
+        "id": 47,
+        "question": "The speed of light in a medium depends on:",
+        "options": [
+            "Refractive index",
+            "Frequency",
+            "Amplitude",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "v = c/n."
+    },
+    {
+        "id": 48,
+        "question": "Ohm’s law is valid when:",
+        "options": [
+            "Temperature is constant",
+            "Voltage is high",
+            "Resistance is zero",
+            "Current is zero"
+        ],
+        "answer": 0,
+        "explanation": "Ohm’s law holds at constant temperature."
+    },
+    {
+        "id": 49,
+        "question": "The SI unit of electric charge is:",
+        "options": [
+            "Coulomb",
+            "Ampere",
+            "Volt",
+            "Ohm"
+        ],
+        "answer": 0,
+        "explanation": "SI unit of charge is coulomb."
+    },
+    {
+        "id": 50,
+        "question": "In a vacuum, all electromagnetic waves travel with:",
+        "options": [
+            "Same speed",
+            "Different speeds",
+            "Zero speed",
+            "Infinite speed"
+        ],
+        "answer": 0,
+        "explanation": "All EM waves travel at speed c in vacuum."
+    }
+]

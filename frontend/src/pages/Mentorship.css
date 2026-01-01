@@ -1,0 +1,160 @@
+.mentorship-container {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.mentor-hero {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    padding: 60px 20px;
+    border-radius: 0 0 20px 20px;
+    margin-bottom: 40px;
+}
+
+.mentor-content h1 {
+    font-size: 2.5rem;
+    color: var(--primary-color);
+    margin-bottom: 10px;
+}
+
+.mentor-content h2 {
+    font-size: 1.5rem;
+    color: #444;
+    font-weight: 500;
+}
+
+.mentor-tagline {
+    font-size: 1.2rem;
+    color: #666;
+    margin: 15px 0;
+    font-weight: bold;
+}
+
+.mentor-bio {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    color: #333;
+}
+
+.mentor-details {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bold;
+    color: var(--secondary-color);
+    flex-wrap: wrap;
+}
+
+.light-bg {
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 40px 20px;
+    margin: 40px 0;
+}
+
+.three-col {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+}
+
+.subjects-grid {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.subject-card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    flex: 1;
+    min-width: 280px;
+    max-width: 400px;
+    text-align: left;
+    border-top: 4px solid var(--primary-color);
+}
+
+.subject-card h3 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+    font-size: 1.5rem;
+}
+
+.subject-card ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 15px;
+}
+
+.subject-card li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.subject-card.chemistry {
+    border-top-color: #e67e22;
+}
+
+.subject-card.chemistry h3 {
+    color: #e67e22;
+}
+
+.guidance-list {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.guidance-item {
+    font-size: 1.2rem;
+    padding: 10px;
+    background: white;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.guidance-item.highlight {
+    background: #fff3e0;
+    color: #e67e22;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cta-section-large {
+    background: var(--primary-color);
+    color: white;
+    padding: 60px 20px;
+    border-radius: 20px;
+    margin: 40px 0;
+}
+
+.cta-section-large h2 {
+    color: white;
+}
+
+.cta-options {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin: 30px 0;
+    flex-wrap: wrap;
+}
+
+.cta-box {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 250px;
+}
+
+.closing-statement {
+    margin-top: 40px;
+    font-size: 1.5rem;
+    font-style: italic;
+    opacity: 0.9;
+}

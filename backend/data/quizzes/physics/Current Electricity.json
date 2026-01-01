@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Electric current is defined as the rate of flow of:",
+        "options": [
+            "charge",
+            "energy",
+            "electrons only",
+            "potential"
+        ],
+        "answer": 0,
+        "explanation": "Electric current I = dQ/dt, rate of flow of charge."
+    },
+    {
+        "id": 2,
+        "question": "The SI unit of electric current is:",
+        "options": [
+            "coulomb",
+            "ampere",
+            "volt",
+            "ohm"
+        ],
+        "answer": 1,
+        "explanation": "The SI unit of current is ampere."
+    },
+    {
+        "id": 3,
+        "question": "One ampere of current corresponds to a flow of charge of:",
+        "options": [
+            "1 C s⁻¹",
+            "1 C",
+            "1 C s",
+            "1 C s²"
+        ],
+        "answer": 0,
+        "explanation": "By definition, 1 A = 1 C per second."
+    },
+    {
+        "id": 4,
+        "question": "The direction of conventional current is taken as the direction of flow of:",
+        "options": [
+            "electrons",
+            "positive charges",
+            "neutrons",
+            "ions only"
+        ],
+        "answer": 1,
+        "explanation": "By convention, current direction is that of positive charge flow."
+    },
+    {
+        "id": 5,
+        "question": "The drift velocity of electrons in a conductor is:",
+        "options": [
+            "very large",
+            "comparable to speed of light",
+            "very small",
+            "equal to thermal velocity"
+        ],
+        "answer": 2,
+        "explanation": "Drift velocity is very small compared to thermal speed."
+    },
+    {
+        "id": 6,
+        "question": "The relation between current I, charge density n, charge e, area A and drift velocity v_d is:",
+        "options": [
+            "I = neAv_d",
+            "I = nA/ev_d",
+            "I = ev_d/nA",
+            "I = nAev_d²"
+        ],
+        "answer": 0,
+        "explanation": "Current I = nqAv_d for charge carriers of charge e."
+    },
+    {
+        "id": 7,
+        "question": "The SI unit of drift velocity is:",
+        "options": [
+            "m s⁻¹",
+            "m s⁻²",
+            "m",
+            "s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Velocity has SI unit m s⁻¹."
+    },
+    {
+        "id": 8,
+        "question": "Ohm’s law is valid for conductors at:",
+        "options": [
+            "all temperatures",
+            "constant temperature",
+            "very high temperature",
+            "very low temperature only"
+        ],
+        "answer": 1,
+        "explanation": "Ohm’s law holds when physical conditions like temperature remain constant."
+    },
+    {
+        "id": 9,
+        "question": "Ohm’s law relates:",
+        "options": [
+            "current and resistance",
+            "voltage and resistance",
+            "current and voltage",
+            "power and voltage"
+        ],
+        "answer": 2,
+        "explanation": "Ohm’s law states V ∝ I or V = IR."
+    },
+    {
+        "id": 10,
+        "question": "The resistance of a conductor is defined as the ratio of:",
+        "options": [
+            "current to voltage",
+            "voltage to current",
+            "power to current",
+            "charge to time"
+        ],
+        "answer": 1,
+        "explanation": "Resistance R = V/I."
+    },
+    {
+        "id": 11,
+        "question": "The SI unit of resistance is:",
+        "options": [
+            "ampere",
+            "volt",
+            "ohm",
+            "watt"
+        ],
+        "answer": 2,
+        "explanation": "Resistance is measured in ohm."
+    },
+    {
+        "id": 12,
+        "question": "The resistance of a uniform conductor of length L and area A is:",
+        "options": [
+            "ρA/L",
+            "ρL/A",
+            "L/ρA",
+            "A/ρL"
+        ],
+        "answer": 1,
+        "explanation": "Resistance R = ρL/A."
+    },
+    {
+        "id": 13,
+        "question": "The SI unit of resistivity is:",
+        "options": [
+            "ohm m",
+            "ohm m⁻¹",
+            "ohm m²",
+            "ohm m⁻²"
+        ],
+        "answer": 0,
+        "explanation": "Resistivity has unit ohm metre."
+    },
+    {
+        "id": 14,
+        "question": "Resistivity of a material depends on:",
+        "options": [
+            "length",
+            "area",
+            "shape",
+            "nature of material"
+        ],
+        "answer": 3,
+        "explanation": "Resistivity is a material property."
+    },
+    {
+        "id": 15,
+        "question": "The reciprocal of resistivity is called:",
+        "options": [
+            "resistance",
+            "conductance",
+            "conductivity",
+            "current"
+        ],
+        "answer": 2,
+        "explanation": "Conductivity σ = 1/ρ."
+    },
+    {
+        "id": 16,
+        "question": "The SI unit of conductivity is:",
+        "options": [
+            "ohm m",
+            "S m⁻¹",
+            "ohm⁻¹",
+            "A V⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Conductivity is measured in siemens per metre."
+    },
+    {
+        "id": 17,
+        "question": "The temperature coefficient of resistance of a metal is generally:",
+        "options": [
+            "negative",
+            "zero",
+            "positive",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "For metals, resistance increases with temperature."
+    },
+    {
+        "id": 18,
+        "question": "The resistance of a metallic conductor increases with temperature because:",
+        "options": [
+            "number of electrons increases",
+            "drift velocity increases",
+            "lattice vibrations increase",
+            "charge on electrons increases"
+        ],
+        "answer": 2,
+        "explanation": "Increased lattice vibrations cause more collisions."
+    },
+    {
+        "id": 19,
+        "question": "The resistance of an alloy compared to pure metals is generally:",
+        "options": [
+            "smaller",
+            "zero",
+            "larger",
+            "same"
+        ],
+        "answer": 2,
+        "explanation": "Alloys have higher resistivity due to disorder."
+    },
+    {
+        "id": 20,
+        "question": "The resistance of a semiconductor with increase in temperature:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains constant",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Semiconductors have negative temperature coefficient."
+    },
+    {
+        "id": 21,
+        "question": "The combination of resistors connected end to end is called:",
+        "options": [
+            "parallel",
+            "series",
+            "mixed",
+            "closed"
+        ],
+        "answer": 1,
+        "explanation": "Resistors connected end to end form series combination."
+    },
+    {
+        "id": 22,
+        "question": "In a series combination of resistors, which quantity remains same?",
+        "options": [
+            "voltage",
+            "current",
+            "power",
+            "resistance"
+        ],
+        "answer": 1,
+        "explanation": "Same current flows through all resistors in series."
+    },
+    {
+        "id": 23,
+        "question": "The equivalent resistance of resistors in series is:",
+        "options": [
+            "product of resistances",
+            "reciprocal sum",
+            "sum of resistances",
+            "average resistance"
+        ],
+        "answer": 2,
+        "explanation": "R_eq = R1 + R2 + ..."
+    },
+    {
+        "id": 24,
+        "question": "In a parallel combination of resistors, which quantity remains same?",
+        "options": [
+            "current",
+            "resistance",
+            "voltage",
+            "power"
+        ],
+        "answer": 2,
+        "explanation": "Voltage across each branch is the same."
+    },
+    {
+        "id": 25,
+        "question": "The equivalent resistance of two resistors R1 and R2 in parallel is:",
+        "options": [
+            "R1 + R2",
+            "R1R2/(R1 + R2)",
+            "(R1 + R2)/2",
+            "R1 − R2"
+        ],
+        "answer": 1,
+        "explanation": "Parallel equivalent resistance is given by R1R2/(R1 + R2)."
+    },
+    {
+        "id": 26,
+        "question": "The equivalent resistance of resistors in parallel is always:",
+        "options": [
+            "greater than each",
+            "equal to each",
+            "less than the smallest",
+            "equal to sum"
+        ],
+        "answer": 2,
+        "explanation": "Parallel combination gives resistance less than smallest resistor."
+    },
+    {
+        "id": 27,
+        "question": "The electric power consumed in a circuit is given by:",
+        "options": [
+            "VI",
+            "V/I",
+            "I/V",
+            "IR"
+        ],
+        "answer": 0,
+        "explanation": "Electric power P = VI."
+    },
+    {
+        "id": 28,
+        "question": "The SI unit of electric power is:",
+        "options": [
+            "joule",
+            "volt",
+            "ampere",
+            "watt"
+        ],
+        "answer": 3,
+        "explanation": "Power is measured in watt."
+    },
+    {
+        "id": 29,
+        "question": "The electrical energy consumed is measured in:",
+        "options": [
+            "joule",
+            "watt",
+            "ampere",
+            "ohm"
+        ],
+        "answer": 0,
+        "explanation": "Electrical energy is measured in joule."
+    },
+    {
+        "id": 30,
+        "question": "The commercial unit of electrical energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "volt"
+        ],
+        "answer": 2,
+        "explanation": "Electrical energy for billing is measured in kilowatt-hour."
+    },
+    {
+        "id": 31,
+        "question": "1 kilowatt-hour is equal to:",
+        "options": [
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁵ J",
+            "360 J",
+            "36 J"
+        ],
+        "answer": 0,
+        "explanation": "1 kWh = 1000 × 3600 J = 3.6 × 10⁶ J."
+    },
+    {
+        "id": 32,
+        "question": "Joule’s law of heating states that heat produced is proportional to:",
+        "options": [
+            "I",
+            "V",
+            "I²Rt",
+            "V²t"
+        ],
+        "answer": 2,
+        "explanation": "Heat produced H = I²Rt."
+    },
+    {
+        "id": 33,
+        "question": "The heating effect of current is independent of:",
+        "options": [
+            "current",
+            "resistance",
+            "time",
+            "direction of current"
+        ],
+        "answer": 3,
+        "explanation": "Heating depends on magnitude, not direction of current."
+    },
+    {
+        "id": 34,
+        "question": "The emf of a source is defined as:",
+        "options": [
+            "potential difference across terminals",
+            "work done per unit charge by the source",
+            "current supplied by source",
+            "power of source"
+        ],
+        "answer": 1,
+        "explanation": "Emf is work done per unit charge by the source."
+    },
+    {
+        "id": 35,
+        "question": "The SI unit of emf is:",
+        "options": [
+            "ampere",
+            "ohm",
+            "volt",
+            "watt"
+        ],
+        "answer": 2,
+        "explanation": "Emf is measured in volt."
+    },
+    {
+        "id": 36,
+        "question": "The terminal voltage of a cell is less than its emf when the cell is:",
+        "options": [
+            "not supplying current",
+            "being charged",
+            "supplying current",
+            "open circuited"
+        ],
+        "answer": 2,
+        "explanation": "During discharge, terminal voltage is less due to internal resistance."
+    },
+    {
+        "id": 37,
+        "question": "The internal resistance of a cell depends on:",
+        "options": [
+            "current",
+            "external resistance",
+            "nature of electrolyte",
+            "emf of cell"
+        ],
+        "answer": 2,
+        "explanation": "Internal resistance depends on electrolyte and geometry."
+    },
+    {
+        "id": 38,
+        "question": "The SI unit of internal resistance is:",
+        "options": [
+            "volt",
+            "ohm",
+            "ampere",
+            "joule"
+        ],
+        "answer": 1,
+        "explanation": "Internal resistance is measured in ohm."
+    },
+    {
+        "id": 39,
+        "question": "The relation between emf E, terminal voltage V, current I and internal resistance r is:",
+        "options": [
+            "E = V + Ir",
+            "V = E + Ir",
+            "E = Ir/V",
+            "V = Ir"
+        ],
+        "answer": 0,
+        "explanation": "For a discharging cell, E = V + Ir."
+    },
+    {
+        "id": 40,
+        "question": "The maximum current is drawn from a cell when the external resistance is:",
+        "options": [
+            "zero",
+            "equal to internal resistance",
+            "infinite",
+            "very large"
+        ],
+        "answer": 0,
+        "explanation": "Short circuit condition gives maximum current."
+    },
+    {
+        "id": 41,
+        "question": "The current drawn from a cell is maximum when:",
+        "options": [
+            "R = r",
+            "R > r",
+            "R < r",
+            "R = 0"
+        ],
+        "answer": 3,
+        "explanation": "Short circuit gives maximum current."
+    },
+    {
+        "id": 42,
+        "question": "The condition for maximum power transfer from a cell to an external circuit is:",
+        "options": [
+            "R = 0",
+            "R = r",
+            "R > r",
+            "R < r"
+        ],
+        "answer": 1,
+        "explanation": "Maximum power is delivered when external resistance equals internal resistance."
+    },
+    {
+        "id": 43,
+        "question": "The efficiency of a cell is defined as the ratio of:",
+        "options": [
+            "output power to input power",
+            "terminal voltage to emf",
+            "current to emf",
+            "external resistance to internal resistance"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency η = V/E."
+    },
+    {
+        "id": 44,
+        "question": "The efficiency of a cell is maximum when:",
+        "options": [
+            "R = 0",
+            "R = r",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 2,
+        "explanation": "Efficiency approaches maximum when current is very small."
+    },
+    {
+        "id": 45,
+        "question": "Kirchhoff’s first law is based on conservation of:",
+        "options": [
+            "energy",
+            "charge",
+            "momentum",
+            "mass"
+        ],
+        "answer": 1,
+        "explanation": "Junction rule follows conservation of charge."
+    },
+    {
+        "id": 46,
+        "question": "Kirchhoff’s second law is based on conservation of:",
+        "options": [
+            "charge",
+            "mass",
+            "energy",
+            "current"
+        ],
+        "answer": 2,
+        "explanation": "Loop rule follows conservation of energy."
+    },
+    {
+        "id": 47,
+        "question": "In a steady current circuit, the algebraic sum of currents at a junction is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Sum of currents at a junction is zero."
+    },
+    {
+        "id": 48,
+        "question": "In a closed loop, the algebraic sum of emfs and potential drops is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Energy conservation gives zero net sum."
+    },
+    {
+        "id": 49,
+        "question": "A device used to measure electric current is:",
+        "options": [
+            "voltmeter",
+            "ammeter",
+            "galvanometer",
+            "potentiometer"
+        ],
+        "answer": 1,
+        "explanation": "An ammeter measures current."
+    },
+    {
+        "id": 50,
+        "question": "An ideal ammeter has resistance:",
+        "options": [
+            "very high",
+            "very low",
+            "finite",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Ideal ammeter has zero or negligible resistance."
+    },
+    {
+        "id": 51,
+        "question": "An ideal voltmeter has resistance:",
+        "options": [
+            "zero",
+            "very small",
+            "finite",
+            "very large"
+        ],
+        "answer": 3,
+        "explanation": "An ideal voltmeter draws negligible current, so it has very large resistance."
+    },
+    {
+        "id": 52,
+        "question": "A voltmeter is always connected in:",
+        "options": [
+            "series with circuit",
+            "parallel with component",
+            "series with battery",
+            "parallel with battery only"
+        ],
+        "answer": 1,
+        "explanation": "Voltmeter measures potential difference across a component, so it is connected in parallel."
+    },
+    {
+        "id": 53,
+        "question": "The resistance of a wire is doubled if:",
+        "options": [
+            "length is halved",
+            "area is doubled",
+            "length is doubled",
+            "resistivity is halved"
+        ],
+        "answer": 2,
+        "explanation": "R = ρL/A, so doubling length doubles resistance."
+    },
+    {
+        "id": 54,
+        "question": "If the radius of a wire is doubled, keeping length same, its resistance becomes:",
+        "options": [
+            "four times",
+            "half",
+            "one-fourth",
+            "double"
+        ],
+        "answer": 2,
+        "explanation": "Area ∝ r², so doubling radius makes area four times, reducing resistance to one-fourth."
+    },
+    {
+        "id": 55,
+        "question": "Two wires of same material and length but radii r and 2r have resistances R1 and R2 respectively. The ratio R1/R2 is:",
+        "options": [
+            "1/4",
+            "1/2",
+            "2",
+            "4"
+        ],
+        "answer": 3,
+        "explanation": "Resistance is inversely proportional to area; areas are r² and (2r)² = 4r², so R1/R2 = 4."
+    },
+    {
+        "id": 56,
+        "question": "The drift velocity of electrons increases when:",
+        "options": [
+            "temperature increases",
+            "electric field increases",
+            "length increases",
+            "resistance increases"
+        ],
+        "answer": 1,
+        "explanation": "Drift velocity v_d ∝ electric field."
+    },
+    {
+        "id": 57,
+        "question": "The mobility of charge carriers is defined as the ratio of:",
+        "options": [
+            "drift velocity to electric field",
+            "electric field to drift velocity",
+            "current to charge",
+            "resistance to length"
+        ],
+        "answer": 0,
+        "explanation": "Mobility μ = v_d / E."
+    },
+    {
+        "id": 58,
+        "question": "The SI unit of mobility is:",
+        "options": [
+            "m² V⁻¹ s⁻¹",
+            "m V⁻¹ s⁻¹",
+            "V m⁻² s",
+            "m s⁻¹"
+        ],
+        "answer": 0,
+        "explanation": "Mobility has unit m² V⁻¹ s⁻¹."
+    },
+    {
+        "id": 59,
+        "question": "The relaxation time of electrons in a conductor represents:",
+        "options": [
+            "time between successive collisions",
+            "time to travel entire length",
+            "time to reach terminal",
+            "time for current to stop"
+        ],
+        "answer": 0,
+        "explanation": "Relaxation time is the average time between collisions of electrons."
+    },
+    {
+        "id": 60,
+        "question": "The drift velocity of electrons in a conductor is proportional to:",
+        "options": [
+            "temperature",
+            "electric field",
+            "resistance",
+            "length of conductor"
+        ],
+        "answer": 1,
+        "explanation": "Drift velocity is directly proportional to applied electric field."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following quantities does NOT depend on drift velocity?",
+        "options": [
+            "current",
+            "conductivity",
+            "charge density",
+            "mobility"
+        ],
+        "answer": 2,
+        "explanation": "Charge density depends on material, not on drift velocity."
+    },
+    {
+        "id": 62,
+        "question": "The microscopic form of Ohm’s law is:",
+        "options": [
+            "V = IR",
+            "J = σE",
+            "I = nqAv",
+            "E = V/d"
+        ],
+        "answer": 1,
+        "explanation": "Current density J is proportional to electric field: J = σE."
+    },
+    {
+        "id": 63,
+        "question": "The SI unit of current density is:",
+        "options": [
+            "A m⁻¹",
+            "A m⁻²",
+            "C m⁻²",
+            "V m⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Current density is current per unit area."
+    },
+    {
+        "id": 64,
+        "question": "The relation between current density J and current I is:",
+        "options": [
+            "J = IA",
+            "J = I/A",
+            "I = JA²",
+            "I = J/A"
+        ],
+        "answer": 1,
+        "explanation": "Current density is current per unit area."
+    },
+    {
+        "id": 65,
+        "question": "The electrical conductivity of a conductor increases when:",
+        "options": [
+            "temperature increases",
+            "temperature decreases",
+            "length increases",
+            "area decreases"
+        ],
+        "answer": 1,
+        "explanation": "For metals, conductivity increases as temperature decreases."
+    },
+    {
+        "id": 66,
+        "question": "The resistivity of a metallic conductor increases linearly with temperature because:",
+        "options": [
+            "number of electrons increases",
+            "electron charge increases",
+            "collision rate increases",
+            "electric field decreases"
+        ],
+        "answer": 2,
+        "explanation": "Increased lattice vibrations increase collision frequency."
+    },
+    {
+        "id": 67,
+        "question": "The temperature coefficient of resistance has unit:",
+        "options": [
+            "K",
+            "K⁻¹",
+            "ohm",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "Temperature coefficient has unit per kelvin."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following materials has the highest resistivity?",
+        "options": [
+            "Copper",
+            "Aluminium",
+            "Nichrome",
+            "Silver"
+        ],
+        "answer": 2,
+        "explanation": "Alloys like nichrome have high resistivity."
+    },
+    {
+        "id": 69,
+        "question": "Which material is best suited for making heating elements?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Nichrome",
+            "Aluminium"
+        ],
+        "answer": 2,
+        "explanation": "Nichrome has high resistivity and high melting point."
+    },
+    {
+        "id": 70,
+        "question": "In a series circuit, the total voltage is equal to:",
+        "options": [
+            "average voltage",
+            "sum of individual voltages",
+            "maximum voltage",
+            "minimum voltage"
+        ],
+        "answer": 1,
+        "explanation": "In series, voltage divides and total is sum of drops."
+    },
+    {
+        "id": 71,
+        "question": "In a parallel circuit, the total current is equal to:",
+        "options": [
+            "sum of branch currents",
+            "average current",
+            "maximum current",
+            "minimum current"
+        ],
+        "answer": 0,
+        "explanation": "Total current equals sum of currents in all branches."
+    },
+    {
+        "id": 72,
+        "question": "The equivalent resistance of two equal resistors R in series is:",
+        "options": [
+            "R/2",
+            "R",
+            "2R",
+            "R²"
+        ],
+        "answer": 2,
+        "explanation": "Series combination gives sum of resistances."
+    },
+    {
+        "id": 73,
+        "question": "The equivalent resistance of two equal resistors R in parallel is:",
+        "options": [
+            "2R",
+            "R",
+            "R/2",
+            "R²"
+        ],
+        "answer": 2,
+        "explanation": "Parallel combination of equal resistors gives half the resistance."
+    },
+    {
+        "id": 74,
+        "question": "The power dissipated in a resistor is also given by:",
+        "options": [
+            "I²R",
+            "V²R",
+            "V/I",
+            "IR²"
+        ],
+        "answer": 0,
+        "explanation": "Power P = I²R."
+    },
+    {
+        "id": 75,
+        "question": "The relation between electric power, voltage and resistance is:",
+        "options": [
+            "P = V/R",
+            "P = V²/R",
+            "P = VR",
+            "P = R/V"
+        ],
+        "answer": 1,
+        "explanation": "Using P = VI and V = IR, P = V²/R."
+    },
+    {
+        "id": 76,
+        "question": "The fuse wire used in circuits should have:",
+        "options": [
+            "high melting point and low resistance",
+            "low melting point and high resistance",
+            "high melting point and high resistance",
+            "low melting point and low resistance"
+        ],
+        "answer": 1,
+        "explanation": "Fuse should melt quickly on excess current."
+    },
+    {
+        "id": 77,
+        "question": "The heating effect of current is used in:",
+        "options": [
+            "electric motor",
+            "electric bell",
+            "electric iron",
+            "galvanometer"
+        ],
+        "answer": 2,
+        "explanation": "Electric iron works on heating effect."
+    },
+    {
+        "id": 78,
+        "question": "The internal resistance of a cell increases when:",
+        "options": [
+            "area of electrodes increases",
+            "distance between electrodes decreases",
+            "electrolyte concentration decreases",
+            "temperature increases"
+        ],
+        "answer": 2,
+        "explanation": "Lower electrolyte concentration increases internal resistance."
+    },
+    {
+        "id": 79,
+        "question": "The terminal voltage of a cell is equal to its emf when:",
+        "options": [
+            "cell is discharging",
+            "cell is charging",
+            "no current is drawn",
+            "external resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "With no current, there is no internal drop."
+    },
+    {
+        "id": 80,
+        "question": "A cell supplies maximum power to an external resistance when:",
+        "options": [
+            "R = 0",
+            "R = r",
+            "R > r",
+            "R < r"
+        ],
+        "answer": 1,
+        "explanation": "Maximum power transfer occurs when R = r."
+    },
+    {
+        "id": 81,
+        "question": "The power delivered to an external resistance is maximum when efficiency of the cell is:",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "answer": 1,
+        "explanation": "At maximum power condition, efficiency is 50%."
+    },
+    {
+        "id": 82,
+        "question": "The efficiency of a cell becomes nearly 100% when:",
+        "options": [
+            "R = r",
+            "R = 0",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 2,
+        "explanation": "When current is very small, losses are negligible."
+    },
+    {
+        "id": 83,
+        "question": "Kirchhoff’s junction law is a consequence of conservation of:",
+        "options": [
+            "energy",
+            "charge",
+            "momentum",
+            "mass"
+        ],
+        "answer": 1,
+        "explanation": "Junction law follows from charge conservation."
+    },
+    {
+        "id": 84,
+        "question": "Kirchhoff’s loop law is applicable to:",
+        "options": [
+            "only DC circuits",
+            "only AC circuits",
+            "both AC and DC circuits",
+            "open circuits"
+        ],
+        "answer": 2,
+        "explanation": "Loop law follows energy conservation and is general."
+    },
+    {
+        "id": 85,
+        "question": "A galvanometer can be converted into an ammeter by connecting a:",
+        "options": [
+            "high resistance in series",
+            "low resistance in series",
+            "high resistance in parallel",
+            "low resistance in parallel"
+        ],
+        "answer": 3,
+        "explanation": "Shunt resistance in parallel converts galvanometer into ammeter."
+    },
+    {
+        "id": 86,
+        "question": "A galvanometer can be converted into a voltmeter by connecting a:",
+        "options": [
+            "low resistance in parallel",
+            "high resistance in series",
+            "low resistance in series",
+            "high resistance in parallel"
+        ],
+        "answer": 1,
+        "explanation": "High resistance in series converts galvanometer into voltmeter."
+    },
+    {
+        "id": 87,
+        "question": "An ammeter is connected in series because it has:",
+        "options": [
+            "high resistance",
+            "very low resistance",
+            "finite resistance",
+            "variable resistance"
+        ],
+        "answer": 1,
+        "explanation": "Low resistance ensures minimal change in circuit current."
+    },
+    {
+        "id": 88,
+        "question": "A voltmeter is connected in parallel because it has:",
+        "options": [
+            "very low resistance",
+            "very high resistance",
+            "zero resistance",
+            "finite resistance"
+        ],
+        "answer": 1,
+        "explanation": "High resistance prevents drawing current."
+    },
+    {
+        "id": 89,
+        "question": "The Wheatstone bridge is used to measure:",
+        "options": [
+            "current",
+            "voltage",
+            "unknown resistance",
+            "power"
+        ],
+        "answer": 2,
+        "explanation": "Wheatstone bridge is used to find unknown resistance."
+    },
+    {
+        "id": 90,
+        "question": "The Wheatstone bridge is said to be balanced when:",
+        "options": [
+            "no current flows through galvanometer",
+            "maximum current flows",
+            "voltage is maximum",
+            "power is zero"
+        ],
+        "answer": 0,
+        "explanation": "At balance condition, galvanometer shows zero deflection."
+    },
+    {
+        "id": 91,
+        "question": "The condition for balance of Wheatstone bridge is:",
+        "options": [
+            "P/Q = R/S",
+            "P + Q = R + S",
+            "P/Q = S/R",
+            "P = Q = R = S"
+        ],
+        "answer": 0,
+        "explanation": "Bridge is balanced when ratio of resistances in arms are equal."
+    },
+    {
+        "id": 92,
+        "question": "The meter bridge works on the principle of:",
+        "options": [
+            "Ohm’s law",
+            "Kirchhoff’s law",
+            "Wheatstone bridge",
+            "Joule’s law"
+        ],
+        "answer": 2,
+        "explanation": "Meter bridge is a practical form of Wheatstone bridge."
+    },
+    {
+        "id": 93,
+        "question": "The potentiometer is used to measure:",
+        "options": [
+            "current",
+            "resistance",
+            "potential difference accurately",
+            "power"
+        ],
+        "answer": 2,
+        "explanation": "Potentiometer measures emf and potential difference accurately."
+    },
+    {
+        "id": 94,
+        "question": "The potentiometer works on the principle that potential drop is proportional to:",
+        "options": [
+            "current",
+            "length of wire",
+            "area of wire",
+            "resistance only"
+        ],
+        "answer": 1,
+        "explanation": "Potential drop along uniform wire is proportional to length."
+    },
+    {
+        "id": 95,
+        "question": "The advantage of a potentiometer over a voltmeter is that it:",
+        "options": [
+            "measures high voltage",
+            "draws no current from source",
+            "is cheaper",
+            "has lower resistance"
+        ],
+        "answer": 1,
+        "explanation": "Potentiometer measures voltage without drawing current."
+    },
+    {
+        "id": 96,
+        "question": "The internal resistance of a cell can be measured using a:",
+        "options": [
+            "voltmeter",
+            "ammeter",
+            "potentiometer",
+            "galvanometer"
+        ],
+        "answer": 2,
+        "explanation": "Potentiometer is used to measure internal resistance accurately."
+    },
+    {
+        "id": 97,
+        "question": "The balancing length in a potentiometer wire is directly proportional to:",
+        "options": [
+            "current",
+            "resistance",
+            "emf of cell",
+            "temperature"
+        ],
+        "answer": 2,
+        "explanation": "Balancing length is proportional to emf."
+    },
+    {
+        "id": 98,
+        "question": "The potential gradient of a potentiometer wire depends on:",
+        "options": [
+            "length of wire",
+            "current through wire",
+            "material only",
+            "area only"
+        ],
+        "answer": 1,
+        "explanation": "Potential gradient depends on current in the wire."
+    },
+    {
+        "id": 99,
+        "question": "For a given potentiometer wire, the potential gradient can be made smaller by:",
+        "options": [
+            "increasing current",
+            "decreasing current",
+            "increasing emf",
+            "decreasing length"
+        ],
+        "answer": 1,
+        "explanation": "Lower current reduces potential drop per unit length."
+    },
+    {
+        "id": 100,
+        "question": "The current through a potentiometer wire should be kept constant to ensure:",
+        "options": [
+            "uniform resistance",
+            "uniform potential gradient",
+            "maximum current",
+            "minimum power loss"
+        ],
+        "answer": 1,
+        "explanation": "Constant current ensures uniform potential gradient."
+    },
+    {
+        "id": 101,
+        "question": "The drift velocity of charge carriers in a conductor is directly proportional to:",
+        "options": [
+            "electric field",
+            "temperature",
+            "resistance",
+            "length of conductor"
+        ],
+        "answer": 0,
+        "explanation": "Drift velocity v_d ∝ electric field."
+    },
+    {
+        "id": 102,
+        "question": "The relaxation time of electrons in a conductor depends on:",
+        "options": [
+            "electric field",
+            "temperature of conductor",
+            "potential difference",
+            "length of conductor"
+        ],
+        "answer": 1,
+        "explanation": "Relaxation time depends on scattering which is temperature dependent."
+    },
+    {
+        "id": 103,
+        "question": "The microscopic form of Ohm’s law relates current density with:",
+        "options": [
+            "potential",
+            "electric field",
+            "resistance",
+            "charge"
+        ],
+        "answer": 1,
+        "explanation": "Microscopic Ohm’s law is J = σE."
+    },
+    {
+        "id": 104,
+        "question": "The SI unit of electric current density is:",
+        "options": [
+            "A m⁻¹",
+            "A m⁻²",
+            "C m⁻²",
+            "V m⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Current density is current per unit area."
+    },
+    {
+        "id": 105,
+        "question": "The mobility of charge carriers increases when:",
+        "options": [
+            "temperature increases",
+            "electric field increases",
+            "temperature decreases",
+            "resistance increases"
+        ],
+        "answer": 2,
+        "explanation": "Mobility increases as collision frequency decreases at lower temperature."
+    },
+    {
+        "id": 106,
+        "question": "Which of the following remains constant for a given conductor?",
+        "options": [
+            "current",
+            "resistivity",
+            "resistance",
+            "voltage"
+        ],
+        "answer": 1,
+        "explanation": "Resistivity is a property of material."
+    },
+    {
+        "id": 107,
+        "question": "The temperature coefficient of resistance of an alloy is generally:",
+        "options": [
+            "very large",
+            "positive and large",
+            "small",
+            "negative"
+        ],
+        "answer": 2,
+        "explanation": "Alloys have small temperature coefficient."
+    },
+    {
+        "id": 108,
+        "question": "Which of the following has the least resistivity?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Nichrome",
+            "Iron"
+        ],
+        "answer": 1,
+        "explanation": "Silver has the least resistivity among common metals."
+    },
+    {
+        "id": 109,
+        "question": "The resistance of a conductor becomes double when its length is doubled and area is:",
+        "options": [
+            "doubled",
+            "halved",
+            "kept same",
+            "quadrupled"
+        ],
+        "answer": 2,
+        "explanation": "R ∝ L when area is constant."
+    },
+    {
+        "id": 110,
+        "question": "If both length and radius of a wire are doubled, its resistance becomes:",
+        "options": [
+            "same",
+            "double",
+            "half",
+            "four times"
+        ],
+        "answer": 2,
+        "explanation": "R ∝ L/A, doubling L and quadrupling A makes R half."
+    },
+    {
+        "id": 111,
+        "question": "In a series combination of resistors, the total resistance is:",
+        "options": [
+            "less than smallest",
+            "greater than largest",
+            "equal to average",
+            "equal to smallest"
+        ],
+        "answer": 1,
+        "explanation": "Series resistance is the sum of all resistances."
+    },
+    {
+        "id": 112,
+        "question": "In a parallel combination of resistors, the equivalent resistance is always:",
+        "options": [
+            "greater than largest",
+            "equal to smallest",
+            "less than smallest",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Parallel resistance is less than the smallest resistor."
+    },
+    {
+        "id": 113,
+        "question": "The power dissipated in a resistor carrying current I is proportional to:",
+        "options": [
+            "I",
+            "I²",
+            "I³",
+            "1/I"
+        ],
+        "answer": 1,
+        "explanation": "Power P = I²R."
+    },
+    {
+        "id": 114,
+        "question": "For a given voltage, maximum power is dissipated in a resistor when its resistance is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "equal to internal resistance",
+            "equal to zero"
+        ],
+        "answer": 2,
+        "explanation": "Maximum power transfer occurs when R = r."
+    },
+    {
+        "id": 115,
+        "question": "The internal resistance of a cell depends on:",
+        "options": [
+            "emf of cell",
+            "external resistance",
+            "geometry of electrodes",
+            "current drawn"
+        ],
+        "answer": 2,
+        "explanation": "Internal resistance depends on electrode separation and area."
+    },
+    {
+        "id": 116,
+        "question": "When a cell is being charged, its terminal voltage is:",
+        "options": [
+            "less than emf",
+            "equal to emf",
+            "greater than emf",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "During charging, terminal voltage exceeds emf."
+    },
+    {
+        "id": 117,
+        "question": "The efficiency of a cell is zero when:",
+        "options": [
+            "R = r",
+            "R = 0",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 1,
+        "explanation": "Short circuit gives zero terminal voltage."
+    },
+    {
+        "id": 118,
+        "question": "Kirchhoff’s loop law states that the algebraic sum of potential differences in a loop is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Loop law follows conservation of energy."
+    },
+    {
+        "id": 119,
+        "question": "A galvanometer is converted into an ammeter by connecting a resistance in:",
+        "options": [
+            "series",
+            "parallel",
+            "series-parallel",
+            "none"
+        ],
+        "answer": 1,
+        "explanation": "A low resistance shunt is connected in parallel."
+    },
+    {
+        "id": 120,
+        "question": "A galvanometer is converted into a voltmeter by connecting a resistance in:",
+        "options": [
+            "parallel",
+            "series",
+            "across battery",
+            "none"
+        ],
+        "answer": 1,
+        "explanation": "A high resistance is connected in series."
+    },
+    {
+        "id": 121,
+        "question": "An ideal voltmeter has:",
+        "options": [
+            "zero resistance",
+            "very high resistance",
+            "finite resistance",
+            "low resistance"
+        ],
+        "answer": 1,
+        "explanation": "High resistance ensures negligible current draw."
+    },
+    {
+        "id": 122,
+        "question": "An ideal ammeter has:",
+        "options": [
+            "very high resistance",
+            "finite resistance",
+            "zero resistance",
+            "variable resistance"
+        ],
+        "answer": 2,
+        "explanation": "Zero resistance avoids change in circuit current."
+    },
+    {
+        "id": 123,
+        "question": "The Wheatstone bridge is most sensitive when:",
+        "options": [
+            "all resistances are equal",
+            "one resistance is zero",
+            "one resistance is infinite",
+            "battery emf is maximum"
+        ],
+        "answer": 0,
+        "explanation": "Sensitivity is maximum when all arms are comparable."
+    },
+    {
+        "id": 124,
+        "question": "The meter bridge works on the principle of:",
+        "options": [
+            "Ohm’s law",
+            "Kirchhoff’s law",
+            "Wheatstone bridge",
+            "Potentiometer"
+        ],
+        "answer": 2,
+        "explanation": "Meter bridge is a practical Wheatstone bridge."
+    },
+    {
+        "id": 125,
+        "question": "In a balanced Wheatstone bridge, the current through galvanometer is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "finite"
+        ],
+        "answer": 2,
+        "explanation": "No potential difference across galvanometer."
+    },
+    {
+        "id": 126,
+        "question": "The potentiometer is preferred over a voltmeter because it:",
+        "options": [
+            "has higher resistance",
+            "draws no current",
+            "is cheaper",
+            "is smaller"
+        ],
+        "answer": 1,
+        "explanation": "Potentiometer measures emf without drawing current."
+    },
+    {
+        "id": 127,
+        "question": "The potential gradient of a potentiometer wire depends on:",
+        "options": [
+            "length only",
+            "material only",
+            "current through wire",
+            "area of wire"
+        ],
+        "answer": 2,
+        "explanation": "Potential gradient is proportional to current."
+    },
+    {
+        "id": 128,
+        "question": "The balancing length in a potentiometer is proportional to:",
+        "options": [
+            "resistance",
+            "current",
+            "emf",
+            "temperature"
+        ],
+        "answer": 2,
+        "explanation": "Balancing length ∝ emf."
+    },
+    {
+        "id": 129,
+        "question": "For measuring very small potential differences accurately, we use:",
+        "options": [
+            "voltmeter",
+            "ammeter",
+            "potentiometer",
+            "galvanometer"
+        ],
+        "answer": 2,
+        "explanation": "Potentiometer is most accurate."
+    },
+    {
+        "id": 130,
+        "question": "The internal resistance of a cell can be determined using:",
+        "options": [
+            "ammeter only",
+            "voltmeter only",
+            "potentiometer",
+            "galvanometer only"
+        ],
+        "answer": 2,
+        "explanation": "Potentiometer allows accurate measurement."
+    },
+    {
+        "id": 131,
+        "question": "The current through a potentiometer wire must be kept constant to maintain:",
+        "options": [
+            "uniform resistance",
+            "uniform emf",
+            "uniform potential gradient",
+            "maximum current"
+        ],
+        "answer": 2,
+        "explanation": "Constant current ensures constant potential gradient."
+    },
+    {
+        "id": 132,
+        "question": "The SI unit of electric charge is:",
+        "options": [
+            "ampere",
+            "coulomb",
+            "volt",
+            "ohm"
+        ],
+        "answer": 1,
+        "explanation": "Electric charge is measured in coulomb."
+    },
+    {
+        "id": 133,
+        "question": "Electric current is a scalar quantity because:",
+        "options": [
+            "it has magnitude only",
+            "it has direction only",
+            "it obeys vector laws",
+            "it is charge flow"
+        ],
+        "answer": 0,
+        "explanation": "Current adds algebraically."
+    },
+    {
+        "id": 134,
+        "question": "The drift velocity of electrons is opposite to the direction of:",
+        "options": [
+            "electric field",
+            "current",
+            "potential gradient",
+            "resistance"
+        ],
+        "answer": 1,
+        "explanation": "Electrons move opposite to conventional current."
+    },
+    {
+        "id": 135,
+        "question": "The thermal velocity of electrons compared to drift velocity is:",
+        "options": [
+            "same",
+            "slightly greater",
+            "much greater",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Thermal speed is much higher."
+    },
+    {
+        "id": 136,
+        "question": "The SI unit of resistivity can also be written as:",
+        "options": [
+            "V A⁻¹ m",
+            "V m A⁻¹",
+            "A V⁻¹ m",
+            "ohm"
+        ],
+        "answer": 1,
+        "explanation": "Resistivity unit is volt metre per ampere."
+    },
+    {
+        "id": 137,
+        "question": "Which device converts electrical energy into heat energy?",
+        "options": [
+            "Motor",
+            "Generator",
+            "Heater",
+            "Transformer"
+        ],
+        "answer": 2,
+        "explanation": "Heater works on heating effect of current."
+    },
+    {
+        "id": 138,
+        "question": "The heating effect of electric current is independent of:",
+        "options": [
+            "current",
+            "resistance",
+            "time",
+            "direction of current"
+        ],
+        "answer": 3,
+        "explanation": "Heating depends on magnitude, not direction."
+    },
+    {
+        "id": 139,
+        "question": "The efficiency of a cell is defined as the ratio of:",
+        "options": [
+            "output voltage to emf",
+            "input voltage to emf",
+            "output current to emf",
+            "power to current"
+        ],
+        "answer": 0,
+        "explanation": "Efficiency η = V/E."
+    },
+    {
+        "id": 140,
+        "question": "The maximum efficiency of a cell approaches 100% when:",
+        "options": [
+            "R = r",
+            "R = 0",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 2,
+        "explanation": "Efficiency is maximum when current is negligible."
+    },
+    {
+        "id": 141,
+        "question": "Kirchhoff’s laws are applicable to circuits with:",
+        "options": [
+            "only resistors",
+            "only DC sources",
+            "lumped elements",
+            "distributed parameters"
+        ],
+        "answer": 2,
+        "explanation": "Kirchhoff’s laws apply to lumped circuits."
+    },
+    {
+        "id": 142,
+        "question": "The emf of a cell is independent of:",
+        "options": [
+            "nature of electrolyte",
+            "amount of charge drawn",
+            "temperature",
+            "internal resistance"
+        ],
+        "answer": 1,
+        "explanation": "Emf is independent of current drawn."
+    },
+    {
+        "id": 143,
+        "question": "When external resistance is very large, the current in the circuit is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 1,
+        "explanation": "Large resistance reduces current."
+    },
+    {
+        "id": 144,
+        "question": "The power loss inside a cell is due to:",
+        "options": [
+            "external resistance",
+            "internal resistance",
+            "emf",
+            "charge"
+        ],
+        "answer": 1,
+        "explanation": "Power loss occurs across internal resistance."
+    },
+    {
+        "id": 145,
+        "question": "The SI unit of electric energy is:",
+        "options": [
+            "watt",
+            "joule",
+            "ampere",
+            "volt"
+        ],
+        "answer": 1,
+        "explanation": "Energy is measured in joule."
+    },
+    {
+        "id": 146,
+        "question": "The commercial unit of electric energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Electricity billing uses kilowatt-hour."
+    },
+    {
+        "id": 147,
+        "question": "One kilowatt-hour is equal to:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 3.6 × 10⁶ J."
+    },
+    {
+        "id": 148,
+        "question": "The electric current in a conductor is due to the motion of:",
+        "options": [
+            "ions",
+            "protons",
+            "electrons",
+            "neutrons"
+        ],
+        "answer": 2,
+        "explanation": "In metals, current is due to free electrons."
+    },
+    {
+        "id": 149,
+        "question": "The direction of conventional current is opposite to the motion of:",
+        "options": [
+            "positive charges",
+            "electrons",
+            "ions",
+            "holes"
+        ],
+        "answer": 1,
+        "explanation": "Conventional current is opposite to electron flow."
+    },
+    {
+        "id": 150,
+        "question": "Current Electricity mainly deals with:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "magnetic effects",
+            "electromagnetic waves"
+        ],
+        "answer": 1,
+        "explanation": "Current electricity studies charges in motion."
+    },
+    {
+        "id": 151,
+        "question": "The drift velocity of electrons in a conductor is of the order of:",
+        "options": [
+            "10⁻³ m s⁻¹",
+            "10⁻⁶ m s⁻¹",
+            "10⁻⁹ m s⁻¹",
+            "10⁶ m s⁻¹"
+        ],
+        "answer": 1,
+        "explanation": "Drift velocity of electrons in metals is typically of the order of 10⁻⁶ m s⁻¹."
+    },
+    {
+        "id": 152,
+        "question": "The thermal velocity of electrons in a conductor is of the order of:",
+        "options": [
+            "10⁻⁶ m s⁻¹",
+            "10⁻³ m s⁻¹",
+            "10⁵ m s⁻¹",
+            "10⁸ m s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "Thermal velocity of electrons is very large, around 10⁵ m s⁻¹."
+    },
+    {
+        "id": 153,
+        "question": "The ratio of drift velocity to thermal velocity of electrons in a conductor is approximately:",
+        "options": [
+            "1",
+            "10⁻³",
+            "10⁻⁶",
+            "10⁻¹¹"
+        ],
+        "answer": 3,
+        "explanation": "Drift velocity is extremely small compared to thermal velocity."
+    },
+    {
+        "id": 154,
+        "question": "The mean free time of electrons between successive collisions is also called:",
+        "options": [
+            "mobility",
+            "relaxation time",
+            "drift time",
+            "collision time"
+        ],
+        "answer": 1,
+        "explanation": "Relaxation time is the average time between collisions."
+    },
+    {
+        "id": 155,
+        "question": "The relation between mobility μ and relaxation time τ is given by:",
+        "options": [
+            "μ = eτ/m",
+            "μ = m/eτ",
+            "μ = e/mτ",
+            "μ = τ/em"
+        ],
+        "answer": 0,
+        "explanation": "Mobility μ = eτ/m for charge carriers."
+    },
+    {
+        "id": 156,
+        "question": "The conductivity of a metal decreases with increase in temperature because:",
+        "options": [
+            "number of free electrons decreases",
+            "electron mass increases",
+            "relaxation time decreases",
+            "electric field decreases"
+        ],
+        "answer": 2,
+        "explanation": "Higher temperature increases collisions, reducing relaxation time."
+    },
+    {
+        "id": 157,
+        "question": "Which of the following is an ohmic conductor?",
+        "options": [
+            "p–n junction diode",
+            "vacuum tube",
+            "metallic wire",
+            "thermistor"
+        ],
+        "answer": 2,
+        "explanation": "Metallic conductors obey Ohm’s law."
+    },
+    {
+        "id": 158,
+        "question": "The V–I graph of an ohmic conductor is a:",
+        "options": [
+            "parabola",
+            "hyperbola",
+            "straight line through origin",
+            "straight line not through origin"
+        ],
+        "answer": 2,
+        "explanation": "Ohmic conductors show linear V–I relation."
+    },
+    {
+        "id": 159,
+        "question": "The slope of V–I graph for a conductor gives:",
+        "options": [
+            "conductance",
+            "resistance",
+            "current",
+            "power"
+        ],
+        "answer": 1,
+        "explanation": "Slope of V versus I graph equals resistance."
+    },
+    {
+        "id": 160,
+        "question": "The slope of I–V graph for a conductor represents:",
+        "options": [
+            "resistance",
+            "conductance",
+            "power",
+            "emf"
+        ],
+        "answer": 1,
+        "explanation": "Slope of I versus V graph equals conductance."
+    },
+    {
+        "id": 161,
+        "question": "If a conductor obeys Ohm’s law, doubling the voltage will make the current:",
+        "options": [
+            "half",
+            "double",
+            "four times",
+            "unchanged"
+        ],
+        "answer": 1,
+        "explanation": "From V = IR, current is directly proportional to voltage."
+    },
+    {
+        "id": 162,
+        "question": "The equivalent resistance of three resistors each of resistance R connected in series is:",
+        "options": [
+            "R/3",
+            "R",
+            "2R",
+            "3R"
+        ],
+        "answer": 3,
+        "explanation": "Series resistances add directly."
+    },
+    {
+        "id": 163,
+        "question": "The equivalent resistance of three resistors each of resistance R connected in parallel is:",
+        "options": [
+            "R",
+            "R/2",
+            "R/3",
+            "3R"
+        ],
+        "answer": 2,
+        "explanation": "For n equal resistors in parallel, R_eq = R/n."
+    },
+    {
+        "id": 164,
+        "question": "The equivalent resistance of a series–parallel network is found using:",
+        "options": [
+            "Ohm’s law only",
+            "Kirchhoff’s laws only",
+            "successive reduction",
+            "Gauss’s law"
+        ],
+        "answer": 2,
+        "explanation": "Complex networks are simplified by successive reduction."
+    },
+    {
+        "id": 165,
+        "question": "Electric power consumed by a resistor is maximum when:",
+        "options": [
+            "current is maximum",
+            "voltage is maximum",
+            "resistance equals internal resistance",
+            "resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "Maximum power transfer occurs when external resistance equals internal resistance."
+    },
+    {
+        "id": 166,
+        "question": "The heating effect of current is directly proportional to:",
+        "options": [
+            "I",
+            "IR",
+            "I²R",
+            "V"
+        ],
+        "answer": 2,
+        "explanation": "Joule’s law of heating: H = I²Rt."
+    },
+    {
+        "id": 167,
+        "question": "A fuse wire should have:",
+        "options": [
+            "low resistivity and high melting point",
+            "high resistivity and high melting point",
+            "high resistivity and low melting point",
+            "low resistivity and low melting point"
+        ],
+        "answer": 2,
+        "explanation": "Fuse must melt easily and heat quickly under excess current."
+    },
+    {
+        "id": 168,
+        "question": "The emf of a cell is defined as:",
+        "options": [
+            "potential difference across terminals",
+            "energy supplied per unit charge",
+            "current supplied per unit time",
+            "power delivered by cell"
+        ],
+        "answer": 1,
+        "explanation": "Emf is work done per unit charge by the source."
+    },
+    {
+        "id": 169,
+        "question": "The terminal voltage of a cell is less than its emf when:",
+        "options": [
+            "no current flows",
+            "cell is charging",
+            "cell is discharging",
+            "internal resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "During discharge, voltage drop occurs across internal resistance."
+    },
+    {
+        "id": 170,
+        "question": "The internal resistance of a cell increases when:",
+        "options": [
+            "temperature increases",
+            "distance between electrodes increases",
+            "area of electrodes increases",
+            "electrolyte concentration increases"
+        ],
+        "answer": 1,
+        "explanation": "Greater separation increases internal resistance."
+    },
+    {
+        "id": 171,
+        "question": "When the external resistance is infinite, the current in the circuit is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "finite"
+        ],
+        "answer": 2,
+        "explanation": "Open circuit corresponds to zero current."
+    },
+    {
+        "id": 172,
+        "question": "The condition for maximum power output from a cell is:",
+        "options": [
+            "R = 0",
+            "R = r",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 1,
+        "explanation": "Maximum power transfer occurs when R equals internal resistance r."
+    },
+    {
+        "id": 173,
+        "question": "At maximum power transfer condition, the efficiency of a cell is:",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency is 50% when R = r."
+    },
+    {
+        "id": 174,
+        "question": "Kirchhoff’s junction rule is based on conservation of:",
+        "options": [
+            "energy",
+            "charge",
+            "momentum",
+            "mass"
+        ],
+        "answer": 1,
+        "explanation": "Charge conservation applies at junctions."
+    },
+    {
+        "id": 175,
+        "question": "Kirchhoff’s loop rule is based on conservation of:",
+        "options": [
+            "charge",
+            "current",
+            "energy",
+            "mass"
+        ],
+        "answer": 2,
+        "explanation": "Energy conservation applies around closed loops."
+    },
+    {
+        "id": 176,
+        "question": "In a closed loop circuit, the algebraic sum of emfs and potential drops is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Net energy change around a loop is zero."
+    },
+    {
+        "id": 177,
+        "question": "An ideal ammeter has resistance:",
+        "options": [
+            "zero",
+            "very small",
+            "very large",
+            "finite"
+        ],
+        "answer": 0,
+        "explanation": "Ideal ammeter should not affect circuit current."
+    },
+    {
+        "id": 178,
+        "question": "An ideal voltmeter has resistance:",
+        "options": [
+            "zero",
+            "very small",
+            "finite",
+            "infinite"
+        ],
+        "answer": 3,
+        "explanation": "Ideal voltmeter draws no current."
+    },
+    {
+        "id": 179,
+        "question": "The Wheatstone bridge is used to measure:",
+        "options": [
+            "current",
+            "voltage",
+            "resistance",
+            "power"
+        ],
+        "answer": 2,
+        "explanation": "Wheatstone bridge determines unknown resistance."
+    },
+    {
+        "id": 180,
+        "question": "A Wheatstone bridge is balanced when:",
+        "options": [
+            "P + Q = R + S",
+            "P/Q = R/S",
+            "P = Q",
+            "R = S"
+        ],
+        "answer": 1,
+        "explanation": "Balance condition is equality of resistance ratios."
+    },
+    {
+        "id": 181,
+        "question": "The meter bridge is based on:",
+        "options": [
+            "Ohm’s law",
+            "Kirchhoff’s law",
+            "Wheatstone bridge principle",
+            "Potentiometer principle"
+        ],
+        "answer": 2,
+        "explanation": "Meter bridge is a practical Wheatstone bridge."
+    },
+    {
+        "id": 182,
+        "question": "The potentiometer is preferred over a voltmeter because it:",
+        "options": [
+            "has high resistance",
+            "draws no current from source",
+            "is cheap",
+            "is compact"
+        ],
+        "answer": 1,
+        "explanation": "Potentiometer measures emf without loading the source."
+    },
+    {
+        "id": 183,
+        "question": "The working principle of potentiometer is based on the fact that:",
+        "options": [
+            "current is constant",
+            "potential drop is proportional to length",
+            "resistance is uniform",
+            "emf is constant"
+        ],
+        "answer": 1,
+        "explanation": "Potential drop along a uniform wire is proportional to length."
+    },
+    {
+        "id": 184,
+        "question": "The potential gradient of a potentiometer wire is defined as:",
+        "options": [
+            "potential drop per unit length",
+            "current per unit length",
+            "resistance per unit length",
+            "charge per unit length"
+        ],
+        "answer": 0,
+        "explanation": "Potential gradient = V/L."
+    },
+    {
+        "id": 185,
+        "question": "The potential gradient of a potentiometer wire can be decreased by:",
+        "options": [
+            "increasing current",
+            "decreasing current",
+            "decreasing wire length",
+            "increasing emf"
+        ],
+        "answer": 1,
+        "explanation": "Lower current reduces potential drop per unit length."
+    },
+    {
+        "id": 186,
+        "question": "The internal resistance of a cell is measured using:",
+        "options": [
+            "ammeter",
+            "voltmeter",
+            "potentiometer",
+            "galvanometer"
+        ],
+        "answer": 2,
+        "explanation": "Potentiometer allows accurate internal resistance measurement."
+    },
+    {
+        "id": 187,
+        "question": "Electric current is considered a scalar quantity because:",
+        "options": [
+            "it has no direction",
+            "it obeys vector laws",
+            "it adds algebraically",
+            "it depends on area"
+        ],
+        "answer": 2,
+        "explanation": "Currents add algebraically, not vectorially."
+    },
+    {
+        "id": 188,
+        "question": "The direction of conventional current is opposite to the flow of:",
+        "options": [
+            "positive charges",
+            "ions",
+            "electrons",
+            "holes"
+        ],
+        "answer": 2,
+        "explanation": "Electrons move opposite to conventional current."
+    },
+    {
+        "id": 189,
+        "question": "The resistance of a conductor does not depend on:",
+        "options": [
+            "length",
+            "area",
+            "material",
+            "current flowing"
+        ],
+        "answer": 3,
+        "explanation": "Resistance depends on geometry and material, not on current."
+    },
+    {
+        "id": 190,
+        "question": "The SI unit of electric energy is:",
+        "options": [
+            "watt",
+            "joule",
+            "ampere",
+            "volt"
+        ],
+        "answer": 1,
+        "explanation": "Energy is measured in joule."
+    },
+    {
+        "id": 191,
+        "question": "The commercial unit of electric energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Electrical energy billing uses kWh."
+    },
+    {
+        "id": 192,
+        "question": "One kilowatt-hour is equal to:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 1000 × 3600 J."
+    },
+    {
+        "id": 193,
+        "question": "Electric power consumed in a resistor is given by:",
+        "options": [
+            "VI",
+            "I²R",
+            "V²/R",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "Power can be expressed as VI, I²R or V²/R."
+    },
+    {
+        "id": 194,
+        "question": "The device used to protect electrical circuits from overloading is:",
+        "options": [
+            "voltmeter",
+            "ammeter",
+            "fuse",
+            "rheostat"
+        ],
+        "answer": 2,
+        "explanation": "Fuse melts when current exceeds safe value."
+    },
+    {
+        "id": 195,
+        "question": "The function of a rheostat in a circuit is to:",
+        "options": [
+            "measure current",
+            "measure voltage",
+            "vary resistance",
+            "store charge"
+        ],
+        "answer": 2,
+        "explanation": "Rheostat is a variable resistor."
+    },
+    {
+        "id": 196,
+        "question": "The SI unit of electric conductance is:",
+        "options": [
+            "ohm",
+            "siemens",
+            "volt",
+            "ampere"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is measured in siemens."
+    },
+    {
+        "id": 197,
+        "question": "Conductance is defined as the reciprocal of:",
+        "options": [
+            "resistivity",
+            "resistance",
+            "current",
+            "voltage"
+        ],
+        "answer": 1,
+        "explanation": "Conductance G = 1/R."
+    },
+    {
+        "id": 198,
+        "question": "The SI unit of resistivity can also be written as:",
+        "options": [
+            "V A⁻¹ m",
+            "A V⁻¹ m",
+            "V m A⁻¹",
+            "ohm"
+        ],
+        "answer": 2,
+        "explanation": "Resistivity unit is volt metre per ampere."
+    },
+    {
+        "id": 199,
+        "question": "Current electricity deals with the study of:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "magnetic fields",
+            "electromagnetic waves"
+        ],
+        "answer": 1,
+        "explanation": "Current electricity studies moving charges."
+    },
+    {
+        "id": 200,
+        "question": "Ohm’s law can be written in vector form as:",
+        "options": [
+            "V = IR",
+            "E = ρJ",
+            "J = σE",
+            "E = V/d"
+        ],
+        "answer": 2,
+        "explanation": "Microscopic Ohm’s law is J = σE."
+    },
+    {
+        "id": 201,
+        "question": "The drift velocity of electrons in a conductor is proportional to the electric field and:",
+        "options": [
+            "electron mass",
+            "relaxation time",
+            "number density",
+            "temperature"
+        ],
+        "answer": 1,
+        "explanation": "Drift velocity v_d = eEτ/m depends on relaxation time."
+    },
+    {
+        "id": 202,
+        "question": "The number density of free electrons in a metallic conductor is of the order of:",
+        "options": [
+            "10²⁰ m⁻³",
+            "10²³ m⁻³",
+            "10²⁶ m⁻³",
+            "10²⁸ m⁻³"
+        ],
+        "answer": 3,
+        "explanation": "For metals, free electron density is of order 10²⁸ m⁻³."
+    },
+    {
+        "id": 203,
+        "question": "The current density in a conductor is directly proportional to:",
+        "options": [
+            "electric potential",
+            "electric field",
+            "resistance",
+            "length"
+        ],
+        "answer": 1,
+        "explanation": "Microscopic Ohm’s law gives J = σE."
+    },
+    {
+        "id": 204,
+        "question": "The SI unit of electric field can also be written as:",
+        "options": [
+            "V m⁻¹",
+            "N C⁻¹",
+            "both V m⁻¹ and N C⁻¹",
+            "A m⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "Electric field E = V/m = N/C."
+    },
+    {
+        "id": 205,
+        "question": "The resistivity of a material depends on:",
+        "options": [
+            "length",
+            "area",
+            "shape",
+            "temperature"
+        ],
+        "answer": 3,
+        "explanation": "Resistivity is a material property and depends on temperature."
+    },
+    {
+        "id": 206,
+        "question": "The resistance of a wire of length L and radius r is proportional to:",
+        "options": [
+            "L/r",
+            "L/r²",
+            "r²/L",
+            "r/L"
+        ],
+        "answer": 1,
+        "explanation": "R = ρL/πr², so R ∝ L/r²."
+    },
+    {
+        "id": 207,
+        "question": "If a wire is stretched to double its length keeping volume constant, its resistance becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "one-fourth"
+        ],
+        "answer": 1,
+        "explanation": "Length doubles and area halves, so resistance becomes four times."
+    },
+    {
+        "id": 208,
+        "question": "Which of the following materials has negative temperature coefficient of resistance?",
+        "options": [
+            "Copper",
+            "Iron",
+            "Carbon",
+            "Nichrome"
+        ],
+        "answer": 2,
+        "explanation": "Carbon and semiconductors show negative temperature coefficient."
+    },
+    {
+        "id": 209,
+        "question": "The SI unit of temperature coefficient of resistance is:",
+        "options": [
+            "K",
+            "K⁻¹",
+            "ohm",
+            "dimensionless"
+        ],
+        "answer": 1,
+        "explanation": "Temperature coefficient is per kelvin."
+    },
+    {
+        "id": 210,
+        "question": "For a metallic conductor, resistance at temperature T is given by:",
+        "options": [
+            "R = R₀(1 + αT)",
+            "R = R₀(1 − αT)",
+            "R = αR₀T",
+            "R = R₀/T"
+        ],
+        "answer": 0,
+        "explanation": "Resistance increases linearly with temperature."
+    },
+    {
+        "id": 211,
+        "question": "The V–I characteristic of a semiconductor is:",
+        "options": [
+            "linear",
+            "non-linear",
+            "circular",
+            "horizontal"
+        ],
+        "answer": 1,
+        "explanation": "Semiconductors do not obey Ohm’s law."
+    },
+    {
+        "id": 212,
+        "question": "The resistance of an ideal conductor is:",
+        "options": [
+            "zero",
+            "very small",
+            "finite",
+            "infinite"
+        ],
+        "answer": 0,
+        "explanation": "Ideal conductor has zero resistance."
+    },
+    {
+        "id": 213,
+        "question": "In a series circuit, if one resistor breaks, the current in the circuit becomes:",
+        "options": [
+            "maximum",
+            "minimum",
+            "zero",
+            "unchanged"
+        ],
+        "answer": 2,
+        "explanation": "Breaking opens the circuit, stopping current."
+    },
+    {
+        "id": 214,
+        "question": "In a parallel circuit, if one branch breaks, the total current:",
+        "options": [
+            "becomes zero",
+            "increases",
+            "decreases",
+            "remains same"
+        ],
+        "answer": 2,
+        "explanation": "Removal of a branch reduces total current."
+    },
+    {
+        "id": 215,
+        "question": "The equivalent resistance of n equal resistors R connected in parallel is:",
+        "options": [
+            "nR",
+            "R/n",
+            "R",
+            "n/R"
+        ],
+        "answer": 1,
+        "explanation": "Parallel combination gives R_eq = R/n."
+    },
+    {
+        "id": 216,
+        "question": "The equivalent resistance of n equal resistors R connected in series is:",
+        "options": [
+            "R/n",
+            "R",
+            "nR",
+            "n/R"
+        ],
+        "answer": 2,
+        "explanation": "Series combination gives R_eq = nR."
+    },
+    {
+        "id": 217,
+        "question": "The power dissipated in a resistor connected to a constant voltage source is proportional to:",
+        "options": [
+            "R",
+            "1/R",
+            "R²",
+            "I"
+        ],
+        "answer": 1,
+        "explanation": "P = V²/R for constant voltage."
+    },
+    {
+        "id": 218,
+        "question": "The power dissipated in a resistor connected to a constant current source is proportional to:",
+        "options": [
+            "R",
+            "1/R",
+            "V²",
+            "1/V"
+        ],
+        "answer": 0,
+        "explanation": "P = I²R for constant current."
+    },
+    {
+        "id": 219,
+        "question": "The unit of electric power can also be written as:",
+        "options": [
+            "J s⁻¹",
+            "C V",
+            "A Ω",
+            "N m"
+        ],
+        "answer": 0,
+        "explanation": "1 watt = 1 joule per second."
+    },
+    {
+        "id": 220,
+        "question": "The unit of electric charge can also be written as:",
+        "options": [
+            "A s",
+            "V s",
+            "Ω s",
+            "J s"
+        ],
+        "answer": 0,
+        "explanation": "Charge Q = I t, unit is ampere second."
+    },
+    {
+        "id": 221,
+        "question": "The emf of a cell is independent of:",
+        "options": [
+            "nature of electrodes",
+            "nature of electrolyte",
+            "current drawn",
+            "temperature"
+        ],
+        "answer": 2,
+        "explanation": "Emf does not depend on current drawn from the cell."
+    },
+    {
+        "id": 222,
+        "question": "The terminal voltage of a cell becomes zero when:",
+        "options": [
+            "R = r",
+            "R → ∞",
+            "R = 0",
+            "cell is open"
+        ],
+        "answer": 2,
+        "explanation": "Short circuit gives zero terminal voltage."
+    },
+    {
+        "id": 223,
+        "question": "The internal resistance of a cell decreases when:",
+        "options": [
+            "temperature increases",
+            "electrode separation increases",
+            "area of electrodes decreases",
+            "electrolyte concentration decreases"
+        ],
+        "answer": 0,
+        "explanation": "Higher temperature increases ionic mobility."
+    },
+    {
+        "id": 224,
+        "question": "The maximum power delivered to an external resistor by a cell is:",
+        "options": [
+            "E²/r",
+            "E²/2r",
+            "E²/4r",
+            "E²/8r"
+        ],
+        "answer": 2,
+        "explanation": "Maximum power P_max = E²/4r when R = r."
+    },
+    {
+        "id": 225,
+        "question": "The efficiency of a cell is maximum when:",
+        "options": [
+            "R = r",
+            "R = 0",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 2,
+        "explanation": "Efficiency approaches unity when current is very small."
+    },
+    {
+        "id": 226,
+        "question": "The internal power loss in a cell is given by:",
+        "options": [
+            "VI",
+            "I²r",
+            "V²/R",
+            "Ir"
+        ],
+        "answer": 1,
+        "explanation": "Power loss inside cell occurs across internal resistance."
+    },
+    {
+        "id": 227,
+        "question": "Kirchhoff’s laws are valid only when:",
+        "options": [
+            "electric field is conservative",
+            "current is steady",
+            "circuit elements are lumped",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All conditions are required for Kirchhoff’s laws."
+    },
+    {
+        "id": 228,
+        "question": "The sensitivity of a galvanometer increases when:",
+        "options": [
+            "magnetic field increases",
+            "number of turns decreases",
+            "area decreases",
+            "resistance increases"
+        ],
+        "answer": 0,
+        "explanation": "Deflecting torque increases with magnetic field."
+    },
+    {
+        "id": 229,
+        "question": "A galvanometer is converted into a voltmeter of range V by connecting a resistance:",
+        "options": [
+            "in parallel",
+            "in series",
+            "across battery",
+            "across load"
+        ],
+        "answer": 1,
+        "explanation": "High resistance is added in series."
+    },
+    {
+        "id": 230,
+        "question": "A galvanometer is converted into an ammeter of range I by connecting a resistance:",
+        "options": [
+            "in series",
+            "in parallel",
+            "across battery",
+            "in series-parallel"
+        ],
+        "answer": 1,
+        "explanation": "Low resistance shunt is added in parallel."
+    },
+    {
+        "id": 231,
+        "question": "The Wheatstone bridge is most sensitive when the four resistances are:",
+        "options": [
+            "very large",
+            "very small",
+            "nearly equal",
+            "unequal"
+        ],
+        "answer": 2,
+        "explanation": "Sensitivity is maximum when ratios are close to unity."
+    },
+    {
+        "id": 232,
+        "question": "The null method of measurement is more accurate because:",
+        "options": [
+            "it uses high current",
+            "it uses no current from source",
+            "it uses large voltage",
+            "it is simple"
+        ],
+        "answer": 1,
+        "explanation": "No current drawn avoids loading error."
+    },
+    {
+        "id": 233,
+        "question": "The potentiometer measures emf more accurately than a voltmeter because it:",
+        "options": [
+            "has high resistance",
+            "draws no current",
+            "has low resistance",
+            "is digital"
+        ],
+        "answer": 1,
+        "explanation": "Potentiometer works on null method."
+    },
+    {
+        "id": 234,
+        "question": "The potential gradient of a potentiometer wire is proportional to:",
+        "options": [
+            "length",
+            "current",
+            "area",
+            "resistance of load"
+        ],
+        "answer": 1,
+        "explanation": "Potential gradient depends on current through wire."
+    },
+    {
+        "id": 235,
+        "question": "To increase the sensitivity of a potentiometer, the potential gradient should be:",
+        "options": [
+            "increased",
+            "decreased",
+            "kept constant",
+            "made zero"
+        ],
+        "answer": 1,
+        "explanation": "Smaller potential gradient gives higher sensitivity."
+    },
+    {
+        "id": 236,
+        "question": "The balancing length in a potentiometer is inversely proportional to:",
+        "options": [
+            "emf",
+            "potential gradient",
+            "current",
+            "resistance"
+        ],
+        "answer": 1,
+        "explanation": "For a given emf, l ∝ 1/k."
+    },
+    {
+        "id": 237,
+        "question": "The internal resistance of a cell using potentiometer is found by comparing:",
+        "options": [
+            "two currents",
+            "two voltages",
+            "two balancing lengths",
+            "two resistances"
+        ],
+        "answer": 2,
+        "explanation": "Ratio of balancing lengths gives internal resistance."
+    },
+    {
+        "id": 238,
+        "question": "The SI unit of conductance is equivalent to:",
+        "options": [
+            "A V⁻¹",
+            "V A⁻¹",
+            "Ω",
+            "Ω m"
+        ],
+        "answer": 0,
+        "explanation": "Conductance unit siemens = A/V."
+    },
+    {
+        "id": 239,
+        "question": "The conductance of a conductor increases when:",
+        "options": [
+            "length increases",
+            "area decreases",
+            "temperature increases (metal)",
+            "area increases"
+        ],
+        "answer": 3,
+        "explanation": "Conductance is proportional to cross-sectional area."
+    },
+    {
+        "id": 240,
+        "question": "Electric current is considered scalar because:",
+        "options": [
+            "it has no direction",
+            "it obeys superposition algebraically",
+            "it is always positive",
+            "it is charge flow"
+        ],
+        "answer": 1,
+        "explanation": "Currents add algebraically, not vectorially."
+    },
+    {
+        "id": 241,
+        "question": "The direction of electric field inside a conductor carrying steady current is:",
+        "options": [
+            "opposite to current",
+            "same as current",
+            "perpendicular to current",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Current flows in direction of electric field."
+    },
+    {
+        "id": 242,
+        "question": "The work done in moving a charge through a potential difference V is:",
+        "options": [
+            "qV",
+            "V/q",
+            "q/V",
+            "V²"
+        ],
+        "answer": 0,
+        "explanation": "Work done W = qV."
+    },
+    {
+        "id": 243,
+        "question": "The electric power can also be expressed as:",
+        "options": [
+            "I²R",
+            "V²/R",
+            "VI",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All expressions are equivalent forms of power."
+    },
+    {
+        "id": 244,
+        "question": "The current through a resistor is doubled. The heat produced in same time becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "one-fourth"
+        ],
+        "answer": 1,
+        "explanation": "Heat produced ∝ I²."
+    },
+    {
+        "id": 245,
+        "question": "The resistance of a filament lamp increases with current because:",
+        "options": [
+            "length increases",
+            "area decreases",
+            "temperature increases",
+            "resistivity decreases"
+        ],
+        "answer": 2,
+        "explanation": "Higher current raises temperature, increasing resistance."
+    },
+    {
+        "id": 246,
+        "question": "A filament lamp is a non-ohmic device because:",
+        "options": [
+            "it obeys Ohm’s law",
+            "its V–I graph is linear",
+            "its resistance changes with temperature",
+            "it has zero resistance"
+        ],
+        "answer": 2,
+        "explanation": "Resistance varies with temperature."
+    },
+    {
+        "id": 247,
+        "question": "The electric current in electrolytes is due to motion of:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "protons only"
+        ],
+        "answer": 2,
+        "explanation": "In electrolytes, current is carried by ions."
+    },
+    {
+        "id": 248,
+        "question": "The SI unit of current density multiplied by area gives:",
+        "options": [
+            "charge",
+            "current",
+            "voltage",
+            "power"
+        ],
+        "answer": 1,
+        "explanation": "J × A = I."
+    },
+    {
+        "id": 249,
+        "question": "The electric field inside an ideal conductor in steady state is:",
+        "options": [
+            "maximum",
+            "finite",
+            "zero",
+            "variable"
+        ],
+        "answer": 2,
+        "explanation": "In electrostatic equilibrium, field inside conductor is zero."
+    },
+    {
+        "id": 250,
+        "question": "Current Electricity as a chapter primarily deals with:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "magnetic fields",
+            "electromagnetic waves"
+        ],
+        "answer": 1,
+        "explanation": "Current electricity studies moving charges."
+    },
+    {
+        "id": 251,
+        "question": "The drift velocity of charge carriers in a conductor is inversely proportional to:",
+        "options": [
+            "electric field",
+            "relaxation time",
+            "mass of charge carrier",
+            "charge density"
+        ],
+        "answer": 2,
+        "explanation": "From v_d = eEτ/m, drift velocity is inversely proportional to mass."
+    },
+    {
+        "id": 252,
+        "question": "The mobility of electrons in a conductor is independent of:",
+        "options": [
+            "electric field",
+            "relaxation time",
+            "mass of electron",
+            "temperature"
+        ],
+        "answer": 0,
+        "explanation": "Mobility depends on material properties, not on applied field."
+    },
+    {
+        "id": 253,
+        "question": "The current density in a conductor is given by:",
+        "options": [
+            "neAv_d",
+            "nqv_d",
+            "nqAv_d",
+            "qv_d"
+        ],
+        "answer": 1,
+        "explanation": "Current density J = nqv_d."
+    },
+    {
+        "id": 254,
+        "question": "The relation between resistivity ρ and conductivity σ is:",
+        "options": [
+            "ρ = σ",
+            "ρ = 1/σ",
+            "ρ = σ²",
+            "ρ = √σ"
+        ],
+        "answer": 1,
+        "explanation": "Conductivity is reciprocal of resistivity."
+    },
+    {
+        "id": 255,
+        "question": "The resistance of a conductor is independent of:",
+        "options": [
+            "length",
+            "area of cross section",
+            "material",
+            "potential difference applied"
+        ],
+        "answer": 3,
+        "explanation": "Resistance depends on geometry and material, not applied voltage."
+    },
+    {
+        "id": 256,
+        "question": "If a wire is bent into a circle without changing its length, its resistance will:",
+        "options": [
+            "increase",
+            "decrease",
+            "remain same",
+            "become zero"
+        ],
+        "answer": 2,
+        "explanation": "Resistance depends on length and area, both unchanged."
+    },
+    {
+        "id": 257,
+        "question": "The temperature coefficient of resistance of a pure metal is:",
+        "options": [
+            "negative",
+            "zero",
+            "positive",
+            "variable sign"
+        ],
+        "answer": 2,
+        "explanation": "Metals show increase in resistance with temperature."
+    },
+    {
+        "id": 258,
+        "question": "The resistance of a filament lamp increases rapidly with current because:",
+        "options": [
+            "length increases",
+            "area decreases",
+            "temperature increases",
+            "electron charge changes"
+        ],
+        "answer": 2,
+        "explanation": "Higher current raises filament temperature, increasing resistance."
+    },
+    {
+        "id": 259,
+        "question": "The equivalent resistance of two resistors in parallel is R. If one resistor is removed, the equivalent resistance will:",
+        "options": [
+            "increase",
+            "decrease",
+            "remain same",
+            "become zero"
+        ],
+        "answer": 0,
+        "explanation": "Removing a parallel path increases equivalent resistance."
+    },
+    {
+        "id": 260,
+        "question": "In a series circuit, the power dissipated across a resistor is proportional to:",
+        "options": [
+            "its resistance",
+            "inverse of resistance",
+            "square of resistance",
+            "independent of resistance"
+        ],
+        "answer": 0,
+        "explanation": "In series, same current flows and P = I²R."
+    },
+    {
+        "id": 261,
+        "question": "In a parallel circuit, the power dissipated in a resistor is proportional to:",
+        "options": [
+            "its resistance",
+            "inverse of resistance",
+            "square of resistance",
+            "same for all resistors"
+        ],
+        "answer": 1,
+        "explanation": "In parallel, same voltage exists and P = V²/R."
+    },
+    {
+        "id": 262,
+        "question": "The SI unit of electric conductance is equivalent to:",
+        "options": [
+            "Ω",
+            "Ω⁻¹",
+            "V A⁻¹",
+            "A V"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is reciprocal of resistance."
+    },
+    {
+        "id": 263,
+        "question": "The internal resistance of a cell does not depend on:",
+        "options": [
+            "distance between electrodes",
+            "area of electrodes",
+            "nature of electrolyte",
+            "external resistance"
+        ],
+        "answer": 3,
+        "explanation": "Internal resistance is independent of external circuit."
+    },
+    {
+        "id": 264,
+        "question": "When a cell is short-circuited, its terminal voltage is:",
+        "options": [
+            "equal to emf",
+            "greater than emf",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "All emf drops across internal resistance."
+    },
+    {
+        "id": 265,
+        "question": "The current drawn from a cell is maximum when external resistance is:",
+        "options": [
+            "equal to internal resistance",
+            "infinite",
+            "zero",
+            "very large"
+        ],
+        "answer": 2,
+        "explanation": "Short circuit condition gives maximum current."
+    },
+    {
+        "id": 266,
+        "question": "The power delivered to an external circuit by a cell is maximum when:",
+        "options": [
+            "R = 0",
+            "R = r",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 1,
+        "explanation": "Maximum power transfer theorem applies."
+    },
+    {
+        "id": 267,
+        "question": "At maximum power condition, the terminal voltage of the cell is:",
+        "options": [
+            "E",
+            "E/2",
+            "2E",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "When R = r, terminal voltage equals E/2."
+    },
+    {
+        "id": 268,
+        "question": "The efficiency of a cell is defined as:",
+        "options": [
+            "P_output / P_input",
+            "V/E",
+            "I/E",
+            "R/r"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency equals ratio of terminal voltage to emf."
+    },
+    {
+        "id": 269,
+        "question": "The efficiency of a cell is maximum when:",
+        "options": [
+            "R = r",
+            "R = 0",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 2,
+        "explanation": "Efficiency approaches unity at very large external resistance."
+    },
+    {
+        "id": 270,
+        "question": "Kirchhoff’s junction rule is mathematically expressed as:",
+        "options": [
+            "ΣI = 0",
+            "ΣV = 0",
+            "ΣIR = 0",
+            "ΣQ = 0"
+        ],
+        "answer": 0,
+        "explanation": "Algebraic sum of currents at a junction is zero."
+    },
+    {
+        "id": 271,
+        "question": "Kirchhoff’s loop rule is applicable only if the electric field is:",
+        "options": [
+            "time varying",
+            "non-conservative",
+            "conservative",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Loop rule assumes conservative electric field."
+    },
+    {
+        "id": 272,
+        "question": "An ammeter is connected in series because it has:",
+        "options": [
+            "high resistance",
+            "very low resistance",
+            "variable resistance",
+            "infinite resistance"
+        ],
+        "answer": 1,
+        "explanation": "Low resistance avoids change in circuit current."
+    },
+    {
+        "id": 273,
+        "question": "A voltmeter is connected in parallel because it has:",
+        "options": [
+            "zero resistance",
+            "low resistance",
+            "very high resistance",
+            "same resistance as circuit"
+        ],
+        "answer": 2,
+        "explanation": "High resistance prevents drawing current."
+    },
+    {
+        "id": 274,
+        "question": "The Wheatstone bridge is based on the principle of:",
+        "options": [
+            "Ohm’s law",
+            "Kirchhoff’s first law",
+            "Kirchhoff’s second law",
+            "null deflection"
+        ],
+        "answer": 3,
+        "explanation": "Bridge works on null method of measurement."
+    },
+    {
+        "id": 275,
+        "question": "A Wheatstone bridge is balanced when:",
+        "options": [
+            "current is maximum in galvanometer",
+            "potential difference across galvanometer is zero",
+            "emf is zero",
+            "power is zero"
+        ],
+        "answer": 1,
+        "explanation": "Zero potential difference gives null deflection."
+    },
+    {
+        "id": 276,
+        "question": "The meter bridge is a practical application of:",
+        "options": [
+            "Ohm’s law",
+            "Joule’s law",
+            "Wheatstone bridge",
+            "Potentiometer"
+        ],
+        "answer": 2,
+        "explanation": "Meter bridge uses Wheatstone bridge principle."
+    },
+    {
+        "id": 277,
+        "question": "The potentiometer measures emf by using:",
+        "options": [
+            "deflection method",
+            "null method",
+            "direct reading",
+            "indirect calculation"
+        ],
+        "answer": 1,
+        "explanation": "Potentiometer works on null deflection principle."
+    },
+    {
+        "id": 278,
+        "question": "The potential gradient of a potentiometer wire is defined as:",
+        "options": [
+            "V × L",
+            "V/L",
+            "L/V",
+            "I/L"
+        ],
+        "answer": 1,
+        "explanation": "Potential gradient is potential drop per unit length."
+    },
+    {
+        "id": 279,
+        "question": "The sensitivity of a potentiometer increases when:",
+        "options": [
+            "potential gradient increases",
+            "potential gradient decreases",
+            "current increases",
+            "wire length decreases"
+        ],
+        "answer": 1,
+        "explanation": "Lower gradient allows detection of small emf differences."
+    },
+    {
+        "id": 280,
+        "question": "The internal resistance of a cell using potentiometer is determined by comparing:",
+        "options": [
+            "two currents",
+            "two resistances",
+            "two balancing lengths",
+            "two voltages directly"
+        ],
+        "answer": 2,
+        "explanation": "Ratio of balancing lengths gives internal resistance."
+    },
+    {
+        "id": 281,
+        "question": "Electric current is scalar because:",
+        "options": [
+            "it has no direction",
+            "it obeys vector addition",
+            "it adds algebraically",
+            "it is flow of charge"
+        ],
+        "answer": 2,
+        "explanation": "Currents combine algebraically."
+    },
+    {
+        "id": 282,
+        "question": "The direction of conventional current is opposite to motion of:",
+        "options": [
+            "positive ions",
+            "protons",
+            "electrons",
+            "holes"
+        ],
+        "answer": 2,
+        "explanation": "Electrons move opposite to conventional current."
+    },
+    {
+        "id": 283,
+        "question": "The work done in moving a charge q through potential difference V is:",
+        "options": [
+            "V/q",
+            "q/V",
+            "qV",
+            "V²"
+        ],
+        "answer": 2,
+        "explanation": "Work done W = qV."
+    },
+    {
+        "id": 284,
+        "question": "The heating effect of electric current depends on:",
+        "options": [
+            "direction of current",
+            "time of flow",
+            "sign of charge",
+            "nature of charge"
+        ],
+        "answer": 1,
+        "explanation": "Heating depends on I²Rt."
+    },
+    {
+        "id": 285,
+        "question": "A fuse wire should have:",
+        "options": [
+            "low resistivity and high melting point",
+            "high resistivity and low melting point",
+            "low resistivity and low melting point",
+            "high resistivity and high melting point"
+        ],
+        "answer": 1,
+        "explanation": "It should heat quickly and melt easily."
+    },
+    {
+        "id": 286,
+        "question": "The electric current in electrolytes is due to motion of:",
+        "options": [
+            "electrons only",
+            "holes",
+            "ions",
+            "protons only"
+        ],
+        "answer": 2,
+        "explanation": "Ionic motion causes current in electrolytes."
+    },
+    {
+        "id": 287,
+        "question": "The electric current in semiconductors is due to:",
+        "options": [
+            "electrons only",
+            "holes only",
+            "both electrons and holes",
+            "ions"
+        ],
+        "answer": 2,
+        "explanation": "Both charge carriers contribute."
+    },
+    {
+        "id": 288,
+        "question": "The SI unit of current density multiplied by volume gives:",
+        "options": [
+            "charge",
+            "current",
+            "power",
+            "energy"
+        ],
+        "answer": 1,
+        "explanation": "J × A gives current."
+    },
+    {
+        "id": 289,
+        "question": "An ohmic conductor has a V–I graph which is:",
+        "options": [
+            "non-linear",
+            "curved",
+            "straight line through origin",
+            "horizontal line"
+        ],
+        "answer": 2,
+        "explanation": "Linear relation indicates Ohm’s law."
+    },
+    {
+        "id": 290,
+        "question": "The slope of V–I graph gives:",
+        "options": [
+            "conductance",
+            "resistance",
+            "power",
+            "current"
+        ],
+        "answer": 1,
+        "explanation": "Slope V/I equals resistance."
+    },
+    {
+        "id": 291,
+        "question": "The slope of I–V graph gives:",
+        "options": [
+            "resistance",
+            "conductance",
+            "emf",
+            "power"
+        ],
+        "answer": 1,
+        "explanation": "Slope I/V equals conductance."
+    },
+    {
+        "id": 292,
+        "question": "The electric power can be written as:",
+        "options": [
+            "VI",
+            "I²R",
+            "V²/R",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All expressions are equivalent."
+    },
+    {
+        "id": 293,
+        "question": "The SI unit of electric power is:",
+        "options": [
+            "joule",
+            "watt",
+            "ampere",
+            "volt"
+        ],
+        "answer": 1,
+        "explanation": "Power is measured in watt."
+    },
+    {
+        "id": 294,
+        "question": "The commercial unit of electrical energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Energy consumption is measured in kWh."
+    },
+    {
+        "id": 295,
+        "question": "One kilowatt-hour equals:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 1000 × 3600 J."
+    },
+    {
+        "id": 296,
+        "question": "The resistance of a conductor becomes zero at very low temperature in:",
+        "options": [
+            "conductors",
+            "semiconductors",
+            "superconductors",
+            "insulators"
+        ],
+        "answer": 2,
+        "explanation": "Superconductivity shows zero resistance."
+    },
+    {
+        "id": 297,
+        "question": "The phenomenon of superconductivity occurs below a certain:",
+        "options": [
+            "melting point",
+            "boiling point",
+            "critical temperature",
+            "room temperature"
+        ],
+        "answer": 2,
+        "explanation": "Superconductors show zero resistance below critical temperature."
+    },
+    {
+        "id": 298,
+        "question": "In superconductors, magnetic field inside the material is:",
+        "options": [
+            "maximum",
+            "unchanged",
+            "zero",
+            "variable"
+        ],
+        "answer": 2,
+        "explanation": "Meissner effect expels magnetic field."
+    },
+    {
+        "id": 299,
+        "question": "Ohm’s law fails at high current in metallic conductors mainly due to:",
+        "options": [
+            "change in charge",
+            "change in temperature",
+            "change in length",
+            "change in area"
+        ],
+        "answer": 1,
+        "explanation": "Heating changes resistance."
+    },
+    {
+        "id": 300,
+        "question": "Current Electricity as a chapter mainly studies:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "electric fields only",
+            "magnetic effects only"
+        ],
+        "answer": 1,
+        "explanation": "It deals with motion of charges."
+    },
+    {
+        "id": 301,
+        "question": "The drift velocity of charge carriers in a conductor is zero when:",
+        "options": [
+            "electric field is applied",
+            "current flows",
+            "electric field is zero",
+            "temperature is high"
+        ],
+        "answer": 2,
+        "explanation": "Without an applied electric field, average drift velocity is zero."
+    },
+    {
+        "id": 302,
+        "question": "The average thermal velocity of electrons in a conductor is independent of:",
+        "options": [
+            "temperature",
+            "mass of electron",
+            "electric field",
+            "nature of material"
+        ],
+        "answer": 2,
+        "explanation": "Thermal velocity exists even without an electric field."
+    },
+    {
+        "id": 303,
+        "question": "The drift velocity of electrons is much smaller than thermal velocity because:",
+        "options": [
+            "electric field is weak",
+            "collisions are frequent",
+            "electron mass is large",
+            "charge is small"
+        ],
+        "answer": 1,
+        "explanation": "Frequent collisions limit net drift."
+    },
+    {
+        "id": 304,
+        "question": "The relation between current I and drift velocity v_d is:",
+        "options": [
+            "I ∝ v_d",
+            "I ∝ v_d²",
+            "I ∝ 1/v_d",
+            "I independent of v_d"
+        ],
+        "answer": 0,
+        "explanation": "Current I = nqAv_d, so I ∝ v_d."
+    },
+    {
+        "id": 305,
+        "question": "The microscopic form of Ohm’s law connects:",
+        "options": [
+            "V and I",
+            "E and J",
+            "R and ρ",
+            "I and Q"
+        ],
+        "answer": 1,
+        "explanation": "Microscopic Ohm’s law is J = σE."
+    },
+    {
+        "id": 306,
+        "question": "The current density at a point in a conductor is defined as:",
+        "options": [
+            "current per unit volume",
+            "current per unit area",
+            "charge per unit area",
+            "charge per unit time"
+        ],
+        "answer": 1,
+        "explanation": "Current density J = I/A."
+    },
+    {
+        "id": 307,
+        "question": "The direction of current density vector is the direction of:",
+        "options": [
+            "electron drift",
+            "conventional current",
+            "electric field",
+            "negative charge flow"
+        ],
+        "answer": 1,
+        "explanation": "Current density is defined in direction of conventional current."
+    },
+    {
+        "id": 308,
+        "question": "For an ohmic conductor, the ratio V/I is:",
+        "options": [
+            "constant",
+            "variable",
+            "zero",
+            "infinite"
+        ],
+        "answer": 0,
+        "explanation": "Ohmic conductors obey V = IR with constant R."
+    },
+    {
+        "id": 309,
+        "question": "The V–I characteristic of an incandescent filament lamp is:",
+        "options": [
+            "linear",
+            "parabolic",
+            "non-linear",
+            "horizontal"
+        ],
+        "answer": 2,
+        "explanation": "Resistance changes with temperature, making V–I non-linear."
+    },
+    {
+        "id": 310,
+        "question": "The resistivity of a conductor at absolute zero temperature is:",
+        "options": [
+            "maximum",
+            "finite",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "At 0 K, lattice vibrations vanish, giving zero resistivity ideally."
+    },
+    {
+        "id": 311,
+        "question": "Which of the following is used as standard resistance?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Manganin",
+            "Aluminium"
+        ],
+        "answer": 2,
+        "explanation": "Manganin has low temperature coefficient."
+    },
+    {
+        "id": 312,
+        "question": "The resistance of an alloy is preferred for standard resistors because it has:",
+        "options": [
+            "high conductivity",
+            "low melting point",
+            "low temperature coefficient",
+            "high charge density"
+        ],
+        "answer": 2,
+        "explanation": "Low temperature coefficient keeps resistance stable."
+    },
+    {
+        "id": 313,
+        "question": "If a conductor is cooled, its resistance generally:",
+        "options": [
+            "increases",
+            "decreases",
+            "remains constant",
+            "becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "For metals, resistance decreases with temperature."
+    },
+    {
+        "id": 314,
+        "question": "The equivalent resistance of a combination is minimum when resistors are connected in:",
+        "options": [
+            "series",
+            "parallel",
+            "series–parallel",
+            "random"
+        ],
+        "answer": 1,
+        "explanation": "Parallel combination gives minimum equivalent resistance."
+    },
+    {
+        "id": 315,
+        "question": "In a parallel circuit, the branch with least resistance carries:",
+        "options": [
+            "least current",
+            "maximum current",
+            "equal current",
+            "zero current"
+        ],
+        "answer": 1,
+        "explanation": "Current is inversely proportional to resistance."
+    },
+    {
+        "id": 316,
+        "question": "The electric power dissipated in a resistor connected to a battery depends on:",
+        "options": [
+            "only resistance",
+            "only voltage",
+            "both voltage and resistance",
+            "only current"
+        ],
+        "answer": 2,
+        "explanation": "Power P = V²/R depends on both."
+    },
+    {
+        "id": 317,
+        "question": "The heat produced in a resistor in time t is proportional to:",
+        "options": [
+            "I²",
+            "I²t",
+            "It",
+            "Vt"
+        ],
+        "answer": 1,
+        "explanation": "Joule’s law: H = I²Rt."
+    },
+    {
+        "id": 318,
+        "question": "The emf of a cell is numerically equal to the potential difference across its terminals when:",
+        "options": [
+            "cell is short-circuited",
+            "current is maximum",
+            "no current is drawn",
+            "internal resistance is large"
+        ],
+        "answer": 2,
+        "explanation": "No internal drop occurs when current is zero."
+    },
+    {
+        "id": 319,
+        "question": "When a cell supplies current, its terminal voltage is:",
+        "options": [
+            "greater than emf",
+            "equal to emf",
+            "less than emf",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Internal resistance causes voltage drop."
+    },
+    {
+        "id": 320,
+        "question": "The power lost inside a cell due to its internal resistance is:",
+        "options": [
+            "Ir",
+            "I²r",
+            "V²/r",
+            "Er"
+        ],
+        "answer": 1,
+        "explanation": "Power loss inside cell equals I²r."
+    },
+    {
+        "id": 321,
+        "question": "The maximum current drawn from a cell occurs when external resistance is:",
+        "options": [
+            "equal to internal resistance",
+            "very large",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Short circuit gives maximum current."
+    },
+    {
+        "id": 322,
+        "question": "The terminal voltage of a cell is maximum when:",
+        "options": [
+            "R = r",
+            "R → ∞",
+            "R = 0",
+            "current is maximum"
+        ],
+        "answer": 1,
+        "explanation": "Open circuit gives maximum terminal voltage equal to emf."
+    },
+    {
+        "id": 323,
+        "question": "Kirchhoff’s first law is also known as:",
+        "options": [
+            "loop law",
+            "junction rule",
+            "energy law",
+            "voltage law"
+        ],
+        "answer": 1,
+        "explanation": "It applies at a junction of currents."
+    },
+    {
+        "id": 324,
+        "question": "Kirchhoff’s second law is based on conservation of:",
+        "options": [
+            "charge",
+            "current",
+            "energy",
+            "momentum"
+        ],
+        "answer": 2,
+        "explanation": "Loop law follows energy conservation."
+    },
+    {
+        "id": 325,
+        "question": "An ideal ammeter should be connected in:",
+        "options": [
+            "parallel",
+            "series",
+            "any position",
+            "diagonal"
+        ],
+        "answer": 1,
+        "explanation": "It measures current in series path."
+    },
+    {
+        "id": 326,
+        "question": "An ideal voltmeter draws:",
+        "options": [
+            "large current",
+            "finite current",
+            "negligible current",
+            "maximum current"
+        ],
+        "answer": 2,
+        "explanation": "Very high resistance prevents current flow."
+    },
+    {
+        "id": 327,
+        "question": "The balancing condition of Wheatstone bridge is used to find:",
+        "options": [
+            "current",
+            "emf",
+            "unknown resistance",
+            "power"
+        ],
+        "answer": 2,
+        "explanation": "Unknown resistance is determined at null deflection."
+    },
+    {
+        "id": 328,
+        "question": "The meter bridge is most accurate when the balance point is near:",
+        "options": [
+            "one end",
+            "zero mark",
+            "middle of the wire",
+            "battery"
+        ],
+        "answer": 2,
+        "explanation": "Middle balance minimizes error."
+    },
+    {
+        "id": 329,
+        "question": "The potentiometer measures emf using:",
+        "options": [
+            "deflection method",
+            "null method",
+            "direct method",
+            "graphical method"
+        ],
+        "answer": 1,
+        "explanation": "Null method avoids current draw."
+    },
+    {
+        "id": 330,
+        "question": "The sensitivity of a potentiometer increases when its potential gradient is:",
+        "options": [
+            "increased",
+            "decreased",
+            "unchanged",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Smaller gradient detects smaller emf differences."
+    },
+    {
+        "id": 331,
+        "question": "The internal resistance of a cell using potentiometer is found by comparing:",
+        "options": [
+            "emfs",
+            "currents",
+            "balancing lengths",
+            "resistances"
+        ],
+        "answer": 2,
+        "explanation": "Ratio of balancing lengths gives internal resistance."
+    },
+    {
+        "id": 332,
+        "question": "Electric current is a scalar quantity because it:",
+        "options": [
+            "has no magnitude",
+            "has no direction",
+            "obeys algebraic addition",
+            "is flow of electrons"
+        ],
+        "answer": 2,
+        "explanation": "Currents add algebraically."
+    },
+    {
+        "id": 333,
+        "question": "The conventional direction of current is opposite to motion of:",
+        "options": [
+            "positive ions",
+            "protons",
+            "electrons",
+            "holes"
+        ],
+        "answer": 2,
+        "explanation": "Electrons drift opposite to conventional current."
+    },
+    {
+        "id": 334,
+        "question": "The electrical energy consumed in time t is given by:",
+        "options": [
+            "VIt",
+            "I²Rt",
+            "V²t/R",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All are equivalent expressions."
+    },
+    {
+        "id": 335,
+        "question": "The commercial unit of electrical energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Electrical energy billing uses kWh."
+    },
+    {
+        "id": 336,
+        "question": "One kilowatt-hour equals:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 3.6 × 10⁶ J."
+    },
+    {
+        "id": 337,
+        "question": "The function of a fuse in an electric circuit is to:",
+        "options": [
+            "increase current",
+            "measure current",
+            "protect circuit from overload",
+            "reduce voltage"
+        ],
+        "answer": 2,
+        "explanation": "Fuse melts under excess current."
+    },
+    {
+        "id": 338,
+        "question": "A rheostat is used in a circuit to:",
+        "options": [
+            "store charge",
+            "vary resistance",
+            "measure voltage",
+            "measure current"
+        ],
+        "answer": 1,
+        "explanation": "Rheostat is a variable resistor."
+    },
+    {
+        "id": 339,
+        "question": "The SI unit of conductance is:",
+        "options": [
+            "ohm",
+            "siemens",
+            "ampere",
+            "volt"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is measured in siemens."
+    },
+    {
+        "id": 340,
+        "question": "The conductance of a conductor increases when its:",
+        "options": [
+            "length increases",
+            "area increases",
+            "resistivity increases",
+            "temperature increases (metal)"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is proportional to cross-sectional area."
+    },
+    {
+        "id": 341,
+        "question": "The resistance of a conductor depends on:",
+        "options": [
+            "length",
+            "area",
+            "material",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "R = ρL/A depends on all listed factors."
+    },
+    {
+        "id": 342,
+        "question": "The electric field inside an ideal conductor in steady state is:",
+        "options": [
+            "zero",
+            "maximum",
+            "finite",
+            "infinite"
+        ],
+        "answer": 0,
+        "explanation": "Charges rearrange to cancel internal field."
+    },
+    {
+        "id": 343,
+        "question": "The electric field inside a conductor carrying steady current is responsible for:",
+        "options": [
+            "thermal motion",
+            "drift motion",
+            "random motion",
+            "no motion"
+        ],
+        "answer": 1,
+        "explanation": "Electric field causes drift of electrons."
+    },
+    {
+        "id": 344,
+        "question": "The work done per unit charge in an electric circuit is called:",
+        "options": [
+            "current",
+            "resistance",
+            "potential difference",
+            "power"
+        ],
+        "answer": 2,
+        "explanation": "Potential difference is work done per unit charge."
+    },
+    {
+        "id": 345,
+        "question": "The direction of electric field in a metallic conductor is same as direction of:",
+        "options": [
+            "electron drift",
+            "current",
+            "negative charge flow",
+            "thermal motion"
+        ],
+        "answer": 1,
+        "explanation": "Electric field direction matches conventional current."
+    },
+    {
+        "id": 346,
+        "question": "The electric power rating of an appliance indicates:",
+        "options": [
+            "energy consumed per second",
+            "energy consumed per hour",
+            "current used",
+            "voltage supplied"
+        ],
+        "answer": 0,
+        "explanation": "Power is rate of energy consumption."
+    },
+    {
+        "id": 347,
+        "question": "An electric heater converts electrical energy mainly into:",
+        "options": [
+            "light energy",
+            "mechanical energy",
+            "heat energy",
+            "sound energy"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect of current produces heat."
+    },
+    {
+        "id": 348,
+        "question": "The resistance of a superconducting material below critical temperature is:",
+        "options": [
+            "very small",
+            "finite",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Superconductors have zero resistance."
+    },
+    {
+        "id": 349,
+        "question": "The phenomenon of expulsion of magnetic field from a superconductor is called:",
+        "options": [
+            "Hall effect",
+            "Meissner effect",
+            "Joule effect",
+            "Faraday effect"
+        ],
+        "answer": 1,
+        "explanation": "Meissner effect expels magnetic field."
+    },
+    {
+        "id": 350,
+        "question": "Current Electricity as a chapter fundamentally studies:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "electric fields only",
+            "magnetic forces only"
+        ],
+        "answer": 1,
+        "explanation": "The chapter deals with motion of electric charges."
+    },
+    {
+        "id": 351,
+        "question": "The drift velocity of electrons becomes zero when the conductor is:",
+        "options": [
+            "connected to a battery",
+            "kept at high temperature",
+            "kept in absence of electric field",
+            "short-circuited"
+        ],
+        "answer": 2,
+        "explanation": "Without an applied electric field, average drift velocity is zero."
+    },
+    {
+        "id": 352,
+        "question": "The current in a conductor is directly proportional to:",
+        "options": [
+            "potential difference across it",
+            "its resistance",
+            "its length",
+            "its temperature"
+        ],
+        "answer": 0,
+        "explanation": "Ohm’s law states I ∝ V for constant temperature."
+    },
+    {
+        "id": 353,
+        "question": "The current density in a conductor is maximum where the cross-sectional area is:",
+        "options": [
+            "maximum",
+            "minimum",
+            "uniform",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "For a given current, J = I/A is larger for smaller area."
+    },
+    {
+        "id": 354,
+        "question": "The relaxation time of electrons decreases with increase in temperature because:",
+        "options": [
+            "electron charge decreases",
+            "electron mass increases",
+            "collision frequency increases",
+            "electric field decreases"
+        ],
+        "answer": 2,
+        "explanation": "Higher temperature increases lattice vibrations, increasing collisions."
+    },
+    {
+        "id": 355,
+        "question": "The conductivity of a metal is inversely proportional to:",
+        "options": [
+            "relaxation time",
+            "charge density",
+            "resistivity",
+            "electric field"
+        ],
+        "answer": 2,
+        "explanation": "Conductivity σ = 1/ρ."
+    },
+    {
+        "id": 356,
+        "question": "Which of the following has the highest conductivity?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Aluminium",
+            "Nichrome"
+        ],
+        "answer": 1,
+        "explanation": "Silver has the highest electrical conductivity."
+    },
+    {
+        "id": 357,
+        "question": "The resistance of a wire becomes half if:",
+        "options": [
+            "its length is doubled",
+            "its radius is doubled",
+            "its resistivity is doubled",
+            "its length is halved"
+        ],
+        "answer": 1,
+        "explanation": "Doubling radius makes area four times, reducing resistance to one-fourth; closest single correct option is radius doubled."
+    },
+    {
+        "id": 358,
+        "question": "If a wire is stretched so that its length becomes three times, its resistance becomes:",
+        "options": [
+            "3 times",
+            "6 times",
+            "9 times",
+            "27 times"
+        ],
+        "answer": 2,
+        "explanation": "Volume constant ⇒ area becomes one-third; R ∝ L/A ⇒ R becomes 9 times."
+    },
+    {
+        "id": 359,
+        "question": "The equivalent resistance of a series combination is always:",
+        "options": [
+            "less than smallest resistance",
+            "greater than largest resistance",
+            "equal to smallest resistance",
+            "zero"
+        ],
+        "answer": 1,
+        "explanation": "Series resistance is the sum of all resistances."
+    },
+    {
+        "id": 360,
+        "question": "The equivalent resistance of a parallel combination is always:",
+        "options": [
+            "greater than largest resistance",
+            "equal to largest resistance",
+            "less than smallest resistance",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Parallel resistance is less than the smallest resistor."
+    },
+    {
+        "id": 361,
+        "question": "In a series circuit, if one resistor is removed, the total resistance:",
+        "options": [
+            "decreases",
+            "increases",
+            "becomes zero",
+            "remains same"
+        ],
+        "answer": 0,
+        "explanation": "Removing a series resistor reduces total resistance."
+    },
+    {
+        "id": 362,
+        "question": "In a parallel circuit, if one branch is removed, the equivalent resistance:",
+        "options": [
+            "decreases",
+            "increases",
+            "becomes zero",
+            "remains same"
+        ],
+        "answer": 1,
+        "explanation": "Removing a parallel path increases equivalent resistance."
+    },
+    {
+        "id": 363,
+        "question": "The power dissipated in a resistor is independent of:",
+        "options": [
+            "current",
+            "resistance",
+            "time",
+            "potential difference"
+        ],
+        "answer": 2,
+        "explanation": "Power depends on I, V and R, not on time."
+    },
+    {
+        "id": 364,
+        "question": "The heat produced in a resistor for a given current depends on:",
+        "options": [
+            "time of flow",
+            "direction of current",
+            "sign of charge",
+            "nature of charge"
+        ],
+        "answer": 0,
+        "explanation": "Heating effect H = I²Rt depends on time."
+    },
+    {
+        "id": 365,
+        "question": "The emf of a cell represents:",
+        "options": [
+            "potential drop inside cell",
+            "energy supplied per unit charge",
+            "current supplied by cell",
+            "power delivered by cell"
+        ],
+        "answer": 1,
+        "explanation": "Emf is work done per unit charge."
+    },
+    {
+        "id": 366,
+        "question": "The terminal voltage of a cell is maximum when the cell is:",
+        "options": [
+            "short-circuited",
+            "supplying maximum current",
+            "open-circuited",
+            "connected to equal resistance"
+        ],
+        "answer": 2,
+        "explanation": "With no current, there is no internal voltage drop."
+    },
+    {
+        "id": 367,
+        "question": "The internal resistance of a cell depends on:",
+        "options": [
+            "external circuit",
+            "current drawn",
+            "electrolyte and electrode geometry",
+            "emf of cell"
+        ],
+        "answer": 2,
+        "explanation": "Internal resistance depends on electrolyte nature and geometry."
+    },
+    {
+        "id": 368,
+        "question": "At maximum power transfer condition, the power delivered to the external circuit is:",
+        "options": [
+            "E²/r",
+            "E²/2r",
+            "E²/4r",
+            "E²/8r"
+        ],
+        "answer": 2,
+        "explanation": "Maximum power P = E²/4r when R = r."
+    },
+    {
+        "id": 369,
+        "question": "At maximum power condition, the efficiency of a cell is:",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency equals 50% when R = r."
+    },
+    {
+        "id": 370,
+        "question": "Kirchhoff’s junction rule is based on conservation of:",
+        "options": [
+            "energy",
+            "charge",
+            "momentum",
+            "mass"
+        ],
+        "answer": 1,
+        "explanation": "Net charge at a junction is conserved."
+    },
+    {
+        "id": 371,
+        "question": "Kirchhoff’s loop rule assumes that the electric field is:",
+        "options": [
+            "non-conservative",
+            "time varying",
+            "conservative",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Loop rule follows energy conservation in conservative fields."
+    },
+    {
+        "id": 372,
+        "question": "An ideal ammeter should have resistance:",
+        "options": [
+            "very high",
+            "finite",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Zero resistance ensures no change in circuit current."
+    },
+    {
+        "id": 373,
+        "question": "An ideal voltmeter should have resistance:",
+        "options": [
+            "zero",
+            "finite",
+            "very high",
+            "very low"
+        ],
+        "answer": 2,
+        "explanation": "Very high resistance ensures negligible current draw."
+    },
+    {
+        "id": 374,
+        "question": "A galvanometer is converted into an ammeter by connecting a resistance in:",
+        "options": [
+            "series",
+            "parallel",
+            "across battery",
+            "across load"
+        ],
+        "answer": 1,
+        "explanation": "A low resistance shunt is connected in parallel."
+    },
+    {
+        "id": 375,
+        "question": "A galvanometer is converted into a voltmeter by connecting a resistance in:",
+        "options": [
+            "parallel",
+            "series",
+            "across battery",
+            "across load"
+        ],
+        "answer": 1,
+        "explanation": "A high resistance is connected in series."
+    },
+    {
+        "id": 376,
+        "question": "The Wheatstone bridge is balanced when:",
+        "options": [
+            "current through galvanometer is maximum",
+            "potential difference across galvanometer is zero",
+            "emf of battery is zero",
+            "all resistances are zero"
+        ],
+        "answer": 1,
+        "explanation": "Null deflection indicates balance."
+    },
+    {
+        "id": 377,
+        "question": "The meter bridge gives best accuracy when the balance point is near:",
+        "options": [
+            "one end",
+            "middle of the wire",
+            "battery terminal",
+            "galvanometer terminal"
+        ],
+        "answer": 1,
+        "explanation": "Midpoint balance minimizes end errors."
+    },
+    {
+        "id": 378,
+        "question": "The potentiometer works on the principle that potential drop along a wire is proportional to:",
+        "options": [
+            "area",
+            "current only",
+            "length",
+            "resistance only"
+        ],
+        "answer": 2,
+        "explanation": "For uniform wire and constant current, V ∝ l."
+    },
+    {
+        "id": 379,
+        "question": "The sensitivity of a potentiometer increases when the potential gradient is:",
+        "options": [
+            "increased",
+            "decreased",
+            "kept constant",
+            "made zero"
+        ],
+        "answer": 1,
+        "explanation": "Lower gradient detects smaller emf differences."
+    },
+    {
+        "id": 380,
+        "question": "The internal resistance of a cell using potentiometer is determined by comparing:",
+        "options": [
+            "currents",
+            "voltages",
+            "balancing lengths",
+            "resistances"
+        ],
+        "answer": 2,
+        "explanation": "Ratio of balancing lengths gives internal resistance."
+    },
+    {
+        "id": 381,
+        "question": "Electric current is considered scalar because:",
+        "options": [
+            "it has no direction",
+            "it obeys vector laws",
+            "it adds algebraically",
+            "it is flow of electrons"
+        ],
+        "answer": 2,
+        "explanation": "Currents add algebraically."
+    },
+    {
+        "id": 382,
+        "question": "The direction of conventional current is opposite to the motion of:",
+        "options": [
+            "positive ions",
+            "holes",
+            "electrons",
+            "protons"
+        ],
+        "answer": 2,
+        "explanation": "Electrons drift opposite to conventional current."
+    },
+    {
+        "id": 383,
+        "question": "The work done in moving a charge q through potential difference V is:",
+        "options": [
+            "V/q",
+            "q/V",
+            "qV",
+            "V²"
+        ],
+        "answer": 2,
+        "explanation": "Work done W = qV."
+    },
+    {
+        "id": 384,
+        "question": "The electric power consumed in a circuit can be written as:",
+        "options": [
+            "VI",
+            "I²R",
+            "V²/R",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All are equivalent expressions."
+    },
+    {
+        "id": 385,
+        "question": "The commercial unit of electrical energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Electrical energy billing uses kWh."
+    },
+    {
+        "id": 386,
+        "question": "One kilowatt-hour is equal to:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 3.6 × 10⁶ J."
+    },
+    {
+        "id": 387,
+        "question": "The fuse in an electric circuit works on the principle of:",
+        "options": [
+            "magnetic effect",
+            "chemical effect",
+            "heating effect",
+            "electrostatic effect"
+        ],
+        "answer": 2,
+        "explanation": "Excess current heats and melts the fuse."
+    },
+    {
+        "id": 388,
+        "question": "A rheostat is used to:",
+        "options": [
+            "store charge",
+            "measure current",
+            "vary resistance",
+            "measure voltage"
+        ],
+        "answer": 2,
+        "explanation": "Rheostat is a variable resistor."
+    },
+    {
+        "id": 389,
+        "question": "The SI unit of conductance is:",
+        "options": [
+            "ohm",
+            "siemens",
+            "volt",
+            "ampere"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is measured in siemens."
+    },
+    {
+        "id": 390,
+        "question": "The conductance of a wire increases when its:",
+        "options": [
+            "length increases",
+            "area increases",
+            "resistivity increases",
+            "temperature increases (metal)"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is proportional to cross-sectional area."
+    },
+    {
+        "id": 391,
+        "question": "The electric field inside a conductor carrying steady current is:",
+        "options": [
+            "zero",
+            "finite and uniform",
+            "infinite",
+            "variable"
+        ],
+        "answer": 1,
+        "explanation": "A finite field is required to maintain steady current."
+    },
+    {
+        "id": 392,
+        "question": "The electric field inside an ideal conductor in electrostatic equilibrium is:",
+        "options": [
+            "finite",
+            "maximum",
+            "zero",
+            "variable"
+        ],
+        "answer": 2,
+        "explanation": "Charges rearrange to cancel internal field."
+    },
+    {
+        "id": 393,
+        "question": "The work done per unit charge in an electric circuit is called:",
+        "options": [
+            "current",
+            "power",
+            "potential difference",
+            "emf"
+        ],
+        "answer": 2,
+        "explanation": "Potential difference equals work done per unit charge."
+    },
+    {
+        "id": 394,
+        "question": "The electric power rating of an appliance represents:",
+        "options": [
+            "total energy consumed",
+            "rate of energy consumption",
+            "current rating",
+            "voltage rating"
+        ],
+        "answer": 1,
+        "explanation": "Power is energy consumed per unit time."
+    },
+    {
+        "id": 395,
+        "question": "An electric heater converts electrical energy mainly into:",
+        "options": [
+            "light energy",
+            "sound energy",
+            "heat energy",
+            "mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect of current produces heat."
+    },
+    {
+        "id": 396,
+        "question": "A superconductor below its critical temperature has resistance:",
+        "options": [
+            "very high",
+            "finite",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Superconductors show zero resistance."
+    },
+    {
+        "id": 397,
+        "question": "The expulsion of magnetic field from a superconductor is called:",
+        "options": [
+            "Hall effect",
+            "Meissner effect",
+            "Joule effect",
+            "Faraday effect"
+        ],
+        "answer": 1,
+        "explanation": "Meissner effect expels magnetic field."
+    },
+    {
+        "id": 398,
+        "question": "Ohm’s law fails at high current mainly because:",
+        "options": [
+            "charge changes",
+            "temperature changes",
+            "length changes",
+            "area changes"
+        ],
+        "answer": 1,
+        "explanation": "Heating alters resistance."
+    },
+    {
+        "id": 399,
+        "question": "The direction of electric field in a metallic conductor is same as the direction of:",
+        "options": [
+            "electron motion",
+            "conventional current",
+            "negative charge flow",
+            "thermal motion"
+        ],
+        "answer": 1,
+        "explanation": "Electric field direction matches conventional current."
+    },
+    {
+        "id": 400,
+        "question": "Current Electricity as a chapter primarily deals with:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "magnetic effects",
+            "electromagnetic waves"
+        ],
+        "answer": 1,
+        "explanation": "The chapter studies motion of electric charges."
+    },
+    {
+        "id": 401,
+        "question": "The drift velocity of electrons in a conductor is directly proportional to the applied electric field because:",
+        "options": [
+            "electron mass decreases",
+            "number density increases",
+            "acceleration between collisions increases",
+            "thermal velocity increases"
+        ],
+        "answer": 2,
+        "explanation": "Electric field provides acceleration between successive collisions, increasing drift velocity."
+    },
+    {
+        "id": 402,
+        "question": "The average thermal velocity of electrons in a metal is of the order of:",
+        "options": [
+            "10⁻⁶ m s⁻¹",
+            "10² m s⁻¹",
+            "10⁵ m s⁻¹",
+            "10⁸ m s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "Thermal velocity of electrons is very large, around 10⁵ m s⁻¹."
+    },
+    {
+        "id": 403,
+        "question": "The drift velocity of electrons is very small compared to thermal velocity because:",
+        "options": [
+            "electric field is weak",
+            "collisions randomize motion",
+            "electron mass is large",
+            "charge is small"
+        ],
+        "answer": 1,
+        "explanation": "Random thermal motion dominates; drift is a small net effect."
+    },
+    {
+        "id": 404,
+        "question": "The microscopic form of Ohm’s law is valid when:",
+        "options": [
+            "electric field is strong",
+            "current is alternating",
+            "material is homogeneous and isotropic",
+            "temperature varies rapidly"
+        ],
+        "answer": 2,
+        "explanation": "J = σE holds for homogeneous, isotropic conductors."
+    },
+    {
+        "id": 405,
+        "question": "The SI unit of current density can also be written as:",
+        "options": [
+            "C m⁻²",
+            "A m⁻¹",
+            "A m⁻²",
+            "V m⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "Current density is current per unit area."
+    },
+    {
+        "id": 406,
+        "question": "The direction of current density is opposite to the direction of drift velocity of:",
+        "options": [
+            "positive ions",
+            "holes",
+            "electrons",
+            "protons"
+        ],
+        "answer": 2,
+        "explanation": "Electrons drift opposite to conventional current direction."
+    },
+    {
+        "id": 407,
+        "question": "For a metallic conductor, resistivity increases with temperature because:",
+        "options": [
+            "charge density decreases",
+            "electron charge changes",
+            "collision frequency increases",
+            "electric field decreases"
+        ],
+        "answer": 2,
+        "explanation": "Higher temperature increases lattice vibrations causing more collisions."
+    },
+    {
+        "id": 408,
+        "question": "Which of the following materials has nearly zero temperature coefficient of resistance?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Manganin",
+            "Iron"
+        ],
+        "answer": 2,
+        "explanation": "Manganin has very small temperature coefficient."
+    },
+    {
+        "id": 409,
+        "question": "If the length of a wire is increased by 20% keeping volume constant, its resistance increases by:",
+        "options": [
+            "20%",
+            "40%",
+            "44%",
+            "50%"
+        ],
+        "answer": 2,
+        "explanation": "Area decreases; R ∝ L², so (1.2)² ≈ 1.44."
+    },
+    {
+        "id": 410,
+        "question": "The equivalent resistance of a series–parallel combination is always:",
+        "options": [
+            "greater than largest resistance",
+            "less than smallest resistance",
+            "between smallest and largest",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "Combined effect gives intermediate value."
+    },
+    {
+        "id": 411,
+        "question": "In a parallel combination of resistors, power dissipation is maximum in the resistor with:",
+        "options": [
+            "highest resistance",
+            "lowest resistance",
+            "equal resistance",
+            "infinite resistance"
+        ],
+        "answer": 1,
+        "explanation": "For same voltage, P = V²/R, smaller R gives more power."
+    },
+    {
+        "id": 412,
+        "question": "The total power dissipated in a circuit is independent of:",
+        "options": [
+            "current",
+            "voltage",
+            "resistance",
+            "time"
+        ],
+        "answer": 3,
+        "explanation": "Power does not depend on duration."
+    },
+    {
+        "id": 413,
+        "question": "The emf of a cell is equal to its terminal voltage when:",
+        "options": [
+            "current is maximum",
+            "external resistance is zero",
+            "no current is drawn",
+            "cell is short-circuited"
+        ],
+        "answer": 2,
+        "explanation": "No internal voltage drop when current is zero."
+    },
+    {
+        "id": 414,
+        "question": "When a cell is charging, its terminal voltage is:",
+        "options": [
+            "less than emf",
+            "equal to emf",
+            "greater than emf",
+            "zero"
+        ],
+        "answer": 2,
+        "explanation": "During charging, terminal voltage exceeds emf."
+    },
+    {
+        "id": 415,
+        "question": "The internal resistance of a cell decreases when:",
+        "options": [
+            "electrode separation increases",
+            "electrode area increases",
+            "electrolyte concentration decreases",
+            "temperature decreases"
+        ],
+        "answer": 1,
+        "explanation": "Larger electrode area reduces internal resistance."
+    },
+    {
+        "id": 416,
+        "question": "Maximum power is transferred from a cell to external circuit when:",
+        "options": [
+            "R = 0",
+            "R = r",
+            "R → ∞",
+            "R = 2r"
+        ],
+        "answer": 1,
+        "explanation": "Condition for maximum power transfer."
+    },
+    {
+        "id": 417,
+        "question": "At maximum power transfer condition, the internal power loss is:",
+        "options": [
+            "zero",
+            "equal to external power",
+            "minimum",
+            "maximum"
+        ],
+        "answer": 1,
+        "explanation": "At R = r, power loss equals power delivered."
+    },
+    {
+        "id": 418,
+        "question": "Kirchhoff’s laws are applicable only when:",
+        "options": [
+            "current is alternating",
+            "electric field is non-conservative",
+            "circuit elements are lumped",
+            "resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "Lumped circuit assumption is required."
+    },
+    {
+        "id": 419,
+        "question": "An ammeter is connected in series because it measures:",
+        "options": [
+            "potential difference",
+            "power",
+            "current through element",
+            "emf"
+        ],
+        "answer": 2,
+        "explanation": "Series connection ensures same current flows."
+    },
+    {
+        "id": 420,
+        "question": "A voltmeter should not be connected in series because:",
+        "options": [
+            "it has low resistance",
+            "it has high resistance",
+            "it changes emf",
+            "it melts"
+        ],
+        "answer": 1,
+        "explanation": "High resistance would reduce circuit current."
+    },
+    {
+        "id": 421,
+        "question": "The Wheatstone bridge is most accurate when resistances are:",
+        "options": [
+            "very large",
+            "very small",
+            "nearly equal",
+            "random"
+        ],
+        "answer": 2,
+        "explanation": "Sensitivity is maximum for nearly equal arms."
+    },
+    {
+        "id": 422,
+        "question": "The meter bridge error due to end resistance is minimized when balance point is near:",
+        "options": [
+            "zero end",
+            "one end",
+            "middle",
+            "battery terminal"
+        ],
+        "answer": 2,
+        "explanation": "Midpoint balance reduces systematic errors."
+    },
+    {
+        "id": 423,
+        "question": "A potentiometer is preferred over voltmeter because it:",
+        "options": [
+            "has low resistance",
+            "draws no current from source",
+            "is portable",
+            "is cheaper"
+        ],
+        "answer": 1,
+        "explanation": "Null method avoids loading effect."
+    },
+    {
+        "id": 424,
+        "question": "The potential gradient of a potentiometer wire depends on:",
+        "options": [
+            "length only",
+            "material only",
+            "current through wire",
+            "external load"
+        ],
+        "answer": 2,
+        "explanation": "Potential gradient ∝ current."
+    },
+    {
+        "id": 425,
+        "question": "The sensitivity of a potentiometer increases if:",
+        "options": [
+            "current increases",
+            "wire length decreases",
+            "potential gradient decreases",
+            "emf increases"
+        ],
+        "answer": 2,
+        "explanation": "Smaller gradient allows detection of small voltages."
+    },
+    {
+        "id": 426,
+        "question": "The internal resistance of a cell using potentiometer is found by comparing:",
+        "options": [
+            "currents",
+            "emfs",
+            "balancing lengths",
+            "resistances"
+        ],
+        "answer": 2,
+        "explanation": "Ratio of balancing lengths gives internal resistance."
+    },
+    {
+        "id": 427,
+        "question": "Electric current is a scalar quantity because:",
+        "options": [
+            "it has no direction",
+            "it follows vector addition",
+            "it adds algebraically",
+            "it is charge flow"
+        ],
+        "answer": 2,
+        "explanation": "Currents combine algebraically."
+    },
+    {
+        "id": 428,
+        "question": "The direction of conventional current is opposite to motion of:",
+        "options": [
+            "positive charges",
+            "holes",
+            "electrons",
+            "ions"
+        ],
+        "answer": 2,
+        "explanation": "Electrons move opposite to conventional current."
+    },
+    {
+        "id": 429,
+        "question": "The work done per unit charge in an electric circuit is:",
+        "options": [
+            "power",
+            "current",
+            "potential difference",
+            "emf"
+        ],
+        "answer": 2,
+        "explanation": "Potential difference equals work per unit charge."
+    },
+    {
+        "id": 430,
+        "question": "The power rating of an electrical appliance indicates:",
+        "options": [
+            "total energy consumed",
+            "energy per unit time",
+            "current rating",
+            "voltage rating"
+        ],
+        "answer": 1,
+        "explanation": "Power is rate of energy consumption."
+    },
+    {
+        "id": 431,
+        "question": "A fuse wire should have high:",
+        "options": [
+            "melting point",
+            "conductivity",
+            "resistivity",
+            "density"
+        ],
+        "answer": 2,
+        "explanation": "High resistivity helps it heat quickly."
+    },
+    {
+        "id": 432,
+        "question": "The electric current in semiconductors is due to motion of:",
+        "options": [
+            "electrons only",
+            "holes only",
+            "both electrons and holes",
+            "ions"
+        ],
+        "answer": 2,
+        "explanation": "Both charge carriers contribute."
+    },
+    {
+        "id": 433,
+        "question": "The SI unit of conductance is equivalent to:",
+        "options": [
+            "Ω",
+            "A V⁻¹",
+            "V A⁻¹",
+            "Ω m"
+        ],
+        "answer": 1,
+        "explanation": "Siemens = ampere per volt."
+    },
+    {
+        "id": 434,
+        "question": "The electric field inside a conductor carrying steady current is:",
+        "options": [
+            "zero",
+            "finite",
+            "infinite",
+            "random"
+        ],
+        "answer": 1,
+        "explanation": "A finite field is needed to maintain current."
+    },
+    {
+        "id": 435,
+        "question": "The resistance of a conductor does not depend on:",
+        "options": [
+            "length",
+            "area",
+            "material",
+            "current"
+        ],
+        "answer": 3,
+        "explanation": "Resistance is independent of current."
+    },
+    {
+        "id": 436,
+        "question": "The heating effect of electric current depends on:",
+        "options": [
+            "I²Rt",
+            "IRt",
+            "VIt",
+            "Rt"
+        ],
+        "answer": 0,
+        "explanation": "Joule’s law of heating."
+    },
+    {
+        "id": 437,
+        "question": "The commercial unit of electrical energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Energy consumption is measured in kWh."
+    },
+    {
+        "id": 438,
+        "question": "One kilowatt-hour is equal to:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 3.6 × 10⁶ J."
+    },
+    {
+        "id": 439,
+        "question": "The resistance of a superconductor below critical temperature is:",
+        "options": [
+            "finite",
+            "very small",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Superconductors show zero resistance."
+    },
+    {
+        "id": 440,
+        "question": "The expulsion of magnetic field from a superconductor is known as:",
+        "options": [
+            "Hall effect",
+            "Joule effect",
+            "Meissner effect",
+            "Faraday effect"
+        ],
+        "answer": 2,
+        "explanation": "Meissner effect expels magnetic field."
+    },
+    {
+        "id": 441,
+        "question": "Ohm’s law fails at high current mainly because:",
+        "options": [
+            "electron charge changes",
+            "temperature rises",
+            "length changes",
+            "area changes"
+        ],
+        "answer": 1,
+        "explanation": "Heating changes resistance."
+    },
+    {
+        "id": 442,
+        "question": "The electric field direction inside a metallic conductor is same as direction of:",
+        "options": [
+            "electron motion",
+            "conventional current",
+            "negative charge flow",
+            "thermal motion"
+        ],
+        "answer": 1,
+        "explanation": "Electric field aligns with conventional current."
+    },
+    {
+        "id": 443,
+        "question": "The rate of flow of electric charge is called:",
+        "options": [
+            "power",
+            "current",
+            "potential difference",
+            "emf"
+        ],
+        "answer": 1,
+        "explanation": "Current is rate of flow of charge."
+    },
+    {
+        "id": 444,
+        "question": "The SI unit of electric current is:",
+        "options": [
+            "volt",
+            "ohm",
+            "ampere",
+            "coulomb"
+        ],
+        "answer": 2,
+        "explanation": "Current is measured in ampere."
+    },
+    {
+        "id": 445,
+        "question": "Electric current in metals is due to motion of:",
+        "options": [
+            "ions",
+            "holes",
+            "electrons",
+            "protons"
+        ],
+        "answer": 2,
+        "explanation": "Free electrons carry current in metals."
+    },
+    {
+        "id": 446,
+        "question": "The direction of electric field is defined as direction of force on a:",
+        "options": [
+            "negative charge",
+            "positive test charge",
+            "electron",
+            "ion"
+        ],
+        "answer": 1,
+        "explanation": "Electric field direction follows force on positive test charge."
+    },
+    {
+        "id": 447,
+        "question": "The potential difference between two points is defined as:",
+        "options": [
+            "energy supplied",
+            "work done per unit charge",
+            "current per unit charge",
+            "power per unit charge"
+        ],
+        "answer": 1,
+        "explanation": "Potential difference equals work per unit charge."
+    },
+    {
+        "id": 448,
+        "question": "The electric power consumed by a device is given by:",
+        "options": [
+            "VI",
+            "I²R",
+            "V²/R",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All expressions represent power."
+    },
+    {
+        "id": 449,
+        "question": "The resistance of a wire is doubled if its length is doubled and area is:",
+        "options": [
+            "doubled",
+            "halved",
+            "kept same",
+            "quadrupled"
+        ],
+        "answer": 2,
+        "explanation": "R ∝ L when area is constant."
+    },
+    {
+        "id": 450,
+        "question": "Current Electricity mainly deals with the study of:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "electric fields only",
+            "magnetic effects only"
+        ],
+        "answer": 1,
+        "explanation": "The chapter studies moving electric charges."
+    },
+    {
+        "id": 451,
+        "question": "The drift velocity of charge carriers in a conductor increases when:",
+        "options": [
+            "temperature increases",
+            "electric field increases",
+            "collision time decreases",
+            "number density decreases"
+        ],
+        "answer": 1,
+        "explanation": "From v_d = eEτ/m, drift velocity is directly proportional to electric field."
+    },
+    {
+        "id": 452,
+        "question": "The average time between successive collisions of electrons in a conductor is called:",
+        "options": [
+            "mobility",
+            "drift time",
+            "relaxation time",
+            "mean lifetime"
+        ],
+        "answer": 2,
+        "explanation": "Relaxation time is the average time between collisions."
+    },
+    {
+        "id": 453,
+        "question": "The mobility of electrons in a conductor is defined as:",
+        "options": [
+            "v_d/E",
+            "E/v_d",
+            "I/A",
+            "ρ/E"
+        ],
+        "answer": 0,
+        "explanation": "Mobility μ = v_d/E."
+    },
+    {
+        "id": 454,
+        "question": "The SI unit of mobility is:",
+        "options": [
+            "m² V⁻¹ s⁻¹",
+            "m s⁻¹",
+            "V m⁻¹",
+            "A m⁻²"
+        ],
+        "answer": 0,
+        "explanation": "Mobility has units of m² per volt per second."
+    },
+    {
+        "id": 455,
+        "question": "The conductivity of a conductor is directly proportional to:",
+        "options": [
+            "resistivity",
+            "electric field",
+            "relaxation time",
+            "length of conductor"
+        ],
+        "answer": 2,
+        "explanation": "σ = ne²τ/m, so conductivity is proportional to relaxation time."
+    },
+    {
+        "id": 456,
+        "question": "The resistivity of a material is independent of:",
+        "options": [
+            "length",
+            "area",
+            "temperature",
+            "nature of material"
+        ],
+        "answer": 0,
+        "explanation": "Resistivity is a material property independent of dimensions."
+    },
+    {
+        "id": 457,
+        "question": "Which of the following materials has the highest resistivity?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Glass",
+            "Aluminium"
+        ],
+        "answer": 2,
+        "explanation": "Glass is an insulator with very high resistivity."
+    },
+    {
+        "id": 458,
+        "question": "If the radius of a wire is halved, keeping length constant, its resistance becomes:",
+        "options": [
+            "double",
+            "four times",
+            "half",
+            "one-fourth"
+        ],
+        "answer": 1,
+        "explanation": "Area becomes one-fourth, so resistance becomes four times."
+    },
+    {
+        "id": 459,
+        "question": "The equivalent resistance of two resistors connected in series is R. If connected in parallel, the equivalent resistance will be:",
+        "options": [
+            "greater than R",
+            "equal to R",
+            "less than R",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Parallel combination gives smaller resistance."
+    },
+    {
+        "id": 460,
+        "question": "In a parallel circuit, the potential difference across each resistor is:",
+        "options": [
+            "different",
+            "zero",
+            "same",
+            "maximum in smallest resistor"
+        ],
+        "answer": 2,
+        "explanation": "All parallel branches have same potential difference."
+    },
+    {
+        "id": 461,
+        "question": "In a series circuit, the current through each resistor is:",
+        "options": [
+            "different",
+            "zero",
+            "same",
+            "maximum in smallest resistor"
+        ],
+        "answer": 2,
+        "explanation": "Same current flows through all series elements."
+    },
+    {
+        "id": 462,
+        "question": "The power dissipated in a resistor is maximum when it is connected:",
+        "options": [
+            "in series",
+            "in parallel",
+            "to a constant current source",
+            "to a constant voltage source with least resistance"
+        ],
+        "answer": 3,
+        "explanation": "For constant voltage, P = V²/R is maximum for minimum R."
+    },
+    {
+        "id": 463,
+        "question": "The heat produced in a conductor depends on:",
+        "options": [
+            "I²Rt",
+            "IRt",
+            "VIt",
+            "Rt"
+        ],
+        "answer": 0,
+        "explanation": "Joule’s law of heating gives H = I²Rt."
+    },
+    {
+        "id": 464,
+        "question": "The emf of a cell is measured accurately using:",
+        "options": [
+            "ammeter",
+            "voltmeter",
+            "potentiometer",
+            "galvanometer"
+        ],
+        "answer": 2,
+        "explanation": "Potentiometer measures emf without drawing current."
+    },
+    {
+        "id": 465,
+        "question": "The terminal voltage of a cell becomes less than its emf when:",
+        "options": [
+            "no current flows",
+            "cell is charging",
+            "cell is discharging",
+            "internal resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "During discharge, voltage drops across internal resistance."
+    },
+    {
+        "id": 466,
+        "question": "The internal resistance of a cell is minimum when:",
+        "options": [
+            "electrode area is large",
+            "electrode separation is large",
+            "electrolyte concentration is low",
+            "temperature is low"
+        ],
+        "answer": 0,
+        "explanation": "Larger electrode area reduces internal resistance."
+    },
+    {
+        "id": 467,
+        "question": "At maximum power transfer condition, the external resistance is:",
+        "options": [
+            "zero",
+            "equal to internal resistance",
+            "infinite",
+            "twice the internal resistance"
+        ],
+        "answer": 1,
+        "explanation": "Maximum power is delivered when R = r."
+    },
+    {
+        "id": 468,
+        "question": "The efficiency of a cell is defined as:",
+        "options": [
+            "E/V",
+            "V/E",
+            "I/E",
+            "R/r"
+        ],
+        "answer": 1,
+        "explanation": "Efficiency equals terminal voltage divided by emf."
+    },
+    {
+        "id": 469,
+        "question": "Kirchhoff’s first law is based on conservation of:",
+        "options": [
+            "energy",
+            "charge",
+            "momentum",
+            "mass"
+        ],
+        "answer": 1,
+        "explanation": "Charge is conserved at a junction."
+    },
+    {
+        "id": 470,
+        "question": "Kirchhoff’s second law is applicable only when:",
+        "options": [
+            "current is alternating",
+            "electric field is conservative",
+            "resistance is zero",
+            "voltage is constant"
+        ],
+        "answer": 1,
+        "explanation": "Loop rule assumes conservative electric field."
+    },
+    {
+        "id": 471,
+        "question": "An ideal ammeter has:",
+        "options": [
+            "high resistance",
+            "infinite resistance",
+            "zero resistance",
+            "finite resistance"
+        ],
+        "answer": 2,
+        "explanation": "Zero resistance avoids change in circuit current."
+    },
+    {
+        "id": 472,
+        "question": "An ideal voltmeter has:",
+        "options": [
+            "zero resistance",
+            "finite resistance",
+            "very high resistance",
+            "very low resistance"
+        ],
+        "answer": 2,
+        "explanation": "High resistance ensures negligible current draw."
+    },
+    {
+        "id": 473,
+        "question": "A galvanometer is converted into an ammeter by connecting a resistance:",
+        "options": [
+            "in series",
+            "in parallel",
+            "across battery",
+            "across load"
+        ],
+        "answer": 1,
+        "explanation": "A low resistance shunt is connected in parallel."
+    },
+    {
+        "id": 474,
+        "question": "A galvanometer is converted into a voltmeter by connecting a resistance:",
+        "options": [
+            "in parallel",
+            "in series",
+            "across battery",
+            "across load"
+        ],
+        "answer": 1,
+        "explanation": "A high resistance is connected in series."
+    },
+    {
+        "id": 475,
+        "question": "The Wheatstone bridge is balanced when:",
+        "options": [
+            "current through galvanometer is maximum",
+            "potential difference across galvanometer is zero",
+            "emf is zero",
+            "resistance is zero"
+        ],
+        "answer": 1,
+        "explanation": "Balance corresponds to null deflection."
+    },
+    {
+        "id": 476,
+        "question": "The meter bridge is based on:",
+        "options": [
+            "Ohm’s law",
+            "Kirchhoff’s law",
+            "Wheatstone bridge principle",
+            "Potentiometer principle"
+        ],
+        "answer": 2,
+        "explanation": "Meter bridge is a practical Wheatstone bridge."
+    },
+    {
+        "id": 477,
+        "question": "The potentiometer works on the principle that potential drop along a wire is proportional to:",
+        "options": [
+            "area",
+            "length",
+            "resistance",
+            "charge"
+        ],
+        "answer": 1,
+        "explanation": "For uniform wire and constant current, V ∝ l."
+    },
+    {
+        "id": 478,
+        "question": "The potential gradient of a potentiometer wire can be decreased by:",
+        "options": [
+            "increasing current",
+            "decreasing current",
+            "decreasing wire length",
+            "increasing emf"
+        ],
+        "answer": 1,
+        "explanation": "Lower current reduces potential drop per unit length."
+    },
+    {
+        "id": 479,
+        "question": "The internal resistance of a cell using potentiometer is determined by comparing:",
+        "options": [
+            "currents",
+            "voltages",
+            "balancing lengths",
+            "resistances"
+        ],
+        "answer": 2,
+        "explanation": "Ratio of balancing lengths gives internal resistance."
+    },
+    {
+        "id": 480,
+        "question": "Electric current is a scalar quantity because:",
+        "options": [
+            "it has no magnitude",
+            "it has no direction",
+            "it adds algebraically",
+            "it is charge flow"
+        ],
+        "answer": 2,
+        "explanation": "Currents combine algebraically."
+    },
+    {
+        "id": 481,
+        "question": "The conventional direction of current is opposite to the motion of:",
+        "options": [
+            "positive ions",
+            "holes",
+            "electrons",
+            "protons"
+        ],
+        "answer": 2,
+        "explanation": "Electrons drift opposite to conventional current."
+    },
+    {
+        "id": 482,
+        "question": "The work done in moving a charge q through a potential difference V is:",
+        "options": [
+            "V/q",
+            "q/V",
+            "qV",
+            "V²"
+        ],
+        "answer": 2,
+        "explanation": "Work done W = qV."
+    },
+    {
+        "id": 483,
+        "question": "The electric power consumed in a circuit can be written as:",
+        "options": [
+            "VI",
+            "I²R",
+            "V²/R",
+            "all of these"
+        ],
+        "answer": 3,
+        "explanation": "All expressions are equivalent forms of power."
+    },
+    {
+        "id": 484,
+        "question": "The commercial unit of electrical energy is:",
+        "options": [
+            "joule",
+            "watt",
+            "kilowatt-hour",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Electrical energy is billed in kilowatt-hour."
+    },
+    {
+        "id": 485,
+        "question": "One kilowatt-hour is equal to:",
+        "options": [
+            "3.6 × 10⁵ J",
+            "3.6 × 10⁶ J",
+            "3.6 × 10⁷ J",
+            "360 J"
+        ],
+        "answer": 1,
+        "explanation": "1 kWh = 3.6 × 10⁶ J."
+    },
+    {
+        "id": 486,
+        "question": "A fuse wire should have:",
+        "options": [
+            "low resistivity and high melting point",
+            "high resistivity and low melting point",
+            "low resistivity and low melting point",
+            "high resistivity and high melting point"
+        ],
+        "answer": 1,
+        "explanation": "High resistivity and low melting point ensure quick melting."
+    },
+    {
+        "id": 487,
+        "question": "The electric current in electrolytes is due to motion of:",
+        "options": [
+            "electrons",
+            "holes",
+            "ions",
+            "protons only"
+        ],
+        "answer": 2,
+        "explanation": "Ions carry current in electrolytes."
+    },
+    {
+        "id": 488,
+        "question": "The electric current in semiconductors is due to:",
+        "options": [
+            "electrons only",
+            "holes only",
+            "both electrons and holes",
+            "ions"
+        ],
+        "answer": 2,
+        "explanation": "Both electrons and holes contribute."
+    },
+    {
+        "id": 489,
+        "question": "The SI unit of conductance is:",
+        "options": [
+            "ohm",
+            "siemens",
+            "ampere",
+            "volt"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is measured in siemens."
+    },
+    {
+        "id": 490,
+        "question": "The conductance of a wire increases when its:",
+        "options": [
+            "length increases",
+            "area increases",
+            "resistivity increases",
+            "temperature increases (metal)"
+        ],
+        "answer": 1,
+        "explanation": "Conductance is proportional to cross-sectional area."
+    },
+    {
+        "id": 491,
+        "question": "The electric field inside a conductor carrying steady current is:",
+        "options": [
+            "zero",
+            "finite",
+            "infinite",
+            "random"
+        ],
+        "answer": 1,
+        "explanation": "A finite electric field maintains steady current."
+    },
+    {
+        "id": 492,
+        "question": "The electric field inside an ideal conductor in electrostatic equilibrium is:",
+        "options": [
+            "finite",
+            "maximum",
+            "zero",
+            "variable"
+        ],
+        "answer": 2,
+        "explanation": "Charges rearrange to cancel internal field."
+    },
+    {
+        "id": 493,
+        "question": "The work done per unit charge in an electric circuit is called:",
+        "options": [
+            "current",
+            "power",
+            "potential difference",
+            "emf"
+        ],
+        "answer": 2,
+        "explanation": "Potential difference equals work per unit charge."
+    },
+    {
+        "id": 494,
+        "question": "The electric power rating of an appliance represents:",
+        "options": [
+            "total energy consumed",
+            "rate of energy consumption",
+            "current rating",
+            "voltage rating"
+        ],
+        "answer": 1,
+        "explanation": "Power is energy consumed per unit time."
+    },
+    {
+        "id": 495,
+        "question": "An electric heater converts electrical energy mainly into:",
+        "options": [
+            "light energy",
+            "sound energy",
+            "heat energy",
+            "mechanical energy"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect of current produces heat."
+    },
+    {
+        "id": 496,
+        "question": "A superconductor below its critical temperature has resistance:",
+        "options": [
+            "very high",
+            "finite",
+            "zero",
+            "infinite"
+        ],
+        "answer": 2,
+        "explanation": "Superconductors show zero resistance."
+    },
+    {
+        "id": 497,
+        "question": "The phenomenon of expulsion of magnetic field from a superconductor is called:",
+        "options": [
+            "Hall effect",
+            "Meissner effect",
+            "Joule effect",
+            "Faraday effect"
+        ],
+        "answer": 1,
+        "explanation": "Meissner effect expels magnetic field."
+    },
+    {
+        "id": 498,
+        "question": "Ohm’s law fails at high current mainly because:",
+        "options": [
+            "charge changes",
+            "temperature rises",
+            "length changes",
+            "area changes"
+        ],
+        "answer": 1,
+        "explanation": "Heating changes resistance."
+    },
+    {
+        "id": 499,
+        "question": "The direction of electric field inside a metallic conductor is same as direction of:",
+        "options": [
+            "electron motion",
+            "conventional current",
+            "negative charge flow",
+            "thermal motion"
+        ],
+        "answer": 1,
+        "explanation": "Electric field aligns with conventional current."
+    },
+    {
+        "id": 500,
+        "question": "Current Electricity as a chapter fundamentally deals with:",
+        "options": [
+            "charges at rest",
+            "charges in motion",
+            "electric fields only",
+            "magnetic effects only"
+        ],
+        "answer": 1,
+        "explanation": "The chapter studies motion of electric charges."
+    }
+]

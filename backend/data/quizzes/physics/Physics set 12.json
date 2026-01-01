@@ -1,0 +1,614 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves with acceleration a = 6 − 2t (m/s^2). If its velocity at t = 0 is 4 m/s, the velocity at t = 2 s is:",
+        "options": [
+            "8 m/s",
+            "10 m/s",
+            "12 m/s",
+            "14 m/s"
+        ],
+        "answer": 1,
+        "explanation": "v = u + ∫0^2 (6 − 2t)dt = 4 + [6t − t^2]_0^2 = 4 + (12 − 4) = 12 m/s."
+    },
+    {
+        "id": 2,
+        "question": "A projectile is launched with speed 25 m/s at 37°. The maximum height reached (g = 10 m/s^2, sin37° = 0.6) is:",
+        "options": [
+            "9 m",
+            "11.25 m",
+            "15 m",
+            "18.75 m"
+        ],
+        "answer": 1,
+        "explanation": "H = u^2 sin^2θ/(2g) = 625×0.36/20 = 11.25 m."
+    },
+    {
+        "id": 3,
+        "question": "A 2 kg block moving at 6 m/s collides elastically with a stationary 4 kg block. The speed of the 2 kg block after collision is:",
+        "options": [
+            "−2 m/s",
+            "−4 m/s",
+            "0 m/s",
+            "2 m/s"
+        ],
+        "answer": 0,
+        "explanation": "v1 = (m1−m2)/(m1+m2)·u1 = (2−4)/6×6 = −2 m/s."
+    },
+    {
+        "id": 4,
+        "question": "The work done by force F = 5x (N) from x = 0 to x = 4 m is:",
+        "options": [
+            "20 J",
+            "30 J",
+            "40 J",
+            "50 J"
+        ],
+        "answer": 2,
+        "explanation": "W = ∫0^4 5x dx = (5/2)x^2|0^4 = 40 J."
+    },
+    {
+        "id": 5,
+        "question": "For pure rolling of a ring, the ratio of rotational KE to translational KE is:",
+        "options": [
+            "1",
+            "1/2",
+            "2",
+            "1/3"
+        ],
+        "answer": 0,
+        "explanation": "For ring, I = MR^2 ⇒ KE_r/KE_t = 1."
+    },
+    {
+        "id": 6,
+        "question": "The total mechanical energy of a satellite in circular orbit of radius r is:",
+        "options": [
+            "−GMm/2r",
+            "−GMm/r",
+            "GMm/2r",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "E = −GMm/(2r)."
+    },
+    {
+        "id": 7,
+        "question": "Terminal velocity of a sphere in a viscous liquid is inversely proportional to:",
+        "options": [
+            "Viscosity",
+            "Radius",
+            "Density difference",
+            "Gravity"
+        ],
+        "answer": 0,
+        "explanation": "v_t ∝ 1/η from Stokes’ law."
+    },
+    {
+        "id": 8,
+        "question": "The dimensional formula of Young’s modulus is:",
+        "options": [
+            "ML^−1T^−2",
+            "MLT^−2",
+            "M^0LT^−2",
+            "ML^2T^−2"
+        ],
+        "answer": 0,
+        "explanation": "Young’s modulus has dimensions of pressure."
+    },
+    {
+        "id": 9,
+        "question": "In an isobaric process for an ideal gas, the work done is:",
+        "options": [
+            "P(V2−V1)",
+            "nRT ln(V2/V1)",
+            "Zero",
+            "nCvΔT"
+        ],
+        "answer": 0,
+        "explanation": "At constant pressure, W = PΔV."
+    },
+    {
+        "id": 10,
+        "question": "The phase difference between displacement and acceleration in SHM is:",
+        "options": [
+            "π",
+            "π/2",
+            "0",
+            "2π"
+        ],
+        "answer": 0,
+        "explanation": "Acceleration is opposite to displacement."
+    },
+    {
+        "id": 11,
+        "question": "The speed of sound in a gas is proportional to:",
+        "options": [
+            "√(γT)",
+            "T",
+            "1/√T",
+            "Pressure"
+        ],
+        "answer": 0,
+        "explanation": "v = √(γRT/M) ∝ √T."
+    },
+    {
+        "id": 12,
+        "question": "The electric field due to a point charge varies with distance r as:",
+        "options": [
+            "1/r^2",
+            "1/r",
+            "r",
+            "r^2"
+        ],
+        "answer": 0,
+        "explanation": "E = kq/r^2."
+    },
+    {
+        "id": 13,
+        "question": "Capacitance of a parallel plate capacitor is independent of:",
+        "options": [
+            "Charge on plates",
+            "Plate area",
+            "Plate separation",
+            "Dielectric constant"
+        ],
+        "answer": 0,
+        "explanation": "C depends on geometry and dielectric, not on charge."
+    },
+    {
+        "id": 14,
+        "question": "Drift velocity of electrons in a conductor is proportional to:",
+        "options": [
+            "Electric field",
+            "Potential only",
+            "Length",
+            "Area"
+        ],
+        "answer": 0,
+        "explanation": "v_d = μE."
+    },
+    {
+        "id": 15,
+        "question": "The magnetic field at the center of a circular coil with N turns is proportional to:",
+        "options": [
+            "NI",
+            "I/R",
+            "N/R",
+            "R"
+        ],
+        "answer": 0,
+        "explanation": "B = μ0NI/(2R)."
+    },
+    {
+        "id": 16,
+        "question": "The SI unit of magnetic flux density is:",
+        "options": [
+            "Tesla",
+            "Weber",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux density B is measured in tesla."
+    },
+    {
+        "id": 17,
+        "question": "The induced emf in a coil is zero when:",
+        "options": [
+            "Flux is constant",
+            "Flux is maximum",
+            "Area is large",
+            "Resistance is high"
+        ],
+        "answer": 0,
+        "explanation": "ε ∝ dΦ/dt."
+    },
+    {
+        "id": 18,
+        "question": "In an AC circuit, the average power consumed by a pure inductor is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Voltage and current are 90° out of phase."
+    },
+    {
+        "id": 19,
+        "question": "At resonance in an LCR circuit, the current is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Independent of R"
+        ],
+        "answer": 0,
+        "explanation": "Impedance is minimum at resonance."
+    },
+    {
+        "id": 20,
+        "question": "The focal length of a concave mirror (by sign convention) is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Concave mirror has negative focal length."
+    },
+    {
+        "id": 21,
+        "question": "A convex lens forms a virtual image when the object is placed:",
+        "options": [
+            "Within focal length",
+            "Beyond focal length",
+            "At infinity",
+            "At 2F"
+        ],
+        "answer": 0,
+        "explanation": "Object inside focus gives virtual image."
+    },
+    {
+        "id": 22,
+        "question": "In Young’s double slit experiment, fringe width is proportional to:",
+        "options": [
+            "Wavelength",
+            "Slit separation",
+            "1/Screen distance",
+            "Intensity"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 23,
+        "question": "The stopping potential in photoelectric effect measures:",
+        "options": [
+            "Maximum kinetic energy",
+            "Intensity",
+            "Work function only",
+            "Frequency"
+        ],
+        "answer": 0,
+        "explanation": "eV0 = KE_max."
+    },
+    {
+        "id": 24,
+        "question": "The de Broglie wavelength of an electron accelerated through potential V is:",
+        "options": [
+            "h/√(2meV)",
+            "h/eV",
+            "√(2meV)/h",
+            "h/2meV"
+        ],
+        "answer": 0,
+        "explanation": "λ = h/√(2meV)."
+    },
+    {
+        "id": 25,
+        "question": "The binding energy per nucleon is highest for:",
+        "options": [
+            "Iron",
+            "Helium",
+            "Uranium",
+            "Hydrogen"
+        ],
+        "answer": 0,
+        "explanation": "Maximum near A ≈ 56 (iron)."
+    },
+    {
+        "id": 26,
+        "question": "The SI unit of activity of a radioactive sample is:",
+        "options": [
+            "Becquerel",
+            "Gray",
+            "Sievert",
+            "Curie"
+        ],
+        "answer": 0,
+        "explanation": "Activity is measured in becquerel."
+    },
+    {
+        "id": 27,
+        "question": "The conductivity of a semiconductor increases with increase in:",
+        "options": [
+            "Temperature",
+            "Pressure",
+            "Length",
+            "Area"
+        ],
+        "answer": 0,
+        "explanation": "Carrier concentration increases with temperature."
+    },
+    {
+        "id": 28,
+        "question": "In a p-n junction diode, the depletion layer is formed due to:",
+        "options": [
+            "Diffusion of carriers",
+            "Drift only",
+            "External field",
+            "Heating"
+        ],
+        "answer": 0,
+        "explanation": "Diffusion causes recombination forming depletion region."
+    },
+    {
+        "id": 29,
+        "question": "The current gain in common emitter configuration is:",
+        "options": [
+            "β",
+            "α",
+            "γ",
+            "δ"
+        ],
+        "answer": 0,
+        "explanation": "CE current gain is β."
+    },
+    {
+        "id": 30,
+        "question": "The dimensional formula of electric field is:",
+        "options": [
+            "MLT^−3I^−1",
+            "MLT^−2",
+            "MT^−2I^−1",
+            "LT^−1"
+        ],
+        "answer": 0,
+        "explanation": "E = F/q."
+    },
+    {
+        "id": 31,
+        "question": "The escape speed from Earth is independent of:",
+        "options": [
+            "Mass of the body",
+            "Mass of Earth",
+            "Radius of Earth",
+            "Gravitational constant"
+        ],
+        "answer": 0,
+        "explanation": "v_e = √(2GM/R)."
+    },
+    {
+        "id": 32,
+        "question": "The coefficient of viscosity of a liquid decreases with:",
+        "options": [
+            "Increase in temperature",
+            "Increase in pressure",
+            "Increase in density",
+            "Decrease in volume"
+        ],
+        "answer": 0,
+        "explanation": "Liquids become less viscous at higher temperature."
+    },
+    {
+        "id": 33,
+        "question": "The electric potential inside a conducting sphere is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Maximum at center",
+            "Minimum at surface"
+        ],
+        "answer": 0,
+        "explanation": "Potential remains constant inside conductor."
+    },
+    {
+        "id": 34,
+        "question": "The magnetic field inside a long solenoid is:",
+        "options": [
+            "Uniform",
+            "Zero",
+            "Non-uniform",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Long solenoid produces uniform field."
+    },
+    {
+        "id": 35,
+        "question": "The power factor of an AC circuit is:",
+        "options": [
+            "cosφ",
+            "sinφ",
+            "tanφ",
+            "1/φ"
+        ],
+        "answer": 0,
+        "explanation": "Power factor = cosφ."
+    },
+    {
+        "id": 36,
+        "question": "A concave mirror forms a virtual image when the object is placed:",
+        "options": [
+            "Between pole and focus",
+            "Beyond focus",
+            "At center of curvature",
+            "At infinity"
+        ],
+        "answer": 0,
+        "explanation": "Within focal length, image is virtual."
+    },
+    {
+        "id": 37,
+        "question": "The refractive index of a medium is inversely proportional to:",
+        "options": [
+            "Speed of light in medium",
+            "Wavelength",
+            "Frequency",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "n = c/v."
+    },
+    {
+        "id": 38,
+        "question": "The work function of a metal is expressed in:",
+        "options": [
+            "eV",
+            "J",
+            "W",
+            "N"
+        ],
+        "answer": 0,
+        "explanation": "Work function is an energy quantity."
+    },
+    {
+        "id": 39,
+        "question": "The energy of a photon is given by:",
+        "options": [
+            "hν",
+            "hc",
+            "h/λ",
+            "Both A and C"
+        ],
+        "answer": 3,
+        "explanation": "E = hν = hc/λ."
+    },
+    {
+        "id": 40,
+        "question": "The decay constant of a radioactive substance depends on:",
+        "options": [
+            "Nature of nucleus",
+            "Temperature",
+            "Pressure",
+            "Chemical state"
+        ],
+        "answer": 0,
+        "explanation": "Decay constant is intrinsic nuclear property."
+    },
+    {
+        "id": 41,
+        "question": "The Fermi level in an intrinsic semiconductor lies:",
+        "options": [
+            "Midway between bands",
+            "Near conduction band",
+            "Near valence band",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "Intrinsic Fermi level is at mid-gap."
+    },
+    {
+        "id": 42,
+        "question": "The logic gate that outputs 1 when inputs are different is:",
+        "options": [
+            "XOR",
+            "AND",
+            "OR",
+            "NOR"
+        ],
+        "answer": 0,
+        "explanation": "XOR gives 1 for unequal inputs."
+    },
+    {
+        "id": 43,
+        "question": "The SI unit of inductance is:",
+        "options": [
+            "Henry",
+            "Tesla",
+            "Weber",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Inductance is measured in henry."
+    },
+    {
+        "id": 44,
+        "question": "The phenomenon responsible for mirage is:",
+        "options": [
+            "Total internal reflection",
+            "Refraction only",
+            "Diffraction",
+            "Scattering"
+        ],
+        "answer": 0,
+        "explanation": "Mirage is due to total internal reflection."
+    },
+    {
+        "id": 45,
+        "question": "The SI unit of current density is:",
+        "options": [
+            "A/m^2",
+            "A/m",
+            "C/m^2",
+            "V/m"
+        ],
+        "answer": 0,
+        "explanation": "Current density J = I/A."
+    },
+    {
+        "id": 46,
+        "question": "Magnetic susceptibility of a diamagnetic substance is:",
+        "options": [
+            "Negative",
+            "Positive",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "Diamagnetic materials have negative susceptibility."
+    },
+    {
+        "id": 47,
+        "question": "Faraday’s law states that induced emf is proportional to:",
+        "options": [
+            "Rate of change of magnetic flux",
+            "Magnetic field",
+            "Area of loop",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "ε ∝ dΦ/dt."
+    },
+    {
+        "id": 48,
+        "question": "The SI unit of magnetic moment is:",
+        "options": [
+            "A·m^2",
+            "T·m",
+            "Wb",
+            "N·m"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic moment = IA."
+    },
+    {
+        "id": 49,
+        "question": "The center of mass of an isolated system moves with constant velocity due to conservation of:",
+        "options": [
+            "Linear momentum",
+            "Energy",
+            "Angular momentum",
+            "Force"
+        ],
+        "answer": 0,
+        "explanation": "No external force implies momentum conservation."
+    },
+    {
+        "id": 50,
+        "question": "The SI unit of electric power is:",
+        "options": [
+            "Watt",
+            "Joule",
+            "Volt",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Electric power is measured in watt."
+    },
+    {
+        "id": 51,
+        "question": "The blue colour of the sky is due to:",
+        "options": [
+            "Rayleigh scattering",
+            "Reflection",
+            "Refraction",
+            "Diffraction"
+        ],
+        "answer": 0,
+        "explanation": "Shorter wavelengths scatter more."
+    }
+]

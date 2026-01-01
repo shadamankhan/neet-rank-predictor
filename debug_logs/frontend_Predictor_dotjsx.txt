@@ -1,0 +1,52 @@
+﻿import React, { useState } from "react";
+import { predictServer, savePrediction } from "./api";
+import { auth } from "./firebase";
+
+export default function Predictor(){
+  const [score, setScore] = useState("");
+  const [result, setResult] = useState(null);
+  const [saving, setSaving] = useState(false);
+
+  async function onEstimate(){
+    try{
+      const payload = { score: Number(score), category: "General" };
+      const res = await predictServer(payload);
+      setResult(res);
+    }catch(e){
+      alert("Predict error: " + e.message);
+    }
+  }
+
+  async function onSave(){
+    if(!result) return alert("No result to save");
+    setSaving(true);
+    try {
+      await savePrediction({
+        score: Number(score),
+        predictedRank: result.predictedRank,
+        percentile: result.percentile
+      });
+      alert("Saved");
+    } catch(e){
+      alert("Save failed: " + e.message);
+    } finally {
+      setSaving(false);
+    }
+  }
+
+  return (
+    <div>
+      <h3>Predict</h3>
+      <input placeholder="Enter Score" value={score} onChange={e=>setScore(e.target.value)} />
+      <button onClick={onEstimate}>Estimate</button>
+      {result && (
+        <div style={{ marginTop: 8 }}>
+          <div>Predicted rank: {result.predictedRank}</div>
+          <div>Percentile: {result.percentile}</div>
+          <button onClick={onSave} disabled={saving || !auth.currentUser}>Save to history</button>
+        </div>
+      )}
+    </div>
+  );
+}
+

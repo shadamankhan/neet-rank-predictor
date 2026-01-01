@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "An alternating current is defined as a current which:",
+        "options": [
+            "Flows only in one direction",
+            "Changes its magnitude periodically",
+            "Changes its direction periodically",
+            "Changes both magnitude and direction periodically"
+        ],
+        "answer": 3,
+        "explanation": "Alternating current changes both magnitude and direction periodically as stated in NCERT."
+    },
+    {
+        "id": 2,
+        "question": "The instantaneous value of alternating current is represented by:",
+        "options": [
+            "I = I0",
+            "I = I0 sinωt",
+            "I = I0 cosω",
+            "I = ωt"
+        ],
+        "answer": 1,
+        "explanation": "Instantaneous AC current is given by I = I0 sinωt."
+    },
+    {
+        "id": 3,
+        "question": "The angular frequency ω of an AC source is related to frequency f by:",
+        "options": [
+            "ω = f/2π",
+            "ω = 2πf",
+            "ω = πf",
+            "ω = 1/f"
+        ],
+        "answer": 1,
+        "explanation": "Angular frequency is ω = 2πf."
+    },
+    {
+        "id": 4,
+        "question": "The root mean square (rms) value of an alternating current I = I0 sinωt is:",
+        "options": [
+            "I0",
+            "I0/2",
+            "I0/√2",
+            "√2 I0"
+        ],
+        "answer": 2,
+        "explanation": "RMS value of sinusoidal current is I0/√2."
+    },
+    {
+        "id": 5,
+        "question": "The rms value of alternating voltage V = V0 sinωt is:",
+        "options": [
+            "V0",
+            "V0/2",
+            "V0/√2",
+            "√2 V0"
+        ],
+        "answer": 2,
+        "explanation": "RMS value of sinusoidal voltage is V0/√2."
+    },
+    {
+        "id": 6,
+        "question": "The average value of alternating current over one complete cycle is:",
+        "options": [
+            "I0",
+            "I0/√2",
+            "Zero",
+            "I0/2"
+        ],
+        "answer": 2,
+        "explanation": "Average value of AC over one full cycle is zero."
+    },
+    {
+        "id": 7,
+        "question": "In a purely resistive AC circuit, the phase difference between voltage and current is:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "−π/2"
+        ],
+        "answer": 0,
+        "explanation": "In a pure resistor, voltage and current are in phase."
+    },
+    {
+        "id": 8,
+        "question": "In a purely inductive AC circuit, current lags behind voltage by:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "2π"
+        ],
+        "answer": 1,
+        "explanation": "In a pure inductor, current lags voltage by π/2."
+    },
+    {
+        "id": 9,
+        "question": "In a purely capacitive AC circuit, current leads voltage by:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "2π"
+        ],
+        "answer": 1,
+        "explanation": "In a pure capacitor, current leads voltage by π/2."
+    },
+    {
+        "id": 10,
+        "question": "The reactance of an inductor in an AC circuit is given by:",
+        "options": [
+            "XL = ωL",
+            "XL = 1/ωL",
+            "XL = ωC",
+            "XL = 1/ωC"
+        ],
+        "answer": 0,
+        "explanation": "Inductive reactance is XL = ωL."
+    },
+    {
+        "id": 11,
+        "question": "The reactance of a capacitor in an AC circuit is given by:",
+        "options": [
+            "XC = ωC",
+            "XC = 1/ωC",
+            "XC = ωL",
+            "XC = L/C"
+        ],
+        "answer": 1,
+        "explanation": "Capacitive reactance is XC = 1/ωC."
+    },
+    {
+        "id": 12,
+        "question": "The SI unit of reactance is:",
+        "options": [
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Ampere"
+        ],
+        "answer": 2,
+        "explanation": "Reactance is measured in ohms."
+    },
+    {
+        "id": 13,
+        "question": "The impedance of a series RLC circuit is:",
+        "options": [
+            "Z = R + XL + XC",
+            "Z = √(R² + (XL − XC)²)",
+            "Z = R² + (XL − XC)²",
+            "Z = XL − XC"
+        ],
+        "answer": 1,
+        "explanation": "Impedance in RLC series circuit is Z = √(R² + (XL − XC)²)."
+    },
+    {
+        "id": 14,
+        "question": "The SI unit of impedance is:",
+        "options": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Henry"
+        ],
+        "answer": 2,
+        "explanation": "Impedance is measured in ohms."
+    },
+    {
+        "id": 15,
+        "question": "In a series RLC circuit at resonance, the impedance is equal to:",
+        "options": [
+            "XL",
+            "XC",
+            "√(XL² + XC²)",
+            "R"
+        ],
+        "answer": 3,
+        "explanation": "At resonance, XL = XC, so impedance Z = R."
+    },
+    {
+        "id": 16,
+        "question": "The resonance condition in a series RLC circuit is:",
+        "options": [
+            "XL = 0",
+            "XC = 0",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 2,
+        "explanation": "Resonance occurs when inductive reactance equals capacitive reactance."
+    },
+    {
+        "id": 17,
+        "question": "The resonant angular frequency of an RLC circuit is:",
+        "options": [
+            "ω0 = 1/LC",
+            "ω0 = √(LC)",
+            "ω0 = 1/√(LC)",
+            "ω0 = √(L/C)"
+        ],
+        "answer": 2,
+        "explanation": "Resonant angular frequency is ω0 = 1/√(LC)."
+    },
+    {
+        "id": 18,
+        "question": "At resonance in an RLC circuit, the current is:",
+        "options": [
+            "Minimum",
+            "Zero",
+            "Maximum",
+            "Independent of frequency"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, impedance is minimum, so current is maximum."
+    },
+    {
+        "id": 19,
+        "question": "The power consumed in a purely inductive AC circuit is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Depends on frequency"
+        ],
+        "answer": 2,
+        "explanation": "Average power in a purely inductive circuit is zero."
+    },
+    {
+        "id": 20,
+        "question": "The power consumed in a purely capacitive AC circuit is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Minimum",
+            "Frequency dependent"
+        ],
+        "answer": 1,
+        "explanation": "Purely capacitive circuit consumes no average power."
+    },
+    {
+        "id": 21,
+        "question": "The average power consumed in an AC circuit is given by:",
+        "options": [
+            "P = VI",
+            "P = V0 I0",
+            "P = Vrms Irms cosφ",
+            "P = Vrms Irms"
+        ],
+        "answer": 2,
+        "explanation": "Average power is P = Vrms Irms cosφ."
+    },
+    {
+        "id": 22,
+        "question": "The power factor of an AC circuit is defined as:",
+        "options": [
+            "sinφ",
+            "tanφ",
+            "cosφ",
+            "secφ"
+        ],
+        "answer": 2,
+        "explanation": "Power factor is cosφ."
+    },
+    {
+        "id": 23,
+        "question": "The power factor of a purely resistive circuit is:",
+        "options": [
+            "0",
+            "1",
+            "−1",
+            "Depends on frequency"
+        ],
+        "answer": 1,
+        "explanation": "For a resistor, φ = 0, so cosφ = 1."
+    },
+    {
+        "id": 24,
+        "question": "The power factor of a purely inductive circuit is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/2"
+        ],
+        "answer": 1,
+        "explanation": "For an inductor, φ = π/2, so cosφ = 0."
+    },
+    {
+        "id": 25,
+        "question": "The power factor of a purely capacitive circuit is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/√2"
+        ],
+        "answer": 1,
+        "explanation": "For a capacitor, φ = π/2, so cosφ = 0."
+    },
+    {
+        "id": 26,
+        "question": "In an RLC series circuit below resonance frequency, the circuit behaves as:",
+        "options": [
+            "Purely resistive",
+            "Inductive",
+            "Capacitive",
+            "Non-reactive"
+        ],
+        "answer": 2,
+        "explanation": "Below resonance, XC > XL, so circuit is capacitive."
+    },
+    {
+        "id": 27,
+        "question": "In an RLC series circuit above resonance frequency, the circuit behaves as:",
+        "options": [
+            "Resistive",
+            "Capacitive",
+            "Inductive",
+            "Non-reactive"
+        ],
+        "answer": 2,
+        "explanation": "Above resonance, XL > XC, so circuit is inductive."
+    },
+    {
+        "id": 28,
+        "question": "The quality factor Q of a series resonant circuit is given by:",
+        "options": [
+            "ω0L/R",
+            "R/ω0L",
+            "ω0RC",
+            "1/ω0RC"
+        ],
+        "answer": 0,
+        "explanation": "Quality factor Q = ω0L/R for series RLC circuit."
+    },
+    {
+        "id": 29,
+        "question": "The bandwidth of a series resonant circuit is proportional to:",
+        "options": [
+            "Q",
+            "1/Q",
+            "L",
+            "C"
+        ],
+        "answer": 1,
+        "explanation": "Bandwidth is inversely proportional to quality factor Q."
+    },
+    {
+        "id": 30,
+        "question": "The phenomenon in which current in a circuit increases sharply at a particular frequency is called:",
+        "options": [
+            "Induction",
+            "Resonance",
+            "Impedance matching",
+            "Capacitance"
+        ],
+        "answer": 1,
+        "explanation": "This phenomenon is known as resonance."
+    },
+    {
+        "id": 31,
+        "question": "The AC voltage used for domestic supply in India has frequency:",
+        "options": [
+            "60 Hz",
+            "100 Hz",
+            "50 Hz",
+            "25 Hz"
+        ],
+        "answer": 2,
+        "explanation": "Domestic AC supply frequency in India is 50 Hz."
+    },
+    {
+        "id": 32,
+        "question": "The peak value of AC voltage in India for a 220 V rms supply is approximately:",
+        "options": [
+            "220 V",
+            "311 V",
+            "155 V",
+            "440 V"
+        ],
+        "answer": 1,
+        "explanation": "V0 = √2 Vrms ≈ 311 V."
+    },
+    {
+        "id": 33,
+        "question": "The emf induced in an inductor due to changing current is called:",
+        "options": [
+            "Back emf",
+            "Forward emf",
+            "Static emf",
+            "Electrostatic emf"
+        ],
+        "answer": 0,
+        "explanation": "Induced emf in an inductor opposing change is called back emf."
+    },
+    {
+        "id": 34,
+        "question": "The impedance of a purely inductive circuit increases with:",
+        "options": [
+            "Increase in resistance",
+            "Increase in capacitance",
+            "Increase in frequency",
+            "Decrease in frequency"
+        ],
+        "answer": 2,
+        "explanation": "Inductive reactance XL = ωL increases with frequency."
+    },
+    {
+        "id": 35,
+        "question": "The impedance of a purely capacitive circuit decreases with:",
+        "options": [
+            "Increase in frequency",
+            "Decrease in frequency",
+            "Increase in voltage",
+            "Increase in current"
+        ],
+        "answer": 0,
+        "explanation": "Capacitive reactance XC = 1/ωC decreases as frequency increases."
+    },
+    {
+        "id": 36,
+        "question": "In a series RLC circuit at resonance, the phase angle φ is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "−π/2"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, voltage and current are in phase."
+    },
+    {
+        "id": 37,
+        "question": "The power consumed in an AC circuit depends on:",
+        "options": [
+            "Vrms only",
+            "Irms only",
+            "Phase difference",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Power depends on phase difference between voltage and current."
+    },
+    {
+        "id": 38,
+        "question": "In an AC circuit, the instantaneous power can be negative because:",
+        "options": [
+            "Energy is destroyed",
+            "Energy flows back to source",
+            "Current becomes zero",
+            "Voltage becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Negative power indicates energy returning to the source."
+    },
+    {
+        "id": 39,
+        "question": "The energy stored in an inductor is maximum when the current is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Changing rapidly"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored in inductor is proportional to I²."
+    },
+    {
+        "id": 40,
+        "question": "The energy stored in a capacitor is maximum when the voltage is:",
+        "options": [
+            "Zero",
+            "Minimum",
+            "Maximum",
+            "Changing"
+        ],
+        "answer": 2,
+        "explanation": "Energy stored in capacitor is proportional to V²."
+    },
+    {
+        "id": 41,
+        "question": "In AC circuits, phasor diagrams are used to represent:",
+        "options": [
+            "Instantaneous values",
+            "Average values",
+            "Phase relationships",
+            "Power loss"
+        ],
+        "answer": 2,
+        "explanation": "Phasor diagrams represent phase relationships between AC quantities."
+    },
+    {
+        "id": 42,
+        "question": "The current in a series RLC circuit is minimum when the frequency is:",
+        "options": [
+            "Equal to resonance frequency",
+            "Much lower than resonance",
+            "Much higher than resonance",
+            "Independent of frequency"
+        ],
+        "answer": 3,
+        "explanation": "Current varies with frequency; minimum occurs far from resonance."
+    },
+    {
+        "id": 43,
+        "question": "The impedance triangle in an RLC circuit relates:",
+        "options": [
+            "R, XL, XC",
+            "Z, R, (XL − XC)",
+            "L, C, R",
+            "ω, R, L"
+        ],
+        "answer": 1,
+        "explanation": "Impedance triangle relates Z, R and (XL − XC)."
+    },
+    {
+        "id": 44,
+        "question": "The SI unit of power factor is:",
+        "options": [
+            "Watt",
+            "Volt",
+            "Ampere",
+            "Dimensionless"
+        ],
+        "answer": 3,
+        "explanation": "Power factor is dimensionless."
+    },
+    {
+        "id": 45,
+        "question": "In an AC circuit, the term cosφ represents:",
+        "options": [
+            "Efficiency",
+            "Impedance",
+            "Power factor",
+            "Reactance"
+        ],
+        "answer": 2,
+        "explanation": "cosφ is defined as the power factor."
+    },
+    {
+        "id": 46,
+        "question": "The instantaneous value of AC voltage is maximum when ωt equals:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "2π"
+        ],
+        "answer": 1,
+        "explanation": "sinωt is maximum at ωt = π/2."
+    },
+    {
+        "id": 47,
+        "question": "In an RLC circuit, resonance occurs due to equality of:",
+        "options": [
+            "Resistance and reactance",
+            "Inductive and capacitive reactance",
+            "Voltage and current",
+            "Power and impedance"
+        ],
+        "answer": 1,
+        "explanation": "Resonance occurs when XL = XC."
+    },
+    {
+        "id": 48,
+        "question": "The phase difference between voltage and current in a capacitive circuit is:",
+        "options": [
+            "Voltage leads current",
+            "Current leads voltage",
+            "They are in phase",
+            "They are opposite"
+        ],
+        "answer": 1,
+        "explanation": "In a capacitive circuit, current leads voltage."
+    },
+    {
+        "id": 49,
+        "question": "The phase difference between voltage and current in an inductive circuit is:",
+        "options": [
+            "Current leads voltage",
+            "Voltage leads current",
+            "They are in phase",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "In an inductive circuit, voltage leads current."
+    },
+    {
+        "id": 50,
+        "question": "The main advantage of AC over DC in power transmission is:",
+        "options": [
+            "Lower frequency",
+            "Easier generation",
+            "Less power loss",
+            "Higher voltage availability"
+        ],
+        "answer": 2,
+        "explanation": "AC allows efficient transmission with less power loss using transformers."
+    },
+    {
+        "id": 51,
+        "question": "In a purely resistive AC circuit, the instantaneous power varies as:",
+        "options": [
+            "sinωt",
+            "cosωt",
+            "sin²ωt",
+            "cos²ωt"
+        ],
+        "answer": 2,
+        "explanation": "Instantaneous power p = v i = V0I0 sin²ωt in a purely resistive circuit."
+    },
+    {
+        "id": 52,
+        "question": "The average power consumed in a purely inductive AC circuit over one cycle is:",
+        "options": [
+            "Maximum",
+            "Half of maximum",
+            "Zero",
+            "Frequency dependent"
+        ],
+        "answer": 2,
+        "explanation": "In a pure inductor, average power over a full cycle is zero."
+    },
+    {
+        "id": 53,
+        "question": "The average power consumed in a purely capacitive AC circuit over one cycle is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Depends on voltage"
+        ],
+        "answer": 0,
+        "explanation": "Pure capacitive circuits do not consume average power."
+    },
+    {
+        "id": 54,
+        "question": "In an AC circuit, true power is measured in terms of:",
+        "options": [
+            "VA",
+            "VAR",
+            "Watt",
+            "Joule"
+        ],
+        "answer": 2,
+        "explanation": "True (real) power in AC circuits is measured in watts."
+    },
+    {
+        "id": 55,
+        "question": "The unit of reactive power in an AC circuit is:",
+        "options": [
+            "Watt",
+            "Volt",
+            "VAR",
+            "Ohm"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power is measured in volt-ampere reactive (VAR)."
+    },
+    {
+        "id": 56,
+        "question": "The apparent power in an AC circuit is given by:",
+        "options": [
+            "VrmsIrms cosφ",
+            "VrmsIrms sinφ",
+            "VrmsIrms",
+            "V0I0"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power S = Vrms × Irms."
+    },
+    {
+        "id": 57,
+        "question": "The relation between apparent power S, true power P and reactive power Q is:",
+        "options": [
+            "S = P + Q",
+            "S² = P² + Q²",
+            "P = SQ",
+            "Q = P/S"
+        ],
+        "answer": 1,
+        "explanation": "Power triangle gives S² = P² + Q²."
+    },
+    {
+        "id": 58,
+        "question": "The reactive power in a purely inductive circuit is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Negative",
+            "Equal to real power"
+        ],
+        "answer": 1,
+        "explanation": "Pure inductive circuit has only reactive power."
+    },
+    {
+        "id": 59,
+        "question": "The reactive power in a purely capacitive circuit is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Negative",
+            "Positive"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power of capacitive circuit is taken as negative."
+    },
+    {
+        "id": 60,
+        "question": "In an RLC series circuit, if XL > XC, the circuit behaves as:",
+        "options": [
+            "Capacitive",
+            "Resistive",
+            "Inductive",
+            "Non-reactive"
+        ],
+        "answer": 2,
+        "explanation": "When XL exceeds XC, the circuit shows inductive behavior."
+    },
+    {
+        "id": 61,
+        "question": "In an RLC series circuit, if XC > XL, the circuit behaves as:",
+        "options": [
+            "Inductive",
+            "Resistive",
+            "Capacitive",
+            "Non-reactive"
+        ],
+        "answer": 2,
+        "explanation": "When XC exceeds XL, the circuit is capacitive."
+    },
+    {
+        "id": 62,
+        "question": "At resonance in a series RLC circuit, the power factor is:",
+        "options": [
+            "0",
+            "1",
+            "−1",
+            "Depends on R"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, voltage and current are in phase, so power factor is 1."
+    },
+    {
+        "id": 63,
+        "question": "At resonance, the voltage across inductor and capacitor are:",
+        "options": [
+            "Zero",
+            "Equal and opposite",
+            "Maximum and equal",
+            "Minimum"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, voltages across L and C are equal in magnitude and maximum."
+    },
+    {
+        "id": 64,
+        "question": "The phenomenon of large voltage across L and C at resonance is called:",
+        "options": [
+            "Resonance amplification",
+            "Voltage magnification",
+            "Power amplification",
+            "Current amplification"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, voltages across L and C are magnified."
+    },
+    {
+        "id": 65,
+        "question": "The quality factor Q of a resonant circuit indicates:",
+        "options": [
+            "Energy loss",
+            "Sharpness of resonance",
+            "Power consumption",
+            "Resistance value"
+        ],
+        "answer": 1,
+        "explanation": "Higher Q means sharper resonance."
+    },
+    {
+        "id": 66,
+        "question": "The bandwidth of a series resonant circuit is defined as the difference between:",
+        "options": [
+            "Two currents",
+            "Two voltages",
+            "Upper and lower half-power frequencies",
+            "Resonant and cutoff frequency"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth = ω2 − ω1 at half-power points."
+    },
+    {
+        "id": 67,
+        "question": "The half-power points of a resonant circuit correspond to power equal to:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Half of maximum",
+            "Double of maximum"
+        ],
+        "answer": 2,
+        "explanation": "At half-power points, power is half of its maximum value."
+    },
+    {
+        "id": 68,
+        "question": "The bandwidth of a series RLC circuit is directly proportional to:",
+        "options": [
+            "Inductance",
+            "Capacitance",
+            "Resistance",
+            "Quality factor"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth Δω = R/L, so it is proportional to resistance."
+    },
+    {
+        "id": 69,
+        "question": "A high Q-factor in a resonant circuit implies:",
+        "options": [
+            "Large bandwidth",
+            "Small bandwidth",
+            "No resonance",
+            "Large resistance"
+        ],
+        "answer": 1,
+        "explanation": "High Q corresponds to narrow bandwidth."
+    },
+    {
+        "id": 70,
+        "question": "The impedance of an AC circuit at resonance is minimum because:",
+        "options": [
+            "XL is maximum",
+            "XC is maximum",
+            "XL equals XC",
+            "R is zero"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, XL = XC, leaving only resistance."
+    },
+    {
+        "id": 71,
+        "question": "In an AC circuit, the power factor is negative when the circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive",
+            "Purely capacitive",
+            "RLC at resonance"
+        ],
+        "answer": 2,
+        "explanation": "Capacitive circuits have leading current, giving negative reactive power."
+    },
+    {
+        "id": 72,
+        "question": "The choke coil used in AC circuits has:",
+        "options": [
+            "High resistance",
+            "High inductance and low resistance",
+            "Low inductance",
+            "High capacitance"
+        ],
+        "answer": 1,
+        "explanation": "Choke coils have high inductance and low resistance."
+    },
+    {
+        "id": 73,
+        "question": "A choke coil is preferred over a resistor in AC circuits because it:",
+        "options": [
+            "Consumes more power",
+            "Consumes no power",
+            "Consumes less power",
+            "Blocks DC"
+        ],
+        "answer": 2,
+        "explanation": "Choke coil limits current with minimal power loss."
+    },
+    {
+        "id": 74,
+        "question": "The energy stored in an inductor in an AC circuit is stored in the form of:",
+        "options": [
+            "Electric field",
+            "Magnetic field",
+            "Heat",
+            "Radiation"
+        ],
+        "answer": 1,
+        "explanation": "Inductors store energy in magnetic field."
+    },
+    {
+        "id": 75,
+        "question": "The energy stored in a capacitor in an AC circuit is stored in the form of:",
+        "options": [
+            "Magnetic field",
+            "Electric field",
+            "Heat",
+            "Mechanical energy"
+        ],
+        "answer": 1,
+        "explanation": "Capacitors store energy in electric field."
+    },
+    {
+        "id": 76,
+        "question": "The instantaneous power in a purely inductive circuit can be negative because:",
+        "options": [
+            "Energy is destroyed",
+            "Energy is returned to source",
+            "Voltage is zero",
+            "Current is zero"
+        ],
+        "answer": 1,
+        "explanation": "Negative power indicates energy being returned to the source."
+    },
+    {
+        "id": 77,
+        "question": "In an AC generator, the induced emf varies sinusoidally due to:",
+        "options": [
+            "Constant magnetic field",
+            "Uniform angular speed",
+            "Changing magnetic flux",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Sinusoidal emf arises due to sinusoidal variation of magnetic flux."
+    },
+    {
+        "id": 78,
+        "question": "The average value of AC over half cycle is:",
+        "options": [
+            "Zero",
+            "I0/2",
+            "2I0/π",
+            "I0/√2"
+        ],
+        "answer": 2,
+        "explanation": "Average value over half cycle is 2I0/π."
+    },
+    {
+        "id": 79,
+        "question": "The rms value of AC is the value of DC current that produces:",
+        "options": [
+            "Same charge",
+            "Same peak current",
+            "Same heating effect",
+            "Same voltage"
+        ],
+        "answer": 2,
+        "explanation": "RMS value is based on equivalent heating effect."
+    },
+    {
+        "id": 80,
+        "question": "In AC circuits, heating effect depends on:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "RMS current",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect depends on RMS value of current."
+    },
+    {
+        "id": 81,
+        "question": "The frequency of AC produced by an alternator depends on:",
+        "options": [
+            "Speed of rotation",
+            "Number of turns",
+            "Magnetic field strength",
+            "Resistance"
+        ],
+        "answer": 0,
+        "explanation": "Frequency is proportional to speed of rotation."
+    },
+    {
+        "id": 82,
+        "question": "The angular frequency of AC is measured in:",
+        "options": [
+            "Hz",
+            "s⁻¹",
+            "rad s⁻¹",
+            "ampere"
+        ],
+        "answer": 2,
+        "explanation": "Angular frequency is measured in rad s⁻¹."
+    },
+    {
+        "id": 83,
+        "question": "The inductive reactance becomes zero when the frequency is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "XL = ωL, so XL = 0 when ω = 0."
+    },
+    {
+        "id": 84,
+        "question": "The capacitive reactance becomes infinite when the frequency is:",
+        "options": [
+            "High",
+            "Low",
+            "Zero",
+            "Resonance"
+        ],
+        "answer": 2,
+        "explanation": "XC = 1/ωC becomes infinite when ω = 0."
+    },
+    {
+        "id": 85,
+        "question": "In AC circuits, phase difference φ is given by:",
+        "options": [
+            "tanφ = R/Z",
+            "tanφ = (XL − XC)/R",
+            "sinφ = R/Z",
+            "cosφ = Z/R"
+        ],
+        "answer": 1,
+        "explanation": "Phase difference tanφ = (XL − XC)/R."
+    },
+    {
+        "id": 86,
+        "question": "In an RLC circuit, current leads voltage when:",
+        "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 1,
+        "explanation": "Capacitive dominance makes current lead voltage."
+    },
+    {
+        "id": 87,
+        "question": "In an RLC circuit, voltage leads current when:",
+        "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 0,
+        "explanation": "Inductive dominance makes voltage lead current."
+    },
+    {
+        "id": 88,
+        "question": "The instantaneous value of AC current becomes zero when ωt equals:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "Both 0 and π"
+        ],
+        "answer": 3,
+        "explanation": "sinωt = 0 at ωt = 0 and π."
+    },
+    {
+        "id": 89,
+        "question": "The SI unit of inductive reactance is:",
+        "options": [
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Ampere"
+        ],
+        "answer": 2,
+        "explanation": "Reactance is measured in ohms."
+    },
+    {
+        "id": 90,
+        "question": "The SI unit of capacitive reactance is:",
+        "options": [
+            "Ohm",
+            "Farad",
+            "Henry",
+            "Volt"
+        ],
+        "answer": 0,
+        "explanation": "Capacitive reactance is measured in ohms."
+    },
+    {
+        "id": 91,
+        "question": "In AC circuits, a capacitor blocks:",
+        "options": [
+            "AC",
+            "DC",
+            "High frequency",
+            "Low frequency"
+        ],
+        "answer": 1,
+        "explanation": "A capacitor blocks DC as XC becomes infinite at zero frequency."
+    },
+    {
+        "id": 92,
+        "question": "In AC circuits, an inductor blocks:",
+        "options": [
+            "AC",
+            "DC",
+            "High frequency AC",
+            "Low frequency AC"
+        ],
+        "answer": 2,
+        "explanation": "Inductive reactance increases with frequency."
+    },
+    {
+        "id": 93,
+        "question": "The impedance of a series RLC circuit is maximum when:",
+        "options": [
+            "At resonance",
+            "Below resonance",
+            "Above resonance",
+            "At zero frequency"
+        ],
+        "answer": 3,
+        "explanation": "At zero frequency, XC is infinite, so impedance is maximum."
+    },
+    {
+        "id": 94,
+        "question": "In AC circuits, the term VAR stands for:",
+        "options": [
+            "Volt Ampere Resistance",
+            "Volt Ampere Reactance",
+            "Volt Ampere Reactive",
+            "Volt Average Resistance"
+        ],
+        "answer": 2,
+        "explanation": "VAR stands for Volt Ampere Reactive."
+    },
+    {
+        "id": 95,
+        "question": "The power factor correction in industries is done using:",
+        "options": [
+            "Resistors",
+            "Inductors",
+            "Capacitors",
+            "Transformers"
+        ],
+        "answer": 2,
+        "explanation": "Capacitors improve power factor by reducing reactive power."
+    },
+    {
+        "id": 96,
+        "question": "In AC transmission, high voltage is used to:",
+        "options": [
+            "Increase current",
+            "Reduce power loss",
+            "Increase resistance",
+            "Reduce frequency"
+        ],
+        "answer": 1,
+        "explanation": "High voltage reduces current and hence power loss."
+    },
+    {
+        "id": 97,
+        "question": "The device used to change AC voltage levels is:",
+        "options": [
+            "Rectifier",
+            "Transformer",
+            "Generator",
+            "Choke coil"
+        ],
+        "answer": 1,
+        "explanation": "Transformer changes AC voltage levels."
+    },
+    {
+        "id": 98,
+        "question": "A transformer works on the principle of:",
+        "options": [
+            "Self induction",
+            "Mutual induction",
+            "Electrostatics",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Transformer operates on mutual induction."
+    },
+    {
+        "id": 99,
+        "question": "A transformer cannot be used with DC because:",
+        "options": [
+            "DC has high voltage",
+            "DC produces no changing flux",
+            "DC damages coil",
+            "DC gives high current"
+        ],
+        "answer": 1,
+        "explanation": "DC produces constant flux, so no induced emf."
+    },
+    {
+        "id": 100,
+        "question": "The efficiency of an ideal transformer is:",
+        "options": [
+            "Less than 100%",
+            "Equal to 50%",
+            "Greater than 100%",
+            "100%"
+        ],
+        "answer": 3,
+        "explanation": "An ideal transformer has 100% efficiency."
+    },
+    {
+        "id": 101,
+        "question": "In a purely resistive AC circuit, the current is maximum when the applied voltage is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Changing"
+        ],
+        "answer": 1,
+        "explanation": "In a pure resistor, current and voltage are in phase, so current is maximum when voltage is maximum."
+    },
+    {
+        "id": 102,
+        "question": "The average value of AC over one complete cycle is zero because:",
+        "options": [
+            "Heating effect is zero",
+            "Current reverses direction",
+            "Amplitude is small",
+            "Frequency is high"
+        ],
+        "answer": 1,
+        "explanation": "Equal positive and negative halves cancel over a full cycle."
+    },
+    {
+        "id": 103,
+        "question": "In an AC circuit, the instantaneous power is zero when:",
+        "options": [
+            "Voltage is zero",
+            "Current is zero",
+            "Both voltage and current are zero",
+            "Either voltage or current is zero"
+        ],
+        "answer": 3,
+        "explanation": "Instantaneous power p = vi becomes zero if either v or i is zero."
+    },
+    {
+        "id": 104,
+        "question": "The rms value of AC current is smaller than its peak value by a factor of:",
+        "options": [
+            "2",
+            "√2",
+            "1/√2",
+            "π"
+        ],
+        "answer": 2,
+        "explanation": "Irms = I0/√2 for sinusoidal current."
+    },
+    {
+        "id": 105,
+        "question": "In an AC circuit, the current leads the voltage by π/2 when the circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive",
+            "Purely capacitive",
+            "RLC at resonance"
+        ],
+        "answer": 2,
+        "explanation": "In a capacitive circuit, current leads voltage by π/2."
+    },
+    {
+        "id": 106,
+        "question": "In an AC circuit, the voltage leads the current by π/2 when the circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive",
+            "Purely capacitive",
+            "RLC at resonance"
+        ],
+        "answer": 1,
+        "explanation": "In a purely inductive circuit, voltage leads current by π/2."
+    },
+    {
+        "id": 107,
+        "question": "The phase difference between voltage and current in an RLC circuit at resonance is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "−π/2"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, voltage and current are in phase."
+    },
+    {
+        "id": 108,
+        "question": "In an AC circuit, the impedance is minimum when the circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive",
+            "Purely capacitive",
+            "At resonance"
+        ],
+        "answer": 3,
+        "explanation": "At resonance, XL = XC and impedance equals resistance."
+    },
+    {
+        "id": 109,
+        "question": "The angular frequency corresponding to 50 Hz AC supply is approximately:",
+        "options": [
+            "50 rad s⁻¹",
+            "100 rad s⁻¹",
+            "314 rad s⁻¹",
+            "628 rad s⁻¹"
+        ],
+        "answer": 2,
+        "explanation": "ω = 2πf = 2π × 50 ≈ 314 rad s⁻¹."
+    },
+    {
+        "id": 110,
+        "question": "The average power in an AC circuit becomes zero when the power factor is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/2"
+        ],
+        "answer": 1,
+        "explanation": "Average power P = VrmsIrms cosφ; if cosφ = 0, power is zero."
+    },
+    {
+        "id": 111,
+        "question": "In an AC circuit, power factor is unity when the circuit is:",
+        "options": [
+            "Purely inductive",
+            "Purely capacitive",
+            "Purely resistive",
+            "RLC off resonance"
+        ],
+        "answer": 2,
+        "explanation": "In a pure resistor, φ = 0 and cosφ = 1."
+    },
+    {
+        "id": 112,
+        "question": "In a series RLC circuit, resonance frequency does not depend on:",
+        "options": [
+            "Inductance",
+            "Capacitance",
+            "Resistance",
+            "Both L and C"
+        ],
+        "answer": 2,
+        "explanation": "Resonance frequency ω0 = 1/√(LC), independent of resistance."
+    },
+    {
+        "id": 113,
+        "question": "The quality factor Q of a resonant circuit is dimensionless because it is the ratio of:",
+        "options": [
+            "Two powers",
+            "Two energies",
+            "Two frequencies",
+            "Two impedances"
+        ],
+        "answer": 2,
+        "explanation": "Q = ω0/Δω is the ratio of two frequencies."
+    },
+    {
+        "id": 114,
+        "question": "In a series RLC circuit, a high value of Q indicates:",
+        "options": [
+            "Broad resonance",
+            "Low current",
+            "Sharp resonance",
+            "Large bandwidth"
+        ],
+        "answer": 2,
+        "explanation": "High Q corresponds to sharp resonance and narrow bandwidth."
+    },
+    {
+        "id": 115,
+        "question": "The bandwidth of a series resonant circuit decreases when:",
+        "options": [
+            "Resistance increases",
+            "Resistance decreases",
+            "Inductance decreases",
+            "Capacitance increases"
+        ],
+        "answer": 1,
+        "explanation": "Bandwidth Δω = R/L, so decreasing R decreases bandwidth."
+    },
+    {
+        "id": 116,
+        "question": "In an RLC series circuit, the current is maximum at resonance because:",
+        "options": [
+            "Resistance is zero",
+            "Impedance is minimum",
+            "Reactance is maximum",
+            "Voltage is maximum"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, impedance is minimum."
+    },
+    {
+        "id": 117,
+        "question": "The voltage across inductor in an AC circuit is proportional to:",
+        "options": [
+            "Current",
+            "Rate of change of current",
+            "Charge",
+            "Rate of change of charge"
+        ],
+        "answer": 1,
+        "explanation": "Induced emf in inductor is proportional to di/dt."
+    },
+    {
+        "id": 118,
+        "question": "The voltage across capacitor in an AC circuit is proportional to:",
+        "options": [
+            "Current",
+            "Charge",
+            "Rate of change of current",
+            "Power"
+        ],
+        "answer": 1,
+        "explanation": "Voltage across capacitor is V = Q/C."
+    },
+    {
+        "id": 119,
+        "question": "In an AC circuit, capacitive reactance becomes very small at:",
+        "options": [
+            "Low frequency",
+            "Zero frequency",
+            "High frequency",
+            "Resonance"
+        ],
+        "answer": 2,
+        "explanation": "XC = 1/ωC decreases with increasing frequency."
+    },
+    {
+        "id": 120,
+        "question": "In an AC circuit, inductive reactance becomes very large at:",
+        "options": [
+            "Low frequency",
+            "Zero frequency",
+            "High frequency",
+            "Resonance"
+        ],
+        "answer": 2,
+        "explanation": "XL = ωL increases with frequency."
+    },
+    {
+        "id": 121,
+        "question": "The instantaneous value of AC current becomes maximum when:",
+        "options": [
+            "ωt = 0",
+            "ωt = π/2",
+            "ωt = π",
+            "ωt = 2π"
+        ],
+        "answer": 1,
+        "explanation": "sinωt is maximum at ωt = π/2."
+    },
+    {
+        "id": 122,
+        "question": "The rms value of AC voltage is the value of DC voltage that produces the same:",
+        "options": [
+            "Current",
+            "Power",
+            "Heating effect",
+            "Charge flow"
+        ],
+        "answer": 2,
+        "explanation": "RMS value is based on equal heating effect."
+    },
+    {
+        "id": 123,
+        "question": "In AC circuits, negative instantaneous power indicates:",
+        "options": [
+            "Power loss",
+            "Energy absorption",
+            "Energy returned to source",
+            "Short circuit"
+        ],
+        "answer": 2,
+        "explanation": "Negative power means energy flows back to the source."
+    },
+    {
+        "id": 124,
+        "question": "The impedance of a series RLC circuit at very high frequency is approximately equal to:",
+        "options": [
+            "R",
+            "XL",
+            "XC",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "At high frequency, XL >> XC, so impedance ≈ XL."
+    },
+    {
+        "id": 125,
+        "question": "The impedance of a series RLC circuit at very low frequency is approximately equal to:",
+        "options": [
+            "R",
+            "XL",
+            "XC",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At low frequency, XC >> XL, so impedance ≈ XC."
+    },
+    {
+        "id": 126,
+        "question": "In AC circuits, the term ‘choke’ refers to a device having:",
+        "options": [
+            "High resistance",
+            "High inductance",
+            "High capacitance",
+            "Low inductance"
+        ],
+        "answer": 1,
+        "explanation": "Choke coils have high inductance."
+    },
+    {
+        "id": 127,
+        "question": "A choke coil is preferred in AC circuits because it:",
+        "options": [
+            "Blocks AC",
+            "Consumes less power",
+            "Consumes more power",
+            "Increases voltage"
+        ],
+        "answer": 1,
+        "explanation": "Choke coils limit current with negligible power loss."
+    },
+    {
+        "id": 128,
+        "question": "The power loss in an AC transmission line is proportional to:",
+        "options": [
+            "V²",
+            "I²",
+            "1/V²",
+            "Frequency"
+        ],
+        "answer": 1,
+        "explanation": "Power loss due to heating is I²R."
+    },
+    {
+        "id": 129,
+        "question": "In AC power transmission, step-up transformers are used to:",
+        "options": [
+            "Increase current",
+            "Decrease current",
+            "Increase power",
+            "Decrease frequency"
+        ],
+        "answer": 1,
+        "explanation": "Stepping up voltage reduces current and hence power loss."
+    },
+    {
+        "id": 130,
+        "question": "A transformer works only with AC because it requires:",
+        "options": [
+            "High voltage",
+            "Changing current",
+            "Low resistance",
+            "High power"
+        ],
+        "answer": 1,
+        "explanation": "Transformer needs changing magnetic flux."
+    },
+    {
+        "id": 131,
+        "question": "In an ideal transformer, input power is equal to output power because:",
+        "options": [
+            "Resistance is zero",
+            "Efficiency is 100%",
+            "Voltage is constant",
+            "Current is constant"
+        ],
+        "answer": 1,
+        "explanation": "Ideal transformer has no losses."
+    },
+    {
+        "id": 132,
+        "question": "In an AC circuit, the phase angle φ is given by:",
+        "options": [
+            "sinφ = R/Z",
+            "cosφ = R/Z",
+            "tanφ = R/Z",
+            "tanφ = Z/R"
+        ],
+        "answer": 1,
+        "explanation": "cosφ = R/Z defines power factor."
+    },
+    {
+        "id": 133,
+        "question": "In an AC circuit, if current leads voltage, the circuit is predominantly:",
+        "options": [
+            "Resistive",
+            "Inductive",
+            "Capacitive",
+            "Resonant"
+        ],
+        "answer": 2,
+        "explanation": "Current leading voltage indicates capacitive nature."
+    },
+    {
+        "id": 134,
+        "question": "In an AC circuit, if voltage leads current, the circuit is predominantly:",
+        "options": [
+            "Resistive",
+            "Inductive",
+            "Capacitive",
+            "Resonant"
+        ],
+        "answer": 1,
+        "explanation": "Voltage leading current indicates inductive nature."
+    },
+    {
+        "id": 135,
+        "question": "The phase difference between voltage and current in a purely resistive circuit is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "−π/2"
+        ],
+        "answer": 2,
+        "explanation": "In a resistor, voltage and current are in phase."
+    },
+    {
+        "id": 136,
+        "question": "The power factor of an RLC circuit at resonance is:",
+        "options": [
+            "0",
+            "Less than 1",
+            "1",
+            "Greater than 1"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, φ = 0 and cosφ = 1."
+    },
+    {
+        "id": 137,
+        "question": "The SI unit of apparent power is:",
+        "options": [
+            "Watt",
+            "VAR",
+            "Volt-ampere",
+            "Joule"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power is measured in volt-ampere (VA)."
+    },
+    {
+        "id": 138,
+        "question": "The SI unit of reactive power is:",
+        "options": [
+            "Watt",
+            "VA",
+            "VAR",
+            "Ohm"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power is measured in VAR."
+    },
+    {
+        "id": 139,
+        "question": "In AC circuits, reactive power represents:",
+        "options": [
+            "Energy consumed",
+            "Energy lost as heat",
+            "Energy alternately stored and returned",
+            "Useful power"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power corresponds to energy exchange with reactive elements."
+    },
+    {
+        "id": 140,
+        "question": "In a purely inductive circuit, the power factor is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/2"
+        ],
+        "answer": 1,
+        "explanation": "cosφ = 0 for purely inductive circuit."
+    },
+    {
+        "id": 141,
+        "question": "In a purely capacitive circuit, the power factor is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/√2"
+        ],
+        "answer": 1,
+        "explanation": "cosφ = 0 for purely capacitive circuit."
+    },
+    {
+        "id": 142,
+        "question": "In an AC circuit, improving power factor reduces:",
+        "options": [
+            "Voltage",
+            "Current",
+            "Power",
+            "Frequency"
+        ],
+        "answer": 1,
+        "explanation": "Improved power factor reduces current for same power."
+    },
+    {
+        "id": 143,
+        "question": "Power factor correction is done using capacitors because they:",
+        "options": [
+            "Increase voltage",
+            "Supply reactive power",
+            "Reduce resistance",
+            "Increase frequency"
+        ],
+        "answer": 1,
+        "explanation": "Capacitors supply leading reactive power."
+    },
+    {
+        "id": 144,
+        "question": "In AC circuits, the term ‘lagging power factor’ indicates a circuit that is:",
+        "options": [
+            "Capacitive",
+            "Resistive",
+            "Inductive",
+            "Resonant"
+        ],
+        "answer": 2,
+        "explanation": "Lagging power factor means current lags voltage, indicating inductive nature."
+    },
+    {
+        "id": 145,
+        "question": "In AC circuits, the term ‘leading power factor’ indicates a circuit that is:",
+        "options": [
+            "Inductive",
+            "Resistive",
+            "Capacitive",
+            "Resonant"
+        ],
+        "answer": 2,
+        "explanation": "Leading power factor means current leads voltage, indicating capacitive nature."
+    },
+    {
+        "id": 146,
+        "question": "The impedance of a series RLC circuit is independent of frequency when:",
+        "options": [
+            "R = 0",
+            "L = 0",
+            "C = 0",
+            "Never"
+        ],
+        "answer": 3,
+        "explanation": "Impedance generally depends on frequency."
+    },
+    {
+        "id": 147,
+        "question": "In an AC circuit, the maximum current occurs when the impedance is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Minimum",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "Current I = V/Z is maximum when Z is minimum."
+    },
+    {
+        "id": 148,
+        "question": "The resonance curve of a series RLC circuit becomes sharper when:",
+        "options": [
+            "Resistance increases",
+            "Resistance decreases",
+            "Inductance increases",
+            "Capacitance decreases"
+        ],
+        "answer": 1,
+        "explanation": "Lower resistance gives higher Q and sharper resonance."
+    },
+    {
+        "id": 149,
+        "question": "In AC circuits, the term ‘half-power frequency’ refers to the frequency at which:",
+        "options": [
+            "Current is half",
+            "Voltage is half",
+            "Power is half of maximum",
+            "Impedance is minimum"
+        ],
+        "answer": 2,
+        "explanation": "Half-power frequencies correspond to power equal to half of maximum."
+    },
+    {
+        "id": 150,
+        "question": "The angular separation between half-power frequencies in a resonant circuit is called:",
+        "options": [
+            "Resonance width",
+            "Quality factor",
+            "Bandwidth",
+            "Reactance"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth is the difference between upper and lower half-power frequencies."
+    },
+    {
+        "id": 151,
+        "question": "In a series RLC circuit, the frequency at which the current is maximum is called:",
+        "options": [
+            "Natural frequency",
+            "Resonant frequency",
+            "Critical frequency",
+            "Cut-off frequency"
+        ],
+        "answer": 1,
+        "explanation": "Current becomes maximum at the resonant frequency where impedance is minimum."
+    },
+    {
+        "id": 152,
+        "question": "In a series RLC circuit, the resonant frequency depends on:",
+        "options": [
+            "R only",
+            "L only",
+            "C only",
+            "Both L and C"
+        ],
+        "answer": 3,
+        "explanation": "Resonant frequency is given by ω0 = 1/√(LC), so it depends on L and C."
+    },
+    {
+        "id": 153,
+        "question": "The current in a series RLC circuit is independent of frequency when the circuit is:",
+        "options": [
+            "Purely inductive",
+            "Purely capacitive",
+            "Purely resistive",
+            "At resonance"
+        ],
+        "answer": 2,
+        "explanation": "In a purely resistive circuit, current does not depend on frequency."
+    },
+    {
+        "id": 154,
+        "question": "In an AC circuit, the phase difference between voltage and current is zero when:",
+        "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 2,
+        "explanation": "When XL = XC, the circuit is in resonance and voltage and current are in phase."
+    },
+    {
+        "id": 155,
+        "question": "The quality factor Q of a series RLC circuit can be expressed as:",
+        "options": [
+            "ω0L/R",
+            "R/ω0L",
+            "ω0RC",
+            "1/ω0RC"
+        ],
+        "answer": 0,
+        "explanation": "For a series RLC circuit, Q = ω0L/R."
+    },
+    {
+        "id": 156,
+        "question": "A higher quality factor of a resonant circuit implies:",
+        "options": [
+            "Larger bandwidth",
+            "Smaller bandwidth",
+            "Lower current",
+            "Higher resistance"
+        ],
+        "answer": 1,
+        "explanation": "High Q indicates sharp resonance and small bandwidth."
+    },
+    {
+        "id": 157,
+        "question": "In an AC circuit, apparent power is the product of:",
+        "options": [
+            "Peak voltage and peak current",
+            "Average voltage and average current",
+            "RMS voltage and RMS current",
+            "Instantaneous voltage and current"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power S = Vrms × Irms."
+    },
+    {
+        "id": 158,
+        "question": "The power factor of an AC circuit represents:",
+        "options": [
+            "Useful power fraction",
+            "Reactive power fraction",
+            "Energy stored",
+            "Energy lost"
+        ],
+        "answer": 0,
+        "explanation": "Power factor represents the fraction of apparent power converted to useful power."
+    },
+    {
+        "id": 159,
+        "question": "In a purely inductive circuit, the instantaneous power alternates between:",
+        "options": [
+            "Positive values only",
+            "Negative values only",
+            "Positive and negative values",
+            "Zero only"
+        ],
+        "answer": 2,
+        "explanation": "Energy is alternately stored and returned, giving positive and negative power."
+    },
+    {
+        "id": 160,
+        "question": "In a purely capacitive circuit, the instantaneous power alternates between:",
+        "options": [
+            "Positive only",
+            "Negative only",
+            "Positive and negative",
+            "Zero only"
+        ],
+        "answer": 2,
+        "explanation": "Capacitor stores and releases energy, causing alternating power."
+    },
+    {
+        "id": 161,
+        "question": "The energy stored in an inductor varies as:",
+        "options": [
+            "I",
+            "I²",
+            "V",
+            "V²"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored in an inductor is proportional to I²."
+    },
+    {
+        "id": 162,
+        "question": "The energy stored in a capacitor varies as:",
+        "options": [
+            "Q",
+            "Q²",
+            "V",
+            "V²"
+        ],
+        "answer": 3,
+        "explanation": "Energy stored in a capacitor is proportional to V²."
+    },
+    {
+        "id": 163,
+        "question": "In AC circuits, the current lags the voltage when the circuit is predominantly:",
+        "options": [
+            "Capacitive",
+            "Resistive",
+            "Inductive",
+            "Resonant"
+        ],
+        "answer": 2,
+        "explanation": "Inductive circuits cause current to lag voltage."
+    },
+    {
+        "id": 164,
+        "question": "In AC circuits, the current leads the voltage when the circuit is predominantly:",
+        "options": [
+            "Inductive",
+            "Resistive",
+            "Capacitive",
+            "Resonant"
+        ],
+        "answer": 2,
+        "explanation": "Capacitive circuits cause current to lead voltage."
+    },
+    {
+        "id": 165,
+        "question": "The impedance of an RLC circuit at resonance equals:",
+        "options": [
+            "XL",
+            "XC",
+            "R",
+            "XL − XC"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, XL = XC, so impedance equals resistance R."
+    },
+    {
+        "id": 166,
+        "question": "In a series RLC circuit, the voltage across the resistor at resonance is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Independent of frequency"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, current is maximum, so voltage across R is maximum."
+    },
+    {
+        "id": 167,
+        "question": "In an AC circuit, the phasor sum of voltages across R, L and C gives:",
+        "options": [
+            "Instantaneous voltage",
+            "Average voltage",
+            "Applied voltage",
+            "Induced emf"
+        ],
+        "answer": 2,
+        "explanation": "Phasor sum gives the applied voltage in RLC circuits."
+    },
+    {
+        "id": 168,
+        "question": "In AC circuits, inductive reactance is independent of:",
+        "options": [
+            "Frequency",
+            "Inductance",
+            "Current",
+            "Angular frequency"
+        ],
+        "answer": 2,
+        "explanation": "XL = ωL depends on frequency and inductance, not current."
+    },
+    {
+        "id": 169,
+        "question": "In AC circuits, capacitive reactance is independent of:",
+        "options": [
+            "Frequency",
+            "Capacitance",
+            "Voltage",
+            "Angular frequency"
+        ],
+        "answer": 2,
+        "explanation": "XC = 1/ωC depends on frequency and capacitance, not voltage."
+    },
+    {
+        "id": 170,
+        "question": "In an AC circuit, a capacitor offers maximum opposition to current when the frequency is:",
+        "options": [
+            "High",
+            "Zero",
+            "Resonant",
+            "Very large"
+        ],
+        "answer": 1,
+        "explanation": "At zero frequency (DC), capacitive reactance is infinite."
+    },
+    {
+        "id": 171,
+        "question": "In an AC circuit, an inductor offers maximum opposition to current when the frequency is:",
+        "options": [
+            "Zero",
+            "Low",
+            "High",
+            "Resonant"
+        ],
+        "answer": 2,
+        "explanation": "Inductive reactance increases with frequency."
+    },
+    {
+        "id": 172,
+        "question": "The instantaneous emf induced in an inductor is proportional to:",
+        "options": [
+            "Current",
+            "Charge",
+            "Rate of change of current",
+            "Voltage"
+        ],
+        "answer": 2,
+        "explanation": "Induced emf e = −L di/dt."
+    },
+    {
+        "id": 173,
+        "question": "The instantaneous current in a capacitor is proportional to:",
+        "options": [
+            "Voltage",
+            "Charge",
+            "Rate of change of voltage",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "i = C dV/dt for a capacitor."
+    },
+    {
+        "id": 174,
+        "question": "In AC circuits, the heating effect depends on:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "RMS current",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect depends on RMS value of current."
+    },
+    {
+        "id": 175,
+        "question": "The RMS value of AC is always:",
+        "options": [
+            "Greater than peak value",
+            "Equal to peak value",
+            "Less than peak value",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "RMS value is I0/√2, less than peak value."
+    },
+    {
+        "id": 176,
+        "question": "The average value of AC over a half cycle is:",
+        "options": [
+            "Zero",
+            "I0/2",
+            "2I0/π",
+            "I0/√2"
+        ],
+        "answer": 2,
+        "explanation": "Average value over half cycle is 2I0/π."
+    },
+    {
+        "id": 177,
+        "question": "In AC circuits, the term lagging current means:",
+        "options": [
+            "Current leads voltage",
+            "Current lags voltage",
+            "Current equals voltage",
+            "No phase difference"
+        ],
+        "answer": 1,
+        "explanation": "Lagging current means current lags behind voltage."
+    },
+    {
+        "id": 178,
+        "question": "In AC circuits, the term leading current means:",
+        "options": [
+            "Current leads voltage",
+            "Current lags voltage",
+            "No current flows",
+            "Current equals voltage"
+        ],
+        "answer": 0,
+        "explanation": "Leading current means current leads voltage."
+    },
+    {
+        "id": 179,
+        "question": "The power factor of an AC circuit is always between:",
+        "options": [
+            "−1 and +1",
+            "0 and 1",
+            "−∞ and +∞",
+            "1 and ∞"
+        ],
+        "answer": 1,
+        "explanation": "Power factor cosφ lies between 0 and 1 in magnitude."
+    },
+    {
+        "id": 180,
+        "question": "The average power consumed in an AC circuit is zero when:",
+        "options": [
+            "R = 0",
+            "L = 0",
+            "C = 0",
+            "Circuit is purely reactive"
+        ],
+        "answer": 3,
+        "explanation": "Purely reactive circuits consume no average power."
+    },
+    {
+        "id": 181,
+        "question": "In an AC circuit, the true power consumed depends on:",
+        "options": [
+            "Voltage only",
+            "Current only",
+            "Power factor",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "True power depends on cosφ, the power factor."
+    },
+    {
+        "id": 182,
+        "question": "In AC circuits, reactive power represents:",
+        "options": [
+            "Useful work",
+            "Energy loss",
+            "Energy stored and released",
+            "Mechanical power"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power corresponds to energy exchange with L and C."
+    },
+    {
+        "id": 183,
+        "question": "The SI unit of reactance is the same as that of:",
+        "options": [
+            "Resistance",
+            "Inductance",
+            "Capacitance",
+            "Current"
+        ],
+        "answer": 0,
+        "explanation": "Reactance and resistance both have unit ohm."
+    },
+    {
+        "id": 184,
+        "question": "In an AC circuit, impedance is a combination of:",
+        "options": [
+            "Voltage and current",
+            "Resistance and reactance",
+            "Inductance and capacitance",
+            "Power and voltage"
+        ],
+        "answer": 1,
+        "explanation": "Impedance combines resistance and reactance."
+    },
+    {
+        "id": 185,
+        "question": "The impedance triangle is analogous to the triangle formed by:",
+        "options": [
+            "Current vectors",
+            "Voltage vectors",
+            "Resistance vectors",
+            "Power vectors"
+        ],
+        "answer": 3,
+        "explanation": "Impedance triangle is analogous to the power triangle."
+    },
+    {
+        "id": 186,
+        "question": "In AC circuits, the vector sum of resistive and reactive power gives:",
+        "options": [
+            "True power",
+            "Reactive power",
+            "Apparent power",
+            "Peak power"
+        ],
+        "answer": 2,
+        "explanation": "Vector sum of P and Q gives apparent power S."
+    },
+    {
+        "id": 187,
+        "question": "In AC power transmission, reducing current reduces:",
+        "options": [
+            "Voltage",
+            "Power",
+            "Power loss",
+            "Frequency"
+        ],
+        "answer": 2,
+        "explanation": "Lower current reduces I²R losses."
+    },
+    {
+        "id": 188,
+        "question": "The efficiency of an ideal transformer is maximum because:",
+        "options": [
+            "No power loss",
+            "High resistance",
+            "Low voltage",
+            "High current"
+        ],
+        "answer": 0,
+        "explanation": "Ideal transformer has no energy losses."
+    },
+    {
+        "id": 189,
+        "question": "In a step-up transformer, the secondary voltage is:",
+        "options": [
+            "Less than primary",
+            "Equal to primary",
+            "Greater than primary",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Step-up transformer increases voltage."
+    },
+    {
+        "id": 190,
+        "question": "In a step-down transformer, the secondary current is:",
+        "options": [
+            "Less than primary",
+            "Equal to primary",
+            "Greater than primary",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Step-down transformer increases current."
+    },
+    {
+        "id": 191,
+        "question": "A transformer cannot operate on DC because:",
+        "options": [
+            "DC has low voltage",
+            "DC produces no changing magnetic flux",
+            "DC causes overheating",
+            "DC has low frequency"
+        ],
+        "answer": 1,
+        "explanation": "Transformer needs changing flux, which DC cannot provide."
+    },
+    {
+        "id": 192,
+        "question": "The core of a transformer is laminated to:",
+        "options": [
+            "Increase strength",
+            "Reduce eddy current losses",
+            "Increase magnetic field",
+            "Reduce hysteresis"
+        ],
+        "answer": 1,
+        "explanation": "Lamination reduces eddy current losses."
+    },
+    {
+        "id": 193,
+        "question": "The copper losses in a transformer are due to:",
+        "options": [
+            "Eddy currents",
+            "Hysteresis",
+            "Resistance of coils",
+            "Leakage flux"
+        ],
+        "answer": 2,
+        "explanation": "Copper losses occur due to resistance of windings."
+    },
+    {
+        "id": 194,
+        "question": "In AC circuits, frequency determines:",
+        "options": [
+            "Resistance",
+            "Reactance",
+            "Power factor only",
+            "Voltage only"
+        ],
+        "answer": 1,
+        "explanation": "Reactance depends on frequency."
+    },
+    {
+        "id": 195,
+        "question": "The reactance offered by an inductor is zero for:",
+        "options": [
+            "High frequency AC",
+            "Low frequency AC",
+            "DC",
+            "Resonant frequency"
+        ],
+        "answer": 2,
+        "explanation": "For DC, ω = 0, so XL = 0."
+    },
+    {
+        "id": 196,
+        "question": "The reactance offered by a capacitor is infinite for:",
+        "options": [
+            "High frequency AC",
+            "Low frequency AC",
+            "DC",
+            "Resonant frequency"
+        ],
+        "answer": 2,
+        "explanation": "For DC, ω = 0, so XC is infinite."
+    },
+    {
+        "id": 197,
+        "question": "In AC circuits, the magnitude of impedance is always:",
+        "options": [
+            "Less than resistance",
+            "Equal to resistance",
+            "Greater than or equal to resistance",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Z = √(R² + (XL − XC)²) ≥ R."
+    },
+    {
+        "id": 198,
+        "question": "In an AC circuit, resonance can occur only when both are present:",
+        "options": [
+            "R and L",
+            "R and C",
+            "L and C",
+            "R, L and C"
+        ],
+        "answer": 2,
+        "explanation": "Resonance requires both inductance and capacitance."
+    },
+    {
+        "id": 199,
+        "question": "In an RLC circuit, the condition XL = XC implies:",
+        "options": [
+            "Maximum impedance",
+            "Minimum impedance",
+            "Zero current",
+            "Infinite current"
+        ],
+        "answer": 1,
+        "explanation": "At XL = XC, impedance is minimum."
+    },
+    {
+        "id": 200,
+        "question": "The phenomenon of resonance in AC circuits is used in:",
+        "options": [
+            "Power transmission",
+            "Radio and TV tuning",
+            "Electric heating",
+            "Electrolysis"
+        ],
+        "answer": 1,
+        "explanation": "Resonance is used in tuning circuits of radio and TV receivers."
+    },
+    {
+        "id": 201,
+        "question": "In an AC circuit, the instantaneous current becomes zero at times when:",
+        "options": [
+            "Voltage is maximum",
+            "Voltage is minimum",
+            "Voltage crosses zero",
+            "Voltage is constant"
+        ],
+        "answer": 2,
+        "explanation": "For sinusoidal AC, current becomes zero when sinωt = 0, i.e. when voltage crosses zero."
+    },
+    {
+        "id": 202,
+        "question": "In a purely inductive AC circuit, the current waveform is shifted relative to voltage by:",
+        "options": [
+            "π",
+            "π/2 lag",
+            "π/2 lead",
+            "0"
+        ],
+        "answer": 1,
+        "explanation": "In a pure inductor, current lags voltage by π/2."
+    },
+    {
+        "id": 203,
+        "question": "In a purely capacitive AC circuit, the current waveform is shifted relative to voltage by:",
+        "options": [
+            "π",
+            "π/2 lag",
+            "π/2 lead",
+            "0"
+        ],
+        "answer": 2,
+        "explanation": "In a pure capacitor, current leads voltage by π/2."
+    },
+    {
+        "id": 204,
+        "question": "The power factor of an AC circuit is numerically equal to:",
+        "options": [
+            "R/Z",
+            "(XL − XC)/Z",
+            "Z/R",
+            "R/(XL − XC)"
+        ],
+        "answer": 0,
+        "explanation": "Power factor cosφ = R/Z as given by the impedance triangle."
+    },
+    {
+        "id": 205,
+        "question": "In a series RLC circuit, if resistance is increased while L and C remain constant, the bandwidth:",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains unchanged",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Bandwidth Δω = R/L, so it increases with resistance."
+    },
+    {
+        "id": 206,
+        "question": "The phase angle φ in an RLC circuit becomes negative when:",
+        "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 1,
+        "explanation": "When XC > XL, the circuit is capacitive and phase angle is negative."
+    },
+    {
+        "id": 207,
+        "question": "The phase angle φ in an RLC circuit becomes positive when:",
+        "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 0,
+        "explanation": "When XL > XC, the circuit is inductive and phase angle is positive."
+    },
+    {
+        "id": 208,
+        "question": "In an AC circuit, if Z = R, then the circuit is:",
+        "options": [
+            "Inductive",
+            "Capacitive",
+            "Resistive",
+            "Reactive"
+        ],
+        "answer": 2,
+        "explanation": "Z = R implies XL = XC = 0, hence purely resistive."
+    },
+    {
+        "id": 209,
+        "question": "In a series RLC circuit, the frequency at which impedance is maximum is:",
+        "options": [
+            "Zero",
+            "Resonant frequency",
+            "Infinite",
+            "Depends on R"
+        ],
+        "answer": 0,
+        "explanation": "At zero frequency, capacitive reactance is infinite, making impedance maximum."
+    },
+    {
+        "id": 210,
+        "question": "The average power consumed in an AC circuit is maximum when:",
+        "options": [
+            "Power factor is zero",
+            "Power factor is unity",
+            "Impedance is maximum",
+            "Reactance is maximum"
+        ],
+        "answer": 1,
+        "explanation": "P = Vrms Irms cosφ is maximum when cosφ = 1."
+    },
+    {
+        "id": 211,
+        "question": "In AC circuits, apparent power is always:",
+        "options": [
+            "Less than true power",
+            "Equal to true power",
+            "Greater than or equal to true power",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power S ≥ true power P since S = P/cosφ."
+    },
+    {
+        "id": 212,
+        "question": "In an AC circuit, reactive power does not contribute to:",
+        "options": [
+            "Energy storage",
+            "Energy exchange",
+            "Useful work",
+            "Phase difference"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power does not perform useful work."
+    },
+    {
+        "id": 213,
+        "question": "In an AC circuit, if current is I = I0 sinωt, the corresponding voltage across a resistor is:",
+        "options": [
+            "V0 cosωt",
+            "V0 sinωt",
+            "V0 sin(ωt + π/2)",
+            "V0 sin(ωt − π/2)"
+        ],
+        "answer": 1,
+        "explanation": "In a resistor, voltage and current are in phase."
+    },
+    {
+        "id": 214,
+        "question": "In an AC circuit, the voltage across an inductor varies as:",
+        "options": [
+            "sinωt",
+            "cosωt",
+            "sin(ωt − π/2)",
+            "sin(ωt + π/2)"
+        ],
+        "answer": 3,
+        "explanation": "Voltage leads current by π/2 in an inductor."
+    },
+    {
+        "id": 215,
+        "question": "In an AC circuit, the voltage across a capacitor varies as:",
+        "options": [
+            "sinωt",
+            "cosωt",
+            "sin(ωt − π/2)",
+            "sin(ωt + π/2)"
+        ],
+        "answer": 2,
+        "explanation": "Voltage lags current by π/2 in a capacitor."
+    },
+    {
+        "id": 216,
+        "question": "The impedance of an AC circuit depends on frequency because:",
+        "options": [
+            "Resistance changes",
+            "Reactance changes",
+            "Voltage changes",
+            "Current changes"
+        ],
+        "answer": 1,
+        "explanation": "Reactance depends on frequency, making impedance frequency-dependent."
+    },
+    {
+        "id": 217,
+        "question": "In a series RLC circuit, if the supply frequency is gradually increased from zero, the current first:",
+        "options": [
+            "Decreases then increases",
+            "Increases then decreases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Current increases up to resonance and then decreases beyond it."
+    },
+    {
+        "id": 218,
+        "question": "The power loss in an inductor is mainly due to:",
+        "options": [
+            "Inductance",
+            "Capacitance",
+            "Resistance of coil",
+            "Frequency"
+        ],
+        "answer": 2,
+        "explanation": "Practical inductors have resistance causing power loss."
+    },
+    {
+        "id": 219,
+        "question": "In an AC circuit, the RMS value of current is related to peak value by:",
+        "options": [
+            "Irms = I0",
+            "Irms = I0/2",
+            "Irms = I0/√2",
+            "Irms = √2 I0"
+        ],
+        "answer": 2,
+        "explanation": "Irms = I0/√2 for sinusoidal current."
+    },
+    {
+        "id": 220,
+        "question": "In AC circuits, the term 'lagging VAR' is associated with:",
+        "options": [
+            "Capacitive load",
+            "Inductive load",
+            "Resistive load",
+            "Pure DC load"
+        ],
+        "answer": 1,
+        "explanation": "Inductive loads draw lagging reactive power."
+    },
+    {
+        "id": 221,
+        "question": "In AC circuits, the term 'leading VAR' is associated with:",
+        "options": [
+            "Capacitive load",
+            "Inductive load",
+            "Resistive load",
+            "Transformer core"
+        ],
+        "answer": 0,
+        "explanation": "Capacitive loads supply leading reactive power."
+    },
+    {
+        "id": 222,
+        "question": "The heating effect of AC in a resistor depends on:",
+        "options": [
+            "Peak voltage",
+            "Average current",
+            "RMS current",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect depends on RMS current."
+    },
+    {
+        "id": 223,
+        "question": "In an AC circuit, if the frequency is doubled, inductive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "XL = ωL, so doubling frequency doubles XL."
+    },
+    {
+        "id": 224,
+        "question": "In an AC circuit, if the frequency is doubled, capacitive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "XC = 1/ωC, so doubling frequency halves XC."
+    },
+    {
+        "id": 225,
+        "question": "In an AC circuit, resonance occurs when:",
+        "options": [
+            "Power is maximum",
+            "Impedance is maximum",
+            "Reactance is zero",
+            "Current is zero"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, net reactance XL − XC = 0."
+    },
+    {
+        "id": 226,
+        "question": "In a series RLC circuit at resonance, the voltage across L and C individually is:",
+        "options": [
+            "Zero",
+            "Minimum",
+            "Equal to supply voltage",
+            "Greater than supply voltage"
+        ],
+        "answer": 3,
+        "explanation": "Voltage magnification causes VL and VC to exceed supply voltage."
+    },
+    {
+        "id": 227,
+        "question": "The phenomenon of voltage magnification occurs due to:",
+        "options": [
+            "High resistance",
+            "Large current",
+            "Energy exchange between L and C",
+            "Low frequency"
+        ],
+        "answer": 2,
+        "explanation": "Energy oscillates between L and C at resonance."
+    },
+    {
+        "id": 228,
+        "question": "The quality factor Q of a series RLC circuit can also be written as:",
+        "options": [
+            "ω0/Δω",
+            "Δω/ω0",
+            "R/L",
+            "L/R"
+        ],
+        "answer": 0,
+        "explanation": "Q = ω0/Δω where Δω is bandwidth."
+    },
+    {
+        "id": 229,
+        "question": "In an AC circuit, the maximum value of instantaneous power in a resistor is:",
+        "options": [
+            "VI",
+            "V0I0",
+            "V0I0/2",
+            "V0I0/√2"
+        ],
+        "answer": 1,
+        "explanation": "pmax = V0 I0 for a pure resistor."
+    },
+    {
+        "id": 230,
+        "question": "In AC circuits, the apparent power is represented by the hypotenuse of:",
+        "options": [
+            "Impedance triangle",
+            "Voltage triangle",
+            "Power triangle",
+            "Current triangle"
+        ],
+        "answer": 2,
+        "explanation": "In the power triangle, apparent power is the hypotenuse."
+    },
+    {
+        "id": 231,
+        "question": "In AC circuits, the true power is represented by:",
+        "options": [
+            "Vertical side of power triangle",
+            "Horizontal side of power triangle",
+            "Hypotenuse of power triangle",
+            "Area of triangle"
+        ],
+        "answer": 1,
+        "explanation": "True power is the base of the power triangle."
+    },
+    {
+        "id": 232,
+        "question": "In AC circuits, reactive power is represented by:",
+        "options": [
+            "Horizontal side",
+            "Vertical side",
+            "Hypotenuse",
+            "Angle"
+        ],
+        "answer": 1,
+        "explanation": "Reactive power is the vertical side of power triangle."
+    },
+    {
+        "id": 233,
+        "question": "The efficiency of power transmission improves when:",
+        "options": [
+            "Current increases",
+            "Voltage increases",
+            "Resistance increases",
+            "Frequency decreases"
+        ],
+        "answer": 1,
+        "explanation": "Higher voltage reduces current and power loss."
+    },
+    {
+        "id": 234,
+        "question": "The RMS value of domestic AC voltage in India is approximately:",
+        "options": [
+            "110 V",
+            "220 V",
+            "311 V",
+            "440 V"
+        ],
+        "answer": 1,
+        "explanation": "Domestic supply is about 220 V RMS."
+    },
+    {
+        "id": 235,
+        "question": "The peak value of domestic AC voltage in India is approximately:",
+        "options": [
+            "220 V",
+            "311 V",
+            "155 V",
+            "440 V"
+        ],
+        "answer": 1,
+        "explanation": "V0 = √2 × 220 ≈ 311 V."
+    },
+    {
+        "id": 236,
+        "question": "In AC circuits, a transformer increases voltage by:",
+        "options": [
+            "Increasing current",
+            "Increasing frequency",
+            "Electromagnetic induction",
+            "Reducing impedance"
+        ],
+        "answer": 2,
+        "explanation": "Transformers work on electromagnetic induction."
+    },
+    {
+        "id": 237,
+        "question": "In an ideal transformer, the ratio of voltages is equal to the ratio of:",
+        "options": [
+            "Currents",
+            "Turns",
+            "Powers",
+            "Resistances"
+        ],
+        "answer": 1,
+        "explanation": "Vp/Vs = Np/Ns in an ideal transformer."
+    },
+    {
+        "id": 238,
+        "question": "In an ideal transformer, if voltage is stepped up, the current is:",
+        "options": [
+            "Increased",
+            "Decreased",
+            "Unchanged",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Power conservation causes current to decrease."
+    },
+    {
+        "id": 239,
+        "question": "The core material of a transformer is chosen to have:",
+        "options": [
+            "High resistivity and low permeability",
+            "Low resistivity and high permeability",
+            "High resistivity and high permeability",
+            "Low resistivity and low permeability"
+        ],
+        "answer": 2,
+        "explanation": "High permeability improves flux linkage and high resistivity reduces eddy currents."
+    },
+    {
+        "id": 240,
+        "question": "Hysteresis loss in a transformer core depends on:",
+        "options": [
+            "Frequency",
+            "Area of hysteresis loop",
+            "Volume of core",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Hysteresis loss depends on frequency, loop area and core volume."
+    },
+    {
+        "id": 241,
+        "question": "Eddy current loss in a transformer is reduced by:",
+        "options": [
+            "Using thick core",
+            "Laminating the core",
+            "Increasing frequency",
+            "Using copper core"
+        ],
+        "answer": 1,
+        "explanation": "Lamination reduces eddy current loops."
+    },
+    {
+        "id": 242,
+        "question": "The no-load current in a transformer is mainly due to:",
+        "options": [
+            "Copper loss",
+            "Hysteresis and eddy currents",
+            "Load resistance",
+            "Leakage flux"
+        ],
+        "answer": 1,
+        "explanation": "No-load current compensates core losses."
+    },
+    {
+        "id": 243,
+        "question": "In AC circuits, frequency determines:",
+        "options": [
+            "Resistance only",
+            "Reactance only",
+            "Impedance only",
+            "Reactance and impedance"
+        ],
+        "answer": 3,
+        "explanation": "Reactance and hence impedance depend on frequency."
+    },
+    {
+        "id": 244,
+        "question": "In a choke coil, power loss is small because:",
+        "options": [
+            "Resistance is large",
+            "Inductance is small",
+            "Resistance is small",
+            "Current is zero"
+        ],
+        "answer": 2,
+        "explanation": "Low resistance minimizes power loss."
+    },
+    {
+        "id": 245,
+        "question": "In AC circuits, resonance is useful because it allows:",
+        "options": [
+            "Maximum impedance",
+            "Minimum current",
+            "Selective frequency response",
+            "Zero power"
+        ],
+        "answer": 2,
+        "explanation": "Resonance allows selection of a desired frequency."
+    },
+    {
+        "id": 246,
+        "question": "In a series RLC circuit, the phase difference at resonance is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "−π/2"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, voltage and current are in phase."
+    },
+    {
+        "id": 247,
+        "question": "The reactance of an inductor is independent of:",
+        "options": [
+            "Frequency",
+            "Inductance",
+            "Current",
+            "Angular frequency"
+        ],
+        "answer": 2,
+        "explanation": "XL depends on ω and L, not on current."
+    },
+    {
+        "id": 248,
+        "question": "The reactance of a capacitor is independent of:",
+        "options": [
+            "Frequency",
+            "Capacitance",
+            "Voltage",
+            "Angular frequency"
+        ],
+        "answer": 2,
+        "explanation": "XC depends on ω and C, not on voltage."
+    },
+    {
+        "id": 249,
+        "question": "In AC circuits, the unit of power factor is:",
+        "options": [
+            "Watt",
+            "VAR",
+            "VA",
+            "No unit"
+        ],
+        "answer": 3,
+        "explanation": "Power factor is dimensionless."
+    },
+    {
+        "id": 250,
+        "question": "In AC circuits, improving power factor mainly helps in reducing:",
+        "options": [
+            "Voltage",
+            "Current",
+            "Frequency",
+            "Resistance"
+        ],
+        "answer": 1,
+        "explanation": "Improved power factor reduces current for same power."
+    },
+    {
+        "id": 251,
+        "question": "In an AC circuit, the instantaneous power is given by p = vi. For a purely resistive load with v = V0 sinωt and i = I0 sinωt, the average power over one cycle is:",
+        "options": [
+            "0",
+            "V0I0",
+            "V0I0/2",
+            "V0I0/√2"
+        ],
+        "answer": 2,
+        "explanation": "Average of sin²ωt over a cycle is 1/2, so Pavg = V0I0/2."
+    },
+    {
+        "id": 252,
+        "question": "In a purely inductive AC circuit, the phase difference between voltage and current is:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "−π/2"
+        ],
+        "answer": 1,
+        "explanation": "Current lags voltage by π/2 in a pure inductor."
+    },
+    {
+        "id": 253,
+        "question": "In a purely capacitive AC circuit, the phase difference between voltage and current is:",
+        "options": [
+            "0",
+            "π/2",
+            "π",
+            "−π/2"
+        ],
+        "answer": 3,
+        "explanation": "Voltage lags current by π/2, so phase difference is −π/2."
+    },
+    {
+        "id": 254,
+        "question": "The impedance of a series RLC circuit is minimum when:",
+        "options": [
+            "ω = 0",
+            "ω → ∞",
+            "ω = ω0",
+            "R = 0"
+        ],
+        "answer": 2,
+        "explanation": "At resonance ω = ω0, XL = XC and Z = R is minimum."
+    },
+    {
+        "id": 255,
+        "question": "In an AC circuit, the average power becomes zero when the circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive",
+            "RLC at resonance",
+            "Purely resistive and inductive"
+        ],
+        "answer": 1,
+        "explanation": "Purely inductive (or capacitive) circuits consume zero average power."
+    },
+    {
+        "id": 256,
+        "question": "The RMS value of AC current is defined as that steady DC current which produces the same:",
+        "options": [
+            "Charge flow",
+            "Peak current",
+            "Heating effect",
+            "Voltage"
+        ],
+        "answer": 2,
+        "explanation": "RMS value is based on equal heating effect in a resistor."
+    },
+    {
+        "id": 257,
+        "question": "In an RLC circuit, if R is increased keeping L and C constant, the quality factor Q will:",
+        "options": [
+            "Increase",
+            "Decrease",
+            "Remain unchanged",
+            "Become zero"
+        ],
+        "answer": 1,
+        "explanation": "Q = ω0L/R, so increasing R decreases Q."
+    },
+    {
+        "id": 258,
+        "question": "The bandwidth of a series RLC circuit is given by:",
+        "options": [
+            "ω0/Q",
+            "Q/ω0",
+            "R/L",
+            "L/R"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth Δω = R/L for a series RLC circuit."
+    },
+    {
+        "id": 259,
+        "question": "In an AC circuit, the current amplitude is maximum when:",
+        "options": [
+            "Impedance is maximum",
+            "Impedance is minimum",
+            "Reactance is maximum",
+            "Resistance is maximum"
+        ],
+        "answer": 1,
+        "explanation": "I0 = V0/Z is maximum when Z is minimum."
+    },
+    {
+        "id": 260,
+        "question": "In a series RLC circuit at resonance, the voltages across L and C are:",
+        "options": [
+            "Zero",
+            "Equal and opposite in phase",
+            "Equal and in phase",
+            "Unequal"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, VL and VC are equal in magnitude and opposite in phase."
+    },
+    {
+        "id": 261,
+        "question": "In an AC circuit, the apparent power is numerically equal to:",
+        "options": [
+            "P cosφ",
+            "P sinφ",
+            "VrmsIrms",
+            "Irms²R"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power S = Vrms × Irms."
+    },
+    {
+        "id": 262,
+        "question": "The reactive power in an AC circuit is given by:",
+        "options": [
+            "VrmsIrms cosφ",
+            "VrmsIrms sinφ",
+            "Vrms²/R",
+            "Irms²R"
+        ],
+        "answer": 1,
+        "explanation": "Reactive power Q = VrmsIrms sinφ."
+    },
+    {
+        "id": 263,
+        "question": "In an AC circuit, if the frequency is reduced to half, the inductive reactance becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "XL = ωL, so halving frequency halves XL."
+    },
+    {
+        "id": 264,
+        "question": "In an AC circuit, if the frequency is reduced to half, the capacitive reactance becomes:",
+        "options": [
+            "Half",
+            "Double",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 1,
+        "explanation": "XC = 1/ωC, so halving frequency doubles XC."
+    },
+    {
+        "id": 265,
+        "question": "The power factor of an AC circuit is maximum when:",
+        "options": [
+            "R = 0",
+            "XL = XC",
+            "XL ≫ XC",
+            "XC ≫ XL"
+        ],
+        "answer": 1,
+        "explanation": "At XL = XC, φ = 0 and cosφ is maximum."
+    },
+    {
+        "id": 266,
+        "question": "In an AC circuit, negative instantaneous power signifies:",
+        "options": [
+            "Energy loss",
+            "Energy stored",
+            "Energy returned to source",
+            "Short circuit"
+        ],
+        "answer": 2,
+        "explanation": "Negative power indicates energy flowing back to the source."
+    },
+    {
+        "id": 267,
+        "question": "The energy stored in a capacitor connected to AC source varies with time as:",
+        "options": [
+            "sinωt",
+            "cosωt",
+            "sin²ωt",
+            "cos²ωt"
+        ],
+        "answer": 3,
+        "explanation": "Energy ∝ V² ∝ cos²ωt for a capacitor."
+    },
+    {
+        "id": 268,
+        "question": "The energy stored in an inductor connected to AC source varies with time as:",
+        "options": [
+            "sinωt",
+            "cosωt",
+            "sin²ωt",
+            "cos²ωt"
+        ],
+        "answer": 2,
+        "explanation": "Energy ∝ I² ∝ sin²ωt for an inductor."
+    },
+    {
+        "id": 269,
+        "question": "In an AC circuit, the instantaneous voltage becomes zero at:",
+        "options": [
+            "ωt = 0",
+            "ωt = π/2",
+            "ωt = π",
+            "Both 0 and π"
+        ],
+        "answer": 3,
+        "explanation": "For v = V0 sinωt, v = 0 at ωt = 0 and π."
+    },
+    {
+        "id": 270,
+        "question": "The SI unit of apparent power is:",
+        "options": [
+            "Watt",
+            "VAR",
+            "Volt-ampere",
+            "Joule"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power is measured in volt-ampere (VA)."
+    },
+    {
+        "id": 271,
+        "question": "In AC circuits, improving the power factor primarily reduces:",
+        "options": [
+            "Voltage drop",
+            "Current",
+            "Frequency",
+            "Resistance"
+        ],
+        "answer": 1,
+        "explanation": "Better power factor reduces current for the same power."
+    },
+    {
+        "id": 272,
+        "question": "In an AC circuit, resonance occurs only when the circuit contains:",
+        "options": [
+            "R only",
+            "L only",
+            "C only",
+            "Both L and C"
+        ],
+        "answer": 3,
+        "explanation": "Resonance requires both inductance and capacitance."
+    },
+    {
+        "id": 273,
+        "question": "In an AC circuit, the current leads voltage when:",
+        "options": [
+            "XL > XC",
+            "XC > XL",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 1,
+        "explanation": "Capacitive dominance (XC > XL) makes current lead voltage."
+    },
+    {
+        "id": 274,
+        "question": "In an AC circuit, the current lags voltage when:",
+        "options": [
+            "XC > XL",
+            "XL > XC",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 1,
+        "explanation": "Inductive dominance (XL > XC) makes current lag voltage."
+    },
+    {
+        "id": 275,
+        "question": "The instantaneous emf induced in an inductor is proportional to:",
+        "options": [
+            "Current",
+            "Charge",
+            "Rate of change of current",
+            "Voltage"
+        ],
+        "answer": 2,
+        "explanation": "e = −L di/dt, so emf ∝ rate of change of current."
+    },
+    {
+        "id": 276,
+        "question": "The instantaneous current through a capacitor is proportional to:",
+        "options": [
+            "Voltage",
+            "Charge",
+            "Rate of change of voltage",
+            "Power"
+        ],
+        "answer": 2,
+        "explanation": "i = C dV/dt for a capacitor."
+    },
+    {
+        "id": 277,
+        "question": "In an AC circuit, the magnitude of impedance is always:",
+        "options": [
+            "Less than resistance",
+            "Equal to resistance",
+            "Greater than or equal to resistance",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Z = √(R² + (XL − XC)²) ≥ R."
+    },
+    {
+        "id": 278,
+        "question": "In a transformer, the phenomenon of energy transfer from primary to secondary is due to:",
+        "options": [
+            "Self induction",
+            "Mutual induction",
+            "Electrostatic induction",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Transformers operate on mutual induction."
+    },
+    {
+        "id": 279,
+        "question": "A transformer cannot work on DC because DC produces:",
+        "options": [
+            "High current",
+            "Constant magnetic flux",
+            "Low voltage",
+            "High resistance"
+        ],
+        "answer": 1,
+        "explanation": "Constant flux does not induce emf in the secondary."
+    },
+    {
+        "id": 280,
+        "question": "The main cause of energy loss in the core of a transformer is:",
+        "options": [
+            "Copper loss",
+            "Eddy current loss",
+            "Hysteresis loss",
+            "Both eddy current and hysteresis losses"
+        ],
+        "answer": 3,
+        "explanation": "Core losses include eddy current and hysteresis losses."
+    },
+    {
+        "id": 281,
+        "question": "The copper loss in a transformer varies with load current as:",
+        "options": [
+            "I",
+            "I²",
+            "1/I",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Copper loss ∝ I²R."
+    },
+    {
+        "id": 282,
+        "question": "The no-load current of a transformer is mainly reactive because it is used to:",
+        "options": [
+            "Supply load",
+            "Produce flux in the core",
+            "Overcome copper loss",
+            "Increase efficiency"
+        ],
+        "answer": 1,
+        "explanation": "No-load current establishes magnetic flux in the core."
+    },
+    {
+        "id": 283,
+        "question": "In an ideal transformer, which of the following quantities remains unchanged?",
+        "options": [
+            "Voltage",
+            "Current",
+            "Power",
+            "Frequency"
+        ],
+        "answer": 3,
+        "explanation": "Frequency remains the same in an ideal transformer."
+    },
+    {
+        "id": 284,
+        "question": "In a step-up transformer, the primary current compared to secondary current is:",
+        "options": [
+            "Greater",
+            "Smaller",
+            "Equal",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "In step-up transformer, current decreases in secondary, so primary current is greater."
+    },
+    {
+        "id": 285,
+        "question": "The impedance matching in AC circuits is done to:",
+        "options": [
+            "Reduce voltage",
+            "Increase current",
+            "Maximize power transfer",
+            "Reduce frequency"
+        ],
+        "answer": 2,
+        "explanation": "Impedance matching ensures maximum power transfer."
+    },
+    {
+        "id": 286,
+        "question": "In AC circuits, resonance is useful in tuning circuits because it allows:",
+        "options": [
+            "Maximum impedance",
+            "Minimum current",
+            "Selection of desired frequency",
+            "Zero power loss"
+        ],
+        "answer": 2,
+        "explanation": "Resonance enables selection of a particular frequency."
+    },
+    {
+        "id": 287,
+        "question": "The instantaneous power in a purely inductive circuit averages to zero because:",
+        "options": [
+            "Voltage is zero",
+            "Current is zero",
+            "Energy is alternately stored and returned",
+            "Resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "Energy oscillates between source and inductor."
+    },
+    {
+        "id": 288,
+        "question": "The instantaneous power in a purely capacitive circuit averages to zero because:",
+        "options": [
+            "Voltage is zero",
+            "Current is zero",
+            "Energy is alternately stored and returned",
+            "Resistance is zero"
+        ],
+        "answer": 2,
+        "explanation": "Energy oscillates between source and capacitor."
+    },
+    {
+        "id": 289,
+        "question": "In an AC circuit, the heating effect in a resistor depends on:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "RMS current",
+            "Frequency"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect is determined by RMS current."
+    },
+    {
+        "id": 290,
+        "question": "In an AC circuit, the power factor is unity when:",
+        "options": [
+            "Circuit is purely inductive",
+            "Circuit is purely capacitive",
+            "Circuit is purely resistive",
+            "Circuit is RLC off resonance"
+        ],
+        "answer": 2,
+        "explanation": "Purely resistive circuits have cosφ = 1."
+    },
+    {
+        "id": 291,
+        "question": "In AC transmission lines, power loss is minimized by:",
+        "options": [
+            "Increasing current",
+            "Decreasing voltage",
+            "Increasing voltage",
+            "Increasing resistance"
+        ],
+        "answer": 2,
+        "explanation": "Higher voltage reduces current and I²R loss."
+    },
+    {
+        "id": 292,
+        "question": "The angular frequency ω of an AC source is related to frequency f by:",
+        "options": [
+            "ω = f/2π",
+            "ω = 2πf",
+            "ω = πf",
+            "ω = 1/f"
+        ],
+        "answer": 1,
+        "explanation": "ω = 2πf."
+    },
+    {
+        "id": 293,
+        "question": "The RMS value of AC voltage is related to peak value by:",
+        "options": [
+            "Vrms = V0",
+            "Vrms = V0/2",
+            "Vrms = V0/√2",
+            "Vrms = √2 V0"
+        ],
+        "answer": 2,
+        "explanation": "Vrms = V0/√2 for sinusoidal AC."
+    },
+    {
+        "id": 294,
+        "question": "In AC circuits, the phase angle φ is given by:",
+        "options": [
+            "sinφ = R/Z",
+            "cosφ = R/Z",
+            "tanφ = R/Z",
+            "tanφ = Z/R"
+        ],
+        "answer": 1,
+        "explanation": "Power factor cosφ = R/Z."
+    },
+    {
+        "id": 295,
+        "question": "In a series RLC circuit, if frequency is increased beyond resonance, the circuit becomes:",
+        "options": [
+            "Capacitive",
+            "Inductive",
+            "Resistive",
+            "Non-reactive"
+        ],
+        "answer": 1,
+        "explanation": "Above resonance, XL > XC, so circuit is inductive."
+    },
+    {
+        "id": 296,
+        "question": "In a series RLC circuit, if frequency is decreased below resonance, the circuit becomes:",
+        "options": [
+            "Capacitive",
+            "Inductive",
+            "Resistive",
+            "Non-reactive"
+        ],
+        "answer": 0,
+        "explanation": "Below resonance, XC > XL, so circuit is capacitive."
+    },
+    {
+        "id": 297,
+        "question": "The SI unit of inductive reactance is:",
+        "options": [
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Ampere"
+        ],
+        "answer": 2,
+        "explanation": "Reactance has the same unit as resistance, ohm."
+    },
+    {
+        "id": 298,
+        "question": "The SI unit of capacitive reactance is:",
+        "options": [
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Ampere"
+        ],
+        "answer": 2,
+        "explanation": "Capacitive reactance is measured in ohms."
+    },
+    {
+        "id": 299,
+        "question": "In AC circuits, the term VAR stands for:",
+        "options": [
+            "Volt-Ampere Resistance",
+            "Volt-Ampere Reactance",
+            "Volt-Ampere Reactive",
+            "Volt-Average Resistance"
+        ],
+        "answer": 2,
+        "explanation": "VAR means volt-ampere reactive."
+    },
+    {
+        "id": 300,
+        "question": "In AC circuits, the power triangle relates:",
+        "options": [
+            "Voltage, current and impedance",
+            "True power, reactive power and apparent power",
+            "Resistance, reactance and impedance",
+            "Voltage, current and power factor"
+        ],
+        "answer": 1,
+        "explanation": "Power triangle relates P, Q and S."
+    },
+    {
+        "id": 301,
+        "question": "In an AC circuit, the instantaneous current reaches its maximum value when the phase angle ωt is:",
+        "options": [
+            "0",
+            "π/4",
+            "π/2",
+            "π"
+        ],
+        "answer": 2,
+        "explanation": "For i = I0 sinωt, the maximum current occurs at ωt = π/2."
+    },
+    {
+        "id": 302,
+        "question": "In a purely resistive AC circuit, the instantaneous power varies with time as:",
+        "options": [
+            "sinωt",
+            "cosωt",
+            "sin²ωt",
+            "cos²ωt"
+        ],
+        "answer": 2,
+        "explanation": "p = v i = V0I0 sin²ωt in a purely resistive circuit."
+    },
+    {
+        "id": 303,
+        "question": "The RMS value of an alternating current is equal to its peak value multiplied by:",
+        "options": [
+            "√2",
+            "1/√2",
+            "2/π",
+            "π/2"
+        ],
+        "answer": 1,
+        "explanation": "Irms = I0/√2 for sinusoidal AC."
+    },
+    {
+        "id": 304,
+        "question": "In a purely inductive AC circuit, the instantaneous power averaged over a complete cycle is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Frequency dependent"
+        ],
+        "answer": 2,
+        "explanation": "A pure inductor consumes no average power."
+    },
+    {
+        "id": 305,
+        "question": "In a purely capacitive AC circuit, the instantaneous power averaged over a complete cycle is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Minimum",
+            "Depends on capacitance"
+        ],
+        "answer": 0,
+        "explanation": "A pure capacitor consumes no average power."
+    },
+    {
+        "id": 306,
+        "question": "In an AC circuit, the apparent power is numerically equal to:",
+        "options": [
+            "Vrms Irms",
+            "Vrms Irms cosφ",
+            "Vrms Irms sinφ",
+            "I0 V0"
+        ],
+        "answer": 0,
+        "explanation": "Apparent power S = Vrms × Irms."
+    },
+    {
+        "id": 307,
+        "question": "In an AC circuit, the true power consumed is given by:",
+        "options": [
+            "Vrms Irms",
+            "Vrms Irms sinφ",
+            "Vrms Irms cosφ",
+            "V0 I0"
+        ],
+        "answer": 2,
+        "explanation": "True (average) power P = Vrms Irms cosφ."
+    },
+    {
+        "id": 308,
+        "question": "In an AC circuit, the reactive power is given by:",
+        "options": [
+            "Vrms Irms",
+            "Vrms Irms cosφ",
+            "Vrms Irms sinφ",
+            "Irms²R"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power Q = Vrms Irms sinφ."
+    },
+    {
+        "id": 309,
+        "question": "In an AC circuit, the power factor is equal to:",
+        "options": [
+            "sinφ",
+            "cosφ",
+            "tanφ",
+            "cotφ"
+        ],
+        "answer": 1,
+        "explanation": "Power factor is defined as cosφ."
+    },
+    {
+        "id": 310,
+        "question": "The power factor of a purely inductive AC circuit is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/2"
+        ],
+        "answer": 1,
+        "explanation": "In a purely inductive circuit, φ = π/2 and cosφ = 0."
+    },
+    {
+        "id": 311,
+        "question": "The power factor of a purely capacitive AC circuit is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/√2"
+        ],
+        "answer": 1,
+        "explanation": "In a purely capacitive circuit, φ = π/2 and cosφ = 0."
+    },
+    {
+        "id": 312,
+        "question": "In an AC circuit, power factor correction is usually done using:",
+        "options": [
+            "Resistors",
+            "Inductors",
+            "Capacitors",
+            "Transformers"
+        ],
+        "answer": 2,
+        "explanation": "Capacitors provide leading reactive power and improve power factor."
+    },
+    {
+        "id": 313,
+        "question": "In a series RLC circuit, resonance occurs when:",
+        "options": [
+            "XL = 0",
+            "XC = 0",
+            "XL = XC",
+            "R = 0"
+        ],
+        "answer": 2,
+        "explanation": "Resonance occurs when inductive reactance equals capacitive reactance."
+    },
+    {
+        "id": 314,
+        "question": "The resonant angular frequency of a series RLC circuit is given by:",
+        "options": [
+            "√(LC)",
+            "1/LC",
+            "1/√(LC)",
+            "L/C"
+        ],
+        "answer": 2,
+        "explanation": "Resonant angular frequency ω0 = 1/√(LC)."
+    },
+    {
+        "id": 315,
+        "question": "At resonance in a series RLC circuit, the impedance is equal to:",
+        "options": [
+            "XL",
+            "XC",
+            "R",
+            "√(XL² + XC²)"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, XL = XC and impedance reduces to R."
+    },
+    {
+        "id": 316,
+        "question": "At resonance, the current in a series RLC circuit is:",
+        "options": [
+            "Minimum",
+            "Maximum",
+            "Zero",
+            "Independent of frequency"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, impedance is minimum, so current is maximum."
+    },
+    {
+        "id": 317,
+        "question": "In a series RLC circuit, below the resonant frequency the circuit behaves as:",
+        "options": [
+            "Inductive",
+            "Capacitive",
+            "Resistive",
+            "Non-reactive"
+        ],
+        "answer": 1,
+        "explanation": "Below resonance, XC > XL and the circuit is capacitive."
+    },
+    {
+        "id": 318,
+        "question": "In a series RLC circuit, above the resonant frequency the circuit behaves as:",
+        "options": [
+            "Capacitive",
+            "Inductive",
+            "Resistive",
+            "Non-reactive"
+        ],
+        "answer": 1,
+        "explanation": "Above resonance, XL > XC and the circuit is inductive."
+    },
+    {
+        "id": 319,
+        "question": "The quality factor Q of a series RLC circuit is defined as:",
+        "options": [
+            "ω0R/L",
+            "ω0L/R",
+            "R/ω0L",
+            "ω0RC"
+        ],
+        "answer": 1,
+        "explanation": "For a series RLC circuit, Q = ω0L/R."
+    },
+    {
+        "id": 320,
+        "question": "The bandwidth of a series resonant circuit is given by:",
+        "options": [
+            "ω0/Q",
+            "Q/ω0",
+            "R/L",
+            "L/R"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth Δω = R/L for a series RLC circuit."
+    },
+    {
+        "id": 321,
+        "question": "A higher value of quality factor Q implies:",
+        "options": [
+            "Broad resonance",
+            "Low current",
+            "Sharp resonance",
+            "Large bandwidth"
+        ],
+        "answer": 2,
+        "explanation": "High Q indicates sharp resonance with narrow bandwidth."
+    },
+    {
+        "id": 322,
+        "question": "In a series RLC circuit at resonance, the voltages across L and C are:",
+        "options": [
+            "Zero",
+            "Equal and opposite",
+            "Equal and in phase",
+            "Minimum"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, VL and VC are equal in magnitude and opposite in phase."
+    },
+    {
+        "id": 323,
+        "question": "The phenomenon in which the voltage across L or C exceeds the applied voltage at resonance is called:",
+        "options": [
+            "Current amplification",
+            "Voltage magnification",
+            "Power amplification",
+            "Resonance damping"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, voltages across L and C can be much larger than supply voltage."
+    },
+    {
+        "id": 324,
+        "question": "In an AC circuit, the reactance of an inductor increases when:",
+        "options": [
+            "Frequency increases",
+            "Frequency decreases",
+            "Current increases",
+            "Voltage increases"
+        ],
+        "answer": 0,
+        "explanation": "Inductive reactance XL = ωL increases with frequency."
+    },
+    {
+        "id": 325,
+        "question": "In an AC circuit, the reactance of a capacitor increases when:",
+        "options": [
+            "Frequency increases",
+            "Frequency decreases",
+            "Voltage increases",
+            "Current increases"
+        ],
+        "answer": 1,
+        "explanation": "Capacitive reactance XC = 1/ωC increases when frequency decreases."
+    },
+    {
+        "id": 326,
+        "question": "In an AC circuit, impedance is the vector sum of:",
+        "options": [
+            "Voltage and current",
+            "Resistance and reactance",
+            "Inductance and capacitance",
+            "Power and current"
+        ],
+        "answer": 1,
+        "explanation": "Impedance combines resistance and net reactance."
+    },
+    {
+        "id": 327,
+        "question": "The SI unit of impedance is:",
+        "options": [
+            "Volt",
+            "Ampere",
+            "Ohm",
+            "Henry"
+        ],
+        "answer": 2,
+        "explanation": "Impedance is measured in ohms."
+    },
+    {
+        "id": 328,
+        "question": "In an AC circuit, the RMS value of voltage is related to peak value by:",
+        "options": [
+            "Vrms = V0",
+            "Vrms = V0/2",
+            "Vrms = V0/√2",
+            "Vrms = √2 V0"
+        ],
+        "answer": 2,
+        "explanation": "Vrms = V0/√2 for sinusoidal AC voltage."
+    },
+    {
+        "id": 329,
+        "question": "In an AC circuit, the heating effect depends on:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "RMS current",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect is proportional to Irms²R."
+    },
+    {
+        "id": 330,
+        "question": "In an AC circuit, negative instantaneous power indicates:",
+        "options": [
+            "Energy loss",
+            "Energy stored",
+            "Energy returned to source",
+            "Circuit failure"
+        ],
+        "answer": 2,
+        "explanation": "Negative power means energy is being returned to the source."
+    },
+    {
+        "id": 331,
+        "question": "In AC transmission, high voltage is used mainly to:",
+        "options": [
+            "Increase current",
+            "Reduce current",
+            "Increase frequency",
+            "Reduce impedance"
+        ],
+        "answer": 1,
+        "explanation": "High voltage reduces current for the same power, reducing losses."
+    },
+    {
+        "id": 332,
+        "question": "The device used to change AC voltage levels is called:",
+        "options": [
+            "Rectifier",
+            "Transformer",
+            "Generator",
+            "Choke"
+        ],
+        "answer": 1,
+        "explanation": "Transformers are used to step up or step down AC voltage."
+    },
+    {
+        "id": 333,
+        "question": "A transformer works on the principle of:",
+        "options": [
+            "Self induction",
+            "Mutual induction",
+            "Electrostatic induction",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Transformers operate on mutual induction."
+    },
+    {
+        "id": 334,
+        "question": "A transformer cannot operate on DC because DC produces:",
+        "options": [
+            "Low voltage",
+            "High current",
+            "Constant magnetic flux",
+            "High resistance"
+        ],
+        "answer": 2,
+        "explanation": "Constant flux does not induce emf in the secondary."
+    },
+    {
+        "id": 335,
+        "question": "In an ideal transformer, which quantity remains unchanged?",
+        "options": [
+            "Voltage",
+            "Current",
+            "Power",
+            "Frequency"
+        ],
+        "answer": 3,
+        "explanation": "Frequency remains the same in an ideal transformer."
+    },
+    {
+        "id": 336,
+        "question": "In a step-up transformer, the secondary current compared to primary current is:",
+        "options": [
+            "Greater",
+            "Smaller",
+            "Equal",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "In step-up transformers, voltage increases and current decreases."
+    },
+    {
+        "id": 337,
+        "question": "The core of a transformer is laminated mainly to reduce:",
+        "options": [
+            "Copper loss",
+            "Hysteresis loss",
+            "Eddy current loss",
+            "Leakage flux"
+        ],
+        "answer": 2,
+        "explanation": "Lamination reduces eddy current losses."
+    },
+    {
+        "id": 338,
+        "question": "The hysteresis loss in a transformer core depends on:",
+        "options": [
+            "Frequency",
+            "Area of hysteresis loop",
+            "Volume of core",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Hysteresis loss depends on frequency, loop area and volume."
+    },
+    {
+        "id": 339,
+        "question": "The copper loss in a transformer is proportional to:",
+        "options": [
+            "I",
+            "I²",
+            "1/I",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Copper loss is I²R loss in the windings."
+    },
+    {
+        "id": 340,
+        "question": "In an AC circuit, a choke coil is preferred over a resistor because it:",
+        "options": [
+            "Consumes more power",
+            "Consumes less power",
+            "Blocks DC",
+            "Increases voltage"
+        ],
+        "answer": 1,
+        "explanation": "Choke coils limit current with negligible power loss."
+    },
+    {
+        "id": 341,
+        "question": "In AC circuits, the term 'lagging power factor' refers to a circuit that is:",
+        "options": [
+            "Capacitive",
+            "Inductive",
+            "Resistive",
+            "Resonant"
+        ],
+        "answer": 1,
+        "explanation": "Lagging power factor indicates inductive behavior."
+    },
+    {
+        "id": 342,
+        "question": "In AC circuits, the term 'leading power factor' refers to a circuit that is:",
+        "options": [
+            "Inductive",
+            "Capacitive",
+            "Resistive",
+            "Resonant"
+        ],
+        "answer": 1,
+        "explanation": "Leading power factor indicates capacitive behavior."
+    },
+    {
+        "id": 343,
+        "question": "In an AC circuit, resonance is useful because it allows:",
+        "options": [
+            "Maximum impedance",
+            "Minimum current",
+            "Selective frequency response",
+            "Zero power"
+        ],
+        "answer": 2,
+        "explanation": "Resonance enables selection of a particular frequency."
+    },
+    {
+        "id": 344,
+        "question": "In AC circuits, the magnitude of impedance is always:",
+        "options": [
+            "Less than resistance",
+            "Equal to resistance",
+            "Greater than or equal to resistance",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Z = √(R² + (XL − XC)²) ≥ R."
+    },
+    {
+        "id": 345,
+        "question": "In an AC circuit, the phase angle φ is given by:",
+        "options": [
+            "sinφ = R/Z",
+            "cosφ = R/Z",
+            "tanφ = R/Z",
+            "tanφ = Z/R"
+        ],
+        "answer": 1,
+        "explanation": "Power factor cosφ = R/Z."
+    },
+    {
+        "id": 346,
+        "question": "In AC circuits, the apparent power is represented by the hypotenuse of the:",
+        "options": [
+            "Impedance triangle",
+            "Voltage triangle",
+            "Power triangle",
+            "Current triangle"
+        ],
+        "answer": 2,
+        "explanation": "In the power triangle, apparent power is the hypotenuse."
+    },
+    {
+        "id": 347,
+        "question": "In AC circuits, the true power is represented by the:",
+        "options": [
+            "Vertical side of power triangle",
+            "Horizontal side of power triangle",
+            "Hypotenuse",
+            "Angle"
+        ],
+        "answer": 1,
+        "explanation": "True power is the base of the power triangle."
+    },
+    {
+        "id": 348,
+        "question": "In AC circuits, the reactive power is represented by the:",
+        "options": [
+            "Horizontal side",
+            "Vertical side",
+            "Hypotenuse",
+            "Angle"
+        ],
+        "answer": 1,
+        "explanation": "Reactive power is the vertical side of the power triangle."
+    },
+    {
+        "id": 349,
+        "question": "In an AC circuit, improving the power factor reduces:",
+        "options": [
+            "Voltage",
+            "Current",
+            "Frequency",
+            "Resistance"
+        ],
+        "answer": 1,
+        "explanation": "Better power factor reduces current for the same power."
+    },
+    {
+        "id": 350,
+        "question": "In AC power transmission, the main advantage of using AC over DC is:",
+        "options": [
+            "Lower frequency",
+            "Higher current",
+            "Efficient voltage transformation",
+            "Less resistance"
+        ],
+        "answer": 2,
+        "explanation": "AC allows efficient stepping up and down of voltage using transformers."
+    },
+    {
+        "id": 351,
+        "question": "In an AC circuit, the instantaneous value of current is given by i = I0 sinωt. The current is zero at:",
+        "options": [
+            "ωt = π/2",
+            "ωt = π/4",
+            "ωt = 0 and π",
+            "ωt = π/2 and 3π/2"
+        ],
+        "answer": 2,
+        "explanation": "For i = I0 sinωt, current is zero when sinωt = 0, i.e. at ωt = 0, π, 2π."
+    },
+    {
+        "id": 352,
+        "question": "The average value of alternating current over one complete cycle is zero because:",
+        "options": [
+            "Heating effect is zero",
+            "Amplitude is small",
+            "Positive and negative halves cancel",
+            "Frequency is high"
+        ],
+        "answer": 2,
+        "explanation": "Equal positive and negative halves of AC cancel over a full cycle."
+    },
+    {
+        "id": 353,
+        "question": "The RMS value of AC current is smaller than its peak value by a factor of:",
+        "options": [
+            "2",
+            "√2",
+            "1/√2",
+            "π"
+        ],
+        "answer": 2,
+        "explanation": "Irms = I0/√2 for sinusoidal AC."
+    },
+    {
+        "id": 354,
+        "question": "In a purely resistive AC circuit, the phase difference between voltage and current is:",
+        "options": [
+            "π/2",
+            "π",
+            "0",
+            "−π/2"
+        ],
+        "answer": 2,
+        "explanation": "In a pure resistor, voltage and current are in phase."
+    },
+    {
+        "id": 355,
+        "question": "In a purely inductive AC circuit, the current relative to voltage:",
+        "options": [
+            "Leads by π/2",
+            "Lags by π/2",
+            "Is in phase",
+            "Leads by π"
+        ],
+        "answer": 1,
+        "explanation": "In a pure inductor, current lags voltage by π/2."
+    },
+    {
+        "id": 356,
+        "question": "In a purely capacitive AC circuit, the current relative to voltage:",
+        "options": [
+            "Lags by π/2",
+            "Is in phase",
+            "Leads by π/2",
+            "Lags by π"
+        ],
+        "answer": 2,
+        "explanation": "In a pure capacitor, current leads voltage by π/2."
+    },
+    {
+        "id": 357,
+        "question": "The average power consumed in a purely inductive AC circuit is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Depends on frequency"
+        ],
+        "answer": 2,
+        "explanation": "Purely inductive circuits consume zero average power."
+    },
+    {
+        "id": 358,
+        "question": "The average power consumed in a purely capacitive AC circuit is:",
+        "options": [
+            "Maximum",
+            "Zero",
+            "Minimum",
+            "Frequency dependent"
+        ],
+        "answer": 1,
+        "explanation": "Purely capacitive circuits consume zero average power."
+    },
+    {
+        "id": 359,
+        "question": "In an AC circuit, the average power consumed is given by:",
+        "options": [
+            "Vrms Irms",
+            "V0 I0",
+            "Vrms Irms cosφ",
+            "V0 I0 cosφ"
+        ],
+        "answer": 2,
+        "explanation": "Average power P = Vrms Irms cosφ."
+    },
+    {
+        "id": 360,
+        "question": "The power factor of an AC circuit is defined as:",
+        "options": [
+            "sinφ",
+            "cosφ",
+            "tanφ",
+            "secφ"
+        ],
+        "answer": 1,
+        "explanation": "Power factor is defined as cosφ."
+    },
+    {
+        "id": 361,
+        "question": "The power factor of a purely resistive circuit is:",
+        "options": [
+            "0",
+            "1",
+            "−1",
+            "1/2"
+        ],
+        "answer": 1,
+        "explanation": "For φ = 0, cosφ = 1."
+    },
+    {
+        "id": 362,
+        "question": "The power factor of a purely inductive circuit is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/√2"
+        ],
+        "answer": 1,
+        "explanation": "For φ = π/2, cosφ = 0."
+    },
+    {
+        "id": 363,
+        "question": "The power factor of a purely capacitive circuit is:",
+        "options": [
+            "1",
+            "0",
+            "−1",
+            "1/√2"
+        ],
+        "answer": 1,
+        "explanation": "For φ = π/2, cosφ = 0."
+    },
+    {
+        "id": 364,
+        "question": "The inductive reactance of an inductor in AC circuit is given by:",
+        "options": [
+            "XL = 1/ωL",
+            "XL = ωL",
+            "XL = 1/ωC",
+            "XL = ωC"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance XL = ωL."
+    },
+    {
+        "id": 365,
+        "question": "The capacitive reactance of a capacitor in AC circuit is given by:",
+        "options": [
+            "XC = ωC",
+            "XC = 1/ωC",
+            "XC = ωL",
+            "XC = 1/ωL"
+        ],
+        "answer": 1,
+        "explanation": "Capacitive reactance XC = 1/ωC."
+    },
+    {
+        "id": 366,
+        "question": "The SI unit of reactance is:",
+        "options": [
+            "Henry",
+            "Farad",
+            "Ohm",
+            "Ampere"
+        ],
+        "answer": 2,
+        "explanation": "Reactance is measured in ohm."
+    },
+    {
+        "id": 367,
+        "question": "The impedance of a series RLC circuit is given by:",
+        "options": [
+            "Z = R + XL + XC",
+            "Z = √(R² + (XL − XC)²)",
+            "Z = R² + (XL − XC)²",
+            "Z = XL − XC"
+        ],
+        "answer": 1,
+        "explanation": "Impedance in series RLC circuit is Z = √(R² + (XL − XC)²)."
+    },
+    {
+        "id": 368,
+        "question": "In a series RLC circuit, resonance occurs when:",
+        "options": [
+            "R = 0",
+            "XL = 0",
+            "XC = 0",
+            "XL = XC"
+        ],
+        "answer": 3,
+        "explanation": "Resonance occurs when inductive and capacitive reactances are equal."
+    },
+    {
+        "id": 369,
+        "question": "The resonant angular frequency of a series RLC circuit is:",
+        "options": [
+            "1/LC",
+            "√(LC)",
+            "1/√(LC)",
+            "L/C"
+        ],
+        "answer": 2,
+        "explanation": "Resonant angular frequency ω0 = 1/√(LC)."
+    },
+    {
+        "id": 370,
+        "question": "At resonance in a series RLC circuit, the impedance is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, impedance equals resistance and is minimum."
+    },
+    {
+        "id": 371,
+        "question": "At resonance in a series RLC circuit, the current is:",
+        "options": [
+            "Zero",
+            "Minimum",
+            "Maximum",
+            "Independent of frequency"
+        ],
+        "answer": 2,
+        "explanation": "Current is maximum at resonance due to minimum impedance."
+    },
+    {
+        "id": 372,
+        "question": "In a series RLC circuit, below resonance frequency the circuit behaves as:",
+        "options": [
+            "Inductive",
+            "Capacitive",
+            "Resistive",
+            "Non-reactive"
+        ],
+        "answer": 1,
+        "explanation": "Below resonance, XC > XL, so the circuit is capacitive."
+    },
+    {
+        "id": 373,
+        "question": "In a series RLC circuit, above resonance frequency the circuit behaves as:",
+        "options": [
+            "Capacitive",
+            "Inductive",
+            "Resistive",
+            "Non-reactive"
+        ],
+        "answer": 1,
+        "explanation": "Above resonance, XL > XC, so the circuit is inductive."
+    },
+    {
+        "id": 374,
+        "question": "The quality factor Q of a series RLC circuit is given by:",
+        "options": [
+            "ω0R/L",
+            "R/ω0L",
+            "ω0L/R",
+            "1/ω0RC"
+        ],
+        "answer": 2,
+        "explanation": "For series RLC circuit, Q = ω0L/R."
+    },
+    {
+        "id": 375,
+        "question": "The bandwidth of a series RLC circuit is given by:",
+        "options": [
+            "ω0/Q",
+            "Q/ω0",
+            "R/L",
+            "L/R"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth Δω = R/L."
+    },
+    {
+        "id": 376,
+        "question": "A high quality factor Q implies:",
+        "options": [
+            "Large bandwidth",
+            "Low selectivity",
+            "Sharp resonance",
+            "High resistance"
+        ],
+        "answer": 2,
+        "explanation": "High Q indicates sharp resonance and high selectivity."
+    },
+    {
+        "id": 377,
+        "question": "In a series RLC circuit at resonance, the voltages across L and C are:",
+        "options": [
+            "Zero",
+            "Minimum",
+            "Equal and opposite",
+            "Equal and in phase"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, VL and VC are equal in magnitude and opposite in phase."
+    },
+    {
+        "id": 378,
+        "question": "The phenomenon in which voltage across L or C becomes large at resonance is called:",
+        "options": [
+            "Current amplification",
+            "Voltage magnification",
+            "Power amplification",
+            "Damping"
+        ],
+        "answer": 1,
+        "explanation": "Large voltages across L and C at resonance is called voltage magnification."
+    },
+    {
+        "id": 379,
+        "question": "The apparent power in an AC circuit is measured in:",
+        "options": [
+            "Watt",
+            "VAR",
+            "Volt-ampere",
+            "Joule"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power is measured in volt-ampere (VA)."
+    },
+    {
+        "id": 380,
+        "question": "The reactive power in an AC circuit is measured in:",
+        "options": [
+            "Watt",
+            "Volt-ampere",
+            "VAR",
+            "Ohm"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power is measured in VAR."
+    },
+    {
+        "id": 381,
+        "question": "In an AC circuit, the power triangle relates:",
+        "options": [
+            "Voltage, current and impedance",
+            "True power, reactive power and apparent power",
+            "Resistance, reactance and impedance",
+            "Current, voltage and phase angle"
+        ],
+        "answer": 1,
+        "explanation": "Power triangle relates P, Q and S."
+    },
+    {
+        "id": 382,
+        "question": "In AC circuits, the current drawn for a given power decreases when:",
+        "options": [
+            "Power factor decreases",
+            "Power factor increases",
+            "Resistance increases",
+            "Frequency increases"
+        ],
+        "answer": 1,
+        "explanation": "Higher power factor reduces current for same power."
+    },
+    {
+        "id": 383,
+        "question": "Power factor correction in AC circuits is usually done using:",
+        "options": [
+            "Resistors",
+            "Inductors",
+            "Capacitors",
+            "Transformers"
+        ],
+        "answer": 2,
+        "explanation": "Capacitors improve power factor by supplying leading reactive power."
+    },
+    {
+        "id": 384,
+        "question": "In AC power transmission, power loss in transmission lines is proportional to:",
+        "options": [
+            "V²",
+            "I²",
+            "1/V²",
+            "Frequency"
+        ],
+        "answer": 1,
+        "explanation": "Power loss due to heating is I²R."
+    },
+    {
+        "id": 385,
+        "question": "AC is preferred over DC for power transmission mainly because:",
+        "options": [
+            "AC has higher frequency",
+            "AC can be easily transformed",
+            "AC has lower resistance",
+            "AC has lower voltage"
+        ],
+        "answer": 1,
+        "explanation": "AC voltage can be easily stepped up or down using transformers."
+    },
+    {
+        "id": 386,
+        "question": "The device used to change AC voltage levels is:",
+        "options": [
+            "Rectifier",
+            "Transformer",
+            "Generator",
+            "Choke coil"
+        ],
+        "answer": 1,
+        "explanation": "Transformer is used to change AC voltage levels."
+    },
+    {
+        "id": 387,
+        "question": "A transformer works on the principle of:",
+        "options": [
+            "Self induction",
+            "Mutual induction",
+            "Electrostatic induction",
+            "Ohm’s law"
+        ],
+        "answer": 1,
+        "explanation": "Transformers operate on mutual induction."
+    },
+    {
+        "id": 388,
+        "question": "A transformer cannot be used with DC because DC produces:",
+        "options": [
+            "Low current",
+            "High current",
+            "Constant magnetic flux",
+            "Low voltage"
+        ],
+        "answer": 2,
+        "explanation": "Constant flux does not induce emf in the secondary coil."
+    },
+    {
+        "id": 389,
+        "question": "In an ideal transformer, which quantity remains unchanged?",
+        "options": [
+            "Voltage",
+            "Current",
+            "Power",
+            "Frequency"
+        ],
+        "answer": 3,
+        "explanation": "Frequency remains unchanged in an ideal transformer."
+    },
+    {
+        "id": 390,
+        "question": "The core of a transformer is laminated to reduce:",
+        "options": [
+            "Copper loss",
+            "Hysteresis loss",
+            "Eddy current loss",
+            "Leakage flux"
+        ],
+        "answer": 2,
+        "explanation": "Lamination reduces eddy current losses."
+    },
+    {
+        "id": 391,
+        "question": "Hysteresis loss in a transformer core depends on:",
+        "options": [
+            "Frequency",
+            "Area of hysteresis loop",
+            "Volume of core",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Hysteresis loss depends on frequency, loop area and volume."
+    },
+    {
+        "id": 392,
+        "question": "Copper loss in a transformer varies as:",
+        "options": [
+            "I",
+            "I²",
+            "1/I",
+            "Constant"
+        ],
+        "answer": 1,
+        "explanation": "Copper loss is proportional to I²R."
+    },
+    {
+        "id": 393,
+        "question": "In a step-up transformer, the secondary current compared to primary current is:",
+        "options": [
+            "Greater",
+            "Smaller",
+            "Equal",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "In step-up transformer, current decreases in secondary."
+    },
+    {
+        "id": 394,
+        "question": "In AC circuits, a choke coil is preferred over a resistor because it:",
+        "options": [
+            "Consumes more power",
+            "Consumes less power",
+            "Blocks AC",
+            "Increases voltage"
+        ],
+        "answer": 1,
+        "explanation": "Choke coil limits current with negligible power loss."
+    },
+    {
+        "id": 395,
+        "question": "In AC circuits, the term lagging power factor indicates a circuit which is:",
+        "options": [
+            "Capacitive",
+            "Inductive",
+            "Resistive",
+            "Resonant"
+        ],
+        "answer": 1,
+        "explanation": "Lagging power factor means current lags voltage, indicating inductive nature."
+    },
+    {
+        "id": 396,
+        "question": "In AC circuits, the term leading power factor indicates a circuit which is:",
+        "options": [
+            "Inductive",
+            "Capacitive",
+            "Resistive",
+            "Resonant"
+        ],
+        "answer": 1,
+        "explanation": "Leading power factor means current leads voltage, indicating capacitive nature."
+    },
+    {
+        "id": 397,
+        "question": "In AC circuits, the heating effect in a resistor depends on:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "RMS current",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect depends on RMS value of current."
+    },
+    {
+        "id": 398,
+        "question": "The RMS value of domestic AC voltage in India is approximately:",
+        "options": [
+            "110 V",
+            "220 V",
+            "311 V",
+            "440 V"
+        ],
+        "answer": 1,
+        "explanation": "Domestic AC supply in India is about 220 V RMS."
+    },
+    {
+        "id": 399,
+        "question": "The peak value of domestic AC voltage in India is approximately:",
+        "options": [
+            "220 V",
+            "311 V",
+            "155 V",
+            "440 V"
+        ],
+        "answer": 1,
+        "explanation": "Peak voltage V0 = √2 × 220 ≈ 311 V."
+    },
+    {
+        "id": 400,
+        "question": "The main advantage of AC over DC in power transmission is:",
+        "options": [
+            "Lower frequency",
+            "Higher current",
+            "Efficient voltage transformation",
+            "Less resistance"
+        ],
+        "answer": 2,
+        "explanation": "AC allows efficient stepping up and stepping down of voltage using transformers."
+    },
+    {
+        "id": 401,
+        "question": "In an AC circuit, if v = V0 sinωt, the instantaneous voltage is maximum at:",
+        "options": [
+            "ωt = 0",
+            "ωt = π/4",
+            "ωt = π/2",
+            "ωt = π"
+        ],
+        "answer": 2,
+        "explanation": "Maximum value of sinωt occurs at ωt = π/2."
+    },
+    {
+        "id": 402,
+        "question": "The RMS value of alternating current is always compared with DC on the basis of:",
+        "options": [
+            "Magnetic effect",
+            "Chemical effect",
+            "Heating effect",
+            "Mechanical effect"
+        ],
+        "answer": 2,
+        "explanation": "RMS value is defined using equal heating effect in a resistor."
+    },
+    {
+        "id": 403,
+        "question": "In a purely resistive AC circuit, the instantaneous power is never:",
+        "options": [
+            "Zero",
+            "Positive",
+            "Maximum",
+            "Negative"
+        ],
+        "answer": 3,
+        "explanation": "Power p = i²R is always positive or zero in a resistor."
+    },
+    {
+        "id": 404,
+        "question": "In a purely inductive AC circuit, the instantaneous power becomes negative because:",
+        "options": [
+            "Energy is dissipated as heat",
+            "Energy is returned to the source",
+            "Resistance is present",
+            "Voltage is zero"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored in the magnetic field is returned to the source."
+    },
+    {
+        "id": 405,
+        "question": "In a purely capacitive AC circuit, the instantaneous power becomes negative because:",
+        "options": [
+            "Energy is dissipated",
+            "Energy is stored permanently",
+            "Energy is returned to the source",
+            "Current is zero"
+        ],
+        "answer": 2,
+        "explanation": "Energy stored in the electric field of the capacitor is returned to the source."
+    },
+    {
+        "id": 406,
+        "question": "The effective value of AC voltage is numerically equal to the DC voltage that produces the same:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "Heating effect",
+            "Charge flow"
+        ],
+        "answer": 2,
+        "explanation": "Effective or RMS value is based on equal heating effect."
+    },
+    {
+        "id": 407,
+        "question": "In a series RLC circuit, the phase angle φ is zero when:",
+        "options": [
+            "R = 0",
+            "XL > XC",
+            "XC > XL",
+            "XL = XC"
+        ],
+        "answer": 3,
+        "explanation": "At resonance, XL equals XC and voltage and current are in phase."
+    },
+    {
+        "id": 408,
+        "question": "The impedance of a series RLC circuit is maximum when the frequency is:",
+        "options": [
+            "Zero",
+            "Resonant",
+            "Very high",
+            "Both zero and very high"
+        ],
+        "answer": 3,
+        "explanation": "Impedance is very large at both zero frequency and very high frequency."
+    },
+    {
+        "id": 409,
+        "question": "In an AC circuit, the current amplitude is directly proportional to:",
+        "options": [
+            "Resistance",
+            "Impedance",
+            "Voltage amplitude",
+            "Reactance"
+        ],
+        "answer": 2,
+        "explanation": "I0 = V0/Z, so current amplitude is proportional to voltage amplitude."
+    },
+    {
+        "id": 410,
+        "question": "In an AC circuit, the current amplitude is inversely proportional to:",
+        "options": [
+            "Resistance",
+            "Impedance",
+            "Voltage",
+            "Frequency"
+        ],
+        "answer": 1,
+        "explanation": "I0 = V0/Z, so current decreases as impedance increases."
+    },
+    {
+        "id": 411,
+        "question": "The phase difference between current and voltage in a purely capacitive circuit is:",
+        "options": [
+            "0",
+            "π/2",
+            "−π/2",
+            "π"
+        ],
+        "answer": 2,
+        "explanation": "In a capacitor, current leads voltage by π/2, giving phase difference −π/2."
+    },
+    {
+        "id": 412,
+        "question": "The phase difference between current and voltage in a purely inductive circuit is:",
+        "options": [
+            "0",
+            "π/2",
+            "−π/2",
+            "π"
+        ],
+        "answer": 1,
+        "explanation": "In an inductor, current lags voltage by π/2."
+    },
+    {
+        "id": 413,
+        "question": "In a series RLC circuit, the phase angle φ is given by:",
+        "options": [
+            "tanφ = (XL − XC)/R",
+            "tanφ = R/(XL − XC)",
+            "cosφ = Z/R",
+            "sinφ = R/Z"
+        ],
+        "answer": 0,
+        "explanation": "Phase angle in series RLC circuit satisfies tanφ = (XL − XC)/R."
+    },
+    {
+        "id": 414,
+        "question": "In an AC circuit, the power factor becomes negative when the circuit is:",
+        "options": [
+            "Resistive",
+            "Inductive",
+            "Capacitive",
+            "At resonance"
+        ],
+        "answer": 2,
+        "explanation": "In a capacitive circuit, phase angle is negative, giving leading (negative) power factor."
+    },
+    {
+        "id": 415,
+        "question": "The apparent power in an AC circuit is the product of:",
+        "options": [
+            "Peak voltage and peak current",
+            "Average voltage and average current",
+            "RMS voltage and RMS current",
+            "Instantaneous voltage and current"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power S = Vrms × Irms."
+    },
+    {
+        "id": 416,
+        "question": "The true power consumed in an AC circuit is zero when:",
+        "options": [
+            "Power factor is unity",
+            "Power factor is zero",
+            "Resistance is maximum",
+            "Voltage is zero"
+        ],
+        "answer": 1,
+        "explanation": "True power P = Vrms Irms cosφ becomes zero when cosφ = 0."
+    },
+    {
+        "id": 417,
+        "question": "In AC circuits, reactive power represents:",
+        "options": [
+            "Energy loss per second",
+            "Useful work per second",
+            "Rate of energy exchange",
+            "Rate of heating"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power represents rate of energy exchange between source and reactive elements."
+    },
+    {
+        "id": 418,
+        "question": "In an AC circuit, if frequency increases, the impedance of a purely inductive circuit:",
+        "options": [
+            "Decreases",
+            "Increases",
+            "Remains constant",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Inductive reactance XL = ωL increases with frequency."
+    },
+    {
+        "id": 419,
+        "question": "In an AC circuit, if frequency increases, the impedance of a purely capacitive circuit:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains constant",
+            "Becomes infinite"
+        ],
+        "answer": 1,
+        "explanation": "Capacitive reactance XC = 1/ωC decreases with frequency."
+    },
+    {
+        "id": 420,
+        "question": "In a series RLC circuit, at resonance the applied voltage equals:",
+        "options": [
+            "Voltage across inductor",
+            "Voltage across capacitor",
+            "Voltage across resistor",
+            "Sum of voltages across L and C"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, impedance equals R, so applied voltage appears across the resistor."
+    },
+    {
+        "id": 421,
+        "question": "In a series RLC circuit at resonance, the net reactance is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, inductive and capacitive reactances cancel each other."
+    },
+    {
+        "id": 422,
+        "question": "In an AC circuit, the quality factor Q represents:",
+        "options": [
+            "Energy loss per cycle",
+            "Sharpness of resonance",
+            "Power factor",
+            "Impedance ratio"
+        ],
+        "answer": 1,
+        "explanation": "Quality factor measures sharpness of resonance."
+    },
+    {
+        "id": 423,
+        "question": "In a series RLC circuit, Q increases when:",
+        "options": [
+            "Resistance increases",
+            "Resistance decreases",
+            "Capacitance decreases",
+            "Inductance decreases"
+        ],
+        "answer": 1,
+        "explanation": "Q = ω0L/R, so decreasing R increases Q."
+    },
+    {
+        "id": 424,
+        "question": "The bandwidth of a resonant circuit represents the range of frequencies for which:",
+        "options": [
+            "Current is zero",
+            "Power is maximum",
+            "Power is at least half of maximum",
+            "Impedance is infinite"
+        ],
+        "answer": 2,
+        "explanation": "Bandwidth is defined using half-power points."
+    },
+    {
+        "id": 425,
+        "question": "In an AC circuit, the half-power condition corresponds to current being:",
+        "options": [
+            "Half of maximum",
+            "1/√2 of maximum",
+            "Double the maximum",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Power ∝ I², so half power occurs at I = Imax/√2."
+    },
+    {
+        "id": 426,
+        "question": "In an AC circuit, resonance is used in radio receivers mainly for:",
+        "options": [
+            "Power amplification",
+            "Voltage regulation",
+            "Frequency selection",
+            "Noise reduction"
+        ],
+        "answer": 2,
+        "explanation": "Resonant circuits select desired signal frequency."
+    },
+    {
+        "id": 427,
+        "question": "In an AC circuit, the voltage magnification at resonance depends on:",
+        "options": [
+            "Resistance only",
+            "Quality factor",
+            "Supply frequency",
+            "Capacitance only"
+        ],
+        "answer": 1,
+        "explanation": "Voltage magnification is proportional to quality factor Q."
+    },
+    {
+        "id": 428,
+        "question": "In a series RLC circuit, if resistance becomes zero, the quality factor becomes:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Unity"
+        ],
+        "answer": 2,
+        "explanation": "Q = ω0L/R becomes infinite when R → 0."
+    },
+    {
+        "id": 429,
+        "question": "In AC circuits, the unit of reactive power is:",
+        "options": [
+            "Watt",
+            "Volt-ampere",
+            "VAR",
+            "Ohm"
+        ],
+        "answer": 2,
+        "explanation": "Reactive power is measured in volt-ampere reactive (VAR)."
+    },
+    {
+        "id": 430,
+        "question": "In an AC circuit, apparent power is related to true and reactive power by:",
+        "options": [
+            "S = P + Q",
+            "S = √(P² + Q²)",
+            "S = P − Q",
+            "S = PQ"
+        ],
+        "answer": 1,
+        "explanation": "Apparent power is the vector sum of true and reactive power."
+    },
+    {
+        "id": 431,
+        "question": "In AC power transmission, step-up transformers are used to reduce:",
+        "options": [
+            "Voltage",
+            "Current",
+            "Frequency",
+            "Resistance"
+        ],
+        "answer": 1,
+        "explanation": "Stepping up voltage reduces current and hence power loss."
+    },
+    {
+        "id": 432,
+        "question": "In AC transmission lines, the power loss depends mainly on:",
+        "options": [
+            "Voltage",
+            "Current",
+            "Frequency",
+            "Power factor only"
+        ],
+        "answer": 1,
+        "explanation": "Power loss is I²R, so it depends on current."
+    },
+    {
+        "id": 433,
+        "question": "In an ideal transformer, the ratio of secondary to primary current is equal to:",
+        "options": [
+            "Ns/Np",
+            "Np/Ns",
+            "Vp/Vs",
+            "Ps/Pp"
+        ],
+        "answer": 1,
+        "explanation": "Current ratio is inverse of turns ratio in an ideal transformer."
+    },
+    {
+        "id": 434,
+        "question": "In a transformer, the frequency of secondary voltage is:",
+        "options": [
+            "Higher than primary",
+            "Lower than primary",
+            "Same as primary",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Transformer does not change frequency."
+    },
+    {
+        "id": 435,
+        "question": "The core of a transformer is made of soft iron because it has:",
+        "options": [
+            "High resistivity",
+            "Low permeability",
+            "High permeability and low hysteresis",
+            "High coercivity"
+        ],
+        "answer": 2,
+        "explanation": "Soft iron has high permeability and low hysteresis loss."
+    },
+    {
+        "id": 436,
+        "question": "Eddy current losses in a transformer increase with:",
+        "options": [
+            "Decrease in frequency",
+            "Increase in frequency",
+            "Decrease in voltage",
+            "Decrease in current"
+        ],
+        "answer": 1,
+        "explanation": "Eddy current loss increases with frequency."
+    },
+    {
+        "id": 437,
+        "question": "In AC circuits, a choke coil is mainly used to:",
+        "options": [
+            "Increase power",
+            "Reduce current without power loss",
+            "Convert AC to DC",
+            "Increase frequency"
+        ],
+        "answer": 1,
+        "explanation": "Choke coil limits AC current with minimal power loss."
+    },
+    {
+        "id": 438,
+        "question": "In an AC circuit, the impedance of a resistor depends on:",
+        "options": [
+            "Frequency",
+            "Voltage",
+            "Current",
+            "None of these"
+        ],
+        "answer": 3,
+        "explanation": "Resistance is independent of frequency, voltage and current."
+    },
+    {
+        "id": 439,
+        "question": "In an AC circuit, resonance cannot occur if the circuit contains only:",
+        "options": [
+            "R and L",
+            "R and C",
+            "L and C",
+            "L and C without R"
+        ],
+        "answer": 0,
+        "explanation": "Resonance requires both inductance and capacitance."
+    },
+    {
+        "id": 440,
+        "question": "In an AC circuit, the phase difference between voltage and current depends on:",
+        "options": [
+            "Resistance only",
+            "Frequency only",
+            "R, L, C and frequency",
+            "Voltage only"
+        ],
+        "answer": 2,
+        "explanation": "Phase difference depends on R, L, C and frequency."
+    },
+    {
+        "id": 441,
+        "question": "In an AC circuit, the current is maximum when the impedance is:",
+        "options": [
+            "Maximum",
+            "Minimum",
+            "Zero",
+            "Infinite"
+        ],
+        "answer": 1,
+        "explanation": "Current I = V/Z is maximum when impedance is minimum."
+    },
+    {
+        "id": 442,
+        "question": "In AC circuits, the unit of impedance is the same as that of:",
+        "options": [
+            "Inductance",
+            "Capacitance",
+            "Resistance",
+            "Current"
+        ],
+        "answer": 2,
+        "explanation": "Impedance and resistance both have unit ohm."
+    },
+    {
+        "id": 443,
+        "question": "In AC circuits, improving power factor mainly helps in:",
+        "options": [
+            "Reducing voltage",
+            "Reducing current",
+            "Increasing frequency",
+            "Increasing resistance"
+        ],
+        "answer": 1,
+        "explanation": "Improved power factor reduces current for the same power."
+    },
+    {
+        "id": 444,
+        "question": "In an AC circuit, a leading power factor indicates:",
+        "options": [
+            "Inductive load",
+            "Capacitive load",
+            "Resistive load",
+            "Resonant load"
+        ],
+        "answer": 1,
+        "explanation": "Leading power factor means current leads voltage, indicating capacitive load."
+    },
+    {
+        "id": 445,
+        "question": "In an AC circuit, a lagging power factor indicates:",
+        "options": [
+            "Capacitive load",
+            "Resistive load",
+            "Inductive load",
+            "Resonant load"
+        ],
+        "answer": 2,
+        "explanation": "Lagging power factor means current lags voltage, indicating inductive load."
+    },
+    {
+        "id": 446,
+        "question": "In AC circuits, the power factor can never be:",
+        "options": [
+            "Zero",
+            "Unity",
+            "Negative",
+            "Greater than one"
+        ],
+        "answer": 3,
+        "explanation": "Power factor cosφ cannot exceed unity."
+    },
+    {
+        "id": 447,
+        "question": "In an AC circuit, the maximum value of instantaneous power in a resistor is:",
+        "options": [
+            "V0I0",
+            "V0I0/2",
+            "VrmsIrms",
+            "VrmsIrms cosφ"
+        ],
+        "answer": 0,
+        "explanation": "Maximum instantaneous power in resistor is V0I0."
+    },
+    {
+        "id": 448,
+        "question": "In an AC circuit, the energy stored in an inductor at any instant is proportional to:",
+        "options": [
+            "I",
+            "I²",
+            "V",
+            "V²"
+        ],
+        "answer": 1,
+        "explanation": "Energy stored in an inductor is proportional to square of current."
+    },
+    {
+        "id": 449,
+        "question": "In an AC circuit, the energy stored in a capacitor at any instant is proportional to:",
+        "options": [
+            "Q",
+            "Q²",
+            "V",
+            "V²"
+        ],
+        "answer": 3,
+        "explanation": "Energy stored in a capacitor is proportional to square of voltage."
+    },
+    {
+        "id": 450,
+        "question": "In AC circuits, resonance is said to occur when:",
+        "options": [
+            "Power is zero",
+            "Impedance is maximum",
+            "Impedance is minimum",
+            "Current is zero"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, impedance is minimum and current is maximum."
+    },
+    {
+        "id": 451,
+        "question": "In an AC circuit, if the supply voltage is doubled while impedance remains constant, the current amplitude becomes:",
+        "options": [
+            "Half",
+            "Same",
+            "Double",
+            "Four times"
+        ],
+        "answer": 2,
+        "explanation": "Current amplitude I0 = V0/Z, so doubling V0 doubles I0."
+    },
+    {
+        "id": 452,
+        "question": "In a purely resistive AC circuit, the instantaneous power varies between:",
+        "options": [
+            "−V0I0 and +V0I0",
+            "0 and V0I0",
+            "−V0I0/2 and +V0I0/2",
+            "0 and V0I0/2"
+        ],
+        "answer": 1,
+        "explanation": "For a resistor, p = V0I0 sin²ωt, which varies from 0 to V0I0."
+    },
+    {
+        "id": 453,
+        "question": "The RMS value of AC current is related to the peak value because the average of sin²ωt over one cycle is:",
+        "options": [
+            "0",
+            "1",
+            "1/2",
+            "2/π"
+        ],
+        "answer": 2,
+        "explanation": "Average value of sin²ωt over one cycle is 1/2."
+    },
+    {
+        "id": 454,
+        "question": "In a purely inductive AC circuit, the voltage waveform relative to current is shifted by:",
+        "options": [
+            "π/2 lead",
+            "π/2 lag",
+            "π lead",
+            "No shift"
+        ],
+        "answer": 0,
+        "explanation": "In an inductor, voltage leads current by π/2."
+    },
+    {
+        "id": 455,
+        "question": "In a purely capacitive AC circuit, the voltage waveform relative to current is shifted by:",
+        "options": [
+            "π/2 lead",
+            "π/2 lag",
+            "π lead",
+            "No shift"
+        ],
+        "answer": 1,
+        "explanation": "In a capacitor, voltage lags current by π/2."
+    },
+    {
+        "id": 456,
+        "question": "In an AC circuit, the average power over one cycle depends on:",
+        "options": [
+            "Peak voltage",
+            "Peak current",
+            "Phase difference",
+            "Frequency only"
+        ],
+        "answer": 2,
+        "explanation": "Average power P = Vrms Irms cosφ depends on phase difference φ."
+    },
+    {
+        "id": 457,
+        "question": "In an AC circuit, if the phase angle between voltage and current is π/3, the power factor is:",
+        "options": [
+            "1/2",
+            "√3/2",
+            "1/√2",
+            "0"
+        ],
+        "answer": 0,
+        "explanation": "Power factor cosφ = cos(π/3) = 1/2."
+    },
+    {
+        "id": 458,
+        "question": "In an AC circuit, if the power factor is zero, the circuit is:",
+        "options": [
+            "Purely resistive",
+            "Purely inductive or capacitive",
+            "At resonance",
+            "Non-reactive"
+        ],
+        "answer": 1,
+        "explanation": "Purely inductive or capacitive circuits have cosφ = 0."
+    },
+    {
+        "id": 459,
+        "question": "In a series RLC circuit, the impedance is minimum at resonance because:",
+        "options": [
+            "R is zero",
+            "XL and XC cancel each other",
+            "L is zero",
+            "C is zero"
+        ],
+        "answer": 1,
+        "explanation": "At resonance, XL = XC, so net reactance is zero."
+    },
+    {
+        "id": 460,
+        "question": "In a series RLC circuit, the current at resonance is limited only by:",
+        "options": [
+            "Inductance",
+            "Capacitance",
+            "Resistance",
+            "Frequency"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, impedance equals resistance."
+    },
+    {
+        "id": 461,
+        "question": "In an RLC circuit, the phase angle φ satisfies:",
+        "options": [
+            "cosφ = Z/R",
+            "sinφ = R/Z",
+            "tanφ = (XL − XC)/R",
+            "tanφ = R/(XL − XC)"
+        ],
+        "answer": 2,
+        "explanation": "For a series RLC circuit, tanφ = (XL − XC)/R."
+    },
+    {
+        "id": 462,
+        "question": "In a series RLC circuit, if frequency is increased from zero, the circuit changes from:",
+        "options": [
+            "Inductive to capacitive",
+            "Capacitive to inductive",
+            "Resistive to inductive",
+            "Inductive to resistive"
+        ],
+        "answer": 1,
+        "explanation": "At low frequency XC > XL (capacitive); at high frequency XL > XC (inductive)."
+    },
+    {
+        "id": 463,
+        "question": "The resonant frequency of a series RLC circuit depends on:",
+        "options": [
+            "R only",
+            "L only",
+            "C only",
+            "L and C only"
+        ],
+        "answer": 3,
+        "explanation": "ω0 = 1/√(LC), independent of R."
+    },
+    {
+        "id": 464,
+        "question": "In an AC circuit, the bandwidth is defined as the difference between:",
+        "options": [
+            "Two resonant frequencies",
+            "Half-power frequencies",
+            "Maximum and minimum frequencies",
+            "Zero-power frequencies"
+        ],
+        "answer": 1,
+        "explanation": "Bandwidth is the separation between upper and lower half-power frequencies."
+    },
+    {
+        "id": 465,
+        "question": "In a series resonant circuit, a small bandwidth implies:",
+        "options": [
+            "Low selectivity",
+            "High selectivity",
+            "Low quality factor",
+            "Large resistance"
+        ],
+        "answer": 1,
+        "explanation": "Small bandwidth corresponds to high selectivity and high Q."
+    },
+    {
+        "id": 466,
+        "question": "In a series RLC circuit, voltage magnification is maximum when:",
+        "options": [
+            "Resistance is large",
+            "Resistance is small",
+            "Capacitance is zero",
+            "Inductance is zero"
+        ],
+        "answer": 1,
+        "explanation": "Voltage magnification ∝ Q, which is large for small resistance."
+    },
+    {
+        "id": 467,
+        "question": "In an AC circuit, the apparent power is always:",
+        "options": [
+            "Less than true power",
+            "Equal to true power",
+            "Greater than or equal to true power",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power S ≥ true power P."
+    },
+    {
+        "id": 468,
+        "question": "In AC circuits, the power triangle is analogous to the:",
+        "options": [
+            "Impedance triangle",
+            "Voltage triangle",
+            "Current triangle",
+            "Frequency triangle"
+        ],
+        "answer": 0,
+        "explanation": "Power triangle is analogous to the impedance triangle."
+    },
+    {
+        "id": 469,
+        "question": "In an AC circuit, if the power factor improves, the line current for the same power:",
+        "options": [
+            "Increases",
+            "Decreases",
+            "Remains same",
+            "Becomes zero"
+        ],
+        "answer": 1,
+        "explanation": "Higher power factor requires less current for the same power."
+    },
+    {
+        "id": 470,
+        "question": "In AC transmission, power loss can be reduced by increasing:",
+        "options": [
+            "Current",
+            "Voltage",
+            "Resistance",
+            "Frequency"
+        ],
+        "answer": 1,
+        "explanation": "Higher voltage reduces current and hence I²R losses."
+    },
+    {
+        "id": 471,
+        "question": "A transformer increases AC voltage based on the principle of:",
+        "options": [
+            "Self induction",
+            "Mutual induction",
+            "Electromagnetic radiation",
+            "Electrostatics"
+        ],
+        "answer": 1,
+        "explanation": "Transformers operate on mutual induction."
+    },
+    {
+        "id": 472,
+        "question": "In an ideal transformer, the ratio of secondary to primary voltage equals the ratio of:",
+        "options": [
+            "Currents",
+            "Turns",
+            "Powers",
+            "Resistances"
+        ],
+        "answer": 1,
+        "explanation": "Vs/Vp = Ns/Np for an ideal transformer."
+    },
+    {
+        "id": 473,
+        "question": "In an ideal transformer, if voltage is doubled in the secondary, the current in the secondary is:",
+        "options": [
+            "Doubled",
+            "Halved",
+            "Unchanged",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "Power conservation causes current to halve when voltage doubles."
+    },
+    {
+        "id": 474,
+        "question": "A transformer cannot work on DC because DC produces:",
+        "options": [
+            "Alternating flux",
+            "Constant flux",
+            "High frequency flux",
+            "Zero flux"
+        ],
+        "answer": 1,
+        "explanation": "Constant magnetic flux cannot induce emf in the secondary."
+    },
+    {
+        "id": 475,
+        "question": "The main function of laminating the transformer core is to reduce:",
+        "options": [
+            "Hysteresis loss",
+            "Copper loss",
+            "Eddy current loss",
+            "Leakage flux"
+        ],
+        "answer": 2,
+        "explanation": "Lamination reduces eddy current losses."
+    },
+    {
+        "id": 476,
+        "question": "Hysteresis loss in a transformer core depends primarily on:",
+        "options": [
+            "Core material",
+            "Frequency",
+            "Maximum flux density",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Hysteresis loss depends on material, frequency and flux density."
+    },
+    {
+        "id": 477,
+        "question": "Copper loss in a transformer is due to:",
+        "options": [
+            "Eddy currents",
+            "Hysteresis",
+            "Resistance of windings",
+            "Leakage flux"
+        ],
+        "answer": 2,
+        "explanation": "Copper loss arises from I²R loss in the windings."
+    },
+    {
+        "id": 478,
+        "question": "In a transformer, the no-load current is mainly used to:",
+        "options": [
+            "Supply load power",
+            "Overcome copper loss",
+            "Establish magnetic flux",
+            "Increase efficiency"
+        ],
+        "answer": 2,
+        "explanation": "No-load current produces the required magnetic flux."
+    },
+    {
+        "id": 479,
+        "question": "In AC circuits, a choke coil is preferred over a resistor because it:",
+        "options": [
+            "Consumes more power",
+            "Consumes negligible power",
+            "Blocks DC",
+            "Increases voltage"
+        ],
+        "answer": 1,
+        "explanation": "A choke limits current with very little power loss."
+    },
+    {
+        "id": 480,
+        "question": "In an AC circuit, the impedance of a pure resistor is:",
+        "options": [
+            "Frequency dependent",
+            "Equal to resistance",
+            "Greater than resistance",
+            "Less than resistance"
+        ],
+        "answer": 1,
+        "explanation": "For a resistor, impedance equals resistance."
+    },
+    {
+        "id": 481,
+        "question": "In an AC circuit, resonance is possible only if the circuit contains:",
+        "options": [
+            "R only",
+            "L only",
+            "C only",
+            "Both L and C"
+        ],
+        "answer": 3,
+        "explanation": "Resonance requires both inductance and capacitance."
+    },
+    {
+        "id": 482,
+        "question": "In an AC circuit, if the frequency is zero, the inductive reactance is:",
+        "options": [
+            "Zero",
+            "Infinite",
+            "Maximum",
+            "Minimum but non-zero"
+        ],
+        "answer": 0,
+        "explanation": "XL = ωL becomes zero when ω = 0."
+    },
+    {
+        "id": 483,
+        "question": "In an AC circuit, if the frequency is zero, the capacitive reactance is:",
+        "options": [
+            "Zero",
+            "Finite",
+            "Infinite",
+            "Minimum"
+        ],
+        "answer": 2,
+        "explanation": "XC = 1/ωC becomes infinite at ω = 0."
+    },
+    {
+        "id": 484,
+        "question": "In an AC circuit, the impedance of a series RLC circuit at resonance equals:",
+        "options": [
+            "XL",
+            "XC",
+            "R",
+            "Zero"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, impedance reduces to resistance R."
+    },
+    {
+        "id": 485,
+        "question": "In AC circuits, the unit of power factor is:",
+        "options": [
+            "Watt",
+            "VAR",
+            "VA",
+            "No unit"
+        ],
+        "answer": 3,
+        "explanation": "Power factor is a dimensionless quantity."
+    },
+    {
+        "id": 486,
+        "question": "In AC circuits, leading reactive power is supplied by:",
+        "options": [
+            "Inductors",
+            "Capacitors",
+            "Resistors",
+            "Transformers"
+        ],
+        "answer": 1,
+        "explanation": "Capacitors supply leading reactive power."
+    },
+    {
+        "id": 487,
+        "question": "In AC circuits, lagging reactive power is absorbed by:",
+        "options": [
+            "Capacitors",
+            "Resistors",
+            "Inductors",
+            "Transformers only"
+        ],
+        "answer": 2,
+        "explanation": "Inductors absorb lagging reactive power."
+    },
+    {
+        "id": 488,
+        "question": "In an AC circuit, the power factor angle is zero when the circuit is:",
+        "options": [
+            "Inductive",
+            "Capacitive",
+            "Resistive",
+            "Reactive"
+        ],
+        "answer": 2,
+        "explanation": "Purely resistive circuits have zero phase angle."
+    },
+    {
+        "id": 489,
+        "question": "In AC circuits, improving power factor reduces losses because it reduces:",
+        "options": [
+            "Voltage",
+            "Current",
+            "Resistance",
+            "Frequency"
+        ],
+        "answer": 1,
+        "explanation": "Lower current reduces I²R losses."
+    },
+    {
+        "id": 490,
+        "question": "In AC power systems, the apparent power is measured in:",
+        "options": [
+            "Watt",
+            "VAR",
+            "Volt-ampere",
+            "Joule"
+        ],
+        "answer": 2,
+        "explanation": "Apparent power is measured in volt-ampere (VA)."
+    },
+    {
+        "id": 491,
+        "question": "In an AC circuit, the relationship between apparent power S, true power P and reactive power Q is:",
+        "options": [
+            "S = P + Q",
+            "S = √(P² + Q²)",
+            "S = P − Q",
+            "S = PQ"
+        ],
+        "answer": 1,
+        "explanation": "S is the vector sum of P and Q."
+    },
+    {
+        "id": 492,
+        "question": "In AC circuits, the current drawn by an inductive load is:",
+        "options": [
+            "In phase with voltage",
+            "Leading the voltage",
+            "Lagging the voltage",
+            "Independent of voltage"
+        ],
+        "answer": 2,
+        "explanation": "In inductive loads, current lags voltage."
+    },
+    {
+        "id": 493,
+        "question": "In AC circuits, the current drawn by a capacitive load is:",
+        "options": [
+            "Lagging the voltage",
+            "Leading the voltage",
+            "In phase with voltage",
+            "Zero"
+        ],
+        "answer": 1,
+        "explanation": "In capacitive loads, current leads voltage."
+    },
+    {
+        "id": 494,
+        "question": "In an AC circuit, resonance is characterized by:",
+        "options": [
+            "Maximum impedance",
+            "Minimum current",
+            "Maximum current",
+            "Zero power"
+        ],
+        "answer": 2,
+        "explanation": "At resonance, impedance is minimum and current is maximum."
+    },
+    {
+        "id": 495,
+        "question": "In an AC circuit, the instantaneous power in a capacitor alternates because:",
+        "options": [
+            "Energy is dissipated",
+            "Energy is stored and released",
+            "Resistance is present",
+            "Voltage is constant"
+        ],
+        "answer": 1,
+        "explanation": "Capacitor stores and releases energy periodically."
+    },
+    {
+        "id": 496,
+        "question": "In an AC circuit, the instantaneous power in an inductor alternates because:",
+        "options": [
+            "Energy is dissipated",
+            "Energy is stored and released",
+            "Resistance is zero",
+            "Voltage is constant"
+        ],
+        "answer": 1,
+        "explanation": "Inductor stores and releases magnetic energy."
+    },
+    {
+        "id": 497,
+        "question": "In an AC circuit, the heating effect is governed by:",
+        "options": [
+            "Peak current",
+            "Average current",
+            "RMS current",
+            "Frequency"
+        ],
+        "answer": 2,
+        "explanation": "Heating effect depends on RMS current."
+    },
+    {
+        "id": 498,
+        "question": "In AC circuits, the symbol VAR is used to denote:",
+        "options": [
+            "True power",
+            "Apparent power",
+            "Reactive power",
+            "Resistance"
+        ],
+        "answer": 2,
+        "explanation": "VAR stands for volt-ampere reactive."
+    },
+    {
+        "id": 499,
+        "question": "In AC circuits, the magnitude of impedance can never be:",
+        "options": [
+            "Zero",
+            "Less than resistance",
+            "Equal to resistance",
+            "Greater than resistance"
+        ],
+        "answer": 1,
+        "explanation": "Z = √(R² + (XL − XC)²) is always ≥ R."
+    },
+    {
+        "id": 500,
+        "question": "In AC circuits, resonance is widely used because it provides:",
+        "options": [
+            "Maximum impedance",
+            "Selective frequency response",
+            "Minimum voltage",
+            "Zero current"
+        ],
+        "answer": 1,
+        "explanation": "Resonance allows selection of a desired frequency."
+    }
+]

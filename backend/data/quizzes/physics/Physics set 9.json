@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "A particle moves along a straight line with position x = 5t^2 − 2t + 3 (m). The acceleration at t = 1 s is:",
+        "options": [
+            "10 m/s^2",
+            "8 m/s^2",
+            "5 m/s^2",
+            "0 m/s^2"
+        ],
+        "answer": 0,
+        "explanation": "v = dx/dt = 10t − 2, a = dv/dt = 10 m/s^2."
+    },
+    {
+        "id": 2,
+        "question": "A body is thrown vertically upward with velocity 30 m/s. The maximum height reached (g = 10 m/s^2) is:",
+        "options": [
+            "30 m",
+            "40 m",
+            "45 m",
+            "50 m"
+        ],
+        "answer": 2,
+        "explanation": "H = u^2/2g = 900/20 = 45 m."
+    },
+    {
+        "id": 3,
+        "question": "Two bodies of masses 2 kg and 4 kg moving with velocities 10 m/s and 0 m/s respectively collide elastically. The final velocity of the 2 kg mass is:",
+        "options": [
+            "−3.33 m/s",
+            "0 m/s",
+            "3.33 m/s",
+            "6.67 m/s"
+        ],
+        "answer": 0,
+        "explanation": "v1 = (m1−m2)/(m1+m2)·u1 = (2−4)/6·10 = −3.33 m/s."
+    },
+    {
+        "id": 4,
+        "question": "The work done by a variable force F = 3x^2 from x = 0 to x = 2 m is:",
+        "options": [
+            "8 J",
+            "12 J",
+            "16 J",
+            "24 J"
+        ],
+        "answer": 2,
+        "explanation": "W = ∫0^2 3x^2 dx = 3·(8/3) = 8 J."
+    },
+    {
+        "id": 5,
+        "question": "For a rolling body, the ratio of rotational kinetic energy to translational kinetic energy for a solid sphere is:",
+        "options": [
+            "2/5",
+            "5/2",
+            "1",
+            "3/5"
+        ],
+        "answer": 0,
+        "explanation": "I = (2/5)MR^2 ⇒ KE_r/KE_t = (1/2 Iω^2)/(1/2 Mv^2) = 2/5."
+    },
+    {
+        "id": 6,
+        "question": "The time period of a satellite orbiting close to Earth is proportional to:",
+        "options": [
+            "√R",
+            "R",
+            "1/√R",
+            "R^2"
+        ],
+        "answer": 0,
+        "explanation": "T = 2π√(R/g) ∝ √R."
+    },
+    {
+        "id": 7,
+        "question": "The terminal velocity of a sphere falling through a viscous fluid is proportional to:",
+        "options": [
+            "Square of radius",
+            "Radius",
+            "Density only",
+            "Viscosity only"
+        ],
+        "answer": 0,
+        "explanation": "v_t ∝ r^2 from Stokes’ law."
+    },
+    {
+        "id": 8,
+        "question": "The coefficient of linear expansion of a solid has unit:",
+        "options": [
+            "K^−1",
+            "K",
+            "m/K",
+            "m"
+        ],
+        "answer": 0,
+        "explanation": "Linear expansion coefficient is per kelvin."
+    },
+    {
+        "id": 9,
+        "question": "In an adiabatic process, which quantity remains constant?",
+        "options": [
+            "PV^γ",
+            "PV",
+            "T/V",
+            "P/T"
+        ],
+        "answer": 0,
+        "explanation": "Adiabatic condition: PV^γ = constant."
+    },
+    {
+        "id": 10,
+        "question": "The total mechanical energy in SHM is proportional to:",
+        "options": [
+            "Square of amplitude",
+            "Amplitude",
+            "Frequency",
+            "Time period"
+        ],
+        "answer": 0,
+        "explanation": "E = (1/2)kA^2."
+    },
+    {
+        "id": 11,
+        "question": "The speed of sound in a gas is independent of:",
+        "options": [
+            "Pressure at constant temperature",
+            "Temperature",
+            "Density",
+            "Nature of gas"
+        ],
+        "answer": 0,
+        "explanation": "At constant temperature, speed is independent of pressure."
+    },
+    {
+        "id": 12,
+        "question": "The electric field at a distance r from a long straight charged wire is proportional to:",
+        "options": [
+            "1/r",
+            "1/r^2",
+            "r",
+            "r^2"
+        ],
+        "answer": 0,
+        "explanation": "E = λ/(2πϵ0 r)."
+    },
+    {
+        "id": 13,
+        "question": "The capacitance of a spherical conductor of radius R in air is:",
+        "options": [
+            "4πϵ0R",
+            "ϵ0R",
+            "R/ϵ0",
+            "4πR"
+        ],
+        "answer": 0,
+        "explanation": "C = 4πϵ0R."
+    },
+    {
+        "id": 14,
+        "question": "If the current in a conductor is doubled, the drift velocity of electrons becomes:",
+        "options": [
+            "Double",
+            "Half",
+            "Four times",
+            "Unchanged"
+        ],
+        "answer": 0,
+        "explanation": "v_d ∝ I."
+    },
+    {
+        "id": 15,
+        "question": "The magnetic field at the center of a circular loop is proportional to:",
+        "options": [
+            "Current",
+            "Radius",
+            "Resistance",
+            "Voltage"
+        ],
+        "answer": 0,
+        "explanation": "B ∝ I."
+    },
+    {
+        "id": 16,
+        "question": "The force per unit length between two long parallel conductors carrying currents I1 and I2 separated by distance r is:",
+        "options": [
+            "μ0I1I2/2πr",
+            "μ0I1I2/4πr",
+            "μ0I1I2/r",
+            "μ0I1I2/πr"
+        ],
+        "answer": 0,
+        "explanation": "F/L = μ0I1I2/(2πr)."
+    },
+    {
+        "id": 17,
+        "question": "The magnetic flux linked with a coil is doubled in 0.1 s. The induced emf is:",
+        "options": [
+            "20 V",
+            "10 V",
+            "5 V",
+            "2 V"
+        ],
+        "answer": 1,
+        "explanation": "ε = ΔΦ/Δt = 1/0.1 = 10 V."
+    },
+    {
+        "id": 18,
+        "question": "In an AC circuit, the power consumed is zero when the circuit contains only:",
+        "options": [
+            "Inductor",
+            "Resistor",
+            "Resistor and capacitor",
+            "Resistor and inductor"
+        ],
+        "answer": 0,
+        "explanation": "Pure inductive circuit has zero average power."
+    },
+    {
+        "id": 19,
+        "question": "The focal length of a convex lens placed in water (n > 1) compared to air will:",
+        "options": [
+            "Increase",
+            "Decrease",
+            "Remain same",
+            "Become zero"
+        ],
+        "answer": 0,
+        "explanation": "Effective refractive index decreases, so focal length increases."
+    },
+    {
+        "id": 20,
+        "question": "A real image is formed by a convex lens when the object is placed:",
+        "options": [
+            "Beyond focal length",
+            "Within focal length",
+            "At focus only",
+            "At infinity only"
+        ],
+        "answer": 0,
+        "explanation": "Convex lens forms real image when object is beyond focus."
+    },
+    {
+        "id": 21,
+        "question": "The angular width of central maximum in single slit diffraction is proportional to:",
+        "options": [
+            "λ/a",
+            "a/λ",
+            "λD",
+            "D/λ"
+        ],
+        "answer": 0,
+        "explanation": "Angular width ≈ 2λ/a."
+    },
+    {
+        "id": 22,
+        "question": "The photoelectric effect confirms the quantized nature of:",
+        "options": [
+            "Light",
+            "Electron",
+            "Charge",
+            "Mass"
+        ],
+        "answer": 0,
+        "explanation": "Photon energy E = hν."
+    },
+    {
+        "id": 23,
+        "question": "The de Broglie wavelength of an electron decreases when:",
+        "options": [
+            "Accelerating potential increases",
+            "Mass increases",
+            "Charge increases",
+            "Time increases"
+        ],
+        "answer": 0,
+        "explanation": "λ ∝ 1/√V."
+    },
+    {
+        "id": 24,
+        "question": "The binding energy of a nucleus is the energy required to:",
+        "options": [
+            "Separate nucleons completely",
+            "Break an atom",
+            "Ionize electrons",
+            "Create nucleus"
+        ],
+        "answer": 0,
+        "explanation": "Binding energy holds nucleons together."
+    },
+    {
+        "id": 25,
+        "question": "The SI unit of decay constant is:",
+        "options": [
+            "s^−1",
+            "s",
+            "J",
+            "Bq"
+        ],
+        "answer": 0,
+        "explanation": "Decay constant has unit of inverse second."
+    },
+    {
+        "id": 26,
+        "question": "The conductivity of an intrinsic semiconductor at absolute zero is:",
+        "options": [
+            "Zero",
+            "Maximum",
+            "Finite",
+            "Infinite"
+        ],
+        "answer": 0,
+        "explanation": "No free charge carriers at 0 K."
+    },
+    {
+        "id": 27,
+        "question": "In a p-type semiconductor, the Fermi level lies closer to:",
+        "options": [
+            "Valence band",
+            "Conduction band",
+            "Middle of gap",
+            "Outside bands"
+        ],
+        "answer": 0,
+        "explanation": "p-type has Fermi level near valence band."
+    },
+    {
+        "id": 28,
+        "question": "The current gain in common base transistor configuration is:",
+        "options": [
+            "α",
+            "β",
+            "γ",
+            "δ"
+        ],
+        "answer": 0,
+        "explanation": "Current gain in CB is α."
+    },
+    {
+        "id": 29,
+        "question": "The dimensional formula of magnetic field is:",
+        "options": [
+            "MT^−2I^−1",
+            "MLT^−2",
+            "MT^−1",
+            "ML^2T^−2I^−1"
+        ],
+        "answer": 0,
+        "explanation": "From F = qvB ⇒ B = M T^−2 I^−1."
+    },
+    {
+        "id": 30,
+        "question": "The escape speed from Earth is independent of:",
+        "options": [
+            "Mass of the body",
+            "Mass of Earth",
+            "Radius of Earth",
+            "Gravitational constant"
+        ],
+        "answer": 0,
+        "explanation": "Escape speed does not depend on mass of the body."
+    },
+    {
+        "id": 31,
+        "question": "The coefficient of surface tension has unit:",
+        "options": [
+            "N/m",
+            "N/m^2",
+            "J",
+            "kg/m^2"
+        ],
+        "answer": 0,
+        "explanation": "Surface tension is force per unit length."
+    },
+    {
+        "id": 32,
+        "question": "The restoring force in SHM is always directed towards:",
+        "options": [
+            "Mean position",
+            "Extreme position",
+            "Direction of motion",
+            "Random"
+        ],
+        "answer": 0,
+        "explanation": "Restoring force acts towards equilibrium."
+    },
+    {
+        "id": 33,
+        "question": "The Doppler effect occurs due to relative motion between:",
+        "options": [
+            "Source and observer",
+            "Medium and observer",
+            "Source and medium",
+            "Wave and medium"
+        ],
+        "answer": 0,
+        "explanation": "Relative motion of source and observer."
+    },
+    {
+        "id": 34,
+        "question": "The electric potential inside a charged conducting sphere is:",
+        "options": [
+            "Constant",
+            "Zero",
+            "Maximum",
+            "Minimum"
+        ],
+        "answer": 0,
+        "explanation": "Potential remains constant inside conductor."
+    },
+    {
+        "id": 35,
+        "question": "The magnetic field inside a long solenoid is:",
+        "options": [
+            "Uniform",
+            "Zero",
+            "Increasing",
+            "Decreasing"
+        ],
+        "answer": 0,
+        "explanation": "Field inside long solenoid is uniform."
+    },
+    {
+        "id": 36,
+        "question": "The energy stored per unit volume in a magnetic field is:",
+        "options": [
+            "B^2/2μ0",
+            "μ0B^2",
+            "B/μ0",
+            "μ0/B"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic energy density = B^2/2μ0."
+    },
+    {
+        "id": 37,
+        "question": "The power factor of an AC circuit is cosφ where φ is the phase difference between:",
+        "options": [
+            "Voltage and current",
+            "Charge and voltage",
+            "Current and resistance",
+            "Voltage and power"
+        ],
+        "answer": 0,
+        "explanation": "φ is phase between current and voltage."
+    },
+    {
+        "id": 38,
+        "question": "A concave mirror forms a real image when the object is placed:",
+        "options": [
+            "Beyond focal length",
+            "Between pole and focus",
+            "At focus only",
+            "At infinity only"
+        ],
+        "answer": 0,
+        "explanation": "Real images are formed beyond focal length."
+    },
+    {
+        "id": 39,
+        "question": "The refractive index of a medium is inversely proportional to:",
+        "options": [
+            "Speed of light in medium",
+            "Wavelength",
+            "Frequency",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "n = c/v."
+    },
+    {
+        "id": 40,
+        "question": "The fringe width in Young’s double slit experiment increases if:",
+        "options": [
+            "Wavelength increases",
+            "Slit separation increases",
+            "Screen distance decreases",
+            "Source intensity decreases"
+        ],
+        "answer": 0,
+        "explanation": "β = λD/d."
+    },
+    {
+        "id": 41,
+        "question": "The stopping potential in photoelectric effect depends on:",
+        "options": [
+            "Frequency of incident light",
+            "Intensity",
+            "Area of metal",
+            "Time"
+        ],
+        "answer": 0,
+        "explanation": "Stopping potential ∝ maximum kinetic energy."
+    },
+    {
+        "id": 42,
+        "question": "The energy of a photon is inversely proportional to its:",
+        "options": [
+            "Wavelength",
+            "Frequency",
+            "Speed",
+            "Amplitude"
+        ],
+        "answer": 0,
+        "explanation": "E = hc/λ."
+    },
+    {
+        "id": 43,
+        "question": "The radius of a nucleus depends on:",
+        "options": [
+            "Mass number",
+            "Atomic number",
+            "Neutron number",
+            "Charge"
+        ],
+        "answer": 0,
+        "explanation": "R = R0A^(1/3)."
+    },
+    {
+        "id": 44,
+        "question": "The unit of activity of a radioactive sample is:",
+        "options": [
+            "Becquerel",
+            "Gray",
+            "Sievert",
+            "Curie/mass"
+        ],
+        "answer": 0,
+        "explanation": "SI unit of activity is becquerel."
+    },
+    {
+        "id": 45,
+        "question": "The conductivity of a semiconductor increases with:",
+        "options": [
+            "Increase in temperature",
+            "Decrease in temperature",
+            "Increase in pressure",
+            "Decrease in pressure"
+        ],
+        "answer": 0,
+        "explanation": "More charge carriers at higher temperature."
+    },
+    {
+        "id": 46,
+        "question": "In an n-type semiconductor, the majority carriers are:",
+        "options": [
+            "Electrons",
+            "Holes",
+            "Ions",
+            "Protons"
+        ],
+        "answer": 0,
+        "explanation": "Donor impurities provide electrons."
+    },
+    {
+        "id": 47,
+        "question": "The SI unit of electric field intensity is:",
+        "options": [
+            "N/C",
+            "V",
+            "C/N",
+            "J/C"
+        ],
+        "answer": 0,
+        "explanation": "Electric field = force per unit charge."
+    },
+    {
+        "id": 48,
+        "question": "The phenomenon of total internal reflection occurs when the angle of incidence is:",
+        "options": [
+            "Greater than critical angle",
+            "Less than critical angle",
+            "Equal to 90°",
+            "Zero"
+        ],
+        "answer": 0,
+        "explanation": "TIR occurs for i > ic."
+    },
+    {
+        "id": 49,
+        "question": "The SI unit of magnetic flux is:",
+        "options": [
+            "Weber",
+            "Tesla",
+            "Henry",
+            "Ampere"
+        ],
+        "answer": 0,
+        "explanation": "Magnetic flux is measured in weber."
+    },
+    {
+        "id": 50,
+        "question": "The law of conservation of angular momentum follows from conservation of:",
+        "options": [
+            "Torque being zero",
+            "Energy",
+            "Force",
+            "Mass"
+        ],
+        "answer": 0,
+        "explanation": "Angular momentum conserved when external torque is zero."
+    }
+]

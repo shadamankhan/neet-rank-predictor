@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "question": "Which taxonomic category represents the highest level of similarity among organisms?",
+        "options": [
+            "Order",
+            "Family",
+            "Genus",
+            "Species"
+        ],
+        "answer": 3,
+        "explanation": "Species shows the highest degree of similarity among organisms."
+    },
+    {
+        "id": 2,
+        "question": "Which algal group stores food in the form of laminarin?",
+        "options": [
+            "Chlorophyceae",
+            "Rhodophyceae",
+            "Phaeophyceae",
+            "Cyanophyceae"
+        ],
+        "answer": 2,
+        "explanation": "Brown algae (Phaeophyceae) store food as laminarin."
+    },
+    {
+        "id": 3,
+        "question": "Which plant group is called amphibians of the plant kingdom?",
+        "options": [
+            "Algae",
+            "Bryophytes",
+            "Pteridophytes",
+            "Gymnosperms"
+        ],
+        "answer": 1,
+        "explanation": "Bryophytes require water for fertilisation and live on land."
+    },
+    {
+        "id": 4,
+        "question": "The edible part of groundnut seed is:",
+        "options": [
+            "Endosperm",
+            "Embryo",
+            "Cotyledons",
+            "Testa"
+        ],
+        "answer": 2,
+        "explanation": "Groundnut is a non-endospermic seed with food stored in cotyledons."
+    },
+    {
+        "id": 5,
+        "question": "Which tissue forms secondary xylem and phloem?",
+        "options": [
+            "Apical meristem",
+            "Intercalary meristem",
+            "Vascular cambium",
+            "Cork cambium"
+        ],
+        "answer": 2,
+        "explanation": "Vascular cambium produces secondary xylem and phloem."
+    },
+    {
+        "id": 6,
+        "question": "Which cell wall component is mainly responsible for flexibility of growing cells?",
+        "options": [
+            "Cellulose",
+            "Lignin",
+            "Pectin",
+            "Suberin"
+        ],
+        "answer": 2,
+        "explanation": "Pectin provides flexibility to growing cell walls."
+    },
+    {
+        "id": 7,
+        "question": "Which organelle is involved in intracellular digestion?",
+        "options": [
+            "Golgi apparatus",
+            "Peroxisome",
+            "Lysosome",
+            "Ribosome"
+        ],
+        "answer": 2,
+        "explanation": "Lysosomes carry out intracellular digestion."
+    },
+    {
+        "id": 8,
+        "question": "Which biomolecule forms the backbone of nucleic acids?",
+        "options": [
+            "Nitrogenous bases",
+            "Sugars",
+            "Phosphate groups",
+            "Nucleotides"
+        ],
+        "answer": 3,
+        "explanation": "Nucleic acids are polymers of nucleotides."
+    },
+    {
+        "id": 9,
+        "question": "Which phase of cell cycle is characterised by DNA replication?",
+        "options": [
+            "G1",
+            "S",
+            "G2",
+            "M"
+        ],
+        "answer": 1,
+        "explanation": "DNA replication occurs in S phase."
+    },
+    {
+        "id": 10,
+        "question": "Movement of water through xylem vessels is an example of:",
+        "options": [
+            "Diffusion",
+            "Osmosis",
+            "Mass flow",
+            "Active transport"
+        ],
+        "answer": 2,
+        "explanation": "Water moves through xylem by mass flow."
+    },
+    {
+        "id": 11,
+        "question": "Which mineral nutrient is required for opening and closing of stomata?",
+        "options": [
+            "Calcium",
+            "Magnesium",
+            "Potassium",
+            "Iron"
+        ],
+        "answer": 2,
+        "explanation": "Potassium regulates stomatal movement."
+    },
+    {
+        "id": 12,
+        "question": "Which pigment absorbs maximum light in blue region?",
+        "options": [
+            "Chlorophyll a",
+            "Chlorophyll b",
+            "Carotenoids",
+            "Phycobilins"
+        ],
+        "answer": 2,
+        "explanation": "Carotenoids absorb blue and blue-green light."
+    },
+    {
+        "id": 13,
+        "question": "Which compound is regenerated in Calvin cycle?",
+        "options": [
+            "3-PGA",
+            "OAA",
+            "RuBP",
+            "PEP"
+        ],
+        "answer": 2,
+        "explanation": "RuBP is regenerated during Calvin cycle."
+    },
+    {
+        "id": 14,
+        "question": "Which respiratory pathway yields CO₂ as a by-product?",
+        "options": [
+            "Glycolysis",
+            "Krebs cycle",
+            "ETC",
+            "Fermentation"
+        ],
+        "answer": 1,
+        "explanation": "Carbon dioxide is released during Krebs cycle."
+    },
+    {
+        "id": 15,
+        "question": "Which plant hormone is responsible for apical dominance?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Ethylene",
+            "Abscisic acid"
+        ],
+        "answer": 0,
+        "explanation": "Auxin maintains apical dominance."
+    },
+    {
+        "id": 16,
+        "question": "Which part of flower develops into fruit?",
+        "options": [
+            "Ovule",
+            "Ovary",
+            "Style",
+            "Stigma"
+        ],
+        "answer": 1,
+        "explanation": "Ovary develops into fruit after fertilisation."
+    },
+    {
+        "id": 17,
+        "question": "Which breeding method involves selection from mixed population?",
+        "options": [
+            "Pureline selection",
+            "Mass selection",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 1,
+        "explanation": "Mass selection selects superior individuals from mixed population."
+    },
+    {
+        "id": 18,
+        "question": "Which microorganism is used in production of antibiotics?",
+        "options": [
+            "Rhizobium",
+            "Nitrosomonas",
+            "Streptomyces",
+            "Azotobacter"
+        ],
+        "answer": 2,
+        "explanation": "Streptomyces species produce antibiotics."
+    },
+    {
+        "id": 19,
+        "question": "Which enzyme synthesises DNA strand during replication?",
+        "options": [
+            "DNA ligase",
+            "Primase",
+            "DNA polymerase",
+            "Helicase"
+        ],
+        "answer": 2,
+        "explanation": "DNA polymerase synthesises new DNA strand."
+    },
+    {
+        "id": 20,
+        "question": "Which population parameter indicates number of births per unit time?",
+        "options": [
+            "Natality",
+            "Mortality",
+            "Immigration",
+            "Emigration"
+        ],
+        "answer": 0,
+        "explanation": "Natality refers to birth rate."
+    },
+    {
+        "id": 21,
+        "question": "Which trophic level has maximum energy content?",
+        "options": [
+            "Producers",
+            "Primary consumers",
+            "Secondary consumers",
+            "Tertiary consumers"
+        ],
+        "answer": 0,
+        "explanation": "Producers capture maximum solar energy."
+    },
+    {
+        "id": 22,
+        "question": "Which biodiversity level measures variation within a species?",
+        "options": [
+            "Alpha diversity",
+            "Beta diversity",
+            "Gamma diversity",
+            "Genetic diversity"
+        ],
+        "answer": 3,
+        "explanation": "Genetic diversity measures variation within species."
+    },
+    {
+        "id": 23,
+        "question": "Which pollutant is responsible for acid rain?",
+        "options": [
+            "CO₂",
+            "SO₂",
+            "CH₄",
+            "O₂"
+        ],
+        "answer": 1,
+        "explanation": "Sulphur dioxide causes acid rain."
+    },
+    {
+        "id": 24,
+        "question": "Which taxonomic aid includes description of plants of a region?",
+        "options": [
+            "Catalogue",
+            "Monograph",
+            "Flora",
+            "Herbarium"
+        ],
+        "answer": 2,
+        "explanation": "Flora provides descriptions of plants of a region."
+    },
+    {
+        "id": 25,
+        "question": "Which algae shows diplontic life cycle?",
+        "options": [
+            "Ulothrix",
+            "Ectocarpus",
+            "Fucus",
+            "Spirogyra"
+        ],
+        "answer": 2,
+        "explanation": "Fucus shows diplontic life cycle."
+    },
+    {
+        "id": 26,
+        "question": "Which plant tissue is dead at maturity and provides mechanical support?",
+        "options": [
+            "Parenchyma",
+            "Collenchyma",
+            "Sclerenchyma",
+            "Phloem"
+        ],
+        "answer": 2,
+        "explanation": "Sclerenchyma consists of dead cells providing support."
+    },
+    {
+        "id": 27,
+        "question": "Which plastid stores proteins?",
+        "options": [
+            "Amyloplast",
+            "Elaioplast",
+            "Proteinoplast",
+            "Chromoplast"
+        ],
+        "answer": 2,
+        "explanation": "Proteinoplast stores proteins."
+    },
+    {
+        "id": 28,
+        "question": "Which nitrogenous base is present only in RNA?",
+        "options": [
+            "Adenine",
+            "Guanine",
+            "Uracil",
+            "Cytosine"
+        ],
+        "answer": 2,
+        "explanation": "Uracil is present only in RNA."
+    },
+    {
+        "id": 29,
+        "question": "Which stage of meiosis shows separation of homologous chromosomes?",
+        "options": [
+            "Anaphase I",
+            "Anaphase II",
+            "Metaphase I",
+            "Telophase II"
+        ],
+        "answer": 0,
+        "explanation": "Homologous chromosomes separate during anaphase I."
+    },
+    {
+        "id": 30,
+        "question": "Which force is the main cause of ascent of sap in tall trees?",
+        "options": [
+            "Root pressure",
+            "Capillarity",
+            "Transpiration pull",
+            "Diffusion"
+        ],
+        "answer": 2,
+        "explanation": "Transpiration pull is the main force."
+    },
+    {
+        "id": 31,
+        "question": "Which micronutrient is involved in photolysis of water?",
+        "options": [
+            "Iron",
+            "Copper",
+            "Manganese",
+            "Zinc"
+        ],
+        "answer": 2,
+        "explanation": "Manganese is essential for photolysis of water."
+    },
+    {
+        "id": 32,
+        "question": "Which pathway reduces photorespiration by spatial separation?",
+        "options": [
+            "C3",
+            "C4",
+            "CAM",
+            "Calvin cycle"
+        ],
+        "answer": 1,
+        "explanation": "C4 pathway reduces photorespiration by spatial separation."
+    },
+    {
+        "id": 33,
+        "question": "Which respiratory substrate gives respiratory quotient equal to 1?",
+        "options": [
+            "Proteins",
+            "Fats",
+            "Carbohydrates",
+            "Organic acids"
+        ],
+        "answer": 2,
+        "explanation": "Carbohydrates have RQ = 1."
+    },
+    {
+        "id": 34,
+        "question": "Which hormone induces dormancy and inhibits growth?",
+        "options": [
+            "Auxin",
+            "Cytokinin",
+            "Gibberellin",
+            "Abscisic acid"
+        ],
+        "answer": 3,
+        "explanation": "Abscisic acid induces dormancy."
+    },
+    {
+        "id": 35,
+        "question": "Which part of ovule persists as micropyle in seed?",
+        "options": [
+            "Hilum",
+            "Chalaza",
+            "Micropyle",
+            "Funiculus"
+        ],
+        "answer": 2,
+        "explanation": "Micropyle persists as a pore in seed."
+    },
+    {
+        "id": 36,
+        "question": "Which breeding method is used to introduce a specific gene into an elite variety?",
+        "options": [
+            "Mass selection",
+            "Pureline selection",
+            "Backcrossing",
+            "Mutation breeding"
+        ],
+        "answer": 2,
+        "explanation": "Backcrossing introduces a specific gene into elite variety."
+    },
+    {
+        "id": 37,
+        "question": "Which microorganism is used in sewage treatment?",
+        "options": [
+            "Rhizobium",
+            "Methanobacterium",
+            "Saccharomyces",
+            "Penicillium"
+        ],
+        "answer": 1,
+        "explanation": "Methanobacterium is used in sewage treatment and biogas plants."
+    },
+    {
+        "id": 38,
+        "question": "Which technique is used to separate DNA fragments by size?",
+        "options": [
+            "PCR",
+            "ELISA",
+            "Gel electrophoresis",
+            "Southern blotting"
+        ],
+        "answer": 2,
+        "explanation": "Gel electrophoresis separates DNA fragments based on size."
+    },
+    {
+        "id": 39,
+        "question": "Which dispersion pattern shows uniform spacing of individuals?",
+        "options": [
+            "Random",
+            "Uniform",
+            "Clumped",
+            "Aggregated"
+        ],
+        "answer": 1,
+        "explanation": "Uniform dispersion shows equal spacing of individuals."
+    },
+    {
+        "id": 40,
+        "question": "Which ecological pyramid is always upright?",
+        "options": [
+            "Pyramid of numbers",
+            "Pyramid of biomass",
+            "Pyramid of energy",
+            "All pyramids"
+        ],
+        "answer": 2,
+        "explanation": "Pyramid of energy is always upright."
+    },
+    {
+        "id": 41,
+        "question": "Which biome is characterised by permanently frozen subsoil?",
+        "options": [
+            "Taiga",
+            "Tundra",
+            "Savanna",
+            "Desert"
+        ],
+        "answer": 1,
+        "explanation": "Tundra has permafrost."
+    },
+    {
+        "id": 42,
+        "question": "Which gas is mainly responsible for greenhouse effect?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Carbon dioxide",
+            "Helium"
+        ],
+        "answer": 2,
+        "explanation": "Carbon dioxide is a major greenhouse gas."
+    },
+    {
+        "id": 43,
+        "question": "Which classification system is based on evolutionary relationships?",
+        "options": [
+            "Artificial",
+            "Natural",
+            "Phylogenetic",
+            "Numerical"
+        ],
+        "answer": 2,
+        "explanation": "Phylogenetic classification is based on evolution."
+    },
+    {
+        "id": 44,
+        "question": "Which algae is a source of agar?",
+        "options": [
+            "Ulothrix",
+            "Gelidium",
+            "Sargassum",
+            "Chlorella"
+        ],
+        "answer": 1,
+        "explanation": "Gelidium is used to obtain agar."
+    },
+    {
+        "id": 45,
+        "question": "Which tissue lies just inside endodermis in root?",
+        "options": [
+            "Cortex",
+            "Pericycle",
+            "Cambium",
+            "Pith"
+        ],
+        "answer": 1,
+        "explanation": "Pericycle lies just inside endodermis."
+    },
+    {
+        "id": 46,
+        "question": "Which plastid imparts colour to fruits and flowers?",
+        "options": [
+            "Chloroplast",
+            "Chromoplast",
+            "Leucoplast",
+            "Amyloplast"
+        ],
+        "answer": 1,
+        "explanation": "Chromoplast imparts colour to fruits and flowers."
+    },
+    {
+        "id": 47,
+        "question": "Which nitrogenous base pairs with adenine in RNA?",
+        "options": [
+            "Thymine",
+            "Cytosine",
+            "Guanine",
+            "Uracil"
+        ],
+        "answer": 3,
+        "explanation": "Adenine pairs with uracil in RNA."
+    },
+    {
+        "id": 48,
+        "question": "Which stage of mitosis shows alignment of chromosomes at equatorial plate?",
+        "options": [
+            "Prophase",
+            "Metaphase",
+            "Anaphase",
+            "Telophase"
+        ],
+        "answer": 1,
+        "explanation": "Chromosomes align at equatorial plate in metaphase."
+    },
+    {
+        "id": 49,
+        "question": "Which force contributes least to ascent of sap in tall trees?",
+        "options": [
+            "Transpiration pull",
+            "Cohesion",
+            "Adhesion",
+            "Root pressure"
+        ],
+        "answer": 3,
+        "explanation": "Root pressure contributes least in tall trees."
+    },
+    {
+        "id": 50,
+        "question": "Which international agreement focuses on conservation of wetlands?",
+        "options": [
+            "Kyoto Protocol",
+            "Montreal Protocol",
+            "Ramsar Convention",
+            "Convention on Biological Diversity"
+        ],
+        "answer": 2,
+        "explanation": "Ramsar Convention focuses on wetland conservation."
+    }
+]

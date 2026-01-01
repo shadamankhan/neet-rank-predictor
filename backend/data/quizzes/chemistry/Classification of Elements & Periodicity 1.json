@@ -1,0 +1,2402 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following properties generally increases along a period from left to right?",
+        "options": [
+            "Atomic radius",
+            "Metallic character",
+            "Ionisation enthalpy",
+            "Basicity of oxides"
+        ],
+        "answer": 2,
+        "explanation": "Ionisation enthalpy generally increases across a period due to increase in effective nuclear charge."
+    },
+    {
+        "id": 2,
+        "question": "The correct order of increasing atomic radius is:",
+        "options": [
+            "F < O < N < C",
+            "C < N < O < F",
+            "N < O < C < F",
+            "O < F < N < C"
+        ],
+        "answer": 0,
+        "explanation": "Across a period, atomic radius decreases due to increasing nuclear charge."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following has the highest first ionisation enthalpy?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Ionisation enthalpy increases across the period; Si has the highest among given elements."
+    },
+    {
+        "id": 4,
+        "question": "The element with the most negative electron gain enthalpy is:",
+        "options": [
+            "F",
+            "Cl",
+            "O",
+            "S"
+        ],
+        "answer": 1,
+        "explanation": "Cl has more negative electron gain enthalpy than F due to lower electron-electron repulsion."
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is the largest atom?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 3,
+        "explanation": "Atomic size increases down the group due to addition of new shells."
+    },
+    {
+        "id": 6,
+        "question": "Which element shows anomalous behaviour among alkali metals?",
+        "options": [
+            "Na",
+            "K",
+            "Li",
+            "Rb"
+        ],
+        "answer": 2,
+        "explanation": "Lithium shows anomalous behavior due to its small size and high charge density."
+    },
+    {
+        "id": 7,
+        "question": "The correct order of increasing metallic character is:",
+        "options": [
+            "Na < Mg < Al < Si",
+            "Si < Al < Mg < Na",
+            "Mg < Al < Na < Si",
+            "Al < Mg < Si < Na"
+        ],
+        "answer": 1,
+        "explanation": "Metallic character decreases across a period from left to right."
+    },
+    {
+        "id": 8,
+        "question": "Which of the following elements has the highest electronegativity?",
+        "options": [
+            "O",
+            "N",
+            "F",
+            "Cl"
+        ],
+        "answer": 2,
+        "explanation": "Fluorine is the most electronegative element."
+    },
+    {
+        "id": 9,
+        "question": "Which of the following ions has the smallest radius?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Si4+"
+        ],
+        "answer": 3,
+        "explanation": "For isoelectronic species, higher nuclear charge results in smaller ionic radius."
+    },
+    {
+        "id": 10,
+        "question": "Which of the following elements belongs to the p-block?",
+        "options": [
+            "Sc",
+            "Zn",
+            "Ga",
+            "Fe"
+        ],
+        "answer": 2,
+        "explanation": "Gallium belongs to group 13 and is a p-block element."
+    },
+    {
+        "id": 11,
+        "question": "The atomic radius of noble gases is generally measured as:",
+        "options": [
+            "Covalent radius",
+            "Metallic radius",
+            "van der Waals radius",
+            "Ionic radius"
+        ],
+        "answer": 2,
+        "explanation": "Noble gases do not form covalent bonds, so van der Waals radius is used."
+    },
+    {
+        "id": 12,
+        "question": "Which of the following has the highest electron gain enthalpy (most negative)?",
+        "options": [
+            "S",
+            "O",
+            "Cl",
+            "F"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine has the most negative electron gain enthalpy among given elements."
+    },
+    {
+        "id": 13,
+        "question": "Which of the following is a diagonal relationship pair?",
+        "options": [
+            "Li and Mg",
+            "Be and Al",
+            "B and Si",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Li-Mg, Be-Al, and B-Si all show diagonal relationships."
+    },
+    {
+        "id": 14,
+        "question": "The correct order of increasing first ionisation enthalpy is:",
+        "options": [
+            "B < Be < C < N",
+            "Be < B < C < N",
+            "B < C < Be < N",
+            "C < B < Be < N"
+        ],
+        "answer": 1,
+        "explanation": "Be has higher ionisation enthalpy than B due to stable filled 2s subshell."
+    },
+    {
+        "id": 15,
+        "question": "Which of the following oxides is most acidic?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 3,
+        "explanation": "Acidic character of oxides increases across a period; SiO2 is acidic."
+    },
+    {
+        "id": 16,
+        "question": "Which of the following elements has the highest atomic volume?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Alkali metals have the largest atomic volume in a period."
+    },
+    {
+        "id": 17,
+        "question": "The shielding effect increases on moving:",
+        "options": [
+            "Across a period",
+            "Down a group",
+            "From right to left in a period",
+            "From bottom to top in a group"
+        ],
+        "answer": 1,
+        "explanation": "Shielding effect increases down a group due to additional shells."
+    },
+    {
+        "id": 18,
+        "question": "Which of the following has the highest melting point?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Silicon has a giant covalent structure leading to high melting point."
+    },
+    {
+        "id": 19,
+        "question": "Which element has the smallest atomic radius in the second period?",
+        "options": [
+            "B",
+            "C",
+            "N",
+            "F"
+        ],
+        "answer": 3,
+        "explanation": "Atomic radius decreases across the period; fluorine is smallest."
+    },
+    {
+        "id": 20,
+        "question": "Which of the following elements has the least metallic character?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Cl"
+        ],
+        "answer": 3,
+        "explanation": "Chlorine is a non-metal and shows least metallic character."
+    },
+    {
+        "id": 21,
+        "question": "Which of the following is the correct order of increasing electronegativity?",
+        "options": [
+            "Al < Mg < Si < P",
+            "Mg < Al < Si < P",
+            "Al < Si < Mg < P",
+            "Si < Al < Mg < P"
+        ],
+        "answer": 1,
+        "explanation": "Electronegativity generally increases across the period."
+    },
+    {
+        "id": 22,
+        "question": "The element with the highest second ionisation enthalpy is:",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "After losing one electron, Na+ attains noble gas configuration, making second IE very high."
+    },
+    {
+        "id": 23,
+        "question": "Which of the following pairs is isoelectronic?",
+        "options": [
+            "Na+ and Ne",
+            "Mg2+ and Ar",
+            "O2− and Ne",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All given species have the same number of electrons as noble gases."
+    },
+    {
+        "id": 24,
+        "question": "Which group of elements has zero electron affinity?",
+        "options": [
+            "Halogens",
+            "Alkali metals",
+            "Noble gases",
+            "Chalcogens"
+        ],
+        "answer": 2,
+        "explanation": "Noble gases have stable octet configuration and zero electron affinity."
+    },
+    {
+        "id": 25,
+        "question": "The strongest reducing agent among the following is:",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 0,
+        "explanation": "Lithium has the highest hydration enthalpy, making it the strongest reducing agent in aqueous solution."
+    },
+    {
+        "id": 26,
+        "question": "Which of the following elements forms an amphoteric oxide?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 2,
+        "explanation": "Aluminium oxide is amphoteric in nature."
+    },
+    {
+        "id": 27,
+        "question": "Which of the following has the highest polarising power?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has highest charge density, hence highest polarising power."
+    },
+    {
+        "id": 28,
+        "question": "The correct order of increasing ionic radius is:",
+        "options": [
+            "F− < O2− < N3−",
+            "N3− < O2− < F−",
+            "O2− < F− < N3−",
+            "F− < N3− < O2−"
+        ],
+        "answer": 0,
+        "explanation": "For isoelectronic ions, size increases with decreasing nuclear charge."
+    },
+    {
+        "id": 29,
+        "question": "Which of the following elements shows maximum covalent character?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Covalent character increases across a period; silicon shows maximum."
+    },
+    {
+        "id": 30,
+        "question": "Which of the following is the most reactive halogen?",
+        "options": [
+            "Cl",
+            "Br",
+            "I",
+            "F"
+        ],
+        "answer": 3,
+        "explanation": "Fluorine is the most reactive halogen due to highest electronegativity."
+    },
+    {
+        "id": 31,
+        "question": "Which of the following elements has the highest density?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Density generally increases across the period; silicon has highest among given."
+    },
+    {
+        "id": 32,
+        "question": "Which of the following has the lowest first ionisation enthalpy?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 3,
+        "explanation": "Ionisation enthalpy decreases down the group; Rb has the lowest."
+    },
+    {
+        "id": 33,
+        "question": "The element which forms the most basic oxide is:",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Basic character of oxides decreases across a period; Na2O is most basic."
+    },
+    {
+        "id": 34,
+        "question": "Which of the following elements has the highest electron affinity?",
+        "options": [
+            "O",
+            "S",
+            "Cl",
+            "Br"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine has the highest electron affinity among given elements."
+    },
+    {
+        "id": 35,
+        "question": "Which element has the greatest tendency to form cations?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Sodium has the lowest ionisation enthalpy and readily forms cations."
+    },
+    {
+        "id": 36,
+        "question": "Which of the following shows the greatest diagonal relationship?",
+        "options": [
+            "Li and Be",
+            "Be and Al",
+            "B and C",
+            "C and N"
+        ],
+        "answer": 1,
+        "explanation": "Be and Al show strong diagonal relationship."
+    },
+    {
+        "id": 37,
+        "question": "Which of the following elements shows maximum non-metallic character?",
+        "options": [
+            "N",
+            "O",
+            "F",
+            "Cl"
+        ],
+        "answer": 2,
+        "explanation": "Fluorine has the highest electronegativity and non-metallic character."
+    },
+    {
+        "id": 38,
+        "question": "The correct order of decreasing atomic size is:",
+        "options": [
+            "Na > Mg > Al > Si",
+            "Mg > Na > Al > Si",
+            "Si > Al > Mg > Na",
+            "Al > Mg > Na > Si"
+        ],
+        "answer": 0,
+        "explanation": "Atomic size decreases across a period from left to right."
+    },
+    {
+        "id": 39,
+        "question": "Which of the following has the maximum lattice energy?",
+        "options": [
+            "NaCl",
+            "MgO",
+            "KBr",
+            "CaF2"
+        ],
+        "answer": 1,
+        "explanation": "MgO has high charge on ions and small size, resulting in maximum lattice energy."
+    },
+    {
+        "id": 40,
+        "question": "Which of the following statements is correct regarding periodic trends?",
+        "options": [
+            "Electron affinity increases down a group",
+            "Ionisation enthalpy decreases across a period",
+            "Atomic radius decreases across a period",
+            "Metallic character increases across a period"
+        ],
+        "answer": 2,
+        "explanation": "Atomic radius decreases across a period due to increasing nuclear charge."
+    },
+    {
+        "id": 41,
+        "question": "Which of the following factors is mainly responsible for the increase in ionisation enthalpy across a period?",
+        "options": [
+            "Increase in atomic radius",
+            "Decrease in nuclear charge",
+            "Increase in effective nuclear charge",
+            "Increase in shielding effect"
+        ],
+        "answer": 2,
+        "explanation": "Effective nuclear charge increases across a period, holding electrons more strongly."
+    },
+    {
+        "id": 42,
+        "question": "Which of the following pairs represents elements with similar chemical properties?",
+        "options": [
+            "Na and Mg",
+            "Be and Al",
+            "C and N",
+            "O and F"
+        ],
+        "answer": 1,
+        "explanation": "Be and Al show diagonal relationship and hence similar properties."
+    },
+    {
+        "id": 43,
+        "question": "The correct order of decreasing first ionisation enthalpy is:",
+        "options": [
+            "N > O > C > B",
+            "O > N > C > B",
+            "N > C > O > B",
+            "C > N > O > B"
+        ],
+        "answer": 0,
+        "explanation": "Nitrogen has higher ionisation enthalpy due to stable half-filled p-orbitals."
+    },
+    {
+        "id": 44,
+        "question": "Which of the following elements has the highest electron affinity in the second period?",
+        "options": [
+            "C",
+            "N",
+            "O",
+            "F"
+        ],
+        "answer": 3,
+        "explanation": "Fluorine has the highest electron affinity in the second period."
+    },
+    {
+        "id": 45,
+        "question": "Which of the following ions has the largest size?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "O2−"
+        ],
+        "answer": 3,
+        "explanation": "O2− has fewer protons relative to electrons, giving the largest radius."
+    },
+    {
+        "id": 46,
+        "question": "Which element shows the maximum metallic character in group 13?",
+        "options": [
+            "B",
+            "Al",
+            "Ga",
+            "Tl"
+        ],
+        "answer": 3,
+        "explanation": "Metallic character increases down the group; Tl is most metallic."
+    },
+    {
+        "id": 47,
+        "question": "The atomic radius of elements generally increases:",
+        "options": [
+            "Across a period",
+            "Down a group",
+            "From right to left in a period",
+            "Both B and C"
+        ],
+        "answer": 3,
+        "explanation": "Atomic radius increases down a group and from right to left in a period."
+    },
+    {
+        "id": 48,
+        "question": "Which of the following elements has the lowest electronegativity?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 3,
+        "explanation": "Electronegativity decreases down the group; Cs is the lowest."
+    },
+    {
+        "id": 49,
+        "question": "Which of the following oxides is amphoteric?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 2,
+        "explanation": "Al2O3 reacts with both acids and bases."
+    },
+    {
+        "id": 50,
+        "question": "The most acidic oxide among the following is:",
+        "options": [
+            "CO2",
+            "SiO2",
+            "P2O5",
+            "SO3"
+        ],
+        "answer": 3,
+        "explanation": "SO3 is the anhydride of strong acid H2SO4."
+    },
+    {
+        "id": 51,
+        "question": "Which of the following elements has the highest polarising power in its cationic form?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has high charge density, giving maximum polarising power."
+    },
+    {
+        "id": 52,
+        "question": "Which of the following species has the highest lattice energy?",
+        "options": [
+            "NaCl",
+            "KCl",
+            "MgO",
+            "CaO"
+        ],
+        "answer": 2,
+        "explanation": "MgO has higher ionic charges and smaller ionic size."
+    },
+    {
+        "id": 53,
+        "question": "Which element shows the greatest tendency to gain electrons?",
+        "options": [
+            "O",
+            "S",
+            "Cl",
+            "Br"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine has the highest electron affinity."
+    },
+    {
+        "id": 54,
+        "question": "Which of the following isoelectronic species has the smallest radius?",
+        "options": [
+            "N3−",
+            "O2−",
+            "F−",
+            "Ne"
+        ],
+        "answer": 3,
+        "explanation": "Ne has the highest nuclear charge among isoelectronic species."
+    },
+    {
+        "id": 55,
+        "question": "Which of the following elements has the highest second ionisation enthalpy?",
+        "options": [
+            "Li",
+            "Be",
+            "B",
+            "C"
+        ],
+        "answer": 0,
+        "explanation": "Li+ has noble gas configuration, so removing second electron is very difficult."
+    },
+    {
+        "id": 56,
+        "question": "The diagonal relationship is most prominent between:",
+        "options": [
+            "Li and Na",
+            "Be and Al",
+            "B and C",
+            "Mg and Ca"
+        ],
+        "answer": 1,
+        "explanation": "Be and Al show strong diagonal relationship."
+    },
+    {
+        "id": 57,
+        "question": "Which of the following elements has the highest non-metallic character?",
+        "options": [
+            "O",
+            "N",
+            "F",
+            "Cl"
+        ],
+        "answer": 2,
+        "explanation": "Fluorine is the most electronegative element."
+    },
+    {
+        "id": 58,
+        "question": "Which of the following has the lowest boiling point?",
+        "options": [
+            "Ne",
+            "Ar",
+            "Kr",
+            "Xe"
+        ],
+        "answer": 0,
+        "explanation": "Boiling point of noble gases increases down the group."
+    },
+    {
+        "id": 59,
+        "question": "Which of the following elements has the highest atomic number?",
+        "options": [
+            "Cl",
+            "Ar",
+            "K",
+            "Ca"
+        ],
+        "answer": 3,
+        "explanation": "Calcium has the highest atomic number among given elements."
+    },
+    {
+        "id": 60,
+        "question": "The metallic character of elements generally increases:",
+        "options": [
+            "Across a period",
+            "Down a group",
+            "From left to right in a period",
+            "From top to bottom in a period"
+        ],
+        "answer": 1,
+        "explanation": "Metallic character increases down a group due to easier loss of electrons."
+    },
+    {
+        "id": 61,
+        "question": "Which of the following shows the highest covalent character in its compounds?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Covalent character increases across a period; Si shows maximum."
+    },
+    {
+        "id": 62,
+        "question": "Which element shows the greatest shielding effect?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 3,
+        "explanation": "Shielding effect increases down the group due to more inner shells."
+    },
+    {
+        "id": 63,
+        "question": "Which of the following oxides is the most basic?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 0,
+        "explanation": "Basic character decreases across a period; Na2O is most basic."
+    },
+    {
+        "id": 64,
+        "question": "Which of the following elements has the highest melting point?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Silicon has a giant covalent network structure."
+    },
+    {
+        "id": 65,
+        "question": "Which of the following has the highest density?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 3,
+        "explanation": "Density generally increases down the alkali metal group."
+    },
+    {
+        "id": 66,
+        "question": "Which of the following ions has the highest charge density?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has highest charge to size ratio."
+    },
+    {
+        "id": 67,
+        "question": "Which of the following shows the highest electron affinity?",
+        "options": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine has slightly higher electron affinity than fluorine."
+    },
+    {
+        "id": 68,
+        "question": "Which of the following elements has the largest atomic radius?",
+        "options": [
+            "Be",
+            "Mg",
+            "Ca",
+            "Sr"
+        ],
+        "answer": 3,
+        "explanation": "Atomic radius increases down the group."
+    },
+    {
+        "id": 69,
+        "question": "Which of the following elements forms acidic oxides?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Cl"
+        ],
+        "answer": 3,
+        "explanation": "Non-metals like chlorine form acidic oxides."
+    },
+    {
+        "id": 70,
+        "question": "The element with the smallest atomic radius in group 16 is:",
+        "options": [
+            "O",
+            "S",
+            "Se",
+            "Te"
+        ],
+        "answer": 0,
+        "explanation": "Atomic size increases down the group; oxygen is smallest."
+    },
+    {
+        "id": 71,
+        "question": "Which of the following pairs is isoelectronic?",
+        "options": [
+            "Na+ and Ne",
+            "Mg2+ and Ne",
+            "F− and Ne",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All have 10 electrons."
+    },
+    {
+        "id": 72,
+        "question": "Which of the following has the lowest first ionisation enthalpy?",
+        "options": [
+            "Be",
+            "Mg",
+            "Ca",
+            "Sr"
+        ],
+        "answer": 3,
+        "explanation": "Ionisation enthalpy decreases down the group."
+    },
+    {
+        "id": 73,
+        "question": "Which of the following elements shows maximum basic character in group 2?",
+        "options": [
+            "Be",
+            "Mg",
+            "Ca",
+            "Ba"
+        ],
+        "answer": 3,
+        "explanation": "Basic character increases down the group."
+    },
+    {
+        "id": 74,
+        "question": "Which of the following elements has the highest electronegativity in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Si",
+            "Cl"
+        ],
+        "answer": 3,
+        "explanation": "Chlorine is the most electronegative element in period 3."
+    },
+    {
+        "id": 75,
+        "question": "Which of the following ions is the smallest?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Si4+"
+        ],
+        "answer": 3,
+        "explanation": "Among isoelectronic ions, higher nuclear charge gives smaller size."
+    },
+    {
+        "id": 76,
+        "question": "Which element shows the strongest metallic bonding?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 2,
+        "explanation": "Al has maximum number of valence electrons participating in metallic bonding."
+    },
+    {
+        "id": 77,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Electron affinity increases down a group",
+            "Ionisation enthalpy increases down a group",
+            "Atomic radius decreases across a period",
+            "Metallic character increases across a period"
+        ],
+        "answer": 2,
+        "explanation": "Atomic radius decreases across a period due to increasing nuclear charge."
+    },
+    {
+        "id": 78,
+        "question": "Which of the following elements forms the strongest acidic oxide?",
+        "options": [
+            "C",
+            "N",
+            "P",
+            "S"
+        ],
+        "answer": 3,
+        "explanation": "SO3 is the anhydride of strong acid H2SO4."
+    },
+    {
+        "id": 79,
+        "question": "Which of the following has the highest hydration enthalpy?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has highest charge density, leading to maximum hydration enthalpy."
+    },
+    {
+        "id": 80,
+        "question": "Which of the following best explains periodicity in properties of elements?",
+        "options": [
+            "Atomic mass",
+            "Atomic number",
+            "Valency",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Periodicity arises due to repetition of electronic configuration with increasing atomic number."
+    },
+    {
+        "id": 81,
+        "question": "Which of the following factors is primarily responsible for periodicity in properties of elements?",
+        "options": [
+            "Atomic mass",
+            "Atomic number",
+            "Atomic volume",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Periodicity in properties is due to repetition of similar valence shell electronic configurations with increasing atomic number."
+    },
+    {
+        "id": 82,
+        "question": "Which element shows an exception to the general trend of first ionisation enthalpy in period 2?",
+        "options": [
+            "Be",
+            "B",
+            "C",
+            "N"
+        ],
+        "answer": 1,
+        "explanation": "Boron has lower ionisation enthalpy than Be due to removal of electron from 2p orbital."
+    },
+    {
+        "id": 83,
+        "question": "Which of the following has lower first ionisation enthalpy than oxygen?",
+        "options": [
+            "Nitrogen",
+            "Fluorine",
+            "Sulfur",
+            "Neon"
+        ],
+        "answer": 0,
+        "explanation": "Nitrogen has half-filled p-orbitals, giving higher stability and higher IE than oxygen."
+    },
+    {
+        "id": 84,
+        "question": "Which of the following species has the maximum size?",
+        "options": [
+            "Cl−",
+            "K+",
+            "Ar",
+            "Ca2+"
+        ],
+        "answer": 0,
+        "explanation": "Cl− has lower nuclear charge per electron compared to other species, resulting in the largest radius."
+    },
+    {
+        "id": 85,
+        "question": "Which of the following elements has the highest electron gain enthalpy (most negative)?",
+        "options": [
+            "O",
+            "S",
+            "Cl",
+            "F"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine has the most negative electron gain enthalpy due to optimal atomic size."
+    },
+    {
+        "id": 86,
+        "question": "Which of the following groups shows the maximum variation in atomic size?",
+        "options": [
+            "Group 1",
+            "Group 2",
+            "Group 17",
+            "Group 18"
+        ],
+        "answer": 0,
+        "explanation": "Alkali metals show large increase in atomic size down the group."
+    },
+    {
+        "id": 87,
+        "question": "Which of the following oxides is amphoteric in nature?",
+        "options": [
+            "MgO",
+            "Al2O3",
+            "SiO2",
+            "Na2O"
+        ],
+        "answer": 1,
+        "explanation": "Al2O3 reacts with both acids and bases, showing amphoteric behaviour."
+    },
+    {
+        "id": 88,
+        "question": "Which of the following ions has the highest polarising power?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has the highest charge density, resulting in maximum polarising power."
+    },
+    {
+        "id": 89,
+        "question": "Which element shows maximum covalent character in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Covalent character increases across a period; silicon shows maximum."
+    },
+    {
+        "id": 90,
+        "question": "Which of the following has the lowest boiling point?",
+        "options": [
+            "He",
+            "Ne",
+            "Ar",
+            "Kr"
+        ],
+        "answer": 0,
+        "explanation": "Boiling point of noble gases increases down the group; helium has the lowest."
+    },
+    {
+        "id": 91,
+        "question": "Which of the following elements shows the highest non-metallic character?",
+        "options": [
+            "N",
+            "O",
+            "F",
+            "Cl"
+        ],
+        "answer": 2,
+        "explanation": "Fluorine has the highest electronegativity and non-metallic character."
+    },
+    {
+        "id": 92,
+        "question": "Which of the following pairs shows diagonal relationship?",
+        "options": [
+            "Li and Mg",
+            "Be and Al",
+            "B and Si",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Li-Mg, Be-Al and B-Si pairs show diagonal relationship."
+    },
+    {
+        "id": 93,
+        "question": "Which of the following elements has the maximum metallic character?",
+        "options": [
+            "Cs",
+            "Na",
+            "Li",
+            "K"
+        ],
+        "answer": 0,
+        "explanation": "Metallic character increases down the group; Cs is the most metallic."
+    },
+    {
+        "id": 94,
+        "question": "Which of the following ions has the smallest radius?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Si4+"
+        ],
+        "answer": 3,
+        "explanation": "Among isoelectronic ions, size decreases with increase in nuclear charge."
+    },
+    {
+        "id": 95,
+        "question": "Which element has the highest second ionisation enthalpy?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Na+ has noble gas configuration; removing another electron requires very high energy."
+    },
+    {
+        "id": 96,
+        "question": "Which of the following oxides is the most acidic?",
+        "options": [
+            "CO2",
+            "SO2",
+            "SO3",
+            "P2O5"
+        ],
+        "answer": 2,
+        "explanation": "SO3 is the anhydride of strong acid H2SO4."
+    },
+    {
+        "id": 97,
+        "question": "Which of the following elements has the highest density?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 3,
+        "explanation": "Density generally increases down the alkali metal group."
+    },
+    {
+        "id": 98,
+        "question": "Which of the following shows maximum shielding effect?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 3,
+        "explanation": "Shielding effect increases with number of inner shells."
+    },
+    {
+        "id": 99,
+        "question": "Which of the following elements forms the strongest basic oxide?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Na2O is the most basic oxide among given elements."
+    },
+    {
+        "id": 100,
+        "question": "Which of the following has the highest lattice energy?",
+        "options": [
+            "NaCl",
+            "KBr",
+            "MgO",
+            "CaF2"
+        ],
+        "answer": 2,
+        "explanation": "MgO has high ionic charge and small ionic size, giving maximum lattice energy."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following elements shows the least electronegativity?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 3,
+        "explanation": "Electronegativity decreases down the group; Rb is the least."
+    },
+    {
+        "id": 102,
+        "question": "Which of the following elements has the smallest atomic radius in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Si",
+            "Cl"
+        ],
+        "answer": 3,
+        "explanation": "Atomic radius decreases across the period; chlorine is smallest."
+    },
+    {
+        "id": 103,
+        "question": "Which of the following elements has the highest melting point?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Silicon has a giant covalent structure leading to very high melting point."
+    },
+    {
+        "id": 104,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Electron affinity decreases across a period",
+            "Atomic radius increases across a period",
+            "Ionisation enthalpy decreases down a group",
+            "Metallic character decreases down a group"
+        ],
+        "answer": 2,
+        "explanation": "Ionisation enthalpy decreases down a group due to increased atomic size."
+    },
+    {
+        "id": 105,
+        "question": "Which of the following elements has maximum electron affinity?",
+        "options": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine has slightly higher electron affinity than fluorine."
+    },
+    {
+        "id": 106,
+        "question": "Which of the following elements forms amphoteric hydroxide?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 2,
+        "explanation": "Al(OH)3 is amphoteric in nature."
+    },
+    {
+        "id": 107,
+        "question": "Which of the following ions is largest in size?",
+        "options": [
+            "F−",
+            "Cl−",
+            "Br−",
+            "I−"
+        ],
+        "answer": 3,
+        "explanation": "Ionic size increases down the halogen group."
+    },
+    {
+        "id": 108,
+        "question": "Which of the following elements has the highest ionisation enthalpy?",
+        "options": [
+            "He",
+            "Ne",
+            "Ar",
+            "Kr"
+        ],
+        "answer": 0,
+        "explanation": "Helium has the smallest size and highest effective nuclear charge."
+    },
+    {
+        "id": 109,
+        "question": "Which of the following oxides is neutral?",
+        "options": [
+            "CO",
+            "SO2",
+            "NO2",
+            "P2O5"
+        ],
+        "answer": 0,
+        "explanation": "CO is a neutral oxide."
+    },
+    {
+        "id": 110,
+        "question": "Which of the following has the greatest tendency to form cations?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Sodium has the lowest ionisation enthalpy."
+    },
+    {
+        "id": 111,
+        "question": "Which of the following shows the highest covalent character in its chloride?",
+        "options": [
+            "NaCl",
+            "MgCl2",
+            "AlCl3",
+            "SiCl4"
+        ],
+        "answer": 3,
+        "explanation": "SiCl4 is a covalent compound."
+    },
+    {
+        "id": 112,
+        "question": "Which element shows the strongest diagonal relationship with lithium?",
+        "options": [
+            "Be",
+            "Mg",
+            "Na",
+            "Al"
+        ],
+        "answer": 1,
+        "explanation": "Li and Mg show strong diagonal relationship."
+    },
+    {
+        "id": 113,
+        "question": "Which of the following has the maximum hydration enthalpy?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has the highest charge density."
+    },
+    {
+        "id": 114,
+        "question": "Which of the following elements shows the least basic oxide?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "SiO2 is acidic, hence least basic."
+    },
+    {
+        "id": 115,
+        "question": "Which of the following ions is isoelectronic with Ar?",
+        "options": [
+            "Cl−",
+            "K+",
+            "Ca2+",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All have 18 electrons, same as argon."
+    },
+    {
+        "id": 116,
+        "question": "Which of the following elements shows the highest shielding effect?",
+        "options": [
+            "Be",
+            "Mg",
+            "Ca",
+            "Sr"
+        ],
+        "answer": 3,
+        "explanation": "Shielding effect increases down the group."
+    },
+    {
+        "id": 117,
+        "question": "Which of the following elements has the highest boiling point?",
+        "options": [
+            "O2",
+            "N2",
+            "F2",
+            "Cl2"
+        ],
+        "answer": 3,
+        "explanation": "Boiling point of halogens increases down the group."
+    },
+    {
+        "id": 118,
+        "question": "Which of the following shows maximum non-metallic character in group 16?",
+        "options": [
+            "O",
+            "S",
+            "Se",
+            "Te"
+        ],
+        "answer": 0,
+        "explanation": "Non-metallic character decreases down the group."
+    },
+    {
+        "id": 119,
+        "question": "Which of the following elements has the highest density in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Density generally increases across the period."
+    },
+    {
+        "id": 120,
+        "question": "Which of the following best explains the decrease in atomic radius across a period?",
+        "options": [
+            "Increase in shielding effect",
+            "Decrease in nuclear charge",
+            "Increase in effective nuclear charge",
+            "Increase in atomic mass"
+        ],
+        "answer": 2,
+        "explanation": "Effective nuclear charge increases across a period, pulling electrons closer."
+    },
+    {
+        "id": 121,
+        "question": "Which of the following factors causes the anomalously low first ionisation enthalpy of oxygen compared to nitrogen?",
+        "options": [
+            "Smaller atomic size of oxygen",
+            "Higher electronegativity of oxygen",
+            "Electron-electron repulsion in paired p-orbitals",
+            "Lower nuclear charge of oxygen"
+        ],
+        "answer": 2,
+        "explanation": "Oxygen has paired electrons in one p-orbital causing repulsion, making electron removal easier than nitrogen."
+    },
+    {
+        "id": 122,
+        "question": "Which element shows the maximum jump between first and second ionisation enthalpy?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Na+ attains noble gas configuration after first ionisation, so second IE is extremely high."
+    },
+    {
+        "id": 123,
+        "question": "Which of the following species has the smallest radius?",
+        "options": [
+            "O2−",
+            "F−",
+            "Na+",
+            "Mg2+"
+        ],
+        "answer": 3,
+        "explanation": "Mg2+ has highest nuclear charge among isoelectronic species, giving smallest radius."
+    },
+    {
+        "id": 124,
+        "question": "Which of the following best explains the diagonal relationship between Li and Mg?",
+        "options": [
+            "Similar atomic masses",
+            "Similar electronegativity",
+            "Similar charge density of ions",
+            "Same valency"
+        ],
+        "answer": 2,
+        "explanation": "Li+ and Mg2+ have similar charge density leading to diagonal relationship."
+    },
+    {
+        "id": 125,
+        "question": "Which of the following elements has the highest electron affinity among group 16 elements?",
+        "options": [
+            "O",
+            "S",
+            "Se",
+            "Te"
+        ],
+        "answer": 1,
+        "explanation": "Sulfur has higher electron affinity than oxygen due to lower inter-electronic repulsion."
+    },
+    {
+        "id": 126,
+        "question": "Which of the following trends is correct for alkali metals down the group?",
+        "options": [
+            "Ionisation enthalpy increases",
+            "Atomic radius decreases",
+            "Hydration enthalpy decreases",
+            "Electronegativity increases"
+        ],
+        "answer": 2,
+        "explanation": "Hydration enthalpy decreases down the group due to increasing ionic size."
+    },
+    {
+        "id": 127,
+        "question": "Which of the following oxides shows both acidic and basic character?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 2,
+        "explanation": "Al2O3 reacts with both acids and bases, hence amphoteric."
+    },
+    {
+        "id": 128,
+        "question": "Which of the following ions has the highest polarising power according to Fajan’s rule?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Ca2+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has highest charge and smallest size, giving maximum polarising power."
+    },
+    {
+        "id": 129,
+        "question": "Which element shows the highest non-metallic character in period 3?",
+        "options": [
+            "P",
+            "S",
+            "Cl",
+            "Si"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine has highest electronegativity in period 3."
+    },
+    {
+        "id": 130,
+        "question": "Which of the following has the lowest melting point?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Sodium has weak metallic bonding compared to others."
+    },
+    {
+        "id": 131,
+        "question": "Which of the following species has zero electron affinity?",
+        "options": [
+            "N",
+            "O",
+            "Ne",
+            "F"
+        ],
+        "answer": 2,
+        "explanation": "Noble gases like neon have stable electronic configuration and zero electron affinity."
+    },
+    {
+        "id": 132,
+        "question": "Which of the following shows the highest covalent character in its chloride?",
+        "options": [
+            "NaCl",
+            "MgCl2",
+            "AlCl3",
+            "SiCl4"
+        ],
+        "answer": 3,
+        "explanation": "SiCl4 is purely covalent due to high polarising power of Si4+."
+    },
+    {
+        "id": 133,
+        "question": "Which of the following elements forms the strongest basic hydroxide?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 3,
+        "explanation": "Basicity of alkali metal hydroxides increases down the group."
+    },
+    {
+        "id": 134,
+        "question": "Which of the following ions has the highest hydration enthalpy?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "K+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has maximum charge density, giving highest hydration enthalpy."
+    },
+    {
+        "id": 135,
+        "question": "Which of the following best explains the decrease in electronegativity down a group?",
+        "options": [
+            "Increase in nuclear charge",
+            "Increase in atomic size",
+            "Increase in electron affinity",
+            "Decrease in shielding effect"
+        ],
+        "answer": 1,
+        "explanation": "Larger atomic size reduces attraction for bonding electrons."
+    },
+    {
+        "id": 136,
+        "question": "Which of the following elements shows maximum diagonal relationship with aluminium?",
+        "options": [
+            "Be",
+            "B",
+            "Ga",
+            "Mg"
+        ],
+        "answer": 0,
+        "explanation": "Be and Al show diagonal relationship due to similar charge density."
+    },
+    {
+        "id": 137,
+        "question": "Which of the following elements has the highest lattice energy in its oxide?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 2,
+        "explanation": "Al2O3 has high ionic charge and small ionic size, giving very high lattice energy."
+    },
+    {
+        "id": 138,
+        "question": "Which of the following ions is largest in size?",
+        "options": [
+            "F−",
+            "Cl−",
+            "Br−",
+            "I−"
+        ],
+        "answer": 3,
+        "explanation": "Ionic size increases down the halogen group."
+    },
+    {
+        "id": 139,
+        "question": "Which of the following elements has the highest ionisation enthalpy in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Ar"
+        ],
+        "answer": 3,
+        "explanation": "Noble gas argon has completely filled valence shell, giving highest IE."
+    },
+    {
+        "id": 140,
+        "question": "Which of the following oxides is most acidic?",
+        "options": [
+            "CO2",
+            "N2O5",
+            "SO3",
+            "P4O10"
+        ],
+        "answer": 2,
+        "explanation": "SO3 is the anhydride of strong acid H2SO4."
+    },
+    {
+        "id": 141,
+        "question": "Which of the following best explains the increase in metallic character down a group?",
+        "options": [
+            "Increase in electronegativity",
+            "Increase in ionisation enthalpy",
+            "Increase in atomic radius",
+            "Decrease in shielding effect"
+        ],
+        "answer": 2,
+        "explanation": "Larger atomic radius makes loss of electrons easier."
+    },
+    {
+        "id": 142,
+        "question": "Which of the following elements forms covalent hydrides most readily?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Silicon forms covalent hydrides like SiH4."
+    },
+    {
+        "id": 143,
+        "question": "Which of the following elements has the maximum shielding effect in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Cl"
+        ],
+        "answer": 0,
+        "explanation": "Shielding is nearly constant in a period; Na has slightly higher due to size."
+    },
+    {
+        "id": 144,
+        "question": "Which of the following elements has the highest density in group 1?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 3,
+        "explanation": "Density of alkali metals generally increases down the group."
+    },
+    {
+        "id": 145,
+        "question": "Which of the following elements shows maximum acidic character in its oxide?",
+        "options": [
+            "C",
+            "N",
+            "P",
+            "S"
+        ],
+        "answer": 3,
+        "explanation": "SO3 forms the strongest acid among given oxides."
+    },
+    {
+        "id": 146,
+        "question": "Which of the following has the smallest ionic radius?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Si4+"
+        ],
+        "answer": 3,
+        "explanation": "Higher nuclear charge causes strongest attraction, giving smallest size."
+    },
+    {
+        "id": 147,
+        "question": "Which of the following elements shows anomalous behaviour in group 2?",
+        "options": [
+            "Mg",
+            "Ca",
+            "Be",
+            "Sr"
+        ],
+        "answer": 2,
+        "explanation": "Be shows anomalous behaviour due to small size and high polarising power."
+    },
+    {
+        "id": 148,
+        "question": "Which of the following elements has the highest boiling point in group 17?",
+        "options": [
+            "F2",
+            "Cl2",
+            "Br2",
+            "I2"
+        ],
+        "answer": 3,
+        "explanation": "Boiling point increases down the halogen group due to stronger van der Waals forces."
+    },
+    {
+        "id": 149,
+        "question": "Which of the following oxides is neutral?",
+        "options": [
+            "CO",
+            "SO2",
+            "NO2",
+            "P2O5"
+        ],
+        "answer": 0,
+        "explanation": "CO is a neutral oxide."
+    },
+    {
+        "id": 150,
+        "question": "Which of the following ions is isoelectronic with Ne?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All species have 10 electrons like neon."
+    },
+    {
+        "id": 151,
+        "question": "Which of the following elements has the highest electron affinity in period 2?",
+        "options": [
+            "C",
+            "N",
+            "O",
+            "F"
+        ],
+        "answer": 3,
+        "explanation": "Fluorine has the highest electron affinity in period 2."
+    },
+    {
+        "id": 152,
+        "question": "Which of the following shows the strongest basic oxide?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 0,
+        "explanation": "Na2O is the most basic oxide."
+    },
+    {
+        "id": 153,
+        "question": "Which of the following elements shows maximum metallic character in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Metallic character decreases from left to right in a period."
+    },
+    {
+        "id": 154,
+        "question": "Which of the following factors most affects electron affinity?",
+        "options": [
+            "Atomic size",
+            "Shielding effect",
+            "Nuclear charge",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Electron affinity depends on atomic size, nuclear charge and shielding."
+    },
+    {
+        "id": 155,
+        "question": "Which of the following has the highest first ionisation enthalpy?",
+        "options": [
+            "Be",
+            "B",
+            "C",
+            "N"
+        ],
+        "answer": 3,
+        "explanation": "Nitrogen has stable half-filled p-orbitals."
+    },
+    {
+        "id": 156,
+        "question": "Which of the following ions has the lowest hydration enthalpy?",
+        "options": [
+            "Li+",
+            "Na+",
+            "K+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "Larger ionic size of K+ gives lowest hydration enthalpy."
+    },
+    {
+        "id": 157,
+        "question": "Which of the following elements shows maximum covalent character in group 14?",
+        "options": [
+            "C",
+            "Si",
+            "Ge",
+            "Sn"
+        ],
+        "answer": 0,
+        "explanation": "Covalent character decreases down the group; carbon shows maximum."
+    },
+    {
+        "id": 158,
+        "question": "Which of the following has the maximum lattice energy?",
+        "options": [
+            "NaCl",
+            "KCl",
+            "MgO",
+            "CaO"
+        ],
+        "answer": 2,
+        "explanation": "MgO has higher ionic charge and smaller ionic size."
+    },
+    {
+        "id": 159,
+        "question": "Which of the following best explains the periodic recurrence of properties?",
+        "options": [
+            "Atomic mass",
+            "Atomic number",
+            "Valency",
+            "Density"
+        ],
+        "answer": 1,
+        "explanation": "Electronic configuration repeats with increasing atomic number."
+    },
+    {
+        "id": 160,
+        "question": "Which of the following statements is correct?",
+        "options": [
+            "Electron affinity decreases across a period",
+            "Atomic radius increases across a period",
+            "Ionisation enthalpy decreases down a group",
+            "Metallic character increases across a period"
+        ],
+        "answer": 2,
+        "explanation": "Ionisation enthalpy decreases down a group due to increasing atomic size."
+    },
+    {
+        "id": 161,
+        "question": "Which of the following explains why fluorine has lower electron affinity than chlorine?",
+        "options": [
+            "Lower nuclear charge of fluorine",
+            "Smaller atomic size of fluorine",
+            "Greater inter-electronic repulsion in fluorine",
+            "Lower electronegativity of fluorine"
+        ],
+        "answer": 2,
+        "explanation": "Very small size of fluorine causes high electron-electron repulsion in compact 2p orbitals."
+    },
+    {
+        "id": 162,
+        "question": "Which element shows the maximum discontinuity in atomic radius within the same period?",
+        "options": [
+            "Be to B",
+            "Mg to Al",
+            "N to O",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "Filled or half-filled subshells cause irregular trends in atomic radius."
+    },
+    {
+        "id": 163,
+        "question": "Which of the following species has the smallest size?",
+        "options": [
+            "O2−",
+            "F−",
+            "Ne",
+            "Na+"
+        ],
+        "answer": 2,
+        "explanation": "Ne has the highest effective nuclear charge among these isoelectronic species."
+    },
+    {
+        "id": 164,
+        "question": "Which of the following factors mainly stabilises the noble gas configuration?",
+        "options": [
+            "Maximum atomic volume",
+            "Minimum nuclear charge",
+            "Fully filled valence shell",
+            "High density"
+        ],
+        "answer": 2,
+        "explanation": "A completely filled valence shell gives maximum stability."
+    },
+    {
+        "id": 165,
+        "question": "Which element of group 15 has the highest electron gain enthalpy?",
+        "options": [
+            "N",
+            "P",
+            "As",
+            "Sb"
+        ],
+        "answer": 1,
+        "explanation": "Phosphorus has more negative electron gain enthalpy than nitrogen due to lower repulsion."
+    },
+    {
+        "id": 166,
+        "question": "Which of the following trends is correct down group 2?",
+        "options": [
+            "Ionisation enthalpy increases",
+            "Atomic radius decreases",
+            "Basicity of hydroxides increases",
+            "Covalent character increases"
+        ],
+        "answer": 2,
+        "explanation": "Basicity of alkaline earth metal hydroxides increases down the group."
+    },
+    {
+        "id": 167,
+        "question": "Which oxide shows maximum amphoteric character?",
+        "options": [
+            "BeO",
+            "MgO",
+            "Al2O3",
+            "ZnO"
+        ],
+        "answer": 3,
+        "explanation": "ZnO shows strong amphoteric behaviour among given oxides."
+    },
+    {
+        "id": 168,
+        "question": "Which ion has the maximum polarising power?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Be2+"
+        ],
+        "answer": 2,
+        "explanation": "Al3+ has highest charge density among given ions."
+    },
+    {
+        "id": 169,
+        "question": "Which of the following elements shows maximum metallic character in period 4?",
+        "options": [
+            "K",
+            "Ca",
+            "Sc",
+            "Ti"
+        ],
+        "answer": 0,
+        "explanation": "Metallic character decreases from left to right; potassium is most metallic."
+    },
+    {
+        "id": 170,
+        "question": "Which of the following has the lowest hydration enthalpy?",
+        "options": [
+            "Li+",
+            "Na+",
+            "K+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "K+ has the largest size and hence lowest hydration enthalpy."
+    },
+    {
+        "id": 171,
+        "question": "Which of the following has the highest ionisation enthalpy in period 2?",
+        "options": [
+            "B",
+            "C",
+            "N",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "Nitrogen has half-filled p-orbitals giving extra stability."
+    },
+    {
+        "id": 172,
+        "question": "Which of the following elements forms the most acidic oxide?",
+        "options": [
+            "C",
+            "N",
+            "S",
+            "P"
+        ],
+        "answer": 2,
+        "explanation": "SO3 forms H2SO4, a strong acid."
+    },
+    {
+        "id": 173,
+        "question": "Which of the following species is isoelectronic with Ar?",
+        "options": [
+            "Cl−",
+            "K+",
+            "Ca2+",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "All species contain 18 electrons like argon."
+    },
+    {
+        "id": 174,
+        "question": "Which element shows the greatest deviation from periodic trend of ionisation enthalpy?",
+        "options": [
+            "B",
+            "O",
+            "Al",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "B, O and Al show exceptions due to subshell stability effects."
+    },
+    {
+        "id": 175,
+        "question": "Which element has the highest atomic radius in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 0,
+        "explanation": "Atomic radius decreases across a period; sodium is largest."
+    },
+    {
+        "id": 176,
+        "question": "Which of the following elements shows maximum non-metallic character in group 17?",
+        "options": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ],
+        "answer": 0,
+        "explanation": "Fluorine has the highest electronegativity."
+    },
+    {
+        "id": 177,
+        "question": "Which of the following ions has the greatest charge density?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Be2+"
+        ],
+        "answer": 3,
+        "explanation": "Be2+ has very small size leading to very high charge density."
+    },
+    {
+        "id": 178,
+        "question": "Which oxide is the least basic?",
+        "options": [
+            "Na2O",
+            "MgO",
+            "Al2O3",
+            "SiO2"
+        ],
+        "answer": 3,
+        "explanation": "SiO2 is acidic and hence least basic."
+    },
+    {
+        "id": 179,
+        "question": "Which of the following shows maximum lattice energy?",
+        "options": [
+            "NaCl",
+            "MgO",
+            "CaF2",
+            "KBr"
+        ],
+        "answer": 1,
+        "explanation": "MgO has high ionic charge and small ionic size."
+    },
+    {
+        "id": 180,
+        "question": "Which of the following elements has the highest density in period 4?",
+        "options": [
+            "K",
+            "Ca",
+            "Sc",
+            "Zn"
+        ],
+        "answer": 3,
+        "explanation": "Density generally increases across the period; Zn is highest among given."
+    },
+    {
+        "id": 181,
+        "question": "Which of the following best explains the periodic law?",
+        "options": [
+            "Properties depend on atomic mass",
+            "Properties depend on atomic number",
+            "Properties depend on atomic volume",
+            "Properties depend on density"
+        ],
+        "answer": 1,
+        "explanation": "Modern periodic law states properties are periodic functions of atomic number."
+    },
+    {
+        "id": 182,
+        "question": "Which of the following elements has the highest melting point in period 3?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Silicon has a giant covalent network."
+    },
+    {
+        "id": 183,
+        "question": "Which of the following elements forms the weakest base in group 1?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 0,
+        "explanation": "LiOH is least basic due to high polarising power of Li+."
+    },
+    {
+        "id": 184,
+        "question": "Which element shows maximum diagonal relationship with silicon?",
+        "options": [
+            "Al",
+            "B",
+            "C",
+            "P"
+        ],
+        "answer": 1,
+        "explanation": "B and Si show diagonal relationship."
+    },
+    {
+        "id": 185,
+        "question": "Which of the following has the highest electron affinity?",
+        "options": [
+            "F",
+            "Cl",
+            "Br",
+            "I"
+        ],
+        "answer": 1,
+        "explanation": "Chlorine has slightly higher electron affinity than fluorine."
+    },
+    {
+        "id": 186,
+        "question": "Which of the following shows the strongest reducing nature in aqueous solution?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Rb"
+        ],
+        "answer": 0,
+        "explanation": "Li has very high hydration enthalpy, making it strongest reducing agent."
+    },
+    {
+        "id": 187,
+        "question": "Which of the following elements forms covalent hydrides?",
+        "options": [
+            "Na",
+            "Mg",
+            "Al",
+            "Si"
+        ],
+        "answer": 3,
+        "explanation": "Silicon forms covalent hydrides such as SiH4."
+    },
+    {
+        "id": 188,
+        "question": "Which ion has the smallest hydration enthalpy?",
+        "options": [
+            "Li+",
+            "Na+",
+            "K+",
+            "Mg2+"
+        ],
+        "answer": 2,
+        "explanation": "K+ has the largest size among given ions."
+    },
+    {
+        "id": 189,
+        "question": "Which element shows maximum acidic character in group 16?",
+        "options": [
+            "O",
+            "S",
+            "Se",
+            "Te"
+        ],
+        "answer": 0,
+        "explanation": "Non-metallic character decreases down the group; oxygen is most acidic."
+    },
+    {
+        "id": 190,
+        "question": "Which of the following oxides is neutral?",
+        "options": [
+            "CO",
+            "SO2",
+            "NO2",
+            "P2O5"
+        ],
+        "answer": 0,
+        "explanation": "CO is a neutral oxide."
+    },
+    {
+        "id": 191,
+        "question": "Which of the following elements has the lowest electronegativity?",
+        "options": [
+            "Li",
+            "Na",
+            "K",
+            "Cs"
+        ],
+        "answer": 3,
+        "explanation": "Electronegativity decreases down the group."
+    },
+    {
+        "id": 192,
+        "question": "Which of the following elements has the highest ionisation enthalpy?",
+        "options": [
+            "He",
+            "Ne",
+            "Ar",
+            "Kr"
+        ],
+        "answer": 0,
+        "explanation": "Helium has the smallest size and highest effective nuclear charge."
+    },
+    {
+        "id": 193,
+        "question": "Which of the following ions is largest in size?",
+        "options": [
+            "Na+",
+            "Mg2+",
+            "Al3+",
+            "Si4+"
+        ],
+        "answer": 0,
+        "explanation": "Na+ has lowest nuclear charge among these isoelectronic ions."
+    },
+    {
+        "id": 194,
+        "question": "Which element shows maximum covalent character in group 13?",
+        "options": [
+            "B",
+            "Al",
+            "Ga",
+            "In"
+        ],
+        "answer": 0,
+        "explanation": "Covalent character decreases down the group."
+    },
+    {
+        "id": 195,
+        "question": "Which of the following has the highest boiling point among noble gases?",
+        "options": [
+            "Ne",
+            "Ar",
+            "Kr",
+            "Xe"
+        ],
+        "answer": 3,
+        "explanation": "Boiling point increases down the noble gas group."
+    },
+    {
+        "id": 196,
+        "question": "Which factor is mainly responsible for diagonal relationship?",
+        "options": [
+            "Same valency",
+            "Similar atomic size",
+            "Similar charge density",
+            "Same atomic mass"
+        ],
+        "answer": 3,
+        "explanation": "Diagonal relationship arises mainly due to similar charge density."
+    },
+    {
+        "id": 197,
+        "question": "Which element has the highest hydration enthalpy?",
+        "options": [
+            "Li+",
+            "Na+",
+            "K+",
+            "Rb+"
+        ],
+        "answer": 0,
+        "explanation": "Li+ has smallest size and hence highest hydration enthalpy."
+    },
+    {
+        "id": 198,
+        "question": "Which oxide has the strongest acidic nature?",
+        "options": [
+            "CO2",
+            "SO2",
+            "SO3",
+            "N2O5"
+        ],
+        "answer": 2,
+        "explanation": "SO3 is the anhydride of strong acid H2SO4."
+    },
+    {
+        "id": 199,
+        "question": "Which element shows the greatest tendency to form anions?",
+        "options": [
+            "O",
+            "S",
+            "Cl",
+            "F"
+        ],
+        "answer": 2,
+        "explanation": "Chlorine has the highest electron affinity."
+    },
+    {
+        "id": 200,
+        "question": "Which of the following best explains the cause of periodicity?",
+        "options": [
+            "Atomic mass",
+            "Atomic number",
+            "Valence electrons",
+            "Nuclear charge"
+        ],
+        "answer": 2,
+        "explanation": "Repetition of valence shell electronic configuration causes periodicity."
+    }
+]

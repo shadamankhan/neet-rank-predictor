@@ -1,0 +1,6002 @@
+[
+    {
+        "id": 1,
+        "question": "Who proposed the laws of inheritance based on experiments on Pisum sativum?",
+        "options": [
+            "Charles Darwin",
+            "Gregor Mendel",
+            "Hugo de Vries",
+            "Thomas Hunt Morgan"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel proposed laws of inheritance using pea plant experiments."
+    },
+    {
+        "id": 2,
+        "question": "The plant selected by Mendel for his experiments was",
+        "options": [
+            "Zea mays",
+            "Pisum sativum",
+            "Phaseolus vulgaris",
+            "Lathyrus odoratus"
+        ],
+        "answer": 1,
+        "explanation": "NCERT specifies Pisum sativum (garden pea)."
+    },
+    {
+        "id": 3,
+        "question": "Which of the following characters in pea plant has contrasting traits studied by Mendel?",
+        "options": [
+            "Seed shape",
+            "Leaf arrangement",
+            "Flower position",
+            "Stem anatomy"
+        ],
+        "answer": 0,
+        "explanation": "Seed shape (round/wrinkled) is a Mendelian contrasting trait."
+    },
+    {
+        "id": 4,
+        "question": "Round seed shape in pea is due to presence of",
+        "options": [
+            "More starch",
+            "Less starch",
+            "More sucrose",
+            "Absence of starch"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states round seeds have more starch."
+    },
+    {
+        "id": 5,
+        "question": "Wrinkled seed shape in pea results from",
+        "options": [
+            "Incomplete dominance",
+            "Recessive allele affecting starch synthesis",
+            "Codominance",
+            "Mutation in flower colour gene"
+        ],
+        "answer": 1,
+        "explanation": "Wrinkled seeds have less starch due to recessive allele."
+    },
+    {
+        "id": 6,
+        "question": "In Mendel’s monohybrid cross, the phenotypic ratio in F2 generation is",
+        "options": [
+            "1:2:1",
+            "3:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT gives 3:1 phenotypic ratio for monohybrid cross."
+    },
+    {
+        "id": 7,
+        "question": "The genotypic ratio in F2 generation of a monohybrid cross is",
+        "options": [
+            "3:1",
+            "1:1",
+            "1:2:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states genotypic ratio is 1:2:1."
+    },
+    {
+        "id": 8,
+        "question": "The law of segregation states that",
+        "options": [
+            "Alleles blend together",
+            "Factors remain together",
+            "Alleles separate during gamete formation",
+            "Genes assort independently always"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines segregation as separation of alleles during gamete formation."
+    },
+    {
+        "id": 9,
+        "question": "Which Mendelian law is also known as purity of gametes?",
+        "options": [
+            "Law of dominance",
+            "Law of segregation",
+            "Law of independent assortment",
+            "Law of linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT equates law of segregation with purity of gametes."
+    },
+    {
+        "id": 10,
+        "question": "The F1 generation of a monohybrid cross is",
+        "options": [
+            "Homozygous",
+            "Heterozygous",
+            "Both homozygous and heterozygous",
+            "Hemizygous"
+        ],
+        "answer": 1,
+        "explanation": "F1 individuals are heterozygous as per NCERT."
+    },
+    {
+        "id": 11,
+        "question": "In a dihybrid cross, the phenotypic ratio in F2 generation is",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "27:9:9:9"
+        ],
+        "answer": 2,
+        "explanation": "NCERT gives 9:3:3:1 ratio for dihybrid cross."
+    },
+    {
+        "id": 12,
+        "question": "Law of independent assortment applies when genes are",
+        "options": [
+            "Linked",
+            "On same chromosome",
+            "On different chromosomes",
+            "Always dominant"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states independent assortment applies to genes on different chromosomes."
+    },
+    {
+        "id": 13,
+        "question": "Which Mendelian law explains the 9:3:3:1 ratio?",
+        "options": [
+            "Law of dominance",
+            "Law of segregation",
+            "Law of independent assortment",
+            "Law of linkage"
+        ],
+        "answer": 2,
+        "explanation": "Independent assortment leads to 9:3:3:1 ratio."
+    },
+    {
+        "id": 14,
+        "question": "Tallness in pea plant is",
+        "options": [
+            "Recessive over dwarfness",
+            "Dominant over dwarfness",
+            "Codominant",
+            "Incomplete dominant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states tallness is dominant over dwarfness."
+    },
+    {
+        "id": 15,
+        "question": "A heterozygous tall pea plant is represented as",
+        "options": [
+            "TT",
+            "tt",
+            "Tt",
+            "tTt"
+        ],
+        "answer": 2,
+        "explanation": "Heterozygous genotype is Tt."
+    },
+    {
+        "id": 16,
+        "question": "The allele which expresses itself in heterozygous condition is called",
+        "options": [
+            "Recessive",
+            "Lethal",
+            "Dominant",
+            "Incomplete"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines dominant allele as expressing in heterozygote."
+    },
+    {
+        "id": 17,
+        "question": "The alternative form of a gene is called",
+        "options": [
+            "Chromosome",
+            "Allele",
+            "Genome",
+            "Factorial"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses the term allele for alternative gene forms."
+    },
+    {
+        "id": 18,
+        "question": "Mendel published his findings in the year",
+        "options": [
+            "1859",
+            "1865",
+            "1900",
+            "1866"
+        ],
+        "answer": 1,
+        "explanation": "NCERT mentions Mendel presented results in 1865."
+    },
+    {
+        "id": 19,
+        "question": "Why was Mendel’s work not recognised immediately?",
+        "options": [
+            "Wrong conclusions",
+            "Use of wrong organism",
+            "Lack of mathematical analysis acceptance",
+            "Absence of microscope"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states lack of appreciation for statistical analysis delayed recognition."
+    },
+    {
+        "id": 20,
+        "question": "Which concept was introduced by Mendel to explain inheritance?",
+        "options": [
+            "Chromosomes",
+            "Factors",
+            "DNA",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel proposed particulate factors."
+    },
+    {
+        "id": 21,
+        "question": "Incomplete dominance is observed when",
+        "options": [
+            "One allele masks other",
+            "Both alleles express fully",
+            "Phenotype is intermediate",
+            "Genes assort independently"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines incomplete dominance as intermediate phenotype."
+    },
+    {
+        "id": 22,
+        "question": "Which plant shows incomplete dominance according to NCERT?",
+        "options": [
+            "Pea",
+            "Snapdragon",
+            "Maize",
+            "Rice"
+        ],
+        "answer": 1,
+        "explanation": "NCERT example of incomplete dominance is Antirrhinum (snapdragon)."
+    },
+    {
+        "id": 23,
+        "question": "In incomplete dominance, the F2 phenotypic ratio is",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT gives 1:2:1 phenotypic ratio."
+    },
+    {
+        "id": 24,
+        "question": "Codominance refers to",
+        "options": [
+            "Intermediate expression",
+            "One allele dominating",
+            "Both alleles expressing equally",
+            "Recessive lethal allele"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines codominance as equal expression of both alleles."
+    },
+    {
+        "id": 25,
+        "question": "An example of codominance in humans is",
+        "options": [
+            "Sickle cell anaemia",
+            "AB blood group",
+            "Colour blindness",
+            "Haemophilia"
+        ],
+        "answer": 1,
+        "explanation": "NCERT cites AB blood group as codominance."
+    },
+    {
+        "id": 26,
+        "question": "The ABO blood group system is controlled by",
+        "options": [
+            "Two alleles",
+            "Three alleles",
+            "Four alleles",
+            "Polygenes"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ABO blood group is controlled by three alleles."
+    },
+    {
+        "id": 27,
+        "question": "Multiple alleles refer to",
+        "options": [
+            "More than two genes",
+            "More than two alleles for a gene",
+            "Linked genes",
+            "Polygenic inheritance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines multiple alleles as more than two alleles of a gene."
+    },
+    {
+        "id": 28,
+        "question": "Which blood group genotype produces blood group O?",
+        "options": [
+            "IAIB",
+            "IAi",
+            "IBi",
+            "ii"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states blood group O has genotype ii."
+    },
+    {
+        "id": 29,
+        "question": "Polygenic inheritance involves",
+        "options": [
+            "Single gene",
+            "Two genes",
+            "Many genes",
+            "Only linked genes"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines polygenic inheritance as involvement of many genes."
+    },
+    {
+        "id": 30,
+        "question": "Human skin colour is an example of",
+        "options": [
+            "Monogenic inheritance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Multiple allelism"
+        ],
+        "answer": 2,
+        "explanation": "NCERT cites skin colour as polygenic."
+    },
+    {
+        "id": 31,
+        "question": "Pleiotropy means",
+        "options": [
+            "One gene affecting multiple traits",
+            "Multiple genes affecting one trait",
+            "Linked genes",
+            "Multiple alleles"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines pleiotropy as one gene influencing multiple traits."
+    },
+    {
+        "id": 32,
+        "question": "Sickle cell anaemia is caused due to",
+        "options": [
+            "Deletion mutation",
+            "Frameshift mutation",
+            "Substitution mutation",
+            "Duplication mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia results from substitution of amino acid."
+    },
+    {
+        "id": 33,
+        "question": "The genotype for sickle cell trait is",
+        "options": [
+            "HbAHbA",
+            "HbSHbS",
+            "HbAHbS",
+            "HbA HbC"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states heterozygous HbAHbS shows sickle cell trait."
+    },
+    {
+        "id": 34,
+        "question": "Linkage refers to",
+        "options": [
+            "Independent assortment",
+            "Association of genes on same chromosome",
+            "Gene mutation",
+            "Crossing over"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines linkage as genes located on same chromosome."
+    },
+    {
+        "id": 35,
+        "question": "Who proposed the chromosomal theory of inheritance?",
+        "options": [
+            "Mendel",
+            "Sutton and Boveri",
+            "Morgan",
+            "Watson and Crick"
+        ],
+        "answer": 1,
+        "explanation": "NCERT credits Sutton and Boveri."
+    },
+    {
+        "id": 36,
+        "question": "Linkage reduces",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Segregation",
+            "Fertilisation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage reduces recombination."
+    },
+    {
+        "id": 37,
+        "question": "Crossing over occurs during",
+        "options": [
+            "Mitotic prophase",
+            "Meiotic prophase I",
+            "Metaphase II",
+            "Anaphase I"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over occurs in pachytene of prophase I."
+    },
+    {
+        "id": 38,
+        "question": "Recombination frequency is directly proportional to",
+        "options": [
+            "Gene size",
+            "Distance between genes",
+            "Number of alleles",
+            "Dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states recombination frequency depends on distance between genes."
+    },
+    {
+        "id": 39,
+        "question": "Test cross is used to determine",
+        "options": [
+            "Dominance",
+            "Genotype of individual",
+            "Linkage",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines test cross for determining genotype."
+    },
+    {
+        "id": 40,
+        "question": "A test cross involves crossing with",
+        "options": [
+            "Homozygous dominant",
+            "Heterozygous",
+            "Homozygous recessive",
+            "Any genotype"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states test cross uses homozygous recessive individual."
+    },
+    {
+        "id": 41,
+        "question": "Sex determination in humans follows",
+        "options": [
+            "ZW type",
+            "XO type",
+            "XY type",
+            "Haplodiploid type"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states humans have XY type sex determination."
+    },
+    {
+        "id": 42,
+        "question": "The sex chromosome present in human female is",
+        "options": [
+            "XX",
+            "XY",
+            "XO",
+            "ZZ"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states human females are XX."
+    },
+    {
+        "id": 43,
+        "question": "Colour blindness is an example of",
+        "options": [
+            "Autosomal recessive",
+            "Autosomal dominant",
+            "X-linked recessive",
+            "Y-linked"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states colour blindness is X-linked recessive."
+    },
+    {
+        "id": 44,
+        "question": "Haemophilia is inherited as",
+        "options": [
+            "Autosomal dominant",
+            "Autosomal recessive",
+            "X-linked recessive",
+            "Polygenic"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states haemophilia is X-linked recessive."
+    },
+    {
+        "id": 45,
+        "question": "Y-linked traits are passed from",
+        "options": [
+            "Mother to daughter",
+            "Father to daughter",
+            "Father to son",
+            "Mother to son"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Y-linked traits transmit from father to son."
+    },
+    {
+        "id": 46,
+        "question": "Mutation refers to",
+        "options": [
+            "Change in behaviour",
+            "Change in gene",
+            "Change in chromosome number only",
+            "Crossing over"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines mutation as change in gene."
+    },
+    {
+        "id": 47,
+        "question": "Down’s syndrome is caused due to",
+        "options": [
+            "Deletion",
+            "Trisomy of chromosome 21",
+            "Monosomy",
+            "Polyploidy"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Down’s syndrome is trisomy 21."
+    },
+    {
+        "id": 48,
+        "question": "Turner’s syndrome has chromosome complement",
+        "options": [
+            "44 + XX",
+            "44 + XO",
+            "44 + XY",
+            "45 + XY"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome is 44 + XO."
+    },
+    {
+        "id": 49,
+        "question": "Klinefelter’s syndrome individuals are",
+        "options": [
+            "44 + XX",
+            "44 + XO",
+            "44 + XY",
+            "44 + XXY"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states Klinefelter’s syndrome is 44 + XXY."
+    },
+    {
+        "id": 50,
+        "question": "A mutation affecting chromosome number is called",
+        "options": [
+            "Gene mutation",
+            "Point mutation",
+            "Chromosomal aberration",
+            "Frame shift"
+        ],
+        "answer": 2,
+        "explanation": "NCERT classifies numerical changes as chromosomal aberrations."
+    },
+    {
+        "id": 51,
+        "question": "Genetic disorders caused by gene mutation include",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Sickle cell anaemia",
+            "Klinefelter’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia is a gene mutation disorder."
+    },
+    {
+        "id": 52,
+        "question": "Autosomal dominant disorders include",
+        "options": [
+            "Sickle cell anaemia",
+            "Colour blindness",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists Huntington’s disease as autosomal dominant."
+    },
+    {
+        "id": 53,
+        "question": "Phenylketonuria is inherited as",
+        "options": [
+            "Autosomal dominant",
+            "Autosomal recessive",
+            "X-linked recessive",
+            "Y-linked"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states phenylketonuria is autosomal recessive."
+    },
+    {
+        "id": 54,
+        "question": "Which disorder results from absence of clotting factor VIII?",
+        "options": [
+            "Thalassemia",
+            "Haemophilia A",
+            "Sickle cell anaemia",
+            "Colour blindness"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states haemophilia A lacks factor VIII."
+    },
+    {
+        "id": 55,
+        "question": "Which blood group is universal donor?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states blood group O is universal donor."
+    },
+    {
+        "id": 56,
+        "question": "Which blood group is universal recipient?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states AB blood group is universal recipient."
+    },
+    {
+        "id": 57,
+        "question": "Genetic mapping is based on",
+        "options": [
+            "Dominance",
+            "Linkage",
+            "Recombination frequency",
+            "Mutation rate"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states mapping uses recombination frequency."
+    },
+    {
+        "id": 58,
+        "question": "Morgan worked extensively on",
+        "options": [
+            "Pea",
+            "Maize",
+            "Drosophila",
+            "Antirrhinum"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Morgan used Drosophila melanogaster."
+    },
+    {
+        "id": 59,
+        "question": "White eye mutation in Drosophila is",
+        "options": [
+            "Autosomal",
+            "X-linked",
+            "Y-linked",
+            "Polygenic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states white eye is X-linked."
+    },
+    {
+        "id": 60,
+        "question": "The term gene was coined by",
+        "options": [
+            "Mendel",
+            "Johannsen",
+            "Morgan",
+            "Darwin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Johannsen coined the term gene."
+    },
+    {
+        "id": 61,
+        "question": "True breeding line refers to",
+        "options": [
+            "Hybrid",
+            "Heterozygous",
+            "Homozygous",
+            "Recombinant"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines true breeding as homozygous."
+    },
+    {
+        "id": 62,
+        "question": "Back cross involves crossing F1 with",
+        "options": [
+            "Parent",
+            "Recessive parent only",
+            "Dominant parent only",
+            "F2"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines back cross as crossing F1 with either parent."
+    },
+    {
+        "id": 63,
+        "question": "Phenotype refers to",
+        "options": [
+            "Genetic makeup",
+            "Observable traits",
+            "DNA sequence",
+            "Allele composition"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines phenotype as observable traits."
+    },
+    {
+        "id": 64,
+        "question": "Genotype refers to",
+        "options": [
+            "Observable characters",
+            "Environmental effect",
+            "Genetic constitution",
+            "Morphology"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines genotype as genetic constitution."
+    },
+    {
+        "id": 65,
+        "question": "Punnett square is used to predict",
+        "options": [
+            "Mutation",
+            "Recombination",
+            "Genotypic ratios",
+            "Crossing over"
+        ],
+        "answer": 2,
+        "explanation": "NCERT uses Punnett square for predicting genotypes."
+    },
+    {
+        "id": 66,
+        "question": "Dominance was explained by Mendel based on",
+        "options": [
+            "Blending inheritance",
+            "Particulate inheritance",
+            "Chromosomal theory",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel proposed particulate inheritance."
+    },
+    {
+        "id": 67,
+        "question": "In Mendel’s experiment, which trait is dominant?",
+        "options": [
+            "Green seed colour",
+            "Wrinkled seed",
+            "Dwarf plant",
+            "Round seed"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states round seed is dominant."
+    },
+    {
+        "id": 68,
+        "question": "Which ratio indicates incomplete dominance?",
+        "options": [
+            "3:1",
+            "9:3:3:1",
+            "1:2:1",
+            "1:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT associates 1:2:1 with incomplete dominance."
+    },
+    {
+        "id": 69,
+        "question": "Inheritance of two traits simultaneously is studied in",
+        "options": [
+            "Monohybrid cross",
+            "Dihybrid cross",
+            "Back cross",
+            "Test cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines dihybrid cross for two traits."
+    },
+    {
+        "id": 70,
+        "question": "Which Mendelian ratio disproved blending inheritance?",
+        "options": [
+            "1:2:1",
+            "3:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states 1:2:1 genotypic ratio disproved blending inheritance."
+    },
+    {
+        "id": 71,
+        "question": "Genes located on same chromosome tend to be",
+        "options": [
+            "Independent",
+            "Linked",
+            "Always recessive",
+            "Always dominant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states genes on same chromosome show linkage."
+    },
+    {
+        "id": 72,
+        "question": "More the distance between genes, the greater is",
+        "options": [
+            "Linkage",
+            "Mutation",
+            "Recombination",
+            "Dominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states recombination increases with distance."
+    },
+    {
+        "id": 73,
+        "question": "Which disorder shows pleiotropic effect?",
+        "options": [
+            "Down’s syndrome",
+            "Phenylketonuria",
+            "Sickle cell anaemia",
+            "Colour blindness"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia shows pleiotropy."
+    },
+    {
+        "id": 74,
+        "question": "Which blood group allele is recessive?",
+        "options": [
+            "IA",
+            "IB",
+            "i",
+            "IA and IB"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states i allele is recessive."
+    },
+    {
+        "id": 75,
+        "question": "The phenomenon where heterozygote resembles both parents is",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Dominance",
+            "Polygenic inheritance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines codominance."
+    },
+    {
+        "id": 76,
+        "question": "Which is not a Mendelian inheritance pattern?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states linkage deviates from Mendelian inheritance."
+    },
+    {
+        "id": 77,
+        "question": "Which cross gives maximum recombinants?",
+        "options": [
+            "Linked genes",
+            "Unlinked genes",
+            "Sex-linked genes",
+            "Lethal genes"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states unlinked genes show maximum recombination."
+    },
+    {
+        "id": 78,
+        "question": "Which syndrome results in sterile male with feminine traits?",
+        "options": [
+            "Turner’s",
+            "Down’s",
+            "Klinefelter’s",
+            "Patau"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Klinefelter’s syndrome males are sterile."
+    },
+    {
+        "id": 79,
+        "question": "Autosomal recessive disorders require",
+        "options": [
+            "One recessive allele",
+            "Two recessive alleles",
+            "One dominant allele",
+            "Polygenes"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states autosomal recessive requires homozygous recessive."
+    },
+    {
+        "id": 80,
+        "question": "Which technique helps determine genotype of dominant phenotype?",
+        "options": [
+            "Back cross",
+            "Test cross",
+            "Dihybrid cross",
+            "Selfing"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states test cross reveals genotype."
+    },
+    {
+        "id": 81,
+        "question": "Which ratio is expected in a test cross of a monohybrid?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "1:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states test cross gives 1:1 ratio."
+    },
+    {
+        "id": 82,
+        "question": "Which Mendelian law is universal?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states law of segregation is universal."
+    },
+    {
+        "id": 83,
+        "question": "Which trait did Mendel not study?",
+        "options": [
+            "Seed colour",
+            "Flower colour",
+            "Seed shape",
+            "Leaf shape"
+        ],
+        "answer": 3,
+        "explanation": "NCERT lists seven traits; leaf shape is not included."
+    },
+    {
+        "id": 84,
+        "question": "Inheritance of ABO blood group shows",
+        "options": [
+            "Dominance only",
+            "Codominance and multiple alleles",
+            "Polygenic inheritance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ABO shows codominance and multiple alleles."
+    },
+    {
+        "id": 85,
+        "question": "A carrier of X-linked recessive disorder is",
+        "options": [
+            "Affected male",
+            "Affected female",
+            "Heterozygous female",
+            "Homozygous female"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states carrier is heterozygous female."
+    },
+    {
+        "id": 86,
+        "question": "Which condition shows lethal allele effect?",
+        "options": [
+            "Homozygous dominant",
+            "Heterozygous",
+            "Homozygous recessive",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states lethal alleles often express in homozygous condition."
+    },
+    {
+        "id": 87,
+        "question": "Which ratio indicates polygenic inheritance?",
+        "options": [
+            "Discrete ratios",
+            "Continuous variation",
+            "3:1",
+            "9:3:3:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic traits show continuous variation."
+    },
+    {
+        "id": 88,
+        "question": "Which Mendelian concept explains presence of recessive trait in F2?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation explains reappearance of recessive trait."
+    },
+    {
+        "id": 89,
+        "question": "Which disorder is sex-linked?",
+        "options": [
+            "Phenylketonuria",
+            "Huntington’s disease",
+            "Haemophilia",
+            "Thalassemia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states haemophilia is sex-linked."
+    },
+    {
+        "id": 90,
+        "question": "Which chromosome determines sex in humans?",
+        "options": [
+            "X",
+            "Y",
+            "Autosome 1",
+            "Autosome 21"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Y chromosome determines maleness."
+    },
+    {
+        "id": 91,
+        "question": "Mutation that changes reading frame is",
+        "options": [
+            "Substitution",
+            "Insertion",
+            "Deletion",
+            "Insertion or deletion"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states insertion or deletion causes frameshift."
+    },
+    {
+        "id": 92,
+        "question": "Which inheritance pattern does thalassemia show?",
+        "options": [
+            "Autosomal dominant",
+            "Autosomal recessive",
+            "X-linked",
+            "Polygenic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states thalassemia is autosomal recessive."
+    },
+    {
+        "id": 93,
+        "question": "Which chromosome abnormality causes Down’s syndrome?",
+        "options": [
+            "Monosomy",
+            "Trisomy",
+            "Polyploidy",
+            "Deletion"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Down’s syndrome is trisomy."
+    },
+    {
+        "id": 94,
+        "question": "Which process ensures variation in offspring?",
+        "options": [
+            "Mitosis",
+            "Segregation",
+            "Crossing over",
+            "Binary fission"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over produces variation."
+    },
+    {
+        "id": 95,
+        "question": "Which statement is correct for Mendel’s factors?",
+        "options": [
+            "They blend",
+            "They segregate",
+            "They disappear",
+            "They mutate"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states factors segregate."
+    },
+    {
+        "id": 96,
+        "question": "Which inheritance deviates from Mendelian ratios?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states all deviate from simple Mendelian ratios."
+    },
+    {
+        "id": 97,
+        "question": "Which ratio indicates codominance in F2?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states codominance gives 1:2:1 ratio."
+    },
+    {
+        "id": 98,
+        "question": "Which genetic disorder is due to point mutation?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Sickle cell anaemia",
+            "Klinefelter’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia is point mutation."
+    },
+    {
+        "id": 99,
+        "question": "Which concept explains deviation from independent assortment?",
+        "options": [
+            "Dominance",
+            "Linkage",
+            "Segregation",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage causes deviation."
+    },
+    {
+        "id": 100,
+        "question": "Mendel’s work was rediscovered in",
+        "options": [
+            "1865",
+            "1900",
+            "1910",
+            "1920"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel’s work was rediscovered in 1900."
+    },
+    {
+        "id": 101,
+        "question": "Which of the following best explains Mendel’s concept of unit factors?",
+        "options": [
+            "Genes are continuous",
+            "Traits are controlled by discrete units",
+            "Traits are influenced only by environment",
+            "Characters are inherited as blends"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states inheritance is particulate, controlled by discrete factors."
+    },
+    {
+        "id": 102,
+        "question": "In a monohybrid cross, the ratio 1:2:1 represents",
+        "options": [
+            "Phenotypic ratio",
+            "Test cross ratio",
+            "Genotypic ratio",
+            "Back cross ratio"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states 1:2:1 is the genotypic ratio in F2."
+    },
+    {
+        "id": 103,
+        "question": "Which stage of meiosis is responsible for Mendel’s law of segregation?",
+        "options": [
+            "Metaphase I",
+            "Anaphase I",
+            "Prophase I",
+            "Telophase II"
+        ],
+        "answer": 1,
+        "explanation": "NCERT links segregation of alleles with separation of homologous chromosomes in anaphase I."
+    },
+    {
+        "id": 104,
+        "question": "Mendel selected pea plant because it has",
+        "options": [
+            "Long life cycle",
+            "Poor seed production",
+            "Clear contrasting traits",
+            "Vegetative reproduction"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states pea has easily distinguishable contrasting traits."
+    },
+    {
+        "id": 105,
+        "question": "Which trait pair was studied by Mendel in pea plant?",
+        "options": [
+            "Red and white flower",
+            "Tall and dwarf stem",
+            "Hairy and smooth leaf",
+            "Broad and narrow leaf"
+        ],
+        "answer": 1,
+        "explanation": "NCERT lists tall and dwarf stem as one of Mendel’s traits."
+    },
+    {
+        "id": 106,
+        "question": "The law of dominance fails in case of",
+        "options": [
+            "Monohybrid cross",
+            "Dihybrid cross",
+            "Incomplete dominance",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states law of dominance is not applicable in incomplete dominance."
+    },
+    {
+        "id": 107,
+        "question": "In Antirrhinum, red × white flowers produce pink flowers due to",
+        "options": [
+            "Codominance",
+            "Dominance",
+            "Incomplete dominance",
+            "Polygenic inheritance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT uses Antirrhinum as example of incomplete dominance."
+    },
+    {
+        "id": 108,
+        "question": "Which blood group genotype represents heterozygous condition?",
+        "options": [
+            "IAIA",
+            "IBIB",
+            "IAi",
+            "ii"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states IAi is heterozygous."
+    },
+    {
+        "id": 109,
+        "question": "The ABO blood group alleles are located on",
+        "options": [
+            "X chromosome",
+            "Y chromosome",
+            "Autosome",
+            "Mitochondrial DNA"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ABO blood group genes are autosomal."
+    },
+    {
+        "id": 110,
+        "question": "Which blood group can donate blood to AB group?",
+        "options": [
+            "A only",
+            "B only",
+            "O only",
+            "All blood groups"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states AB is universal recipient."
+    },
+    {
+        "id": 111,
+        "question": "Polygenic traits show",
+        "options": [
+            "Discrete variation",
+            "Continuous variation",
+            "1:2:1 ratio",
+            "3:1 ratio"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic inheritance results in continuous variation."
+    },
+    {
+        "id": 112,
+        "question": "Height in humans is controlled by",
+        "options": [
+            "Single gene",
+            "Two genes",
+            "Multiple genes",
+            "Linked genes"
+        ],
+        "answer": 2,
+        "explanation": "NCERT cites height as polygenic trait."
+    },
+    {
+        "id": 113,
+        "question": "The expression of one gene influencing several traits is called",
+        "options": [
+            "Polygeny",
+            "Pleiotropy",
+            "Epistasis",
+            "Codominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines pleiotropy."
+    },
+    {
+        "id": 114,
+        "question": "Which disorder demonstrates pleiotropic effect?",
+        "options": [
+            "Phenylketonuria",
+            "Down’s syndrome",
+            "Sickle cell anaemia",
+            "Colour blindness"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia affects multiple traits."
+    },
+    {
+        "id": 115,
+        "question": "Which scientist correlated linkage with chromosomes?",
+        "options": [
+            "Mendel",
+            "Johannsen",
+            "Morgan",
+            "Darwin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT credits Morgan for explaining linkage."
+    },
+    {
+        "id": 116,
+        "question": "Linkage was first reported in",
+        "options": [
+            "Pisum sativum",
+            "Drosophila",
+            "Maize",
+            "Antirrhinum"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage was studied in Drosophila."
+    },
+    {
+        "id": 117,
+        "question": "Genes present closer on a chromosome show",
+        "options": [
+            "High recombination",
+            "No recombination",
+            "Strong linkage",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states closely placed genes show strong linkage."
+    },
+    {
+        "id": 118,
+        "question": "Maximum recombination frequency possible between two genes is",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states maximum recombination frequency is 50%."
+    },
+    {
+        "id": 119,
+        "question": "Genes showing 50% recombination behave as",
+        "options": [
+            "Linked genes",
+            "Alleles",
+            "Unlinked genes",
+            "Lethal genes"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states 50% recombination indicates independent assortment."
+    },
+    {
+        "id": 120,
+        "question": "Chromosomal theory of inheritance states that genes are located on",
+        "options": [
+            "Centromere",
+            "Chromosomes",
+            "Nucleus",
+            "Cytoplasm"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states genes are located on chromosomes."
+    },
+    {
+        "id": 121,
+        "question": "Which phenomenon produces new gene combinations?",
+        "options": [
+            "Segregation",
+            "Mutation",
+            "Crossing over",
+            "Fertilisation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over produces recombination."
+    },
+    {
+        "id": 122,
+        "question": "Crossing over occurs between",
+        "options": [
+            "Sister chromatids",
+            "Non-sister chromatids",
+            "Centromeres",
+            "Telomeres"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over occurs between non-sister chromatids."
+    },
+    {
+        "id": 123,
+        "question": "Which phase of prophase I shows crossing over?",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT specifies pachytene stage."
+    },
+    {
+        "id": 124,
+        "question": "Chiasmata are formed during",
+        "options": [
+            "Leptotene",
+            "Pachytene",
+            "Diplotene",
+            "Diakinesis"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states chiasmata become visible during diplotene."
+    },
+    {
+        "id": 125,
+        "question": "Recombination frequency is used for",
+        "options": [
+            "Mutation study",
+            "Gene mapping",
+            "Protein synthesis",
+            "DNA replication"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states recombination frequency helps in gene mapping."
+    },
+    {
+        "id": 126,
+        "question": "Morgan’s experiments confirmed",
+        "options": [
+            "Blending inheritance",
+            "Chromosomal theory",
+            "Mutation theory",
+            "Lamarckism"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Morgan experimentally verified chromosomal theory."
+    },
+    {
+        "id": 127,
+        "question": "Sex-linked genes are located on",
+        "options": [
+            "Autosomes",
+            "X and Y chromosomes",
+            "Mitochondria",
+            "Plasmids"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines sex-linked genes as those on sex chromosomes."
+    },
+    {
+        "id": 128,
+        "question": "Which sex shows heterogamety in humans?",
+        "options": [
+            "Female",
+            "Male",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states human males are heterogametic."
+    },
+    {
+        "id": 129,
+        "question": "Which chromosome combination produces female child in humans?",
+        "options": [
+            "XX",
+            "XY",
+            "XO",
+            "YY"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states XX produces female."
+    },
+    {
+        "id": 130,
+        "question": "Which parent determines sex of the child in humans?",
+        "options": [
+            "Mother",
+            "Father",
+            "Both equally",
+            "Environment"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states father determines sex of offspring."
+    },
+    {
+        "id": 131,
+        "question": "Which disorder is caused due to monosomy of X chromosome?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Patau syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome is monosomy X."
+    },
+    {
+        "id": 132,
+        "question": "Which disorder is trisomy of sex chromosome?",
+        "options": [
+            "Turner’s syndrome",
+            "Down’s syndrome",
+            "Klinefelter’s syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Klinefelter’s syndrome is XXY."
+    },
+    {
+        "id": 133,
+        "question": "Down’s syndrome individuals have chromosome number",
+        "options": [
+            "45",
+            "46",
+            "47",
+            "48"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Down’s syndrome has 47 chromosomes."
+    },
+    {
+        "id": 134,
+        "question": "Which chromosome is present in excess in Down’s syndrome?",
+        "options": [
+            "18",
+            "21",
+            "13",
+            "X"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states trisomy of chromosome 21."
+    },
+    {
+        "id": 135,
+        "question": "Colour blindness mainly affects",
+        "options": [
+            "Females",
+            "Males",
+            "Both equally",
+            "Only children"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states males are more commonly affected."
+    },
+    {
+        "id": 136,
+        "question": "A carrier female for haemophilia is",
+        "options": [
+            "Affected",
+            "Normal homozygous",
+            "Heterozygous",
+            "Hemizygous"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states carrier females are heterozygous."
+    },
+    {
+        "id": 137,
+        "question": "Which disorder is caused by mutation in beta-globin gene?",
+        "options": [
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "Phenylketonuria"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell anaemia involves beta-globin mutation."
+    },
+    {
+        "id": 138,
+        "question": "Sickle shaped RBCs are formed due to",
+        "options": [
+            "Lack of haemoglobin",
+            "Change in haemoglobin structure",
+            "Extra chromosome",
+            "Gene deletion"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states structural change in haemoglobin causes sickling."
+    },
+    {
+        "id": 139,
+        "question": "Which amino acid substitution occurs in sickle cell anaemia?",
+        "options": [
+            "Valine replaces glutamic acid",
+            "Alanine replaces glycine",
+            "Leucine replaces valine",
+            "Glycine replaces alanine"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states valine replaces glutamic acid."
+    },
+    {
+        "id": 140,
+        "question": "Which disorder shows autosomal recessive inheritance?",
+        "options": [
+            "Huntington’s disease",
+            "Phenylketonuria",
+            "Haemophilia",
+            "Colour blindness"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states phenylketonuria is autosomal recessive."
+    },
+    {
+        "id": 141,
+        "question": "Huntington’s disease appears",
+        "options": [
+            "At birth",
+            "In childhood",
+            "In middle age",
+            "Only in females"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease appears late in life."
+    },
+    {
+        "id": 142,
+        "question": "Which inheritance pattern explains ABO blood group?",
+        "options": [
+            "Polygenic inheritance",
+            "Multiple alleles and codominance",
+            "Incomplete dominance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ABO shows multiple alleles and codominance."
+    },
+    {
+        "id": 143,
+        "question": "Which allele combination produces blood group AB?",
+        "options": [
+            "IAIA",
+            "IBIB",
+            "IAIB",
+            "IAi"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states IAIB gives AB blood group."
+    },
+    {
+        "id": 144,
+        "question": "Which gene interaction deviates from Mendelian ratios?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Polygenic inheritance"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states polygenic inheritance deviates from Mendelian ratios."
+    },
+    {
+        "id": 145,
+        "question": "Which genetic disorder is lethal in homozygous condition?",
+        "options": [
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "Huntington’s disease",
+            "Colour blindness"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states homozygous sickle cell condition is lethal."
+    },
+    {
+        "id": 146,
+        "question": "Which technique reveals linkage between genes?",
+        "options": [
+            "Test cross",
+            "Back cross",
+            "Recombination analysis",
+            "Selfing"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states linkage is studied using recombination frequency."
+    },
+    {
+        "id": 147,
+        "question": "Which phenomenon explains deviation from 9:3:3:1 ratio?",
+        "options": [
+            "Segregation",
+            "Dominance",
+            "Linkage",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states linkage causes deviation from dihybrid ratio."
+    },
+    {
+        "id": 148,
+        "question": "Which genetic cross confirms independent assortment?",
+        "options": [
+            "Monohybrid",
+            "Dihybrid",
+            "Test cross",
+            "Back cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses dihybrid cross to explain independent assortment."
+    },
+    {
+        "id": 149,
+        "question": "Which type of inheritance was not proposed by Mendel?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states linkage was discovered later."
+    },
+    {
+        "id": 150,
+        "question": "Which scientist rediscovered Mendel’s work independently?",
+        "options": [
+            "De Vries",
+            "Correns",
+            "Tschermak",
+            "All of these"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states all three rediscovered Mendel’s work."
+    },
+    {
+        "id": 151,
+        "question": "Genetic variation is essential for",
+        "options": [
+            "Stability",
+            "Evolution",
+            "Uniformity",
+            "Cloning"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states variation is basis of evolution."
+    },
+    {
+        "id": 152,
+        "question": "Which process creates new allele combinations?",
+        "options": [
+            "Mitosis",
+            "Fertilisation",
+            "Crossing over",
+            "Binary fission"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over creates new combinations."
+    },
+    {
+        "id": 153,
+        "question": "Independent assortment occurs due to",
+        "options": [
+            "Crossing over",
+            "Random orientation of chromosomes",
+            "Mutation",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states random orientation during metaphase I causes independent assortment."
+    },
+    {
+        "id": 154,
+        "question": "Which disorder affects clotting of blood?",
+        "options": [
+            "Thalassemia",
+            "Haemophilia",
+            "Sickle cell anaemia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states haemophilia affects blood clotting."
+    },
+    {
+        "id": 155,
+        "question": "Which factor is absent in Haemophilia B?",
+        "options": [
+            "Factor VIII",
+            "Factor IX",
+            "Factor X",
+            "Fibrinogen"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states haemophilia B lacks factor IX."
+    },
+    {
+        "id": 156,
+        "question": "Which chromosomal disorder shows mental retardation and short stature?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome shows short stature and other features."
+    },
+    {
+        "id": 157,
+        "question": "Which disorder shows gynaecomastia in males?",
+        "options": [
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Down’s syndrome",
+            "Patau syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Klinefelter’s males show gynaecomastia."
+    },
+    {
+        "id": 158,
+        "question": "Which mutation does not change reading frame?",
+        "options": [
+            "Insertion",
+            "Deletion",
+            "Substitution",
+            "Frameshift"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states substitution does not cause frameshift."
+    },
+    {
+        "id": 159,
+        "question": "Which type of mutation adds a nucleotide?",
+        "options": [
+            "Deletion",
+            "Insertion",
+            "Substitution",
+            "Inversion"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines insertion mutation."
+    },
+    {
+        "id": 160,
+        "question": "Chromosomal aberrations include",
+        "options": [
+            "Point mutation",
+            "Frameshift mutation",
+            "Deletion and duplication",
+            "Substitution"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states chromosomal aberrations include deletion and duplication."
+    },
+    {
+        "id": 161,
+        "question": "Which term describes change in chromosome structure?",
+        "options": [
+            "Gene mutation",
+            "Point mutation",
+            "Chromosomal aberration",
+            "Segregation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines structural chromosome changes as aberrations."
+    },
+    {
+        "id": 162,
+        "question": "Which condition results in reduced recombination?",
+        "options": [
+            "Independent assortment",
+            "Linkage",
+            "Mutation",
+            "Segregation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage reduces recombination."
+    },
+    {
+        "id": 163,
+        "question": "Which inheritance shows blending of traits?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Dominance"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states incomplete dominance shows intermediate phenotype."
+    },
+    {
+        "id": 164,
+        "question": "Which ratio is characteristic of test cross in dihybrid?",
+        "options": [
+            "1:1",
+            "3:1",
+            "1:1:1:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states dihybrid test cross gives 1:1:1:1 ratio."
+    },
+    {
+        "id": 165,
+        "question": "Which type of gene interaction involves masking of one gene by another?",
+        "options": [
+            "Pleiotropy",
+            "Epistasis",
+            "Codominance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines epistasis as masking of one gene by another."
+    },
+    {
+        "id": 166,
+        "question": "Which phenomenon explains expression of recessive allele in F2?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Mutation",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation causes reappearance of recessive trait."
+    },
+    {
+        "id": 167,
+        "question": "Which disorder is also called mongolism?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 0,
+        "explanation": "NCERT mentions mongolism as Down’s syndrome."
+    },
+    {
+        "id": 168,
+        "question": "Which chromosomal disorder involves trisomy 13?",
+        "options": [
+            "Down’s syndrome",
+            "Edward syndrome",
+            "Patau syndrome",
+            "Turner’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Patau syndrome is trisomy 13."
+    },
+    {
+        "id": 169,
+        "question": "Which chromosomal disorder involves trisomy 18?",
+        "options": [
+            "Patau syndrome",
+            "Edward syndrome",
+            "Down’s syndrome",
+            "Turner’s syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Edward syndrome is trisomy 18."
+    },
+    {
+        "id": 170,
+        "question": "Which blood group allele shows dominance over i?",
+        "options": [
+            "IA only",
+            "IB only",
+            "Both IA and IB",
+            "Neither"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states IA and IB are dominant over i."
+    },
+    {
+        "id": 171,
+        "question": "Which cross is useful to detect linkage?",
+        "options": [
+            "Monohybrid cross",
+            "Dihybrid cross",
+            "Test cross",
+            "Back cross"
+        ],
+        "answer": 2,
+        "explanation": "NCERT uses test cross data to detect linkage."
+    },
+    {
+        "id": 172,
+        "question": "Which sex-linked disorder affects vision?",
+        "options": [
+            "Haemophilia",
+            "Colour blindness",
+            "PKU",
+            "Thalassemia"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states colour blindness affects vision."
+    },
+    {
+        "id": 173,
+        "question": "Which inheritance explains continuous variation in population?",
+        "options": [
+            "Mendelian inheritance",
+            "Polygenic inheritance",
+            "Codominance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic inheritance causes continuous variation."
+    },
+    {
+        "id": 174,
+        "question": "Which genetic disorder is fatal in homozygous condition?",
+        "options": [
+            "Colour blindness",
+            "Haemophilia",
+            "Sickle cell anaemia",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states homozygous sickle cell condition is lethal."
+    },
+    {
+        "id": 175,
+        "question": "Which feature was crucial for Mendel’s success?",
+        "options": [
+            "Large sample size",
+            "Use of microscope",
+            "Study of fossils",
+            "Study of animals"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Mendel used large number of plants."
+    },
+    {
+        "id": 176,
+        "question": "Which generation shows maximum variation?",
+        "options": [
+            "P generation",
+            "F1 generation",
+            "F2 generation",
+            "Test cross generation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states F2 shows maximum variation."
+    },
+    {
+        "id": 177,
+        "question": "Which inheritance pattern shows no dominance?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states codominance shows no dominance."
+    },
+    {
+        "id": 178,
+        "question": "Which law explains separation of alleles?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines law of segregation."
+    },
+    {
+        "id": 179,
+        "question": "Which genetic disorder affects metabolism of phenylalanine?",
+        "options": [
+            "PKU",
+            "Sickle cell anaemia",
+            "Thalassemia",
+            "Haemophilia"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states PKU affects phenylalanine metabolism."
+    },
+    {
+        "id": 180,
+        "question": "Which cross helps identify heterozygous dominant?",
+        "options": [
+            "Selfing",
+            "Back cross",
+            "Test cross",
+            "Dihybrid cross"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states test cross identifies genotype."
+    },
+    {
+        "id": 181,
+        "question": "Which disorder is due to absence of enzyme phenylalanine hydroxylase?",
+        "options": [
+            "PKU",
+            "Haemophilia",
+            "Thalassemia",
+            "Colour blindness"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states PKU lacks phenylalanine hydroxylase."
+    },
+    {
+        "id": 182,
+        "question": "Which type of inheritance does sickle cell anaemia show?",
+        "options": [
+            "Codominance",
+            "Incomplete dominance",
+            "Autosomal recessive",
+            "Polygenic"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states sickle cell anaemia shows codominance."
+    },
+    {
+        "id": 183,
+        "question": "Which disorder shows delayed onset of symptoms?",
+        "options": [
+            "PKU",
+            "Sickle cell anaemia",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease appears late."
+    },
+    {
+        "id": 184,
+        "question": "Which genetic ratio disproved blending inheritance?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states 1:2:1 disproved blending inheritance."
+    },
+    {
+        "id": 185,
+        "question": "Which inheritance pattern involves more than two alleles?",
+        "options": [
+            "Codominance",
+            "Incomplete dominance",
+            "Multiple alleles",
+            "Polygenic inheritance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines multiple alleles."
+    },
+    {
+        "id": 186,
+        "question": "Which disorder is autosomal dominant?",
+        "options": [
+            "PKU",
+            "Thalassemia",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease is autosomal dominant."
+    },
+    {
+        "id": 187,
+        "question": "Which ratio is expected in back cross with recessive parent?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "1:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states back cross with recessive gives 1:1 ratio."
+    },
+    {
+        "id": 188,
+        "question": "Which chromosomal abnormality affects sex chromosomes only?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Patau syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome involves sex chromosome."
+    },
+    {
+        "id": 189,
+        "question": "Which inheritance pattern explains blood group AB?",
+        "options": [
+            "Dominance",
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states AB blood group shows codominance."
+    },
+    {
+        "id": 190,
+        "question": "Which Mendelian law is always valid?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states law of segregation is universal."
+    },
+    {
+        "id": 191,
+        "question": "Which factor affects recombination frequency?",
+        "options": [
+            "Gene size",
+            "Distance between genes",
+            "Number of alleles",
+            "Dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states recombination depends on gene distance."
+    },
+    {
+        "id": 192,
+        "question": "Which chromosomal disorder shows webbed neck?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Patau syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome shows webbed neck."
+    },
+    {
+        "id": 193,
+        "question": "Which disease is also called bleeder’s disease?",
+        "options": [
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states haemophilia is bleeder’s disease."
+    },
+    {
+        "id": 194,
+        "question": "Which inheritance explains variation without discrete classes?",
+        "options": [
+            "Mendelian",
+            "Polygenic",
+            "Codominance",
+            "Incomplete dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic inheritance shows continuous variation."
+    },
+    {
+        "id": 195,
+        "question": "Which genetic disorder is due to deletion of a gene segment?",
+        "options": [
+            "Down’s syndrome",
+            "PKU",
+            "Cri-du-chat",
+            "Klinefelter’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Cri-du-chat is due to deletion."
+    },
+    {
+        "id": 196,
+        "question": "Which chromosome deletion causes Cri-du-chat syndrome?",
+        "options": [
+            "5p",
+            "21q",
+            "13q",
+            "18p"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states deletion of short arm of chromosome 5."
+    },
+    {
+        "id": 197,
+        "question": "Which type of inheritance is not strictly Mendelian?",
+        "options": [
+            "Monogenic",
+            "Dihybrid",
+            "Incomplete dominance",
+            "Law of segregation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states incomplete dominance deviates from Mendelian inheritance."
+    },
+    {
+        "id": 198,
+        "question": "Which condition shows reduced fertility in males?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Klinefelter’s males are sterile."
+    },
+    {
+        "id": 199,
+        "question": "Which term describes observable characteristics?",
+        "options": [
+            "Genotype",
+            "Phenotype",
+            "Allele",
+            "Genome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines phenotype as observable traits."
+    },
+    {
+        "id": 200,
+        "question": "Which Mendelian concept forms the basis of modern genetics?",
+        "options": [
+            "Blending inheritance",
+            "Particulate inheritance",
+            "Inheritance of acquired traits",
+            "Mutation theory"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states particulate inheritance is foundation of genetics."
+    },
+    {
+        "id": 201,
+        "question": "Which term refers to inheritance of characters from parents to offspring?",
+        "options": [
+            "Evolution",
+            "Variation",
+            "Heredity",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines heredity as transmission of traits from parents to offspring."
+    },
+    {
+        "id": 202,
+        "question": "Which Mendelian cross involves only one pair of contrasting traits?",
+        "options": [
+            "Dihybrid cross",
+            "Back cross",
+            "Test cross",
+            "Monohybrid cross"
+        ],
+        "answer": 3,
+        "explanation": "NCERT defines monohybrid cross as involving one trait."
+    },
+    {
+        "id": 203,
+        "question": "The F1 generation obtained by crossing two true breeding parents is always",
+        "options": [
+            "Homozygous",
+            "Heterozygous",
+            "Recessive",
+            "Variable"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states F1 individuals are heterozygous."
+    },
+    {
+        "id": 204,
+        "question": "Which ratio indicates independent assortment of genes?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT associates 9:3:3:1 ratio with independent assortment."
+    },
+    {
+        "id": 205,
+        "question": "Which Mendelian law explains why alleles do not mix?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation maintains purity of alleles."
+    },
+    {
+        "id": 206,
+        "question": "Which experimental approach made Mendel’s conclusions reliable?",
+        "options": [
+            "Microscopic observation",
+            "Statistical analysis",
+            "Chemical analysis",
+            "Field study"
+        ],
+        "answer": 1,
+        "explanation": "NCERT highlights Mendel’s use of statistics."
+    },
+    {
+        "id": 207,
+        "question": "Which character studied by Mendel showed axial and terminal forms?",
+        "options": [
+            "Seed shape",
+            "Flower colour",
+            "Flower position",
+            "Pod shape"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists flower position as axial or terminal."
+    },
+    {
+        "id": 208,
+        "question": "Green seed colour in pea plant is",
+        "options": [
+            "Dominant",
+            "Recessive",
+            "Codominant",
+            "Polygenic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states yellow is dominant over green seed colour."
+    },
+    {
+        "id": 209,
+        "question": "Which trait combination was used in Mendel’s dihybrid cross?",
+        "options": [
+            "Seed shape and seed colour",
+            "Flower colour and plant height",
+            "Pod colour and pod shape",
+            "All of these"
+        ],
+        "answer": 0,
+        "explanation": "NCERT describes dihybrid cross using seed shape and seed colour."
+    },
+    {
+        "id": 210,
+        "question": "The F1 generation of a dihybrid cross produces how many types of gametes?",
+        "options": [
+            "1",
+            "2",
+            "4",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states dihybrid heterozygote produces four gamete types."
+    },
+    {
+        "id": 211,
+        "question": "Which term describes physical expression of a genotype?",
+        "options": [
+            "Allele",
+            "Genome",
+            "Phenotype",
+            "Factor"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines phenotype as physical expression."
+    },
+    {
+        "id": 212,
+        "question": "Which ratio is expected when two heterozygotes are crossed for a monohybrid trait?",
+        "options": [
+            "1:1",
+            "3:1",
+            "1:2:1",
+            "9:3:3:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states phenotypic ratio is 3:1."
+    },
+    {
+        "id": 213,
+        "question": "Which ratio represents equal numbers of dominant and recessive phenotypes?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "1:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states test cross gives 1:1 ratio."
+    },
+    {
+        "id": 214,
+        "question": "Which type of dominance is seen in snapdragon flower colour?",
+        "options": [
+            "Complete dominance",
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT cites Antirrhinum as example of incomplete dominance."
+    },
+    {
+        "id": 215,
+        "question": "Which term describes genes influencing a single trait?",
+        "options": [
+            "Polygenes",
+            "Multiple alleles",
+            "Pleiotropy",
+            "Monogenic"
+        ],
+        "answer": 3,
+        "explanation": "NCERT uses monogenic for single gene traits."
+    },
+    {
+        "id": 216,
+        "question": "Which trait shows polygenic inheritance in humans?",
+        "options": [
+            "ABO blood group",
+            "Eye colour",
+            "Skin colour",
+            "Colour blindness"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states skin colour is polygenic."
+    },
+    {
+        "id": 217,
+        "question": "Which inheritance shows additive effect of genes?",
+        "options": [
+            "Codominance",
+            "Incomplete dominance",
+            "Polygenic inheritance",
+            "Linkage"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic inheritance shows additive effect."
+    },
+    {
+        "id": 218,
+        "question": "Which phenomenon explains influence of environment on phenotype?",
+        "options": [
+            "Genotype",
+            "Polygenes",
+            "Pleiotropy",
+            "Phenotypic plasticity"
+        ],
+        "answer": 3,
+        "explanation": "NCERT explains environment modifies phenotype expression."
+    },
+    {
+        "id": 219,
+        "question": "Which blood group allele is completely recessive?",
+        "options": [
+            "IA",
+            "IB",
+            "i",
+            "IA and IB"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states i allele is recessive."
+    },
+    {
+        "id": 220,
+        "question": "Which blood group phenotype can produce anti-A and anti-B antibodies?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states O blood group has both antibodies."
+    },
+    {
+        "id": 221,
+        "question": "Which scientist proposed the chromosomal basis of inheritance independently?",
+        "options": [
+            "Morgan",
+            "Sutton",
+            "Johannsen",
+            "Darwin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT credits Sutton (with Boveri) for chromosomal theory."
+    },
+    {
+        "id": 222,
+        "question": "Which organism was used by Morgan to study linkage?",
+        "options": [
+            "Pisum sativum",
+            "Zea mays",
+            "Drosophila melanogaster",
+            "Antirrhinum"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Morgan used Drosophila melanogaster."
+    },
+    {
+        "id": 223,
+        "question": "Which type of linkage shows some recombination?",
+        "options": [
+            "Complete linkage",
+            "Incomplete linkage",
+            "Autosomal linkage",
+            "Sex linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states incomplete linkage allows some recombination."
+    },
+    {
+        "id": 224,
+        "question": "Complete linkage is observed when genes are",
+        "options": [
+            "Very close on chromosome",
+            "Far apart",
+            "On different chromosomes",
+            "On sex chromosomes"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states closely located genes show complete linkage."
+    },
+    {
+        "id": 225,
+        "question": "Which recombination frequency indicates strong linkage?",
+        "options": [
+            "50%",
+            "25%",
+            "10%",
+            "0%"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states zero recombination indicates complete linkage."
+    },
+    {
+        "id": 226,
+        "question": "Which cross provides maximum information about linkage?",
+        "options": [
+            "Selfing",
+            "Test cross",
+            "Back cross",
+            "Monohybrid cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses test cross to study linkage."
+    },
+    {
+        "id": 227,
+        "question": "Which phenomenon ensures separation of linked genes?",
+        "options": [
+            "Segregation",
+            "Mutation",
+            "Crossing over",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over breaks linkage."
+    },
+    {
+        "id": 228,
+        "question": "Which stage of meiosis shows terminalisation of chiasmata?",
+        "options": [
+            "Pachytene",
+            "Diplotene",
+            "Diakinesis",
+            "Metaphase I"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states chiasmata terminalise during diakinesis."
+    },
+    {
+        "id": 229,
+        "question": "Which term describes exchange of genetic material?",
+        "options": [
+            "Segregation",
+            "Crossing over",
+            "Mutation",
+            "Fertilisation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines crossing over as exchange of genetic material."
+    },
+    {
+        "id": 230,
+        "question": "Which mapping unit is used in genetics?",
+        "options": [
+            "Centimorgan",
+            "Micron",
+            "Nanometre",
+            "Base pair"
+        ],
+        "answer": 0,
+        "explanation": "NCERT uses centimorgan as unit of genetic distance."
+    },
+    {
+        "id": 231,
+        "question": "Which inheritance pattern is seen in haemophilia?",
+        "options": [
+            "Autosomal dominant",
+            "Autosomal recessive",
+            "X-linked recessive",
+            "Polygenic"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states haemophilia is X-linked recessive."
+    },
+    {
+        "id": 232,
+        "question": "Which sex is more frequently affected by X-linked recessive disorders?",
+        "options": [
+            "Female",
+            "Male",
+            "Both equally",
+            "Depends on mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states males are more affected."
+    },
+    {
+        "id": 233,
+        "question": "Which condition describes presence of only one sex chromosome?",
+        "options": [
+            "Trisomy",
+            "Monosomy",
+            "Polyploidy",
+            "Duplication"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines monosomy as absence of one chromosome."
+    },
+    {
+        "id": 234,
+        "question": "Which syndrome is represented as 45,XO?",
+        "options": [
+            "Down’s",
+            "Turner’s",
+            "Klinefelter’s",
+            "Edward"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome is 45,XO."
+    },
+    {
+        "id": 235,
+        "question": "Which syndrome shows hypogonadism in males?",
+        "options": [
+            "Down’s",
+            "Turner’s",
+            "Klinefelter’s",
+            "Patau"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Klinefelter’s males show hypogonadism."
+    },
+    {
+        "id": 236,
+        "question": "Which chromosomal abnormality affects autosomes?",
+        "options": [
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Down’s syndrome",
+            "XO condition"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Down’s syndrome involves autosome 21."
+    },
+    {
+        "id": 237,
+        "question": "Which term describes numerical chromosome change?",
+        "options": [
+            "Mutation",
+            "Aneuploidy",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines aneuploidy as numerical chromosome abnormality."
+    },
+    {
+        "id": 238,
+        "question": "Which disorder is due to trisomy of chromosome 18?",
+        "options": [
+            "Down’s syndrome",
+            "Patau syndrome",
+            "Edward syndrome",
+            "Turner’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Edward syndrome is trisomy 18."
+    },
+    {
+        "id": 239,
+        "question": "Which disorder shows severe mental retardation and cleft palate?",
+        "options": [
+            "Down’s syndrome",
+            "Patau syndrome",
+            "Edward syndrome",
+            "Turner’s syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT describes Patau syndrome features."
+    },
+    {
+        "id": 240,
+        "question": "Which chromosomal abnormality is lethal in early childhood?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Patau syndrome",
+            "Klinefelter’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Patau syndrome has high mortality."
+    },
+    {
+        "id": 241,
+        "question": "Which mutation changes a single base pair?",
+        "options": [
+            "Frameshift mutation",
+            "Point mutation",
+            "Deletion",
+            "Duplication"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines point mutation as single base change."
+    },
+    {
+        "id": 242,
+        "question": "Which disorder is caused by point mutation in beta-globin gene?",
+        "options": [
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell anaemia is due to point mutation."
+    },
+    {
+        "id": 243,
+        "question": "Which amino acid is replaced in sickle cell anaemia?",
+        "options": [
+            "Glycine",
+            "Valine",
+            "Alanine",
+            "Serine"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states valine replaces glutamic acid."
+    },
+    {
+        "id": 244,
+        "question": "Which inheritance pattern does sickle cell anaemia show?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic",
+            "Autosomal dominant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell anaemia shows codominance."
+    },
+    {
+        "id": 245,
+        "question": "Which disorder shows reduced haemoglobin synthesis?",
+        "options": [
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "Thalassemia",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states thalassemia shows reduced haemoglobin synthesis."
+    },
+    {
+        "id": 246,
+        "question": "Which disorder is due to absence of enzyme phenylalanine hydroxylase?",
+        "options": [
+            "PKU",
+            "Thalassemia",
+            "Haemophilia",
+            "Sickle cell anaemia"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states PKU lacks phenylalanine hydroxylase."
+    },
+    {
+        "id": 247,
+        "question": "Which metabolic disorder leads to mental retardation if untreated?",
+        "options": [
+            "PKU",
+            "Sickle cell anaemia",
+            "Thalassemia",
+            "Colour blindness"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states untreated PKU leads to mental retardation."
+    },
+    {
+        "id": 248,
+        "question": "Which inheritance shows deviation due to gene interaction?",
+        "options": [
+            "Monogenic",
+            "Polygenic",
+            "Epistasis",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines epistasis as gene interaction."
+    },
+    {
+        "id": 249,
+        "question": "Which term describes masking of one gene by another non-allelic gene?",
+        "options": [
+            "Dominance",
+            "Epistasis",
+            "Pleiotropy",
+            "Codominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines epistasis."
+    },
+    {
+        "id": 250,
+        "question": "Which inheritance pattern results in modified Mendelian ratios?",
+        "options": [
+            "Epistasis",
+            "Segregation",
+            "Dominance",
+            "Independent assortment"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states epistasis modifies Mendelian ratios."
+    },
+    {
+        "id": 251,
+        "question": "Which inheritance shows no clear dominant or recessive allele?",
+        "options": [
+            "Complete dominance",
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states codominance shows equal expression."
+    },
+    {
+        "id": 252,
+        "question": "Which blood group system best demonstrates multiple allelism?",
+        "options": [
+            "Rh",
+            "MN",
+            "ABO",
+            "Bombay"
+        ],
+        "answer": 2,
+        "explanation": "NCERT uses ABO as example of multiple alleles."
+    },
+    {
+        "id": 253,
+        "question": "Which cross helps identify recombinant phenotypes?",
+        "options": [
+            "Selfing",
+            "Test cross",
+            "Back cross",
+            "Monohybrid cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states test cross reveals recombinants."
+    },
+    {
+        "id": 254,
+        "question": "Which inheritance pattern produces bell-shaped curve?",
+        "options": [
+            "Monogenic",
+            "Dihybrid",
+            "Polygenic",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic traits show normal distribution."
+    },
+    {
+        "id": 255,
+        "question": "Which feature distinguishes polygenic from monogenic traits?",
+        "options": [
+            "Discrete classes",
+            "Continuous variation",
+            "Simple ratios",
+            "Single gene"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic traits show continuous variation."
+    },
+    {
+        "id": 256,
+        "question": "Which type of variation is heritable?",
+        "options": [
+            "Environmental",
+            "Somatic",
+            "Genetic",
+            "Acquired"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states genetic variation is heritable."
+    },
+    {
+        "id": 257,
+        "question": "Which factor does not contribute to variation?",
+        "options": [
+            "Mutation",
+            "Crossing over",
+            "Segregation",
+            "Mitosis"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states mitosis does not generate variation."
+    },
+    {
+        "id": 258,
+        "question": "Which genetic principle explains appearance of parental traits in F2?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Linkage",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation explains reappearance of parental traits."
+    },
+    {
+        "id": 259,
+        "question": "Which genetic phenomenon ensures equal distribution of alleles?",
+        "options": [
+            "Crossing over",
+            "Independent assortment",
+            "Segregation",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states segregation ensures equal distribution."
+    },
+    {
+        "id": 260,
+        "question": "Which process restores diploid condition?",
+        "options": [
+            "Meiosis",
+            "Mitosis",
+            "Fertilisation",
+            "Segregation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states fertilisation restores diploid state."
+    },
+    {
+        "id": 261,
+        "question": "Which law explains assortment of genes of two traits?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines law of independent assortment."
+    },
+    {
+        "id": 262,
+        "question": "Which cross gives information about dominance relationship?",
+        "options": [
+            "Test cross",
+            "Monohybrid cross",
+            "Back cross",
+            "Dihybrid cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states monohybrid cross reveals dominance."
+    },
+    {
+        "id": 263,
+        "question": "Which genetic disorder shows absence of clotting factor IX?",
+        "options": [
+            "Haemophilia A",
+            "Haemophilia B",
+            "Thalassemia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states haemophilia B lacks factor IX."
+    },
+    {
+        "id": 264,
+        "question": "Which genetic disorder is also known as bleeder’s disease?",
+        "options": [
+            "Haemophilia",
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "PKU"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states haemophilia is bleeder’s disease."
+    },
+    {
+        "id": 265,
+        "question": "Which disorder is inherited as autosomal recessive?",
+        "options": [
+            "Huntington’s disease",
+            "PKU",
+            "Haemophilia",
+            "Colour blindness"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states PKU is autosomal recessive."
+    },
+    {
+        "id": 266,
+        "question": "Which inheritance shows dominance of both alleles?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines codominance."
+    },
+    {
+        "id": 267,
+        "question": "Which cross produces four phenotypic classes in equal proportion?",
+        "options": [
+            "Monohybrid test cross",
+            "Dihybrid test cross",
+            "Selfing",
+            "Back cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states dihybrid test cross gives 1:1:1:1."
+    },
+    {
+        "id": 268,
+        "question": "Which inheritance pattern best explains human blood groups?",
+        "options": [
+            "Monogenic",
+            "Polygenic",
+            "Multiple alleles",
+            "Incomplete dominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ABO involves multiple alleles."
+    },
+    {
+        "id": 269,
+        "question": "Which disorder shows mutation affecting structure of haemoglobin?",
+        "options": [
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell affects haemoglobin structure."
+    },
+    {
+        "id": 270,
+        "question": "Which concept explains relationship between genes and chromosomes?",
+        "options": [
+            "Mutation theory",
+            "Chromosomal theory",
+            "Blending inheritance",
+            "Acquired traits"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines chromosomal theory of inheritance."
+    },
+    {
+        "id": 271,
+        "question": "Which scientist provided experimental proof for chromosomal theory?",
+        "options": [
+            "Mendel",
+            "Morgan",
+            "Johannsen",
+            "Darwin"
+        ],
+        "answer": 1,
+        "explanation": "NCERT credits Morgan with experimental proof."
+    },
+    {
+        "id": 272,
+        "question": "Which inheritance pattern was first explained using Drosophila?",
+        "options": [
+            "Codominance",
+            "Linkage",
+            "Polygenic inheritance",
+            "Incomplete dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage was studied in Drosophila."
+    },
+    {
+        "id": 273,
+        "question": "Which phenomenon increases genetic diversity?",
+        "options": [
+            "Mitosis",
+            "Crossing over",
+            "Selfing",
+            "Cloning"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over increases diversity."
+    },
+    {
+        "id": 274,
+        "question": "Which condition results in XO females?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome is XO."
+    },
+    {
+        "id": 275,
+        "question": "Which disorder shows infertility in males and females?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome individuals are sterile."
+    },
+    {
+        "id": 276,
+        "question": "Which chromosomal abnormality involves duplication of a segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines duplication as repetition of segment."
+    },
+    {
+        "id": 277,
+        "question": "Which type of mutation removes a base pair?",
+        "options": [
+            "Insertion",
+            "Deletion",
+            "Substitution",
+            "Inversion"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines deletion mutation."
+    },
+    {
+        "id": 278,
+        "question": "Which mutation alters reading frame?",
+        "options": [
+            "Substitution",
+            "Insertion",
+            "Deletion",
+            "Insertion or deletion"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states insertion or deletion causes frameshift."
+    },
+    {
+        "id": 279,
+        "question": "Which genetic disorder shows delayed onset?",
+        "options": [
+            "PKU",
+            "Sickle cell anaemia",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease appears late."
+    },
+    {
+        "id": 280,
+        "question": "Which disorder is inherited as autosomal dominant?",
+        "options": [
+            "PKU",
+            "Thalassemia",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease is autosomal dominant."
+    },
+    {
+        "id": 281,
+        "question": "Which genetic disorder involves mental retardation and webbed neck?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Patau syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT describes Turner’s syndrome features."
+    },
+    {
+        "id": 282,
+        "question": "Which disorder results from deletion of short arm of chromosome 5?",
+        "options": [
+            "Down’s syndrome",
+            "Cri-du-chat syndrome",
+            "Patau syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Cri-du-chat is due to 5p deletion."
+    },
+    {
+        "id": 283,
+        "question": "Which chromosomal abnormality involves translocation?",
+        "options": [
+            "Cri-du-chat",
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states some Down’s cases involve translocation."
+    },
+    {
+        "id": 284,
+        "question": "Which inheritance pattern is influenced by environment?",
+        "options": [
+            "Monogenic",
+            "Codominance",
+            "Polygenic",
+            "Sex-linked"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic traits are influenced by environment."
+    },
+    {
+        "id": 285,
+        "question": "Which term describes total genetic makeup?",
+        "options": [
+            "Phenotype",
+            "Genotype",
+            "Genome",
+            "Allele"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines genome as total genetic makeup."
+    },
+    {
+        "id": 286,
+        "question": "Which process leads to formation of haploid gametes?",
+        "options": [
+            "Mitosis",
+            "Fertilisation",
+            "Meiosis",
+            "Segregation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states meiosis produces haploid gametes."
+    },
+    {
+        "id": 287,
+        "question": "Which law ensures equal contribution of alleles from parents?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation ensures equal contribution."
+    },
+    {
+        "id": 288,
+        "question": "Which inheritance shows interaction of non-allelic genes?",
+        "options": [
+            "Codominance",
+            "Incomplete dominance",
+            "Epistasis",
+            "Polygenic inheritance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines epistasis as non-allelic interaction."
+    },
+    {
+        "id": 289,
+        "question": "Which genetic concept explains survival of advantageous variations?",
+        "options": [
+            "Heredity",
+            "Variation",
+            "Natural selection",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT links variation to natural selection."
+    },
+    {
+        "id": 290,
+        "question": "Which factor is essential for evolution?",
+        "options": [
+            "Uniformity",
+            "Variation",
+            "Cloning",
+            "Mitosis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states variation is essential for evolution."
+    },
+    {
+        "id": 291,
+        "question": "Which inheritance pattern shows bell-shaped curve in population?",
+        "options": [
+            "Monogenic",
+            "Dihybrid",
+            "Polygenic",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic inheritance shows normal distribution."
+    },
+    {
+        "id": 292,
+        "question": "Which cross demonstrates law of segregation most clearly?",
+        "options": [
+            "Dihybrid cross",
+            "Test cross",
+            "Monohybrid cross",
+            "Back cross"
+        ],
+        "answer": 2,
+        "explanation": "NCERT explains segregation using monohybrid cross."
+    },
+    {
+        "id": 293,
+        "question": "Which principle explains non-blending inheritance?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation prevents blending."
+    },
+    {
+        "id": 294,
+        "question": "Which process leads to reshuffling of alleles?",
+        "options": [
+            "Mitosis",
+            "Segregation",
+            "Crossing over",
+            "Binary fission"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over reshuffles alleles."
+    },
+    {
+        "id": 295,
+        "question": "Which type of gene interaction modifies phenotypic ratio?",
+        "options": [
+            "Dominance",
+            "Epistasis",
+            "Segregation",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states epistasis modifies ratios."
+    },
+    {
+        "id": 296,
+        "question": "Which inheritance shows both alleles fully expressed?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines codominance."
+    },
+    {
+        "id": 297,
+        "question": "Which genetic disorder affects amino acid metabolism?",
+        "options": [
+            "Thalassemia",
+            "PKU",
+            "Haemophilia",
+            "Colour blindness"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states PKU affects phenylalanine metabolism."
+    },
+    {
+        "id": 298,
+        "question": "Which disorder shows anaemia due to abnormal haemoglobin?",
+        "options": [
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell causes anaemia."
+    },
+    {
+        "id": 299,
+        "question": "Which concept links Mendelian inheritance with cell division?",
+        "options": [
+            "Mutation theory",
+            "Chromosomal theory",
+            "Blending inheritance",
+            "Acquired traits"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states chromosomal theory links genes with meiosis."
+    },
+    {
+        "id": 300,
+        "question": "Which Mendelian idea laid foundation for modern genetics?",
+        "options": [
+            "Continuous variation",
+            "Blending inheritance",
+            "Particulate inheritance",
+            "Inheritance of acquired traits"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states particulate inheritance is foundation of genetics."
+    },
+    {
+        "id": 301,
+        "question": "Which term describes the ability of an organism to transmit characters to the next generation?",
+        "options": [
+            "Variation",
+            "Inheritance",
+            "Evolution",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines inheritance as transmission of characters from one generation to the next."
+    },
+    {
+        "id": 302,
+        "question": "Which Mendelian principle explains that alleles remain discrete and do not blend?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states law of segregation ensures purity of alleles."
+    },
+    {
+        "id": 303,
+        "question": "Which character of pea plant shows inflated and constricted forms?",
+        "options": [
+            "Seed shape",
+            "Pod shape",
+            "Flower colour",
+            "Plant height"
+        ],
+        "answer": 1,
+        "explanation": "NCERT lists pod shape as inflated or constricted."
+    },
+    {
+        "id": 304,
+        "question": "Yellow seed colour in pea is",
+        "options": [
+            "Recessive",
+            "Codominant",
+            "Dominant",
+            "Polygenic"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states yellow seed colour is dominant over green."
+    },
+    {
+        "id": 305,
+        "question": "Which cross involves crossing F1 hybrid with recessive parent?",
+        "options": [
+            "Back cross",
+            "Test cross",
+            "Self cross",
+            "Dihybrid cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines test cross as crossing with homozygous recessive."
+    },
+    {
+        "id": 306,
+        "question": "In a test cross of a monohybrid, the expected phenotypic ratio is",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "1:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states monohybrid test cross gives 1:1 ratio."
+    },
+    {
+        "id": 307,
+        "question": "Which generation shows reappearance of recessive traits?",
+        "options": [
+            "P generation",
+            "F1 generation",
+            "F2 generation",
+            "Test cross generation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states recessive traits reappear in F2."
+    },
+    {
+        "id": 308,
+        "question": "Which Mendelian ratio supports particulate inheritance?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states 1:2:1 genotypic ratio disproves blending inheritance."
+    },
+    {
+        "id": 309,
+        "question": "Which cross demonstrates law of independent assortment?",
+        "options": [
+            "Monohybrid cross",
+            "Test cross",
+            "Back cross",
+            "Dihybrid cross"
+        ],
+        "answer": 3,
+        "explanation": "NCERT explains independent assortment using dihybrid cross."
+    },
+    {
+        "id": 310,
+        "question": "How many phenotypic classes appear in F2 of a dihybrid cross?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "8"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states four phenotypic classes appear."
+    },
+    {
+        "id": 311,
+        "question": "Which inheritance pattern shows intermediate phenotype?",
+        "options": [
+            "Codominance",
+            "Incomplete dominance",
+            "Polygenic inheritance",
+            "Dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines incomplete dominance as intermediate expression."
+    },
+    {
+        "id": 312,
+        "question": "Pink flower colour in Antirrhinum is due to",
+        "options": [
+            "Dominance",
+            "Codominance",
+            "Incomplete dominance",
+            "Polygenic inheritance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT cites Antirrhinum example of incomplete dominance."
+    },
+    {
+        "id": 313,
+        "question": "Which ratio is characteristic of incomplete dominance in F2?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states incomplete dominance gives 1:2:1 ratio."
+    },
+    {
+        "id": 314,
+        "question": "Which inheritance shows simultaneous expression of both alleles?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines codominance."
+    },
+    {
+        "id": 315,
+        "question": "Which blood group expresses both A and B antigens?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states AB blood group expresses both antigens."
+    },
+    {
+        "id": 316,
+        "question": "How many alleles control ABO blood group system?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "Multiple genes"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ABO blood group is controlled by three alleles."
+    },
+    {
+        "id": 317,
+        "question": "Which allele combination produces blood group A?",
+        "options": [
+            "IAIA",
+            "IAi",
+            "Both IAIA and IAi",
+            "IBi"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states blood group A can be IAIA or IAi."
+    },
+    {
+        "id": 318,
+        "question": "Which inheritance involves more than two alleles of a gene?",
+        "options": [
+            "Polygenic inheritance",
+            "Codominance",
+            "Multiple alleles",
+            "Epistasis"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines multiple alleles."
+    },
+    {
+        "id": 319,
+        "question": "Which trait shows continuous variation?",
+        "options": [
+            "Seed shape",
+            "Blood group",
+            "Skin colour",
+            "Flower colour"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states skin colour shows continuous variation."
+    },
+    {
+        "id": 320,
+        "question": "Continuous variation is characteristic of",
+        "options": [
+            "Monogenic inheritance",
+            "Polygenic inheritance",
+            "Codominance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic traits show continuous variation."
+    },
+    {
+        "id": 321,
+        "question": "Which term describes one gene affecting multiple phenotypic traits?",
+        "options": [
+            "Polygeny",
+            "Pleiotropy",
+            "Epistasis",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines pleiotropy."
+    },
+    {
+        "id": 322,
+        "question": "Which disorder is an example of pleiotropy?",
+        "options": [
+            "PKU",
+            "Colour blindness",
+            "Sickle cell anaemia",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia shows pleiotropic effects."
+    },
+    {
+        "id": 323,
+        "question": "Which scientist experimentally proved chromosomal theory of inheritance?",
+        "options": [
+            "Mendel",
+            "Sutton",
+            "Morgan",
+            "Johannsen"
+        ],
+        "answer": 2,
+        "explanation": "NCERT credits Morgan with experimental proof."
+    },
+    {
+        "id": 324,
+        "question": "Which organism did Morgan use for genetic experiments?",
+        "options": [
+            "Pea",
+            "Maize",
+            "Fruit fly",
+            "Antirrhinum"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Morgan used Drosophila melanogaster."
+    },
+    {
+        "id": 325,
+        "question": "Which phenomenon refers to genes located on the same chromosome?",
+        "options": [
+            "Independent assortment",
+            "Linkage",
+            "Segregation",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines linkage as genes on same chromosome."
+    },
+    {
+        "id": 326,
+        "question": "Linkage results in",
+        "options": [
+            "Increased recombination",
+            "Reduced recombination",
+            "Mutation",
+            "Independent assortment"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage reduces recombination."
+    },
+    {
+        "id": 327,
+        "question": "Which linkage shows no recombination?",
+        "options": [
+            "Incomplete linkage",
+            "Complete linkage",
+            "Sex linkage",
+            "Autosomal linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states complete linkage shows no recombination."
+    },
+    {
+        "id": 328,
+        "question": "Which factor increases recombination frequency?",
+        "options": [
+            "Short distance between genes",
+            "Long distance between genes",
+            "Linkage",
+            "No crossing over"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states recombination increases with gene distance."
+    },
+    {
+        "id": 329,
+        "question": "Maximum recombination frequency possible is",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states maximum recombination frequency is 50%."
+    },
+    {
+        "id": 330,
+        "question": "Recombination frequency is used to construct",
+        "options": [
+            "Karyotype",
+            "Gene maps",
+            "Protein maps",
+            "Chromosome numbers"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states recombination frequency is used in gene mapping."
+    },
+    {
+        "id": 331,
+        "question": "Which stage of meiosis is responsible for crossing over?",
+        "options": [
+            "Leptotene",
+            "Zygotene",
+            "Pachytene",
+            "Diplotene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over occurs in pachytene."
+    },
+    {
+        "id": 332,
+        "question": "Chiasmata represent",
+        "options": [
+            "Centromeres",
+            "Sites of crossing over",
+            "Telomeres",
+            "Spindle fibres"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines chiasmata as sites of crossing over."
+    },
+    {
+        "id": 333,
+        "question": "Which phenomenon breaks linkage between genes?",
+        "options": [
+            "Segregation",
+            "Mutation",
+            "Crossing over",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over breaks linkage."
+    },
+    {
+        "id": 334,
+        "question": "Which inheritance pattern involves genes on sex chromosomes?",
+        "options": [
+            "Autosomal inheritance",
+            "Sex-linked inheritance",
+            "Polygenic inheritance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines sex-linked inheritance."
+    },
+    {
+        "id": 335,
+        "question": "Which sex is heterogametic in humans?",
+        "options": [
+            "Female",
+            "Male",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states human males are heterogametic."
+    },
+    {
+        "id": 336,
+        "question": "Which chromosome determines sex of offspring in humans?",
+        "options": [
+            "X chromosome",
+            "Y chromosome",
+            "Autosome 21",
+            "Both X and Y"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Y chromosome determines maleness."
+    },
+    {
+        "id": 337,
+        "question": "Colour blindness is inherited as",
+        "options": [
+            "Autosomal dominant",
+            "Autosomal recessive",
+            "X-linked recessive",
+            "Y-linked"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states colour blindness is X-linked recessive."
+    },
+    {
+        "id": 338,
+        "question": "Why are males more affected by X-linked recessive disorders?",
+        "options": [
+            "Two X chromosomes",
+            "Single X chromosome",
+            "Dominant Y chromosome",
+            "Environmental effect"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states males have only one X chromosome."
+    },
+    {
+        "id": 339,
+        "question": "Which disorder is caused by absence of clotting factor VIII?",
+        "options": [
+            "Haemophilia A",
+            "Haemophilia B",
+            "Thalassemia",
+            "PKU"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states haemophilia A lacks factor VIII."
+    },
+    {
+        "id": 340,
+        "question": "Which disorder is known as bleeder’s disease?",
+        "options": [
+            "Thalassemia",
+            "Sickle cell anaemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states haemophilia is bleeder’s disease."
+    },
+    {
+        "id": 341,
+        "question": "Which chromosomal disorder is due to trisomy of chromosome 21?",
+        "options": [
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Down’s syndrome",
+            "Edward syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Down’s syndrome is trisomy 21."
+    },
+    {
+        "id": 342,
+        "question": "Which chromosomal disorder is represented as 45,XO?",
+        "options": [
+            "Down’s syndrome",
+            "Turner’s syndrome",
+            "Klinefelter’s syndrome",
+            "Patau syndrome"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome is 45,XO."
+    },
+    {
+        "id": 343,
+        "question": "Which syndrome is characterized by gynaecomastia in males?",
+        "options": [
+            "Turner’s syndrome",
+            "Down’s syndrome",
+            "Klinefelter’s syndrome",
+            "Patau syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Klinefelter’s males show gynaecomastia."
+    },
+    {
+        "id": 344,
+        "question": "Which disorder involves trisomy of chromosome 18?",
+        "options": [
+            "Down’s syndrome",
+            "Patau syndrome",
+            "Edward syndrome",
+            "Turner’s syndrome"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Edward syndrome is trisomy 18."
+    },
+    {
+        "id": 345,
+        "question": "Which disorder involves trisomy of chromosome 13?",
+        "options": [
+            "Patau syndrome",
+            "Edward syndrome",
+            "Down’s syndrome",
+            "Turner’s syndrome"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Patau syndrome is trisomy 13."
+    },
+    {
+        "id": 346,
+        "question": "Which chromosomal abnormality refers to loss or gain of a chromosome?",
+        "options": [
+            "Polyploidy",
+            "Aneuploidy",
+            "Euploidy",
+            "Translocation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines aneuploidy as loss or gain of chromosomes."
+    },
+    {
+        "id": 347,
+        "question": "Which chromosomal abnormality involves deletion of chromosome segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines deletion as loss of chromosome segment."
+    },
+    {
+        "id": 348,
+        "question": "Cri-du-chat syndrome is due to deletion of",
+        "options": [
+            "Chromosome 5p",
+            "Chromosome 21q",
+            "Chromosome 13p",
+            "Chromosome 18q"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states Cri-du-chat is due to deletion of short arm of chromosome 5."
+    },
+    {
+        "id": 349,
+        "question": "Which mutation involves change in a single nucleotide?",
+        "options": [
+            "Frameshift mutation",
+            "Point mutation",
+            "Deletion",
+            "Duplication"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines point mutation."
+    },
+    {
+        "id": 350,
+        "question": "Which mutation changes the reading frame of mRNA?",
+        "options": [
+            "Substitution",
+            "Insertion",
+            "Deletion",
+            "Insertion or deletion"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states insertion or deletion causes frameshift."
+    },
+    {
+        "id": 351,
+        "question": "Sickle cell anaemia is caused by substitution of",
+        "options": [
+            "Glutamic acid by valine",
+            "Valine by glutamic acid",
+            "Alanine by glycine",
+            "Serine by threonine"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states valine replaces glutamic acid in beta-globin."
+    },
+    {
+        "id": 352,
+        "question": "Which inheritance pattern does sickle cell anaemia show?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Autosomal dominant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell anaemia shows codominance."
+    },
+    {
+        "id": 353,
+        "question": "Which disorder results from reduced synthesis of haemoglobin?",
+        "options": [
+            "Sickle cell anaemia",
+            "Thalassemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states thalassemia involves reduced haemoglobin synthesis."
+    },
+    {
+        "id": 354,
+        "question": "Which disorder is autosomal recessive?",
+        "options": [
+            "Huntington’s disease",
+            "PKU",
+            "Haemophilia",
+            "Colour blindness"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states phenylketonuria is autosomal recessive."
+    },
+    {
+        "id": 355,
+        "question": "Phenylketonuria is caused by absence of enzyme",
+        "options": [
+            "Phenylalanine hydroxylase",
+            "Tyrosinase",
+            "Amylase",
+            "Trypsin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states PKU lacks phenylalanine hydroxylase."
+    },
+    {
+        "id": 356,
+        "question": "Untreated phenylketonuria leads to",
+        "options": [
+            "Anaemia",
+            "Mental retardation",
+            "Blindness",
+            "Sterility"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states untreated PKU leads to mental retardation."
+    },
+    {
+        "id": 357,
+        "question": "Which disorder is autosomal dominant?",
+        "options": [
+            "PKU",
+            "Thalassemia",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease is autosomal dominant."
+    },
+    {
+        "id": 358,
+        "question": "Huntington’s disease generally appears",
+        "options": [
+            "At birth",
+            "In childhood",
+            "In middle age",
+            "Only in females"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease has late onset."
+    },
+    {
+        "id": 359,
+        "question": "Which inheritance pattern involves interaction of non-allelic genes?",
+        "options": [
+            "Codominance",
+            "Epistasis",
+            "Polygenic inheritance",
+            "Incomplete dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines epistasis as non-allelic interaction."
+    },
+    {
+        "id": 360,
+        "question": "Epistasis results in",
+        "options": [
+            "Normal Mendelian ratios",
+            "Modified phenotypic ratios",
+            "No variation",
+            "Continuous variation only"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states epistasis modifies Mendelian ratios."
+    },
+    {
+        "id": 361,
+        "question": "Which type of variation is heritable?",
+        "options": [
+            "Environmental",
+            "Acquired",
+            "Genetic",
+            "Somatic"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states genetic variation is heritable."
+    },
+    {
+        "id": 362,
+        "question": "Which process generates variation during gamete formation?",
+        "options": [
+            "Mitosis",
+            "Segregation",
+            "Crossing over",
+            "Binary fission"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states crossing over generates variation."
+    },
+    {
+        "id": 363,
+        "question": "Which process restores diploid chromosome number?",
+        "options": [
+            "Meiosis",
+            "Mitosis",
+            "Fertilisation",
+            "Segregation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states fertilisation restores diploid condition."
+    },
+    {
+        "id": 364,
+        "question": "Which law ensures equal separation of alleles into gametes?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines law of segregation."
+    },
+    {
+        "id": 365,
+        "question": "Which Mendelian law is universally applicable?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states law of segregation is universal."
+    },
+    {
+        "id": 366,
+        "question": "Which inheritance pattern shows bell-shaped distribution?",
+        "options": [
+            "Monogenic",
+            "Dihybrid",
+            "Polygenic",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic inheritance shows normal distribution."
+    },
+    {
+        "id": 367,
+        "question": "Which factor is essential for evolution?",
+        "options": [
+            "Uniformity",
+            "Variation",
+            "Cloning",
+            "Mitosis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states variation is essential for evolution."
+    },
+    {
+        "id": 368,
+        "question": "Which scientist coined the term gene?",
+        "options": [
+            "Mendel",
+            "Morgan",
+            "Johannsen",
+            "Darwin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Johannsen coined the term gene."
+    },
+    {
+        "id": 369,
+        "question": "Mendel presented his findings in the year",
+        "options": [
+            "1859",
+            "1865",
+            "1900",
+            "1866"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel presented results in 1865."
+    },
+    {
+        "id": 370,
+        "question": "Mendel’s work was rediscovered in",
+        "options": [
+            "1865",
+            "1880",
+            "1900",
+            "1910"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Mendel’s work was rediscovered in 1900."
+    },
+    {
+        "id": 371,
+        "question": "Which scientists rediscovered Mendel’s work?",
+        "options": [
+            "Morgan, Sutton, Boveri",
+            "De Vries, Correns, Tschermak",
+            "Watson, Crick, Franklin",
+            "Darwin, Wallace, Lamarck"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states De Vries, Correns and Tschermak rediscovered Mendel’s work."
+    },
+    {
+        "id": 372,
+        "question": "Which feature contributed most to Mendel’s success?",
+        "options": [
+            "Use of microscope",
+            "Large sample size",
+            "Use of animals",
+            "Study of fossils"
+        ],
+        "answer": 1,
+        "explanation": "NCERT highlights Mendel’s use of large sample size."
+    },
+    {
+        "id": 373,
+        "question": "Which term describes genetic constitution of an organism?",
+        "options": [
+            "Phenotype",
+            "Genotype",
+            "Genome",
+            "Allele"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines genotype as genetic constitution."
+    },
+    {
+        "id": 374,
+        "question": "Which term describes observable traits?",
+        "options": [
+            "Genotype",
+            "Genome",
+            "Phenotype",
+            "Allele"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines phenotype as observable traits."
+    },
+    {
+        "id": 375,
+        "question": "Which type of inheritance deviates from Mendelian ratios?",
+        "options": [
+            "Complete dominance",
+            "Segregation",
+            "Incomplete dominance",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states incomplete dominance deviates from Mendelian inheritance."
+    },
+    {
+        "id": 376,
+        "question": "Which inheritance shows both alleles dominant over recessive allele i?",
+        "options": [
+            "MN blood group",
+            "ABO blood group",
+            "Rh factor",
+            "Sex-linked inheritance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states IA and IB are dominant over i."
+    },
+    {
+        "id": 377,
+        "question": "Which blood group is universal donor?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states blood group O is universal donor."
+    },
+    {
+        "id": 378,
+        "question": "Which blood group is universal recipient?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states AB blood group is universal recipient."
+    },
+    {
+        "id": 379,
+        "question": "Which inheritance pattern best explains ABO blood groups?",
+        "options": [
+            "Polygenic inheritance",
+            "Multiple alleles and codominance",
+            "Incomplete dominance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ABO shows multiple alleles and codominance."
+    },
+    {
+        "id": 380,
+        "question": "Which phenomenon ensures reshuffling of genes between generations?",
+        "options": [
+            "Segregation",
+            "Crossing over",
+            "Mutation",
+            "Mitosis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over reshuffles genes."
+    },
+    {
+        "id": 381,
+        "question": "Which disorder is caused by absence of enzyme involved in amino acid metabolism?",
+        "options": [
+            "Sickle cell anaemia",
+            "Thalassemia",
+            "Phenylketonuria",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states PKU involves amino acid metabolism defect."
+    },
+    {
+        "id": 382,
+        "question": "Which genetic disorder affects vision?",
+        "options": [
+            "Haemophilia",
+            "Colour blindness",
+            "PKU",
+            "Thalassemia"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states colour blindness affects vision."
+    },
+    {
+        "id": 383,
+        "question": "Which disorder is Y-linked?",
+        "options": [
+            "Haemophilia",
+            "Colour blindness",
+            "Hypertrichosis",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states hypertrichosis is Y-linked."
+    },
+    {
+        "id": 384,
+        "question": "Which inheritance pattern involves genes on autosomes?",
+        "options": [
+            "Sex-linked inheritance",
+            "Autosomal inheritance",
+            "Polygenic inheritance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines autosomal inheritance."
+    },
+    {
+        "id": 385,
+        "question": "Which chromosomal abnormality involves exchange of segments?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 3,
+        "explanation": "NCERT defines translocation as exchange of segments."
+    },
+    {
+        "id": 386,
+        "question": "Which chromosomal abnormality involves reversal of segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines inversion as reversal of segment."
+    },
+    {
+        "id": 387,
+        "question": "Which chromosomal abnormality involves repetition of a segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines duplication as repetition of segment."
+    },
+    {
+        "id": 388,
+        "question": "Which genetic phenomenon explains parental combinations appearing more frequently than recombinants?",
+        "options": [
+            "Independent assortment",
+            "Linkage",
+            "Segregation",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage causes more parental combinations."
+    },
+    {
+        "id": 389,
+        "question": "Which inheritance pattern produces discrete phenotypic classes?",
+        "options": [
+            "Polygenic inheritance",
+            "Incomplete dominance",
+            "Monogenic inheritance",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states monogenic traits show discrete classes."
+    },
+    {
+        "id": 390,
+        "question": "Which genetic principle ensures stability of characters across generations?",
+        "options": [
+            "Mutation",
+            "Segregation",
+            "Linkage",
+            "Variation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation maintains stability of alleles."
+    },
+    {
+        "id": 391,
+        "question": "Which process does not contribute to genetic variation?",
+        "options": [
+            "Crossing over",
+            "Mutation",
+            "Segregation",
+            "Mitosis"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states mitosis does not create variation."
+    },
+    {
+        "id": 392,
+        "question": "Which phenomenon is responsible for formation of recombinant gametes?",
+        "options": [
+            "Segregation",
+            "Crossing over",
+            "Mitosis",
+            "Binary fission"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over forms recombinant gametes."
+    },
+    {
+        "id": 393,
+        "question": "Which genetic cross helps determine genotype of dominant phenotype?",
+        "options": [
+            "Selfing",
+            "Test cross",
+            "Back cross",
+            "Dihybrid cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states test cross reveals genotype."
+    },
+    {
+        "id": 394,
+        "question": "Which type of inheritance was first described by Mendel?",
+        "options": [
+            "Polygenic inheritance",
+            "Linkage",
+            "Particulate inheritance",
+            "Chromosomal inheritance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Mendel proposed particulate inheritance."
+    },
+    {
+        "id": 395,
+        "question": "Which Mendelian concept laid foundation of modern genetics?",
+        "options": [
+            "Blending inheritance",
+            "Inheritance of acquired traits",
+            "Particulate inheritance",
+            "Mutation theory"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states particulate inheritance is foundation of genetics."
+    },
+    {
+        "id": 396,
+        "question": "Which feature distinguishes genetic variation from environmental variation?",
+        "options": [
+            "Heritability",
+            "Visibility",
+            "Continuity",
+            "Uniformity"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states genetic variation is heritable."
+    },
+    {
+        "id": 397,
+        "question": "Which law explains equal probability of allele inheritance?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation ensures equal probability."
+    },
+    {
+        "id": 398,
+        "question": "Which phenomenon explains deviation from Mendelian dihybrid ratio?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Linkage",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states linkage causes deviation."
+    },
+    {
+        "id": 399,
+        "question": "Which inheritance shows environment modifying expression of genes?",
+        "options": [
+            "Monogenic inheritance",
+            "Polygenic inheritance",
+            "Sex-linked inheritance",
+            "Codominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic traits are influenced by environment."
+    },
+    {
+        "id": 400,
+        "question": "Which concept integrates Mendelian inheritance with chromosome behaviour?",
+        "options": [
+            "Mutation theory",
+            "Chromosomal theory of inheritance",
+            "Blending inheritance",
+            "Inheritance of acquired traits"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states chromosomal theory integrates genes with chromosomes."
+    },
+    {
+        "id": 401,
+        "question": "Which Mendelian principle states that characters are controlled by discrete units?",
+        "options": [
+            "Blending inheritance",
+            "Particulate inheritance",
+            "Inheritance of acquired traits",
+            "Mutation theory"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel proposed particulate inheritance through discrete factors."
+    },
+    {
+        "id": 402,
+        "question": "Which type of cross did Mendel perform to study one trait at a time?",
+        "options": [
+            "Dihybrid cross",
+            "Monohybrid cross",
+            "Test cross",
+            "Back cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines monohybrid cross as involving one pair of contrasting traits."
+    },
+    {
+        "id": 403,
+        "question": "True breeding parents are",
+        "options": [
+            "Heterozygous",
+            "Homozygous",
+            "Hybrid",
+            "Recombinant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states true breeding lines are homozygous."
+    },
+    {
+        "id": 404,
+        "question": "Which generation shows uniform phenotype in Mendel’s monohybrid cross?",
+        "options": [
+            "P",
+            "F1",
+            "F2",
+            "Test cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states F1 generation is uniform due to dominance."
+    },
+    {
+        "id": 405,
+        "question": "Which Mendelian ratio indicates genotypic outcome of monohybrid cross?",
+        "options": [
+            "3:1",
+            "1:1",
+            "1:2:1",
+            "9:3:3:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states monohybrid genotypic ratio is 1:2:1."
+    },
+    {
+        "id": 406,
+        "question": "Which ratio disproved blending inheritance?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states reappearance of parental traits in 1:2:1 disproved blending."
+    },
+    {
+        "id": 407,
+        "question": "Which trait of pea plant shows green and yellow forms?",
+        "options": [
+            "Seed shape",
+            "Seed colour",
+            "Pod shape",
+            "Flower colour"
+        ],
+        "answer": 1,
+        "explanation": "NCERT lists seed colour as yellow or green."
+    },
+    {
+        "id": 408,
+        "question": "Which trait is dominant in pea plant seed colour?",
+        "options": [
+            "Green",
+            "Yellow",
+            "Both",
+            "Neither"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states yellow seed colour is dominant over green."
+    },
+    {
+        "id": 409,
+        "question": "Which Mendelian cross involves two pairs of contrasting traits?",
+        "options": [
+            "Monohybrid",
+            "Test cross",
+            "Back cross",
+            "Dihybrid"
+        ],
+        "answer": 3,
+        "explanation": "NCERT defines dihybrid cross as involving two traits."
+    },
+    {
+        "id": 410,
+        "question": "Which F2 phenotypic ratio is expected in dihybrid cross?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1:1:1"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states dihybrid F2 ratio is 9:3:3:1."
+    },
+    {
+        "id": 411,
+        "question": "Which Mendelian law explains independent inheritance of two traits?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines law of independent assortment."
+    },
+    {
+        "id": 412,
+        "question": "Which meiotic event forms the basis of independent assortment?",
+        "options": [
+            "Crossing over",
+            "Random orientation of homologous chromosomes",
+            "Synapsis",
+            "Terminalisation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT links independent assortment to random orientation in metaphase I."
+    },
+    {
+        "id": 413,
+        "question": "Which condition leads to failure of law of independent assortment?",
+        "options": [
+            "Unlinked genes",
+            "Linked genes",
+            "Mutation",
+            "Segregation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linked genes do not assort independently."
+    },
+    {
+        "id": 414,
+        "question": "Which inheritance pattern shows intermediate phenotype?",
+        "options": [
+            "Codominance",
+            "Incomplete dominance",
+            "Polygenic inheritance",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines incomplete dominance as intermediate expression."
+    },
+    {
+        "id": 415,
+        "question": "Which plant is used as example of incomplete dominance?",
+        "options": [
+            "Pisum",
+            "Zea",
+            "Antirrhinum",
+            "Oryza"
+        ],
+        "answer": 2,
+        "explanation": "NCERT uses Antirrhinum (snapdragon) example."
+    },
+    {
+        "id": 416,
+        "question": "Which ratio is observed in F2 of incomplete dominance?",
+        "options": [
+            "3:1",
+            "1:2:1",
+            "9:3:3:1",
+            "1:1"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states incomplete dominance gives 1:2:1 phenotypic ratio."
+    },
+    {
+        "id": 417,
+        "question": "Which inheritance pattern shows equal expression of both alleles?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic inheritance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines codominance."
+    },
+    {
+        "id": 418,
+        "question": "Which blood group shows codominance?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states AB blood group shows codominance."
+    },
+    {
+        "id": 419,
+        "question": "Which inheritance involves more than two alleles of a gene?",
+        "options": [
+            "Polygenic",
+            "Multiple alleles",
+            "Codominance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines multiple alleles."
+    },
+    {
+        "id": 420,
+        "question": "Which gene system shows multiple alleles in humans?",
+        "options": [
+            "MN",
+            "Rh",
+            "ABO",
+            "Sex-linked"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states ABO blood group has multiple alleles."
+    },
+    {
+        "id": 421,
+        "question": "Which allele is recessive in ABO blood group system?",
+        "options": [
+            "IA",
+            "IB",
+            "i",
+            "IA and IB"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states i allele is recessive."
+    },
+    {
+        "id": 422,
+        "question": "Which phenotype lacks both A and B antigens?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states O blood group lacks both antigens."
+    },
+    {
+        "id": 423,
+        "question": "Which inheritance produces continuous variation?",
+        "options": [
+            "Monogenic",
+            "Codominance",
+            "Polygenic",
+            "Incomplete dominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic inheritance produces continuous variation."
+    },
+    {
+        "id": 424,
+        "question": "Human height is an example of",
+        "options": [
+            "Monogenic trait",
+            "Sex-linked trait",
+            "Polygenic trait",
+            "Codominant trait"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states human height is polygenic."
+    },
+    {
+        "id": 425,
+        "question": "Which distribution curve is formed by polygenic traits?",
+        "options": [
+            "Discrete",
+            "Skewed",
+            "Bell-shaped",
+            "Bimodal"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states polygenic traits show bell-shaped curve."
+    },
+    {
+        "id": 426,
+        "question": "Which term describes one gene affecting many traits?",
+        "options": [
+            "Polygeny",
+            "Pleiotropy",
+            "Epistasis",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines pleiotropy."
+    },
+    {
+        "id": 427,
+        "question": "Which disorder shows pleiotropic effects?",
+        "options": [
+            "PKU",
+            "Colour blindness",
+            "Sickle cell anaemia",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states sickle cell anaemia shows pleiotropy."
+    },
+    {
+        "id": 428,
+        "question": "Which scientist proposed chromosomal theory of inheritance?",
+        "options": [
+            "Mendel",
+            "Morgan",
+            "Sutton and Boveri",
+            "Johannsen"
+        ],
+        "answer": 2,
+        "explanation": "NCERT credits Sutton and Boveri."
+    },
+    {
+        "id": 429,
+        "question": "Which organism was used by Morgan to verify chromosomal theory?",
+        "options": [
+            "Pea",
+            "Maize",
+            "Drosophila",
+            "Antirrhinum"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Morgan used Drosophila."
+    },
+    {
+        "id": 430,
+        "question": "Which phenomenon explains genes inherited together?",
+        "options": [
+            "Segregation",
+            "Independent assortment",
+            "Linkage",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines linkage."
+    },
+    {
+        "id": 431,
+        "question": "Which linkage shows some recombination?",
+        "options": [
+            "Complete linkage",
+            "Incomplete linkage",
+            "Sex linkage",
+            "Autosomal linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states incomplete linkage allows recombination."
+    },
+    {
+        "id": 432,
+        "question": "Which linkage shows zero recombination?",
+        "options": [
+            "Incomplete linkage",
+            "Complete linkage",
+            "Sex linkage",
+            "Autosomal linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states complete linkage shows no recombination."
+    },
+    {
+        "id": 433,
+        "question": "Recombination frequency depends on",
+        "options": [
+            "Gene size",
+            "Distance between genes",
+            "Chromosome number",
+            "Dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states recombination frequency depends on gene distance."
+    },
+    {
+        "id": 434,
+        "question": "Maximum recombination frequency is",
+        "options": [
+            "25%",
+            "50%",
+            "75%",
+            "100%"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states maximum recombination frequency is 50%."
+    },
+    {
+        "id": 435,
+        "question": "Which process produces recombinants?",
+        "options": [
+            "Segregation",
+            "Crossing over",
+            "Mitosis",
+            "Binary fission"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over produces recombinants."
+    },
+    {
+        "id": 436,
+        "question": "Crossing over occurs between",
+        "options": [
+            "Sister chromatids",
+            "Non-sister chromatids",
+            "Centromeres",
+            "Telomeres"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over occurs between non-sister chromatids."
+    },
+    {
+        "id": 437,
+        "question": "Which stage of meiosis shows chiasmata clearly?",
+        "options": [
+            "Pachytene",
+            "Diplotene",
+            "Leptotene",
+            "Metaphase I"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states chiasmata become visible in diplotene."
+    },
+    {
+        "id": 438,
+        "question": "Which stage shows terminalisation of chiasmata?",
+        "options": [
+            "Zygotene",
+            "Pachytene",
+            "Diakinesis",
+            "Diplotene"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states terminalisation occurs in diakinesis."
+    },
+    {
+        "id": 439,
+        "question": "Which unit is used for genetic mapping?",
+        "options": [
+            "Nanometre",
+            "Centimorgan",
+            "Base pair",
+            "Micron"
+        ],
+        "answer": 1,
+        "explanation": "NCERT uses centimorgan for genetic distance."
+    },
+    {
+        "id": 440,
+        "question": "Which inheritance involves genes on sex chromosomes?",
+        "options": [
+            "Autosomal",
+            "Sex-linked",
+            "Polygenic",
+            "Epistatic"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines sex-linked inheritance."
+    },
+    {
+        "id": 441,
+        "question": "Which sex is heterogametic in humans?",
+        "options": [
+            "Female",
+            "Male",
+            "Both",
+            "None"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states males are heterogametic (XY)."
+    },
+    {
+        "id": 442,
+        "question": "Which chromosome determines maleness in humans?",
+        "options": [
+            "X",
+            "Y",
+            "Autosome 21",
+            "Both X and Y"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Y chromosome determines sex."
+    },
+    {
+        "id": 443,
+        "question": "Colour blindness is inherited as",
+        "options": [
+            "Autosomal dominant",
+            "Autosomal recessive",
+            "X-linked recessive",
+            "Y-linked"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states colour blindness is X-linked recessive."
+    },
+    {
+        "id": 444,
+        "question": "Why are males more affected by X-linked disorders?",
+        "options": [
+            "Two X chromosomes",
+            "Single X chromosome",
+            "Dominant Y chromosome",
+            "Mutation rate"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states males have only one X chromosome."
+    },
+    {
+        "id": 445,
+        "question": "Which disorder lacks clotting factor VIII?",
+        "options": [
+            "Haemophilia A",
+            "Haemophilia B",
+            "Thalassemia",
+            "PKU"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states haemophilia A lacks factor VIII."
+    },
+    {
+        "id": 446,
+        "question": "Which disorder lacks clotting factor IX?",
+        "options": [
+            "Haemophilia A",
+            "Haemophilia B",
+            "Thalassemia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states haemophilia B lacks factor IX."
+    },
+    {
+        "id": 447,
+        "question": "Which chromosomal disorder is trisomy 21?",
+        "options": [
+            "Turner’s",
+            "Klinefelter’s",
+            "Down’s",
+            "Edward"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Down’s syndrome is trisomy 21."
+    },
+    {
+        "id": 448,
+        "question": "Which syndrome is XO in humans?",
+        "options": [
+            "Down’s",
+            "Turner’s",
+            "Klinefelter’s",
+            "Patau"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Turner’s syndrome is XO."
+    },
+    {
+        "id": 449,
+        "question": "Which syndrome is XXY in humans?",
+        "options": [
+            "Down’s",
+            "Turner’s",
+            "Klinefelter’s",
+            "Edward"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Klinefelter’s syndrome is XXY."
+    },
+    {
+        "id": 450,
+        "question": "Which chromosomal disorder involves trisomy 18?",
+        "options": [
+            "Down’s",
+            "Edward",
+            "Patau",
+            "Turner’s"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Edward syndrome is trisomy 18."
+    },
+    {
+        "id": 451,
+        "question": "Which chromosomal disorder involves trisomy 13?",
+        "options": [
+            "Edward",
+            "Down’s",
+            "Patau",
+            "Turner’s"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Patau syndrome is trisomy 13."
+    },
+    {
+        "id": 452,
+        "question": "Which term describes loss or gain of chromosome number?",
+        "options": [
+            "Euploidy",
+            "Aneuploidy",
+            "Polyploidy",
+            "Translocation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines aneuploidy."
+    },
+    {
+        "id": 453,
+        "question": "Which chromosomal aberration involves loss of a segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 0,
+        "explanation": "NCERT defines deletion."
+    },
+    {
+        "id": 454,
+        "question": "Cri-du-chat syndrome is due to deletion of",
+        "options": [
+            "5p",
+            "21q",
+            "18p",
+            "13q"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states deletion of short arm of chromosome 5."
+    },
+    {
+        "id": 455,
+        "question": "Which mutation changes a single base pair?",
+        "options": [
+            "Frameshift",
+            "Point mutation",
+            "Deletion",
+            "Duplication"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines point mutation."
+    },
+    {
+        "id": 456,
+        "question": "Which mutation alters reading frame?",
+        "options": [
+            "Substitution",
+            "Insertion",
+            "Deletion",
+            "Insertion or deletion"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states insertion or deletion causes frameshift."
+    },
+    {
+        "id": 457,
+        "question": "Sickle cell anaemia is caused by substitution of",
+        "options": [
+            "Valine for glutamic acid",
+            "Glutamic acid for valine",
+            "Alanine for glycine",
+            "Serine for alanine"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states valine replaces glutamic acid."
+    },
+    {
+        "id": 458,
+        "question": "Which inheritance pattern does sickle cell anaemia show?",
+        "options": [
+            "Incomplete dominance",
+            "Codominance",
+            "Polygenic",
+            "Autosomal dominant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states sickle cell anaemia shows codominance."
+    },
+    {
+        "id": 459,
+        "question": "Which disorder shows reduced haemoglobin synthesis?",
+        "options": [
+            "Sickle cell anaemia",
+            "Thalassemia",
+            "Haemophilia",
+            "PKU"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states thalassemia involves reduced haemoglobin synthesis."
+    },
+    {
+        "id": 460,
+        "question": "Which disorder is autosomal recessive?",
+        "options": [
+            "Huntington’s",
+            "PKU",
+            "Haemophilia",
+            "Colour blindness"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states phenylketonuria is autosomal recessive."
+    },
+    {
+        "id": 461,
+        "question": "Phenylketonuria is caused by absence of enzyme",
+        "options": [
+            "Phenylalanine hydroxylase",
+            "Tyrosinase",
+            "Amylase",
+            "Pepsin"
+        ],
+        "answer": 0,
+        "explanation": "NCERT states PKU lacks phenylalanine hydroxylase."
+    },
+    {
+        "id": 462,
+        "question": "Untreated PKU leads to",
+        "options": [
+            "Anaemia",
+            "Mental retardation",
+            "Blindness",
+            "Sterility"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states untreated PKU causes mental retardation."
+    },
+    {
+        "id": 463,
+        "question": "Which disorder is autosomal dominant?",
+        "options": [
+            "PKU",
+            "Thalassemia",
+            "Huntington’s disease",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease is autosomal dominant."
+    },
+    {
+        "id": 464,
+        "question": "Huntington’s disease usually appears",
+        "options": [
+            "At birth",
+            "In childhood",
+            "In middle age",
+            "Only in females"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Huntington’s disease shows late onset."
+    },
+    {
+        "id": 465,
+        "question": "Which inheritance involves interaction of non-allelic genes?",
+        "options": [
+            "Codominance",
+            "Epistasis",
+            "Polygenic",
+            "Incomplete dominance"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines epistasis."
+    },
+    {
+        "id": 466,
+        "question": "Epistasis leads to",
+        "options": [
+            "Normal ratios",
+            "Modified phenotypic ratios",
+            "No variation",
+            "Continuous variation only"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states epistasis modifies Mendelian ratios."
+    },
+    {
+        "id": 467,
+        "question": "Which type of variation is heritable?",
+        "options": [
+            "Environmental",
+            "Acquired",
+            "Genetic",
+            "Somatic"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states genetic variation is heritable."
+    },
+    {
+        "id": 468,
+        "question": "Which process does not create variation?",
+        "options": [
+            "Crossing over",
+            "Mutation",
+            "Segregation",
+            "Mitosis"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states mitosis does not generate variation."
+    },
+    {
+        "id": 469,
+        "question": "Which process restores diploid chromosome number?",
+        "options": [
+            "Meiosis",
+            "Mitosis",
+            "Fertilisation",
+            "Segregation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states fertilisation restores diploid state."
+    },
+    {
+        "id": 470,
+        "question": "Which Mendelian law is universally applicable?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states law of segregation is universal."
+    },
+    {
+        "id": 471,
+        "question": "Which scientist coined the term gene?",
+        "options": [
+            "Mendel",
+            "Morgan",
+            "Johannsen",
+            "Darwin"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Johannsen coined the term gene."
+    },
+    {
+        "id": 472,
+        "question": "Mendel presented his results in the year",
+        "options": [
+            "1859",
+            "1865",
+            "1866",
+            "1900"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states Mendel presented results in 1865."
+    },
+    {
+        "id": 473,
+        "question": "Mendel’s work was rediscovered in",
+        "options": [
+            "1865",
+            "1880",
+            "1900",
+            "1910"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states Mendel’s work was rediscovered in 1900."
+    },
+    {
+        "id": 474,
+        "question": "Which scientists rediscovered Mendel’s work?",
+        "options": [
+            "Watson and Crick",
+            "Morgan and Sutton",
+            "De Vries, Correns, Tschermak",
+            "Darwin and Wallace"
+        ],
+        "answer": 2,
+        "explanation": "NCERT lists De Vries, Correns and Tschermak."
+    },
+    {
+        "id": 475,
+        "question": "Which feature contributed to Mendel’s success?",
+        "options": [
+            "Use of microscope",
+            "Large sample size",
+            "Study of animals",
+            "Use of chemicals"
+        ],
+        "answer": 1,
+        "explanation": "NCERT highlights large sample size."
+    },
+    {
+        "id": 476,
+        "question": "Which term describes genetic constitution?",
+        "options": [
+            "Phenotype",
+            "Genotype",
+            "Genome",
+            "Allele"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines genotype."
+    },
+    {
+        "id": 477,
+        "question": "Which term describes observable characters?",
+        "options": [
+            "Genotype",
+            "Genome",
+            "Phenotype",
+            "Allele"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines phenotype."
+    },
+    {
+        "id": 478,
+        "question": "Which inheritance deviates from Mendelian ratios?",
+        "options": [
+            "Complete dominance",
+            "Segregation",
+            "Incomplete dominance",
+            "Independent assortment"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states incomplete dominance deviates from Mendelian inheritance."
+    },
+    {
+        "id": 479,
+        "question": "Which blood group is universal donor?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 3,
+        "explanation": "NCERT states blood group O is universal donor."
+    },
+    {
+        "id": 480,
+        "question": "Which blood group is universal recipient?",
+        "options": [
+            "A",
+            "B",
+            "AB",
+            "O"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states AB blood group is universal recipient."
+    },
+    {
+        "id": 481,
+        "question": "Which inheritance pattern explains ABO blood groups?",
+        "options": [
+            "Polygenic",
+            "Multiple alleles and codominance",
+            "Incomplete dominance",
+            "Epistasis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states ABO shows multiple alleles and codominance."
+    },
+    {
+        "id": 482,
+        "question": "Which phenomenon ensures reshuffling of genes?",
+        "options": [
+            "Segregation",
+            "Crossing over",
+            "Mutation",
+            "Mitosis"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over reshuffles genes."
+    },
+    {
+        "id": 483,
+        "question": "Which disorder affects amino acid metabolism?",
+        "options": [
+            "Sickle cell anaemia",
+            "Thalassemia",
+            "PKU",
+            "Haemophilia"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states PKU affects phenylalanine metabolism."
+    },
+    {
+        "id": 484,
+        "question": "Which disorder affects vision?",
+        "options": [
+            "Haemophilia",
+            "Colour blindness",
+            "PKU",
+            "Thalassemia"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states colour blindness affects vision."
+    },
+    {
+        "id": 485,
+        "question": "Which trait is Y-linked?",
+        "options": [
+            "Haemophilia",
+            "Colour blindness",
+            "Hypertrichosis",
+            "PKU"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states hypertrichosis is Y-linked."
+    },
+    {
+        "id": 486,
+        "question": "Which chromosomal aberration involves exchange of segments?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 3,
+        "explanation": "NCERT defines translocation."
+    },
+    {
+        "id": 487,
+        "question": "Which aberration involves reversal of a segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT defines inversion."
+    },
+    {
+        "id": 488,
+        "question": "Which aberration involves repetition of a segment?",
+        "options": [
+            "Deletion",
+            "Duplication",
+            "Inversion",
+            "Translocation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT defines duplication."
+    },
+    {
+        "id": 489,
+        "question": "Which phenomenon causes parental combinations to appear more frequently?",
+        "options": [
+            "Independent assortment",
+            "Linkage",
+            "Segregation",
+            "Mutation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states linkage results in more parental combinations."
+    },
+    {
+        "id": 490,
+        "question": "Which inheritance shows discrete phenotypic classes?",
+        "options": [
+            "Polygenic",
+            "Incomplete dominance",
+            "Monogenic",
+            "Codominance"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states monogenic traits show discrete variation."
+    },
+    {
+        "id": 491,
+        "question": "Which genetic principle ensures stability of characters?",
+        "options": [
+            "Mutation",
+            "Segregation",
+            "Linkage",
+            "Variation"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states segregation maintains stability of alleles."
+    },
+    {
+        "id": 492,
+        "question": "Which process forms recombinant gametes?",
+        "options": [
+            "Segregation",
+            "Crossing over",
+            "Mitosis",
+            "Binary fission"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states crossing over forms recombinant gametes."
+    },
+    {
+        "id": 493,
+        "question": "Which cross determines genotype of dominant phenotype?",
+        "options": [
+            "Selfing",
+            "Test cross",
+            "Back cross",
+            "Dihybrid cross"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states test cross reveals genotype."
+    },
+    {
+        "id": 494,
+        "question": "Which Mendelian idea forms basis of modern genetics?",
+        "options": [
+            "Blending inheritance",
+            "Inheritance of acquired traits",
+            "Particulate inheritance",
+            "Mutation theory"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states particulate inheritance forms foundation of genetics."
+    },
+    {
+        "id": 495,
+        "question": "Which type of variation is not inherited?",
+        "options": [
+            "Genetic",
+            "Environmental",
+            "Germinal",
+            "Heritable"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states environmental variation is not inherited."
+    },
+    {
+        "id": 496,
+        "question": "Which law explains equal probability of allele transmission?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Independent assortment",
+            "Linkage"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states law of segregation ensures equal probability."
+    },
+    {
+        "id": 497,
+        "question": "Which phenomenon explains deviation from dihybrid ratio?",
+        "options": [
+            "Dominance",
+            "Segregation",
+            "Linkage",
+            "Mutation"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states linkage causes deviation from 9:3:3:1 ratio."
+    },
+    {
+        "id": 498,
+        "question": "Which inheritance is influenced by environment?",
+        "options": [
+            "Monogenic",
+            "Polygenic",
+            "Sex-linked",
+            "Codominant"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states polygenic traits are influenced by environment."
+    },
+    {
+        "id": 499,
+        "question": "Which concept connects Mendelian inheritance with meiosis?",
+        "options": [
+            "Mutation theory",
+            "Chromosomal theory",
+            "Blending inheritance",
+            "Acquired traits"
+        ],
+        "answer": 1,
+        "explanation": "NCERT states chromosomal theory links genes with meiosis."
+    },
+    {
+        "id": 500,
+        "question": "Which Mendelian concept established genetics as a science?",
+        "options": [
+            "Continuous variation",
+            "Blending inheritance",
+            "Particulate inheritance",
+            "Inheritance of acquired traits"
+        ],
+        "answer": 2,
+        "explanation": "NCERT states particulate inheritance established genetics."
+    }
+]
