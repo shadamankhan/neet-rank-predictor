@@ -1,6 +1,7 @@
 import React, { useState, useRef, useEffect } from 'react';
 import './AiTestGen.css';
 import { useNavigate } from 'react-router-dom';
+import { getApiBase } from '../apiConfig';
 
 const AiTestGen = () => {
     const navigate = useNavigate();
@@ -29,7 +30,7 @@ const AiTestGen = () => {
         setLoading(true);
 
         try {
-            const response = await fetch('/api/ai/chat', {
+            const response = await fetch(`${getApiBase()}/api/ai/chat`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({ message: text })
@@ -56,7 +57,7 @@ const AiTestGen = () => {
     const generateTest = async (constraints) => {
         setMessages(prev => [...prev, { role: 'ai', text: "Generating your test paper... Please wait." }]);
         try {
-            const response = await fetch('http://localhost:5000/api/ai/generate', {
+            const response = await fetch(`${getApiBase()}/api/ai/generate`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(constraints)
@@ -80,7 +81,7 @@ const AiTestGen = () => {
         setMessages(prev => [...prev, { role: 'ai', text: "Saving test to your dashboard..." }]);
 
         try {
-            const response = await fetch('/api/ai/save', {
+            const response = await fetch(`${getApiBase()}/api/ai/save`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(generatedTest)

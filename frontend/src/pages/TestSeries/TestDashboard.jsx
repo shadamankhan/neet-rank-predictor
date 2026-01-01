@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { getApiBase } from '../../apiConfig';
 import './TestDashboard.css'; // Will create this next
 
 
@@ -11,7 +12,7 @@ const TestDashboard = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch('http://localhost:5000/api/test-series/dashboard')
+        fetch(`${getApiBase()}/api/test-series/dashboard`)
             .then(res => res.json())
             .then(data => {
                 setData(data);

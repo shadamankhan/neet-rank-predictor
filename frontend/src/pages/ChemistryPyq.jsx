@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { getApiBase } from '../apiConfig';
 import './ChemistryPyq.css'; // We'll create a basic CSS file for this
 
 const ChemistryPyq = () => {
@@ -12,7 +13,7 @@ const ChemistryPyq = () => {
     useEffect(() => {
         const fetchChapters = async () => {
             try {
-                const response = await axios.get('http://localhost:5000/api/chemistry-pyq');
+                const response = await axios.get(`${getApiBase()}/api/chemistry-pyq`);
                 if (response.data.ok) {
                     setChapters(response.data.chapters);
                 } else {

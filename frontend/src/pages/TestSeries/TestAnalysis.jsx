@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate, useParams } from 'react-router-dom';
+import { getApiBase } from '../../apiConfig';
 import './TestAnalysis.css'; // Will create this
 
 const TestAnalysis = () => {
@@ -13,7 +14,7 @@ const TestAnalysis = () => {
         const fetchResult = async () => {
             try {
                 // 'id' param here is the resultId returned from submit, NOT testId
-                const res = await fetch(`http://localhost:5000/api/test-series/result/${id}`);
+                const res = await fetch(`${getApiBase()}/api/test-series/result/${id}`);
                 const data = await res.json();
                 if (data.ok) {
                     // Normalize data structure if needed to match UI expectations

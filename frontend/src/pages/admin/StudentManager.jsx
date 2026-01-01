@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
+import { getApiBase } from '../../apiConfig';
 
 export default function StudentManager() {
     const navigate = useNavigate();
@@ -14,7 +15,7 @@ export default function StudentManager() {
 
     const fetchStudents = async () => {
         try {
-            const res = await axios.get('http://localhost:5000/api/students');
+            const res = await axios.get(`${getApiBase()}/api/students`);
             if (res.data.ok) {
                 setStudents(res.data.students);
             }
@@ -100,8 +101,8 @@ export default function StudentManager() {
                                         </td>
                                         <td className="px-6 py-4 text-center">
                                             <span className={`px-2.5 py-0.5 rounded-full text-xs font-bold ${student.avgScore >= 600 ? 'bg-green-100 text-green-700' :
-                                                    student.avgScore >= 400 ? 'bg-yellow-100 text-yellow-700' :
-                                                        'bg-red-100 text-red-700'
+                                                student.avgScore >= 400 ? 'bg-yellow-100 text-yellow-700' :
+                                                    'bg-red-100 text-red-700'
                                                 }`}>
                                                 {student.avgScore} / 720
                                             </span>

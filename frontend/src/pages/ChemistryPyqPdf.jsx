@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import './ChemistryPyq.css'; // Reuse existing CSS
 
+import { getApiBase } from '../apiConfig';
 const ChemistryPyqPdf = () => {
     const navigate = useNavigate();
     const [chapters, setChapters] = useState([]);
@@ -13,7 +14,7 @@ const ChemistryPyqPdf = () => {
         const fetchChapters = async () => {
             try {
                 // Fetch from the new PDF endpoint
-                const response = await axios.get('http://localhost:5000/api/chemistry-pyq/pdfs');
+                const response = await axios.get(`${getApiBase()}/api/chemistry-pyq/pdfs`);
                 if (response.data.ok) {
                     setChapters(response.data.chapters);
                 } else {
@@ -32,7 +33,7 @@ const ChemistryPyqPdf = () => {
 
     const handleViewPdf = (url) => {
         // Open PDF in new tab. URL is like /data/quizzes/file.pdf, need full localhost URL
-        const fullUrl = `http://localhost:5000${url}`;
+        const fullUrl = `${getApiBase()}${url}`;
         window.open(fullUrl, '_blank');
     };
 

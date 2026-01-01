@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
 import { useAuth } from '../useAuth';
+import { getApiBase } from '../apiConfig';
 
 export default function AskQueryModal({ isOpen, onClose }) {
     const { user } = useAuth();
@@ -58,7 +59,7 @@ export default function AskQueryModal({ isOpen, onClose }) {
                 uid: user?.uid
             };
 
-            const res = await fetch(`${import.meta.env.VITE_API_BASE_URL || ''}/api/queries/submit`, {
+            const res = await fetch(`${getApiBase()}/api/queries/submit`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(payload)

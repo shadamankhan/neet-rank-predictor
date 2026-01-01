@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import { getApiBase } from '../../apiConfig';
 import './TestSeriesDetails.css'; // Will create this
 
 const TestSeriesDetails = () => {
@@ -10,7 +11,7 @@ const TestSeriesDetails = () => {
     const [loading, setLoading] = useState(true);
 
     useEffect(() => {
-        fetch(`http://localhost:5000/api/test-series/${id}`)
+        fetch(`${getApiBase()}/api/test-series/${id}`)
             .then(res => res.json())
             .then(data => {
                 setSeriesInfo(data);

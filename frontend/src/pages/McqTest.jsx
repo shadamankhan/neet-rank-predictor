@@ -5,6 +5,7 @@ import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import 'katex/dist/katex.min.css';
 import axios from 'axios';
+import { getApiBase } from '../apiConfig';
 import './McqTest.css';
 
 const McqTest = ({ subject = 'chemistry' }) => {
@@ -12,8 +13,8 @@ const McqTest = ({ subject = 'chemistry' }) => {
   const navigate = useNavigate();
 
   const baseUrl = subject === 'physics'
-    ? 'http://localhost:5000/api/physics-pyq'
-    : 'http://localhost:5000/api/chemistry-pyq';
+    ? `${getApiBase()}/api/physics-pyq`
+    : `${getApiBase()}/api/chemistry-pyq`;
 
   // State
   const [questionCount, setQuestionCount] = useState(45);

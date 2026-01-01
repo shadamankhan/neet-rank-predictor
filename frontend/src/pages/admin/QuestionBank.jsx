@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import axios from 'axios';
 import QuestionBrowser from '../../components/admin/QuestionBrowser';
+import { getApiBase } from '../../apiConfig';
 
 export default function QuestionBank() {
     const [refreshKey, setRefreshKey] = useState(0);
@@ -25,7 +26,7 @@ export default function QuestionBank() {
 
         setUploading(true);
         try {
-            const res = await axios.post('http://localhost:5000/api/question-bank/upload', formData, {
+            const res = await axios.post(`${getApiBase()}/api/question-bank/upload`, formData, {
                 headers: { 'Content-Type': 'multipart/form-data' }
             });
             if (res.data.ok) {
@@ -51,7 +52,7 @@ export default function QuestionBank() {
         }
 
         try {
-            const res = await axios.post('http://localhost:5000/api/question-bank/question', manualQ);
+            const res = await axios.post(`${getApiBase()}/api/question-bank/question`, manualQ);
             if (res.data.ok) {
                 alert('Question added successfully to Manual Questions!');
                 setShowManualEntry(false);

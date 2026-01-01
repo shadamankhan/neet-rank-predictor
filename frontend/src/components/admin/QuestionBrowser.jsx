@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
+import { getApiBase } from '../../apiConfig';
 
 export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSelectedSubject = 'Physics', preSelectedChapters = [] }) {
     const [files, setFiles] = useState([]);
@@ -44,7 +45,7 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
 
     const fetchFiles = async () => {
         try {
-            const res = await axios.get('http://localhost:5000/api/question-bank/files');
+            const res = await axios.get(`${getApiBase()}/api/question-bank/files`);
             if (res.data.ok) {
                 setFiles(res.data.files);
             }
@@ -67,7 +68,7 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
 
         try {
             for (const file of selectedFiles) {
-                const res = await axios.get(`http://localhost:5000/api/question-bank/files/${file}`);
+                const res = await axios.get(`${getApiBase()}/api/question-bank/files/${file}`);
                 if (res.data.ok && Array.isArray(res.data.data)) {
                     // Tag with source file for tracking
                     const qs = res.data.data.map(q => ({ ...q, _source: file }));

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { getApiBase } from '../apiConfig';
 import ReactMarkdown from 'react-markdown';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
@@ -20,8 +21,8 @@ const PdfTestInterface = () => {
     const [score, setScore] = useState(0);
     const [viewMode, setViewMode] = useState('pdf');
 
-    // Load PDF URL: http://localhost:5000/data/quizzes/FILENAME
-    const pdfUrl = `http://localhost:5000/data/quizzes/${filename}`;
+    // Load PDF URL
+    const pdfUrl = `${getApiBase()}/data/quizzes/${filename}`;
 
     useEffect(() => {
         const fetchQuizData = async () => {
@@ -29,7 +30,7 @@ const PdfTestInterface = () => {
                 // Fetch JSON data for answer key
                 // The backend route /api/chemistry-pyq/:filename/parsed logic matches:
                 // filename.pdf -> filename.json
-                const response = await axios.get(`http://localhost:5000/api/chemistry-pyq/${filename}/parsed`);
+                const response = await axios.get(`${getApiBase()}/api/chemistry-pyq/${filename}/parsed`);
                 if (response.data.ok) {
                     setQuestions(response.data.data);
                 } else {

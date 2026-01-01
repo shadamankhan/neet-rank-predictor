@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { getApiBase } from '../../apiConfig';
 
 export default function TestResults() {
     const { testId } = useParams();
@@ -12,7 +13,7 @@ export default function TestResults() {
     useEffect(() => {
         const fetchResults = async () => {
             try {
-                const res = await axios.get(`http://localhost:5000/api/test-series/test/${testId}/results`);
+                const res = await axios.get(`${getApiBase()}/api/test-series/test/${testId}/results`);
                 if (res.data.ok) {
                     setResults(res.data.results);
                     if (res.data.results.length > 0) {
@@ -82,8 +83,8 @@ export default function TestResults() {
                                     <tr key={res.id} className="hover:bg-gray-50 transition">
                                         <td className="px-6 py-4">
                                             <div className={`w-8 h-8 rounded-full flex items-center justify-center font-bold text-sm ${idx === 0 ? 'bg-yellow-100 text-yellow-700' :
-                                                    idx === 1 ? 'bg-gray-200 text-gray-700' :
-                                                        idx === 2 ? 'bg-orange-100 text-orange-700' : 'bg-gray-50 text-gray-500'
+                                                idx === 1 ? 'bg-gray-200 text-gray-700' :
+                                                    idx === 2 ? 'bg-orange-100 text-orange-700' : 'bg-gray-50 text-gray-500'
                                                 }`}>
                                                 #{idx + 1}
                                             </div>

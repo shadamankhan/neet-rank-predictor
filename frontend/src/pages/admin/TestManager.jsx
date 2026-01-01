@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
 import { getAuth } from 'firebase/auth';
+import { getApiBase } from '../../apiConfig';
 
 export default function TestManager() {
     const navigate = useNavigate();
@@ -18,7 +19,7 @@ export default function TestManager() {
             // const auth = getAuth();
             // const token = auth.currentUser ? await auth.currentUser.getIdToken() : '';
 
-            const res = await axios.get('http://localhost:5000/api/test-series');
+            const res = await axios.get(`${getApiBase()}/api/test-series`);
             if (res.data.ok) {
                 setTests(res.data.tests || []);
             }
@@ -33,7 +34,7 @@ export default function TestManager() {
         if (!window.confirm("Are you sure you want to delete this test? This action cannot be undone.")) return;
 
         try {
-            const res = await axios.delete(`http://localhost:5000/api/test-series/${id}`);
+            const res = await axios.delete(`${getApiBase()}/api/test-series/${id}`);
             if (res.data.ok) {
                 setTests(tests.filter(t => t.id !== id));
             } else {

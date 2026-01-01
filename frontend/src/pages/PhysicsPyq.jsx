@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { getApiBase } from '../apiConfig';
 import './ChemistryPyq.css'; // Reusing the same CSS
 
 const PhysicsPyq = () => {
@@ -12,7 +13,7 @@ const PhysicsPyq = () => {
     useEffect(() => {
         const fetchChapters = async () => {
             try {
-                const response = await axios.get('http://localhost:5000/api/physics-pyq');
+                const response = await axios.get(`${getApiBase()}/api/physics-pyq`);
                 if (response.data.ok) {
                     setChapters(response.data.chapters);
                 } else {

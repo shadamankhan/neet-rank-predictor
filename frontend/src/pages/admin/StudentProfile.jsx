@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
+import { getApiBase } from '../../apiConfig';
 
 export default function StudentProfile() {
     const { uid } = useParams();
@@ -14,7 +15,7 @@ export default function StudentProfile() {
 
     const fetchStudentDetail = async () => {
         try {
-            const res = await axios.get(`http://localhost:5000/api/students/${uid}`);
+            const res = await axios.get(`${getApiBase()}/api/students/${uid}`);
             if (res.data.ok) {
                 setData(res.data);
             }
@@ -97,7 +98,7 @@ export default function StudentProfile() {
                                 <div className="text-right">
                                     <div className="font-bold text-gray-900 text-lg">{test.score} <span className="text-xs font-normal text-gray-500">/ {test.totalMarks}</span></div>
                                     <div className={`text-xs font-bold ${(test.score / test.totalMarks) >= 0.8 ? 'text-green-600' :
-                                            (test.score / test.totalMarks) >= 0.5 ? 'text-yellow-600' : 'text-red-600'
+                                        (test.score / test.totalMarks) >= 0.5 ? 'text-yellow-600' : 'text-red-600'
                                         }`}>
                                         {Math.round((test.score / test.totalMarks) * 100)}%
                                     </div>

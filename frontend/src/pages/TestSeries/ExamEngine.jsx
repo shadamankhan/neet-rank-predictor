@@ -5,6 +5,7 @@ import ReactMarkdown from 'react-markdown';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import 'katex/dist/katex.min.css';
+import { getApiBase } from '../../apiConfig';
 import './ExamEngine.css';
 
 const ExamEngine = ({ mode }) => {
@@ -40,7 +41,7 @@ const ExamEngine = ({ mode }) => {
                 // 1. If Review Mode, Fetch Result First
                 if (isReviewMode) {
                     const resParams = resultId || id; // resultId is priority
-                    const res = await fetch(`http://localhost:5000/api/test-series/result/${resParams}`);
+                    const res = await fetch(`${getApiBase()}/api/test-series/result/${resParams}`);
                     const resData = await res.json();
 
                     if (!resData.ok) throw new Error("Failed to load result");
@@ -52,7 +53,7 @@ const ExamEngine = ({ mode }) => {
                 // 2. Fetch Test Data
                 if (!targetTestId) throw new Error("Test ID not found");
 
-                const testRes = await fetch(`http://localhost:5000/api/test-series/${targetTestId}`);
+                const testRes = await fetch(`${getApiBase()}/api/test-series/${targetTestId}`);
                 const testData = await testRes.json();
 
                 if (!testData.ok) throw new Error(testData.message);
@@ -294,7 +295,7 @@ const ExamEngine = ({ mode }) => {
             const user = auth.currentUser;
             const uid = user ? user.uid : "guest_user";
 
-            const res = await fetch('http://localhost:5000/api/test-series/submit', {
+            const res = await fetch(`${getApiBase()}/api/test-series/submit`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({

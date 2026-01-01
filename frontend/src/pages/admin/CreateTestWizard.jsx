@@ -4,6 +4,7 @@ import { getAuth } from 'firebase/auth'; // Ensure you have this import
 import axios from 'axios'; // Or use your api instance
 import QuestionBrowser from '../../components/admin/QuestionBrowser';
 import { COACHING_PRESETS } from '../../data/CoachingPresets';
+import { getApiBase } from '../../apiConfig';
 
 // Helper to get token (if api.js doesn't handle it for this specific route, or strictly using axios)
 const getAuthToken = async () => {
@@ -97,7 +98,7 @@ export default function CreateTestWizard() {
     const fetchTestDetails = async () => {
         setLoading(true);
         try {
-            const res = await axios.get(`http://localhost:5000/api/test-series/${testId}`);
+            const res = await axios.get(`${getApiBase()}/api/test-series/${testId}`);
             if (res.data.ok) {
                 const test = res.data.test;
                 setFormData({
@@ -199,11 +200,11 @@ export default function CreateTestWizard() {
             let res;
 
             if (isEditMode) {
-                res = await axios.put(`http://localhost:5000/api/test-series/${testId}`, formData, {
+                res = await axios.put(`${getApiBase()}/api/test-series/${testId}`, formData, {
                     headers: { 'Authorization': `Bearer ${token}` }
                 });
             } else {
-                res = await axios.post('http://localhost:5000/api/test-series', formData, {
+                res = await axios.post(`${getApiBase()}/api/test-series`, formData, {
                     headers: { 'Authorization': `Bearer ${token}` }
                 });
             }

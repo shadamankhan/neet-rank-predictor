@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
+import { getApiBase } from '../../apiConfig';
 import { auth } from '../../firebase';
 import ReactMarkdown from 'react-markdown';
 import remarkMath from 'remark-math';
@@ -29,7 +30,7 @@ const QuizManager = () => {
         setLoading(true);
         try {
             const token = await auth.currentUser.getIdToken();
-            const res = await axios.get('http://localhost:5000/api/admin/quiz', {
+            const res = await axios.get(`${getApiBase()}/api/admin/quiz`, {
                 headers: { Authorization: `Bearer ${token}` }
             });
             if (res.data.ok) {
@@ -51,7 +52,7 @@ const QuizManager = () => {
         setEditIndex(-1);
         try {
             const token = await auth.currentUser.getIdToken();
-            const res = await axios.get(`http://localhost:5000/api/admin/quiz/${filename}`, {
+            const res = await axios.get(`${getApiBase()}/api/admin/quiz/${filename}`, {
                 headers: { Authorization: `Bearer ${token}` }
             });
             if (res.data.ok) {
@@ -95,7 +96,7 @@ const QuizManager = () => {
         setSaving(true);
         try {
             const token = await auth.currentUser.getIdToken();
-            await axios.post(`http://localhost:5000/api/admin/quiz/${selectedFile}`, {
+            await axios.post(`${getApiBase()}/api/admin/quiz/${selectedFile}`, {
                 data: questions
             }, {
                 headers: { Authorization: `Bearer ${token}` }

@@ -2,8 +2,8 @@
 const FALLBACK = "https://neet-predictor-cyqv.onrender.com";
 export const getApiBase = () => {
   // 1. Check if explicitly set via Vite env
-  if (typeof import.meta !== "undefined" && import.meta.env && import.meta.env.VITE_API_BASE) {
-    return import.meta.env.VITE_API_BASE;
+  if (typeof import.meta !== "undefined" && import.meta.env && import.meta.env.VITE_API_BASE_URL) {
+    return import.meta.env.VITE_API_BASE_URL;
   }
 
   // 2. Auto-detect local development environment (including mobile/network access)
