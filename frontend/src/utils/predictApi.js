@@ -1,6 +1,8 @@
 // frontend/src/utils/predictApi.js
-export async function predictFromScore(score, year = 2024) {
-  const base = import.meta.env.VITE_API_BASE || '';
+import { getApiBase } from '../apiConfig';
+
+export const predictFromScore = async (score, year = 2024) => {
+  const base = getApiBase();
   const res = await fetch(`${base}/api/predict/from-score`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },

@@ -3,6 +3,8 @@ import React, { useEffect, useState } from 'react';
 import { predictFromScore } from '../utils/predictApi';
 import { fmtNumber, fmtShort, fmtPercent } from '../utils/formatters';
 
+import { getApiBase } from '../apiConfig';
+
 export default function PredictFinal() {
   const [score, setScore] = useState('');
   const [year, setYear] = useState('');
@@ -18,7 +20,7 @@ export default function PredictFinal() {
     (async () => {
       setLoadingYears(true);
       try {
-        const base = import.meta.env.VITE_API_BASE || '';
+        const base = getApiBase();
         const res = await fetch(`${base}/admin/list-years`);
         if (!res.ok) throw new Error('no list-years');
         const json = await res.json();
