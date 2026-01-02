@@ -141,7 +141,7 @@ export default function MockTracker({ user }) {
         const avgScoreNormalized = Math.round(avgPercentage * 720);
         const currentRank = getRankForScore(avgScoreNormalized, 720) || 0;
 
-        return { maxScore, avgScore, currentRank, avgLast3Score };
+        return { maxScore, avgScore, currentRank, avgLast3Score: avgScoreNormalized };
     }, [processedTests, marksData]);
 
     const gapAnalysis = useMemo(() => {
