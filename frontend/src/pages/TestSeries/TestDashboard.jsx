@@ -56,7 +56,7 @@ const TestDashboard = () => {
                             <span>👥 {upcomingTest.participants.toLocaleString()} Enrolled</span>
                             <span className="timer">⏳ {upcomingTest.timeLeft}</span>
                         </div>
-                        <button className="btn-register">Register for Free</button>
+                        <button className="btn-register" onClick={() => navigate(`/exam-engine/${upcomingTest.id}`)}>Register for Free</button>
                     </div>
                 )}
             </div>
@@ -75,7 +75,7 @@ const TestDashboard = () => {
                     <span className="stat-label">Weak Subject</span>
                     <span className="stat-value">Physics</span>
                 </div>
-                <button className="btn-analysis" onClick={() => navigate('/analysis')}>View Full Analysis →</button>
+                <button className="btn-analysis" onClick={() => navigate('/profile')}>View Full Analysis →</button>
             </div>
 
             {/* 3. Main Content Area */}
