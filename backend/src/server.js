@@ -25,25 +25,25 @@ const allowedOrigins = [
   'https://neet-predictor-cyqv.onrender.com' // Self (Backend)
 ];
 
-app.use(cors({
+const corsOptions = {
   origin: function (origin, callback) {
-    // Allow requests with no origin (like mobile apps, curl, or server-to-server)
     if (!origin) return callback(null, true);
-    
     if (allowedOrigins.indexOf(origin) !== -1) {
       callback(null, true);
     } else {
       console.warn(`Blocked by CORS: ${origin}`);
-      callback(null, false); // Don't crash, just blocking
+      callback(null, false);
     }
   },
   credentials: true,
   methods: ["GET", "POST", "DELETE", "OPTIONS", "PUT", "PATCH"],
   allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With", "Accept", "Origin"]
-}));
+};
 
-// Explicit OPTIONS handling for preflight requests
-app.options('*', cors());
+app.use(cors(corsOptions));
+
+// Explicit OPTIONS handling for preflight requests with SAME options
+app.options('*', cors(corsOptions));
 
 app.use(express.json({ limit: '50mb' })); // Increased limit for larger uploads
 
@@ -153,6 +153,12 @@ app.use('/api/admin/quiz', adminAuth, adminQuizRouter); // Protected by Admin Au
 
 app.use('/api/admin', adminAuth, adminExportRouter);
 app.use('/api/admin', adminAuth, adminUploadRouter);
+
+// 404 Handler for debugging
+app.use((req, res, next) => {
+  console.log(`❌ 404 Not Found: ${req.method} ${req.originalUrl}`);
+  res.status(404).json({ ok: false, message: 'Endpoint not found' });
+});
 
 // Basic error handler
 app.use((err, req, res, next) => {
