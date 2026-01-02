@@ -4,9 +4,9 @@ const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse/sync');
 
-const DATA_PATH_TRENDS = path.join(__dirname, '../../../data/Neet2016to2025rankvsmarks50000rank.csv');
-const DATA_PATH_AIQ = path.join(__dirname, '../../../data/15percentAIQCutoff5years.csv');
-const DATA_PATH_MARKS_HISTORY = path.join(__dirname, '../../../data/marksvsrank720to150marks.csv');
+const DATA_PATH_TRENDS = path.join(__dirname, '../../data/Neet2016to2025rankvsmarks50000rank.csv');
+const DATA_PATH_AIQ = path.join(__dirname, '../../data/15percentAIQCutoff5years.csv');
+const DATA_PATH_MARKS_HISTORY = path.join(__dirname, '../../data/marksvsrank720to150marks.csv');
 
 // --- In-Memory Cache ---
 let cachedTrends = null;

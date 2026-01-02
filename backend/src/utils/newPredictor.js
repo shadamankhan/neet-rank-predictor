@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Adjust path as needed. Assuming this file is in backend/src/utils/
-const CSV_PATH = path.join(__dirname, '../../../data/marksvsrank2021to2025.csv');
+const CSV_PATH = path.join(__dirname, '../../data/marksvsrank2021to2025.csv');
 
 let dataCache = null;
 

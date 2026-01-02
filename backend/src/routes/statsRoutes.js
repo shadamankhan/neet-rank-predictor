@@ -4,7 +4,7 @@ const fs = require('fs');
 const path = require('path');
 const { parse } = require('csv-parse/sync');
 
-const DATA_PATH = path.join(__dirname, '../../../data/2020to2025total.csv');
+const DATA_PATH = path.join(__dirname, '../../data/2020to2025total.csv');
 
 router.get('/exam-overview', (req, res) => {
     try {

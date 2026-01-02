@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css';
+import { getApiBase } from '../../apiConfig';
 
 const DeemedExplorer = () => {
     const [colleges, setColleges] = useState([]);
@@ -19,7 +20,7 @@ const DeemedExplorer = () => {
 
     const fetchColleges = async () => {
         try {
-            const res = await fetch('/api/deemed/all');
+            const res = await fetch(`${getApiBase()}/api/deemed/all`);
             const data = await res.json();
             if (data.ok) {
                 setColleges(data.data);
@@ -99,7 +100,7 @@ const DeemedExplorer = () => {
                                     <span className="college-type-badge">Est: {college.estd || '-'}</span>
                                 </div>
                                 <h3 className="college-name">{college.collegeName}</h3>
-                                
+
                                 <div className="fee-row">
                                     <div className="fee-item">
                                         <span>Annual Fee:</span>
@@ -119,8 +120,8 @@ const DeemedExplorer = () => {
                                 </div>
                             </div>
 
-                            <button 
-                                onClick={() => toggleRow(college.collegeName)} 
+                            <button
+                                onClick={() => toggleRow(college.collegeName)}
                                 className="btn-view-cutoffs"
                             >
                                 {expandedRow === college.collegeName ? 'Hide Cutoffs' : 'View Cutoffs'}
@@ -142,7 +143,7 @@ const DeemedExplorer = () => {
                                     {/* 2024 Cutoffs */}
                                     <div className="detail-group">
                                         <div className="detail-title">
-                                            <span className="dot" style={{background: '#94a3b8'}}></span>
+                                            <span className="dot" style={{ background: '#94a3b8' }}></span>
                                             2024 Cutoffs
                                         </div>
                                         <div className="cutoff-item"><span>Round 1:</span> <span className="cutoff-val">{formatRank(college.cutoffs[2024].r1)} ({formatScore(college.cutoffs[2024].r1)})</span></div>

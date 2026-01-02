@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { getAuth } from "firebase/auth";
+import { getApiBase } from '../apiConfig';
 
 const AdminCounsellingLogs = () => {
     const [logs, setLogs] = useState([]);
@@ -22,7 +23,7 @@ const AdminCounsellingLogs = () => {
                 return;
             }
 
-            const res = await fetch('/api/queries/list', {
+            const res = await fetch(`${getApiBase()}/api/queries/list`, {
                 headers: {
                     'Authorization': `Bearer ${token}`
                 }
@@ -44,7 +45,7 @@ const AdminCounsellingLogs = () => {
             const auth = getAuth();
             const token = auth.currentUser ? await auth.currentUser.getIdToken() : null;
 
-            const res = await fetch('/api/queries/reply', {
+            const res = await fetch(`${getApiBase()}/api/queries/reply`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

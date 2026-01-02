@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { getAuth } from "firebase/auth";
+import { getApiBase } from '../apiConfig';
 
 // --- Custom Helpers ---
 const parseCSV = (text) => {
@@ -129,7 +130,7 @@ const AdminDataManager = () => {
         setLoading(true);
         try {
             const token = await getToken();
-            const res = await fetch('/api/admin/data/list', {
+            const res = await fetch(`${getApiBase()}/api/admin/data/list`, {
                 headers: { 'Authorization': `Bearer ${token}` }
             });
             const data = await res.json();
@@ -149,7 +150,7 @@ const AdminDataManager = () => {
         setStatus('');
         try {
             const token = await getToken();
-            const res = await fetch(`/api/admin/data/read?dir=${dir}&filename=${filename}`, {
+            const res = await fetch(`${getApiBase()}/api/admin/data/read?dir=${dir}&filename=${filename}`, {
                 headers: { 'Authorization': `Bearer ${token}` }
             });
             const data = await res.json();
@@ -201,8 +202,8 @@ const AdminDataManager = () => {
             const token = await getToken();
             // Create empty file
             const initialContent = newFileName.endsWith('.json') ? '{}' : '';
-            
-            const res = await fetch('/api/admin/data/write', {
+
+            const res = await fetch(`${getApiBase()}/api/admin/data/write`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -245,8 +246,8 @@ const AdminDataManager = () => {
             // Validate JSON before saving
             try {
                 // Minify or keeping pretty? Keeping pretty is nicer for git/human editing
-                 const parsed = JSON.parse(content);
-                 finalContent = JSON.stringify(parsed, null, 2);
+                const parsed = JSON.parse(content);
+                finalContent = JSON.stringify(parsed, null, 2);
             } catch (e) {
                 setStatus('Error: Invalid JSON format. Please fix syntax before saving.');
                 setLoading(false);
@@ -256,7 +257,7 @@ const AdminDataManager = () => {
 
         try {
             const token = await getToken();
-            const res = await fetch('/api/admin/data/write', {
+            const res = await fetch(`${getApiBase()}/api/admin/data/write`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -330,29 +331,29 @@ const AdminDataManager = () => {
 
                 <div className="flex-1 overflow-y-auto px-2 py-3">
                     {loading && !content && <div className="text-center text-xs text-slate-400">Loading files...</div>}
-                    
+
                     {/* New File Creation */}
                     {isCreating ? (
                         <div className="px-2 py-2 bg-white rounded-lg border border-blue-200 mb-2 shadow-sm animate-fade-in-up">
-                           <input 
+                            <input
                                 autoFocus
-                                type="text" 
-                                placeholder="filename.json" 
+                                type="text"
+                                placeholder="filename.json"
                                 className="w-full text-xs p-1 border border-slate-200 rounded mb-2 focus:ring-1 focus:ring-blue-500 outline-none"
                                 value={newFileName}
                                 onChange={(e) => setNewFileName(e.target.value)}
                                 onKeyDown={(e) => {
-                                    if(e.key === 'Enter') handleCreateFile();
-                                    if(e.key === 'Escape') setIsCreating(false);
+                                    if (e.key === 'Enter') handleCreateFile();
+                                    if (e.key === 'Escape') setIsCreating(false);
                                 }}
-                           />
-                           <div className="flex gap-2">
-                               <button onClick={handleCreateFile} className="flex-1 bg-blue-600 text-white text-[10px] py-1 rounded hover:bg-blue-700">Create</button>
-                               <button onClick={() => setIsCreating(false)} className="flex-1 bg-slate-100 text-slate-600 text-[10px] py-1 rounded hover:bg-slate-200">Cancel</button>
-                           </div>
+                            />
+                            <div className="flex gap-2">
+                                <button onClick={handleCreateFile} className="flex-1 bg-blue-600 text-white text-[10px] py-1 rounded hover:bg-blue-700">Create</button>
+                                <button onClick={() => setIsCreating(false)} className="flex-1 bg-slate-100 text-slate-600 text-[10px] py-1 rounded hover:bg-slate-200">Cancel</button>
+                            </div>
                         </div>
                     ) : (
-                         <button 
+                        <button
                             onClick={() => setIsCreating(true)}
                             className="w-full mb-2 flex items-center justify-center gap-1 py-1.5 border border-dashed border-slate-300 rounded-lg text-slate-500 text-xs hover:border-blue-400 hover:text-blue-600 transition-colors"
                         >
@@ -397,7 +398,7 @@ const AdminDataManager = () => {
                         {selectedFile && (
                             <div className="bg-slate-100 p-1 rounded-lg flex text-xs font-semibold ml-4">
                                 {selectedFile.filename.endsWith('.csv') && (
-                                     <button
+                                    <button
                                         onClick={() => setViewMode('table')}
                                         className={`px-3 py-1 rounded-md transition-all ${viewMode === 'table' ? 'bg-white text-blue-600 shadow-sm' : 'text-slate-500 hover:text-slate-700'}`}
                                     >
@@ -405,7 +406,7 @@ const AdminDataManager = () => {
                                     </button>
                                 )}
                                 {selectedFile.filename.endsWith('.json') && (
-                                     <button
+                                    <button
                                         onClick={() => setViewMode('tree')}
                                         className={`px-3 py-1 rounded-md transition-all ${viewMode === 'tree' ? 'bg-white text-blue-600 shadow-sm' : 'text-slate-500 hover:text-slate-700'}`}
                                     >
@@ -459,13 +460,13 @@ const AdminDataManager = () => {
                                     spellCheck={false}
                                 />
                             )}
-                            
+
                             {viewMode === 'tree' && (
                                 <div className="w-full h-full overflow-auto p-8 bg-slate-50">
-                                   <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 max-w-4xl mx-auto">
+                                    <div className="bg-white p-6 rounded-xl shadow-sm border border-slate-100 max-w-4xl mx-auto">
                                         <h3 className="text-sm font-bold text-slate-400 uppercase tracking-widest mb-4 border-b border-slate-100 pb-2">JSON Visualizer</h3>
                                         <JsonTreeViewer data={jsonObj} />
-                                   </div>
+                                    </div>
                                 </div>
                             )}
 

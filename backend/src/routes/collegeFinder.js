@@ -15,14 +15,14 @@ let collegesMasterData = {};
 
 const loadData = () => {
     try {
-        const mccPath = path.join(__dirname, '../../../data/mcc_rounds_2024.csv');
-        const mccNewPath = path.join(__dirname, '../../../data/mcc2024round1rankcuttoff.csv');
-        const collegesPath = path.join(__dirname, '../../../data/colleges_master.csv');
+        const mccPath = path.join(__dirname, '../../data/mcc_rounds_2024.csv');
+        const mccNewPath = path.join(__dirname, '../../data/mcc2024round1rankcuttoff.csv');
+        const collegesPath = path.join(__dirname, '../../data/colleges_master.csv');
 
         // State Paths
-        const upPath = path.join(__dirname, '../../../data/utterpardashprivate2025.csv');
-        const keralaPath = path.join(__dirname, '../../../data/keralaprivate2025r1r2.csv');
-        const tnPath = path.join(__dirname, '../../../data/tamilnaduPRIVATER1r22025.csv');
+        const upPath = path.join(__dirname, '../../data/utterpardashprivate2025.csv');
+        const keralaPath = path.join(__dirname, '../../data/keralaprivate2025r1r2.csv');
+        const tnPath = path.join(__dirname, '../../data/tamilnaduPRIVATER1r22025.csv');
 
         // Load New MCC 2024 Data (Primary)
         if (fs.existsSync(mccNewPath)) {

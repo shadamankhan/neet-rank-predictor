@@ -26,7 +26,7 @@ const parseNum = (val) => {
 
 const loadFile = (filename) => {
     try {
-        const filePath = path.join(__dirname, '../../../data', filename);
+        const filePath = path.join(__dirname, '../../data', filename);
         if (!fs.existsSync(filePath)) {
             console.warn(`⚠️ [AP Private] File not found: ${filename}`);
             return [];

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getAuth } from 'firebase/auth';
+import { getApiBase } from '../apiConfig';
 
 export default function AdminDistributionUploader() {
     // Upload state
@@ -24,7 +25,7 @@ export default function AdminDistributionUploader() {
             const user = auth.currentUser;
             if (!user) return;
             const token = await user.getIdToken();
-            const res = await fetch('/api/admin/distributions', {
+            const res = await fetch(`${getApiBase()}/api/admin/distributions`, {
                 headers: { Authorization: `Bearer ${token}` }
             });
             const json = await res.json();
@@ -62,7 +63,7 @@ export default function AdminDistributionUploader() {
             formData.append('year', year);
             formData.append('dataset', 'distribution');
 
-            const res = await fetch('/api/admin/upload-distribution', {
+            const res = await fetch(`${getApiBase()}/api/admin/upload-distribution`, {
                 method: 'POST',
                 headers: {
                     'Authorization': `Bearer ${token}`
@@ -96,7 +97,7 @@ export default function AdminDistributionUploader() {
             if (!user) throw new Error("Not logged in");
             const token = await user.getIdToken();
 
-            const res = await fetch(`/api/admin/distributions/${targetYear}`, {
+            const res = await fetch(`${getApiBase()}/api/admin/distributions/${targetYear}`, {
                 method: 'DELETE',
                 headers: { Authorization: `Bearer ${token}` }
             });

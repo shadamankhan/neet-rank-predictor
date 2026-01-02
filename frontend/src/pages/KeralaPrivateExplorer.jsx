@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css'; // Shared styles
+import { getApiBase } from '../../apiConfig';
 
 const KeralaPrivateExplorer = () => {
     const [colleges, setColleges] = useState([]);
@@ -12,7 +13,7 @@ const KeralaPrivateExplorer = () => {
 
     const fetchColleges = async () => {
         try {
-            const res = await fetch('/api/keralaprivate/all');
+            const res = await fetch(`${getApiBase()}/api/keralaprivate/all`);
             const data = await res.json();
             if (data.ok) {
                 setColleges(data.data);

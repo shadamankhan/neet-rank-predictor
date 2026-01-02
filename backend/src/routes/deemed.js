@@ -44,7 +44,7 @@ const loadDeemedData = () => {
         const collegeMap = new Map();
 
         CSV_FILES.forEach(fileName => {
-            const filePath = path.join(__dirname, '../../../data', fileName);
+            const filePath = path.join(__dirname, '../../data', fileName);
             if (!fs.existsSync(filePath)) {
                 console.warn(`⚠️ [Deemed] File not found: ${fileName}`);
                 return;
@@ -96,11 +96,11 @@ const loadDeemedData = () => {
                 // Merge Cutoff Data (2024)
                 // Note: CSV headers vary slightly ("rank 2024 R1", "score 2024 R1", etc.)
                 // We blindly check for all known variants found in schemas
-                
+
                 // 2024 R1
                 if (row['rank 2024 R1']) entry.cutoffs[2024].r1.rank = parseNum(row['rank 2024 R1']);
                 if (row['score 2024 R1']) entry.cutoffs[2024].r1.score = parseNum(row['score 2024 R1']);
-                
+
                 // 2024 R2
                 if (row['rank 2024 R2']) entry.cutoffs[2024].r2.rank = parseNum(row['rank 2024 R2']);
                 if (row['score 2024 R2']) entry.cutoffs[2024].r2.score = parseNum(row['score 2024 R2']);
@@ -113,23 +113,23 @@ const loadDeemedData = () => {
                 if (row['rank 2024 Stray']) entry.cutoffs[2024].stray.rank = parseNum(row['rank 2024 Stray']);
                 if (row['score 2024 Stray']) entry.cutoffs[2024].stray.score = parseNum(row['score 2024 Stray']);
 
-                 // 2025 R1
-                 if (row['rank 2025 R1']) entry.cutoffs[2025].r1.rank = parseNum(row['rank 2025 R1']);
-                 if (row['score 2025 R1']) entry.cutoffs[2025].r1.score = parseNum(row['score 2025 R1']);
-                 
-                 // 2025 R2
-                 if (row['rank 2025 R2']) entry.cutoffs[2025].r2.rank = parseNum(row['rank 2025 R2']);
-                 if (row['score 2025 R2']) entry.cutoffs[2025].r2.score = parseNum(row['score 2025 R2']);
- 
-                 // 2025 R3
-                 if (row['rank 2025 R3']) entry.cutoffs[2025].r3.rank = parseNum(row['rank 2025 R3']);
-                 if (row['score 2025 R3']) entry.cutoffs[2025].r3.score = parseNum(row['score 2025 R3']);
+                // 2025 R1
+                if (row['rank 2025 R1']) entry.cutoffs[2025].r1.rank = parseNum(row['rank 2025 R1']);
+                if (row['score 2025 R1']) entry.cutoffs[2025].r1.score = parseNum(row['score 2025 R1']);
+
+                // 2025 R2
+                if (row['rank 2025 R2']) entry.cutoffs[2025].r2.rank = parseNum(row['rank 2025 R2']);
+                if (row['score 2025 R2']) entry.cutoffs[2025].r2.score = parseNum(row['score 2025 R2']);
+
+                // 2025 R3
+                if (row['rank 2025 R3']) entry.cutoffs[2025].r3.rank = parseNum(row['rank 2025 R3']);
+                if (row['score 2025 R3']) entry.cutoffs[2025].r3.score = parseNum(row['score 2025 R3']);
             });
         });
 
         // Convert Map to Array
         mergedDeemedData = Array.from(collegeMap.values());
-        
+
         // Extract States
         mergedDeemedData.forEach(c => {
             if (c.state) {

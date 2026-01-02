@@ -32,7 +32,7 @@ const parseFee = (val) => {
 
 const loadData = () => {
     try {
-        const filePath = path.join(__dirname, '../../../data', CSV_FILE);
+        const filePath = path.join(__dirname, '../../data', CSV_FILE);
         if (!fs.existsSync(filePath)) {
             console.warn(`⚠️ [Bihar] File not found: ${CSV_FILE}`);
             return;

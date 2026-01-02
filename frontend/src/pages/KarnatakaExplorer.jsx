@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css'; // Shared styles
+import { getApiBase } from '../../apiConfig';
 
 const KarnatakaExplorer = () => {
     const [colleges, setColleges] = useState([]);
@@ -12,7 +13,7 @@ const KarnatakaExplorer = () => {
 
     const fetchColleges = async () => {
         try {
-            const res = await fetch('/api/karnataka/all');
+            const res = await fetch(`${getApiBase()}/api/karnataka/all`);
             const data = await res.json();
             if (data.ok) {
                 setColleges(data.data);

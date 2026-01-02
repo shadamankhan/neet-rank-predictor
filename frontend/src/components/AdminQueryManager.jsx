@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getAuth } from "firebase/auth";
+import { getApiBase } from '../apiConfig';
 
 const AdminQueryManager = () => {
     const [queries, setQueries] = useState([]);
@@ -22,7 +23,7 @@ const AdminQueryManager = () => {
         setLoading(true);
         try {
             const token = await getToken();
-            const res = await fetch('/api/queries/list', {
+            const res = await fetch(`${getApiBase()}/api/queries/list`, {
                 headers: { 'Authorization': `Bearer ${token}` }
             });
             const data = await res.json();
@@ -40,7 +41,7 @@ const AdminQueryManager = () => {
         if (!replyText) return;
         try {
             const token = await getToken();
-            const res = await fetch('/api/queries/reply', {
+            const res = await fetch(`${getApiBase()}/api/queries/reply`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

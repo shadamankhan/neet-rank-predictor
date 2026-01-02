@@ -45,8 +45,8 @@ const verifyAdmin = async (req, res, next) => {
 
 // Define allowed directories
 const DATA_DIRS = {
-    'root_data': path.join(__dirname, '../../../data'), // c:\Users\asus\neet-rank-predictor\data
-    'backend_data': path.join(__dirname, '../../data')   // c:\Users\asus\neet-rank-predictor\backend\data
+    'root_data': path.join(__dirname, '../../data'), // Pointing to backend/data now as root data is merged
+    'backend_data': path.join(__dirname, '../../data')
 };
 
 // Helper: Ensure path is within allowed dirs

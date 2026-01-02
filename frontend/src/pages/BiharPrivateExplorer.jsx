@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css';
+import { getApiBase } from '../../apiConfig';
 
 const BiharPrivateExplorer = () => {
     const [colleges, setColleges] = useState([]);
@@ -12,7 +13,7 @@ const BiharPrivateExplorer = () => {
 
     const fetchColleges = async () => {
         try {
-            const res = await fetch('/api/biharprivate/all');
+            const res = await fetch(`${getApiBase()}/api/biharprivate/all`);
             const data = await res.json();
             if (data.ok) {
                 setColleges(data.data);

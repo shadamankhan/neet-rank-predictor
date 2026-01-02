@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { getAuth } from "firebase/auth";
+import { getApiBase } from '../apiConfig';
 
 // Using SimpleMarkdown custom component below instead of external dependency to avoid install errors
 // Given the user constraint, I'll use a simple parser for now to avoid dependency issues if not present.
@@ -54,7 +55,7 @@ const AdminChecklist = () => {
         setStatus('Loading...');
         try {
             const token = await getToken();
-            const res = await fetch(`/api/admin/data/read?dir=${DIR}&filename=${FILENAME}`, {
+            const res = await fetch(`${getApiBase()}/api/admin/data/read?dir=${DIR}&filename=${FILENAME}`, {
                 headers: { 'Authorization': `Bearer ${token}` }
             });
             const data = await res.json();
@@ -81,7 +82,7 @@ const AdminChecklist = () => {
         setStatus('Saving...');
         try {
             const token = await getToken();
-            const res = await fetch('/api/admin/data/write', {
+            const res = await fetch(`${getApiBase()}/api/admin/data/write`, {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
