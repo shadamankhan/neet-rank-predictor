@@ -39,6 +39,19 @@ function tryInitialize() {
   const svcPath = process.env.SERVICE_ACCOUNT_PATH || process.env.GOOGLE_APPLICATION_CREDENTIALS;
   if (svcPath) {
     try {
+      // First, check if it's a JSON string (starts with '{')
+      if (svcPath.trim().startsWith('{')) {
+        const serviceAccount = JSON.parse(svcPath);
+        adminLib.initializeApp({
+          credential: adminLib.credential.cert(serviceAccount),
+        });
+        admin = adminLib;
+        initialized = true;
+        console.log('✅ Firebase Admin initialized using Raw JSON from env var.');
+        return;
+      }
+
+      // Otherwise, treat as a file path
       const resolved = path.resolve(svcPath);
       if (!fs.existsSync(resolved)) {
         throw new Error(`service account file not found at ${resolved}`);
