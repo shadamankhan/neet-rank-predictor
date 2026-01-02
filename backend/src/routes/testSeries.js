@@ -141,6 +141,93 @@ router.get('/test/:testId', (req, res) => {
         console.error("Error parsing quiz file:", err);
         res.status(500).json({ error: "Failed to parse test data" });
     }
-});
+    // POST /api/test-series/submit
+    // Handle Exam Submission
+    router.post('/submit', (req, res) => {
+        const { testId, uid, answers, timeTaken } = req.body;
 
-module.exports = router;
+        // 1. Get Test Details
+        const db = getDB();
+        let foundTest = null;
+        for (const s of db.series) {
+            foundTest = s.tests.find(t => t.id === testId);
+            if (foundTest) break;
+        }
+
+        if (!foundTest) return res.status(404).json({ error: "Test not found" });
+
+        // 2. Load Questions to check answers
+        const quizFilePath = path.join(QUIZZES_DIR, foundTest.file);
+        if (!fs.existsSync(quizFilePath)) {
+            return res.status(500).json({ error: "Quiz file missing" });
+        }
+
+        let questions = [];
+        try {
+            const qData = JSON.parse(fs.readFileSync(quizFilePath, 'utf8'));
+            questions = Array.isArray(qData) ? qData : (qData.questions || []);
+        } catch (e) {
+            return res.status(500).json({ error: "Failed to parse quiz" });
+        }
+
+        // 3. Calculate Score
+        let score = 0;
+        let correctCount = 0;
+        let wrongCount = 0;
+
+        // Convert answers to something iterable? 
+        // answers is { index: selectedOption }
+        // questions is array [ { answer: "0" ... } ]
+
+        questions.forEach((q, idx) => {
+            const userAns = answers[idx];
+            if (userAns !== undefined && userAns !== null) {
+                // Check correctness
+                // Assuming q.answer is "0" (string) or 0 (int) index
+                if (parseInt(q.answer) === parseInt(userAns)) {
+                    score += 4;
+                    correctCount++;
+                } else {
+                    score -= 1;
+                    wrongCount++;
+                }
+            }
+        });
+
+        const totalQuestions = questions.length;
+        const totalMarks = totalQuestions * 4;
+
+        // 4. Save Result to User Stats (user_mock_tests.json)
+        const statsFile = path.join(__dirname, '../../data/user_mock_tests.json');
+        let allStats = [];
+        if (fs.existsSync(statsFile)) {
+            try {
+                allStats = JSON.parse(fs.readFileSync(statsFile, 'utf8'));
+            } catch (e) { }
+        }
+
+        const { v4: uuidv4 } = require('uuid');
+        const resultId = uuidv4();
+
+        const newRecord = {
+            id: resultId,
+            testId: testId,
+            uid: uid,
+            testName: foundTest.title,
+            score: score,
+            totalMarks: totalMarks, // CRITICAL: This enables correct rank scaling
+            correct: correctCount,
+            wrong: wrongCount,
+            unattempted: totalQuestions - (correctCount + wrongCount),
+            date: new Date().toISOString(),
+            timeTaken: timeTaken,
+            type: 'CBT_SUBMISSION'
+        };
+
+        allStats.push(newRecord);
+        fs.writeFileSync(statsFile, JSON.stringify(allStats, null, 2));
+
+        res.json({ ok: true, resultId: resultId, score, totalMarks });
+    });
+
+    module.exports = router;

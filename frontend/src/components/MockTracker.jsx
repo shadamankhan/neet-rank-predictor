@@ -73,10 +73,15 @@ export default function MockTracker({ user }) {
     };
 
     // --- Predictive Helpers ---
-    const getRankForScore = (score) => {
+    const getRankForScore = (score, totalMarks = 720) => {
         if (!marksData || marksData.length === 0) return null;
-        const s = parseInt(score);
+        let s = parseInt(score);
         if (isNaN(s)) return null;
+
+        // Normalize to 720 if totalMarks is different and valid
+        if (totalMarks && totalMarks !== 720 && totalMarks > 0) {
+            s = Math.round((s / totalMarks) * 720);
+        }
 
         // Ensure robust comparison (handle string/number differences in marksData)
         const row = marksData.find(r => parseInt(r.marks) === s);
@@ -114,7 +119,7 @@ export default function MockTracker({ user }) {
     const processedTests = useMemo(() => {
         return tests.map(t => ({
             ...t,
-            predictedRank: getRankForScore(t.score),
+            predictedRank: getRankForScore(t.score, t.totalMarks),
             dateObj: new Date(t.date || Date.now())
         })).sort((a, b) => a.dateObj - b.dateObj);
     }, [tests, marksData]);
@@ -127,8 +132,14 @@ export default function MockTracker({ user }) {
 
         // Current Rank (Average of last 3 tests)
         const last3 = processedTests.slice(-3);
-        const avgLast3Score = Math.round(last3.reduce((a, t) => a + parseInt(t.score), 0) / last3.length);
-        const currentRank = getRankForScore(avgLast3Score) || 0;
+        // Calculate weighted average percentage-wise, then scale to 720
+        const avgPercentage = last3.reduce((a, t) => {
+            const max = t.totalMarks || 720;
+            return a + (t.score / max);
+        }, 0) / last3.length;
+
+        const avgScoreNormalized = Math.round(avgPercentage * 720);
+        const currentRank = getRankForScore(avgScoreNormalized, 720) || 0;
 
         return { maxScore, avgScore, currentRank, avgLast3Score };
     }, [processedTests, marksData]);
@@ -326,6 +337,15 @@ export default function MockTracker({ user }) {
                         className="w-full md:w-32 px-3 py-2 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 text-sm"
                         value={formData.score}
                         onChange={e => setFormData({ ...formData, score: e.target.value })}
+                    />
+                    <input
+                        type="number"
+                        placeholder="Total (720)"
+                        min="1"
+                        max="720"
+                        className="w-full md:w-32 px-3 py-2 rounded-lg border border-slate-300 focus:ring-2 focus:ring-blue-500 text-sm"
+                        value={formData.totalMarks || ''}
+                        onChange={e => setFormData({ ...formData, totalMarks: e.target.value })}
                     />
                     <input
                         type="date"
