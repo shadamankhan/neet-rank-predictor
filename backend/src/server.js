@@ -18,10 +18,28 @@ if (!firebaseAdminWrapper.isInitialized && !firebaseAdminWrapper.initError) {
 }
 
 // Enable CORS for frontend
+// Enable CORS for frontend
+const allowedOrigins = [
+  'http://localhost:5173',           // Local Development
+  'https://shadamankhan.vercel.app', // Production Frontend
+  'https://neet-predictor-cyqv.onrender.com' // Self (Backend)
+];
+
 app.use(cors({
-  origin: true, // Allow all origins (reflects request origin) to support mobile/network IPs
+  origin: function (origin, callback) {
+    // Allow requests with no origin (like mobile apps, curl, or server-to-server)
+    if (!origin) return callback(null, true);
+    
+    if (allowedOrigins.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      console.warn(`Blocked by CORS: ${origin}`);
+      callback(null, false); // Don't crash, just blocking
+    }
+  },
   credentials: true,
-  methods: ["GET", "POST", "DELETE", "OPTIONS", "PUT", "PATCH"]
+  methods: ["GET", "POST", "DELETE", "OPTIONS", "PUT", "PATCH"],
+  allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With", "Accept", "Origin"]
 }));
 
 // Explicit OPTIONS handling for preflight requests
