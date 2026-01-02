@@ -281,6 +281,9 @@ export default function Navbar() {
           <div className="flex-1 overflow-y-auto">
             <Link to="/" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50">Home</Link>
             <Link to="/predict" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50">Predictor</Link>
+            <Link to="/test-series" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50 flex items-center gap-2">
+              <span className="text-blue-600">⚡</span> Test Series
+            </Link>
 
             <div className="my-2 border-t border-slate-100" />
 
