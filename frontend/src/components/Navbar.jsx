@@ -210,11 +210,7 @@ export default function Navbar() {
                 🎨
               </button>
 
-              {showThemePanel && (
-                <div className="absolute top-[60px] right-20 z-50">
-                  <ThemePanel onClose={() => setShowThemePanel(false)} />
-                </div>
-              )}
+              {/* Theme Panel moved to common area */}
 
               {user ? (
                 <div className="flex items-center gap-3">
@@ -260,6 +256,13 @@ export default function Navbar() {
               <span className={`w-full h-0.5 bg-current rounded-full transition-all duration-300 ${isOpen ? '-rotate-45 -translate-y-2.5' : ''}`} />
             </div>
           </button>
+
+          {/* Theme Panel - Mobile & Desktop Common */}
+          {showThemePanel && (
+            <div className="absolute top-[72px] right-4 lg:right-20 z-[1100]">
+              <ThemePanel onClose={() => setShowThemePanel(false)} />
+            </div>
+          )}
         </div>
       </nav>
 
@@ -293,6 +296,17 @@ export default function Navbar() {
           </div>
 
           <div className="px-6 space-y-4">
+            {/* Mobile Theme Toggle */}
+            <button
+              onClick={() => {
+                setIsOpen(false);
+                setShowThemePanel(true);
+              }}
+              className="w-full px-5 py-3 rounded-xl bg-slate-100 text-slate-700 font-medium text-sm flex items-center justify-center gap-2 hover:bg-slate-200 transition-colors"
+            >
+              Customize Theme 🎨
+            </button>
+
             <button
               onClick={() => {
                 setShowAskModal(true);
