@@ -21,7 +21,7 @@
 
 .analysis-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
     gap: 24px;
     margin-bottom: 40px;
 }
@@ -276,6 +276,8 @@
     display: flex;
     gap: 16px;
     justify-content: center;
+    flex-wrap: wrap;
+    /* Safety for mobile */
 }
 
 .btn-solutions,
@@ -297,4 +299,28 @@
     background: #2563eb;
     color: white;
     border: none;
+}
+
+@media (max-width: 640px) {
+    .analysis-container {
+        padding: 80px 16px 40px 16px;
+    }
+
+    .score-circle {
+        width: 120px;
+        height: 120px;
+    }
+
+    .score-circle::before {
+        width: 100px;
+        height: 100px;
+    }
+
+    .score-val {
+        font-size: 2rem;
+    }
+
+    .analysis-header h1 {
+        font-size: 1.5rem;
+    }
 }

@@ -233,13 +233,15 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
                             <option value="Botany">Botany</option>
                             <option value="Zoology">Zoology</option>
                         </select>
-                        <button
-                            onClick={handleAddSelected}
-                            disabled={selectedQuestionIndices.size === 0}
-                            className={`px-4 py-2 rounded-lg text-sm font-bold text-white transition ${selectedQuestionIndices.size > 0 ? 'bg-green-600 hover:bg-green-700 shadow-md' : 'bg-gray-300 cursor-not-allowed'}`}
-                        >
-                            Add Selected ({selectedQuestionIndices.size})
-                        </button>
+                        {onAddQuestions && (
+                            <button
+                                onClick={handleAddSelected}
+                                disabled={selectedQuestionIndices.size === 0}
+                                className={`px-4 py-2 rounded-lg text-sm font-bold text-white transition ${selectedQuestionIndices.size > 0 ? 'bg-green-600 hover:bg-green-700 shadow-md' : 'bg-gray-300 cursor-not-allowed'}`}
+                            >
+                                Add Selected ({selectedQuestionIndices.size})
+                            </button>
+                        )}
                     </div>
                 </div>
 

@@ -5,6 +5,7 @@
     display: flex;
     flex-direction: column;
     height: calc(100vh - 70px);
+    height: calc(100dvh - 70px); /* iOS Fix */
     margin-top: 70px;
     /* Navbar height */
     background-color: #f8fafc;
@@ -42,6 +43,16 @@
     font-size: 0.9rem;
     color: #64748b;
     font-weight: 500;
+}
+
+.mobile-menu-btn {
+    display: none;
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: #475569;
+    padding: 0 8px;
 }
 
 .timer-box {
@@ -478,22 +489,64 @@
 
 /* Mobile Responsive */
 @media (max-width: 1024px) {
+    .exam-header {
+        padding: 0 16px; 
+    }
+
+    .mobile-menu-btn {
+        display: block;
+    }
+    
     .side-palette {
-        width: 100%;
-        height: auto;
-        border-left: none;
-        border-top: 1px solid #e2e8f0;
-        order: 2;
+        position: fixed;
+        top: 70px; /* Below Navbar */
+        right: 0;
+        bottom: 0;
+        width: 80%;
+        max-width: 320px;
+        background: white;
+        z-index: 50;
+        transform: translateX(100%);
+        transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        box-shadow: -4px 0 10px rgba(0,0,0,0.1);
+        border-left: 1px solid #e2e8f0;
+    }
+
+    .side-palette.open {
+        transform: translateX(0);
+    }
+    
+    /* Overlay */
+    .palette-overlay {
+        position: fixed;
+        top: 70px;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0,0,0,0.5);
+        z-index: 40;
+        backdrop-filter: blur(2px);
     }
 
     .question-area {
-        height: auto;
-        min-height: 600px;
-        order: 1;
+        width: 100%;
+        flex: 1;
     }
 
     .questions-grid {
-        grid-template-columns: repeat(8, 1fr);
+        grid-template-columns: repeat(5, 1fr);
+    }
+    
+    .exam-footer {
+        padding: 12px;
+        gap: 8px;
+        flex-wrap: wrap;
+    }
+
+    /* Adjust buttons on small screens */
+    .btn-secondary, .btn-primary, .btn-warning {
+        padding: 8px 12px;
+        font-size: 0.85rem;
     }
 }
 

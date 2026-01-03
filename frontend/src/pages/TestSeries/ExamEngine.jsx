@@ -30,6 +30,7 @@ const ExamEngine = ({ mode }) => {
 
     // Sidebar Toggle for mobile
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+    const [showMobilePalette, setShowMobilePalette] = useState(false);
 
     // Fetch Exam Data & Result (if review)
     useEffect(() => {
@@ -479,6 +480,14 @@ const ExamEngine = ({ mode }) => {
                             Time Left: {formatTime(timeLeft)}
                         </div>
                     )}
+                    )}
+                    {/* Mobile Menu Toggle */}
+                    <button
+                        className="mobile-menu-btn"
+                        onClick={() => setShowMobilePalette(!showMobilePalette)}
+                    >
+                        {showMobilePalette ? '✕' : '☰'}
+                    </button>
                 </div>
             </header>
 
@@ -588,7 +597,11 @@ const ExamEngine = ({ mode }) => {
                 </div>
 
                 {/* Right Panel: Palette */}
-                <aside className="side-palette">
+                {/* Mobile Overlay */}
+                {showMobilePalette && (
+                    <div className="palette-overlay" onClick={() => setShowMobilePalette(false)}></div>
+                )}
+                <aside className={`side-palette ${showMobilePalette ? 'open' : ''}`}>
                     <div className="palette-header">
                         <div className="user-card">
                             <div className="user-avatar">{user?.email?.[0]?.toUpperCase() || 'G'}</div>
