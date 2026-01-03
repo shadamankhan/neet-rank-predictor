@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css'; // Shared styles
-import { getApiBase } from '../../apiConfig';
+import { getApiBase } from '../apiConfig';
 
 const KarnatakaExplorer = () => {
     const [colleges, setColleges] = useState([]);

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css'; // Shared styles
-import { getApiBase } from '../../apiConfig';
+import { getApiBase } from '../apiConfig';
 
 const KeralaPrivateExplorer = () => {
     const [colleges, setColleges] = useState([]);
@@ -16,7 +16,7 @@ const KeralaPrivateExplorer = () => {
         try {
             console.log("Fetching Kerala colleges from:", url); // Debug
             const res = await fetch(url);
-            
+
             if (!res.ok) {
                 const text = await res.text();
                 throw new Error(`Server returned ${res.status}: ${text.substring(0, 200)}`);

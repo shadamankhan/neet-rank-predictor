@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './ExplorerShared.css';
-import { getApiBase } from '../../apiConfig';
+import { getApiBase } from '../apiConfig';
 
 const UPPrivateExplorer = () => {
     const [colleges, setColleges] = useState([]);
