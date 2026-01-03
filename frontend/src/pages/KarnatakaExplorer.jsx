@@ -12,8 +12,16 @@ const KarnatakaExplorer = () => {
     }, []);
 
     const fetchColleges = async () => {
+        const url = `${getApiBase()}/api/karnataka/all`;
         try {
-            const res = await fetch(`${getApiBase()}/api/karnataka/all`);
+            console.log("Fetching Karnataka colleges from:", url); // Debug
+            const res = await fetch(url);
+
+            if (!res.ok) {
+                const text = await res.text();
+                throw new Error(`Server returned ${res.status}: ${text.substring(0, 200)}`);
+            }
+
             const data = await res.json();
             if (data.ok) {
                 setColleges(data.data);

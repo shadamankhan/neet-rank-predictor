@@ -26,6 +26,7 @@ export default function Predict() {
       if (user) {
         const idToken = await getIdToken();
         const payload = {
+          year: 2026,
           score: res.score,
           predictedRank: res.predictedRank,
           percentile: res.percentile,

@@ -12,8 +12,16 @@ const KeralaPrivateExplorer = () => {
     }, []);
 
     const fetchColleges = async () => {
+        const url = `${getApiBase()}/api/keralaprivate/all`;
         try {
-            const res = await fetch(`${getApiBase()}/api/keralaprivate/all`);
+            console.log("Fetching Kerala colleges from:", url); // Debug
+            const res = await fetch(url);
+            
+            if (!res.ok) {
+                const text = await res.text();
+                throw new Error(`Server returned ${res.status}: ${text.substring(0, 200)}`);
+            }
+
             const data = await res.json();
             if (data.ok) {
                 setColleges(data.data);

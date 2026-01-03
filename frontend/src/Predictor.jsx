@@ -155,8 +155,10 @@ export default function Predictor() {
         if (user) {
           user.getIdToken().then(token => {
             savePrediction({
+              year: 2026,
               score: currentScore,
-              rank: res.predictedRank,
+              predictedRank: res.predictedRank, // Map to what backend likely expects or stores
+              percentile: res.percentile || 0, // Ensure percentile is sent
               type: 'prediction'
             }, token).catch(e => console.error("Save history failed", e));
           });

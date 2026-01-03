@@ -169,13 +169,15 @@ app.use((err, req, res, next) => {
       console.log(`✅ MongoDB Connected: ${MONGO_URI}`);
     } catch (mongoErr) {
       console.error("❌ MongoDB Connection Error:", mongoErr);
-      // We don't exit process here strictly, but usually we should. 
-      // For now, let's allow it to run even if DB fails, but functionality will be broken.
     }
 
-    await loadAllDistributionsOnStartup();
-    startWatcher();
-    console.log("✅ Prediction Cache Loaded & Watcher Started");
+    try {
+      await loadAllDistributionsOnStartup();
+      startWatcher();
+      console.log("✅ Prediction Cache Loaded & Watcher Started");
+    } catch (cacheErr) {
+      console.error("⚠️ Prediction Cache Init Failed:", cacheErr.message);
+    }
 
     app.listen(PORT, () => {
       console.log(`\n✅ SERVER CONNECTED | PORT ${PORT} | VERSION: [ V5-UNIFIED-SERVER ]`);
