@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { getAuth, signOut } from 'firebase/auth';
 
@@ -6,6 +6,7 @@ export default function AdminLayout() {
   const navigate = useNavigate();
   const auth = getAuth();
   const user = auth.currentUser;
+  const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
   const handleLogout = async () => {
     await signOut(auth);
@@ -58,8 +59,17 @@ export default function AdminLayout() {
 
   return (
     <div className="flex min-h-screen bg-gray-50 font-sans">
+      {/* Mobile Backdrop */}
+      {isMobileMenuOpen && (
+        <div
+          className="fixed inset-0 bg-black/50 z-30 md:hidden"
+          onClick={() => setIsMobileMenuOpen(false)}
+        />
+      )}
+
       {/* Sidebar */}
-      <aside className="w-64 bg-white border-r border-gray-200 flex-shrink-0 hidden md:flex flex-col fixed h-full z-10">
+      <aside className={`w-64 bg-white border-r border-gray-200 flex-shrink-0 flex flex-col fixed h-full z-40 transition-transform duration-300 ease-in-out md:translate-x-0 ${isMobileMenuOpen ? 'translate-x-0' : '-translate-x-full'
+        }`}>
         <div className="p-6 border-b border-gray-100 flex items-center space-x-3">
           <div className="w-8 h-8 bg-gradient-to-br from-blue-600 to-indigo-700 rounded-lg shadow flex items-center justify-center text-white font-bold">A</div>
           <span className="text-lg font-bold text-gray-800">Admin Console</span>
@@ -75,6 +85,7 @@ export default function AdminLayout() {
                 ? 'bg-blue-50 text-blue-700 shadow-sm'
                 : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
                 }`}
+              onClick={() => setIsMobileMenuOpen(false)}
             >
               {item.icon}
               <span>{item.label}</span>
@@ -103,7 +114,10 @@ export default function AdminLayout() {
         {/* Mobile Header */}
         <header className="md:hidden bg-white border-b border-gray-200 p-4 flex justify-between items-center sticky top-0 z-20">
           <div className="font-bold text-gray-800">Admin Console</div>
-          <button className="p-2 text-gray-600">
+          <button
+            className="p-2 text-gray-600"
+            onClick={() => setIsMobileMenuOpen(true)}
+          >
             <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path></svg>
           </button>
         </header>
