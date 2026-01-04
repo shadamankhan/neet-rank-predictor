@@ -9,44 +9,44 @@ const Home = () => {
 
     const handlePredict = () => {
         if (score) {
-            navigate('/predict', { state: { score } });
+            navigate('/neet-rank-predictor', { state: { score } });
         } else {
-            navigate('/predict');
+            navigate('/neet-rank-predictor');
         }
     };
 
     const quickStates = [
-        { name: "Karnataka", path: "/karnataka-private", emoji: "🏰" },
-        { name: "Kerala", path: "/kerala-private", emoji: "🌴" },
-        { name: "UP Private", path: "/up-private", emoji: "🕌" },
-        { name: "Bihar", path: "/bihar-private", emoji: "🚩" },
-        { name: "Deemed Univ", path: "/deemed-explorer", emoji: "🎓" },
-        { name: "West Bengal", path: "/west-bengal-private", emoji: "🐅" },
+        { name: "Karnataka", path: "/karnataka-private-medical-colleges", emoji: "🏰" },
+        { name: "Kerala", path: "/kerala-private-medical-colleges", emoji: "🌴" },
+        { name: "UP Private", path: "/up-private-medical-colleges", emoji: "🕌" },
+        { name: "Bihar", path: "/bihar-private-medical-colleges", emoji: "🚩" },
+        { name: "Deemed Univ", path: "/deemed-medical-colleges", emoji: "🎓" },
+        { name: "West Bengal", path: "/west-bengal-private-medical-colleges", emoji: "🐅" },
     ];
 
     return (
         <div className="home-container">
             <SEO
-                title="NEET Rank Predictor 2026 - Data-Backed & Honest"
-                description="Predict your NEET 2026 All India Rank based on real historical data. Honest analysis, no false hopes. Plan your NEET 2026 journey today."
+                title="NEET Rank & College Predictor 2026 | MBBS Cutoff & Counselling"
+                description="Predict your NEET 2026 rank, MBBS college chances, and cutoff trends using real counselling data — trusted by students & parents."
             />
             {/* Hero Section */}
             <section className="hero-section">
                 <div className="hero-badge">Neet Counselling Made Honest 🔴</div>
                 <h1 className="hero-title">
-                    Know Your Reality For<br />
-                    <span className="gradient-text">NEET 2026.</span>
+                    NEET Rank & College<br />
+                    <span className="gradient-text">Predictor 2026.</span>
                 </h1>
                 <p className="hero-subtitle">
-                    From NEET exam form filling to final MBBS admission — we guide students & parents at every counselling step with clarity, data, and honesty.
+                    Predict your NEET 2026 rank, MBBS college chances, and cutoff trends using real counselling data — trusted by students & parents.
                 </p>
 
                 <div className="hero-buttons">
-                    <button onClick={() => navigate('/predict')} className="btn-hero btn-primary-hero">
-                        🎯 Predict NEET 2026 Rank
+                    <button onClick={() => navigate('/neet-rank-predictor')} className="btn-hero btn-primary-hero">
+                        🎯 NEET Rank & College Predictor 2026
                     </button>
-                    <button onClick={() => navigate('/roadmap')} className="btn-hero btn-secondary-hero">
-                        👨‍👩‍👦 Parent Guidance Mode
+                    <button onClick={() => navigate('/neet-counselling-roadmap')} className="btn-hero btn-secondary-hero">
+                        👨‍👩‍👧 Parent Counselling Mode
                     </button>
                 </div>
             </section>

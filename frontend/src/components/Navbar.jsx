@@ -13,9 +13,11 @@ export default function Navbar() {
   const navigate = useNavigate(); // Hook initialized
 
   // Dropdown states
+  // Dropdown states
+  const [predictorOpen, setPredictorOpen] = useState(false);
+  const [collegeFinderOpen, setCollegeFinderOpen] = useState(false);
   const [stateDataOpen, setStateDataOpen] = useState(false);
-  const [toolsOpen, setToolsOpen] = useState(false);
-  const [resourcesOpen, setResourcesOpen] = useState(false);
+  const [guidanceOpen, setGuidanceOpen] = useState(false);
 
   const [showAskModal, setShowAskModal] = useState(false);
   const location = useLocation();
@@ -36,9 +38,10 @@ export default function Navbar() {
   // Close all menus on route change
   useEffect(() => {
     setIsOpen(false);
+    setPredictorOpen(false);
+    setCollegeFinderOpen(false);
     setStateDataOpen(false);
-    setToolsOpen(false);
-    setResourcesOpen(false);
+    setGuidanceOpen(false);
     setShowThemePanel(false);
   }, [location]);
 
@@ -50,27 +53,33 @@ export default function Navbar() {
   };
 
   // --- Navigation Data ---
+  const predictorItems = [
+    { to: "/neet-rank-predictor", label: "NEET Rank Predictor 2026" },
+    { to: "/neet-college-predictor", label: "NEET College Predictor 2026" },
+    { to: "/neet-cutoff-predictor", label: "NEET Cutoff Predictor 2026" },
+  ];
+
+  const collegeFinderItems = [
+    { to: "/state-quota-college-finder", label: "State Quota College Finder" },
+    { to: "/private-deemed-college-finder", label: "Private & Deemed College Finder" },
+  ];
+
   const stateExplorers = [
-    { to: "/deemed-explorer", label: "Deemed Colleges" },
-    { to: "/karnataka-private", label: "Karnataka Pvt" },
-    { to: "/kerala-private", label: "Kerala Pvt" },
-    { to: "/up-private", label: "UP Private" },
-    { to: "/bihar-private", label: "Bihar Private" },
-    { to: "/haryana-private", label: "Haryana Pvt" },
-    { to: "/west-bengal-private", label: "West Bengal Pvt" },
-    { to: "/andhra-pradesh", label: "Andhra Pradesh" },
-    { to: "/tamil-nadu-private", label: "Tamil Nadu Pvt" },
+    { to: "/karnataka-private-medical-colleges", label: "Karnataka Pvt Colleges" },
+    { to: "/up-private-medical-colleges", label: "UP Private Colleges" },
+    { to: "/tamil-nadu-private-medical-colleges", label: "Tamil Nadu Pvt Colleges" },
+    { to: "/kerala-private-medical-colleges", label: "Kerala Pvt Colleges" },
+    { to: "/bihar-private-medical-colleges", label: "Bihar Private Colleges" },
+    { to: "/haryana-private-medical-colleges", label: "Haryana Pvt Colleges" },
+    { to: "/west-bengal-private-medical-colleges", label: "West Bengal Pvt Colleges" },
+    { to: "/andhra-pradesh-private-medical-colleges", label: "Andhra Pradesh Colleges" },
+    { to: "/deemed-medical-colleges", label: "Deemed Universities" },
   ];
 
-  const tools = [
-    { to: "/college-finder", label: "State Quota Finder" },
-    { to: "/private-finder", label: "Pvt/Deemed Finder" },
-  ];
-
-  const resources = [
-    { to: "/roadmap", label: "NEET Roadmap" },
-    { to: "/mentorship", label: "Tuition & Guidance" },
-    { to: "/counselling-guidance", label: "Counselling Tips" },
+  const guidanceItems = [
+    { to: "/neet-counselling-roadmap", label: "NEET Counselling Roadmap 2026" },
+    { to: "/neet-counselling-tips", label: "NEET Counselling Tips" },
+    { to: "/mbbs-fees-budget-guide", label: "MBBS Fees & Budget Guide" },
   ];
 
   // Helper for Dropdowns (Desktop)
@@ -96,8 +105,8 @@ export default function Navbar() {
       {/* Dropdown Menu */}
       <div
         className={`
-          absolute top-full right-0 mt-1 w-64 bg-white shadow-[0_10px_40px_-10px_rgba(0,0,0,0.1)] 
-          border border-slate-100 rounded-xl overflow-hidden transition-all duration-200 origin-top-right
+          absolute top-full left-0 mt-1 w-64 bg-white shadow-[0_10px_40px_-10px_rgba(0,0,0,0.1)] 
+          border border-slate-100 rounded-xl overflow-hidden transition-all duration-200 origin-top-left z-50
           ${isOpen ? 'opacity-100 visible translate-y-0' : 'opacity-0 invisible -translate-y-2'}
         `}
       >
@@ -165,22 +174,15 @@ export default function Navbar() {
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center gap-1 h-full">
-            <Link to="/" className="px-3 py-2 text-[15px] font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 rounded-lg transition-all">
-              Home
-            </Link>
-            <Link to="/predict" className="px-3 py-2 text-[15px] font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 rounded-lg transition-all">
-              Predictor
-            </Link>
+            <NavDropdown label="NEET Predictor" isOpen={predictorOpen} setIsOpen={setPredictorOpen} items={predictorItems} />
+            <NavDropdown label="College Finder" isOpen={collegeFinderOpen} setIsOpen={setCollegeFinderOpen} items={collegeFinderItems} />
 
-            <div className="w-px h-6 bg-slate-200 mx-2" />
-
-            <Link to="/test-series" className="px-3 py-2 text-[15px] font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 rounded-lg transition-all flex items-center gap-1">
-              <span className="text-blue-600">⚡</span> Test Series
+            <Link to="/neet-test-series" className="px-3 py-2 text-[15px] font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 rounded-lg transition-all flex items-center gap-1">
+              <span className="text-blue-600">⚡</span> NEET Test Series
             </Link>
 
-            <NavDropdown label="Tools" isOpen={toolsOpen} setIsOpen={setToolsOpen} items={tools} />
-            <NavDropdown label="Resources" isOpen={resourcesOpen} setIsOpen={setResourcesOpen} items={resources} />
-            <NavDropdown label="State Data" isOpen={stateDataOpen} setIsOpen={setStateDataOpen} items={stateExplorers} />
+            <NavDropdown label="State-wise Cutoff & Fees" isOpen={stateDataOpen} setIsOpen={setStateDataOpen} items={stateExplorers} />
+            <NavDropdown label="NEET Counselling Guidance" isOpen={guidanceOpen} setIsOpen={setGuidanceOpen} items={guidanceItems} />
           </div>
 
           {/* Desktop Actions */}
@@ -282,17 +284,15 @@ export default function Navbar() {
       >
         <div className="flex flex-col h-full pt-[80px] pb-6">
           <div className="flex-1 overflow-y-auto">
-            <Link to="/" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50">Home</Link>
-            <Link to="/predict" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50">Predictor</Link>
-            <Link to="/test-series" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50 flex items-center gap-2">
-              <span className="text-blue-600">⚡</span> Test Series
+            <MobileMenuItem label="NEET Predictor" items={predictorItems} isOpen={predictorOpen} setIsOpen={setPredictorOpen} />
+            <MobileMenuItem label="College Finder" items={collegeFinderItems} isOpen={collegeFinderOpen} setIsOpen={setCollegeFinderOpen} />
+
+            <Link to="/neet-test-series" className="block px-6 py-3 text-base font-medium text-slate-700 hover:bg-slate-50 flex items-center gap-2 border-b border-slate-100">
+              <span className="text-blue-600">⚡</span> NEET Test Series
             </Link>
 
-            <div className="my-2 border-t border-slate-100" />
-
-            <MobileMenuItem label="Tools" items={tools} isOpen={toolsOpen} setIsOpen={setToolsOpen} />
-            <MobileMenuItem label="Resources" items={resources} isOpen={resourcesOpen} setIsOpen={setResourcesOpen} />
-            <MobileMenuItem label="State Data" items={stateExplorers} isOpen={stateDataOpen} setIsOpen={setStateDataOpen} />
+            <MobileMenuItem label="State-wise Cutoff & Fees" items={stateExplorers} isOpen={stateDataOpen} setIsOpen={setStateDataOpen} />
+            <MobileMenuItem label="NEET Counselling Guidance" items={guidanceItems} isOpen={guidanceOpen} setIsOpen={setGuidanceOpen} />
           </div>
 
           <div className="px-6 space-y-4">

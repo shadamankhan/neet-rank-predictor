@@ -60,30 +60,66 @@ export default function App() {
       {!isAdminRoute && <Navbar />}
       <Routes>
         <Route path="/" element={<Home />} />
+
+        {/* Predictor Section */}
+        <Route path="/neet-rank-predictor" element={<Predictor />} />
+        <Route path="/neet-college-predictor" element={<Predictor />} />
+        <Route path="/neet-cutoff-predictor" element={<Predictor />} />
+        {/* Legacy redirects or aliases if needed, for now just replacing/keeping old ones if linked elsewhere, but replacing is cleaner for "Final Structure" */}
         <Route path="/predict" element={<Predictor />} />
+
         <Route path="/rank-analysis" element={<RankAnalysis />} />
         <Route path="/history" element={<PredictionHistory />} />
         <Route path="/checklist" element={<DevChecklist />} />
-        <Route path="/college-finder" element={<CollegeFinder />} />
+
+        {/* College Finder Section */}
+        <Route path="/state-quota-college-finder" element={<CollegeFinder />} />
+        <Route path="/college-finder" element={<CollegeFinder />} /> {/* Keep for backward compat if needed temporarily */}
+
+        <Route path="/private-deemed-college-finder" element={<PrivateDeemedFinder />} />
         <Route path="/private-finder" element={<PrivateDeemedFinder />} />
+
+        {/* State Explorers - SEO Optimized */}
+        <Route path="/deemed-medical-colleges" element={<DeemedExplorer />} />
         <Route path="/deemed-explorer" element={<DeemedExplorer />} />
+
+        <Route path="/kerala-private-medical-colleges" element={<KeralaPrivateExplorer />} />
         <Route path="/kerala-private" element={<KeralaPrivateExplorer />} />
+
+        <Route path="/bihar-private-medical-colleges" element={<BiharPrivateExplorer />} />
         <Route path="/bihar-private" element={<BiharPrivateExplorer />} />
+
+        <Route path="/karnataka-private-medical-colleges" element={<KarnatakaExplorer />} />
         <Route path="/karnataka-private" element={<KarnatakaExplorer />} />
+
+        <Route path="/up-private-medical-colleges" element={<UPPrivateExplorer />} />
         <Route path="/up-private" element={<UPPrivateExplorer />} />
+
+        <Route path="/haryana-private-medical-colleges" element={<HaryanaPrivateExplorer />} />
         <Route path="/haryana-private" element={<HaryanaPrivateExplorer />} />
+
+        <Route path="/west-bengal-private-medical-colleges" element={<WestBengalPrivateExplorer />} />
         <Route path="/west-bengal-private" element={<WestBengalPrivateExplorer />} />
+
+        <Route path="/andhra-pradesh-private-medical-colleges" element={<AndhraPradeshExplorer />} />
         <Route path="/andhra-pradesh" element={<AndhraPradeshExplorer />} />
+
+        <Route path="/tamil-nadu-private-medical-colleges" element={<TamilNaduExplorer />} />
         <Route path="/tamil-nadu-private" element={<TamilNaduExplorer />} />
+
+        {/* Guidance Section */}
+        <Route path="/neet-prep-strategy" element={<NeetPrepStrategy />} />
         <Route path="/strategy" element={<NeetPrepStrategy />} />
+
+        <Route path="/neet-counselling-tips" element={<CounsellingGuidance />} />
         <Route path="/counselling-guidance" element={<CounsellingGuidance />} />
+
+        <Route path="/neet-counselling-roadmap" element={<Roadmap />} />
         <Route path="/roadmap" element={<Roadmap />} />
-        <Route path="/chemistry-pyq" element={<ChemistryPyq />} />
-        <Route path="/chemistry-pyq-pdf" element={<ChemistryPyqPdf />} />
-        <Route path="/chemistry-pyq-pdf/test/:filename" element={<PdfTestInterface />} />
-        <Route path="/chemistry-pyq/test/:filename" element={<McqTest subject="chemistry" />} />
-        <Route path="/physics-pyq" element={<PhysicsPyq />} />
-        <Route path="/physics-pyq/test/:filename" element={<McqTest subject="physics" />} />
+
+        <Route path="/mbbs-fees-budget-guide" element={<Mentorship />} /> {/* Using Mentorship as placeholder/closest match for now */}
+        <Route path="/mentorship" element={<Mentorship />} />
+
         <Route
           path="/profile"
           element={
@@ -92,14 +128,21 @@ export default function App() {
             </ProtectedRoute>
           }
         />
-        <Route path="/mentorship" element={<Mentorship />} />
 
-
+        {/* Test Series Section */}
+        <Route path="/neet-test-series" element={<TestDashboard />} />
         <Route path="/test-series" element={<TestDashboard />} />
         <Route path="/test-series/:id" element={<TestSeriesDetails />} />
         <Route path="/exam-engine/:id" element={<ExamEngine />} />
         <Route path="/test-solution/:resultId" element={<ExamEngine mode="review" />} />
         <Route path="/test-analysis/:id" element={<TestAnalysis />} />
+
+        <Route path="/chemistry-pyq" element={<ChemistryPyq />} />
+        <Route path="/chemistry-pyq-pdf" element={<ChemistryPyqPdf />} />
+        <Route path="/chemistry-pyq-pdf/test/:filename" element={<PdfTestInterface />} />
+        <Route path="/chemistry-pyq/test/:filename" element={<McqTest subject="chemistry" />} />
+        <Route path="/physics-pyq" element={<PhysicsPyq />} />
+        <Route path="/physics-pyq/test/:filename" element={<McqTest subject="physics" />} />
 
 
 

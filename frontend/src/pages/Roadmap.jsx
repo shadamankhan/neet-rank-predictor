@@ -228,16 +228,18 @@ const Roadmap = () => {
         {/* Tabs */}
         <div className="roadmap-tabs">
           <button
-            className={`tab-btn ${activeTab === 'journey' ? 'active' : ''}`}
+            className={`roadmap-tab-btn ${activeTab === 'journey' ? 'active' : ''}`}
             onClick={() => setActiveTab('journey')}
+            style={activeTab === 'journey' ? {} : { color: 'var(--text-primary)' }}
           >
-            📅 Applications & Exam Journey
+            Applications & Exam Journey
           </button>
           <button
-            className={`tab-btn ${activeTab === 'planner' ? 'active' : ''}`}
+            className={`roadmap-tab-btn ${activeTab === 'planner' ? 'active' : ''}`}
             onClick={() => setActiveTab('planner')}
+            style={activeTab === 'planner' ? {} : { color: 'var(--text-primary)' }}
           >
-            🧠 Create Study Plan
+            Create Study Plan
           </button>
         </div>
       </div>
@@ -273,14 +275,14 @@ const Roadmap = () => {
                 <div className={`timeline-content ${expandedPhase === index ? 'expanded' : ''}`} onClick={() => togglePhase(index)}>
                   <div className="phase-header">
                     <span className="phase-tag">{phase.tag}</span>
-                    <span className="phase-time" style={{ color: '#64748b', fontWeight: 500 }}>{phase.time}</span>
+                    <span className="phase-time" style={{ fontWeight: 500 }}>{phase.time}</span>
                   </div>
 
                   <h3 className="phase-title">{phase.title}</h3>
                   {expandedPhase !== index && (
                     <p className="phase-summary">
                       {isParentMode ? phase.parentContent.focus.substring(0, 60) + "..." : phase.studentContent.focus.substring(0, 60) + "..."}
-                      <span style={{ fontSize: '0.8rem', color: '#2563eb', marginLeft: '10px' }}>Read More</span>
+                      <span style={{ fontSize: '0.8rem', color: 'var(--primary)', marginLeft: '10px' }}>Read More</span>
                     </p>
                   )}
 
@@ -303,7 +305,7 @@ const Roadmap = () => {
                       </div>
                       <div className="detail-section">
                         <div className="detail-title">🤝 How We Help</div>
-                        <p style={{ color: '#475569' }}>{isParentMode ? phase.parentContent.ourHelp : phase.studentContent.ourHelp}</p>
+                        <p style={{ color: 'var(--text-secondary)' }}>{isParentMode ? phase.parentContent.ourHelp : phase.studentContent.ourHelp}</p>
                       </div>
                     </div>
                   )}
@@ -319,8 +321,8 @@ const Roadmap = () => {
         <div className="study-planner-container">
           <div className="planner-card">
             <div style={{ textAlign: 'center', marginBottom: '2rem' }}>
-              <h2 className="text-2xl font-bold text-slate-800">Professional Study Architect</h2>
-              <p className="text-slate-500">Select your weak chapters below to build a syllabus-aligned roadmap.</p>
+              <h2 className="text-2xl font-bold" style={{ color: 'var(--text-primary)' }}>Professional Study Architect</h2>
+              <p style={{ color: 'var(--text-secondary)' }}>Select your weak chapters below to build a syllabus-aligned roadmap.</p>
             </div>
 
             <div className="planner-form-grid">
@@ -347,14 +349,14 @@ const Roadmap = () => {
               </div>
             </div>
 
-            <h3 className="text-lg font-bold text-slate-700 mb-4">Select Weak Areas (Prioritized in Plan)</h3>
+            <h3 className="text-lg font-bold mb-4" style={{ color: 'var(--text-primary)' }}>Select Weak Areas (Prioritized in Plan)</h3>
             <div className="syllabus-selector-grid">
               {Object.entries(neetSyllabus).map(([subject, classes]) => (
                 <div key={subject} className="subject-column">
                   <div className="subject-title">{subject}</div>
                   {Object.entries(classes).map(([cls, chapters]) => (
                     <div key={cls} className="mb-4">
-                      <div className="text-xs font-semibold text-slate-500 mb-2 uppercase">{cls}</div>
+                      <div className="text-xs font-semibold mb-2 uppercase" style={{ color: 'var(--text-secondary)' }}>{cls}</div>
                       <div className="chapter-checkbox-list">
                         {chapters.map(ch => (
                           <div
@@ -388,8 +390,8 @@ const Roadmap = () => {
             <div className="plan-results">
               <div className="plan-header">
                 <div className="text-4xl mb-2">🗓️</div>
-                <h3 className="text-3xl font-bold text-slate-800">Your Master Schedule</h3>
-                <p className="text-slate-500 mt-2">Strategy: <span className="font-bold text-blue-600">{generatedPlan.level}</span></p>
+                <h3 className="text-3xl font-bold" style={{ color: 'var(--text-primary)' }}>Your Master Schedule</h3>
+                <p className="mt-2" style={{ color: 'var(--text-secondary)' }}>Strategy: <span className="font-bold text-blue-600">{generatedPlan.level}</span></p>
               </div>
 
               <div className="timeline-container">
@@ -414,11 +416,11 @@ const Roadmap = () => {
                           </div>
                         </div>
                       ) : (
-                        <div className="text-slate-500 text-sm italic">
+                        <div className="text-sm italic" style={{ color: 'var(--text-secondary)' }}>
                           Full Syllabus Mock Test + Detailed Analysis of errors for 3 hours.
                         </div>
                       )}
-                      <div className="mt-2 text-xs text-slate-400">
+                      <div className="mt-2 text-xs" style={{ color: 'var(--text-secondary)', opacity: 0.7 }}>
                         * Daily Goal: {generatedPlan.dailyHours} Hours
                       </div>
                     </div>

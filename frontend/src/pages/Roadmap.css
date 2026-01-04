@@ -3,9 +3,10 @@
 .roadmap-container {
   max-width: 1000px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 120px 20px 40px;
+  /* Increased padding top */
   font-family: 'Inter', sans-serif;
-  color: #333;
+  color: var(--text-primary);
 }
 
 .roadmap-header {
@@ -19,12 +20,13 @@
   margin-bottom: 15px;
   background: linear-gradient(135deg, #2563eb, #1e40af);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 .roadmap-subtitle {
   font-size: 1.1rem;
-  color: #666;
+  color: var(--text-secondary);
   max-width: 600px;
   margin: 0 auto 30px;
   line-height: 1.6;
@@ -40,13 +42,13 @@
 
 .toggle-label {
   font-weight: 600;
-  color: #888;
+  color: var(--text-secondary);
   cursor: pointer;
   transition: all 0.3s;
 }
 
 .toggle-label.active {
-  color: #2563eb;
+  color: var(--primary);
   font-size: 1.1rem;
 }
 
@@ -54,18 +56,20 @@
   position: relative;
   width: 60px;
   height: 30px;
-  background: #e2e8f0;
+  background: var(--border);
   border-radius: 15px;
   cursor: pointer;
   transition: background 0.3s;
 }
 
 .mode-switch.parent-mode {
-  background: #10b981; /* Green for assurance/parent mode */
+  background: #10b981;
+  /* Green for assurance/parent mode */
 }
 
 .mode-switch.student-mode {
-  background: #2563eb; /* Blue for student/action mode */
+  background: var(--primary);
+  /* Blue for student/action mode */
 }
 
 .switch-handle {
@@ -77,7 +81,7 @@
   background: white;
   border-radius: 50%;
   transition: transform 0.3s;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .mode-switch.parent-mode .switch-handle {
@@ -93,20 +97,22 @@
   content: '';
   position: absolute;
   top: 0;
-  left: 30px; /* Center of the circle which is likely roughly 60px wide or offset */
+  left: 30px;
+  /* Center of the circle which is likely roughly 60px wide or offset */
   height: 100%;
   width: 4px;
-  background: #e2e8f0;
+  background: var(--border);
   border-radius: 4px;
 }
 
 @media (max-width: 768px) {
-    .roadmap-timeline {
-        padding-left: 10px;
-    }
-    .roadmap-timeline::before {
-        left: 20px;
-    }
+  .roadmap-timeline {
+    padding-left: 10px;
+  }
+
+  .roadmap-timeline::before {
+    left: 20px;
+  }
 }
 
 
@@ -118,20 +124,22 @@
 
 .timeline-dot {
   position: absolute;
-  left: 18px; /* Adjust based on timeline line */
+  left: 18px;
+  /* Adjust based on timeline line */
   top: 20px;
   width: 24px;
   height: 24px;
-  background: white;
-  border: 4px solid #2563eb;
+  background: var(--bg-card);
+  border: 4px solid var(--primary);
   border-radius: 50%;
   z-index: 10;
   transition: all 0.3s;
 }
+
 @media (max-width: 768px) {
-    .timeline-dot {
-        left: 8px;
-    }
+  .timeline-dot {
+    left: 8px;
+  }
 }
 
 .timeline-item:hover .timeline-dot {
@@ -140,11 +148,11 @@
 }
 
 .timeline-content {
-  background: white;
+  background: var(--bg-card);
   border-radius: 16px;
   padding: 25px;
   box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-  border: 1px solid #f1f5f9;
+  border: 1px solid var(--border);
   transition: transform 0.2s, box-shadow 0.2s;
   cursor: pointer;
 }
@@ -165,8 +173,9 @@
   font-size: 0.8rem;
   font-weight: 700;
   text-transform: uppercase;
-  color: #2563eb;
-  background: #eff6ff;
+  color: var(--primary);
+  background: rgba(37, 99, 235, 0.1);
+  /* Semi-transparent generic blue tint */
   padding: 4px 10px;
   border-radius: 20px;
   letter-spacing: 0.5px;
@@ -175,22 +184,22 @@
 .phase-title {
   font-size: 1.4rem;
   font-weight: 700;
-  color: #1e293b;
+  color: var(--text-primary);
   margin: 10px 0;
 }
 
 .phase-summary {
-    color: #64748b;
-    margin-bottom: 15px;
+  color: var(--text-secondary);
+  margin-bottom: 15px;
 }
 
 .expand-icon {
-    color: #94a3b8;
-    transition: transform 0.3s;
+  color: #94a3b8;
+  transition: transform 0.3s;
 }
 
 .expanded .expand-icon {
-    transform: rotate(180deg);
+  transform: rotate(180deg);
 }
 
 .phase-details {
@@ -201,8 +210,15 @@
 }
 
 @keyframes slideDown {
-  from { opacity: 0; transform: translateY(-10px); }
-  to { opacity: 1; transform: translateY(0); }
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
 .detail-section {
@@ -240,6 +256,48 @@
   font-weight: bold;
 }
 
+
+/* Tabs Section */
+.roadmap-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+/* Base Tab Button */
+.roadmap-tab-btn {
+  padding: 12px 24px;
+  border-radius: 30px;
+  border: 1px solid var(--border) !important;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  font-size: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  /* FORCE colors to prevent white-on-white */
+  background: var(--bg-card) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Hover States */
+.roadmap-tab-btn:hover {
+  border-color: var(--primary) !important;
+  opacity: 0.9;
+}
+
+/* Active State */
+.roadmap-tab-btn.active {
+  background: var(--primary) !important;
+  color: white !important;
+  border-color: var(--primary) !important;
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.2);
+}
+
 .perspective-box {
   background: #f8fafc;
   border-left: 4px solid;
@@ -259,40 +317,46 @@
 }
 
 .perspective-title {
-    font-weight: 700;
-    margin-bottom: 5px;
-    font-size: 0.9rem;
+  font-weight: 700;
+  margin-bottom: 5px;
+  font-size: 0.9rem;
 }
-.perspective-box.student .perspective-title { color: #1e40af; }
-.perspective-box.parent .perspective-title { color: #065f46; }
+
+.perspective-box.student .perspective-title {
+  color: #1e40af;
+}
+
+.perspective-box.parent .perspective-title {
+  color: #065f46;
+}
 
 .cta-section {
-    text-align: center;
-    margin-top: 60px;
-    padding: 40px;
-    background: #f8fafc;
-    border-radius: 20px;
+  text-align: center;
+  margin-top: 60px;
+  padding: 40px;
+  background: #f8fafc;
+  border-radius: 20px;
 }
 
 .cta-button {
-    background: #2563eb;
-    color: white;
-    padding: 12px 30px;
-    border-radius: 30px;
-    font-weight: 600;
-    text-decoration: none;
-    transition: background 0.2s;
-    display: inline-block;
+  background: #2563eb;
+  color: white;
+  padding: 12px 30px;
+  border-radius: 30px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s;
+  display: inline-block;
 }
 
 .cta-button:hover {
-    background: #1e40af;
+  background: #1e40af;
 }
 
 .resources-link {
-    display: block;
-    margin-top: 15px;
-    color: #64748b;
-    text-decoration: underline;
-    cursor: pointer;
+  display: block;
+  margin-top: 15px;
+  color: #64748b;
+  text-decoration: underline;
+  cursor: pointer;
 }
