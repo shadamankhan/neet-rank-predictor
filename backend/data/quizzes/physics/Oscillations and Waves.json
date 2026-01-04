@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "question": "The SI unit of angular frequency \(\omega\) of a simple harmonic oscillator is:",
+        "question": "The SI unit of angular frequency \\\\(\\omega\\\\) of a simple harmonic oscillator is:",
         "options": [
             "rad s$^{-1}$",
             "Hz",
@@ -9,15 +9,15 @@
             "rad"
         ],
         "answer": 0,
-        "explanation": "Angular frequency is defined as \(\omega = 2\pi\nu\) and has unit rad s$^{-1}$."
+        "explanation": "Angular frequency is defined as \\\\(\\omega = 2\\\\pi\\nu\\\\) and has unit rad s$^{-1}$."
     },
     {
         "id": 2,
-        "question": "The displacement of a particle executing SHM is given by \(x = A \sin(\omega t + \phi)\). The velocity of the particle is:",
-        "options": ["\(A\omega \cos(\omega t + \phi)\)", "\(-A\omega \sin(\omega t + \phi)\)", "\(A\omega^2 \cos(\omega t + \phi)\)", "\(-A\omega^2 \sin(\omega t + \phi)\)"
+        "question": "The displacement of a particle executing SHM is given by \\\\(x = A \\\\sin(\\omega t + \\\\phi)\\\\). The velocity of the particle is:",
+        "options": ["\\\\(A\\omega \\cos(\\omega t + \\\\phi)\\\\)", "\\\\(-A\\omega \\\\sin(\\omega t + \\\\phi)\\\\)", "\\\\(A\\omega^2 \\cos(\\omega t + \\\\phi)\\\\)", "\\\\(-A\\omega^2 \\\\sin(\\omega t + \\\\phi)\\\\)"
         ],
         "answer": 0,
-        "explanation": "Velocity is \(v = dx/dt = A\omega \cos(\omega t + \phi)\)."
+        "explanation": "Velocity is \\\\(v = dx/dt = A\\omega \\cos(\\omega t + \\\\phi)\\\\)."
     },
     {
         "id": 3,
@@ -29,15 +29,15 @@
             "Zero at all positions"
         ],
         "answer": 2,
-        "explanation": "In SHM, acceleration \(a = -\omega^2 x\), proportional to displacement and opposite in direction."
+        "explanation": "In SHM, acceleration \\\\(a = -\\omega^2 x\\\\), proportional to displacement and opposite in direction."
     },
     {
         "id": 4,
-        "question": "The time period of a mass \(m\) attached to a spring of force constant \(k\) executing SHM is:",
-        "options": ["\(2\pi\sqrt{m/k}\)", "\(2\pi\sqrt{k/m}\)", "\(\sqrt{m/k}\)", "\(\sqrt{k/m}\)"
+        "question": "The time period of a mass \\\\(m\\\\) attached to a spring of force constant \\\\(k\\\\) executing SHM is:",
+        "options": ["\\\\(2\\\\pi\\\\sqrt{m/k}\\\\)", "\\\\(2\\\\pi\\\\sqrt{k/m}\\\\)", "\\\\(\\\\sqrt{m/k}\\\\)", "\\\\(\\\\sqrt{k/m}\\\\)"
         ],
         "answer": 0,
-        "explanation": "For a spring-mass system, \(T = 2\pi\sqrt{m/k}\)."
+        "explanation": "For a spring-mass system, \\\\(T = 2\\\\pi\\\\sqrt{m/k}\\\\)."
     },
     {
         "id": 5,
@@ -49,7 +49,7 @@
             "Phase"
         ],
         "answer": 2,
-        "explanation": "Total energy \(E = \frac{1}{2}kA^2\) depends only on amplitude."
+        "explanation": "Total energy \\\\(E = \\frac{1}{2}kA^2\\\\) depends only on amplitude."
     },
     {
         "id": 6,
@@ -79,10 +79,10 @@
         "id": 8,
         "question": "The phase difference between velocity and displacement in SHM is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Velocity leads displacement by a phase of \(\pi/2\)."
+        "explanation": "Velocity leads displacement by a phase of \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 9,
@@ -94,15 +94,15 @@
             "Proportional to square of displacement"
         ],
         "answer": 2,
-        "explanation": "Restoring force \(F = -kx\) is proportional to displacement."
+        "explanation": "Restoring force \\\\(F = -kx\\\\) is proportional to displacement."
     },
     {
         "id": 10,
-        "question": "The time period of a simple pendulum of length \(l\) is given by:",
-        "options": ["\(2\pi\sqrt{l/g}\)", "\(2\pi\sqrt{g/l}\)", "\(\sqrt{l/g}\)", "\(\sqrt{g/l}\)"
+        "question": "The time period of a simple pendulum of length \\\\(l\\\\) is given by:",
+        "options": ["\\\\(2\\\\pi\\\\sqrt{l/g}\\\\)", "\\\\(2\\\\pi\\\\sqrt{g/l}\\\\)", "\\\\(\\\\sqrt{l/g}\\\\)", "\\\\(\\\\sqrt{g/l}\\\\)"
         ],
         "answer": 0,
-        "explanation": "For small oscillations, \(T = 2\pi\sqrt{l/g}\)."
+        "explanation": "For small oscillations, \\\\(T = 2\\\\pi\\\\sqrt{l/g}\\\\)."
     },
     {
         "id": 11,
@@ -119,18 +119,18 @@
     {
         "id": 12,
         "question": "The frequency of oscillation of a particle executing SHM is:",
-        "options": ["\(1/T\)", "\(2\pi/T\)", "\(T/2\pi\)", "\(\omega T\)"
+        "options": ["\\\\(1/T\\\\)", "\\\\(2\\\\pi/T\\\\)", "\\\\(T/2\\\\pi\\\\)", "\\\\(\\omega T\\\\)"
         ],
         "answer": 0,
-        "explanation": "Frequency \(\nu = 1/T\)."
+        "explanation": "Frequency \\\\(\\nu = 1/T\\\\)."
     },
     {
         "id": 13,
         "question": "The angular frequency of a simple pendulum is:",
-        "options": ["\(\sqrt{g/l}\)", "\(2\pi\sqrt{g/l}\)", "\(\sqrt{l/g}\)", "\(2\pi\sqrt{l/g}\)"
+        "options": ["\\\\(\\\\sqrt{g/l}\\\\)", "\\\\(2\\\\pi\\\\sqrt{g/l}\\\\)", "\\\\(\\\\sqrt{l/g}\\\\)", "\\\\(2\\\\pi\\\\sqrt{l/g}\\\\)"
         ],
         "answer": 0,
-        "explanation": "Angular frequency \(\omega = \sqrt{g/l}\)."
+        "explanation": "Angular frequency \\\\(\\omega = \\\\sqrt{g/l}\\\\)."
     },
     {
         "id": 14,
@@ -166,7 +166,7 @@
             "Amplitude only"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v = \sqrt{T/\mu}\) depends on tension and linear mass density."
+        "explanation": "Wave speed \\\\(v = \\\\sqrt{T/\\mu}\\\\) depends on tension and linear mass density."
     },
     {
         "id": 17,
@@ -182,11 +182,11 @@
     },
     {
         "id": 18,
-        "question": "The relation between wave speed \(v\), frequency \(\nu\) and wavelength \(\lambda\) is:",
-        "options": ["\(v = \nu/\lambda\)", "\(v = \lambda/\nu\)", "\(v = \nu\lambda\)", "\(v = \lambda^2\nu\)"
+        "question": "The relation between wave speed \\\\(v\\\\), frequency \\\\(\\nu\\\\) and wavelength \\\\(\\lambda\\\\) is:",
+        "options": ["\\\\(v = \\nu/\\lambda\\\\)", "\\\\(v = \\lambda/\\nu\\\\)", "\\\\(v = \\nu\\lambda\\\\)", "\\\\(v = \\lambda^2\\nu\\\\)"
         ],
         "answer": 2,
-        "explanation": "Wave speed is given by \(v = \nu\lambda\)."
+        "explanation": "Wave speed is given by \\\\(v = \\nu\\lambda\\\\)."
     },
     {
         "id": 19,
@@ -263,7 +263,7 @@
     {
         "id": 25,
         "question": "The beat frequency is given by:",
-        "options": ["\(|\nu_1 + \nu_2|\)", "\(|\nu_1 - \nu_2|\)", "\(2\nu\)", "\(\nu/2\)"
+        "options": ["\\\\(|\\nu_1 + \\nu_2|\\\\)", "\\\\(|\\nu_1 - \\nu_2|\\\\)", "\\\\(2\\nu\\\\)", "\\\\(\\nu/2\\\\)"
         ],
         "answer": 1,
         "explanation": "Beat frequency equals the absolute difference of the two frequencies."
@@ -290,7 +290,7 @@
             "Amplitude increases"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v = \sqrt{T/\mu}\) increases with tension."
+        "explanation": "Wave speed \\\\(v = \\\\sqrt{T/\\mu}\\\\) increases with tension."
     },
     {
         "id": 28,
@@ -307,18 +307,18 @@
     {
         "id": 29,
         "question": "The distance between two consecutive nodes in a stationary wave is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 2,
-        "explanation": "Distance between consecutive nodes is \(\lambda/2\)."
+        "explanation": "Distance between consecutive nodes is \\\\(\\lambda/2\\\\)."
     },
     {
         "id": 30,
         "question": "The distance between a node and the nearest antinode is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 2,
-        "explanation": "Distance between node and adjacent antinode is \(\lambda/4\)."
+        "explanation": "Distance between node and adjacent antinode is \\\\(\\lambda/4\\\\)."
     },
     {
         "id": 31,
@@ -335,10 +335,10 @@
     {
         "id": 32,
         "question": "The frequency of the first overtone of a stretched string fixed at both ends is:",
-        "options": ["\(\nu\)", "\(2\nu\)", "\(3\nu\)", "\(\nu/2\)"
+        "options": ["\\\\(\\nu\\\\)", "\\\\(2\\nu\\\\)", "\\\\(3\\nu\\\\)", "\\\\(\\nu/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "First overtone corresponds to second harmonic with frequency \(2\nu\)."
+        "explanation": "First overtone corresponds to second harmonic with frequency \\\\(2\\nu\\\\)."
     },
     {
         "id": 33,
@@ -556,35 +556,34 @@
         "answer": 1,
         "explanation": "Waves on water surface are transverse mechanical waves."
     }
-]
-[
+,
     {
         "id": 51,
-        "question": "For a particle executing SHM, the relation between maximum speed \\(v_{\\max}\\), angular frequency \\(\\omega\\), and amplitude \\(A\\) is:",
+        "question": "For a particle executing SHM, the relation between maximum speed \\\\(v_{\\\\max}\\\\), angular frequency \\\\(\\\\omega\\\\), and amplitude \\\\(A\\\\) is:",
         "options": [
-            "\\(v_{\\max} = A/\\omega\\)",
-            "\\(v_{\\max} = \\omega/A\\)",
-            "\\(v_{\\max} = \\omega A\\)",
-            "\\(v_{\\max} = \\omega^2 A\\)"
+            "\\\\(v_{\\\\max} = A/\\\\omega\\\\)",
+            "\\\\(v_{\\\\max} = \\\\omega/A\\\\)",
+            "\\\\(v_{\\\\max} = \\\\omega A\\\\)",
+            "\\\\(v_{\\\\max} = \\\\omega^2 A\\\\)"
         ],
         "answer": 2,
-        "explanation": "In SHM, maximum speed occurs at mean position and is given by \\(v_{\\max} = \\omega A\\)."
+        "explanation": "In SHM, maximum speed occurs at mean position and is given by \\\\(v_{\\\\max} = \\\\omega A\\\\)."
     },
     {
         "id": 52,
         "question": "The maximum acceleration of a particle executing SHM is:",
         "options": [
-            "\\(\\omega A\\)",
-            "\\(\\omega^2 A\\)",
-            "\\(A/\\omega\\)",
-            "\\(A\\omega^3\\)"
+            "\\\\(\\\\omega A\\\\)",
+            "\\\\(\\\\omega^2 A\\\\)",
+            "\\\\(A/\\\\omega\\\\)",
+            "\\\\(A\\\\omega^3\\\\)"
         ],
         "answer": 1,
-        "explanation": "Acceleration in SHM is \\(a = -\\omega^2 x\\); maximum occurs at \\(x = A\\)."
+        "explanation": "Acceleration in SHM is \\\\(a = -\\\\omega^2 x\\\\); maximum occurs at \\\\(x = A\\\\)."
     },
     {
         "id": 53,
-        "question": "The phase of a particle executing SHM is \\(\\pi/2\\). The particle is at:",
+        "question": "The phase of a particle executing SHM is \\\\(\\\\pi/2\\\\). The particle is at:",
         "options": [
             "Mean position moving towards positive extreme",
             "Positive extreme",
@@ -592,7 +591,7 @@
             "Negative extreme"
         ],
         "answer": 0,
-        "explanation": "At phase \\(\\pi/2\\), displacement is zero and velocity is maximum in positive direction."
+        "explanation": "At phase \\\\(\\\\pi/2\\\\), displacement is zero and velocity is maximum in positive direction."
     },
     {
         "id": 54,
@@ -604,16 +603,16 @@
             "Unchanged"
         ],
         "answer": 2,
-        "explanation": "Total energy \\(E = \\frac{1}{2}kA^2\\); doubling \\(A\\) makes energy four times."
+        "explanation": "Total energy \\\\(E = \\frac{1}{2}kA^2\\\\); doubling \\\\(A\\\\) makes energy four times."
     },
     {
         "id": 55,
-        "question": "The dimensions of angular frequency \\(\\omega\\) are:",
+        "question": "The dimensions of angular frequency \\\\(\\\\omega\\\\) are:",
         "options": [
-            "\\([T^{-1}]\\)",
-            "\\([T]\\)",
-            "\\([L^{-1}]\\)",
-            "\\([LT^{-1}]\\)"
+            "\\\\([T^{-1}]\\\\)",
+            "\\\\([T]\\\\)",
+            "\\\\([L^{-1}]\\\\)",
+            "\\\\([LT^{-1}]\\\\)"
         ],
         "answer": 0,
         "explanation": "Angular frequency has dimensions of inverse time."
@@ -628,7 +627,7 @@
             "Become zero"
         ],
         "answer": 1,
-        "explanation": "Time period \\(T = 2\\pi\\sqrt{l/g}\\); lower \\(g\\) on Moon increases \\(T\\)."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{l/g}\\\\); lower \\\\(g\\\\) on Moon increases \\\\(T\\\\)."
     },
     {
         "id": 57,
@@ -640,7 +639,7 @@
             "2 m"
         ],
         "answer": 2,
-        "explanation": "For \\(T = 2\\,s\\), \\(l = g/\\pi^2 \\approx 1\\,m\\)."
+        "explanation": "For \\\\(T = 2\\\\,s\\\\), \\\\(l = g/\\\\pi^2 \\\\approx 1\\\\,m\\\\)."
     },
     {
         "id": 58,
@@ -656,24 +655,24 @@
     },
     {
         "id": 59,
-        "question": "A particle executing SHM passes through mean position with velocity \\(v\\). Its velocity at displacement \\(x\\) is:",
+        "question": "A particle executing SHM passes through mean position with velocity \\\\(v\\\\). Its velocity at displacement \\\\(x\\\\) is:",
         "options": [
-            "\\(\\sqrt{v^2 - \\omega^2 x^2}\\)",
-            "\\(\\sqrt{v^2 + \\omega^2 x^2}\\)",
-            "\\(v - \\omega x\\)",
-            "\\(v + \\omega x\\)"
+            "\\\\(\\\\sqrt{v^2 - \\\\omega^2 x^2}\\\\)",
+            "\\\\(\\\\sqrt{v^2 + \\\\omega^2 x^2}\\\\)",
+            "\\\\(v - \\\\omega x\\\\)",
+            "\\\\(v + \\\\omega x\\\\)"
         ],
         "answer": 0,
-        "explanation": "Velocity relation is \\(v^2 = v_{\\max}^2 - \\omega^2 x^2\\)."
+        "explanation": "Velocity relation is \\\\(v^2 = v_{\\\\max}^2 - \\\\omega^2 x^2\\\\)."
     },
     {
         "id": 60,
         "question": "The time taken by a particle in SHM to move from mean position to extreme position is:",
         "options": [
-            "\\(T\\)",
-            "\\(T/2\\)",
-            "\\(T/4\\)",
-            "\\(T/8\\)"
+            "\\\\(T\\\\)",
+            "\\\\(T/2\\\\)",
+            "\\\\(T/4\\\\)",
+            "\\\\(T/8\\\\)"
         ],
         "answer": 2,
         "explanation": "Mean to extreme corresponds to one quarter of a cycle."
@@ -688,7 +687,7 @@
             "Extension of spring"
         ],
         "answer": 2,
-        "explanation": "Angular frequency \\(\\omega = \\sqrt{k/m}\\) does not depend on gravity."
+        "explanation": "Angular frequency \\\\(\\\\omega = \\\\sqrt{k/m}\\\\) does not depend on gravity."
     },
     {
         "id": 62,
@@ -716,39 +715,39 @@
     },
     {
         "id": 64,
-        "question": "The phase difference between two points separated by distance \\(x\\) in a wave of wavelength \\(\\lambda\\) is:",
+        "question": "The phase difference between two points separated by distance \\\\(x\\\\) in a wave of wavelength \\\\(\\\\lambda\\\\) is:",
         "options": [
-            "\\(2\\pi x/\\lambda\\)",
-            "\\(\\pi x/\\lambda\\)",
-            "\\(\\lambda/x\\)",
-            "\\(x/\\lambda\\)"
+            "\\\\(2\\\\pi x/\\\\lambda\\\\)",
+            "\\\\(\\\\pi x/\\\\lambda\\\\)",
+            "\\\\(\\\\lambda/x\\\\)",
+            "\\\\(x/\\\\lambda\\\\)"
         ],
         "answer": 0,
-        "explanation": "Phase difference is \\(\\Delta\\phi = 2\\pi x/\\lambda\\)."
+        "explanation": "Phase difference is \\\\(\\\\Delta\\\\phi = 2\\\\pi x/\\\\lambda\\\\)."
     },
     {
         "id": 65,
         "question": "The wave equation for a plane progressive wave travelling along +x direction is:",
         "options": [
-            "\\(y = A\\sin(\\omega t + kx)\\)",
-            "\\(y = A\\sin(\\omega t - kx)\\)",
-            "\\(y = A\\sin(kt)\\)",
-            "\\(y = A\\sin(kx)\\)"
+            "\\\\(y = A\\\\sin(\\\\omega t + kx)\\\\)",
+            "\\\\(y = A\\\\sin(\\\\omega t - kx)\\\\)",
+            "\\\\(y = A\\\\sin(kt)\\\\)",
+            "\\\\(y = A\\\\sin(kx)\\\\)"
         ],
         "answer": 1,
-        "explanation": "For propagation along +x, the equation is \\(y = A\\sin(\\omega t - kx)\\)."
+        "explanation": "For propagation along +x, the equation is \\\\(y = A\\\\sin(\\\\omega t - kx)\\\\)."
     },
     {
         "id": 66,
-        "question": "The dimensions of wave number \\(k\\) are:",
+        "question": "The dimensions of wave number \\\\(k\\\\) are:",
         "options": [
-            "\\([L]\\)",
-            "\\([L^{-1}]\\)",
-            "\\([T^{-1}]\\)",
-            "\\([LT^{-1}]\\)"
+            "\\\\([L]\\\\)",
+            "\\\\([L^{-1}]\\\\)",
+            "\\\\([T^{-1}]\\\\)",
+            "\\\\([LT^{-1}]\\\\)"
         ],
         "answer": 1,
-        "explanation": "Wave number \\(k = 2\\pi/\\lambda\\) has dimensions of inverse length."
+        "explanation": "Wave number \\\\(k = 2\\\\pi/\\\\lambda\\\\) has dimensions of inverse length."
     },
     {
         "id": 67,
@@ -760,7 +759,7 @@
             "One fourth"
         ],
         "answer": 1,
-        "explanation": "Since \\(v = \\sqrt{T/\\mu}\\), to double \\(v\\), tension must become four times."
+        "explanation": "Since \\\\(v = \\\\sqrt{T/\\\\mu}\\\\), to double \\\\(v\\\\), tension must become four times."
     },
     {
         "id": 68,
@@ -778,25 +777,25 @@
         "id": 69,
         "question": "In a stretched string fixed at both ends, the wavelength of the fundamental mode is:",
         "options": [
-            "\\(L\\)",
-            "\\(2L\\)",
-            "\\(L/2\\)",
-            "\\(4L\\)"
+            "\\\\(L\\\\)",
+            "\\\\(2L\\\\)",
+            "\\\\(L/2\\\\)",
+            "\\\\(4L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For fundamental mode, \\(\\lambda = 2L\\)."
+        "explanation": "For fundamental mode, \\\\(\\\\lambda = 2L\\\\)."
     },
     {
         "id": 70,
         "question": "The frequency of the second overtone of a stretched string fixed at both ends is:",
         "options": [
-            "\\(2\\nu\\)",
-            "\\(3\\nu\\)",
-            "\\(4\\nu\\)",
-            "\\(5\\nu\\)"
+            "\\\\(2\\nu\\\\)",
+            "\\\\(3\\nu\\\\)",
+            "\\\\(4\\nu\\\\)",
+            "\\\\(5\\nu\\\\)"
         ],
         "answer": 2,
-        "explanation": "Second overtone corresponds to third harmonic with frequency \\(3\\nu\\)."
+        "explanation": "Second overtone corresponds to third harmonic with frequency \\\\(3\\nu\\\\)."
     },
     {
         "id": 71,
@@ -928,7 +927,7 @@
             "Pressure"
         ],
         "answer": 2,
-        "explanation": "Speed \\(v = \\sqrt{\\gamma P/\\rho}\\), inversely proportional to \\(\\sqrt{\\rho}\\)."
+        "explanation": "Speed \\\\(v = \\\\sqrt{\\\\gamma P/\\rho}\\\\), inversely proportional to \\\\(\\\\sqrt{\\rho}\\\\)."
     },
     {
         "id": 82,
@@ -956,27 +955,27 @@
     },
     {
         "id": 84,
-        "question": "The fundamental frequency of an open organ pipe of length \\(L\\) is:",
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
         "options": [
-            "\\(v/4L\\)",
-            "\\(v/2L\\)",
-            "\\(v/L\\)",
-            "\\(2v/L\\)"
+            "\\\\(v/4L\\\\)",
+            "\\\\(v/2L\\\\)",
+            "\\\\(v/L\\\\)",
+            "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For open pipe, fundamental frequency is \\(v/2L\\)."
+        "explanation": "For open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 85,
-        "question": "The fundamental frequency of a closed organ pipe of length \\(L\\) is:",
+        "question": "The fundamental frequency of a closed organ pipe of length \\\\(L\\\\) is:",
         "options": [
-            "\\(v/2L\\)",
-            "\\(v/4L\\)",
-            "\\(v/L\\)",
-            "\\(2v/L\\)"
+            "\\\\(v/2L\\\\)",
+            "\\\\(v/4L\\\\)",
+            "\\\\(v/L\\\\)",
+            "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For closed pipe, fundamental frequency is \\(v/4L\\)."
+        "explanation": "For closed pipe, fundamental frequency is \\\\(v/4L\\\\)."
     },
     {
         "id": 86,
@@ -1115,24 +1114,24 @@
         "question": "In SHM, the phase difference between acceleration and displacement is:",
         "options": [
             "0",
-            "\\(\\pi/2\\)",
-            "\\(\\pi\\)",
-            "\\(3\\pi/2\\)"
+            "\\\\(\\\\pi/2\\\\)",
+            "\\\\(\\\\pi\\\\)",
+            "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 2,
-        "explanation": "Acceleration is opposite to displacement, giving phase difference of \\(\\pi\\)."
+        "explanation": "Acceleration is opposite to displacement, giving phase difference of \\\\(\\\\pi\\\\)."
     },
     {
         "id": 98,
-        "question": "The equation \\(y = A\\sin(2\\pi t)\\) represents a wave of frequency:",
+        "question": "The equation \\\\(y = A\\\\sin(2\\\\pi t)\\\\) represents a wave of frequency:",
         "options": [
             "0.5 Hz",
             "1 Hz",
             "2 Hz",
-            "\\(2\\pi\\) Hz"
+            "\\\\(2\\\\pi\\\\) Hz"
         ],
         "answer": 1,
-        "explanation": "Angular frequency \\(\\omega = 2\\pi\\), so frequency is 1 Hz."
+        "explanation": "Angular frequency \\\\(\\\\omega = 2\\\\pi\\\\), so frequency is 1 Hz."
     },
     {
         "id": 99,
@@ -1158,15 +1157,14 @@
         "answer": 2,
         "explanation": "Standing waves form due to superposition of identical waves moving oppositely."
     }
-]
-[
+,
     {
         "id": 101,
         "question": "For a particle executing SHM, the ratio of maximum acceleration to maximum velocity is:",
-        "options": ["\(\omega\)", "\(\omega^2\)", "\(1/\omega\)", "\(A\)"
+        "options": ["\\\\(\\omega\\\\)", "\\\\(\\omega^2\\\\)", "\\\\(1/\\omega\\\\)", "\\\\(A\\\\)"
         ],
         "answer": 0,
-        "explanation": "Maximum acceleration is \(\omega^2 A\) and maximum velocity is \(\omega A\), so the ratio is \(\omega\)."
+        "explanation": "Maximum acceleration is \\\\(\\omega^2 A\\\\) and maximum velocity is \\\\(\\omega A\\\\), so the ratio is \\\\(\\omega\\\\)."
     },
     {
         "id": 102,
@@ -1178,23 +1176,23 @@
             "One fourth"
         ],
         "answer": 2,
-        "explanation": "Since \(T \propto \sqrt{l}\), doubling \(T\) makes \(l\) four times."
+        "explanation": "Since \\\\(T \\\\propto \\\\sqrt{l}\\\\), doubling \\\\(T\\\\) makes \\\\(l\\\\) four times."
     },
     {
         "id": 103,
-        "question": "The dimensional formula of force constant \(k\) of a spring is:",
-        "options": ["\([MT^{-2}]\)", "\([ML^2T^{-2}]\)", "\([MT^{-2}L^{-1}]\)", "\([M^{-1}T^2]\)"
+        "question": "The dimensional formula of force constant \\\\(k\\\\) of a spring is:",
+        "options": ["\\\\([MT^{-2}]\\\\)", "\\\\([ML^2T^{-2}]\\\\)", "\\\\([MT^{-2}L^{-1}]\\\\)", "\\\\([M^{-1}T^2]\\\\)"
         ],
         "answer": 2,
-        "explanation": "From \(F = kx\), \(k = F/x\), so dimensions are \([MLT^{-2}]/[L] = [MT^{-2}L^{-1}]\)."
+        "explanation": "From \\\\(F = kx\\\\), \\\\(k = F/x\\\\), so dimensions are \\\\([MLT^{-2}]/[L] = [MT^{-2}L^{-1}]\\\\)."
     },
     {
         "id": 104,
-        "question": "In SHM, the potential energy at displacement \(x = A/2\) is:",
-        "options": ["\(E/4\)", "\(E/2\)", "\(3E/4\)", "\(E\)"
+        "question": "In SHM, the potential energy at displacement \\\\(x = A/2\\\\) is:",
+        "options": ["\\\\(E/4\\\\)", "\\\\(E/2\\\\)", "\\\\(3E/4\\\\)", "\\\\(E\\\\)"
         ],
         "answer": 0,
-        "explanation": "Potential energy \(U = \frac{1}{2}k x^2 = \frac{1}{4} \times \frac{1}{2}kA^2 = E/4\)."
+        "explanation": "Potential energy \\\\(U = \\frac{1}{2}k x^2 = \\frac{1}{4} \\times \\frac{1}{2}kA^2 = E/4\\\\)."
     },
     {
         "id": 105,
@@ -1211,10 +1209,10 @@
     {
         "id": 106,
         "question": "The angular frequency of oscillation of a body suspended from a vertical spring is:",
-        "options": ["\(\sqrt{g/l}\)", "\(\sqrt{k/m}\)", "\(2\pi\sqrt{k/m}\)", "\(2\pi\sqrt{m/k}\)"
+        "options": ["\\\\(\\\\sqrt{g/l}\\\\)", "\\\\(\\\\sqrt{k/m}\\\\)", "\\\\(2\\\\pi\\\\sqrt{k/m}\\\\)", "\\\\(2\\\\pi\\\\sqrt{m/k}\\\\)"
         ],
         "answer": 1,
-        "explanation": "For a spring-mass system, \(\omega = \sqrt{k/m}\)."
+        "explanation": "For a spring-mass system, \\\\(\\omega = \\\\sqrt{k/m}\\\\)."
     },
     {
         "id": 107,
@@ -1232,10 +1230,10 @@
         "id": 108,
         "question": "The phase difference between acceleration and velocity in SHM is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Acceleration leads velocity by a phase of \(\pi/2\)."
+        "explanation": "Acceleration leads velocity by a phase of \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 109,
@@ -1247,23 +1245,23 @@
             "One fourth"
         ],
         "answer": 1,
-        "explanation": "Time period \(T = 2\pi\sqrt{m/k}\); increasing mass four times doubles \(T\)."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{m/k}\\\\); increasing mass four times doubles \\\\(T\\\\)."
     },
     {
         "id": 110,
         "question": "The time taken by a particle in SHM to go from extreme position to mean position is:",
-        "options": ["\(T/4\)", "\(T/2\)", "\(T/8\)", "\(3T/4\)"
+        "options": ["\\\\(T/4\\\\)", "\\\\(T/2\\\\)", "\\\\(T/8\\\\)", "\\\\(3T/4\\\\)"
         ],
         "answer": 0,
         "explanation": "Extreme to mean corresponds to a quarter of the cycle."
     },
     {
         "id": 111,
-        "question": "The displacement of a particle executing SHM is zero at time \(t = 0\). The equation of motion is:",
-        "options": ["\(x = A\cos \omega t\)", "\(x = A\sin \omega t\)", "\(x = -A\cos \omega t\)", "\(x = -A\sin \omega t\)"
+        "question": "The displacement of a particle executing SHM is zero at time \\\\(t = 0\\\\). The equation of motion is:",
+        "options": ["\\\\(x = A\\cos \\omega t\\\\)", "\\\\(x = A\\\\sin \\omega t\\\\)", "\\\\(x = -A\\cos \\omega t\\\\)", "\\\\(x = -A\\\\sin \\omega t\\\\)"
         ],
         "answer": 1,
-        "explanation": "At \(t=0\), displacement zero implies sine form."
+        "explanation": "At \\\\(t=0\\\\), displacement zero implies sine form."
     },
     {
         "id": 112,
@@ -1287,7 +1285,7 @@
             "One fourth"
         ],
         "answer": 3,
-        "explanation": "Since \(v = \sqrt{T/\mu}\), to double \(v\), \(\mu\) must become one fourth."
+        "explanation": "Since \\\\(v = \\\\sqrt{T/\\mu}\\\\), to double \\\\(v\\\\), \\\\(\\mu\\\\) must become one fourth."
     },
     {
         "id": 114,
@@ -1303,11 +1301,11 @@
     },
     {
         "id": 115,
-        "question": "The phase difference between two particles separated by \(\lambda/2\) in a progressive wave is:",
-        "options": ["\(\pi/2\)", "\(\pi\)", "\(2\pi\)", "\(\pi/4\)"
+        "question": "The phase difference between two particles separated by \\\\(\\lambda/2\\\\) in a progressive wave is:",
+        "options": ["\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)", "\\\\(\\\\pi/4\\\\)"
         ],
         "answer": 1,
-        "explanation": "Phase difference \(= 2\pi x/\lambda = \pi\) for \(x = \lambda/2\)."
+        "explanation": "Phase difference \\\\(= 2\\\\pi x/\\lambda = \\\\pi\\\\) for \\\\(x = \\lambda/2\\\\)."
     },
     {
         "id": 116,
@@ -1348,10 +1346,10 @@
     {
         "id": 119,
         "question": "In stationary waves, the distance between two successive antinodes is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Distance between consecutive antinodes is \(\lambda/2\)."
+        "explanation": "Distance between consecutive antinodes is \\\\(\\lambda/2\\\\)."
     },
     {
         "id": 120,
@@ -1415,8 +1413,8 @@
     },
     {
         "id": 125,
-        "question": "The number of beats per second produced by two tuning forks of frequencies \(f_1\) and \(f_2\) is:",
-        "options": ["\(f_1 + f_2\)", "\(|f_1 - f_2|\)", "\(f_1 f_2\)", "\(f_1/f_2\)"
+        "question": "The number of beats per second produced by two tuning forks of frequencies \\\\(f_1\\\\) and \\\\(f_2\\\\) is:",
+        "options": ["\\\\(f_1 + f_2\\\\)", "\\\\(|f_1 - f_2|\\\\)", "\\\\(f_1 f_2\\\\)", "\\\\(f_1/f_2\\\\)"
         ],
         "answer": 1,
         "explanation": "Beat frequency equals the absolute difference of the two frequencies."
@@ -1671,15 +1669,15 @@
             "Length only"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v = \sqrt{T/\mu}\) depends on tension and linear mass density."
+        "explanation": "Wave speed \\\\(v = \\\\sqrt{T/\\mu}\\\\) depends on tension and linear mass density."
     },
     {
         "id": 147,
         "question": "The frequency of the nth harmonic of a stretched string fixed at both ends is:",
-        "options": ["\(n\nu\)", "\(n^2\nu\)", "\(\nu/n\)", "\(2n\nu\)"
+        "options": ["\\\\(n\\nu\\\\)", "\\\\(n^2\\nu\\\\)", "\\\\(\\nu/n\\\\)", "\\\\(2n\\nu\\\\)"
         ],
         "answer": 0,
-        "explanation": "Frequency of nth harmonic is \(n\nu\)."
+        "explanation": "Frequency of nth harmonic is \\\\(n\\nu\\\\)."
     },
     {
         "id": 148,
@@ -1691,7 +1689,7 @@
             "Half amplitude"
         ],
         "answer": 1,
-        "explanation": "Acceleration \(a = -\omega^2 x\) is zero at mean position."
+        "explanation": "Acceleration \\\\(a = -\\omega^2 x\\\\) is zero at mean position."
     },
     {
         "id": 149,
@@ -1703,7 +1701,7 @@
             "Parabola"
         ],
         "answer": 2,
-        "explanation": "The \(v-x\) graph for SHM is an ellipse."
+        "explanation": "The \\\\(v-x\\\\) graph for SHM is an ellipse."
     },
     {
         "id": 150,
@@ -1717,12 +1715,11 @@
         "answer": 0,
         "explanation": "Total mechanical energy remains constant in ideal SHM."
     }
-]
-[
+,
     {
         "id": 151,
         "question": "For a particle executing SHM, the average value of kinetic energy over one complete cycle is:",
-        "options": ["\(E\)", "\(E/2\)", "\(E/4\)",
+        "options": ["\\\\(E\\\\)", "\\\\(E/2\\\\)", "\\\\(E/4\\\\)",
             "Zero"
         ],
         "answer": 1,
@@ -1731,7 +1728,7 @@
     {
         "id": 152,
         "question": "The average value of potential energy of a particle executing SHM over one complete cycle is:",
-        "options": ["\(E\)", "\(E/2\)", "\(E/4\)",
+        "options": ["\\\\(E\\\\)", "\\\\(E/2\\\\)", "\\\\(E/4\\\\)",
             "Zero"
         ],
         "answer": 1,
@@ -1739,18 +1736,18 @@
     },
     {
         "id": 153,
-        "question": "In SHM, when the displacement is \(A/\sqrt{2}\), the kinetic energy is:",
+        "question": "In SHM, when the displacement is \\\\(A/\\\\sqrt{2}\\\\), the kinetic energy is:",
         "options": [
-            "Zero", "\(E/4\)", "\(E/2\)", "\(3E/4\)"
+            "Zero", "\\\\(E/4\\\\)", "\\\\(E/2\\\\)", "\\\\(3E/4\\\\)"
         ],
         "answer": 2,
-        "explanation": "At \(x = A/\sqrt{2}\), kinetic energy equals potential energy, each being \(E/2\)."
+        "explanation": "At \\\\(x = A/\\\\sqrt{2}\\\\), kinetic energy equals potential energy, each being \\\\(E/2\\\\)."
     },
     {
         "id": 154,
         "question": "The phase difference between displacement and acceleration in SHM is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 2,
         "explanation": "Acceleration is opposite in phase to displacement."
@@ -1760,11 +1757,11 @@
         "question": "If the force constant of a spring is doubled, the time period of oscillation becomes:",
         "options": [
             "Double",
-            "Half", "\(\sqrt{2}\) times",
+            "Half", "\\\\(\\\\sqrt{2}\\\\) times",
             "Unchanged"
         ],
         "answer": 1,
-        "explanation": "Time period \(T = 2\pi\sqrt{m/k}\); doubling \(k\) makes \(T\) half."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{m/k}\\\\); doubling \\\\(k\\\\) makes \\\\(T\\\\) half."
     },
     {
         "id": 156,
@@ -1776,7 +1773,7 @@
             "All positions"
         ],
         "answer": 2,
-        "explanation": "Restoring force \(F = -kx\) is maximum at maximum displacement."
+        "explanation": "Restoring force \\\\(F = -kx\\\\) is maximum at maximum displacement."
     },
     {
         "id": 157,
@@ -1788,7 +1785,7 @@
             "Material of string"
         ],
         "answer": 2,
-        "explanation": "Time period \(T = 2\pi\sqrt{l/g}\)."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{l/g}\\\\)."
     },
     {
         "id": 158,
@@ -1805,10 +1802,10 @@
     {
         "id": 159,
         "question": "The angular frequency of a simple pendulum is:",
-        "options": ["\(\sqrt{l/g}\)", "\(\sqrt{g/l}\)", "\(2\pi\sqrt{l/g}\)", "\(2\pi\sqrt{g/l}\)"
+        "options": ["\\\\(\\\\sqrt{l/g}\\\\)", "\\\\(\\\\sqrt{g/l}\\\\)", "\\\\(2\\\\pi\\\\sqrt{l/g}\\\\)", "\\\\(2\\\\pi\\\\sqrt{g/l}\\\\)"
         ],
         "answer": 1,
-        "explanation": "Angular frequency is \(\omega = \sqrt{g/l}\)."
+        "explanation": "Angular frequency is \\\\(\\omega = \\\\sqrt{g/l}\\\\)."
     },
     {
         "id": 160,
@@ -1836,19 +1833,19 @@
     },
     {
         "id": 162,
-        "question": "The wave number \(k\) is related to wavelength \(\lambda\) as:",
-        "options": ["\(k = \lambda/2\pi\)", "\(k = 2\pi/\lambda\)", "\(k = 1/\lambda\)", "\(k = \pi/\lambda\)"
+        "question": "The wave number \\\\(k\\\\) is related to wavelength \\\\(\\lambda\\\\) as:",
+        "options": ["\\\\(k = \\lambda/2\\\\pi\\\\)", "\\\\(k = 2\\\\pi/\\lambda\\\\)", "\\\\(k = 1/\\lambda\\\\)", "\\\\(k = \\\\pi/\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Wave number is defined as \(k = 2\pi/\lambda\)."
+        "explanation": "Wave number is defined as \\\\(k = 2\\\\pi/\\lambda\\\\)."
     },
     {
         "id": 163,
-        "question": "The phase difference between two points separated by \(\lambda/4\) in a wave is:",
-        "options": ["\(\pi/4\)", "\(\pi/2\)", "\(\pi\)", "\(2\pi\)"
+        "question": "The phase difference between two points separated by \\\\(\\lambda/4\\\\) in a wave is:",
+        "options": ["\\\\(\\\\pi/4\\\\)", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)"
         ],
         "answer": 1,
-        "explanation": "Phase difference \(= 2\pi(\lambda/4)/\lambda = \pi/2\)."
+        "explanation": "Phase difference \\\\(= 2\\\\pi(\\lambda/4)/\\lambda = \\\\pi/2\\\\)."
     },
     {
         "id": 164,
@@ -1877,10 +1874,10 @@
     {
         "id": 166,
         "question": "The speed of sound in a gas is given by:",
-        "options": ["\(\sqrt{P/\rho}\)", "\(\sqrt{\gamma P/\rho}\)", "\(\sqrt{\rho/P}\)", "\(\sqrt{\gamma \rho/P}\)"
+        "options": ["\\\\(\\\\sqrt{P/\\rho}\\\\)", "\\\\(\\\\sqrt{\\gamma P/\\rho}\\\\)", "\\\\(\\\\sqrt{\\rho/P}\\\\)", "\\\\(\\\\sqrt{\\gamma \\rho/P}\\\\)"
         ],
         "answer": 1,
-        "explanation": "Speed of sound in a gas is \(v = \sqrt{\gamma P/\rho}\)."
+        "explanation": "Speed of sound in a gas is \\\\(v = \\\\sqrt{\\gamma P/\\rho}\\\\)."
     },
     {
         "id": 167,
@@ -1916,7 +1913,7 @@
             "516 Hz"
         ],
         "answer": 1,
-        "explanation": "Beat frequency equals \(|256 - 260| = 4\) Hz."
+        "explanation": "Beat frequency equals \\\\(|256 - 260| = 4\\\\) Hz."
     },
     {
         "id": 170,
@@ -2040,16 +2037,16 @@
     },
     {
         "id": 180,
-        "question": "The fundamental frequency of an open organ pipe of length \(L\) is:",
-        "options": ["\(v/4L\)", "\(v/2L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/4L\\\\)", "\\\\(v/2L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For open pipe, fundamental frequency is \(v/2L\)."
+        "explanation": "For open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 181,
         "question": "The first overtone of an open organ pipe has frequency:",
-        "options": ["\(2\nu\)", "\(3\nu\)", "\(4\nu\)", "\(\nu/2\)"
+        "options": ["\\\\(2\\nu\\\\)", "\\\\(3\\nu\\\\)", "\\\\(4\\nu\\\\)", "\\\\(\\nu/2\\\\)"
         ],
         "answer": 0,
         "explanation": "First overtone corresponds to second harmonic."
@@ -2081,10 +2078,10 @@
     {
         "id": 184,
         "question": "The distance between a node and the nearest antinode is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 2,
-        "explanation": "Node to nearest antinode distance is \(\lambda/4\)."
+        "explanation": "Node to nearest antinode distance is \\\\(\\lambda/4\\\\)."
     },
     {
         "id": 185,
@@ -2096,7 +2093,7 @@
             "Amplitude"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v = \sqrt{T/\mu}\)."
+        "explanation": "Wave speed \\\\(v = \\\\sqrt{T/\\mu}\\\\)."
     },
     {
         "id": 186,
@@ -2216,13 +2213,13 @@
             "Time period"
         ],
         "answer": 1,
-        "explanation": "Total energy \(E = \frac{1}{2}kA^2\)."
+        "explanation": "Total energy \\\\(E = \\frac{1}{2}kA^2\\\\)."
     },
     {
         "id": 196,
-        "question": "The motion represented by \(x = A\cos(\omega t)\) has initial phase:",
+        "question": "The motion represented by \\\\(x = A\\cos(\\omega t)\\\\) has initial phase:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 0,
         "explanation": "Cosine function has zero initial phase."
@@ -2231,7 +2228,7 @@
         "id": 197,
         "question": "In SHM, the displacement is maximum when the phase angle is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(2\pi\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)"
         ],
         "answer": 0,
         "explanation": "At phase zero, displacement is maximum in cosine representation."
@@ -2272,8 +2269,7 @@
         "answer": 1,
         "explanation": "Restoring force in SHM is conservative, so total energy remains constant."
     }
-]
-[
+,
     {
         "id": 201,
         "question": "For a particle executing SHM, the maximum value of restoring force is proportional to:",
@@ -2284,7 +2280,7 @@
             "Time period"
         ],
         "answer": 2,
-        "explanation": "Restoring force \(F = kx\) is maximum when \(x = A\)."
+        "explanation": "Restoring force \\\\(F = kx\\\\) is maximum when \\\\(x = A\\\\)."
     },
     {
         "id": 202,
@@ -2296,7 +2292,7 @@
             "2"
         ],
         "answer": 1,
-        "explanation": "Average kinetic energy over a cycle is \(E/2\), where \(E\) is total energy."
+        "explanation": "Average kinetic energy over a cycle is \\\\(E/2\\\\), where \\\\(E\\\\) is total energy."
     },
     {
         "id": 203,
@@ -2308,7 +2304,7 @@
             "Four times"
         ],
         "answer": 1,
-        "explanation": "Total energy \(E \propto A^2\); halving amplitude makes energy one-fourth."
+        "explanation": "Total energy \\\\(E \\\\propto A^2\\\\); halving amplitude makes energy one-fourth."
     },
     {
         "id": 204,
@@ -2326,10 +2322,10 @@
         "id": 205,
         "question": "The phase difference between velocity and acceleration in SHM is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Acceleration leads velocity by a phase of \(\pi/2\)."
+        "explanation": "Acceleration leads velocity by a phase of \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 206,
@@ -2341,7 +2337,7 @@
             "Amplitude decreases"
         ],
         "answer": 2,
-        "explanation": "Time period \(T = 2\pi\sqrt{l/g}\) increases when \(g\) decreases."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{l/g}\\\\) increases when \\\\(g\\\\) decreases."
     },
     {
         "id": 207,
@@ -2353,7 +2349,7 @@
             "1.5 m"
         ],
         "answer": 2,
-        "explanation": "For \(T = 2\,s\), \(l \approx g/\pi^2 \approx 1\,m\)."
+        "explanation": "For \\\\(T = 2\\,s\\\\), \\\\(l \\approx g/\\\\pi^2 \\approx 1\\,m\\\\)."
     },
     {
         "id": 208,
@@ -2370,10 +2366,10 @@
     {
         "id": 209,
         "question": "The speed of a progressive wave is equal to:",
-        "options": ["\(\omega/k\)", "\(\omega k\)", "\(k/\omega\)", "\(\omega^2/k\)"
+        "options": ["\\\\(\\omega/k\\\\)", "\\\\(\\omega k\\\\)", "\\\\(k/\\omega\\\\)", "\\\\(\\omega^2/k\\\\)"
         ],
         "answer": 0,
-        "explanation": "Wave speed \(v = \omega/k\)."
+        "explanation": "Wave speed \\\\(v = \\omega/k\\\\)."
     },
     {
         "id": 210,
@@ -2385,7 +2381,7 @@
             "Hz"
         ],
         "answer": 1,
-        "explanation": "Wave number \(k = 2\pi/\lambda\) has unit m$^{-1}$."
+        "explanation": "Wave number \\\\(k = 2\\\\pi/\\lambda\\\\) has unit m$^{-1}$."
     },
     {
         "id": 211,
@@ -2403,10 +2399,10 @@
         "id": 212,
         "question": "The phase difference between two points one wavelength apart is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(2\pi\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)"
         ],
         "answer": 3,
-        "explanation": "One full wavelength corresponds to a phase difference of \(2\pi\)."
+        "explanation": "One full wavelength corresponds to a phase difference of \\\\(2\\\\pi\\\\)."
     },
     {
         "id": 213,
@@ -2626,11 +2622,11 @@
     },
     {
         "id": 231,
-        "question": "The fundamental frequency of an open organ pipe of length \(L\) is:",
-        "options": ["\(v/4L\)", "\(v/2L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/4L\\\\)", "\\\\(v/2L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For open pipe, fundamental frequency is \(v/2L\)."
+        "explanation": "For open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 232,
@@ -2646,11 +2642,11 @@
     },
     {
         "id": 233,
-        "question": "The wavelength of the fundamental mode of a closed organ pipe of length \(L\) is:",
-        "options": ["\(2L\)", "\(4L\)", "\(L\)", "\(L/2\)"
+        "question": "The wavelength of the fundamental mode of a closed organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(2L\\\\)", "\\\\(4L\\\\)", "\\\\(L\\\\)", "\\\\(L/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "For closed pipe, fundamental wavelength is \(4L\)."
+        "explanation": "For closed pipe, fundamental wavelength is \\\\(4L\\\\)."
     },
     {
         "id": 234,
@@ -2679,10 +2675,10 @@
     {
         "id": 236,
         "question": "The distance between two successive nodes in a standing wave is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Node-to-node distance equals \(\lambda/2\)."
+        "explanation": "Node-to-node distance equals \\\\(\\lambda/2\\\\)."
     },
     {
         "id": 237,
@@ -2706,15 +2702,15 @@
             "Length increases"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v = \sqrt{T/\mu}\) increases with tension."
+        "explanation": "Wave speed \\\\(v = \\\\sqrt{T/\\mu}\\\\) increases with tension."
     },
     {
         "id": 239,
         "question": "The frequency of the nth harmonic of a stretched string is proportional to:",
-        "options": ["\(1/n\)", "\(n\)", "\(n^2\)", "\(1/n^2\)"
+        "options": ["\\\\(1/n\\\\)", "\\\\(n\\\\)", "\\\\(n^2\\\\)", "\\\\(1/n^2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Frequency of nth harmonic is \(n\) times fundamental."
+        "explanation": "Frequency of nth harmonic is \\\\(n\\\\) times fundamental."
     },
     {
         "id": 240,
@@ -2840,13 +2836,12 @@
         "id": 250,
         "question": "In SHM, the displacement becomes zero when the phase angle is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(2\pi\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)"
         ],
         "answer": 1,
-        "explanation": "At phase \(\pi/2\), displacement is zero for sine representation."
+        "explanation": "At phase \\\\(\\\\pi/2\\\\), displacement is zero for sine representation."
     }
-]
-[
+,
     {
         "id": 251,
         "question": "For a particle executing SHM, the ratio of maximum potential energy to total mechanical energy is:",
@@ -2881,24 +2876,24 @@
             "Total energy"
         ],
         "answer": 2,
-        "explanation": "Time period \(T = 2\pi\sqrt{m/k}\) depends on mass and spring constant."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{m/k}\\\\) depends on mass and spring constant."
     },
     {
         "id": 254,
         "question": "The angular frequency of SHM is related to time period by:",
-        "options": ["\(\omega = 1/T\)", "\(\omega = 2\pi/T\)", "\(\omega = T/2\pi\)", "\(\omega = T\)"
+        "options": ["\\\\(\\omega = 1/T\\\\)", "\\\\(\\omega = 2\\\\pi/T\\\\)", "\\\\(\\omega = T/2\\\\pi\\\\)", "\\\\(\\omega = T\\\\)"
         ],
         "answer": 1,
-        "explanation": "Angular frequency is defined as \(\omega = 2\pi/T\)."
+        "explanation": "Angular frequency is defined as \\\\(\\omega = 2\\\\pi/T\\\\)."
     },
     {
         "id": 255,
         "question": "In SHM, the displacement and velocity are phase-shifted by:",
         "options": [
-            "0", "\(\pi/4\)", "\(\pi/2\)", "\(\pi\)"
+            "0", "\\\\(\\\\pi/4\\\\)", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)"
         ],
         "answer": 2,
-        "explanation": "Velocity leads displacement by a phase of \(\pi/2\)."
+        "explanation": "Velocity leads displacement by a phase of \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 256,
@@ -2939,10 +2934,10 @@
     {
         "id": 259,
         "question": "The speed of a transverse wave on a stretched string is given by:",
-        "options": ["\(\sqrt{\mu/T}\)", "\(\sqrt{T/\mu}\)", "\(T/\mu\)", "\(\mu/T\)"
+        "options": ["\\\\(\\\\sqrt{\\mu/T}\\\\)", "\\\\(\\\\sqrt{T/\\mu}\\\\)", "\\\\(T/\\mu\\\\)", "\\\\(\\mu/T\\\\)"
         ],
         "answer": 1,
-        "explanation": "Wave speed on a string is \(v = \sqrt{T/\mu}\)."
+        "explanation": "Wave speed on a string is \\\\(v = \\\\sqrt{T/\\mu}\\\\)."
     },
     {
         "id": 260,
@@ -2958,11 +2953,11 @@
     },
     {
         "id": 261,
-        "question": "The phase difference between two particles separated by \(3\lambda/4\) in a wave is:",
-        "options": ["\(\pi/2\)", "\(3\pi/2\)", "\(\pi\)", "\(2\pi\)"
+        "question": "The phase difference between two particles separated by \\\\(3\\lambda/4\\\\) in a wave is:",
+        "options": ["\\\\(\\\\pi/2\\\\)", "\\\\(3\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)"
         ],
         "answer": 1,
-        "explanation": "Phase difference \(= 2\pi(3\lambda/4)/\lambda = 3\pi/2\)."
+        "explanation": "Phase difference \\\\(= 2\\\\pi(3\\lambda/4)/\\lambda = 3\\\\pi/2\\\\)."
     },
     {
         "id": 262,
@@ -2998,7 +2993,7 @@
             "Humidity"
         ],
         "answer": 2,
-        "explanation": "Speed of sound in gas \(v \propto \sqrt{T}\)."
+        "explanation": "Speed of sound in gas \\\\(v \\\\propto \\\\sqrt{T}\\\\)."
     },
     {
         "id": 265,
@@ -3206,19 +3201,19 @@
     },
     {
         "id": 282,
-        "question": "The fundamental frequency of an open organ pipe of length \(L\) is:",
-        "options": ["\(v/4L\)", "\(v/2L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/4L\\\\)", "\\\\(v/2L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For open pipe, fundamental frequency is \(v/2L\)."
+        "explanation": "For open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 283,
         "question": "In a closed organ pipe, the fundamental wavelength is:",
-        "options": ["\(2L\)", "\(4L\)", "\(L\)", "\(L/2\)"
+        "options": ["\\\\(2L\\\\)", "\\\\(4L\\\\)", "\\\\(L\\\\)", "\\\\(L/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "For closed pipe, fundamental wavelength equals \(4L\)."
+        "explanation": "For closed pipe, fundamental wavelength equals \\\\(4L\\\\)."
     },
     {
         "id": 284,
@@ -3259,10 +3254,10 @@
     {
         "id": 287,
         "question": "The distance between two successive antinodes in a standing wave is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Antinode-to-antinode distance equals \(\lambda/2\)."
+        "explanation": "Antinode-to-antinode distance equals \\\\(\\lambda/2\\\\)."
     },
     {
         "id": 288,
@@ -3291,7 +3286,7 @@
     {
         "id": 290,
         "question": "The frequency of the nth harmonic of a string fixed at both ends is:",
-        "options": ["\(\nu/n\)", "\(n\nu\)", "\(n^2\nu\)", "\(\nu/n^2\)"
+        "options": ["\\\\(\\nu/n\\\\)", "\\\\(n\\nu\\\\)", "\\\\(n^2\\nu\\\\)", "\\\\(\\nu/n^2\\\\)"
         ],
         "answer": 1,
         "explanation": "Frequency of nth harmonic equals n times fundamental frequency."
@@ -3414,17 +3409,16 @@
             "Minimum"
         ],
         "answer": 2,
-        "explanation": "Acceleration \(a = -\omega^2 x\) is maximum at maximum displacement."
+        "explanation": "Acceleration \\\\(a = -\\omega^2 x\\\\) is maximum at maximum displacement."
     }
-]
-[
+,
     {
         "id": 301,
         "question": "For a particle executing SHM, the ratio of maximum acceleration to maximum displacement is equal to:",
-        "options": ["\(\omega\)", "\(\omega^2\)", "\(1/\omega\)", "\(A\)"
+        "options": ["\\\\(\\omega\\\\)", "\\\\(\\omega^2\\\\)", "\\\\(1/\\omega\\\\)", "\\\\(A\\\\)"
         ],
         "answer": 1,
-        "explanation": "Maximum acceleration is \(a_{\max} = \omega^2 A\), so the ratio \(a_{\max}/A = \omega^2\)."
+        "explanation": "Maximum acceleration is \\\\(a_{\\max} = \\omega^2 A\\\\), so the ratio \\\\(a_{\\max}/A = \\omega^2\\\\)."
     },
     {
         "id": 302,
@@ -3436,7 +3430,7 @@
             "Time period"
         ],
         "answer": 1,
-        "explanation": "Total energy \(E = \frac{1}{2}kA^2\) is proportional to square of amplitude."
+        "explanation": "Total energy \\\\(E = \\frac{1}{2}kA^2\\\\) is proportional to square of amplitude."
     },
     {
         "id": 303,
@@ -3454,10 +3448,10 @@
         "id": 304,
         "question": "The phase difference between displacement and velocity in SHM is:",
         "options": [
-            "0", "\(\pi/4\)", "\(\pi/2\)", "\(\pi\)"
+            "0", "\\\\(\\\\pi/4\\\\)", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)"
         ],
         "answer": 2,
-        "explanation": "Velocity leads displacement by a phase of \(\pi/2\)."
+        "explanation": "Velocity leads displacement by a phase of \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 305,
@@ -3469,7 +3463,7 @@
             "One fourth"
         ],
         "answer": 1,
-        "explanation": "Since \(\omega = 2\pi/T\), halving \(T\) doubles \(\omega\)."
+        "explanation": "Since \\\\(\\omega = 2\\\\pi/T\\\\), halving \\\\(T\\\\) doubles \\\\(\\omega\\\\)."
     },
     {
         "id": 306,
@@ -3481,7 +3475,7 @@
             "Bob size increases"
         ],
         "answer": 0,
-        "explanation": "Time period \(T = 2\pi\sqrt{l/g}\) increases with length."
+        "explanation": "Time period \\\\(T = 2\\\\pi\\\\sqrt{l/g}\\\\) increases with length."
     },
     {
         "id": 307,
@@ -3517,15 +3511,15 @@
             "Angular frequency and wavelength"
         ],
         "answer": 1,
-        "explanation": "Wave speed is given by \(v = \nu\lambda\)."
+        "explanation": "Wave speed is given by \\\\(v = \\nu\\lambda\\\\)."
     },
     {
         "id": 310,
-        "question": "The phase difference between two points separated by \(\lambda/6\) in a wave is:",
-        "options": ["\(\pi/6\)", "\(\pi/3\)", "\(\pi/2\)", "\(2\pi/3\)"
+        "question": "The phase difference between two points separated by \\\\(\\lambda/6\\\\) in a wave is:",
+        "options": ["\\\\(\\\\pi/6\\\\)", "\\\\(\\\\pi/3\\\\)", "\\\\(\\\\pi/2\\\\)", "\\\\(2\\\\pi/3\\\\)"
         ],
         "answer": 1,
-        "explanation": "Phase difference \(= 2\pi(\lambda/6)/\lambda = \pi/3\)."
+        "explanation": "Phase difference \\\\(= 2\\\\pi(\\lambda/6)/\\lambda = \\\\pi/3\\\\)."
     },
     {
         "id": 311,
@@ -3769,11 +3763,11 @@
     },
     {
         "id": 331,
-        "question": "The fundamental frequency of an open organ pipe of length \(L\) is:",
-        "options": ["\(v/4L\)", "\(v/2L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/4L\\\\)", "\\\\(v/2L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For an open pipe, fundamental frequency is \(v/2L\)."
+        "explanation": "For an open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 332,
@@ -3789,11 +3783,11 @@
     },
     {
         "id": 333,
-        "question": "The wavelength of the fundamental mode of a closed organ pipe of length \(L\) is:",
-        "options": ["\(2L\)", "\(4L\)", "\(L\)", "\(L/2\)"
+        "question": "The wavelength of the fundamental mode of a closed organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(2L\\\\)", "\\\\(4L\\\\)", "\\\\(L\\\\)", "\\\\(L/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "For closed pipe, fundamental wavelength is \(4L\)."
+        "explanation": "For closed pipe, fundamental wavelength is \\\\(4L\\\\)."
     },
     {
         "id": 334,
@@ -3822,10 +3816,10 @@
     {
         "id": 336,
         "question": "The distance between two successive nodes in a standing wave is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Node-to-node distance equals \(\lambda/2\)."
+        "explanation": "Node-to-node distance equals \\\\(\\lambda/2\\\\)."
     },
     {
         "id": 337,
@@ -3849,15 +3843,15 @@
             "Frequency increases"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v = \sqrt{T/\mu}\) increases with tension."
+        "explanation": "Wave speed \\\\(v = \\\\sqrt{T/\\mu}\\\\) increases with tension."
     },
     {
         "id": 339,
         "question": "The frequency of the nth harmonic of a string fixed at both ends is:",
-        "options": ["\(\nu/n\)", "\(n\nu\)", "\(n^2\nu\)", "\(\nu/n^2\)"
+        "options": ["\\\\(\\nu/n\\\\)", "\\\\(n\\nu\\\\)", "\\\\(n^2\\nu\\\\)", "\\\\(\\nu/n^2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Frequency of nth harmonic equals \(n\nu\)."
+        "explanation": "Frequency of nth harmonic equals \\\\(n\\nu\\\\)."
     },
     {
         "id": 340,
@@ -3991,8 +3985,7 @@
         "answer": 2,
         "explanation": "Conservative restoring force ensures conservation of mechanical energy."
     }
-]
-[
+,
     {
         "id": 351,
         "question": "For a particle executing SHM, the ratio of maximum kinetic energy to total mechanical energy is:",
@@ -4015,7 +4008,7 @@
             "Quarter amplitude"
         ],
         "answer": 1,
-        "explanation": "Restoring force \(F=-kx\) is zero at mean position where displacement is zero."
+        "explanation": "Restoring force \\\\(F=-kx\\\\) is zero at mean position where displacement is zero."
     },
     {
         "id": 353,
@@ -4039,7 +4032,7 @@
             "Unchanged"
         ],
         "answer": 0,
-        "explanation": "Since \(T \propto \sqrt{m}\), increasing mass by 9 makes \(T\) three times."
+        "explanation": "Since \\\\(T \\\\propto \\\\sqrt{m}\\\\), increasing mass by 9 makes \\\\(T\\\\) three times."
     },
     {
         "id": 355,
@@ -4051,12 +4044,12 @@
             "Time period"
         ],
         "answer": 0,
-        "explanation": "Maximum acceleration is \(a_{max}=\omega^2A\), proportional to amplitude."
+        "explanation": "Maximum acceleration is \\\\(a_{max}=\\omega^2A\\\\), proportional to amplitude."
     },
     {
         "id": 356,
         "question": "The time taken by a particle executing SHM to go from one extreme to the other is:",
-        "options": ["\(T/2\)", "\(T/4\)", "\(T\)", "\(2T\)"
+        "options": ["\\\\(T/2\\\\)", "\\\\(T/4\\\\)", "\\\\(T\\\\)", "\\\\(2T\\\\)"
         ],
         "answer": 0,
         "explanation": "Extreme to opposite extreme corresponds to half the time period."
@@ -4095,7 +4088,7 @@
             "Length of string"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v=\sqrt{T/\mu}\)."
+        "explanation": "Wave speed \\\\(v=\\\\sqrt{T/\\mu}\\\\)."
     },
     {
         "id": 360,
@@ -4111,11 +4104,11 @@
     },
     {
         "id": 361,
-        "question": "The phase difference between two points separated by \(\lambda/3\) in a wave is:",
-        "options": ["\(2\pi/3\)", "\(\pi/3\)", "\(\pi\)", "\(3\pi/2\)"
+        "question": "The phase difference between two points separated by \\\\(\\lambda/3\\\\) in a wave is:",
+        "options": ["\\\\(2\\\\pi/3\\\\)", "\\\\(\\\\pi/3\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 0,
-        "explanation": "Phase difference \(=2\pi(\lambda/3)/\lambda=2\pi/3\)."
+        "explanation": "Phase difference \\\\(=2\\\\pi(\\lambda/3)/\\lambda=2\\\\pi/3\\\\)."
     },
     {
         "id": 362,
@@ -4359,11 +4352,11 @@
     },
     {
         "id": 382,
-        "question": "The fundamental frequency of an open organ pipe of length \(L\) is:",
-        "options": ["\(v/4L\)", "\(v/2L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/4L\\\\)", "\\\\(v/2L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For an open pipe, fundamental frequency is \(v/2L\)."
+        "explanation": "For an open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 383,
@@ -4379,11 +4372,11 @@
     },
     {
         "id": 384,
-        "question": "The wavelength of the fundamental note of a closed organ pipe of length \(L\) is:",
-        "options": ["\(2L\)", "\(4L\)", "\(L\)", "\(L/2\)"
+        "question": "The wavelength of the fundamental note of a closed organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(2L\\\\)", "\\\\(4L\\\\)", "\\\\(L\\\\)", "\\\\(L/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Fundamental wavelength for closed pipe is \(4L\)."
+        "explanation": "Fundamental wavelength for closed pipe is \\\\(4L\\\\)."
     },
     {
         "id": 385,
@@ -4412,10 +4405,10 @@
     {
         "id": 387,
         "question": "The distance between a node and the nearest antinode is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 2,
-        "explanation": "Node to nearest antinode distance is \(\lambda/4\)."
+        "explanation": "Node to nearest antinode distance is \\\\(\\lambda/4\\\\)."
     },
     {
         "id": 388,
@@ -4444,7 +4437,7 @@
     {
         "id": 390,
         "question": "The frequency of the nth harmonic of a stretched string fixed at both ends is:",
-        "options": ["\(\nu/n\)", "\(n\nu\)", "\(n^2\nu\)", "\(\nu/n^2\)"
+        "options": ["\\\\(\\nu/n\\\\)", "\\\\(n\\nu\\\\)", "\\\\(n^2\\nu\\\\)", "\\\\(\\nu/n^2\\\\)"
         ],
         "answer": 1,
         "explanation": "Frequency of nth harmonic equals n times the fundamental frequency."
@@ -4567,10 +4560,9 @@
             "Minimum"
         ],
         "answer": 2,
-        "explanation": "Acceleration \(a=-\omega^2 x\) is zero at mean position."
+        "explanation": "Acceleration \\\\(a=-\\omega^2 x\\\\) is zero at mean position."
     }
-]
-[
+,
     {
         "id": 351,
         "question": "For a particle executing SHM, the ratio of maximum kinetic energy to total mechanical energy is:",
@@ -4593,7 +4585,7 @@
             "Quarter amplitude"
         ],
         "answer": 1,
-        "explanation": "Restoring force \(F=-kx\) is zero at mean position where displacement is zero."
+        "explanation": "Restoring force \\\\(F=-kx\\\\) is zero at mean position where displacement is zero."
     },
     {
         "id": 353,
@@ -4617,7 +4609,7 @@
             "Unchanged"
         ],
         "answer": 0,
-        "explanation": "Since \(T \propto \sqrt{m}\), increasing mass by 9 makes \(T\) three times."
+        "explanation": "Since \\\\(T \\\\propto \\\\sqrt{m}\\\\), increasing mass by 9 makes \\\\(T\\\\) three times."
     },
     {
         "id": 355,
@@ -4629,12 +4621,12 @@
             "Time period"
         ],
         "answer": 0,
-        "explanation": "Maximum acceleration is \(a_{max}=\omega^2A\), proportional to amplitude."
+        "explanation": "Maximum acceleration is \\\\(a_{max}=\\omega^2A\\\\), proportional to amplitude."
     },
     {
         "id": 356,
         "question": "The time taken by a particle executing SHM to go from one extreme to the other is:",
-        "options": ["\(T/2\)", "\(T/4\)", "\(T\)", "\(2T\)"
+        "options": ["\\\\(T/2\\\\)", "\\\\(T/4\\\\)", "\\\\(T\\\\)", "\\\\(2T\\\\)"
         ],
         "answer": 0,
         "explanation": "Extreme to opposite extreme corresponds to half the time period."
@@ -4673,7 +4665,7 @@
             "Length of string"
         ],
         "answer": 2,
-        "explanation": "Wave speed \(v=\sqrt{T/\mu}\)."
+        "explanation": "Wave speed \\\\(v=\\\\sqrt{T/\\mu}\\\\)."
     },
     {
         "id": 360,
@@ -4689,11 +4681,11 @@
     },
     {
         "id": 361,
-        "question": "The phase difference between two points separated by \(\lambda/3\) in a wave is:",
-        "options": ["\(2\pi/3\)", "\(\pi/3\)", "\(\pi\)", "\(3\pi/2\)"
+        "question": "The phase difference between two points separated by \\\\(\\lambda/3\\\\) in a wave is:",
+        "options": ["\\\\(2\\\\pi/3\\\\)", "\\\\(\\\\pi/3\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 0,
-        "explanation": "Phase difference \(=2\pi(\lambda/3)/\lambda=2\pi/3\)."
+        "explanation": "Phase difference \\\\(=2\\\\pi(\\lambda/3)/\\lambda=2\\\\pi/3\\\\)."
     },
     {
         "id": 362,
@@ -4937,11 +4929,11 @@
     },
     {
         "id": 382,
-        "question": "The fundamental frequency of an open organ pipe of length \(L\) is:",
-        "options": ["\(v/4L\)", "\(v/2L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of an open organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/4L\\\\)", "\\\\(v/2L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For an open pipe, fundamental frequency is \(v/2L\)."
+        "explanation": "For an open pipe, fundamental frequency is \\\\(v/2L\\\\)."
     },
     {
         "id": 383,
@@ -4957,11 +4949,11 @@
     },
     {
         "id": 384,
-        "question": "The wavelength of the fundamental note of a closed organ pipe of length \(L\) is:",
-        "options": ["\(2L\)", "\(4L\)", "\(L\)", "\(L/2\)"
+        "question": "The wavelength of the fundamental note of a closed organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(2L\\\\)", "\\\\(4L\\\\)", "\\\\(L\\\\)", "\\\\(L/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Fundamental wavelength for closed pipe is \(4L\)."
+        "explanation": "Fundamental wavelength for closed pipe is \\\\(4L\\\\)."
     },
     {
         "id": 385,
@@ -4990,10 +4982,10 @@
     {
         "id": 387,
         "question": "The distance between a node and the nearest antinode is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 2,
-        "explanation": "Node to nearest antinode distance is \(\lambda/4\)."
+        "explanation": "Node to nearest antinode distance is \\\\(\\lambda/4\\\\)."
     },
     {
         "id": 388,
@@ -5022,7 +5014,7 @@
     {
         "id": 390,
         "question": "The frequency of the nth harmonic of a stretched string fixed at both ends is:",
-        "options": ["\(\nu/n\)", "\(n\nu\)", "\(n^2\nu\)", "\(\nu/n^2\)"
+        "options": ["\\\\(\\nu/n\\\\)", "\\\\(n\\nu\\\\)", "\\\\(n^2\\nu\\\\)", "\\\\(\\nu/n^2\\\\)"
         ],
         "answer": 1,
         "explanation": "Frequency of nth harmonic equals n times the fundamental frequency."
@@ -5145,17 +5137,16 @@
             "Minimum"
         ],
         "answer": 2,
-        "explanation": "Acceleration \(a=-\omega^2 x\) is zero at mean position."
+        "explanation": "Acceleration \\\\(a=-\\omega^2 x\\\\) is zero at mean position."
     }
-]
-[
+,
     {
         "id": 401,
         "question": "For a particle executing SHM, the ratio of maximum velocity to maximum displacement is:",
-        "options": ["\(\omega\)", "\(\omega^2\)", "\(1/\omega\)", "\(A\)"
+        "options": ["\\\\(\\omega\\\\)", "\\\\(\\omega^2\\\\)", "\\\\(1/\\omega\\\\)", "\\\\(A\\\\)"
         ],
         "answer": 0,
-        "explanation": "Maximum velocity \(v_{\max}=\omega A\), so \(v_{\max}/A=\omega\)."
+        "explanation": "Maximum velocity \\\\(v_{\\max}=\\omega A\\\\), so \\\\(v_{\\max}/A=\\omega\\\\)."
     },
     {
         "id": 402,
@@ -5179,7 +5170,7 @@
             "Unchanged"
         ],
         "answer": 1,
-        "explanation": "Since \(T \propto 1/\sqrt{k}\), reducing \(k\) to one-fourth doubles \(T\)."
+        "explanation": "Since \\\\(T \\\\propto 1/\\\\sqrt{k}\\\\), reducing \\\\(k\\\\) to one-fourth doubles \\\\(T\\\\)."
     },
     {
         "id": 404,
@@ -5191,7 +5182,7 @@
             "Quarter amplitude"
         ],
         "answer": 2,
-        "explanation": "Power \(P=Fv\) is zero where either force or velocity is zero."
+        "explanation": "Power \\\\(P=Fv\\\\) is zero where either force or velocity is zero."
     },
     {
         "id": 405,
@@ -5215,7 +5206,7 @@
             "Material of string"
         ],
         "answer": 2,
-        "explanation": "Length \(l=g/\pi^2\) depends on acceleration due to gravity."
+        "explanation": "Length \\\\(l=g/\\\\pi^2\\\\) depends on acceleration due to gravity."
     },
     {
         "id": 407,
@@ -5239,7 +5230,7 @@
             "Small amplitude"
         ],
         "answer": 2,
-        "explanation": "Angular frequency \(\omega=\sqrt{g/l}\) does not depend on mass."
+        "explanation": "Angular frequency \\\\(\\omega=\\\\sqrt{g/l}\\\\) does not depend on mass."
     },
     {
         "id": 409,
@@ -5255,15 +5246,15 @@
     },
     {
         "id": 410,
-        "question": "The phase difference between two points separated by distance \(x\) in a wave of wavelength \(\lambda\) is:",
-        "options": ["\(\pi x/\lambda\)", "\(2\pi x/\lambda\)", "\(\lambda/x\)", "\(x/\lambda\)"
+        "question": "The phase difference between two points separated by distance \\\\(x\\\\) in a wave of wavelength \\\\(\\lambda\\\\) is:",
+        "options": ["\\\\(\\\\pi x/\\lambda\\\\)", "\\\\(2\\\\pi x/\\lambda\\\\)", "\\\\(\\lambda/x\\\\)", "\\\\(x/\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Phase difference \(=2\pi x/\lambda\)."
+        "explanation": "Phase difference \\\\(=2\\\\pi x/\\lambda\\\\)."
     },
     {
         "id": 411,
-        "question": "The wave equation \(y=A\sin(kx-\omega t)\) represents a wave travelling:",
+        "question": "The wave equation \\\\(y=A\\\\sin(kx-\\omega t)\\\\) represents a wave travelling:",
         "options": [
             "Along +x direction",
             "Along −x direction",
@@ -5271,7 +5262,7 @@
             "Along −y direction"
         ],
         "answer": 0,
-        "explanation": "The form \(kx-\omega t\) indicates propagation along +x direction."
+        "explanation": "The form \\\\(kx-\\omega t\\\\) indicates propagation along +x direction."
     },
     {
         "id": 412,
@@ -5319,7 +5310,7 @@
             "Inverse square root of density"
         ],
         "answer": 3,
-        "explanation": "At constant temperature, \(v \propto 1/\sqrt{\rho}\)."
+        "explanation": "At constant temperature, \\\\(v \\\\propto 1/\\\\sqrt{\\rho}\\\\)."
     },
     {
         "id": 416,
@@ -5468,10 +5459,10 @@
     {
         "id": 428,
         "question": "The distance between two successive antinodes in a standing wave is:",
-        "options": ["\(\lambda\)", "\(\lambda/2\)", "\(\lambda/4\)", "\(2\lambda\)"
+        "options": ["\\\\(\\lambda\\\\)", "\\\\(\\lambda/2\\\\)", "\\\\(\\lambda/4\\\\)", "\\\\(2\\lambda\\\\)"
         ],
         "answer": 1,
-        "explanation": "Antinode-to-antinode separation is \(\lambda/2\)."
+        "explanation": "Antinode-to-antinode separation is \\\\(\\lambda/2\\\\)."
     },
     {
         "id": 429,
@@ -5483,7 +5474,7 @@
             "Only tension"
         ],
         "answer": 1,
-        "explanation": "Frequency \(\nu=\frac{1}{2L}\sqrt{T/\mu}\)."
+        "explanation": "Frequency \\\\(\\nu=\\frac{1}{2L}\\\\sqrt{T/\\mu}\\\\)."
     },
     {
         "id": 430,
@@ -5499,11 +5490,11 @@
     },
     {
         "id": 431,
-        "question": "The fundamental frequency of a closed organ pipe of length \(L\) is:",
-        "options": ["\(v/2L\)", "\(v/4L\)", "\(v/L\)", "\(2v/L\)"
+        "question": "The fundamental frequency of a closed organ pipe of length \\\\(L\\\\) is:",
+        "options": ["\\\\(v/2L\\\\)", "\\\\(v/4L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "Closed pipe fundamental frequency is \(v/4L\)."
+        "explanation": "Closed pipe fundamental frequency is \\\\(v/4L\\\\)."
     },
     {
         "id": 432,
@@ -5527,7 +5518,7 @@
             "Independent of length"
         ],
         "answer": 0,
-        "explanation": "Open pipe has fundamental \(v/2L\), closed pipe has \(v/4L\)."
+        "explanation": "Open pipe has fundamental \\\\(v/2L\\\\), closed pipe has \\\\(v/4L\\\\)."
     },
     {
         "id": 434,
@@ -5629,7 +5620,7 @@
         "id": 442,
         "question": "The phase difference between displacement and acceleration in SHM is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 2,
         "explanation": "Acceleration is opposite in phase to displacement."
@@ -5644,7 +5635,7 @@
             "Twice kinetic energy"
         ],
         "answer": 1,
-        "explanation": "Average potential energy equals \(E/2\)."
+        "explanation": "Average potential energy equals \\\\(E/2\\\\)."
     },
     {
         "id": 444,
@@ -5680,7 +5671,7 @@
             "Parabola"
         ],
         "answer": 2,
-        "explanation": "The \(v-x\) relation gives an ellipse."
+        "explanation": "The \\\\(v-x\\\\) relation gives an ellipse."
     },
     {
         "id": 447,
@@ -5722,28 +5713,27 @@
         "id": 450,
         "question": "In SHM, the displacement becomes maximum when the phase angle is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 0,
         "explanation": "At zero phase (cosine form), displacement is maximum."
     }
-]
-[
+,
     {
         "id": 451,
-        "question": "For SHM described by \(x = A\cos(\omega t + \phi)\), the initial displacement at \(t=0\) is:",
-        "options": ["\(A\cos\phi\)", "\(A\sin\phi\)", "\(A\omega\cos\phi\)", "\(A\omega\sin\phi\)"
+        "question": "For SHM described by \\\\(x = A\\cos(\\omega t + \\\\phi)\\\\), the initial displacement at \\\\(t=0\\\\) is:",
+        "options": ["\\\\(A\\cos\\\\phi\\\\)", "\\\\(A\\\\sin\\\\phi\\\\)", "\\\\(A\\omega\\cos\\\\phi\\\\)", "\\\\(A\\omega\\\\sin\\\\phi\\\\)"
         ],
         "answer": 0,
-        "explanation": "At \(t=0\), displacement equals \(A\cos\phi\)."
+        "explanation": "At \\\\(t=0\\\\), displacement equals \\\\(A\\cos\\\\phi\\\\)."
     },
     {
         "id": 452,
         "question": "For a particle executing SHM, the maximum restoring force is:",
-        "options": ["\(kA\)", "\(kA^2\)", "\(\omega A\)", "\(\omega^2 A\)"
+        "options": ["\\\\(kA\\\\)", "\\\\(kA^2\\\\)", "\\\\(\\omega A\\\\)", "\\\\(\\omega^2 A\\\\)"
         ],
         "answer": 0,
-        "explanation": "Restoring force \(F = kx\) is maximum at \(x=A\)."
+        "explanation": "Restoring force \\\\(F = kx\\\\) is maximum at \\\\(x=A\\\\)."
     },
     {
         "id": 453,
@@ -5767,15 +5757,15 @@
             "Unchanged"
         ],
         "answer": 0,
-        "explanation": "Since \(T = 2\pi/\omega\), doubling \(\omega\) halves \(T\)."
+        "explanation": "Since \\\\(T = 2\\\\pi/\\omega\\\\), doubling \\\\(\\omega\\\\) halves \\\\(T\\\\)."
     },
     {
         "id": 455,
         "question": "The velocity of a particle in SHM is zero at phase angles:",
-        "options": ["0 and \(\pi\)", "\(\pi/2\) and \(3\pi/2\)", "\(\pi/4\) and \(3\pi/4\)", "Only at \(\pi/2\)"
+        "options": ["0 and \\\\(\\\\pi\\\\)", "\\\\(\\\\pi/2\\\\) and \\\\(3\\\\pi/2\\\\)", "\\\\(\\\\pi/4\\\\) and \\\\(3\\\\pi/4\\\\)", "Only at \\\\(\\\\pi/2\\\\)"
         ],
         "answer": 0,
-        "explanation": "Velocity is zero at extreme positions corresponding to phases 0 and \(\pi\)."
+        "explanation": "Velocity is zero at extreme positions corresponding to phases 0 and \\\\(\\\\pi\\\\)."
     },
     {
         "id": 456,
@@ -5787,12 +5777,12 @@
             "Half amplitude"
         ],
         "answer": 1,
-        "explanation": "Potential energy \(U=\frac{1}{2}kx^2\) is zero at mean position."
+        "explanation": "Potential energy \\\\(U=\\frac{1}{2}kx^2\\\\) is zero at mean position."
     },
     {
         "id": 457,
-        "question": "The time taken by a particle in SHM to move from \(x=A/2\) to \(x=-A/2\) is:",
-        "options": ["\(T/2\)", "\(T/3\)", "\(T/4\)", "\(T/6\)"
+        "question": "The time taken by a particle in SHM to move from \\\\(x=A/2\\\\) to \\\\(x=-A/2\\\\) is:",
+        "options": ["\\\\(T/2\\\\)", "\\\\(T/3\\\\)", "\\\\(T/4\\\\)", "\\\\(T/6\\\\)"
         ],
         "answer": 0,
         "explanation": "Motion from symmetric positions on opposite sides takes half a cycle."
@@ -5807,7 +5797,7 @@
             "Amplitude increases slightly"
         ],
         "answer": 1,
-        "explanation": "Angular frequency \(\omega=\sqrt{g/l}\) increases when \(l\) decreases."
+        "explanation": "Angular frequency \\\\(\\omega=\\\\sqrt{g/l}\\\\) increases when \\\\(l\\\\) decreases."
     },
     {
         "id": 459,
@@ -5819,32 +5809,32 @@
             "At height above Earth"
         ],
         "answer": 2,
-        "explanation": "Larger \(g\) gives smaller time period; \(g\) is maximum on Jupiter."
+        "explanation": "Larger \\\\(g\\\\) gives smaller time period; \\\\(g\\\\) is maximum on Jupiter."
     },
     {
         "id": 460,
         "question": "The speed of a wave on a stretched string is directly proportional to:",
-        "options": ["\(\sqrt{T}\)", "\(T\)", "\(\mu\)", "\(1/\mu\)"
+        "options": ["\\\\(\\\\sqrt{T}\\\\)", "\\\\(T\\\\)", "\\\\(\\mu\\\\)", "\\\\(1/\\mu\\\\)"
         ],
         "answer": 0,
-        "explanation": "Wave speed \(v=\sqrt{T/\mu}\) is proportional to \(\sqrt{T}\)."
+        "explanation": "Wave speed \\\\(v=\\\\sqrt{T/\\mu}\\\\) is proportional to \\\\(\\\\sqrt{T}\\\\)."
     },
     {
         "id": 461,
         "question": "In a progressive wave, the phase difference between two consecutive crests is:",
         "options": [
-            "0", "\(\pi\)", "\(2\pi\)", "\(\pi/2\)"
+            "0", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)", "\\\\(\\\\pi/2\\\\)"
         ],
         "answer": 2,
-        "explanation": "Two successive crests differ by one wavelength corresponding to \(2\pi\) phase."
+        "explanation": "Two successive crests differ by one wavelength corresponding to \\\\(2\\\\pi\\\\) phase."
     },
     {
         "id": 462,
-        "question": "The angular frequency \(\omega\) of a wave is related to frequency \(\nu\) by:",
-        "options": ["\(\omega=2\pi\nu\)", "\(\omega=\nu/2\pi\)", "\(\omega=\pi\nu\)", "\(\omega=\nu\)"
+        "question": "The angular frequency \\\\(\\omega\\\\) of a wave is related to frequency \\\\(\\nu\\\\) by:",
+        "options": ["\\\\(\\omega=2\\\\pi\\nu\\\\)", "\\\\(\\omega=\\nu/2\\\\pi\\\\)", "\\\\(\\omega=\\\\pi\\nu\\\\)", "\\\\(\\omega=\\nu\\\\)"
         ],
         "answer": 0,
-        "explanation": "Angular frequency is \(2\pi\) times frequency."
+        "explanation": "Angular frequency is \\\\(2\\\\pi\\\\) times frequency."
     },
     {
         "id": 463,
@@ -5880,7 +5870,7 @@
             "Humidity decreases"
         ],
         "answer": 1,
-        "explanation": "For constant speed, \(\lambda=v/\nu\); decreasing \(\nu\) increases \(\lambda\)."
+        "explanation": "For constant speed, \\\\(\\lambda=v/\\nu\\\\); decreasing \\\\(\\nu\\\\) increases \\\\(\\lambda\\\\)."
     },
     {
         "id": 466,
@@ -5896,8 +5886,8 @@
     },
     {
         "id": 467,
-        "question": "The beat frequency produced by two sources of frequencies \(f_1\) and \(f_2\) is:",
-        "options": ["\(f_1+f_2\)", "\(|f_1-f_2|\)", "\(f_1f_2\)", "\(f_1/f_2\)"
+        "question": "The beat frequency produced by two sources of frequencies \\\\(f_1\\\\) and \\\\(f_2\\\\) is:",
+        "options": ["\\\\(f_1+f_2\\\\)", "\\\\(|f_1-f_2|\\\\)", "\\\\(f_1f_2\\\\)", "\\\\(f_1/f_2\\\\)"
         ],
         "answer": 1,
         "explanation": "Beat frequency equals the absolute difference of the two frequencies."
@@ -5940,19 +5930,19 @@
     },
     {
         "id": 471,
-        "question": "The loudness level \(\beta\) in decibel is related to intensity \(I\) by:",
-        "options": ["\(\beta=10\log_{10}(I/I_0)\)", "\(\beta=\log_{10}(I/I_0)\)", "\(\beta=20\log_{10}(I/I_0)\)", "\(\beta=I/I_0\)"
+        "question": "The loudness level \\\\(\\beta\\\\) in decibel is related to intensity \\\\(I\\\\) by:",
+        "options": ["\\\\(\\beta=10\\log_{10}(I/I_0)\\\\)", "\\\\(\\beta=\\log_{10}(I/I_0)\\\\)", "\\\\(\\beta=20\\log_{10}(I/I_0)\\\\)", "\\\\(\\beta=I/I_0\\\\)"
         ],
         "answer": 0,
-        "explanation": "Sound level is defined as \(\beta=10\log_{10}(I/I_0)\)."
+        "explanation": "Sound level is defined as \\\\(\\beta=10\\log_{10}(I/I_0)\\\\)."
     },
     {
         "id": 472,
-        "question": "The reference intensity \(I_0\) for sound is approximately:",
-        "options": ["\(10^{-6}\,\text{W m}^{-2}\)", "\(10^{-10}\,\text{W m}^{-2}\)", "\(10^{-12}\,\text{W m}^{-2}\)", "\(10^{-14}\,\text{W m}^{-2}\)"
+        "question": "The reference intensity \\\\(I_0\\\\) for sound is approximately:",
+        "options": ["\\\\(10^{-6}\\,\text{W m}^{-2}\\\\)", "\\\\(10^{-10}\\,\text{W m}^{-2}\\\\)", "\\\\(10^{-12}\\,\text{W m}^{-2}\\\\)", "\\\\(10^{-14}\\,\text{W m}^{-2}\\\\)"
         ],
         "answer": 2,
-        "explanation": "Threshold of hearing corresponds to \(10^{-12}\,\text{W m}^{-2}\)."
+        "explanation": "Threshold of hearing corresponds to \\\\(10^{-12}\\,\text{W m}^{-2}\\\\)."
     },
     {
         "id": 473,
@@ -6006,10 +5996,10 @@
         "id": 477,
         "question": "At resonance, the phase difference between driving force and displacement is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(3\pi/2\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(3\\\\pi/2\\\\)"
         ],
         "answer": 1,
-        "explanation": "At resonance, force and velocity are in phase, displacement lags by \(\pi/2\)."
+        "explanation": "At resonance, force and velocity are in phase, displacement lags by \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 478,
@@ -6033,7 +6023,7 @@
             "2n"
         ],
         "answer": 1,
-        "explanation": "Nth harmonic has \(n+1\) nodes including ends."
+        "explanation": "Nth harmonic has \\\\(n+1\\\\) nodes including ends."
     },
     {
         "id": 480,
@@ -6045,7 +6035,7 @@
             "Amplitude"
         ],
         "answer": 0,
-        "explanation": "Fundamental frequency \(\nu=\frac{1}{2L}\sqrt{T/\mu}\) is inversely proportional to length."
+        "explanation": "Fundamental frequency \\\\(\\nu=\\frac{1}{2L}\\\\sqrt{T/\\mu}\\\\) is inversely proportional to length."
     },
     {
         "id": 481,
@@ -6074,10 +6064,10 @@
     {
         "id": 483,
         "question": "The fundamental frequency of a closed organ pipe is:",
-        "options": ["\(v/2L\)", "\(v/4L\)", "\(v/L\)", "\(2v/L\)"
+        "options": ["\\\\(v/2L\\\\)", "\\\\(v/4L\\\\)", "\\\\(v/L\\\\)", "\\\\(2v/L\\\\)"
         ],
         "answer": 1,
-        "explanation": "For closed pipe, fundamental frequency is \(v/4L\)."
+        "explanation": "For closed pipe, fundamental frequency is \\\\(v/4L\\\\)."
     },
     {
         "id": 484,
@@ -6101,7 +6091,7 @@
             "Twice potential energy"
         ],
         "answer": 1,
-        "explanation": "Average kinetic energy over a cycle is \(E/2\)."
+        "explanation": "Average kinetic energy over a cycle is \\\\(E/2\\\\)."
     },
     {
         "id": 486,
@@ -6113,7 +6103,7 @@
             "Velocity is zero"
         ],
         "answer": 1,
-        "explanation": "Acceleration \(a=-\omega^2x\) is maximum at maximum displacement."
+        "explanation": "Acceleration \\\\(a=-\\omega^2x\\\\) is maximum at maximum displacement."
     },
     {
         "id": 487,
@@ -6125,7 +6115,7 @@
             "Exponential"
         ],
         "answer": 1,
-        "explanation": "Potential energy \(U\propto x^2\)."
+        "explanation": "Potential energy \\\\(U\\\\propto x^2\\\\)."
     },
     {
         "id": 488,
@@ -6167,10 +6157,10 @@
         "id": 491,
         "question": "The displacement is zero in SHM when the phase angle is:",
         "options": [
-            "0", "\(\pi/2\)", "\(\pi\)", "\(2\pi\)"
+            "0", "\\\\(\\\\pi/2\\\\)", "\\\\(\\\\pi\\\\)", "\\\\(2\\\\pi\\\\)"
         ],
         "answer": 1,
-        "explanation": "For sine form, displacement is zero at \(\pi/2\)."
+        "explanation": "For sine form, displacement is zero at \\\\(\\\\pi/2\\\\)."
     },
     {
         "id": 492,
@@ -6182,7 +6172,7 @@
             "Initial phase"
         ],
         "answer": 0,
-        "explanation": "Total energy \(E=\frac{1}{2}kA^2\) depends on amplitude."
+        "explanation": "Total energy \\\\(E=\\frac{1}{2}kA^2\\\\) depends on amplitude."
     },
     {
         "id": 493,
@@ -6246,7 +6236,7 @@
     },
     {
         "id": 498,
-        "question": "The time period of SHM becomes \(\sqrt{2}\) times if:",
+        "question": "The time period of SHM becomes \\\\(\\\\sqrt{2}\\\\) times if:",
         "options": [
             "Mass is doubled",
             "Spring constant is doubled",
@@ -6254,15 +6244,15 @@
             "Frequency is doubled"
         ],
         "answer": 0,
-        "explanation": "Since \(T\propto\sqrt{m}\), doubling mass increases \(T\) by \(\sqrt{2}\)."
+        "explanation": "Since \\\\(T\\\\propto\\\\sqrt{m}\\\\), doubling mass increases \\\\(T\\\\) by \\\\(\\\\sqrt{2}\\\\)."
     },
     {
         "id": 499,
         "question": "The angular frequency of SHM is equal to:",
-        "options": ["\(\sqrt{k/m}\)", "\(2\pi\sqrt{k/m}\)", "\(\sqrt{m/k}\)", "\(2\pi\sqrt{m/k}\)"
+        "options": ["\\\\(\\\\sqrt{k/m}\\\\)", "\\\\(2\\\\pi\\\\sqrt{k/m}\\\\)", "\\\\(\\\\sqrt{m/k}\\\\)", "\\\\(2\\\\pi\\\\sqrt{m/k}\\\\)"
         ],
         "answer": 0,
-        "explanation": "Angular frequency \(\omega=\sqrt{k/m}\)."
+        "explanation": "Angular frequency \\\\(\\omega=\\\\sqrt{k/m}\\\\)."
     },
     {
         "id": 500,

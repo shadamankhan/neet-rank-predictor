@@ -17,7 +17,7 @@
         "options": [
             "$-al$",
             "$-one$",
-            "$-oic\\ acid$",
+            "$-oic\\\\ acid$",
             "$-ol$"
         ],
         "answer": 1,
@@ -181,7 +181,7 @@
     },
     {
         "id": 16,
-        "question": "The product of $$CH_3COCH_3 \\xrightarrow{Zn(Hg)/HCl}$$ is:",
+        "question": "The product of $$CH_3COCH_3 \\\\xrightarrow{Zn(Hg)/HCl}$$ is:",
         "options": [
             "Propane",
             "Propanone",
@@ -241,7 +241,7 @@
     },
     {
         "id": 21,
-        "question": "In the Cannizzaro reaction, $$2RCHO \\xrightarrow{conc.\\ NaOH} RCOO^- + RCH_2OH$$. Which condition is necessary for this reaction?",
+        "question": "In the Cannizzaro reaction, $$2RCHO \\\\xrightarrow{conc.\\\\ NaOH} RCOO^- + RCH_2OH$$. Which condition is necessary for this reaction?",
         "options": [
             "Aldehydes with no α-hydrogen",
             "Strong acid medium",
@@ -349,7 +349,7 @@
     },
     {
         "id": 30,
-        "question": "What product is formed when acetone is reacted with $$H_2/Pd\\,BaSO_4$$ (Rosenmund conditions)?",
+        "question": "What product is formed when acetone is reacted with $$H_2/Pd\\\\,BaSO_4$$ (Rosenmund conditions)?",
         "options": [
             "2-propanol",
             "Isopropyl alcohol",

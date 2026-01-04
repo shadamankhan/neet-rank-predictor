@@ -599,8 +599,7 @@
         "answer": 2,
         "explanation": "Diffraction is a wave phenomenon, not explained by ray optics."
     }
-]
-[
+,
     {
         "id": 51,
         "question": "For a spherical mirror, the sign convention for object distance u is taken as negative when the object is placed:",
@@ -1201,8 +1200,7 @@
         "answer": 2,
         "explanation": "Ray optics approximation holds when dimensions are much larger than wavelength."
     }
-]
-[
+,
     {
         "id": 101,
         "question": "For a convex lens, when the object is placed between F and 2F, the image formed is:",
@@ -1803,8 +1801,7 @@
         "answer": 1,
         "explanation": "Diffraction becomes prominent when aperture size is comparable to wavelength."
     }
-]
-[
+,
     {
         "id": 151,
         "question": "For a concave mirror, the image formed when the object is placed at the focus is:",
@@ -2405,8 +2402,7 @@
         "answer": 2,
         "explanation": "Ray optics is valid when dimensions are much larger than the wavelength of light."
     }
-]
-[
+,
     {
         "id": 201,
         "question": "For a concave mirror, the image distance v is taken as negative when the image is formed:",
@@ -3008,8 +3004,7 @@
         "answer": 2,
         "explanation": "Angle of deviation is defined as the angle between incident and emergent rays."
     }
-]
-[
+,
     {
         "id": 251,
         "question": "For a spherical mirror, the principal axis is defined as the line:",
@@ -3610,8 +3605,7 @@
         "answer": 2,
         "explanation": "Ray optics fails when dimensions are comparable to the wavelength, where wave effects dominate."
     }
-]
-[
+,
     {
         "id": 301,
         "question": "The principal focus of a concave mirror is the point where rays parallel to the principal axis:",
@@ -4212,9 +4206,7 @@
         "answer": 2,
         "explanation": "Ray optics is valid when wavelength is much smaller than the dimensions involved."
     }
-]
-```json
-[
+,
     {
         "id": 351,
         "question": "For a concave mirror, when the object is placed between the pole and focus, the image formed is:",
@@ -4815,9 +4807,7 @@
         "answer": 2,
         "explanation": "Ray optics works when dimensions are much larger than the wavelength of light."
     }
-]
-```
-[
+,
     {
         "id": 401,
         "question": "For a concave mirror, the image distance v is negative when the image formed is:",
@@ -4832,7 +4822,7 @@
     },
     {
         "id": 402,
-        "question": "The mirror formula \( \frac{1}{f} = \frac{1}{v} + \frac{1}{u} \) is derived assuming:",
+        "question": "The mirror formula \\\\( \\frac{1}{f} = \\frac{1}{v} + \\frac{1}{u} \\\\) is derived assuming:",
         "options": [
             "large aperture",
             "paraxial rays",
@@ -5418,8 +5408,7 @@
         "answer": 2,
         "explanation": "Wave effects dominate when dimensions are comparable to wavelength."
     }
-]
-[
+,
     {
         "id": 451,
         "question": "For a spherical mirror, the normal at any point on the mirror surface passes through the:",
@@ -6020,8 +6009,7 @@
         "answer": 2,
         "explanation": "Light shows wave nature, making ray optics an approximation."
     }
-]
-[
+,
     {
         "id": 501,
         "question": "For a concave mirror, the image formed at infinity corresponds to the object placed at:",
@@ -6622,8 +6610,7 @@
         "answer": 1,
         "explanation": "Interference arises due to superposition of waves."
     }
-]
-[
+,
     {
         "id": 551,
         "question": "For a concave mirror, when the object is placed between the focus and the centre of curvature, the image formed is:",

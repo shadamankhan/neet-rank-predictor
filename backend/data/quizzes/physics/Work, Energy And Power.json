@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "question": "Work done by a constant force \\(\\vec{F}\\) acting on a particle displaced by \\(\\vec{s}\\) is given by:",
+        "question": "Work done by a constant force \\\\(\\\\vec{F}\\\\) acting on a particle displaced by \\\\(\\\\vec{s}\\\\) is given by:",
         "options": [
-            "\\(F s\\)",
-            "\\(F s \\cos \\theta\\)",
-            "\\(F s \\sin \\theta\\)",
-            "\\(\\vec{F} \\times \\vec{s}\\)"
+            "\\\\(F s\\\\)",
+            "\\\\(F s \\\\cos \\theta\\\\)",
+            "\\\\(F s \\\\sin \\theta\\\\)",
+            "\\\\(\\\\vec{F} \\times \\\\vec{s}\\\\)"
         ],
         "answer": 1,
-        "explanation": "Work done is the scalar product of force and displacement: \\(W = \\vec{F} \\cdot \\vec{s} = F s \\cos \\theta\\)."
+        "explanation": "Work done is the scalar product of force and displacement: \\\\(W = \\\\vec{F} \\\\cdot \\\\vec{s} = F s \\\\cos \\theta\\\\)."
     },
     {
         "id": 2,
@@ -81,7 +81,7 @@
             "Negative"
         ],
         "answer": 2,
-        "explanation": "At 90°, \\(\\cos 90° = 0\\), so work done is zero."
+        "explanation": "At 90°, \\\\(\\\\cos 90° = 0\\\\), so work done is zero."
     },
     {
         "id": 8,
@@ -109,15 +109,15 @@
     },
     {
         "id": 10,
-        "question": "Kinetic energy of a particle of mass \\(m\\) moving with velocity \\(v\\) is:",
+        "question": "Kinetic energy of a particle of mass \\\\(m\\\\) moving with velocity \\\\(v\\\\) is:",
         "options": [
-            "\\(mv\\)",
-            "\\(mv^2\\)",
-            "\\(\\frac{1}{2}mv^2\\)",
-            "\\(\\frac{1}{2}mv\\)"
+            "\\\\(mv\\\\)",
+            "\\\\(mv^2\\\\)",
+            "\\\\(\\frac{1}{2}mv^2\\\\)",
+            "\\\\(\\frac{1}{2}mv\\\\)"
         ],
         "answer": 2,
-        "explanation": "Kinetic energy is given by \\(K = \\frac{1}{2}mv^2\\)."
+        "explanation": "Kinetic energy is given by \\\\(K = \\frac{1}{2}mv^2\\\\)."
     },
     {
         "id": 11,
@@ -171,13 +171,13 @@
         "id": 15,
         "question": "Gravitational potential energy near Earth's surface is:",
         "options": [
-            "\\(mg\\)",
-            "\\(mgh\\)",
-            "\\(\\frac{1}{2}mgh\\)",
-            "\\(\\frac{mgh}{2}\\)"
+            "\\\\(mg\\\\)",
+            "\\\\(mgh\\\\)",
+            "\\\\(\\frac{1}{2}mgh\\\\)",
+            "\\\\(\\frac{mgh}{2}\\\\)"
         ],
         "answer": 1,
-        "explanation": "Near Earth surface, gravitational potential energy is \\(U = mgh\\)."
+        "explanation": "Near Earth surface, gravitational potential energy is \\\\(U = mgh\\\\)."
     },
     {
         "id": 16,
@@ -193,15 +193,15 @@
     },
     {
         "id": 17,
-        "question": "Potential energy of a spring stretched by \\(x\\) is:",
+        "question": "Potential energy of a spring stretched by \\\\(x\\\\) is:",
         "options": [
-            "\\(kx\\)",
-            "\\(\\frac{1}{2}kx^2\\)",
-            "\\(kx^2\\)",
-            "\\(\\frac{1}{2}kx\\)"
+            "\\\\(kx\\\\)",
+            "\\\\(\\frac{1}{2}kx^2\\\\)",
+            "\\\\(kx^2\\\\)",
+            "\\\\(\\frac{1}{2}kx\\\\)"
         ],
         "answer": 1,
-        "explanation": "Elastic potential energy is \\(\\frac{1}{2}kx^2\\)."
+        "explanation": "Elastic potential energy is \\\\(\\frac{1}{2}kx^2\\\\)."
     },
     {
         "id": 18,
@@ -289,12 +289,12 @@
     },
     {
         "id": 25,
-        "question": "Instantaneous power delivered by a force \\(\\vec{F}\\) to a particle moving with velocity \\(\\vec{v}\\) is:",
+        "question": "Instantaneous power delivered by a force \\\\(\\\\vec{F}\\\\) to a particle moving with velocity \\\\(\\\\vec{v}\\\\) is:",
         "options": [
-            "\\(Fv\\)",
-            "\\(Fv \\sin \\theta\\)",
-            "\\(\\vec{F} \\cdot \\vec{v}\\)",
-            "\\(\\vec{F} \\times \\vec{v}\\)"
+            "\\\\(Fv\\\\)",
+            "\\\\(Fv \\\\sin \\theta\\\\)",
+            "\\\\(\\\\vec{F} \\\\cdot \\\\vec{v}\\\\)",
+            "\\\\(\\\\vec{F} \\times \\\\vec{v}\\\\)"
         ],
         "answer": 2,
         "explanation": "Instantaneous power is the dot product of force and velocity."
@@ -441,7 +441,7 @@
             "Power"
         ],
         "answer": 0,
-        "explanation": "Slope equals \\(\\frac{1}{2}m\\), proportional to mass."
+        "explanation": "Slope equals \\\\(\\frac{1}{2}m\\\\), proportional to mass."
     },
     {
         "id": 38,
@@ -459,10 +459,10 @@
         "id": 39,
         "question": "The work done in stretching a spring slowly from 0 to x is:",
         "options": [
-            "\\(kx^2\\)",
-            "\\(\\frac{1}{2}kx^2\\)",
-            "\\(kx\\)",
-            "\\(\\frac{1}{2}kx\\)"
+            "\\\\(kx^2\\\\)",
+            "\\\\(\\frac{1}{2}kx^2\\\\)",
+            "\\\\(kx\\\\)",
+            "\\\\(\\frac{1}{2}kx\\\\)"
         ],
         "answer": 1,
         "explanation": "Work done equals elastic potential energy stored."
@@ -495,10 +495,10 @@
         "id": 42,
         "question": "A body of mass m moving with velocity v is stopped by friction. The work done by friction equals:",
         "options": [
-            "\\(mv^2\\)",
-            "\\(\\frac{1}{2}mv^2\\)",
-            "\\(-\\frac{1}{2}mv^2\\)",
-            "\\(-mv^2\\)"
+            "\\\\(mv^2\\\\)",
+            "\\\\(\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-mv^2\\\\)"
         ],
         "answer": 2,
         "explanation": "Work done by friction equals negative of initial kinetic energy."
@@ -531,10 +531,10 @@
         "id": 45,
         "question": "The dimension of power is:",
         "options": [
-            "\\(ML^2T^{-2}\\)",
-            "\\(ML^2T^{-3}\\)",
-            "\\(MLT^{-2}\\)",
-            "\\(MLT^{-1}\\)"
+            "\\\\(ML^2T^{-2}\\\\)",
+            "\\\\(ML^2T^{-3}\\\\)",
+            "\\\\(MLT^{-2}\\\\)",
+            "\\\\(MLT^{-1}\\\\)"
         ],
         "answer": 1,
         "explanation": "Power = work per unit time."
@@ -585,7 +585,7 @@
             "At obtuse angle"
         ],
         "answer": 3,
-        "explanation": "For obtuse angle, \\(\\cos \\theta\\) is negative."
+        "explanation": "For obtuse angle, \\\\(\\\\cos \\theta\\\\) is negative."
     },
     {
         "id": 50,
@@ -615,9 +615,9 @@
         "id": 52,
         "question": "The work done by gravity during free fall from height h is equal to:",
         "options": [
-            "\\(mgh\\)",
-            "\\(-mgh\\)",
-            "\\(\\frac{1}{2}mgh\\)",
+            "\\\\(mgh\\\\)",
+            "\\\\(-mgh\\\\)",
+            "\\\\(\\frac{1}{2}mgh\\\\)",
             "Zero"
         ],
         "answer": 0,
@@ -831,10 +831,10 @@
         "id": 70,
         "question": "The dimensional formula of work is:",
         "options": [
-            "\\(MLT^{-2}\\)",
-            "\\(ML^2T^{-2}\\)",
-            "\\(ML^2T^{-3}\\)",
-            "\\(MT^{-2}\\)"
+            "\\\\(MLT^{-2}\\\\)",
+            "\\\\(ML^2T^{-2}\\\\)",
+            "\\\\(ML^2T^{-3}\\\\)",
+            "\\\\(MT^{-2}\\\\)"
         ],
         "answer": 1,
         "explanation": "Work = force × displacement, dimensions are ML^2T^-2."
@@ -857,7 +857,7 @@
         "options": [
             "Doubled",
             "Halved",
-            "\\(\\sqrt{2}\\) times",
+            "\\\\(\\\\sqrt{2}\\\\) times",
             "Four times"
         ],
         "answer": 2,
@@ -1201,27 +1201,27 @@
     },
     {
         "id": 101,
-        "question": "A particle moves under a force \\(\\vec{F} = kx\\hat{i}\\). The work done by the force in moving the particle from x = 0 to x = a is:",
+        "question": "A particle moves under a force \\\\(\\\\vec{F} = kx\\\\hat{i}\\\\). The work done by the force in moving the particle from x = 0 to x = a is:",
         "options": [
-            "\\(ka\\)",
-            "\\(\\frac{1}{2}ka^2\\)",
-            "\\(ka^2\\)",
-            "\\(\\frac{1}{3}ka^3\\)"
+            "\\\\(ka\\\\)",
+            "\\\\(\\frac{1}{2}ka^2\\\\)",
+            "\\\\(ka^2\\\\)",
+            "\\\\(\\frac{1}{3}ka^3\\\\)"
         ],
         "answer": 1,
-        "explanation": "Work done by variable force is area under F–x graph: \\(W = \\int_0^a kx dx = \\frac{1}{2}ka^2\\)."
+        "explanation": "Work done by variable force is area under F–x graph: \\\\(W = \\\\int_0^a kx dx = \\frac{1}{2}ka^2\\\\)."
     },
     {
         "id": 102,
         "question": "A body of mass m is projected vertically upward with speed u. The maximum height reached is:",
         "options": [
-            "\\(\\frac{u^2}{g}\\)",
-            "\\(\\frac{u^2}{2g}\\)",
-            "\\(\\frac{2u^2}{g}\\)",
-            "\\(\\frac{u}{2g}\\)"
+            "\\\\(\\frac{u^2}{g}\\\\)",
+            "\\\\(\\frac{u^2}{2g}\\\\)",
+            "\\\\(\\frac{2u^2}{g}\\\\)",
+            "\\\\(\\frac{u}{2g}\\\\)"
         ],
         "answer": 1,
-        "explanation": "Using energy conservation: \\(\\frac{1}{2}mu^2 = mgh\\)."
+        "explanation": "Using energy conservation: \\\\(\\frac{1}{2}mu^2 = mgh\\\\)."
     },
     {
         "id": 103,
@@ -1251,13 +1251,13 @@
         "id": 105,
         "question": "If the kinetic energy of a body is K, its momentum is:",
         "options": [
-            "\\(\\sqrt{2mK}\\)",
-            "\\(2mK\\)",
-            "\\(\\frac{K}{2m}\\)",
-            "\\(mK\\)"
+            "\\\\(\\\\sqrt{2mK}\\\\)",
+            "\\\\(2mK\\\\)",
+            "\\\\(\\frac{K}{2m}\\\\)",
+            "\\\\(mK\\\\)"
         ],
         "answer": 0,
-        "explanation": "Using \\(K = \\frac{p^2}{2m}\\), so \\(p = \\sqrt{2mK}\\)."
+        "explanation": "Using \\\\(K = \\frac{p^2}{2m}\\\\), so \\\\(p = \\\\sqrt{2mK}\\\\)."
     },
     {
         "id": 106,
@@ -1449,7 +1449,7 @@
             "All of these"
         ],
         "answer": 3,
-        "explanation": "Power = \\(\\vec{F} \\cdot \\vec{v}\\), which becomes zero in all cases."
+        "explanation": "Power = \\\\(\\\\vec{F} \\\\cdot \\\\vec{v}\\\\), which becomes zero in all cases."
     },
     {
         "id": 122,
@@ -1565,8 +1565,8 @@
         "options": [
             "Half",
             "Double",
-            "\\(1/\\sqrt{2}\\) times",
-            "\\(\\sqrt{2}\\) times"
+            "\\\\(1/\\\\sqrt{2}\\\\) times",
+            "\\\\(\\\\sqrt{2}\\\\) times"
         ],
         "answer": 2,
         "explanation": "KE proportional to v²."
@@ -1695,10 +1695,10 @@
         "id": 142,
         "question": "A body has momentum p. Its kinetic energy is:",
         "options": [
-            "\\(\\frac{p}{2m}\\)",
-            "\\(\\frac{p^2}{2m}\\)",
-            "\\(pm\\)",
-            "\\(2pm\\)"
+            "\\\\(\\frac{p}{2m}\\\\)",
+            "\\\\(\\frac{p^2}{2m}\\\\)",
+            "\\\\(pm\\\\)",
+            "\\\\(2pm\\\\)"
         ],
         "answer": 1,
         "explanation": "KE expressed in terms of momentum."
@@ -1803,10 +1803,10 @@
         "id": 151,
         "question": "A body of mass m is moving with speed v. The work required to bring it to rest is:",
         "options": [
-            "\\(mv^2\\)",
-            "\\(\\frac{1}{2}mv^2\\)",
-            "\\(-\\frac{1}{2}mv^2\\)",
-            "\\(-mv^2\\)"
+            "\\\\(mv^2\\\\)",
+            "\\\\(\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-mv^2\\\\)"
         ],
         "answer": 2,
         "explanation": "Work required to stop the body equals negative of its initial kinetic energy."
@@ -2271,10 +2271,10 @@
         "id": 190,
         "question": "A body of mass m has kinetic energy K. Its speed is:",
         "options": [
-            "\\(\\sqrt{2K/m}\\)",
-            "\\(2K/m\\)",
-            "\\(K/m\\)",
-            "\\(\\sqrt{K/m}\\)"
+            "\\\\(\\\\sqrt{2K/m}\\\\)",
+            "\\\\(2K/m\\\\)",
+            "\\\\(K/m\\\\)",
+            "\\\\(\\\\sqrt{K/m}\\\\)"
         ],
         "answer": 0,
         "explanation": "From K = (1/2)mv²."
@@ -2401,15 +2401,15 @@
     },
     {
         "id": 201,
-        "question": "A particle moves under a force \\(\\vec{F} = -kx\\hat{i}\\). The work done by the force in moving the particle from x = a to x = 0 is:",
+        "question": "A particle moves under a force \\\\(\\\\vec{F} = -kx\\\\hat{i}\\\\). The work done by the force in moving the particle from x = a to x = 0 is:",
         "options": [
-            "\\(\\frac{1}{2}ka^2\\)",
-            "\\(-\\frac{1}{2}ka^2\\)",
-            "\\(ka^2\\)",
+            "\\\\(\\frac{1}{2}ka^2\\\\)",
+            "\\\\(-\\frac{1}{2}ka^2\\\\)",
+            "\\\\(ka^2\\\\)",
             "Zero"
         ],
         "answer": 0,
-        "explanation": "Work done by conservative spring force equals decrease in potential energy: \\(W = \\frac{1}{2}ka^2\\)."
+        "explanation": "Work done by conservative spring force equals decrease in potential energy: \\\\(W = \\frac{1}{2}ka^2\\\\)."
     },
     {
         "id": 202,
@@ -3003,9 +3003,9 @@
         "id": 251,
         "question": "A body of mass m is moving with velocity v. The minimum work required to stop it is:",
         "options": [
-            "\\(\\frac{1}{2}mv^2\\)",
-            "\\(-\\frac{1}{2}mv^2\\)",
-            "\\(mv^2\\)",
+            "\\\\(\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-\\frac{1}{2}mv^2\\\\)",
+            "\\\\(mv^2\\\\)",
             "Zero"
         ],
         "answer": 1,
@@ -3039,9 +3039,9 @@
         "id": 254,
         "question": "A spring of force constant k is compressed by x. The work done by spring force is:",
         "options": [
-            "\\(\\frac{1}{2}kx^2\\)",
-            "\\(-\\frac{1}{2}kx^2\\)",
-            "\\(kx^2\\)",
+            "\\\\(\\frac{1}{2}kx^2\\\\)",
+            "\\\\(-\\frac{1}{2}kx^2\\\\)",
+            "\\\\(kx^2\\\\)",
             "Zero"
         ],
         "answer": 1,
@@ -3054,7 +3054,7 @@
             "Half",
             "Double",
             "One-fourth",
-            "\\(1/\\sqrt{2}\\)"
+            "\\\\(1/\\\\sqrt{2}\\\\)"
         ],
         "answer": 0,
         "explanation": "Kinetic energy is proportional to square of speed."
@@ -3111,10 +3111,10 @@
         "id": 260,
         "question": "The unit of torque and work are same because both have dimensions:",
         "options": [
-            "\\(MLT^{-2}\\)",
-            "\\(ML^2T^{-2}\\)",
-            "\\(ML^2T^{-3}\\)",
-            "\\(MLT^{-1}\\)"
+            "\\\\(MLT^{-2}\\\\)",
+            "\\\\(ML^2T^{-2}\\\\)",
+            "\\\\(ML^2T^{-3}\\\\)",
+            "\\\\(MLT^{-1}\\\\)"
         ],
         "answer": 1,
         "explanation": "Both torque and work have dimensions of force × distance."
@@ -3281,7 +3281,7 @@
         "options": [
             "Double",
             "Half",
-            "\\(\\sqrt{2}\\) times",
+            "\\\\(\\\\sqrt{2}\\\\) times",
             "Four times"
         ],
         "answer": 2,
@@ -3351,10 +3351,10 @@
         "id": 280,
         "question": "The kinetic energy of a body expressed in terms of momentum p is:",
         "options": [
-            "\\(\\frac{p}{2m}\\)",
-            "\\(\\frac{p^2}{2m}\\)",
-            "\\(pm\\)",
-            "\\(2pm\\)"
+            "\\\\(\\frac{p}{2m}\\\\)",
+            "\\\\(\\frac{p^2}{2m}\\\\)",
+            "\\\\(pm\\\\)",
+            "\\\\(2pm\\\\)"
         ],
         "answer": 1,
         "explanation": "Relation between kinetic energy and momentum."
@@ -3603,9 +3603,9 @@
         "id": 301,
         "question": "A body of mass m is moving with speed v on a horizontal rough surface. The work done by friction in stopping the body is:",
         "options": [
-            "\\(\\frac{1}{2}mv^2\\)",
-            "\\(-\\frac{1}{2}mv^2\\)",
-            "\\(mv^2\\)",
+            "\\\\(\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-\\frac{1}{2}mv^2\\\\)",
+            "\\\\(mv^2\\\\)",
             "Zero"
         ],
         "answer": 1,
@@ -3633,7 +3633,7 @@
             "All of these"
         ],
         "answer": 3,
-        "explanation": "Work is given by \\(W = Fs\\cos\\theta\\)."
+        "explanation": "Work is given by \\\\(W = Fs\\\\cos\\theta\\\\)."
     },
     {
         "id": 304,
@@ -3891,13 +3891,13 @@
         "id": 325,
         "question": "A body has momentum p. Its kinetic energy is:",
         "options": [
-            "\\(\\frac{p}{2m}\\)",
-            "\\(\\frac{p^2}{2m}\\)",
-            "\\(pm\\)",
-            "\\(2pm\\)"
+            "\\\\(\\frac{p}{2m}\\\\)",
+            "\\\\(\\frac{p^2}{2m}\\\\)",
+            "\\\\(pm\\\\)",
+            "\\\\(2pm\\\\)"
         ],
         "answer": 1,
-        "explanation": "Kinetic energy in terms of momentum is \\(p^2/2m\\)."
+        "explanation": "Kinetic energy in terms of momentum is \\\\(p^2/2m\\\\)."
     },
     {
         "id": 326,
@@ -4803,13 +4803,13 @@
         "id": 401,
         "question": "A body of mass m is moving with speed v. The work done by a retarding force to reduce its speed to v/2 is:",
         "options": [
-            "\\(-\\frac{3}{8}mv^2\\)",
-            "\\(-\\frac{1}{4}mv^2\\)",
-            "\\(-\\frac{1}{2}mv^2\\)",
-            "\\(-\\frac{3}{4}mv^2\\)"
+            "\\\\(-\\frac{3}{8}mv^2\\\\)",
+            "\\\\(-\\frac{1}{4}mv^2\\\\)",
+            "\\\\(-\\frac{1}{2}mv^2\\\\)",
+            "\\\\(-\\frac{3}{4}mv^2\\\\)"
         ],
         "answer": 0,
-        "explanation": "Change in kinetic energy = \\(\\frac{1}{2}m(\\frac{v^2}{4}-v^2) = -\\frac{3}{8}mv^2\\)."
+        "explanation": "Change in kinetic energy = \\\\(\\frac{1}{2}m(\\frac{v^2}{4}-v^2) = -\\frac{3}{8}mv^2\\\\)."
     },
     {
         "id": 402,
@@ -4837,15 +4837,15 @@
     },
     {
         "id": 404,
-        "question": "A particle moves under a force \\(F = ax\\). The work done in moving it from x = 0 to x = x0 is:",
+        "question": "A particle moves under a force \\\\(F = ax\\\\). The work done in moving it from x = 0 to x = x0 is:",
         "options": [
-            "\\(ax_0\\)",
-            "\\(\\frac{1}{2}ax_0^2\\)",
-            "\\(ax_0^2\\)",
-            "\\(\\frac{1}{3}ax_0^3\\)"
+            "\\\\(ax_0\\\\)",
+            "\\\\(\\frac{1}{2}ax_0^2\\\\)",
+            "\\\\(ax_0^2\\\\)",
+            "\\\\(\\frac{1}{3}ax_0^3\\\\)"
         ],
         "answer": 1,
-        "explanation": "Work done = \\(\\int_0^{x_0} ax \\, dx = \\frac{1}{2}ax_0^2\\)."
+        "explanation": "Work done = \\\\(\\\\int_0^{x_0} ax \\\\, dx = \\frac{1}{2}ax_0^2\\\\)."
     },
     {
         "id": 405,
@@ -4897,12 +4897,12 @@
     },
     {
         "id": 409,
-        "question": "The instantaneous power delivered by a force \\(\\vec{F}\\) to a particle with velocity \\(\\vec{v}\\) is:",
+        "question": "The instantaneous power delivered by a force \\\\(\\\\vec{F}\\\\) to a particle with velocity \\\\(\\\\vec{v}\\\\) is:",
         "options": [
-            "\\(Fv\\)",
-            "\\(Fv\\sin\\theta\\)",
-            "\\(\\vec{F}\\cdot\\vec{v}\\)",
-            "\\(\\vec{F}\\times\\vec{v}\\)"
+            "\\\\(Fv\\\\)",
+            "\\\\(Fv\\\\sin\\theta\\\\)",
+            "\\\\(\\\\vec{F}\\\\cdot\\\\vec{v}\\\\)",
+            "\\\\(\\\\vec{F}\\times\\\\vec{v}\\\\)"
         ],
         "answer": 2,
         "explanation": "Instantaneous power equals the dot product of force and velocity."
@@ -5043,10 +5043,10 @@
         "id": 421,
         "question": "The kinetic energy of a body expressed in terms of momentum p is:",
         "options": [
-            "\\(\\frac{p}{2m}\\)",
-            "\\(\\frac{p^2}{2m}\\)",
-            "\\(pm\\)",
-            "\\(2pm\\)"
+            "\\\\(\\frac{p}{2m}\\\\)",
+            "\\\\(\\frac{p^2}{2m}\\\\)",
+            "\\\\(pm\\\\)",
+            "\\\\(2pm\\\\)"
         ],
         "answer": 1,
         "explanation": "Relation between kinetic energy and momentum."
@@ -5403,22 +5403,22 @@
         "id": 451,
         "question": "A particle of mass m moves with speed v. The work required to increase its speed to 2v is:",
         "options": [
-            "\\(\\frac{1}{2}mv^2\\)",
-            "\\(\\frac{3}{2}mv^2\\)",
-            "\\(2mv^2\\)",
-            "\\(mv^2\\)"
+            "\\\\(\\frac{1}{2}mv^2\\\\)",
+            "\\\\(\\frac{3}{2}mv^2\\\\)",
+            "\\\\(2mv^2\\\\)",
+            "\\\\(mv^2\\\\)"
         ],
         "answer": 1,
-        "explanation": "Change in kinetic energy = \\(\\frac{1}{2}m(4v^2 - v^2) = \\frac{3}{2}mv^2\\)."
+        "explanation": "Change in kinetic energy = \\\\(\\frac{1}{2}m(4v^2 - v^2) = \\frac{3}{2}mv^2\\\\)."
     },
     {
         "id": 452,
         "question": "The work done by gravity on a body projected horizontally from a height h till it reaches the ground is:",
         "options": [
             "Zero",
-            "\\(mgh\\)",
-            "\\(-mgh\\)",
-            "\\(\\frac{1}{2}mgh\\)"
+            "\\\\(mgh\\\\)",
+            "\\\\(-mgh\\\\)",
+            "\\\\(\\frac{1}{2}mgh\\\\)"
         ],
         "answer": 1,
         "explanation": "Gravity does work equal to loss in gravitational potential energy, which is mgh."
@@ -5476,7 +5476,7 @@
         "question": "A body of mass m falls freely from rest. After falling through a height h, its kinetic energy is:",
         "options": [
             "mgh",
-            "\\(\\frac{1}{2}mgh\\)",
+            "\\\\(\\frac{1}{2}mgh\\\\)",
             "2mgh",
             "Depends on time"
         ],

@@ -599,8 +599,7 @@
         "answer": 3,
         "explanation": "Zeroth law establishes the concept of temperature."
     }
-]
-[
+,
     {
         "id": 51,
         "question": "For an ideal gas undergoing a reversible isothermal expansion from volume V1 to V2 at temperature T, the work done is:",
@@ -1201,8 +1200,7 @@
         "answer": 2,
         "explanation": "Third law leads to the concept of absolute zero."
     }
-]
-[
+,
     {
         "id": 101,
         "question": "For an ideal gas, which of the following quantities depends only on temperature?",
@@ -1803,8 +1801,7 @@
         "answer": 2,
         "explanation": "Second law governs direction of spontaneous processes."
     }
-]
-[
+,
     {
         "id": 151,
         "question": "For an ideal gas undergoing a reversible isothermal process, the heat absorbed by the gas is equal to:",
@@ -2405,8 +2402,7 @@
         "answer": 2,
         "explanation": "Second law forbids complete conversion of heat into work."
     }
-]
-[
+,
     {
         "id": 201,
         "question": "For an ideal gas undergoing a reversible isothermal expansion, the expression for entropy change of the gas is:",
@@ -3007,8 +3003,7 @@
         "answer": 2,
         "explanation": "This is the Kelvin–Planck statement of the second law."
     }
-]
-[
+,
     {
         "id": 251,
         "question": "For an ideal gas, the change in internal energy in a cyclic process is:",
@@ -3026,12 +3021,12 @@
         "question": "Which of the following relations is valid for a reversible adiabatic process of an ideal gas?",
         "options": [
             "PV = constant",
-"PV^\gamma = constant",
+"PV^\\gamma = constant",
             "P/T = constant",
             "V/T = constant"
         ],
         "answer": 1,
-        "explanation": "For a reversible adiabatic process, PV^\gamma remains constant as per NCERT."
+        "explanation": "For a reversible adiabatic process, PV^\\gamma remains constant as per NCERT."
     },
     {
         "id": 253,
@@ -3055,7 +3050,7 @@
             "Adiabatic"
         ],
         "answer": 0,
-        "explanation": "For an isothermal process of an ideal gas, \(\Delta U = 0\), so Q = W."
+        "explanation": "For an isothermal process of an ideal gas, \\\\(\\Delta U = 0\\\\), so Q = W."
     },
     {
         "id": 255,
@@ -3244,7 +3239,7 @@
             "nRT ln(V2/V1)",
             "P(V2 − V1)",
             "Zero",
-"(P1V1 − P2V2)/(\gamma − 1)"
+"(P1V1 − P2V2)/(\\gamma − 1)"
         ],
         "answer": 1,
         "explanation": "For constant pressure, work done is W = PΔV."
@@ -3482,12 +3477,12 @@
         "question": "Which of the following relations gives the work done in an adiabatic process?",
         "options": [
             "nRT ln(V2/V1)",
-"(P1V1 − P2V2)/(\gamma − 1)",
+"(P1V1 − P2V2)/(\\gamma − 1)",
             "P(V2 − V1)",
             "Zero"
         ],
         "answer": 1,
-        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(\gamma − 1)."
+        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(\\gamma − 1)."
     },
     {
         "id": 291,
@@ -3609,8 +3604,7 @@
         "answer": 2,
         "explanation": "Entropy of an isolated system never decreases as per the second law."
     }
-]
-[
+,
     {
         "id": 301,
         "question": "For an ideal gas, the differential form of the first law of thermodynamics is:",
@@ -4024,7 +4018,7 @@
         "question": "Which of the following is a correct relation for a reversible adiabatic process?",
         "options": [
             "PV = constant",
-"PV^\gamma = constant",
+"PV^\\gamma = constant",
             "PT = constant",
             "VT = constant"
         ],
@@ -4211,14 +4205,13 @@
         "answer": 2,
         "explanation": "Entropy of an isolated system never decreases."
     }
-]
-[
+,
     {
         "id": 351,
         "question": "For an ideal gas, the relation between pressure and volume during a reversible isothermal process is:",
         "options": [
             "PV = constant",
-"PV^\gamma = constant",
+"PV^\\gamma = constant",
             "P/V = constant",
             "P + V = constant"
         ],
@@ -4243,7 +4236,7 @@
         "options": [
             "nRT ln(V2/V1)",
             "P(V2 − V1)",
-"(P1V1 − P2V2)/(\gamma − 1)",
+"(P1V1 − P2V2)/(\\gamma − 1)",
             "Zero"
         ],
         "answer": 1,
@@ -4434,12 +4427,12 @@
         "question": "Which of the following relations represents an adiabatic process for an ideal gas?",
         "options": [
             "PV = constant",
-"PV^\gamma = constant",
+"PV^\\gamma = constant",
             "P/T = constant",
             "V/T = constant"
         ],
         "answer": 1,
-        "explanation": "The adiabatic condition for an ideal gas is PV^\gamma = constant."
+        "explanation": "The adiabatic condition for an ideal gas is PV^\\gamma = constant."
     },
     {
         "id": 370,
@@ -4650,12 +4643,12 @@
         "question": "Which of the following relations gives the work done in a reversible adiabatic process?",
         "options": [
             "nRT ln(V2/V1)",
-"(P1V1 − P2V2)/(\gamma − 1)",
+"(P1V1 − P2V2)/(\\gamma − 1)",
             "P(V2 − V1)",
             "Zero"
         ],
         "answer": 1,
-        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(\gamma − 1)."
+        "explanation": "Work done in a reversible adiabatic process is (P1V1 − P2V2)/(\\gamma − 1)."
     },
     {
         "id": 388,
@@ -4813,8 +4806,7 @@
         "answer": 2,
         "explanation": "According to the second law, entropy of an isolated system never decreases."
     }
-]
-[
+,
     {
         "id": 401,
         "question": "For an ideal gas undergoing a reversible isothermal expansion at temperature T, the work done per mole is:",
@@ -4822,7 +4814,7 @@
             "RT ln(V2/V1)",
             "RT ln(P2/P1)",
             "P(V2 − V1)",
-"(P1V1 − P2V2)/(\gamma − 1)"
+"(P1V1 − P2V2)/(\\gamma − 1)"
         ],
         "answer": 0,
         "explanation": "For one mole, reversible isothermal work is W = RT ln(V2/V1)."
@@ -4832,12 +4824,12 @@
         "question": "Which of the following relations is correct for a reversible adiabatic process of an ideal gas?",
         "options": [
             "TV = constant",
-"T^\gamma V = constant",
-"TV^{\gamma−1} = constant",
+"T^\\gamma V = constant",
+"TV^{\\gamma−1} = constant",
             "T/V = constant"
         ],
         "answer": 2,
-        "explanation": "For adiabatic processes, TV^{\gamma−1} = constant as per NCERT."
+        "explanation": "For adiabatic processes, TV^{\\gamma−1} = constant as per NCERT."
     },
     {
         "id": 403,
@@ -5120,12 +5112,12 @@
         "question": "Which of the following relations represents an adiabatic process?",
         "options": [
             "PV = constant",
-"PV^\gamma = constant",
+"PV^\\gamma = constant",
             "P/T = constant",
             "V/T = constant"
         ],
         "answer": 1,
-        "explanation": "Adiabatic processes satisfy PV^\gamma = constant."
+        "explanation": "Adiabatic processes satisfy PV^\\gamma = constant."
     },
     {
         "id": 427,
@@ -5415,8 +5407,7 @@
         "answer": 3,
         "explanation": "Perfectly reversible processes are idealizations and cannot be achieved exactly."
     }
-]
-[
+,
     {
         "id": 451,
         "question": "For an ideal gas, the molar heat capacity at constant volume for a monoatomic gas is:",
@@ -5986,7 +5977,7 @@
         "question": "Which of the following relations correctly represents work done in an adiabatic process?",
         "options": [
             "nRT ln(V2/V1)",
-"(P1V1 − P2V2)/(\gamma − 1)",
+"(P1V1 − P2V2)/(\\gamma − 1)",
             "P(V2 − V1)",
             "Zero"
         ],

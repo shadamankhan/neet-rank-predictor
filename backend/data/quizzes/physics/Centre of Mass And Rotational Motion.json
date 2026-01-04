@@ -15,10 +15,10 @@
         "id": 2,
         "question": "For a system of particles, the position vector of centre of mass is given by:",
         "options": [
-            "$\\frac{\\sum \\vec r_i}{n}$",
-            "$\\frac{\\sum m_i \\vec r_i}{\\sum m_i}$",
-            "$\\sum m_i \\vec r_i$",
-            "$\\sum \\vec r_i$"
+            "$\\frac{\\\\sum \\\\vec r_i}{n}$",
+            "$\\frac{\\\\sum m_i \\\\vec r_i}{\\\\sum m_i}$",
+            "$\\\\sum m_i \\\\vec r_i$",
+            "$\\\\sum \\\\vec r_i$"
         ],
         "answer": 1,
         "explanation": "NCERT defines centre of mass position as mass-weighted average of position vectors."
@@ -93,7 +93,7 @@
             "3d/2"
         ],
         "answer": 0,
-        "explanation": "Using $x=\\frac{2m\\cdot d}{3m}=\\frac{d}{3}$ from mass m."
+        "explanation": "Using $x=\\frac{2m\\\\cdot d}{3m}=\\frac{d}{3}$ from mass m."
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
             "product of torque and time"
         ],
         "answer": 1,
-        "explanation": "NCERT: $\\vec P = M \\vec V_{cm}$."
+        "explanation": "NCERT: $\\\\vec P = M \\\\vec V_{cm}$."
     },
     {
         "id": 10,
@@ -121,15 +121,15 @@
     },
     {
         "id": 11,
-        "question": "The relation between linear velocity v and angular velocity $\\omega$ is:",
+        "question": "The relation between linear velocity v and angular velocity $\\\\omega$ is:",
         "options": [
-            "$v = \\omega r$",
-            "$v = r/\\omega$",
-            "$v = \\omega / r$",
-            "$v = r^2 \\omega$"
+            "$v = \\\\omega r$",
+            "$v = r/\\\\omega$",
+            "$v = \\\\omega / r$",
+            "$v = r^2 \\\\omega$"
         ],
         "answer": 0,
-        "explanation": "NCERT relation for circular motion: $v = \\omega r$."
+        "explanation": "NCERT relation for circular motion: $v = \\\\omega r$."
     },
     {
         "id": 12,
@@ -231,13 +231,13 @@
         "id": 20,
         "question": "Angular momentum of a particle is given by:",
         "options": [
-            "$\\vec r \\times \\vec v$",
-            "$m \\vec r \\times \\vec v$",
-            "$\\vec p \\cdot \\vec r$",
-            "$\\vec r / \\vec p$"
+            "$\\\\vec r \\times \\\\vec v$",
+            "$m \\\\vec r \\times \\\\vec v$",
+            "$\\\\vec p \\\\cdot \\\\vec r$",
+            "$\\\\vec r / \\\\vec p$"
         ],
         "answer": 1,
-        "explanation": "NCERT definition: $\\vec L = \\vec r \\times \\vec p$."
+        "explanation": "NCERT definition: $\\\\vec L = \\\\vec r \\times \\\\vec p$."
     },
     {
         "id": 21,
@@ -255,9 +255,9 @@
         "id": 22,
         "question": "The rotational analogue of Newton’s second law is:",
         "options": [
-            "$\\tau = I\\omega$",
-            "$\\tau = I\\alpha$",
-            "$\\tau = \\omega / I$",
+            "$\\tau = I\\\\omega$",
+            "$\\tau = I\\\\alpha$",
+            "$\\tau = \\\\omega / I$",
             "$\\tau = dI/dt$"
         ],
         "answer": 1,
@@ -268,12 +268,12 @@
         "question": "Rotational kinetic energy of a rigid body is:",
         "options": [
             "$\\frac12 mv^2$",
-            "$\\frac12 I\\omega^2$",
-            "$I\\omega$",
+            "$\\frac12 I\\\\omega^2$",
+            "$I\\\\omega$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational kinetic energy is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 24,
@@ -281,7 +281,7 @@
         "options": [
             "$\\tau \\theta$",
             "$\\tau / \\theta$",
-            "$\\tau \\omega$",
+            "$\\tau \\\\omega$",
             "$\\theta / \\tau$"
         ],
         "answer": 0,
@@ -291,25 +291,25 @@
         "id": 25,
         "question": "The angular momentum of a rigid body rotating about a fixed axis is:",
         "options": [
-            "$I\\omega$",
-            "$mr\\omega$",
-            "$I\\alpha$",
+            "$I\\\\omega$",
+            "$mr\\\\omega$",
+            "$I\\\\alpha$",
             "$\\tau t$"
         ],
         "answer": 0,
-        "explanation": "For fixed axis rotation, $L = I\\omega$."
+        "explanation": "For fixed axis rotation, $L = I\\\\omega$."
     },
     {
         "id": 26,
         "question": "A body rolling without slipping satisfies:",
         "options": [
-            "$v = r\\omega$",
-            "$v = r^2\\omega$",
-            "$v = \\omega/r$",
-            "$v = 2r\\omega$"
+            "$v = r\\\\omega$",
+            "$v = r^2\\\\omega$",
+            "$v = \\\\omega/r$",
+            "$v = 2r\\\\omega$"
         ],
         "answer": 0,
-        "explanation": "NCERT condition for pure rolling: $v = r\\omega$."
+        "explanation": "NCERT condition for pure rolling: $v = r\\\\omega$."
     },
     {
         "id": 27,
@@ -411,13 +411,13 @@
         "id": 35,
         "question": "Angular acceleration is related to torque by:",
         "options": [
-            "$\\alpha = I/\\tau$",
-            "$\\alpha = \\tau/I$",
-            "$\\alpha = \\tau I$",
-            "$\\alpha = d\\tau/dt$"
+            "$\\\\alpha = I/\\tau$",
+            "$\\\\alpha = \\tau/I$",
+            "$\\\\alpha = \\tau I$",
+            "$\\\\alpha = d\\tau/dt$"
         ],
         "answer": 1,
-        "explanation": "From $\\tau = I\\alpha$."
+        "explanation": "From $\\tau = I\\\\alpha$."
     },
     {
         "id": 36,
@@ -453,7 +453,7 @@
             "radius only"
         ],
         "answer": 1,
-        "explanation": "Rotational KE is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational KE is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 39,
@@ -465,7 +465,7 @@
             "angular velocity"
         ],
         "answer": 2,
-        "explanation": "From $\\alpha = \\tau/I$."
+        "explanation": "From $\\\\alpha = \\tau/I$."
     },
     {
         "id": 40,
@@ -510,7 +510,7 @@
             "$\\tau = L$",
             "$\\tau = dL/dt$",
             "$\\tau = L/t$",
-            "$\\tau = L\\omega$"
+            "$\\tau = L\\\\omega$"
         ],
         "answer": 1,
         "explanation": "NCERT rotational dynamics relation."
@@ -549,7 +549,7 @@
             "line of motion passes through origin"
         ],
         "answer": 3,
-        "explanation": "If $\\vec r$ is parallel to $\\vec p$, $\\vec r \\times \\vec p = 0$."
+        "explanation": "If $\\\\vec r$ is parallel to $\\\\vec p$, $\\\\vec r \\times \\\\vec p = 0$."
     },
     {
         "id": 47,
@@ -615,10 +615,10 @@
         "id": 52,
         "question": "For a system of particles, the acceleration of the centre of mass is given by:",
         "options": [
-            "$\\sum \\vec F_{internal}/M$",
-            "$\\sum \\vec F_{external}/M$",
-            "$\\sum \\vec p/M$",
-            "$\\sum m_i \\vec a_i$"
+            "$\\\\sum \\\\vec F_{internal}/M$",
+            "$\\\\sum \\\\vec F_{external}/M$",
+            "$\\\\sum \\\\vec p/M$",
+            "$\\\\sum m_i \\\\vec a_i$"
         ],
         "answer": 1,
         "explanation": "NCERT: acceleration of centre of mass depends only on net external force."
@@ -729,7 +729,7 @@
             "moment of inertia and angular velocity"
         ],
         "answer": 3,
-        "explanation": "Rotational kinetic energy is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational kinetic energy is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 62,
@@ -737,11 +737,11 @@
         "options": [
             "velocity only",
             "position vector only",
-            "plane containing $\\vec r$ and $\\vec p$",
+            "plane containing $\\\\vec r$ and $\\\\vec p$",
             "axis of rotation always"
         ],
         "answer": 2,
-        "explanation": "Angular momentum is perpendicular to the plane of $\\vec r$ and $\\vec p$."
+        "explanation": "Angular momentum is perpendicular to the plane of $\\\\vec r$ and $\\\\vec p$."
     },
     {
         "id": 63,
@@ -765,7 +765,7 @@
             "radius of gyration"
         ],
         "answer": 2,
-        "explanation": "For fixed axis, $L = I\\omega$."
+        "explanation": "For fixed axis, $L = I\\\\omega$."
     },
     {
         "id": 65,
@@ -885,7 +885,7 @@
             "unchanged"
         ],
         "answer": 1,
-        "explanation": "Rotational KE varies as $\\omega^2$."
+        "explanation": "Rotational KE varies as $\\\\omega^2$."
     },
     {
         "id": 75,
@@ -933,7 +933,7 @@
             "moment of inertia"
         ],
         "answer": 2,
-        "explanation": "NCERT: $\\tau = d\\vec L/dt$."
+        "explanation": "NCERT: $\\tau = d\\\\vec L/dt$."
     },
     {
         "id": 79,
@@ -969,7 +969,7 @@
             "equal to moment of inertia"
         ],
         "answer": 2,
-        "explanation": "From $\\alpha = \\tau/I$."
+        "explanation": "From $\\\\alpha = \\tau/I$."
     },
     {
         "id": 82,
@@ -1029,7 +1029,7 @@
             "angular acceleration"
         ],
         "answer": 1,
-        "explanation": "NCERT: $\\vec P = M\\vec V_{cm}$."
+        "explanation": "NCERT: $\\\\vec P = M\\\\vec V_{cm}$."
     },
     {
         "id": 87,
@@ -1047,13 +1047,13 @@
         "id": 88,
         "question": "If a disc rolls without slipping, the angular speed is related to linear speed by:",
         "options": [
-            "$\\omega = v/r$",
-            "$\\omega = vr$",
-            "$\\omega = v/r^2$",
-            "$\\omega = r/v$"
+            "$\\\\omega = v/r$",
+            "$\\\\omega = vr$",
+            "$\\\\omega = v/r^2$",
+            "$\\\\omega = r/v$"
         ],
         "answer": 0,
-        "explanation": "From pure rolling condition $v = r\\omega$."
+        "explanation": "From pure rolling condition $v = r\\\\omega$."
     },
     {
         "id": 89,
@@ -1149,7 +1149,7 @@
             "moment of inertia and angular velocity"
         ],
         "answer": 3,
-        "explanation": "Angular momentum $L = I\\omega$."
+        "explanation": "Angular momentum $L = I\\\\omega$."
     },
     {
         "id": 97,
@@ -1169,8 +1169,8 @@
         "options": [
             "$\\tau/\\theta$",
             "$\\tau\\theta$",
-            "$\\tau\\omega$",
-            "$\\omega\\theta$"
+            "$\\tau\\\\omega$",
+            "$\\\\omega\\theta$"
         ],
         "answer": 1,
         "explanation": "Work done = torque × angular displacement."
@@ -1257,7 +1257,7 @@
             "towards the centre"
         ],
         "answer": 2,
-        "explanation": "Angular momentum is perpendicular to the plane of $\\vec r$ and $\\vec p$."
+        "explanation": "Angular momentum is perpendicular to the plane of $\\\\vec r$ and $\\\\vec p$."
     },
     {
         "id": 106,
@@ -1305,7 +1305,7 @@
             "mass is minimum"
         ],
         "answer": 1,
-        "explanation": "Rotational KE $=\\frac12 I\\omega^2$ increases with $I$."
+        "explanation": "Rotational KE $=\\frac12 I\\\\omega^2$ increases with $I$."
     },
     {
         "id": 110,
@@ -1335,10 +1335,10 @@
         "id": 112,
         "question": "The relation between torque and angular acceleration for a rigid body is:",
         "options": [
-            "$\\tau = I\\omega$",
-            "$\\tau = I\\alpha$",
-            "$\\tau = \\omega/\\alpha$",
-            "$\\tau = I/\\alpha$"
+            "$\\tau = I\\\\omega$",
+            "$\\tau = I\\\\alpha$",
+            "$\\tau = \\\\omega/\\\\alpha$",
+            "$\\tau = I/\\\\alpha$"
         ],
         "answer": 1,
         "explanation": "NCERT rotational form of Newton’s second law."
@@ -1401,7 +1401,7 @@
             "acceleration is zero"
         ],
         "answer": 2,
-        "explanation": "If $\\vec r$ is parallel to $\\vec p$, angular momentum is zero."
+        "explanation": "If $\\\\vec r$ is parallel to $\\\\vec p$, angular momentum is zero."
     },
     {
         "id": 118,
@@ -1485,7 +1485,7 @@
             "angular momentum is zero"
         ],
         "answer": 0,
-        "explanation": "Rotational KE $=\\frac12 I\\omega^2$ becomes zero when $\\omega=0$."
+        "explanation": "Rotational KE $=\\frac12 I\\\\omega^2$ becomes zero when $\\\\omega=0$."
     },
     {
         "id": 125,
@@ -1509,7 +1509,7 @@
             "radius of gyration only"
         ],
         "answer": 2,
-        "explanation": "For fixed axis, $L = I\\omega$."
+        "explanation": "For fixed axis, $L = I\\\\omega$."
     },
     {
         "id": 127,
@@ -1552,12 +1552,12 @@
         "question": "For a rolling disc, the speed of the centre of mass is:",
         "options": [
             "zero",
-            "$r\\omega$",
-            "$2r\\omega$",
-            "$\\omega/r$"
+            "$r\\\\omega$",
+            "$2r\\\\omega$",
+            "$\\\\omega/r$"
         ],
         "answer": 1,
-        "explanation": "For pure rolling, $v_{cm}=r\\omega$."
+        "explanation": "For pure rolling, $v_{cm}=r\\\\omega$."
     },
     {
         "id": 131,
@@ -1857,7 +1857,7 @@
             "angular acceleration"
         ],
         "answer": 1,
-        "explanation": "Linear velocity $v=\\omega r$ depends on distance from axis."
+        "explanation": "Linear velocity $v=\\\\omega r$ depends on distance from axis."
     },
     {
         "id": 156,
@@ -1873,15 +1873,15 @@
     },
     {
         "id": 157,
-        "question": "The angular momentum of a rigid body rotating with angular velocity $\\omega$ about a fixed axis is:",
+        "question": "The angular momentum of a rigid body rotating with angular velocity $\\\\omega$ about a fixed axis is:",
         "options": [
-            "$I\\alpha$",
-            "$I\\omega$",
+            "$I\\\\alpha$",
+            "$I\\\\omega$",
             "$\\tau t$",
-            "$mr^2\\omega$"
+            "$mr^2\\\\omega$"
         ],
         "answer": 1,
-        "explanation": "For fixed axis rotation, angular momentum is $L=I\\omega$."
+        "explanation": "For fixed axis rotation, angular momentum is $L=I\\\\omega$."
     },
     {
         "id": 158,
@@ -2017,12 +2017,12 @@
     },
     {
         "id": 169,
-        "question": "The rotational kinetic energy of a rigid body rotating with angular speed $\\omega$ is:",
+        "question": "The rotational kinetic energy of a rigid body rotating with angular speed $\\\\omega$ is:",
         "options": [
-            "$I\\omega$",
-            "$\\frac12 I\\omega$",
-            "$\\frac12 I\\omega^2$",
-            "$I\\omega^2$"
+            "$I\\\\omega$",
+            "$\\frac12 I\\\\omega$",
+            "$\\frac12 I\\\\omega^2$",
+            "$I\\\\omega^2$"
         ],
         "answer": 2,
         "explanation": "Standard NCERT formula for rotational kinetic energy."
@@ -2049,7 +2049,7 @@
             "angular momentum is zero"
         ],
         "answer": 1,
-        "explanation": "From $\\tau=I\\alpha$, zero torque implies zero angular acceleration."
+        "explanation": "From $\\tau=I\\\\alpha$, zero torque implies zero angular acceleration."
     },
     {
         "id": 172,
@@ -2061,7 +2061,7 @@
             "axis of rotation always"
         ],
         "answer": 2,
-        "explanation": "Angular momentum is perpendicular to plane containing $\\vec r$ and $\\vec p$."
+        "explanation": "Angular momentum is perpendicular to plane containing $\\\\vec r$ and $\\\\vec p$."
     },
     {
         "id": 173,
@@ -2081,11 +2081,11 @@
         "options": [
             "angular velocity is constant",
             "moment of inertia is constant",
-            "product $I\\omega$ is constant",
+            "product $I\\\\omega$ is constant",
             "angular acceleration is zero"
         ],
         "answer": 2,
-        "explanation": "Angular momentum conservation implies $I\\omega$ remains constant."
+        "explanation": "Angular momentum conservation implies $I\\\\omega$ remains constant."
     },
     {
         "id": 175,
@@ -2169,7 +2169,7 @@
             "axis of rotation"
         ],
         "answer": 2,
-        "explanation": "Torque is perpendicular to the plane of $\\vec r$ and $\\vec F$."
+        "explanation": "Torque is perpendicular to the plane of $\\\\vec r$ and $\\\\vec F$."
     },
     {
         "id": 182,
@@ -2193,7 +2193,7 @@
             "torque is zero"
         ],
         "answer": 0,
-        "explanation": "Angular momentum $L=r p \\sin\\theta$ increases with $r$."
+        "explanation": "Angular momentum $L=r p \\\\sin\\theta$ increases with $r$."
     },
     {
         "id": 184,
@@ -2217,7 +2217,7 @@
             "axis of rotation"
         ],
         "answer": 1,
-        "explanation": "Angular acceleration $\\alpha=\\tau/I$ does not depend on angular velocity."
+        "explanation": "Angular acceleration $\\\\alpha=\\tau/I$ does not depend on angular velocity."
     },
     {
         "id": 186,
@@ -2241,7 +2241,7 @@
             "torque only"
         ],
         "answer": 2,
-        "explanation": "Angular momentum $L=I\\omega$."
+        "explanation": "Angular momentum $L=I\\\\omega$."
     },
     {
         "id": 188,
@@ -2341,15 +2341,15 @@
     },
     {
         "id": 196,
-        "question": "The angular momentum of a particle is maximum when angle between $\\vec r$ and $\\vec p$ is:",
+        "question": "The angular momentum of a particle is maximum when angle between $\\\\vec r$ and $\\\\vec p$ is:",
         "options": [
-            "$0^\\circ$",
-            "$30^\\circ$",
-            "$60^\\circ$",
-            "$90^\\circ$"
+            "$0^\\\\circ$",
+            "$30^\\\\circ$",
+            "$60^\\\\circ$",
+            "$90^\\\\circ$"
         ],
         "answer": 3,
-        "explanation": "Angular momentum $L=r p \\sin\\theta$ is maximum at $90^\\circ$."
+        "explanation": "Angular momentum $L=r p \\\\sin\\theta$ is maximum at $90^\\\\circ$."
     },
     {
         "id": 197,
@@ -2373,7 +2373,7 @@
             "becomes zero"
         ],
         "answer": 1,
-        "explanation": "From $L=I\\omega$, increase in $I$ decreases $\\omega$."
+        "explanation": "From $L=I\\\\omega$, increase in $I$ decreases $\\\\omega$."
     },
     {
         "id": 199,
@@ -2451,10 +2451,10 @@
         "id": 205,
         "question": "The kinetic energy of a rigid body in plane motion can be written as:",
         "options": [
-            "$\\frac12 I\\omega^2$ only",
+            "$\\frac12 I\\\\omega^2$ only",
             "$\\frac12 Mv_{cm}^2$ only",
-            "$\\frac12 Mv_{cm}^2+\\frac12 I_{cm}\\omega^2$",
-            "$Mv_{cm}\\omega$"
+            "$\\frac12 Mv_{cm}^2+\\frac12 I_{cm}\\\\omega^2$",
+            "$Mv_{cm}\\\\omega$"
         ],
         "answer": 2,
         "explanation": "NCERT: total KE equals translational KE of COM plus rotational KE about COM."
@@ -2577,19 +2577,19 @@
             "depends on radius only"
         ],
         "answer": 1,
-        "explanation": "Rotational KE $=\\frac12 I\\omega^2$ increases with $I$."
+        "explanation": "Rotational KE $=\\frac12 I\\\\omega^2$ increases with $I$."
     },
     {
         "id": 216,
         "question": "The angular momentum of a rigid body about a fixed axis is equal to:",
         "options": [
-            "$\\sum m_i r_i v_i$",
-            "$\\sum m_i r_i^2 \\omega$",
-            "$I\\alpha$",
+            "$\\\\sum m_i r_i v_i$",
+            "$\\\\sum m_i r_i^2 \\\\omega$",
+            "$I\\\\alpha$",
             "$\\tau t$"
         ],
         "answer": 1,
-        "explanation": "For fixed axis, $L=\\sum m_i r_i^2\\omega=I\\omega$."
+        "explanation": "For fixed axis, $L=\\\\sum m_i r_i^2\\\\omega=I\\\\omega$."
     },
     {
         "id": 217,
@@ -2644,12 +2644,12 @@
         "question": "For a rolling body, the velocity of the centre of mass relative to ground is:",
         "options": [
             "zero",
-            "$r\\omega$",
-            "$2r\\omega$",
-            "$\\omega/r$"
+            "$r\\\\omega$",
+            "$2r\\\\omega$",
+            "$\\\\omega/r$"
         ],
         "answer": 1,
-        "explanation": "Pure rolling condition gives $v_{cm}=r\\omega$."
+        "explanation": "Pure rolling condition gives $v_{cm}=r\\\\omega$."
     },
     {
         "id": 222,
@@ -2661,7 +2661,7 @@
             "a curved path"
         ],
         "answer": 1,
-        "explanation": "If line of motion passes through the point, $\\vec r \\times \\vec p=0$."
+        "explanation": "If line of motion passes through the point, $\\\\vec r \\times \\\\vec p=0$."
     },
     {
         "id": 223,
@@ -2697,7 +2697,7 @@
             "radius"
         ],
         "answer": 1,
-        "explanation": "From $\\alpha=\\tau/I$, angular acceleration is proportional to torque."
+        "explanation": "From $\\\\alpha=\\tau/I$, angular acceleration is proportional to torque."
     },
     {
         "id": 226,
@@ -2763,13 +2763,13 @@
         "id": 231,
         "question": "The angular momentum of a particle about a point O is given by:",
         "options": [
-            "$\\vec p \\times \\vec r$",
-            "$\\vec r \\times \\vec p$",
-            "$m\\vec r \\cdot \\vec v$",
-            "$\\vec v \\times \\vec r$"
+            "$\\\\vec p \\times \\\\vec r$",
+            "$\\\\vec r \\times \\\\vec p$",
+            "$m\\\\vec r \\\\cdot \\\\vec v$",
+            "$\\\\vec v \\times \\\\vec r$"
         ],
         "answer": 1,
-        "explanation": "NCERT definition: $\\vec L=\\vec r\\times\\vec p$."
+        "explanation": "NCERT definition: $\\\\vec L=\\\\vec r\\times\\\\vec p$."
     },
     {
         "id": 232,
@@ -2805,7 +2805,7 @@
             "time"
         ],
         "answer": 1,
-        "explanation": "From $\\tau=I\\alpha$, torque is proportional to moment of inertia."
+        "explanation": "From $\\tau=I\\\\alpha$, torque is proportional to moment of inertia."
     },
     {
         "id": 235,
@@ -2913,7 +2913,7 @@
             "angular acceleration"
         ],
         "answer": 1,
-        "explanation": "NCERT: $\\vec P=M\\vec V_{cm}$."
+        "explanation": "NCERT: $\\\\vec P=M\\\\vec V_{cm}$."
     },
     {
         "id": 244,
@@ -2945,7 +2945,7 @@
         "options": [
             "$\\tau(\\theta_2-\\theta_1)$",
             "$\\tau/(\\theta_2-\\theta_1)$",
-            "$\\tau\\omega$",
+            "$\\tau\\\\omega$",
             "$I(\\theta_2-\\theta_1)$"
         ],
         "answer": 0,
@@ -3135,13 +3135,13 @@
         "id": 262,
         "question": "The angular momentum of a particle is given by:",
         "options": [
-            "$\\vec r \\cdot \\vec p$",
-            "$\\vec r \\times \\vec p$",
-            "$\\vec p / \\vec r$",
-            "$\\vec v \\times \\vec r$"
+            "$\\\\vec r \\\\cdot \\\\vec p$",
+            "$\\\\vec r \\times \\\\vec p$",
+            "$\\\\vec p / \\\\vec r$",
+            "$\\\\vec v \\times \\\\vec r$"
         ],
         "answer": 1,
-        "explanation": "Angular momentum is defined as $\\vec L = \\vec r \\times \\vec p$."
+        "explanation": "Angular momentum is defined as $\\\\vec L = \\\\vec r \\times \\\\vec p$."
     },
     {
         "id": 263,
@@ -3171,13 +3171,13 @@
         "id": 265,
         "question": "The rotational analogue of Newton’s second law is:",
         "options": [
-            "$\\tau = I\\omega$",
-            "$\\tau = I\\alpha$",
-            "$\\tau = \\omega/I$",
+            "$\\tau = I\\\\omega$",
+            "$\\tau = I\\\\alpha$",
+            "$\\tau = \\\\omega/I$",
             "$\\tau = dI/dt$"
         ],
         "answer": 1,
-        "explanation": "According to NCERT, $\\tau = I\\alpha$."
+        "explanation": "According to NCERT, $\\tau = I\\\\alpha$."
     },
     {
         "id": 266,
@@ -3185,7 +3185,7 @@
         "options": [
             "$\\tau/\\theta$",
             "$\\tau\\theta$",
-            "$\\tau\\omega$",
+            "$\\tau\\\\omega$",
             "$I\\theta$"
         ],
         "answer": 1,
@@ -3196,24 +3196,24 @@
         "question": "The rotational kinetic energy of a rigid body is:",
         "options": [
             "$\\frac12 mv^2$",
-            "$\\frac12 I\\omega^2$",
-            "$I\\omega$",
+            "$\\frac12 I\\\\omega^2$",
+            "$I\\\\omega$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational kinetic energy is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 268,
         "question": "A body rolling without slipping satisfies the condition:",
         "options": [
-            "$v = r\\omega$",
-            "$v = r^2\\omega$",
-            "$v = \\omega/r$",
-            "$v = 2r\\omega$"
+            "$v = r\\\\omega$",
+            "$v = r^2\\\\omega$",
+            "$v = \\\\omega/r$",
+            "$v = 2r\\\\omega$"
         ],
         "answer": 0,
-        "explanation": "For pure rolling, linear speed of centre of mass is $v = r\\omega$."
+        "explanation": "For pure rolling, linear speed of centre of mass is $v = r\\\\omega$."
     },
     {
         "id": 269,
@@ -3315,13 +3315,13 @@
         "id": 277,
         "question": "The angular momentum of a rigid body rotating about a fixed axis is:",
         "options": [
-            "$I\\alpha$",
-            "$I\\omega$",
+            "$I\\\\alpha$",
+            "$I\\\\omega$",
             "$\\tau t$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "For fixed axis rotation, angular momentum is $L = I\\omega$."
+        "explanation": "For fixed axis rotation, angular momentum is $L = I\\\\omega$."
     },
     {
         "id": 278,
@@ -3357,7 +3357,7 @@
             "force is zero"
         ],
         "answer": 1,
-        "explanation": "If line of motion passes through the origin, $\\vec r \\times \\vec p = 0$."
+        "explanation": "If line of motion passes through the origin, $\\\\vec r \\times \\\\vec p = 0$."
     },
     {
         "id": 281,
@@ -3393,7 +3393,7 @@
             "mass"
         ],
         "answer": 1,
-        "explanation": "From $\\alpha = \\tau/I$, angular acceleration is inversely proportional to $I$."
+        "explanation": "From $\\\\alpha = \\tau/I$, angular acceleration is inversely proportional to $I$."
     },
     {
         "id": 284,
@@ -3429,7 +3429,7 @@
             "unchanged"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is proportional to $\\omega^2$."
+        "explanation": "Rotational kinetic energy is proportional to $\\\\omega^2$."
     },
     {
         "id": 287,
@@ -3465,7 +3465,7 @@
             "product of torque and time"
         ],
         "answer": 1,
-        "explanation": "NCERT: $\\vec P = M\\vec V_{cm}$."
+        "explanation": "NCERT: $\\\\vec P = M\\\\vec V_{cm}$."
     },
     {
         "id": 290,
@@ -3615,10 +3615,10 @@
         "id": 302,
         "question": "For a system of particles, the velocity of centre of mass is given by:",
         "options": [
-            "$\\sum \\vec v_i / n$",
-            "$\\sum m_i \\vec v_i / \\sum m_i$",
-            "$\\sum \\vec p_i$",
-            "$\\sum \\vec a_i$"
+            "$\\\\sum \\\\vec v_i / n$",
+            "$\\\\sum m_i \\\\vec v_i / \\\\sum m_i$",
+            "$\\\\sum \\\\vec p_i$",
+            "$\\\\sum \\\\vec a_i$"
         ],
         "answer": 1,
         "explanation": "Velocity of centre of mass is mass-weighted average of velocities."
@@ -3651,10 +3651,10 @@
         "id": 305,
         "question": "The acceleration of centre of mass of a system is given by:",
         "options": [
-            "$\\sum \\vec F_{internal} / M$",
-            "$\\sum \\vec F_{external} / M$",
-            "$\\sum m_i \\vec a_i$",
-            "$\\sum \\vec v_i$"
+            "$\\\\sum \\\\vec F_{internal} / M$",
+            "$\\\\sum \\\\vec F_{external} / M$",
+            "$\\\\sum m_i \\\\vec a_i$",
+            "$\\\\sum \\\\vec v_i$"
         ],
         "answer": 1,
         "explanation": "NCERT: acceleration of COM depends only on net external force."
@@ -3681,19 +3681,19 @@
             "moment of inertia"
         ],
         "answer": 1,
-        "explanation": "Tangential acceleration $a_t = r\\alpha$."
+        "explanation": "Tangential acceleration $a_t = r\\\\alpha$."
     },
     {
         "id": 308,
         "question": "The centripetal acceleration of a particle in rotational motion is proportional to:",
         "options": [
-            "$r\\omega$",
-            "$r\\alpha$",
-            "$r\\omega^2$",
-            "$\\omega^2/r$"
+            "$r\\\\omega$",
+            "$r\\\\alpha$",
+            "$r\\\\omega^2$",
+            "$\\\\omega^2/r$"
         ],
         "answer": 2,
-        "explanation": "Centripetal acceleration $a_c = r\\omega^2$."
+        "explanation": "Centripetal acceleration $a_c = r\\\\omega^2$."
     },
     {
         "id": 309,
@@ -3725,11 +3725,11 @@
         "options": [
             "velocity is maximum",
             "radius is maximum",
-            "angle between $\\vec r$ and $\\vec p$ is $90^\\circ$",
+            "angle between $\\\\vec r$ and $\\\\vec p$ is $90^\\\\circ$",
             "acceleration is zero"
         ],
         "answer": 2,
-        "explanation": "Angular momentum $L = r p \\sin\\theta$ is maximum at $\\theta = 90^\\circ$."
+        "explanation": "Angular momentum $L = r p \\\\sin\\theta$ is maximum at $\\theta = 90^\\\\circ$."
     },
     {
         "id": 312,
@@ -3777,7 +3777,7 @@
             "torque"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational kinetic energy is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 316,
@@ -3873,19 +3873,19 @@
             "force is zero"
         ],
         "answer": 2,
-        "explanation": "If $\\vec r$ is parallel to $\\vec p$, then $\\vec r \\times \\vec p = 0$."
+        "explanation": "If $\\\\vec r$ is parallel to $\\\\vec p$, then $\\\\vec r \\times \\\\vec p = 0$."
     },
     {
         "id": 324,
         "question": "The angular momentum of a rigid body about a fixed axis is equal to:",
         "options": [
-            "$I\\alpha$",
-            "$I\\omega$",
+            "$I\\\\alpha$",
+            "$I\\\\omega$",
             "$\\tau t$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "For fixed axis rotation, $L = I\\omega$."
+        "explanation": "For fixed axis rotation, $L = I\\\\omega$."
     },
     {
         "id": 325,
@@ -4005,7 +4005,7 @@
             "angular momentum is zero"
         ],
         "answer": 1,
-        "explanation": "From $\\tau = I\\alpha$, zero torque gives zero angular acceleration."
+        "explanation": "From $\\tau = I\\\\alpha$, zero torque gives zero angular acceleration."
     },
     {
         "id": 335,
@@ -4113,7 +4113,7 @@
             "force only"
         ],
         "answer": 2,
-        "explanation": "Angular momentum $\\vec L = \\vec r \\times \\vec p$."
+        "explanation": "Angular momentum $\\\\vec L = \\\\vec r \\times \\\\vec p$."
     },
     {
         "id": 344,
@@ -4149,7 +4149,7 @@
             "torque only"
         ],
         "answer": 2,
-        "explanation": "Angular momentum $L = I\\omega$."
+        "explanation": "Angular momentum $L = I\\\\omega$."
     },
     {
         "id": 347,
@@ -4261,15 +4261,15 @@
     },
     {
         "id": 356,
-        "question": "The relation between linear speed v and angular speed $\\omega$ is:",
+        "question": "The relation between linear speed v and angular speed $\\\\omega$ is:",
         "options": [
-            "$v = r/\\omega$",
-            "$v = \\omega r$",
-            "$v = \\omega/r$",
-            "$v = r^2\\omega$"
+            "$v = r/\\\\omega$",
+            "$v = \\\\omega r$",
+            "$v = \\\\omega/r$",
+            "$v = r^2\\\\omega$"
         ],
         "answer": 1,
-        "explanation": "Linear speed in rotational motion is given by $v = \\omega r$."
+        "explanation": "Linear speed in rotational motion is given by $v = \\\\omega r$."
     },
     {
         "id": 357,
@@ -4335,13 +4335,13 @@
         "id": 362,
         "question": "The angular momentum of a particle is defined as:",
         "options": [
-            "$\\vec p \\cdot \\vec r$",
-            "$\\vec r \\times \\vec p$",
-            "$\\vec v \\times \\vec r$",
+            "$\\\\vec p \\\\cdot \\\\vec r$",
+            "$\\\\vec r \\times \\\\vec p$",
+            "$\\\\vec v \\times \\\\vec r$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "Angular momentum is given by $\\vec L = \\vec r \\times \\vec p$."
+        "explanation": "Angular momentum is given by $\\\\vec L = \\\\vec r \\times \\\\vec p$."
     },
     {
         "id": 363,
@@ -4371,13 +4371,13 @@
         "id": 365,
         "question": "The rotational analogue of Newton’s second law is:",
         "options": [
-            "$\\tau = I\\omega$",
-            "$\\tau = I\\alpha$",
-            "$\\tau = \\omega/I$",
+            "$\\tau = I\\\\omega$",
+            "$\\tau = I\\\\alpha$",
+            "$\\tau = \\\\omega/I$",
             "$\\tau = dI/dt$"
         ],
         "answer": 1,
-        "explanation": "According to NCERT, $\\tau = I\\alpha$."
+        "explanation": "According to NCERT, $\\tau = I\\\\alpha$."
     },
     {
         "id": 366,
@@ -4385,7 +4385,7 @@
         "options": [
             "$\\tau/\\theta$",
             "$\\tau\\theta$",
-            "$\\tau\\omega$",
+            "$\\tau\\\\omega$",
             "$I\\theta$"
         ],
         "answer": 1,
@@ -4396,24 +4396,24 @@
         "question": "The rotational kinetic energy of a rigid body is given by:",
         "options": [
             "$\\frac12 mv^2$",
-            "$\\frac12 I\\omega^2$",
-            "$I\\omega$",
+            "$\\frac12 I\\\\omega^2$",
+            "$I\\\\omega$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy equals $\\frac12 I\\omega^2$."
+        "explanation": "Rotational kinetic energy equals $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 368,
         "question": "For pure rolling motion, the velocity of centre of mass is:",
         "options": [
-            "$r\\omega$",
-            "$2r\\omega$",
-            "$\\omega/r$",
+            "$r\\\\omega$",
+            "$2r\\\\omega$",
+            "$\\\\omega/r$",
             "zero"
         ],
         "answer": 0,
-        "explanation": "Pure rolling condition is $v = r\\omega$."
+        "explanation": "Pure rolling condition is $v = r\\\\omega$."
     },
     {
         "id": 369,
@@ -4515,13 +4515,13 @@
         "id": 377,
         "question": "The angular momentum of a rigid body rotating about a fixed axis is:",
         "options": [
-            "$I\\alpha$",
-            "$I\\omega$",
+            "$I\\\\alpha$",
+            "$I\\\\omega$",
             "$\\tau t$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "For fixed axis rotation, angular momentum is $L = I\\omega$."
+        "explanation": "For fixed axis rotation, angular momentum is $L = I\\\\omega$."
     },
     {
         "id": 378,
@@ -4557,7 +4557,7 @@
             "force is zero"
         ],
         "answer": 2,
-        "explanation": "If the line of motion passes through origin, $\\vec r \\times \\vec p = 0$."
+        "explanation": "If the line of motion passes through origin, $\\\\vec r \\times \\\\vec p = 0$."
     },
     {
         "id": 381,
@@ -4593,7 +4593,7 @@
             "mass"
         ],
         "answer": 1,
-        "explanation": "From $\\alpha = \\tau/I$, angular acceleration is inversely proportional to moment of inertia."
+        "explanation": "From $\\\\alpha = \\tau/I$, angular acceleration is inversely proportional to moment of inertia."
     },
     {
         "id": 384,
@@ -4629,7 +4629,7 @@
             "unchanged"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is proportional to $\\omega^2$."
+        "explanation": "Rotational kinetic energy is proportional to $\\\\omega^2$."
     },
     {
         "id": 387,
@@ -4839,10 +4839,10 @@
         "id": 404,
         "question": "For a system of particles, the acceleration of the centre of mass is given by:",
         "options": [
-            "$\\sum \\vec F_{internal}/M$",
-            "$\\sum \\vec F_{external}/M$",
-            "$\\sum m_i \\vec a_i$",
-            "$\\sum \\vec v_i/M$"
+            "$\\\\sum \\\\vec F_{internal}/M$",
+            "$\\\\sum \\\\vec F_{external}/M$",
+            "$\\\\sum m_i \\\\vec a_i$",
+            "$\\\\sum \\\\vec v_i/M$"
         ],
         "answer": 1,
         "explanation": "Acceleration of centre of mass depends only on net external force."
@@ -4875,13 +4875,13 @@
         "id": 407,
         "question": "The linear speed of a particle in rotational motion is given by:",
         "options": [
-            "$v = \\omega/r$",
-            "$v = r\\omega$",
-            "$v = r^2\\omega$",
-            "$v = \\omega r^2$"
+            "$v = \\\\omega/r$",
+            "$v = r\\\\omega$",
+            "$v = r^2\\\\omega$",
+            "$v = \\\\omega r^2$"
         ],
         "answer": 1,
-        "explanation": "Linear speed in rotation is $v = r\\omega$."
+        "explanation": "Linear speed in rotation is $v = r\\\\omega$."
     },
     {
         "id": 408,
@@ -4959,13 +4959,13 @@
         "id": 414,
         "question": "The angular momentum of a particle about a point is given by:",
         "options": [
-            "$\\vec p \\cdot \\vec r$",
-            "$\\vec r \\times \\vec p$",
-            "$\\vec v \\times \\vec r$",
+            "$\\\\vec p \\\\cdot \\\\vec r$",
+            "$\\\\vec r \\times \\\\vec p$",
+            "$\\\\vec v \\times \\\\vec r$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "Angular momentum is defined as $\\vec L = \\vec r \\times \\vec p$."
+        "explanation": "Angular momentum is defined as $\\\\vec L = \\\\vec r \\times \\\\vec p$."
     },
     {
         "id": 415,
@@ -4995,13 +4995,13 @@
         "id": 417,
         "question": "The rotational analogue of Newton’s second law is:",
         "options": [
-            "$\\tau = I\\omega$",
-            "$\\tau = I\\alpha$",
-            "$\\tau = \\omega/I$",
+            "$\\tau = I\\\\omega$",
+            "$\\tau = I\\\\alpha$",
+            "$\\tau = \\\\omega/I$",
             "$\\tau = dI/dt$"
         ],
         "answer": 1,
-        "explanation": "Rotational form of Newton’s second law is $\\tau = I\\alpha$."
+        "explanation": "Rotational form of Newton’s second law is $\\tau = I\\\\alpha$."
     },
     {
         "id": 418,
@@ -5009,7 +5009,7 @@
         "options": [
             "$\\tau/\\theta$",
             "$\\tau\\theta$",
-            "$\\tau\\omega$",
+            "$\\tau\\\\omega$",
             "$I\\theta$"
         ],
         "answer": 1,
@@ -5020,24 +5020,24 @@
         "question": "The rotational kinetic energy of a rigid body is given by:",
         "options": [
             "$\\frac12 mv^2$",
-            "$\\frac12 I\\omega^2$",
-            "$I\\omega$",
+            "$\\frac12 I\\\\omega^2$",
+            "$I\\\\omega$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational kinetic energy is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 420,
         "question": "For pure rolling without slipping, the relation between linear speed and angular speed is:",
         "options": [
-            "$v = r\\omega$",
-            "$v = 2r\\omega$",
-            "$v = \\omega/r$",
-            "$v = r^2\\omega$"
+            "$v = r\\\\omega$",
+            "$v = 2r\\\\omega$",
+            "$v = \\\\omega/r$",
+            "$v = r^2\\\\omega$"
         ],
         "answer": 0,
-        "explanation": "Pure rolling condition is $v = r\\omega$."
+        "explanation": "Pure rolling condition is $v = r\\\\omega$."
     },
     {
         "id": 421,
@@ -5139,13 +5139,13 @@
         "id": 429,
         "question": "The angular momentum of a rigid body rotating about a fixed axis is:",
         "options": [
-            "$I\\alpha$",
-            "$I\\omega$",
+            "$I\\\\alpha$",
+            "$I\\\\omega$",
             "$\\tau t$",
             "$mvr$"
         ],
         "answer": 1,
-        "explanation": "For fixed axis rotation, angular momentum is $L = I\\omega$."
+        "explanation": "For fixed axis rotation, angular momentum is $L = I\\\\omega$."
     },
     {
         "id": 430,
@@ -5181,7 +5181,7 @@
             "force is zero"
         ],
         "answer": 2,
-        "explanation": "If the line of motion passes through the origin, $\\vec r \\times \\vec p = 0$."
+        "explanation": "If the line of motion passes through the origin, $\\\\vec r \\times \\\\vec p = 0$."
     },
     {
         "id": 433,
@@ -5217,7 +5217,7 @@
             "mass"
         ],
         "answer": 1,
-        "explanation": "From $\\alpha = \\tau/I$, angular acceleration is inversely proportional to $I$."
+        "explanation": "From $\\\\alpha = \\tau/I$, angular acceleration is inversely proportional to $I$."
     },
     {
         "id": 436,
@@ -5253,7 +5253,7 @@
             "unchanged"
         ],
         "answer": 1,
-        "explanation": "Rotational kinetic energy is proportional to $\\omega^2$."
+        "explanation": "Rotational kinetic energy is proportional to $\\\\omega^2$."
     },
     {
         "id": 439,
@@ -5413,11 +5413,11 @@
     },
     {
         "id": 452,
-        "question": "If the origin is shifted by a vector $\\vec a$, the position vector of centre of mass changes by:",
+        "question": "If the origin is shifted by a vector $\\\\vec a$, the position vector of centre of mass changes by:",
         "options": [
-            "$-\\vec a$",
-            "$\\vec a$",
-            "$2\\vec a$",
+            "$-\\\\vec a$",
+            "$\\\\vec a$",
+            "$2\\\\vec a$",
             "zero"
         ],
         "answer": 1,
@@ -5437,7 +5437,7 @@
     },
     {
         "id": 454,
-        "question": "For a system of particles, $M\\vec a_{cm}=\\sum \\vec F_{ext}$ implies that internal forces:",
+        "question": "For a system of particles, $M\\\\vec a_{cm}=\\\\sum \\\\vec F_{ext}$ implies that internal forces:",
         "options": [
             "add up to zero",
             "produce torque only",
@@ -5481,7 +5481,7 @@
             "moment of inertia is zero"
         ],
         "answer": 1,
-        "explanation": "Tangential acceleration $a_t=r\\alpha$ is zero when $\\alpha=0$."
+        "explanation": "Tangential acceleration $a_t=r\\\\alpha$ is zero when $\\\\alpha=0$."
     },
     {
         "id": 458,
@@ -5493,7 +5493,7 @@
             "torque"
         ],
         "answer": 1,
-        "explanation": "Centripetal acceleration is $a_c=r\\omega^2$."
+        "explanation": "Centripetal acceleration is $a_c=r\\\\omega^2$."
     },
     {
         "id": 459,
@@ -5529,7 +5529,7 @@
             "the force on it is zero"
         ],
         "answer": 2,
-        "explanation": "If $\\vec r$ is parallel to $\\vec p$, $\\vec r\\times\\vec p=0$."
+        "explanation": "If $\\\\vec r$ is parallel to $\\\\vec p$, $\\\\vec r\\times\\\\vec p=0$."
     },
     {
         "id": 462,
@@ -5559,10 +5559,10 @@
         "id": 464,
         "question": "For a rigid body, the kinetic energy in plane motion is:",
         "options": [
-            "$\\frac12 I\\omega^2$",
+            "$\\frac12 I\\\\omega^2$",
             "$\\frac12 Mv_{cm}^2$",
-            "$\\frac12 Mv_{cm}^2+\\frac12 I_{cm}\\omega^2$",
-            "$Mv_{cm}\\omega$"
+            "$\\frac12 Mv_{cm}^2+\\frac12 I_{cm}\\\\omega^2$",
+            "$Mv_{cm}\\\\omega$"
         ],
         "answer": 2,
         "explanation": "NCERT expression for kinetic energy in plane motion."
@@ -5633,11 +5633,11 @@
         "options": [
             "$I$",
             "$1/I$",
-            "$\\omega$",
-            "$\\omega^2$"
+            "$\\\\omega$",
+            "$\\\\omega^2$"
         ],
         "answer": 1,
-        "explanation": "For fixed $L$, $K=L^2/(2I)$, hence $K\\propto 1/I$."
+        "explanation": "For fixed $L$, $K=L^2/(2I)$, hence $K\\\\propto 1/I$."
     },
     {
         "id": 471,
@@ -5649,7 +5649,7 @@
             "time"
         ],
         "answer": 1,
-        "explanation": "From $\\tau=I\\alpha$, torque is proportional to $I$."
+        "explanation": "From $\\tau=I\\\\alpha$, torque is proportional to $I$."
     },
     {
         "id": 472,
@@ -5693,11 +5693,11 @@
         "options": [
             "velocity only",
             "radius vector only",
-            "plane containing $\\vec r$ and $\\vec p$",
+            "plane containing $\\\\vec r$ and $\\\\vec p$",
             "axis of rotation always"
         ],
         "answer": 2,
-        "explanation": "Angular momentum is perpendicular to the plane of $\\vec r$ and $\\vec p$."
+        "explanation": "Angular momentum is perpendicular to the plane of $\\\\vec r$ and $\\\\vec p$."
     },
     {
         "id": 476,
@@ -5745,7 +5745,7 @@
             "torque"
         ],
         "answer": 1,
-        "explanation": "Rotational KE is $\\frac12 I\\omega^2$."
+        "explanation": "Rotational KE is $\\frac12 I\\\\omega^2$."
     },
     {
         "id": 480,
@@ -5781,7 +5781,7 @@
             "unchanged"
         ],
         "answer": 1,
-        "explanation": "From $\\alpha=\\tau/I$, doubling $I$ halves $\\alpha$."
+        "explanation": "From $\\\\alpha=\\tau/I$, doubling $I$ halves $\\\\alpha$."
     },
     {
         "id": 483,
@@ -5793,7 +5793,7 @@
             "angular acceleration"
         ],
         "answer": 1,
-        "explanation": "NCERT relation: $\\vec P=M\\vec V_{cm}$."
+        "explanation": "NCERT relation: $\\\\vec P=M\\\\vec V_{cm}$."
     },
     {
         "id": 484,
@@ -5889,7 +5889,7 @@
             "sum of their angular momenta"
         ],
         "answer": 2,
-        "explanation": "Moment of inertia is defined as $\\sum m_ir_i^2$."
+        "explanation": "Moment of inertia is defined as $\\\\sum m_ir_i^2$."
     },
     {
         "id": 492,
@@ -5921,11 +5921,11 @@
         "options": [
             "force vector",
             "radius vector",
-            "plane containing $\\vec r$ and $\\vec F$",
+            "plane containing $\\\\vec r$ and $\\\\vec F$",
             "axis of rotation"
         ],
         "answer": 2,
-        "explanation": "Torque is perpendicular to the plane of $\\vec r$ and $\\vec F$."
+        "explanation": "Torque is perpendicular to the plane of $\\\\vec r$ and $\\\\vec F$."
     },
     {
         "id": 495,
@@ -5937,7 +5937,7 @@
             "mass"
         ],
         "answer": 1,
-        "explanation": "From $\\alpha=\\tau/I$, $\\alpha$ is inversely proportional to $I$."
+        "explanation": "From $\\\\alpha=\\tau/I$, $\\\\alpha$ is inversely proportional to $I$."
     },
     {
         "id": 496,
@@ -5969,11 +5969,11 @@
         "options": [
             "$\\tau$ versus $t$",
             "$\\tau$ versus $\\theta$",
-            "$\\omega$ versus $t$",
-            "$\\alpha$ versus $t$"
+            "$\\\\omega$ versus $t$",
+            "$\\\\alpha$ versus $t$"
         ],
         "answer": 1,
-        "explanation": "Work done equals $\\int \\tau \\, d\\theta$."
+        "explanation": "Work done equals $\\\\int \\tau \\\\, d\\theta$."
     },
     {
         "id": 499,

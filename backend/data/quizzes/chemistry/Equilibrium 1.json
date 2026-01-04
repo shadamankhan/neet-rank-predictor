@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "question": "For the reaction $\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$, the equilibrium constant $K_p$ is related to $K_c$ by:",
+        "question": "For the reaction $\\\\mathrm{N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)}$, the equilibrium constant $K_p$ is related to $K_c$ by:",
         "options": [
             "$K_p = K_c(RT)^2$",
             "$K_p = K_c(RT)^{-2}$",
@@ -25,7 +25,7 @@
     },
     {
         "id": 3,
-        "question": "For the reaction $\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}$, decreasing the volume at constant temperature will:",
+        "question": "For the reaction $\\\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}$, decreasing the volume at constant temperature will:",
         "options": [
             "Shift equilibrium to the left",
             "Shift equilibrium to the right",
@@ -49,7 +49,7 @@
     },
     {
         "id": 5,
-        "question": "For the reaction $\\mathrm{A \\rightleftharpoons B}$, if $K = 1$, then:",
+        "question": "For the reaction $\\\\mathrm{A \\rightleftharpoons B}$, if $K = 1$, then:",
         "options": [
             "Reaction is complete",
             "Only reactants are present",
@@ -57,7 +57,7 @@
             "ΔG < 0"
         ],
         "answer": 2,
-        "explanation": "$ΔG° = -RT\\ln K$. For $K=1$, $ΔG° = 0$."
+        "explanation": "$ΔG° = -RT\\\\ln K$. For $K=1$, $ΔG° = 0$."
     },
     {
         "id": 6,
@@ -121,7 +121,7 @@
     },
     {
         "id": 11,
-        "question": "For the reaction $\\mathrm{2A \\rightleftharpoons B}$, if the concentration of A is doubled, equilibrium will shift:",
+        "question": "For the reaction $\\\\mathrm{2A \\rightleftharpoons B}$, if the concentration of A is doubled, equilibrium will shift:",
         "options": [
             "To the left",
             "To the right",
@@ -133,7 +133,7 @@
     },
     {
         "id": 12,
-        "question": "Which of the following expressions is correct for $K_c$ of $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$?",
+        "question": "Which of the following expressions is correct for $K_c$ of $\\\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$?",
         "options": [
             "$[NO_2]^2/[N_2O_4]$",
             "$[N_2O_4]/[NO_2]^2$",
@@ -169,7 +169,7 @@
     },
     {
         "id": 15,
-        "question": "If $K_p = K_c(RT)^{Δn}$, what is $Δn$ for $\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}$?",
+        "question": "If $K_p = K_c(RT)^{Δn}$, what is $Δn$ for $\\\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g) + Cl_2(g)}$?",
         "options": [
             "+1",
             "-1",
@@ -183,10 +183,10 @@
         "id": 16,
         "question": "For which reaction does pressure have no effect on equilibrium?",
         "options": [
-            "$\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$",
-            "$\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
-            "$\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$",
-            "$\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}$"
+            "$\\\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$",
+            "$\\\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
+            "$\\\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$",
+            "$\\\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}$"
         ],
         "answer": 1,
         "explanation": "Equal moles of gases on both sides (Δn = 0)."
@@ -217,7 +217,7 @@
     },
     {
         "id": 19,
-        "question": "For the reaction $\\mathrm{CO(g) + H_2O(g) \\rightleftharpoons CO_2(g) + H_2(g)}$, $Δn$ is:",
+        "question": "For the reaction $\\\\mathrm{CO(g) + H_2O(g) \\rightleftharpoons CO_2(g) + H_2(g)}$, $Δn$ is:",
         "options": [
             "+1",
             "-1",
@@ -285,7 +285,7 @@
             "Cannot be determined"
         ],
         "answer": 1,
-        "explanation": "$ΔG° = -RT\\ln K$; for $K<1$, $ΔG° > 0$."
+        "explanation": "$ΔG° = -RT\\\\ln K$; for $K<1$, $ΔG° > 0$."
     },
     {
         "id": 25,
@@ -303,17 +303,17 @@
         "id": 26,
         "question": "For which reaction will increase in pressure favor products?",
         "options": [
-            "$\\mathrm{N_2 + O_2 \\rightleftharpoons 2NO}$",
-            "$\\mathrm{2NO_2 \\rightleftharpoons N_2O_4}$",
-            "$\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
-            "$\\mathrm{CO + H_2 \\rightleftharpoons CH_3OH}$"
+            "$\\\\mathrm{N_2 + O_2 \\rightleftharpoons 2NO}$",
+            "$\\\\mathrm{2NO_2 \\rightleftharpoons N_2O_4}$",
+            "$\\\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
+            "$\\\\mathrm{CO + H_2 \\rightleftharpoons CH_3OH}$"
         ],
         "answer": 1,
         "explanation": "Products have fewer moles of gas."
     },
     {
         "id": 27,
-        "question": "Which condition favors dissociation of $\\mathrm{N_2O_4}$ into $\\mathrm{NO_2}$?",
+        "question": "Which condition favors dissociation of $\\\\mathrm{N_2O_4}$ into $\\\\mathrm{NO_2}$?",
         "options": [
             "High pressure",
             "Low temperature",
@@ -340,7 +340,7 @@
         "question": "If the coefficients of a balanced equation are doubled, the new equilibrium constant becomes:",
         "options": [
             "$K^2$",
-            "$\\sqrt{K}$",
+            "$\\\\sqrt{K}$",
             "$1/K$",
             "Unchanged"
         ],
@@ -411,10 +411,10 @@
         "id": 35,
         "question": "For which reaction is $K_p = K_c$?",
         "options": [
-            "$\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$",
-            "$\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
-            "$\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$",
-            "$\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}$"
+            "$\\\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$",
+            "$\\\\mathrm{H_2 + I_2 \\rightleftharpoons 2HI}$",
+            "$\\\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$",
+            "$\\\\mathrm{N_2O_4 \\rightleftharpoons 2NO_2}$"
         ],
         "answer": 1,
         "explanation": "Δn = 0, so $K_p = K_c$."
@@ -433,7 +433,7 @@
     },
     {
         "id": 37,
-        "question": "For reaction $\\mathrm{A + B \\rightleftharpoons C}$, if $K_c = 4$, which statement is correct?",
+        "question": "For reaction $\\\\mathrm{A + B \\rightleftharpoons C}$, if $K_c = 4$, which statement is correct?",
         "options": [
             "Reaction is incomplete",
             "Products favored",
@@ -469,7 +469,7 @@
     },
     {
         "id": 40,
-        "question": "For equilibrium $\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)}$, $K_p$ depends on:",
+        "question": "For equilibrium $\\\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)}$, $K_p$ depends on:",
         "options": [
             "Amount of CaCO3",
             "Amount of CaO",
@@ -481,7 +481,7 @@
     },
     {
         "id": 41,
-        "question": "For the reaction $\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}$, initially 1 mol each of $H_2$ and $I_2$ are taken in a 1 L vessel. If at equilibrium 0.2 mol of $H_2$ remains, the equilibrium constant $K_c$ is:",
+        "question": "For the reaction $\\\\mathrm{H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)}$, initially 1 mol each of $H_2$ and $I_2$ are taken in a 1 L vessel. If at equilibrium 0.2 mol of $H_2$ remains, the equilibrium constant $K_c$ is:",
         "options": [
             "16",
             "25",
@@ -493,7 +493,7 @@
     },
     {
         "id": 42,
-        "question": "For a reaction $\\mathrm{A \\rightleftharpoons B}$, $ΔG° = +5.7\\,\\text{kJ mol}^{-1}$ at 300 K. The value of equilibrium constant is approximately:",
+        "question": "For a reaction $\\\\mathrm{A \\rightleftharpoons B}$, $ΔG° = +5.7\\\\,\\text{kJ mol}^{-1}$ at 300 K. The value of equilibrium constant is approximately:",
         "options": [
             "0.1",
             "1",
@@ -505,12 +505,12 @@
     },
     {
         "id": 43,
-        "question": "For the reaction $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, if degree of dissociation of $N_2O_4$ is $α$, the equilibrium constant $K_p$ is:",
+        "question": "For the reaction $\\\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, if degree of dissociation of $N_2O_4$ is $α$, the equilibrium constant $K_p$ is:",
         "options": [
-            "$\\dfrac{1-α}{4α^2}P$",
-            "$\\dfrac{α^2}{(1-α)P}$",
-            "$\\dfrac{4α^2}{(1-α)P}$",
-            "$\\dfrac{(1-α)P}{α^2}$"
+            "$\\\\dfrac{1-α}{4α^2}P$",
+            "$\\\\dfrac{α^2}{(1-α)P}$",
+            "$\\\\dfrac{4α^2}{(1-α)P}$",
+            "$\\\\dfrac{(1-α)P}{α^2}$"
         ],
         "answer": 2,
         "explanation": "$K_p=\\frac{P_{NO_2}^2}{P_{N_2O_4}}=\\frac{(2αP/(1+α))^2}{(1-α)P/(1+α)}=\\frac{4α^2}{(1-α)P}$."
@@ -529,7 +529,7 @@
     },
     {
         "id": 45,
-        "question": "For the reaction $\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$, which change will increase equilibrium yield of ammonia?",
+        "question": "For the reaction $\\\\mathrm{N_2 + 3H_2 \\rightleftharpoons 2NH_3}$, which change will increase equilibrium yield of ammonia?",
         "options": [
             "Increase temperature",
             "Decrease pressure",
@@ -541,7 +541,7 @@
     },
     {
         "id": 46,
-        "question": "If $K_c=4$ for $\\mathrm{A+B \\rightleftharpoons C}$ and initial concentrations of A and B are 1 M each, the equilibrium concentration of C is:",
+        "question": "If $K_c=4$ for $\\\\mathrm{A+B \\rightleftharpoons C}$ and initial concentrations of A and B are 1 M each, the equilibrium concentration of C is:",
         "options": [
             "0.5 M",
             "0.67 M",
@@ -565,7 +565,7 @@
     },
     {
         "id": 48,
-        "question": "Which condition favors maximum dissociation of $\\mathrm{PCl_5(g)}$ into $\\mathrm{PCl_3(g)}$ and $\\mathrm{Cl_2(g)}$?",
+        "question": "Which condition favors maximum dissociation of $\\\\mathrm{PCl_5(g)}$ into $\\\\mathrm{PCl_3(g)}$ and $\\\\mathrm{Cl_2(g)}$?",
         "options": [
             "High pressure, low temperature",
             "Low pressure, high temperature",
@@ -589,7 +589,7 @@
     },
     {
         "id": 50,
-        "question": "For reaction $\\mathrm{2A \\rightleftharpoons B}$, if $K_c=1/4$, the reaction is:",
+        "question": "For reaction $\\\\mathrm{2A \\rightleftharpoons B}$, if $K_c=1/4$, the reaction is:",
         "options": [
             "Product favored",
             "Reactant favored",
@@ -613,7 +613,7 @@
     },
     {
         "id": 52,
-        "question": "For the equilibrium $\\mathrm{CO + 3H_2 \\rightleftharpoons CH_4 + H_2O}$, increasing pressure will:",
+        "question": "For the equilibrium $\\\\mathrm{CO + 3H_2 \\rightleftharpoons CH_4 + H_2O}$, increasing pressure will:",
         "options": [
             "Shift left",
             "Shift right",
@@ -657,7 +657,7 @@
             "−5.7 kJ mol⁻¹"
         ],
         "answer": 0,
-        "explanation": "$ΔG°=-RT\\ln K≈-8.314×298×\\ln(10^5)≈-28.5$ kJ mol⁻¹."
+        "explanation": "$ΔG°=-RT\\\\ln K≈-8.314×298×\\\\ln(10^5)≈-28.5$ kJ mol⁻¹."
     },
     {
         "id": 56,
@@ -673,7 +673,7 @@
     },
     {
         "id": 57,
-        "question": "For equilibrium $\\mathrm{Fe^{3+} + SCN^- \\rightleftharpoons FeSCN^{2+}}$, addition of $Fe^{3+}$ will:",
+        "question": "For equilibrium $\\\\mathrm{Fe^{3+} + SCN^- \\rightleftharpoons FeSCN^{2+}}$, addition of $Fe^{3+}$ will:",
         "options": [
             "Shift left",
             "Shift right",
@@ -769,7 +769,7 @@
     },
     {
         "id": 65,
-        "question": "For the reaction $\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$, decrease in temperature will:",
+        "question": "For the reaction $\\\\mathrm{2SO_2 + O_2 \\rightleftharpoons 2SO_3}$, decrease in temperature will:",
         "options": [
             "Decrease yield of $SO_3$",
             "Increase yield of $SO_3$",
@@ -805,7 +805,7 @@
     },
     {
         "id": 68,
-        "question": "For equilibrium $\\mathrm{NH_4Cl(s) \\rightleftharpoons NH_3(g)+HCl(g)}$, increasing pressure will:",
+        "question": "For equilibrium $\\\\mathrm{NH_4Cl(s) \\rightleftharpoons NH_3(g)+HCl(g)}$, increasing pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -868,12 +868,12 @@
         "question": "If coefficients of a balanced equation are halved, new equilibrium constant becomes:",
         "options": [
             "$K^2$",
-            "$\\sqrt{K}$",
+            "$\\\\sqrt{K}$",
             "$1/K$",
             "Same"
         ],
         "answer": 1,
-        "explanation": "Halving coefficients makes $K$ equal to $\\sqrt{K}$."
+        "explanation": "Halving coefficients makes $K$ equal to $\\\\sqrt{K}$."
     },
     {
         "id": 74,
@@ -889,7 +889,7 @@
     },
     {
         "id": 75,
-        "question": "For reaction $\\mathrm{A \\rightleftharpoons B}$, if $K=10$, then:",
+        "question": "For reaction $\\\\mathrm{A \\rightleftharpoons B}$, if $K=10$, then:",
         "options": [
             "$ΔG°>0$",
             "$ΔG°<0$",
@@ -897,16 +897,16 @@
             "Reaction is slow"
         ],
         "answer": 1,
-        "explanation": "$ΔG°=-RT\\ln K$, so for $K>1$, $ΔG°<0$."
+        "explanation": "$ΔG°=-RT\\\\ln K$, so for $K>1$, $ΔG°<0$."
     },
     {
         "id": 76,
         "question": "Which of the following is a homogeneous equilibrium?",
         "options": [
-            "$\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$",
-            "$\\mathrm{H_2(g)+I_2(g) \\rightleftharpoons 2HI(g)}$",
-            "$\\mathrm{AgCl(s) \\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$",
-            "$\\mathrm{NH_4Cl(s) \\rightleftharpoons NH_3(g)+HCl(g)}$"
+            "$\\\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$",
+            "$\\\\mathrm{H_2(g)+I_2(g) \\rightleftharpoons 2HI(g)}$",
+            "$\\\\mathrm{AgCl(s) \\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$",
+            "$\\\\mathrm{NH_4Cl(s) \\rightleftharpoons NH_3(g)+HCl(g)}$"
         ],
         "answer": 1,
         "explanation": "All species are in same phase (gas)."
@@ -937,7 +937,7 @@
     },
     {
         "id": 79,
-        "question": "For equilibrium $\\mathrm{2HI \\rightleftharpoons H_2 + I_2}$, if $K_c=0.25$, the forward reaction is:",
+        "question": "For equilibrium $\\\\mathrm{2HI \\rightleftharpoons H_2 + I_2}$, if $K_c=0.25$, the forward reaction is:",
         "options": [
             "Favored",
             "Not favored",
@@ -961,7 +961,7 @@
     },
     {
         "id": 81,
-        "question": "For the equilibrium $\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}$, initially 2 mol $SO_2$ and 1 mol $O_2$ are taken in a 1 L vessel. If at equilibrium 1 mol $SO_3$ is formed, the value of $K_c$ is:",
+        "question": "For the equilibrium $\\\\mathrm{2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)}$, initially 2 mol $SO_2$ and 1 mol $O_2$ are taken in a 1 L vessel. If at equilibrium 1 mol $SO_3$ is formed, the value of $K_c$ is:",
         "options": [
             "1",
             "2",
@@ -973,19 +973,19 @@
     },
     {
         "id": 82,
-        "question": "For reaction $\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}$, if total pressure is $P$ and degree of dissociation is $α$, the partial pressure of $NO_2$ is:",
+        "question": "For reaction $\\\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}$, if total pressure is $P$ and degree of dissociation is $α$, the partial pressure of $NO_2$ is:",
         "options": [
-            "$\\dfrac{αP}{1+α}$",
-            "$\\dfrac{2αP}{1+α}$",
-            "$\\dfrac{(1-α)P}{1+α}$",
-            "$\\dfrac{2(1-α)P}{1+α}$"
+            "$\\\\dfrac{αP}{1+α}$",
+            "$\\\\dfrac{2αP}{1+α}$",
+            "$\\\\dfrac{(1-α)P}{1+α}$",
+            "$\\\\dfrac{2(1-α)P}{1+α}$"
         ],
         "answer": 1,
         "explanation": "Moles of $NO_2=2α$, total moles $=1+α$, so $P_{NO_2}=2αP/(1+α)$."
     },
     {
         "id": 83,
-        "question": "For a reaction $\\mathrm{A \\rightleftharpoons B}$, $K=0.01$ at 298 K. The value of $ΔG°$ (in kJ mol⁻¹) is approximately:",
+        "question": "For a reaction $\\\\mathrm{A \\rightleftharpoons B}$, $K=0.01$ at 298 K. The value of $ΔG°$ (in kJ mol⁻¹) is approximately:",
         "options": [
             "+11.4",
             "-11.4",
@@ -993,11 +993,11 @@
             "-5.7"
         ],
         "answer": 0,
-        "explanation": "$ΔG°=-RT\\ln K≈-8.314×298×\\ln(0.01)≈+11.4$."
+        "explanation": "$ΔG°=-RT\\\\ln K≈-8.314×298×\\\\ln(0.01)≈+11.4$."
     },
     {
         "id": 84,
-        "question": "For equilibrium $\\mathrm{CO(g)+H_2O(g) \\rightleftharpoons CO_2(g)+H_2(g)}$, if $K_c=1$, then:",
+        "question": "For equilibrium $\\\\mathrm{CO(g)+H_2O(g) \\rightleftharpoons CO_2(g)+H_2(g)}$, if $K_c=1$, then:",
         "options": [
             "$ΔG°>0$",
             "$ΔG°<0$",
@@ -1005,11 +1005,11 @@
             "Reaction is irreversible"
         ],
         "answer": 2,
-        "explanation": "$ΔG°=-RT\\ln K=0$ when $K=1$."
+        "explanation": "$ΔG°=-RT\\\\ln K=0$ when $K=1$."
     },
     {
         "id": 85,
-        "question": "For the reaction $\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g)+Cl_2(g)}$, if $K_p=1$ and total pressure is 1 atm, the degree of dissociation is:",
+        "question": "For the reaction $\\\\mathrm{PCl_5(g) \\rightleftharpoons PCl_3(g)+Cl_2(g)}$, if $K_p=1$ and total pressure is 1 atm, the degree of dissociation is:",
         "options": [
             "0.2",
             "0.33",
@@ -1045,7 +1045,7 @@
     },
     {
         "id": 88,
-        "question": "For equilibrium $\\mathrm{2HI(g) \\rightleftharpoons H_2(g)+I_2(g)}$, increasing pressure will:",
+        "question": "For equilibrium $\\\\mathrm{2HI(g) \\rightleftharpoons H_2(g)+I_2(g)}$, increasing pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1069,7 +1069,7 @@
     },
     {
         "id": 90,
-        "question": "For the reaction $\\mathrm{A+B \\rightleftharpoons C+D}$, $ΔH°=0$. If temperature is increased, equilibrium constant:",
+        "question": "For the reaction $\\\\mathrm{A+B \\rightleftharpoons C+D}$, $ΔH°=0$. If temperature is increased, equilibrium constant:",
         "options": [
             "Increases",
             "Decreases",
@@ -1081,7 +1081,7 @@
     },
     {
         "id": 91,
-        "question": "For equilibrium $\\mathrm{N_2(g)+3H_2(g) \\rightleftharpoons 2NH_3(g)}$, addition of inert gas at constant pressure will:",
+        "question": "For equilibrium $\\\\mathrm{N_2(g)+3H_2(g) \\rightleftharpoons 2NH_3(g)}$, addition of inert gas at constant pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1105,12 +1105,12 @@
     },
     {
         "id": 93,
-        "question": "If equilibrium constant $K_c$ has unit $\\mathrm{mol^{-1}L}$, the reaction is:",
+        "question": "If equilibrium constant $K_c$ has unit $\\\\mathrm{mol^{-1}L}$, the reaction is:",
         "options": [
-            "$\\mathrm{A \\rightleftharpoons B}$",
-            "$\\mathrm{2A \\rightleftharpoons B}$",
-            "$\\mathrm{A+B \\rightleftharpoons C}$",
-            "$\\mathrm{A \\rightleftharpoons 2B}$"
+            "$\\\\mathrm{A \\rightleftharpoons B}$",
+            "$\\\\mathrm{2A \\rightleftharpoons B}$",
+            "$\\\\mathrm{A+B \\rightleftharpoons C}$",
+            "$\\\\mathrm{A \\rightleftharpoons 2B}$"
         ],
         "answer": 2,
         "explanation": "For $A+B \\rightleftharpoons C$, $K_c=[C]/([A,B])$ has unit $L mol^{-1}$."
@@ -1129,7 +1129,7 @@
     },
     {
         "id": 95,
-        "question": "For equilibrium $\\mathrm{AgCl(s) \\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$, the equilibrium constant expression is:",
+        "question": "For equilibrium $\\\\mathrm{AgCl(s) \\rightleftharpoons Ag^+(aq)+Cl^-(aq)}$, the equilibrium constant expression is:",
         "options": [
             "$[Ag^+,Cl^-]$",
             "$[AgCl]$",
@@ -1165,7 +1165,7 @@
     },
     {
         "id": 98,
-        "question": "For equilibrium $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, doubling the volume will:",
+        "question": "For equilibrium $\\\\mathrm{2A(g) \\rightleftharpoons B(g)}$, doubling the volume will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1189,7 +1189,7 @@
     },
     {
         "id": 100,
-        "question": "For equilibrium $\\mathrm{H_2(g)+Cl_2(g) \\rightleftharpoons 2HCl(g)}$, $Δn$ is:",
+        "question": "For equilibrium $\\\\mathrm{H_2(g)+Cl_2(g) \\rightleftharpoons 2HCl(g)}$, $Δn$ is:",
         "options": [
             "+1",
             "-1",
@@ -1201,12 +1201,12 @@
     },
     {
         "id": 101,
-        "question": "For which reaction will $K_c$ have unit $\\mathrm{mol^{-2}L^2}$?",
+        "question": "For which reaction will $K_c$ have unit $\\\\mathrm{mol^{-2}L^2}$?",
         "options": [
-            "$\\mathrm{A \\rightleftharpoons B}$",
-            "$\\mathrm{2A \\rightleftharpoons B}$",
-            "$\\mathrm{A+B \\rightleftharpoons C}$",
-            "$\\mathrm{A \\rightleftharpoons 2B}$"
+            "$\\\\mathrm{A \\rightleftharpoons B}$",
+            "$\\\\mathrm{2A \\rightleftharpoons B}$",
+            "$\\\\mathrm{A+B \\rightleftharpoons C}$",
+            "$\\\\mathrm{A \\rightleftharpoons 2B}$"
         ],
         "answer": 1,
         "explanation": "$K_c=[B]/[A]^2$ gives unit $L^2 mol^{-2}$."
@@ -1237,7 +1237,7 @@
     },
     {
         "id": 104,
-        "question": "For equilibrium $\\mathrm{2NO(g)+O_2(g) \\rightleftharpoons 2NO_2(g)}$, increasing concentration of $NO_2$ will:",
+        "question": "For equilibrium $\\\\mathrm{2NO(g)+O_2(g) \\rightleftharpoons 2NO_2(g)}$, increasing concentration of $NO_2$ will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1273,7 +1273,7 @@
     },
     {
         "id": 107,
-        "question": "For equilibrium $\\mathrm{A(g)+B(g) \\rightleftharpoons C(g)}$, decreasing temperature will favor products if:",
+        "question": "For equilibrium $\\\\mathrm{A(g)+B(g) \\rightleftharpoons C(g)}$, decreasing temperature will favor products if:",
         "options": [
             "Reaction is endothermic",
             "Reaction is exothermic",
@@ -1297,7 +1297,7 @@
     },
     {
         "id": 109,
-        "question": "For reaction $\\mathrm{A \\rightleftharpoons 2B}$, if $K_c=4$, starting with 1 M A only, the equilibrium concentration of B is approximately:",
+        "question": "For reaction $\\\\mathrm{A \\rightleftharpoons 2B}$, if $K_c=4$, starting with 1 M A only, the equilibrium concentration of B is approximately:",
         "options": [
             "0.8 M",
             "1.0 M",
@@ -1333,7 +1333,7 @@
     },
     {
         "id": 112,
-        "question": "For equilibrium $\\mathrm{NH_3(g)+HCl(g) \\rightleftharpoons NH_4Cl(s)}$, increasing pressure will:",
+        "question": "For equilibrium $\\\\mathrm{NH_3(g)+HCl(g) \\rightleftharpoons NH_4Cl(s)}$, increasing pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1353,11 +1353,11 @@
             "$K<1$"
         ],
         "answer": 1,
-        "explanation": "$ΔG°=-RT\\ln K=0$ gives $K=1$."
+        "explanation": "$ΔG°=-RT\\\\ln K=0$ gives $K=1$."
     },
     {
         "id": 114,
-        "question": "For equilibrium $\\mathrm{2A(g)+B(g) \\rightleftharpoons 2C(g)}$, $Δn$ is:",
+        "question": "For equilibrium $\\\\mathrm{2A(g)+B(g) \\rightleftharpoons 2C(g)}$, $Δn$ is:",
         "options": [
             "+1",
             "-1",
@@ -1381,7 +1381,7 @@
     },
     {
         "id": 116,
-        "question": "For equilibrium $\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$, adding more $CaCO_3$ will:",
+        "question": "For equilibrium $\\\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$, adding more $CaCO_3$ will:",
         "options": [
             "Increase $CO_2$ pressure",
             "Decrease $CO_2$ pressure",
@@ -1405,7 +1405,7 @@
     },
     {
         "id": 118,
-        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C}$, if initial concentrations are equal and $K_c=1$, then at equilibrium:",
+        "question": "For reaction $\\\\mathrm{A+B \\rightleftharpoons C}$, if initial concentrations are equal and $K_c=1$, then at equilibrium:",
         "options": [
             "All A and B react",
             "More products than reactants",
@@ -1429,7 +1429,7 @@
     },
     {
         "id": 120,
-        "question": "For equilibrium $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, lowering temperature will:",
+        "question": "For equilibrium $\\\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, lowering temperature will:",
         "options": [
             "Increase dissociation",
             "Decrease dissociation",
@@ -1441,19 +1441,19 @@
     },
     {
         "id": 121,
-        "question": "For the equilibrium $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, initially 1 mol of A is taken in a 1 L vessel. At equilibrium, total pressure is 2 atm and degree of dissociation of A is $α$. The equilibrium constant $K_p$ is:",
+        "question": "For the equilibrium $\\\\mathrm{2A(g) \\rightleftharpoons B(g)}$, initially 1 mol of A is taken in a 1 L vessel. At equilibrium, total pressure is 2 atm and degree of dissociation of A is $α$. The equilibrium constant $K_p$ is:",
         "options": [
-            "$\\dfrac{α^2}{(1-α)}P$",
-            "$\\dfrac{(1-α)P}{α^2}$",
-            "$\\dfrac{α^2P}{2(1-α)}$",
-            "$\\dfrac{α^2}{2(1-α)P}$"
+            "$\\\\dfrac{α^2}{(1-α)}P$",
+            "$\\\\dfrac{(1-α)P}{α^2}$",
+            "$\\\\dfrac{α^2P}{2(1-α)}$",
+            "$\\\\dfrac{α^2}{2(1-α)P}$"
         ],
         "answer": 2,
         "explanation": "Moles: A = 1−α, B = α/2, total = 1−α/2. $K_p=P_B/(P_A)^2=\\frac{(α/2)/(1-α/2)P}{[(1-α)/(1-α/2)P]^2}=\\frac{α^2P}{2(1-α)}$."
     },
     {
         "id": 122,
-        "question": "For a reaction at equilibrium, $ΔG=0$. If $ΔG°=-20\\,\\text{kJ mol}^{-1}$ at 298 K, the value of $Q$ is approximately:",
+        "question": "For a reaction at equilibrium, $ΔG=0$. If $ΔG°=-20\\\\,\\text{kJ mol}^{-1}$ at 298 K, the value of $Q$ is approximately:",
         "options": [
             "$10^{-4}$",
             "$10^{-2}$",
@@ -1461,11 +1461,11 @@
             "$10^{4}$"
         ],
         "answer": 3,
-        "explanation": "$ΔG=ΔG°+RT\\ln Q=0$. $\\ln Q=20\\times10^3/(8.314×298)≈8.1$, so $Q≈10^4$."
+        "explanation": "$ΔG=ΔG°+RT\\\\ln Q=0$. $\\\\ln Q=20\\times10^3/(8.314×298)≈8.1$, so $Q≈10^4$."
     },
     {
         "id": 123,
-        "question": "For equilibrium $\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}$, at a fixed temperature, the degree of dissociation will be maximum at:",
+        "question": "For equilibrium $\\\\mathrm{N_2O_4(g) \\rightleftharpoons 2NO_2(g)}$, at a fixed temperature, the degree of dissociation will be maximum at:",
         "options": [
             "High pressure",
             "Low pressure",
@@ -1477,7 +1477,7 @@
     },
     {
         "id": 124,
-        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C}$, if $K_c=10$ and initial concentrations are $[A]=[B]=1$ M, the equilibrium concentration of C is closest to:",
+        "question": "For reaction $\\\\mathrm{A+B \\rightleftharpoons C}$, if $K_c=10$ and initial concentrations are $[A]=[B]=1$ M, the equilibrium concentration of C is closest to:",
         "options": [
             "0.5 M",
             "0.73 M",
@@ -1489,7 +1489,7 @@
     },
     {
         "id": 125,
-        "question": "For the reaction $\\mathrm{CO(g)+2H_2(g) \\rightleftharpoons CH_3OH(g)}$, $Δn$ is:",
+        "question": "For the reaction $\\\\mathrm{CO(g)+2H_2(g) \\rightleftharpoons CH_3OH(g)}$, $Δn$ is:",
         "options": [
             "+1",
             "0",
@@ -1501,7 +1501,7 @@
     },
     {
         "id": 126,
-        "question": "If $K_p=16$ for $\\mathrm{2A(g) \\rightleftharpoons B(g)}$ at a certain temperature, then $K_c$ at the same temperature is:",
+        "question": "If $K_p=16$ for $\\\\mathrm{2A(g) \\rightleftharpoons B(g)}$ at a certain temperature, then $K_c$ at the same temperature is:",
         "options": [
             "$16RT$",
             "$16/(RT)$",
@@ -1525,7 +1525,7 @@
     },
     {
         "id": 128,
-        "question": "For equilibrium $\\mathrm{2NO(g)+O_2(g) \\rightleftharpoons 2NO_2(g)}$, if volume is suddenly decreased at constant temperature, immediately after change:",
+        "question": "For equilibrium $\\\\mathrm{2NO(g)+O_2(g) \\rightleftharpoons 2NO_2(g)}$, if volume is suddenly decreased at constant temperature, immediately after change:",
         "options": [
             "$Q=K$",
             "$Q<K$",
@@ -1539,17 +1539,17 @@
         "id": 129,
         "question": "For which of the following reactions does equilibrium constant decrease with increase in temperature?",
         "options": [
-            "$\\mathrm{N_2+O_2 \\rightleftharpoons 2NO}$",
-            "$\\mathrm{H_2+I_2 \\rightleftharpoons 2HI}$",
-            "$\\mathrm{2SO_2+O_2 \\rightleftharpoons 2SO_3}$",
-            "$\\mathrm{CaCO_3 \\rightleftharpoons CaO+CO_2}$"
+            "$\\\\mathrm{N_2+O_2 \\rightleftharpoons 2NO}$",
+            "$\\\\mathrm{H_2+I_2 \\rightleftharpoons 2HI}$",
+            "$\\\\mathrm{2SO_2+O_2 \\rightleftharpoons 2SO_3}$",
+            "$\\\\mathrm{CaCO_3 \\rightleftharpoons CaO+CO_2}$"
         ],
         "answer": 2,
         "explanation": "Formation of $SO_3$ is exothermic; increasing temperature decreases $K$."
     },
     {
         "id": 130,
-        "question": "For the equilibrium $\\mathrm{A(g) \\rightleftharpoons 2B(g)}$, if $K_p$ is small, which condition will increase the extent of reaction?",
+        "question": "For the equilibrium $\\\\mathrm{A(g) \\rightleftharpoons 2B(g)}$, if $K_p$ is small, which condition will increase the extent of reaction?",
         "options": [
             "High pressure",
             "Low pressure",
@@ -1573,7 +1573,7 @@
     },
     {
         "id": 132,
-        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C+D}$, $K_c=1$. Initially $[A]=[B]=[C]=[D]=1$ M. The reaction quotient $Q$ is:",
+        "question": "For reaction $\\\\mathrm{A+B \\rightleftharpoons C+D}$, $K_c=1$. Initially $[A]=[B]=[C]=[D]=1$ M. The reaction quotient $Q$ is:",
         "options": [
             "0.25",
             "0.5",
@@ -1585,7 +1585,7 @@
     },
     {
         "id": 133,
-        "question": "For equilibrium $\\mathrm{NH_3(g)+H_2O(l) \\rightleftharpoons NH_4^+(aq)+OH^-(aq)}$, which species is not included in equilibrium expression?",
+        "question": "For equilibrium $\\\\mathrm{NH_3(g)+H_2O(l) \\rightleftharpoons NH_4^+(aq)+OH^-(aq)}$, which species is not included in equilibrium expression?",
         "options": [
             "$NH_3$",
             "$NH_4^+$",
@@ -1609,7 +1609,7 @@
     },
     {
         "id": 135,
-        "question": "For reaction $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, if initially only A is present, then at equilibrium:",
+        "question": "For reaction $\\\\mathrm{2A(g) \\rightleftharpoons B(g)}$, if initially only A is present, then at equilibrium:",
         "options": [
             "$[A]=[B]$",
             "$[A]>[B]$",
@@ -1621,7 +1621,7 @@
     },
     {
         "id": 136,
-        "question": "For equilibrium $\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$, if temperature is increased:",
+        "question": "For equilibrium $\\\\mathrm{CaCO_3(s) \\rightleftharpoons CaO(s)+CO_2(g)}$, if temperature is increased:",
         "options": [
             "$K_p$ decreases",
             "$K_p$ increases",
@@ -1645,7 +1645,7 @@
     },
     {
         "id": 138,
-        "question": "For equilibrium $\\mathrm{A(g)+B(g) \\rightleftharpoons C(g)}$, increasing pressure will shift equilibrium to the right only if:",
+        "question": "For equilibrium $\\\\mathrm{A(g)+B(g) \\rightleftharpoons C(g)}$, increasing pressure will shift equilibrium to the right only if:",
         "options": [
             "Reaction is endothermic",
             "$Δn<0$",
@@ -1665,11 +1665,11 @@
             "Reaction is slow"
         ],
         "answer": 2,
-        "explanation": "$ΔG°=-RT\\ln K_p$; large $K_p$ gives large negative $ΔG°$."
+        "explanation": "$ΔG°=-RT\\\\ln K_p$; large $K_p$ gives large negative $ΔG°$."
     },
     {
         "id": 140,
-        "question": "For equilibrium $\\mathrm{2SO_2(g)+O_2(g) \\rightleftharpoons 2SO_3(g)}$, addition of inert gas at constant pressure will:",
+        "question": "For equilibrium $\\\\mathrm{2SO_2(g)+O_2(g) \\rightleftharpoons 2SO_3(g)}$, addition of inert gas at constant pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1693,7 +1693,7 @@
     },
     {
         "id": 142,
-        "question": "For equilibrium $\\mathrm{2HI(g) \\rightleftharpoons H_2(g)+I_2(g)}$, which change increases dissociation of HI?",
+        "question": "For equilibrium $\\\\mathrm{2HI(g) \\rightleftharpoons H_2(g)+I_2(g)}$, which change increases dissociation of HI?",
         "options": [
             "Increase pressure",
             "Decrease temperature",
@@ -1717,7 +1717,7 @@
     },
     {
         "id": 144,
-        "question": "For equilibrium $\\mathrm{A(g) \\rightleftharpoons B(g)}$, doubling pressure will:",
+        "question": "For equilibrium $\\\\mathrm{A(g) \\rightleftharpoons B(g)}$, doubling pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1729,7 +1729,7 @@
     },
     {
         "id": 145,
-        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C}$, if $K_c=0.01$, which is correct?",
+        "question": "For reaction $\\\\mathrm{A+B \\rightleftharpoons C}$, if $K_c=0.01$, which is correct?",
         "options": [
             "Products dominate",
             "Reactants dominate",
@@ -1741,7 +1741,7 @@
     },
     {
         "id": 146,
-        "question": "For equilibrium $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, increasing temperature will:",
+        "question": "For equilibrium $\\\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, increasing temperature will:",
         "options": [
             "Increase $N_2O_4$",
             "Increase $NO_2$",
@@ -1777,7 +1777,7 @@
     },
     {
         "id": 149,
-        "question": "For equilibrium $\\mathrm{NH_3(g)+HCl(g) \\rightleftharpoons NH_4Cl(s)}$, the equilibrium constant expression is:",
+        "question": "For equilibrium $\\\\mathrm{NH_3(g)+HCl(g) \\rightleftharpoons NH_4Cl(s)}$, the equilibrium constant expression is:",
         "options": [
             "$[NH_3,HCl]$",
             "$1/[NH_3,HCl]$",
@@ -1801,7 +1801,7 @@
     },
     {
         "id": 151,
-        "question": "For equilibrium $\\mathrm{A(g)+2B(g) \\rightleftharpoons C(g)}$, decreasing pressure will:",
+        "question": "For equilibrium $\\\\mathrm{A(g)+2B(g) \\rightleftharpoons C(g)}$, decreasing pressure will:",
         "options": [
             "Shift right",
             "Shift left",
@@ -1825,7 +1825,7 @@
     },
     {
         "id": 153,
-        "question": "For equilibrium $\\mathrm{2A(g) \\rightleftharpoons B(g)}$, if $K_c$ is very large, then at equilibrium:",
+        "question": "For equilibrium $\\\\mathrm{2A(g) \\rightleftharpoons B(g)}$, if $K_c$ is very large, then at equilibrium:",
         "options": [
             "Mostly A present",
             "Mostly B present",
@@ -1849,7 +1849,7 @@
     },
     {
         "id": 155,
-        "question": "For equilibrium $\\mathrm{A(g) \\rightleftharpoons B(g)}$, if $K_p=4$ at 300 K, then $ΔG°$ is:",
+        "question": "For equilibrium $\\\\mathrm{A(g) \\rightleftharpoons B(g)}$, if $K_p=4$ at 300 K, then $ΔG°$ is:",
         "options": [
             "Positive",
             "Negative",
@@ -1857,11 +1857,11 @@
             "Cannot be predicted"
         ],
         "answer": 1,
-        "explanation": "$ΔG°=-RT\\ln K_p$; since $K_p>1$, $ΔG°<0$."
+        "explanation": "$ΔG°=-RT\\\\ln K_p$; since $K_p>1$, $ΔG°<0$."
     },
     {
         "id": 156,
-        "question": "For reaction $\\mathrm{A+B \\rightleftharpoons C+D}$, if $Δn=0$, which is correct?",
+        "question": "For reaction $\\\\mathrm{A+B \\rightleftharpoons C+D}$, if $Δn=0$, which is correct?",
         "options": [
             "$K_p=K_c$",
             "$K_p>K_c$",
@@ -1873,7 +1873,7 @@
     },
     {
         "id": 157,
-        "question": "For equilibrium $\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, if pressure is doubled at constant temperature, the equilibrium constant:",
+        "question": "For equilibrium $\\\\mathrm{2NO_2(g) \\rightleftharpoons N_2O_4(g)}$, if pressure is doubled at constant temperature, the equilibrium constant:",
         "options": [
             "Doubles",
             "Halves",
@@ -1909,7 +1909,7 @@
     },
     {
         "id": 160,
-        "question": "For equilibrium $\\mathrm{CO(g)+H_2O(g) \\rightleftharpoons CO_2(g)+H_2(g)}$, which statement is correct?",
+        "question": "For equilibrium $\\\\mathrm{CO(g)+H_2O(g) \\rightleftharpoons CO_2(g)+H_2(g)}$, which statement is correct?",
         "options": [
             "Pressure affects equilibrium position",
             "Temperature affects equilibrium constant",

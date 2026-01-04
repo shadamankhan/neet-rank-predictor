@@ -92,7 +92,7 @@ router.get('/files/*', (req, res) => {
         const filePath = path.join(QUIZZES_DIR, relativePath);
         const relative = path.relative(QUIZZES_DIR, filePath);
         if (relative.startsWith('..') || path.isAbsolute(relativePath)) {
-             return res.status(403).json({ ok: false, message: 'Access denied' });
+            return res.status(403).json({ ok: false, message: 'Access denied' });
         }
 
         if (!fs.existsSync(filePath)) {

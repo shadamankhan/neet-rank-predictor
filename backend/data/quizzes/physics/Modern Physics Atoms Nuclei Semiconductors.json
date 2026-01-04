@@ -2,11 +2,11 @@
     {
         "id": 1,
         "question": "According to Bohr's model, the angular momentum of an electron in a hydrogen atom is quantised as:",
-        "options": ["mvr = nh/2\pi", "mvr = n\hbar",
-            "mvr = h/n", "mvr = 2\pi nh"
+        "options": ["mvr = nh/2\\\\pi", "mvr = n\\hbar",
+            "mvr = h/n", "mvr = 2\\\\pi nh"
         ],
         "answer": 1,
-        "explanation": "Bohr postulated that angular momentum is quantised as mvr = n\hbar, where \hbar = h/2\pi."
+        "explanation": "Bohr postulated that angular momentum is quantised as mvr = n\\hbar, where \\hbar = h/2\\\\pi."
     },
     {
         "id": 2,
@@ -49,7 +49,7 @@
         "question": "The ionisation energy of hydrogen atom corresponds to the transition:",
         "options": [
             "n = 1 to n = 2",
-            "n = 2 to n = 3", "n = 1 to n = \infty", "n = 2 to n = \infty"
+            "n = 2 to n = 3", "n = 1 to n = \\infty", "n = 2 to n = \\infty"
         ],
         "answer": 2,
         "explanation": "Ionisation energy is the energy required to remove electron from ground state to infinity."
@@ -59,10 +59,10 @@
         "question": "The de Broglie wavelength of an electron accelerated through potential V varies as:",
         "options": [
             "V",
-            "1/V", "1/\sqrt{V}", "\sqrt{V}"
+            "1/V", "1/\\\\sqrt{V}", "\\\\sqrt{V}"
         ],
         "answer": 2,
-        "explanation": "De Broglie wavelength \lambda = h/\sqrt{2meV}, hence varies as 1/\sqrt{V}."
+        "explanation": "De Broglie wavelength \\lambda = h/\\\\sqrt{2meV}, hence varies as 1/\\\\sqrt{V}."
     },
     {
         "id": 7,
@@ -74,7 +74,7 @@
             "speed of electron"
         ],
         "answer": 2,
-        "explanation": "Photon frequency is given by \nu = (E_i - E_f)/h."
+        "explanation": "Photon frequency is given by \\nu = (E_i - E_f)/h."
     },
     {
         "id": 8,
@@ -391,11 +391,11 @@
     {
         "id": 34,
         "question": "The current amplification factor in common emitter configuration is:",
-        "options": ["\alpha",
-            "\beta", "\gamma", "\delta"
+        "options": ["\\alpha",
+            "\\beta", "\\gamma", "\\\\delta"
         ],
         "answer": 1,
-        "explanation": "In CE configuration, current gain is denoted by \beta."
+        "explanation": "In CE configuration, current gain is denoted by \\beta."
     },
     {
         "id": 35,
@@ -471,20 +471,20 @@
     },
     {
         "id": 41,
-        "question": "The relation between decay constant \lambda and half-life T_{1/2} is:",
-        "options": ["T_{1/2} = 1/\lambda", "T_{1/2} = 0.693/\lambda", "T_{1/2} = \lambda/0.693", "T_{1/2} = 2.303/\lambda"
+        "question": "The relation between decay constant \\lambda and half-life T_{1/2} is:",
+        "options": ["T_{1/2} = 1/\\lambda", "T_{1/2} = 0.693/\\lambda", "T_{1/2} = \\lambda/0.693", "T_{1/2} = 2.303/\\lambda"
         ],
         "answer": 1,
-        "explanation": "Half-life is given by T_{1/2} = 0.693/\lambda."
+        "explanation": "Half-life is given by T_{1/2} = 0.693/\\lambda."
     },
     {
         "id": 42,
         "question": "The number of nuclei remaining after time t is given by:",
-        "options": ["N = N_0 e^{\lambda t}", "N = N_0 e^{-\lambda t}", "N = N_0 \lambda t",
+        "options": ["N = N_0 e^{\\lambda t}", "N = N_0 e^{-\\lambda t}", "N = N_0 \\lambda t",
             "N = N_0/t"
         ],
         "answer": 1,
-        "explanation": "Radioactive decay law is N = N_0 e^{-\lambda t}."
+        "explanation": "Radioactive decay law is N = N_0 e^{-\\lambda t}."
     },
     {
         "id": 43,
@@ -582,8 +582,7 @@
         "answer": 2,
         "explanation": "LED emits light due to recombination of electrons and holes."
     }
-]
-[
+,
     {
         "id": 51,
         "question": "The minimum wavelength present in the X-ray spectrum produced by an electron accelerated through potential V is given by:",
@@ -1184,8 +1183,7 @@
         "answer": 2,
         "explanation": "Logic 1 represents high voltage level."
     }
-]
-[
+,
     {
         "id": 101,
         "question": "In photoelectric effect, if the frequency of incident radiation is increased keeping intensity constant, the photoelectric current:",
@@ -1786,8 +1784,7 @@
         "answer": 1,
         "explanation": "AND operation is represented by multiplication symbol."
     }
-]
-[
+,
     {
         "id": 151,
         "question": "The Boolean expression for a NOT gate is:",
@@ -2388,8 +2385,7 @@
         "answer": 0,
         "explanation": "Digital systems are less affected by noise."
     }
-]
-[
+,
     {
         "id": 201,
         "question": "In photoelectric effect, saturation current is directly proportional to:",
@@ -2990,8 +2986,7 @@
         "answer": 2,
         "explanation": "Digital signals have better noise immunity."
     }
-]
-[
+,
     {
         "id": 251,
         "question": "The maximum kinetic energy of photoelectrons is independent of:",
@@ -3592,8 +3587,7 @@
         "answer": 2,
         "explanation": "Integrated circuits offer high reliability and compactness."
     }
-]
-[
+,
     {
         "id": 301,
         "question": "In photoelectric effect, if the frequency of incident radiation is below threshold frequency, photoemission:",
@@ -4194,8 +4188,7 @@
         "answer": 1,
         "explanation": "Digital systems are less affected by noise."
     }
-]
-[
+,
     {
         "id": 351,
         "question": "In photoelectric effect, the graph of photoelectric current versus applied potential shows saturation because:",
@@ -4796,8 +4789,7 @@
         "answer": 2,
         "explanation": "Digital electronics uses discrete signals."
     }
-]
-[
+,
     {
         "id": 401,
         "question": "In photoelectric effect, the time lag between incidence of light and emission of photoelectrons is:",
@@ -5399,8 +5391,7 @@
         "answer": 1,
         "explanation": "Binary logic uses two stable voltage levels."
     }
-]
-[
+,
     {
         "id": 451,
         "question": "In photoelectric effect, the saturation current is a measure of:",

@@ -68,7 +68,10 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
 
         try {
             for (const file of selectedFiles) {
-                const res = await axios.get(`${getApiBase()}/api/question-bank/files/${file}`);
+                // Encode each segment of the path to handle spaces (e.g. "Laws of Motion.json") 
+                // but preserve the slash separator so backend routing treats it as a path.
+                const encodedFile = file.split('/').map(segment => encodeURIComponent(segment)).join('/');
+                const res = await axios.get(`${getApiBase()}/api/question-bank/files/${encodedFile}`);
                 if (res.data.ok && Array.isArray(res.data.data)) {
                     // Tag with source file for tracking
                     const qs = res.data.data.map(q => ({ ...q, _source: file }));

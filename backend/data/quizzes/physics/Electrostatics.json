@@ -27,17 +27,17 @@
         "id": 3,
         "question": "The value of Coulomb's constant k in vacuum is equal to:",
         "options": [
-            "1/(4\\pi\\varepsilon_0)",
-            "4\\pi\\varepsilon_0",
-            "\\varepsilon_0/4\\pi",
-            "1/\\varepsilon_0"
+            "1/(4\\\\pi\\\\varepsilon_0)",
+            "4\\\\pi\\\\varepsilon_0",
+            "\\\\varepsilon_0/4\\\\pi",
+            "1/\\\\varepsilon_0"
         ],
         "answer": 0,
-        "explanation": "k = 1/(4\\pi\\varepsilon_0) as defined in Coulomb's law."
+        "explanation": "k = 1/(4\\\\pi\\\\varepsilon_0) as defined in Coulomb's law."
     },
     {
         "id": 4,
-        "question": "The permittivity of free space \\(\\varepsilon_0\\) has SI unit:",
+        "question": "The permittivity of free space \\\\(\\\\varepsilon_0\\\\) has SI unit:",
         "options": [
             "C² N⁻¹ m⁻²",
             "N C⁻² m²",
@@ -45,7 +45,7 @@
             "N m² C⁻¹"
         ],
         "answer": 0,
-        "explanation": "From Coulomb's law, \\(\\varepsilon_0\\) has unit C² N⁻¹ m⁻²."
+        "explanation": "From Coulomb's law, \\\\(\\\\varepsilon_0\\\\) has unit C² N⁻¹ m⁻²."
     },
     {
         "id": 5,
@@ -141,7 +141,7 @@
             "energy"
         ],
         "answer": 1,
-        "explanation": "Gauss's law states flux = Q_enclosed/\\varepsilon_0."
+        "explanation": "Gauss's law states flux = Q_enclosed/\\\\varepsilon_0."
     },
     {
         "id": 13,
@@ -333,7 +333,7 @@
             "square of distance"
         ],
         "answer": 1,
-        "explanation": "C = \\varepsilon_0 A/d."
+        "explanation": "C = \\\\varepsilon_0 A/d."
     },
     {
         "id": 29,
@@ -363,13 +363,13 @@
         "id": 31,
         "question": "The energy density in an electric field is given by:",
         "options": [
-            "(1/2)\\varepsilon_0E²",
-            "\\varepsilon_0E",
+            "(1/2)\\\\varepsilon_0E²",
+            "\\\\varepsilon_0E",
             "(1/2)E²",
-            "\\varepsilon_0/E²"
+            "\\\\varepsilon_0/E²"
         ],
         "answer": 0,
-        "explanation": "Energy density = (1/2)\\varepsilon_0E²."
+        "explanation": "Energy density = (1/2)\\\\varepsilon_0E²."
     },
     {
         "id": 32,
@@ -495,13 +495,13 @@
         "id": 42,
         "question": "Electric field just outside a charged conductor is:",
         "options": [
-            "\\sigma/\\varepsilon_0",
-            "\\sigma/2\\varepsilon_0",
-            "2\\sigma/\\varepsilon_0",
+            "\\\\sigma/\\\\varepsilon_0",
+            "\\\\sigma/2\\\\varepsilon_0",
+            "2\\\\sigma/\\\\varepsilon_0",
             "zero"
         ],
         "answer": 0,
-        "explanation": "E = \\sigma/\\varepsilon_0 at surface of conductor."
+        "explanation": "E = \\\\sigma/\\\\varepsilon_0 at surface of conductor."
     },
     {
         "id": 43,
@@ -599,8 +599,7 @@
         "answer": 2,
         "explanation": "Electric charge is conserved."
     }
-]
-[
+,
     {
         "id": 51,
         "question": "The force between two charges placed in a medium of dielectric constant K compared to vacuum becomes:",
@@ -1201,16 +1200,15 @@
         "answer": 1,
         "explanation": "Electrostatics studies charges at rest."
     }
-]
-[
+,
     {
         "id": 101,
         "question": "If a point charge q is placed at the center of a Gaussian spherical surface, the electric flux through the surface is:",
-        "options": ["q/\varepsilon_0", "4\pi q/\varepsilon_0", "q/4\pi\varepsilon_0",
+        "options": ["q/\\\\varepsilon_0", "4\\\\pi q/\\\\varepsilon_0", "q/4\\\\pi\\\\varepsilon_0",
             "zero"
         ],
         "answer": 0,
-        "explanation": "By Gauss’s law, total flux through a closed surface equals q/\varepsilon_0."
+        "explanation": "By Gauss’s law, total flux through a closed surface equals q/\\\\varepsilon_0."
     },
     {
         "id": 102,
@@ -1251,10 +1249,10 @@
     {
         "id": 105,
         "question": "The electric field at the surface of a charged conductor is related to surface charge density σ by:",
-        "options": ["E = 2\sigma/\varepsilon_0", "E = \sigma/2\varepsilon_0", "E = \sigma/\varepsilon_0", "E = 4\pi\sigma"
+        "options": ["E = 2\\\\sigma/\\\\varepsilon_0", "E = \\\\sigma/2\\\\varepsilon_0", "E = \\\\sigma/\\\\varepsilon_0", "E = 4\\\\pi\\\\sigma"
         ],
         "answer": 2,
-        "explanation": "For a conductor, electric field just outside the surface is \sigma/\varepsilon_0."
+        "explanation": "For a conductor, electric field just outside the surface is \\\\sigma/\\\\varepsilon_0."
     },
     {
         "id": 106,
@@ -1344,13 +1342,13 @@
         "id": 113,
         "question": "The electric potential energy of a dipole in a uniform electric field is given by:",
         "options": [
-            "pE sin\theta",
-            "pE cos\theta",
-            "−pE cos\theta",
-            "−pE sin\theta"
+            "pE sin\\theta",
+            "pE cos\\theta",
+            "−pE cos\\theta",
+            "−pE sin\\theta"
         ],
         "answer": 2,
-        "explanation": "Potential energy U = −pE cos\theta."
+        "explanation": "Potential energy U = −pE cos\\theta."
     },
     {
         "id": 114,
@@ -1362,7 +1360,7 @@
             "A²/d"
         ],
         "answer": 0,
-        "explanation": "Capacitance C = \varepsilon_0 A/d."
+        "explanation": "Capacitance C = \\\\varepsilon_0 A/d."
     },
     {
         "id": 115,
@@ -1427,10 +1425,10 @@
     {
         "id": 120,
         "question": "The capacitance of an isolated spherical conductor of radius R is:",
-        "options": ["4\pi\varepsilon_0R", "4\pi\varepsilon_0/R", "\varepsilon_0R", "\varepsilon_0/R"
+        "options": ["4\\\\pi\\\\varepsilon_0R", "4\\\\pi\\\\varepsilon_0/R", "\\\\varepsilon_0R", "\\\\varepsilon_0/R"
         ],
         "answer": 0,
-        "explanation": "Capacitance of isolated sphere is C = 4\pi\varepsilon_0R."
+        "explanation": "Capacitance of isolated sphere is C = 4\\\\pi\\\\varepsilon_0R."
     },
     {
         "id": 121,
@@ -1454,7 +1452,7 @@
             "constant"
         ],
         "answer": 1,
-        "explanation": "Energy density u = (1/2)\varepsilon_0E²."
+        "explanation": "Energy density u = (1/2)\\\\varepsilon_0E²."
     },
     {
         "id": 123,
@@ -1759,7 +1757,7 @@
     {
         "id": 148,
         "question": "The electric field just inside the surface of a charged conductor is:",
-        "options": ["\sigma/\varepsilon_0", "\sigma/2\varepsilon_0",
+        "options": ["\\\\sigma/\\\\varepsilon_0", "\\\\sigma/2\\\\varepsilon_0",
             "zero",
             "infinite"
         ],
@@ -1790,8 +1788,7 @@
         "answer": 1,
         "explanation": "Potential energy depends on relative positions of charges."
     }
-]
-[
+,
     {
         "id": 151,
         "question": "The electric field at a point due to a point charge is independent of:",
@@ -2392,8 +2389,7 @@
         "answer": 1,
         "explanation": "Forces between charges are equal in magnitude and opposite in direction."
     }
-]
-[
+,
     {
         "id": 201,
         "question": "If two point charges +q and −q are separated by distance 2a, the electric field at the midpoint is:",
@@ -2994,8 +2990,7 @@
         "answer": 0,
         "explanation": "Gauss’s law follows from inverse square nature of Coulomb’s law."
     }
-]
-[
+,
     {
         "id": 251,
         "question": "If two identical point charges are placed at a distance r in vacuum, the electric field at the midpoint is:",
@@ -3596,8 +3591,7 @@
         "answer": 1,
         "explanation": "At large distances, potential behaves like that of a point charge."
     }
-]
-[
+,
     {
         "id": 301,
         "question": "If two equal charges +q are placed at x = ±a on the x-axis, the electric field at the origin is:",
@@ -4198,8 +4192,7 @@
         "answer": 2,
         "explanation": "Electrostatics studies charges at rest."
     }
-]
-[
+,
     {
         "id": 351,
         "question": "If two equal and opposite charges are placed very close to each other, the system behaves like a:",
@@ -4800,8 +4793,7 @@
         "answer": 2,
         "explanation": "Forces between two charges are equal in magnitude and opposite in direction."
     }
-]
-[
+,
     {
         "id": 401,
         "question": "If two identical charges are placed at the ends of a diameter of a circular ring, the electric field at the center is:",
@@ -5402,8 +5394,7 @@
         "answer": 2,
         "explanation": "Electrostatics studies charges at rest."
     }
-]
-[
+,
     {
         "id": 451,
         "question": "If two equal point charges are placed at the corners of an equilateral triangle, the electric field at the third corner due to these charges is:",

@@ -249,7 +249,7 @@
             "Rydberg equation"
         ],
         "answer": 2,
-        "explanation": "de Broglie relation: $\\lambda = h/mv$."
+        "explanation": "de Broglie relation: $\\\\lambda = h/mv$."
     },
     {
         "id": 22,
@@ -621,7 +621,7 @@
             "Charge increases"
         ],
         "answer": 2,
-        "explanation": "$\\lambda = h/mv$; decreasing velocity increases wavelength."
+        "explanation": "$\\\\lambda = h/mv$; decreasing velocity increases wavelength."
     },
     {
         "id": 53,
@@ -796,12 +796,12 @@
         "question": "The angular momentum of an electron in quantum mechanics is quantized as:",
         "options": [
             "$l(l+1)h/2π$",
-            "$\\sqrt{l(l+1)}h/2π$",
+            "$\\\\sqrt{l(l+1)}h/2π$",
             "$nh/2π$",
             "$h/2π$"
         ],
         "answer": 1,
-        "explanation": "Angular momentum = $\\sqrt{l(l+1)}h/2π$."
+        "explanation": "Angular momentum = $\\\\sqrt{l(l+1)}h/2π$."
     },
     {
         "id": 68,
@@ -1122,22 +1122,22 @@
             "$n=2 \\to 1$",
             "$n=3 \\to 1$",
             "$n=4 \\to 1$",
-            "$n=\\infty \\to 1$"
+            "$n=\\\\infty \\to 1$"
         ],
         "answer": 3,
-        "explanation": "Transition from $n=\\infty$ to $n=1$ gives maximum energy."
+        "explanation": "Transition from $n=\\\\infty$ to $n=1$ gives maximum energy."
     },
     {
         "id": 95,
         "question": "The angular momentum of an electron in a $p$-orbital is:",
         "options": [
             "0",
-            "$\\sqrt{2}h/2π$",
+            "$\\\\sqrt{2}h/2π$",
             "$h/2π$",
-            "$\\sqrt{6}h/2π$"
+            "$\\\\sqrt{6}h/2π$"
         ],
         "answer": 1,
-        "explanation": "Angular momentum = $\\sqrt{l(l+1)}h/2π$; for $p$, $l=1$."
+        "explanation": "Angular momentum = $\\\\sqrt{l(l+1)}h/2π$; for $p$, $l=1$."
     },
     {
         "id": 96,
@@ -1614,7 +1614,7 @@
             "$3 \\to 2$",
             "$4 \\to 2$",
             "$5 \\to 2$",
-            "$\\infty \\to 2$"
+            "$\\\\infty \\to 2$"
         ],
         "answer": 3,
         "explanation": "Maximum energy transition gives minimum wavelength."
@@ -1781,7 +1781,7 @@
         "options": [
             "$0$",
             "$h/2π$",
-            "$\\sqrt{2}h/2π$",
+            "$\\\\sqrt{2}h/2π$",
             "$nh/2π$"
         ],
         "answer": 0,
@@ -1821,7 +1821,7 @@
             "$Z$"
         ],
         "answer": 2,
-        "explanation": "Bohr radius $r_n \\propto n^2$."
+        "explanation": "Bohr radius $r_n \\\\propto n^2$."
     },
     {
         "id": 153,
@@ -2094,7 +2094,7 @@
             "$4 \\to 3$",
             "$3 \\to 2$",
             "$2 \\to 1$",
-            "$\\infty \\to 1$"
+            "$\\\\infty \\to 1$"
         ],
         "answer": 3,
         "explanation": "Maximum energy transition gives minimum wavelength."
@@ -2261,7 +2261,7 @@
         "options": [
             "$0$",
             "$h/2π$",
-            "$\\sqrt{2}h/2π$",
+            "$\\\\sqrt{2}h/2π$",
             "$nh/2π$"
         ],
         "answer": 0,

@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "question": "A particle moves along a straight line with velocity \\(v = 3t^2 - 6t + 4\\) (m/s). The acceleration at \\(t = 2\\,s\\) is:",
+        "question": "A particle moves along a straight line with velocity \\\\(v = 3t^2 - 6t + 4\\\\) (m/s). The acceleration at \\\\(t = 2\\\\,s\\\\) is:",
         "options": [
             "6 m/s^2",
             "12 m/s^2",
@@ -9,11 +9,11 @@
             "18 m/s^2"
         ],
         "answer": 1,
-        "explanation": "Acceleration \\(a = dv/dt = 6t - 6\\). At \\(t=2\\), \\(a=6(2)-6=6\\,m/s^2\\)."
+        "explanation": "Acceleration \\\\(a = dv/dt = 6t - 6\\\\). At \\\\(t=2\\\\), \\\\(a=6(2)-6=6\\\\,m/s^2\\\\)."
     },
     {
         "id": 2,
-        "question": "A body is projected vertically upward with speed 20 m/s. The maximum height reached (\\(g=10\\,m/s^2\\)) is:",
+        "question": "A body is projected vertically upward with speed 20 m/s. The maximum height reached (\\\\(g=10\\\\,m/s^2\\\\)) is:",
         "options": [
             "10 m",
             "20 m",
@@ -21,11 +21,11 @@
             "40 m"
         ],
         "answer": 1,
-        "explanation": "Using \\(v^2=u^2-2gh\\), \\(0=400-20h\\Rightarrow h=20\\,m\\)."
+        "explanation": "Using \\\\(v^2=u^2-2gh\\\\), \\\\(0=400-20h\\\\Rightarrow h=20\\\\,m\\\\)."
     },
     {
         "id": 3,
-        "question": "A block of mass 2 kg is acted upon by a force \\(F=10\\,N\\). The acceleration produced is:",
+        "question": "A block of mass 2 kg is acted upon by a force \\\\(F=10\\\\,N\\\\). The acceleration produced is:",
         "options": [
             "2 m/s^2",
             "5 m/s^2",
@@ -33,7 +33,7 @@
             "20 m/s^2"
         ],
         "answer": 1,
-        "explanation": "Using Newton's second law, \\(a=F/m=10/2=5\\,m/s^2\\)."
+        "explanation": "Using Newton's second law, \\\\(a=F/m=10/2=5\\\\,m/s^2\\\\)."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
             "0 J"
         ],
         "answer": 0,
-        "explanation": "Work \\(W=Fs\\cos\\theta=5\\times4\\times0.5=10\\,J\\)."
+        "explanation": "Work \\\\(W=Fs\\\\cos\\theta=5\\times4\\times0.5=10\\\\,J\\\\)."
     },
     {
         "id": 5,
@@ -57,19 +57,19 @@
             "100 J"
         ],
         "answer": 1,
-        "explanation": "\\(KE=\\frac{1}{2}mv^2=0.5\\times1\\times100=50\\,J\\)."
+        "explanation": "\\\\(KE=\\frac{1}{2}mv^2=0.5\\times1\\times100=50\\\\,J\\\\)."
     },
     {
         "id": 6,
         "question": "Moment of inertia of a solid sphere of mass M and radius R about its diameter is:",
         "options": [
-            "\\(\\frac{2}{5}MR^2\\)",
-            "\\(\\frac{3}{5}MR^2\\)",
-            "\\(\\frac{1}{2}MR^2\\)",
-            "\\(MR^2\\)"
+            "\\\\(\\frac{2}{5}MR^2\\\\)",
+            "\\\\(\\frac{3}{5}MR^2\\\\)",
+            "\\\\(\\frac{1}{2}MR^2\\\\)",
+            "\\\\(MR^2\\\\)"
         ],
         "answer": 0,
-        "explanation": "Standard result: \\(I=\\frac{2}{5}MR^2\\)."
+        "explanation": "Standard result: \\\\(I=\\frac{2}{5}MR^2\\\\)."
     },
     {
         "id": 7,
@@ -81,31 +81,31 @@
             "mrv^2"
         ],
         "answer": 0,
-        "explanation": "Angular momentum \\(L=mvr\\)."
+        "explanation": "Angular momentum \\\\(L=mvr\\\\)."
     },
     {
         "id": 8,
         "question": "Escape velocity from Earth is proportional to:",
         "options": [
-            "\\(\\sqrt{gR}\\)",
-            "\\(gR\\)",
-            "\\(\\sqrt{g/R}\\)",
-            "\\(g/R\\)"
+            "\\\\(\\\\sqrt{gR}\\\\)",
+            "\\\\(gR\\\\)",
+            "\\\\(\\\\sqrt{g/R}\\\\)",
+            "\\\\(g/R\\\\)"
         ],
         "answer": 0,
-        "explanation": "\\(v_e=\\sqrt{2gR}\\Rightarrow v_e\\propto\\sqrt{gR}\\)."
+        "explanation": "\\\\(v_e=\\\\sqrt{2gR}\\\\Rightarrow v_e\\\\propto\\\\sqrt{gR}\\\\)."
     },
     {
         "id": 9,
-        "question": "The pressure at depth h in a liquid of density \\(\\rho\\) is:",
+        "question": "The pressure at depth h in a liquid of density \\\\(\\rho\\\\) is:",
         "options": [
-            "\\(\\rho gh\\)",
-            "\\(\\rho g/h\\)",
-            "\\(gh/\\rho\\)",
-            "\\(g/\\rho h\\)"
+            "\\\\(\\rho gh\\\\)",
+            "\\\\(\\rho g/h\\\\)",
+            "\\\\(gh/\\rho\\\\)",
+            "\\\\(g/\\rho h\\\\)"
         ],
         "answer": 0,
-        "explanation": "Pressure due to liquid column is \\(P=\\rho gh\\)."
+        "explanation": "Pressure due to liquid column is \\\\(P=\\rho gh\\\\)."
     },
     {
         "id": 10,
@@ -135,25 +135,25 @@
         "id": 12,
         "question": "Work done in isothermal expansion of ideal gas is given by:",
         "options": [
-            "\\(nRT\\ln(V_2/V_1)\\)",
-            "\\(P\\Delta V\\)",
+            "\\\\(nRT\\\\ln(V_2/V_1)\\\\)",
+            "\\\\(P\\\\Delta V\\\\)",
             "0",
-            "\\(nC_v\\Delta T\\)"
+            "\\\\(nC_v\\\\Delta T\\\\)"
         ],
         "answer": 0,
-        "explanation": "Work \\(W=nRT\\ln(V_2/V_1)\\)."
+        "explanation": "Work \\\\(W=nRT\\\\ln(V_2/V_1)\\\\)."
     },
     {
         "id": 13,
         "question": "Time period of simple pendulum of length l is:",
         "options": [
-            "\\(2\\pi\\sqrt{l/g}\\)",
-            "\\(\\sqrt{l/g}\\)",
-            "\\(2\\pi g/l\\)",
-            "\\(\\sqrt{g/l}\\)"
+            "\\\\(2\\\\pi\\\\sqrt{l/g}\\\\)",
+            "\\\\(\\\\sqrt{l/g}\\\\)",
+            "\\\\(2\\\\pi g/l\\\\)",
+            "\\\\(\\\\sqrt{g/l}\\\\)"
         ],
         "answer": 0,
-        "explanation": "\\(T=2\\pi\\sqrt{l/g}\\)."
+        "explanation": "\\\\(T=2\\\\pi\\\\sqrt{l/g}\\\\)."
     },
     {
         "id": 14,
@@ -177,19 +177,19 @@
             "Wavelength only"
         ],
         "answer": 0,
-        "explanation": "\\(v=\\sqrt{T/\\mu}\\)."
+        "explanation": "\\\\(v=\\\\sqrt{T/\\\\mu}\\\\)."
     },
     {
         "id": 16,
         "question": "Electric field due to point charge q at distance r is:",
         "options": [
-            "\\(kq/r^2\\)",
-            "\\(kq/r\\)",
-            "\\(qr^2\\)",
-            "\\(q/r^3\\)"
+            "\\\\(kq/r^2\\\\)",
+            "\\\\(kq/r\\\\)",
+            "\\\\(qr^2\\\\)",
+            "\\\\(q/r^3\\\\)"
         ],
         "answer": 0,
-        "explanation": "\\(E=kq/r^2\\)."
+        "explanation": "\\\\(E=kq/r^2\\\\)."
     },
     {
         "id": 17,
@@ -201,7 +201,7 @@
             "V/m"
         ],
         "answer": 0,
-        "explanation": "Electric flux \\(\\Phi=E\\cdot A\\), unit N·m^2/C."
+        "explanation": "Electric flux \\\\(\\\\Phi=E\\\\cdot A\\\\), unit N·m^2/C."
     },
     {
         "id": 18,
@@ -213,7 +213,7 @@
             "Charge increases"
         ],
         "answer": 0,
-        "explanation": "\\(C=\\varepsilon_0A/d\\), smaller d increases C."
+        "explanation": "\\\\(C=\\\\varepsilon_0A/d\\\\), smaller d increases C."
     },
     {
         "id": 19,
@@ -225,7 +225,7 @@
             "0.5 Ω"
         ],
         "answer": 0,
-        "explanation": "\\(1/R=1/2+1/2=1\\Rightarrow R=1\\,\\Omega\\)."
+        "explanation": "\\\\(1/R=1/2+1/2=1\\\\Rightarrow R=1\\\\,\\\\Omega\\\\)."
     },
     {
         "id": 20,
@@ -237,31 +237,31 @@
             "Length"
         ],
         "answer": 0,
-        "explanation": "\\(v_d\\propto E\\)."
+        "explanation": "\\\\(v_d\\\\propto E\\\\)."
     },
     {
         "id": 21,
         "question": "Magnetic force on a charge q moving with velocity v in magnetic field B is:",
         "options": [
-            "\\(qvB\\sin\\theta\\)",
-            "\\(qvB\\cos\\theta\\)",
-            "\\(qv/B\\)",
-            "\\(qB/v\\)"
+            "\\\\(qvB\\\\sin\\theta\\\\)",
+            "\\\\(qvB\\\\cos\\theta\\\\)",
+            "\\\\(qv/B\\\\)",
+            "\\\\(qB/v\\\\)"
         ],
         "answer": 0,
-        "explanation": "\\(F=qvB\\sin\\theta\\)."
+        "explanation": "\\\\(F=qvB\\\\sin\\theta\\\\)."
     },
     {
         "id": 22,
         "question": "Radius of circular path of charged particle in magnetic field is:",
         "options": [
-            "\\(mv/qB\\)",
-            "\\(qB/mv\\)",
-            "\\(mv^2/qB\\)",
-            "\\(qv/mB\\)"
+            "\\\\(mv/qB\\\\)",
+            "\\\\(qB/mv\\\\)",
+            "\\\\(mv^2/qB\\\\)",
+            "\\\\(qv/mB\\\\)"
         ],
         "answer": 0,
-        "explanation": "\\(r=mv/(qB)\\)."
+        "explanation": "\\\\(r=mv/(qB)\\\\)."
     },
     {
         "id": 23,
@@ -273,19 +273,19 @@
             "Resistance only"
         ],
         "answer": 0,
-        "explanation": "Faraday's law: \\(\\mathcal{E}=-d\\Phi/dt\\)."
+        "explanation": "Faraday's law: \\\\(\\\\mathcal{E}=-d\\\\Phi/dt\\\\)."
     },
     {
         "id": 24,
         "question": "Reactance of capacitor in AC circuit is:",
         "options": [
-            "\\(1/\\omega C\\)",
-            "\\(\\omega C\\)",
-            "\\(R\\)",
-            "\\(\\omega L\\)"
+            "\\\\(1/\\\\omega C\\\\)",
+            "\\\\(\\\\omega C\\\\)",
+            "\\\\(R\\\\)",
+            "\\\\(\\\\omega L\\\\)"
         ],
         "answer": 0,
-        "explanation": "Capacitive reactance \\(X_C=1/\\omega C\\)."
+        "explanation": "Capacitive reactance \\\\(X_C=1/\\\\omega C\\\\)."
     },
     {
         "id": 25,
@@ -333,7 +333,7 @@
             "All of these"
         ],
         "answer": 3,
-        "explanation": "\\(\\beta=\\lambda D/d\\)."
+        "explanation": "\\\\(\\beta=\\\\lambda D/d\\\\)."
     },
     {
         "id": 29,
@@ -351,13 +351,13 @@
         "id": 30,
         "question": "De Broglie wavelength of particle is:",
         "options": [
-            "\\(h/p\\)",
-            "\\(p/h\\)",
-            "\\(hp\\)",
-            "\\(h/mv^2\\)"
+            "\\\\(h/p\\\\)",
+            "\\\\(p/h\\\\)",
+            "\\\\(hp\\\\)",
+            "\\\\(h/mv^2\\\\)"
         ],
         "answer": 0,
-        "explanation": "\\(\\lambda=h/p\\)."
+        "explanation": "\\\\(\\\\lambda=h/p\\\\)."
     },
     {
         "id": 31,
@@ -369,7 +369,7 @@
             "Pressure"
         ],
         "answer": 0,
-        "explanation": "\\(T_{1/2}=0.693/\\lambda\\)."
+        "explanation": "\\\\(T_{1/2}=0.693/\\\\lambda\\\\)."
     },
     {
         "id": 32,
@@ -381,7 +381,7 @@
             "Binding energy decrease"
         ],
         "answer": 0,
-        "explanation": "Energy \\(E=\\Delta mc^2\\)."
+        "explanation": "Energy \\\\(E=\\\\Delta mc^2\\\\)."
     },
     {
         "id": 33,
@@ -423,10 +423,10 @@
         "id": 36,
         "question": "Dimensional formula of force is:",
         "options": [
-            "\\(MLT^{-2}\\)",
-            "\\(ML^2T^{-2}\\)",
-            "\\(MT^{-1}\\)",
-            "\\(LT^{-2}\\)"
+            "\\\\(MLT^{-2}\\\\)",
+            "\\\\(ML^2T^{-2}\\\\)",
+            "\\\\(MT^{-1}\\\\)",
+            "\\\\(LT^{-2}\\\\)"
         ],
         "answer": 0,
         "explanation": "Force = mass × acceleration."
@@ -447,13 +447,13 @@
         "id": 38,
         "question": "Torque is defined as:",
         "options": [
-            "\\(\\vec{r}\\times\\vec{F}\\)",
-            "\\(\\vec{F}/r\\)",
-            "\\(\\vec{F}\\cdot\\vec{r}\\)",
-            "\\(Fr\\)"
+            "\\\\(\\\\vec{r}\\times\\\\vec{F}\\\\)",
+            "\\\\(\\\\vec{F}/r\\\\)",
+            "\\\\(\\\\vec{F}\\\\cdot\\\\vec{r}\\\\)",
+            "\\\\(Fr\\\\)"
         ],
         "answer": 0,
-        "explanation": "Torque \\(\\tau=\\vec{r}\\times\\vec{F}\\)."
+        "explanation": "Torque \\\\(\\tau=\\\\vec{r}\\times\\\\vec{F}\\\\)."
     },
     {
         "id": 39,
@@ -465,7 +465,7 @@
             "Becomes zero"
         ],
         "answer": 0,
-        "explanation": "\\(c=\\lambda\\nu\\), increase in \\(\\lambda\\) decreases \\(\\nu\\)."
+        "explanation": "\\\\(c=\\\\lambda\\nu\\\\), increase in \\\\(\\\\lambda\\\\) decreases \\\\(\\nu\\\\)."
     },
     {
         "id": 40,
@@ -477,7 +477,7 @@
             "Volume"
         ],
         "answer": 0,
-        "explanation": "\\(\\eta=1-T_2/T_1\\)."
+        "explanation": "\\\\(\\\\eta=1-T_2/T_1\\\\)."
     },
     {
         "id": 41,
@@ -501,19 +501,19 @@
             "Voltage"
         ],
         "answer": 0,
-        "explanation": "\\(B=\\mu_0I/2R\\)."
+        "explanation": "\\\\(B=\\\\mu_0I/2R\\\\)."
     },
     {
         "id": 43,
         "question": "Energy stored in capacitor is:",
         "options": [
-            "\\(\\frac{1}{2}CV^2\\)",
-            "\\(CV\\)",
-            "\\(C/V\\)",
-            "\\(V^2/C\\)"
+            "\\\\(\\frac{1}{2}CV^2\\\\)",
+            "\\\\(CV\\\\)",
+            "\\\\(C/V\\\\)",
+            "\\\\(V^2/C\\\\)"
         ],
         "answer": 0,
-        "explanation": "Energy \\(U=\\frac{1}{2}CV^2\\)."
+        "explanation": "Energy \\\\(U=\\frac{1}{2}CV^2\\\\)."
     },
     {
         "id": 44,
@@ -543,13 +543,13 @@
         "id": 46,
         "question": "Speed of electromagnetic waves in vacuum is:",
         "options": [
-            "\\(3\\times10^8\\,m/s\\)",
+            "\\\\(3\\times10^8\\\\,m/s\\\\)",
             "Depends on frequency",
             "Zero",
             "Infinite"
         ],
         "answer": 0,
-        "explanation": "Speed of light in vacuum is \\(3\\times10^8\\,m/s\\)."
+        "explanation": "Speed of light in vacuum is \\\\(3\\times10^8\\\\,m/s\\\\)."
     },
     {
         "id": 47,
@@ -585,7 +585,7 @@
             "v/m"
         ],
         "answer": 0,
-        "explanation": "Momentum \\(p=mv\\)."
+        "explanation": "Momentum \\\\(p=mv\\\\)."
     },
     {
         "id": 50,

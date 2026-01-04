@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "question": "The SI unit of magnetic flux density \\(B\\) is equivalent to:",
+        "question": "The SI unit of magnetic flux density \\\\(B\\\\) is equivalent to:",
         "options": [
             "N A$^{-1}$ m$^{-1}$",
             "N m A$^{-1}$",
@@ -9,7 +9,7 @@
             "T m"
         ],
         "answer": 0,
-        "explanation": "From Lorentz force \\(F = qvB\\), unit of B is N A$^{-1}$ m$^{-1}$, defined as tesla."
+        "explanation": "From Lorentz force \\\\(F = qvB\\\\), unit of B is N A$^{-1}$ m$^{-1}$, defined as tesla."
     },
     {
         "id": 2,
@@ -27,13 +27,13 @@
         "id": 3,
         "question": "The magnetic field at the centre of a circular current carrying loop of radius R carrying current I is:",
         "options": [
-            "\\(\\mu_0 I / 2R\\)",
-            "\\(\\mu_0 I / R\\)",
-            "\\(\\mu_0 I / 4R\\)",
-            "\\(2\\mu_0 I / R\\)"
+            "\\\\(\\\\mu_0 I / 2R\\\\)",
+            "\\\\(\\\\mu_0 I / R\\\\)",
+            "\\\\(\\\\mu_0 I / 4R\\\\)",
+            "\\\\(2\\\\mu_0 I / R\\\\)"
         ],
         "answer": 0,
-        "explanation": "From NCERT, field at centre of circular loop is \\(B = \\mu_0 I / 2R\\)."
+        "explanation": "From NCERT, field at centre of circular loop is \\\\(B = \\\\mu_0 I / 2R\\\\)."
     },
     {
         "id": 4,
@@ -45,7 +45,7 @@
             "r$^2$"
         ],
         "answer": 0,
-        "explanation": "According to Biot–Savart law, \\(B \\propto 1/r\\)."
+        "explanation": "According to Biot–Savart law, \\\\(B \\\\propto 1/r\\\\)."
     },
     {
         "id": 5,
@@ -69,7 +69,7 @@
             "4:1"
         ],
         "answer": 1,
-        "explanation": "Radius \\(r = mv/qB\\). Alpha has 4m and 2q, so ratio = 1:2."
+        "explanation": "Radius \\\\(r = mv/qB\\\\). Alpha has 4m and 2q, so ratio = 1:2."
     },
     {
         "id": 7,
@@ -81,7 +81,7 @@
             "BIA"
         ],
         "answer": 0,
-        "explanation": "Magnetic moment is \\(\\vec{m} = I \\vec{A}\\)."
+        "explanation": "Magnetic moment is \\\\(\\\\vec{m} = I \\\\vec{A}\\\\)."
     },
     {
         "id": 8,
@@ -93,7 +93,7 @@
             "m/B"
         ],
         "answer": 2,
-        "explanation": "Torque magnitude is \\(\\tau = mB \\sin\\theta\\)."
+        "explanation": "Torque magnitude is \\\\(\\tau = mB \\\\sin\\theta\\\\)."
     },
     {
         "id": 9,
@@ -105,7 +105,7 @@
             "45°"
         ],
         "answer": 0,
-        "explanation": "Potential energy \\(U = -mB\\cos\\theta\\) is minimum at \\(\\theta = 0°\\)."
+        "explanation": "Potential energy \\\\(U = -mB\\\\cos\\theta\\\\) is minimum at \\\\(\\theta = 0°\\\\)."
     },
     {
         "id": 10,
@@ -165,7 +165,7 @@
             "90°"
         ],
         "answer": 3,
-        "explanation": "Force \\(F = BIL \\sin\\theta\\) is maximum at 90°."
+        "explanation": "Force \\\\(F = BIL \\\\sin\\theta\\\\) is maximum at 90°."
     },
     {
         "id": 15,
@@ -177,7 +177,7 @@
             "magnetic field"
         ],
         "answer": 2,
-        "explanation": "Cyclotron frequency \\(\\omega = qB/m\\) does not depend on velocity."
+        "explanation": "Cyclotron frequency \\\\(\\\\omega = qB/m\\\\) does not depend on velocity."
     },
     {
         "id": 16,
@@ -243,13 +243,13 @@
         "id": 21,
         "question": "The expression for magnetic field inside a long solenoid is:",
         "options": [
-            "\\(\\mu_0 n I\\)",
-            "\\(\\mu_0 I / 2R\\)",
-            "\\(\\mu_0 n^2 I\\)",
-            "\\(\\mu_0 I / r\\)"
+            "\\\\(\\\\mu_0 n I\\\\)",
+            "\\\\(\\\\mu_0 I / 2R\\\\)",
+            "\\\\(\\\\mu_0 n^2 I\\\\)",
+            "\\\\(\\\\mu_0 I / r\\\\)"
         ],
         "answer": 0,
-        "explanation": "Magnetic field inside solenoid is \\(B = \\mu_0 n I\\)."
+        "explanation": "Magnetic field inside solenoid is \\\\(B = \\\\mu_0 n I\\\\)."
     },
     {
         "id": 22,
@@ -265,7 +265,7 @@
     },
     {
         "id": 23,
-        "question": "The permeability of free space \\(\\mu_0\\) has the value:",
+        "question": "The permeability of free space \\\\(\\\\mu_0\\\\) has the value:",
         "options": [
             "4π × 10$^{-7}$ T m A$^{-1}$",
             "10$^{-7}$ T m A$^{-1}$",
@@ -273,7 +273,7 @@
             "10$^{-6}$ T m A$^{-1}$"
         ],
         "answer": 0,
-        "explanation": "NCERT gives \\(\\mu_0 = 4\\pi \\times 10^{-7}\\) T m A$^{-1}$."
+        "explanation": "NCERT gives \\\\(\\\\mu_0 = 4\\\\pi \\times 10^{-7}\\\\) T m A$^{-1}$."
     },
     {
         "id": 24,
@@ -393,7 +393,7 @@
             "variable force"
         ],
         "answer": 2,
-        "explanation": "Magnetic force \\(F = qvB\\sin\\theta\\) is zero when θ = 0°."
+        "explanation": "Magnetic force \\\\(F = qvB\\\\sin\\theta\\\\) is zero when θ = 0°."
     },
     {
         "id": 34,
@@ -567,13 +567,13 @@
         "id": 48,
         "question": "Magnetic permeability of a paramagnetic material is:",
         "options": [
-            "less than \\(\\mu_0\\)",
-            "equal to \\(\\mu_0\\)",
-            "slightly greater than \\(\\mu_0\\)",
+            "less than \\\\(\\\\mu_0\\\\)",
+            "equal to \\\\(\\\\mu_0\\\\)",
+            "slightly greater than \\\\(\\\\mu_0\\\\)",
             "very large"
         ],
         "answer": 2,
-        "explanation": "Paramagnetic materials have permeability slightly greater than \\(\\mu_0\\)."
+        "explanation": "Paramagnetic materials have permeability slightly greater than \\\\(\\\\mu_0\\\\)."
     },
     {
         "id": 49,
