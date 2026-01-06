@@ -8,6 +8,7 @@ import AdminPanel from "./components/AdminPanel";
 import DevChecklist from "./components/DevChecklist";
 import ProtectedRoute from "./routes/ProtectedRoute";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 import CollegeFinder from "./pages/CollegeFinder";
 import NeetPrepStrategy from "./pages/NeetPrepStrategy";
 import DeemedExplorer from "./pages/DeemedExplorer";
@@ -24,6 +25,11 @@ import Profile from "./pages/Profile";
 import Mentorship from "./pages/Mentorship";
 import PrivateDeemedFinder from "./pages/PrivateDeemedFinder";
 import Roadmap from "./pages/Roadmap";
+import AboutUs from "./pages/AboutUs";
+import ContactUs from "./pages/ContactUs";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsConditions from "./pages/TermsConditions";
+import Disclaimer from "./pages/Disclaimer";
 
 import RankAnalysis from "./pages/RankAnalysis";
 
@@ -148,6 +154,15 @@ export default function App() {
 
 
 
+
+
+        {/* Static Legal & Info Pages */}
+        <Route path="/about" element={<AboutUs />} />
+        <Route path="/contact" element={<ContactUs />} />
+        <Route path="/privacy-policy" element={<PrivacyPolicy />} />
+        <Route path="/terms" element={<TermsConditions />} />
+        <Route path="/disclaimer" element={<Disclaimer />} />
+
         {/* Admin Routes */}
         <Route
           path="/admin"
@@ -170,8 +185,12 @@ export default function App() {
           <Route path="data" element={<AdminDataManager />} />
           <Route path="ai-generator" element={<AiTestGen />} />
 
+
+
         </Route>
       </Routes>
+      {!isAdminRoute && <Footer />
+      }
     </>
   );
 }

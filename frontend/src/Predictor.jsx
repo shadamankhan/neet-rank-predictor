@@ -79,10 +79,15 @@ const styles = {
     padding: '30px',
     boxShadow: '0 10px 40px rgba(0,0,0,0.05)',
     marginBottom: '30px',
-    display: 'grid',
-    gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))',
-    gap: '30px',
-    alignItems: 'start'
+    display: 'flex',
+    flexWrap: 'wrap',
+    gap: '40px',
+    alignItems: 'start',
+    justifyContent: 'space-between'
+  },
+  resultColumn: {
+    flex: '1 1 400px', // Grow, Shrink, Basis (min-width)
+    minWidth: '300px'
   },
   statBox: {
     textAlign: 'center',
@@ -202,6 +207,7 @@ export default function Predictor() {
 
         <div style={styles.inputGroup}>
           <input
+            id="predictor-input-score"
             type="number"
             style={styles.input}
             placeholder="Score"
@@ -210,6 +216,7 @@ export default function Predictor() {
             onKeyDown={e => e.key === 'Enter' && handlePredict()}
           />
           <button
+            id="predictor-btn-submit"
             style={{ ...styles.button, transform: loading ? 'scale(0.95)' : 'scale(1)' }}
             onClick={handlePredict}
             disabled={loading}
@@ -223,7 +230,7 @@ export default function Predictor() {
         <div style={styles.resultCard}>
 
           {/* Left: Main Prediction */}
-          <div>
+          <div style={styles.resultColumn}>
             <div style={styles.statBox}>
               <div style={{ fontSize: '1.2rem', color: '#666', marginBottom: '5px' }}>Predicted Rank (2026 Estimate)</div>
               <div style={styles.rankDisplay}>
@@ -265,48 +272,47 @@ export default function Predictor() {
           </div>
 
           {/* Right: Charts & Analysis */}
-          <div>
+          <div style={styles.resultColumn}>
             {/* Rank Trend Chart */}
             <RankTrendChart history={result.history} />
-
-            {/* Simple Fee Filter / College Preview */}
-            <div style={{ marginTop: '20px' }}>
-              <FeeSlider rank={result.predictedRank} results={collegeOptions} onFilter={handleFeeChange} />
-
-              <h4 style={{ marginBottom: '10px', marginTop: '20px' }}>Potential Colleges ({filteredColleges.length})</h4>
-              {filteredColleges.length > 0 ? (
-                <div style={styles.collegeList}>
-                  {filteredColleges.slice(0, 50).map((c, i) => (
-                    <div key={i} style={styles.collegeItem}>
-                      <div>
-                        <div style={{ fontWeight: 'bold' }}>{c.college_name}</div>
-                        <div style={{ fontSize: '0.8rem', color: '#666' }}>
-                          {c.state} • Cutoff: {c.closing_rank}
-                          <span style={{
-                            marginLeft: '8px',
-                            padding: '2px 8px',
-                            borderRadius: '12px',
-                            background: (c.closing_rank - result.predictedRank > 2000) ? '#d4edda' : '#fff3cd',
-                            color: (c.closing_rank - result.predictedRank > 2000) ? '#155724' : '#856404',
-                            fontSize: '0.7rem',
-                            fontWeight: 'bold'
-                          }}>
-                            {(c.closing_rank - result.predictedRank > 2000) ? 'High' : 'Med'}
-                          </span>
-                        </div>
-                      </div>
-                      <div style={{ color: '#27ae60', fontWeight: 'bold', fontSize: '0.9rem' }}>
-                        {c.feeDisplay || "Fee N/A"}
-                      </div>
-                    </div>
-                  ))}
-                </div>
-              ) : (
-                <p style={{ color: '#888' }}>Enter a valid score to see college options.</p>
-              )}
-            </div>
           </div>
 
+          {/* Full Width: College List & Fees */}
+          <div style={{ width: '100%', marginTop: '30px', borderTop: '1px solid #eee', paddingTop: '30px' }}>
+            <FeeSlider rank={result.predictedRank} results={collegeOptions} onFilter={handleFeeChange} />
+
+            <h4 style={{ marginBottom: '10px', marginTop: '20px' }}>Potential Colleges ({filteredColleges.length})</h4>
+            {filteredColleges.length > 0 ? (
+              <div style={styles.collegeList}>
+                {filteredColleges.slice(0, 50).map((c, i) => (
+                  <div key={i} style={styles.collegeItem}>
+                    <div>
+                      <div style={{ fontWeight: 'bold' }}>{c.college_name}</div>
+                      <div style={{ fontSize: '0.8rem', color: '#666' }}>
+                        {c.state} • Cutoff: {c.closing_rank}
+                        <span style={{
+                          marginLeft: '8px',
+                          padding: '2px 8px',
+                          borderRadius: '12px',
+                          background: (c.closing_rank - result.predictedRank > 2000) ? '#d4edda' : '#fff3cd',
+                          color: (c.closing_rank - result.predictedRank > 2000) ? '#155724' : '#856404',
+                          fontSize: '0.7rem',
+                          fontWeight: 'bold'
+                        }}>
+                          {(c.closing_rank - result.predictedRank > 2000) ? 'High' : 'Med'}
+                        </span>
+                      </div>
+                    </div>
+                    <div style={{ color: '#27ae60', fontWeight: 'bold', fontSize: '0.9rem' }}>
+                      {c.feeDisplay || "Fee N/A"}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ) : (
+              <p style={{ color: '#888' }}>Enter a valid score to see college options.</p>
+            )}
+          </div>
         </div>
       )}
 

@@ -5,12 +5,23 @@ import { onAuthStateChanged, getRedirectResult } from "firebase/auth";
 import { isAdminEmail } from "../utils/adminConfig";
 import ThemePanel from "./ThemePanel";
 import AskQueryModal from "./AskQueryModal";
+import TourGuide from "./TourGuide";
 
 export default function Navbar() {
   const [user, setUser] = useState(null);
   const [isOpen, setIsOpen] = useState(false);
   const [showThemePanel, setShowThemePanel] = useState(false);
   const navigate = useNavigate(); // Hook initialized
+  const [runTour, setRunTour] = useState(false);
+
+  useEffect(() => {
+    // Auto-start tour for new users
+    const hasSeen = localStorage.getItem('hasSeenTour');
+    if (!hasSeen) {
+      const timer = setTimeout(() => setRunTour(true), 1500);
+      return () => clearTimeout(timer);
+    }
+  }, []);
 
   // Dropdown states
   // Dropdown states
@@ -83,8 +94,9 @@ export default function Navbar() {
   ];
 
   // Helper for Dropdowns (Desktop)
-  const NavDropdown = ({ label, isOpen, setIsOpen, items }) => (
+  const NavDropdown = ({ label, isOpen, setIsOpen, items, id }) => (
     <div
+      id={id}
       className="relative group h-full flex items-center"
       onMouseEnter={() => setIsOpen(true)}
       onMouseLeave={() => setIsOpen(false)}
@@ -174,14 +186,14 @@ export default function Navbar() {
 
           {/* Desktop Navigation */}
           <div className="hidden lg:flex items-center gap-1 h-full">
-            <NavDropdown label="NEET Predictor" isOpen={predictorOpen} setIsOpen={setPredictorOpen} items={predictorItems} />
-            <NavDropdown label="College Finder" isOpen={collegeFinderOpen} setIsOpen={setCollegeFinderOpen} items={collegeFinderItems} />
+            <NavDropdown id="nav-predictor" label="NEET Predictor" isOpen={predictorOpen} setIsOpen={setPredictorOpen} items={predictorItems} />
+            <NavDropdown id="nav-college-finder" label="College Finder" isOpen={collegeFinderOpen} setIsOpen={setCollegeFinderOpen} items={collegeFinderItems} />
 
-            <Link to="/neet-test-series" className="px-3 py-2 text-[15px] font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 rounded-lg transition-all flex items-center gap-1">
+            <Link id="nav-test-series" to="/neet-test-series" className="px-3 py-2 text-[15px] font-medium text-slate-600 hover:text-slate-900 hover:bg-slate-50 rounded-lg transition-all flex items-center gap-1">
               <span className="text-blue-600">⚡</span> NEET Test Series
             </Link>
 
-            <NavDropdown label="State-wise Cutoff & Fees" isOpen={stateDataOpen} setIsOpen={setStateDataOpen} items={stateExplorers} />
+            <NavDropdown id="nav-state-data" label="State-wise Cutoff & Fees" isOpen={stateDataOpen} setIsOpen={setStateDataOpen} items={stateExplorers} />
             <NavDropdown label="NEET Counselling Guidance" isOpen={guidanceOpen} setIsOpen={setGuidanceOpen} items={guidanceItems} />
           </div>
 
@@ -195,6 +207,7 @@ export default function Navbar() {
             )}
 
             <button
+              id="nav-ask-expert"
               onClick={() => setShowAskModal(true)}
               className="px-5 py-2.5 rounded-xl bg-slate-900 text-white font-medium text-sm transition-all hover:bg-slate-800 hover:shadow-lg active:scale-95 flex items-center gap-2 group"
             >
@@ -205,6 +218,15 @@ export default function Navbar() {
             {/* Auth/Profile */}
             <div className="pl-4 border-l border-slate-200 flex items-center gap-3">
               <button
+                onClick={() => setRunTour(true)}
+                className="w-9 h-9 flex items-center justify-center rounded-full text-slate-500 hover:bg-slate-100 hover:text-slate-900 transition-colors"
+                title="Start Product Tour"
+              >
+                🧭
+              </button>
+
+              <button
+                id="nav-theme-toggle"
                 onClick={() => setShowThemePanel(!showThemePanel)}
                 className="w-9 h-9 flex items-center justify-center rounded-full text-slate-500 hover:bg-slate-100 hover:text-slate-900 transition-colors"
                 title="Customize Theme"
@@ -267,6 +289,8 @@ export default function Navbar() {
           )}
         </div>
       </nav>
+
+      <TourGuide run={runTour} setRun={setRunTour} />
 
       {/* Mobile Sidebar Overlay */}
       <div

@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { searchColleges, fetchCollegeFilters } from '../api';
+import { SkeletonTable } from '../components/Skeleton';
 import { getAuth } from "firebase/auth";
 
 export default function CollegeFinder() {
@@ -115,7 +116,7 @@ export default function CollegeFinder() {
                 border: "1px solid var(--border)",
                 marginBottom: "40px"
             }}>
-                <form onSubmit={handleSubmit} style={{
+                <form id="college-finder-form" onSubmit={handleSubmit} style={{
                     display: "grid",
                     gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
                     gap: "20px",
@@ -249,7 +250,25 @@ export default function CollegeFinder() {
                 )}
             </div>
 
-            {results.length > 0 && (
+            {/* Loading Skeleton */}
+            {loading && (
+                <div style={{ marginTop: "40px" }}>
+                    <h2 style={{ fontSize: "1.5rem", fontWeight: "700", color: "var(--text-primary)", marginBottom: "20px" }}>
+                        Analyzing Colleges...
+                    </h2>
+                    <div style={{
+                        background: "var(--bg-card)",
+                        borderRadius: "12px",
+                        padding: "20px",
+                        boxShadow: "0 4px 6px -1px rgba(0,0,0,0.05)",
+                        border: "1px solid var(--border)"
+                    }}>
+                        <SkeletonTable rows={10} columns={8} />
+                    </div>
+                </div>
+            )}
+
+            {!loading && results.length > 0 && (
                 <div style={{ animation: "fadeIn 0.5s ease-out" }}>
                     <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "20px" }}>
                         <h2 style={{ fontSize: "1.5rem", fontWeight: "700", color: "var(--text-primary)" }}>

@@ -1,12 +1,14 @@
 import React, { useState } from 'react';
 import { NavLink, Outlet, useNavigate } from 'react-router-dom';
 import { getAuth, signOut } from 'firebase/auth';
+import AdminTourGuide from './AdminTourGuide';
 
 export default function AdminLayout() {
   const navigate = useNavigate();
   const auth = getAuth();
   const user = auth.currentUser;
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [runTour, setRunTour] = useState(false);
 
   const handleLogout = async () => {
     await signOut(auth);
@@ -81,6 +83,7 @@ export default function AdminLayout() {
               key={idx}
               to={item.to}
               end={item.end}
+              id={`nav-item-${item.label.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}
               className={({ isActive }) => `w-full flex items-center space-x-3 px-4 py-3 rounded-lg text-sm font-medium transition-all duration-200 ${isActive
                 ? 'bg-blue-50 text-blue-700 shadow-sm'
                 : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
@@ -94,7 +97,17 @@ export default function AdminLayout() {
         </nav>
 
         <div className="p-4 border-t border-gray-100 bg-gray-50">
-          <div className="flex items-center space-x-3 mb-3">
+          <div className="mb-4">
+            <button
+              id="btn-start-tour"
+              onClick={() => setRunTour(true)}
+              className="w-full flex items-center justify-center space-x-2 px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium rounded-lg transition-colors shadow-sm"
+            >
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+              <span>Take a Tour</span>
+            </button>
+          </div>
+          <div className="flex items-center space-x-3 mb-3" id="admin-user-profile">
             <div className="w-10 h-10 rounded-full bg-white border border-gray-200 flex items-center justify-center text-gray-500 font-bold shadow-sm">
               {user?.email?.[0]?.toUpperCase() || 'A'}
             </div>
@@ -128,6 +141,7 @@ export default function AdminLayout() {
           </div>
         </div>
       </main>
+      <AdminTourGuide run={runTour} setRun={setRunTour} />
     </div>
   );
 }

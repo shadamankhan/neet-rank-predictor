@@ -2,6 +2,7 @@
 import React, { useEffect, useState } from "react";
 import { getAuth } from "firebase/auth";
 import { fetchHistory, deletePrediction } from "../api";
+import { SkeletonTable } from './Skeleton';
 
 /**
  * Helper: convert Firestore Timestamp or plain value -> ISO string
@@ -119,9 +120,15 @@ export default function PredictionHistory({ refreshSignal }) {
     downloadTextFile(filename, csv);
   };
 
-  if (loading) return <p style={{ padding: 20 }}>Loading history...</p>;
+  // Gracefully hide if loading or no history to avoid UI clutter
+  if (loading) return (
+    <div style={{ padding: 20 }}>
+      <h3>History</h3>
+      <SkeletonTable rows={3} columns={4} />
+    </div>
+  );
+  if (!history.length) return null; // Keep null if simply empty (no history)
   if (error) return <p style={{ padding: 20, color: "red" }}>{error}</p>;
-  if (!history.length) return <div style={{ padding: 20 }}>No history found.</div>;
 
   return (
     <div style={{ padding: 20 }}>
