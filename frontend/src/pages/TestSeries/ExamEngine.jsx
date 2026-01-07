@@ -480,7 +480,7 @@ const ExamEngine = ({ mode }) => {
                             Time Left: {formatTime(timeLeft)}
                         </div>
                     )}
-                    )}
+
                     {/* Mobile Menu Toggle */}
                     <button
                         className="mobile-menu-btn"
