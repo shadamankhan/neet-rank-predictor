@@ -56,6 +56,7 @@ import StudentManager from "./pages/admin/StudentManager";
 
 import StudentProfile from "./pages/admin/StudentProfile";
 import TestResults from "./pages/admin/TestResults";
+import TutorialGenerator from "./pages/admin/TutorialGenerator";
 
 export default function App() {
   const location = useLocation();
@@ -165,6 +166,15 @@ export default function App() {
 
         {/* Admin Routes */}
         <Route
+          path="/admin/tutorials"
+          element={
+            <ProtectedRoute requireAdmin={true}>
+              <TutorialGenerator />
+            </ProtectedRoute>
+          }
+        />
+
+        <Route
           path="/admin"
           element={
             <ProtectedRoute requireAdmin={true}>
@@ -184,6 +194,7 @@ export default function App() {
           <Route path="quizzes" element={<QuizManager />} />
           <Route path="data" element={<AdminDataManager />} />
           <Route path="ai-generator" element={<AiTestGen />} />
+
 
 
 

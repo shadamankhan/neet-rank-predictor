@@ -20,13 +20,21 @@ const readDB = () => {
         if (!db.tests) db.tests = [];
         return db;
     } catch (err) {
-        return { tests: [], questions: [] };
+        // Only return empty if file doesn't exist.
+        // If file exists but is locked or corrupt, THROW error to prevent overwrite.
+        if (err.code === 'ENOENT') {
+            return { tests: [], questions: [] };
+        }
+        console.error(`CRITICAL: Failed to read DB ${TESTS_FILE}. Error:`, err.message);
+        throw err; // Stop execution to protect data
     }
 };
 
-// Helper to write DB
+// Helper to write DB (Atomic Write)
 const writeDB = (data) => {
-    fs.writeFileSync(TESTS_FILE, JSON.stringify(data, null, 2));
+    const tempFile = `${TESTS_FILE}.tmp`;
+    fs.writeFileSync(tempFile, JSON.stringify(data, null, 2));
+    fs.renameSync(tempFile, TESTS_FILE);
 };
 
 // GET all tests

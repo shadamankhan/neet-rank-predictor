@@ -55,7 +55,10 @@ console.log("✅ CORS enabled for http://localhost:5173");
 // Serve Quizzes Static Directory (PDFs)
 const path = require('path');
 app.use('/data/quizzes', express.static(path.join(__dirname, '../data/quizzes')));
+const tutorialPath = path.resolve(__dirname, '../data/tutorials');
+app.use('/data/tutorials', express.static(tutorialPath));
 console.log("📂 Serving Static PDFs at /data/quizzes");
+console.log(`📂 Serving Static Tutorials at ${tutorialPath}`);
 
 // Public API (example)
 app.get('/api/ping', (req, res) => res.json({ ok: true, now: new Date().toISOString() }));
@@ -144,6 +147,9 @@ app.use('/api/admin/quiz', adminAuth, adminQuizRouter); // Protected by Admin Au
 app.use('/api/admin', adminAuth, adminExportRouter);
 app.use('/api/admin', adminAuth, adminUploadRouter);
 
+const tutorialRouter = require('../routes/tutorialRoutes');
+app.use('/api/admin/tutorials', adminAuth, tutorialRouter);
+
 // 404 Handler for debugging
 app.use((req, res, next) => {
   console.log(`❌ 404 Not Found: ${req.method} ${req.originalUrl}`);
@@ -157,7 +163,15 @@ app.use((err, req, res, next) => {
   res.status(500).json({ ok: false, error: 'Internal server error' });
 });
 
-// Start Server with Cache Initialization
+// Start Server Immediately (Don't wait for DB)
+app.listen(PORT, () => {
+  console.log(`\n✅ SERVER CONNECTED | PORT ${PORT} | VERSION: [ V5-UNIFIED-SERVER ]`);
+  console.log(`   History API: http://localhost:${PORT}/api/history`);
+  console.log(`   Predict API: http://localhost:${PORT}/api/predict`);
+  console.log(`   Admin Export: http://localhost:${PORT}/api/admin/export\n`);
+});
+
+// Initialize Prediction Cache & DB in Background
 (async () => {
   try {
     console.log("🔄 Initializing Prediction Cache...");
@@ -168,7 +182,7 @@ app.use((err, req, res, next) => {
       await mongoose.connect(MONGO_URI);
       console.log(`✅ MongoDB Connected: ${MONGO_URI}`);
     } catch (mongoErr) {
-      console.error("❌ MongoDB Connection Error:", mongoErr);
+      console.error("❌ MongoDB Connection Error:", mongoErr.message);
     }
 
     try {
@@ -179,16 +193,9 @@ app.use((err, req, res, next) => {
       console.error("⚠️ Prediction Cache Init Failed:", cacheErr.message);
     }
 
-    app.listen(PORT, () => {
-      console.log(`\n✅ SERVER CONNECTED | PORT ${PORT} | VERSION: [ V5-UNIFIED-SERVER ]`);
-      console.log(`   History API: http://localhost:${PORT}/api/history`);
-      console.log(`   Predict API: http://localhost:${PORT}/api/predict`);
-      console.log(`   Admin Export: http://localhost:${PORT}/api/admin/export\n`);
-    });
   } catch (err) {
-    console.error("❌ Failed to start server:", err);
-    process.exit(1);
+    console.error("❌ Background Init Failed:", err);
   }
 })();
 
-// Force Restart Trigger 1
+// Force Restart Trigger 2

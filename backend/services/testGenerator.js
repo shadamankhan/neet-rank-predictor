@@ -57,7 +57,8 @@ const parseMetadataFromFilename = (filename, folderName = null) => {
 let questionCache = null;
 
 const loadQuestionBank = () => {
-    if (questionCache) return questionCache;
+    // Bypass cache in development to allow hot-reloading of questions
+    if (process.env.NODE_ENV === 'production' && questionCache) return questionCache;
 
     const allQuestions = [];
 
@@ -89,7 +90,10 @@ const loadQuestionBank = () => {
                 const content = fs.readFileSync(filePath, 'utf8');
                 const questions = JSON.parse(content);
 
-                if (!Array.isArray(questions)) return;
+                if (!Array.isArray(questions)) {
+                    console.warn(`[WARN] Skipping ${file}: Root element is not an array.`);
+                    return;
+                }
 
                 const meta = parseMetadataFromFilename(file, folderName);
 
@@ -116,7 +120,8 @@ const loadQuestionBank = () => {
                     });
                 });
             } catch (e) {
-                // Skip bad files
+                console.error(`[ERROR] Failed to load quiz file: ${file}`);
+                console.error(`Reason: ${e.message}`);
             }
         });
     } catch (e) {
