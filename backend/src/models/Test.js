@@ -12,6 +12,10 @@ const TestSchema = new mongoose.Schema({
     totalQuestions: { type: Number, default: 180 },
     difficulty: { type: String, enum: ['easy', 'medium', 'hard', 'neet-level'] },
 
+    // Commerce
+    price: { type: Number, default: 0 },
+    isPremium: { type: Boolean, default: false },
+
     // Content Source (The 3 Options)
     contentSource: {
         type: String,

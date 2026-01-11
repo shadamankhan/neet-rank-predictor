@@ -4,6 +4,12 @@ import { getApiBase } from '../../apiConfig'; // Import API helper
 import { useAuth } from '../../useAuth'; // Import Auth Hook
 
 const API_BASE = getApiBase();
+import * as pdfjsLib from 'pdfjs-dist/build/pdf.mjs';
+import 'pdfjs-dist/build/pdf.worker.mjs'; // Ensure worker is bundled or available
+
+// Set worker source logic - for Vite dev, CDN is safest or use a local copy
+// For now, let's try the CDN approach using the version from the lib
+pdfjsLib.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjsLib.version}/pdf.worker.min.js`;
 
 const TutorialGenerator = () => {
     const { user } = useAuth();
@@ -37,6 +43,112 @@ const TutorialGenerator = () => {
     const audioRef = useRef(null); // Hidden audio player for sync
     const mediaRecorderRef = useRef(null);
     const voiceInputRef = useRef(null);
+    const fileInputRef = useRef(null);
+    const pdfInputRef = useRef(null);
+
+    // --- Media Handlers ---
+    const handleImageUpload = async (e) => {
+        const file = e.target.files[0];
+        if (!file || !tutorialId) return alert(tutorialId ? "Select a file." : "Upload screen recording first.");
+
+        setLoading(true);
+        try {
+            const token = await user.getIdToken();
+            const formData = new FormData();
+            formData.append('id', tutorialId);
+            formData.append('overlayImage', file);
+
+            const res = await fetch(`${API_BASE}/api/admin/tutorials/upload-overlay`, {
+                method: 'POST',
+                headers: { 'Authorization': `Bearer ${token}` },
+                body: formData
+            });
+            const data = await res.json();
+
+            if (data.success) {
+                // Add to overlays list with default time (current playback time)
+                setOverlays(prev => [
+                    ...prev,
+                    {
+                        type: 'image',
+                        url: `${API_BASE}${data.url}`, // Backend returns relative path
+                        fileName: data.fileName,
+                        time: currentTime, // Default to current head position
+                        id: Date.now()
+                    }
+                ]);
+                alert("✅ Image Added! Drag functionality coming soon.");
+            } else {
+                alert("Upload failed: " + data.message);
+            }
+        } catch (err) {
+            console.error(err);
+            alert("Error: " + err.message);
+        } finally {
+            setLoading(false);
+            if (fileInputRef.current) fileInputRef.current.value = '';
+        }
+    };
+
+    const handlePdfUpload = async (e) => {
+        const file = e.target.files[0];
+        if (!file || !tutorialId) return alert(tutorialId ? "Select a PDF." : "Upload screen recording first.");
+
+        setLoading(true);
+        try {
+            const arrayBuffer = await file.arrayBuffer();
+            const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+
+            // Limit to first 5 pages to avoid massive processing
+            const numPages = Math.min(pdf.numPages, 5);
+            const images = [];
+
+            for (let i = 1; i <= numPages; i++) {
+                const page = await pdf.getPage(i);
+                const viewport = page.getViewport({ scale: 1.5 });
+                const canvas = document.createElement('canvas');
+                const context = canvas.getContext('2d');
+                canvas.height = viewport.height;
+                canvas.width = viewport.width;
+
+                await page.render({ canvasContext: context, viewport: viewport }).promise;
+
+                // Convert to blob and upload
+                const blob = await new Promise(resolve => canvas.toBlob(resolve, 'image/png'));
+                const token = await user.getIdToken();
+                const formData = new FormData();
+                formData.append('id', tutorialId);
+                formData.append('overlayImage', blob, `page_${i}.png`);
+
+                const res = await fetch(`${API_BASE}/api/admin/tutorials/upload-overlay`, {
+                    method: 'POST',
+                    headers: { 'Authorization': `Bearer ${token}` },
+                    body: formData
+                });
+                const data = await res.json();
+                if (data.success) {
+                    images.push({
+                        type: 'image',
+                        url: `${API_BASE}${data.url}`,
+                        fileName: data.fileName,
+                        time: currentTime + (i - 1) * 5, // Stagger every 5 seconds
+                        id: Date.now() + i
+                    });
+                }
+            }
+
+            setOverlays(prev => [...prev, ...images]);
+            alert(`✅ Added ${images.length} pages from PDF!`);
+
+        } catch (err) {
+            console.error("PDF Error:", err);
+            alert("PDF Error: " + err.message);
+        } finally {
+            setLoading(false);
+            if (pdfInputRef.current) pdfInputRef.current.value = '';
+        }
+    };
+
 
     // State: Timeline & Playback
     const [currentTime, setCurrentTime] = useState(0);
@@ -299,7 +411,12 @@ const TutorialGenerator = () => {
             const res = await fetch(`${API_BASE}/api/admin/tutorials/sync`, {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json', 'Authorization': `Bearer ${token}` },
-                body: JSON.stringify({ id: tutorialId })
+                body: JSON.stringify({
+                    id: tutorialId,
+                    trimStart: trimRange[0],
+                    trimEnd: trimRange[1],
+                    overlays: overlays // Send overlay config
+                })
             });
             clearTimeout(timeoutId);
             const data = await res.json();
@@ -503,6 +620,13 @@ const TutorialGenerator = () => {
                                 className={`w-full h-full object-cover ${isRecording ? 'block' : 'hidden'}`}
                             />
 
+                            {/* Overlays Layer */}
+                            {!isRecording && overlays.map(ov => (
+                                <div key={ov.id} className="absolute inset-0 pointer-events-none flex items-center justify-center z-10">
+                                    <img src={ov.url} className="max-w-[50%] max-h-[50%] border-2 border-indigo-500 shadow-xl" alt="Overlay" />
+                                </div>
+                            ))}
+
                             {/* PLAYBACK (Edited) */}
                             <video
                                 ref={videoRef}
@@ -571,71 +695,123 @@ const TutorialGenerator = () => {
 
 
                     {/* Toolbar */}
-                    <div className="h-16 bg-[#252526] border-t border-[#3e3e42] flex items-center justify-between px-6 shadow-[0_-5px_20px_rgba(0,0,0,0.3)] z-10">
+                    <div className="bg-[#252526] border-t border-[#3e3e42] flex flex-col shadow-[0_-5px_20px_rgba(0,0,0,0.3)] z-10">
+                        {/* Tool Specific Controls (Trim Slider) */}
+                        {selectedTool === 'TRIM' && duration > 0 && (
+                            <div className="h-12 bg-[#1e1e1e] border-b border-[#3e3e42] flex items-center px-6 gap-4 animate-slide-up">
+                                <span className="text-xs text-gray-400 font-mono">TRIM START</span>
+                                <input
+                                    type="range"
+                                    min="0"
+                                    max={duration}
+                                    value={trimRange[0]}
+                                    onChange={(e) => setTrimRange([parseFloat(e.target.value), trimRange[1]])}
+                                    className="flex-1 h-1 bg-gray-600 rounded-lg appearance-none cursor-pointer accent-indigo-500"
+                                />
+                                <span className="text-xs font-mono text-indigo-400">{formatTime(trimRange[0])}</span>
 
-                        {/* Left: Media Controls */}
-                        <div className="flex items-center gap-2">
-                            <ToolbarBtn
-                                label="Upload Screen"
-                                icon="📤"
-                                onClick={handleUpload}
-                                disabled={!recordedChunks.length}
-                                active={status === "SCREEN_UPLOADED"}
-                            />
-                        </div>
+                                <div className="w-px h-6 bg-gray-700 mx-2" />
 
-                        {/* Center: Editing Tools */}
-                        <div className="flex items-center gap-1 bg-[#1e1e1e] p-1 rounded-lg border border-[#3e3e42]">
-                            <ToolbarBtn
-                                label="Trim Video"
-                                icon="✂️"
-                                onClick={() => setSelectedTool(selectedTool === 'TRIM' ? null : 'TRIM')}
-                                active={selectedTool === 'TRIM'}
-                                disabled={!videoUrl}
-                            />
-                            <div className="w-px h-6 bg-gray-700 mx-1" />
-                            <ToolbarBtn
-                                label="Add Image"
-                                icon="🖼️"
-                                onClick={() => alert("Image Overlay coming soon!")}
-                                disabled={!videoUrl}
-                            />
-                            <ToolbarBtn
-                                label="Add PDF"
-                                icon="📄"
-                                onClick={() => alert("PDF Overlay coming soon!")}
-                                disabled={!videoUrl}
-                            />
-                        </div>
+                                <span className="text-xs text-gray-400 font-mono">TRIM END</span>
+                                <input
+                                    type="range"
+                                    min="0"
+                                    max={duration}
+                                    value={trimRange[1] || duration}
+                                    onChange={(e) => setTrimRange([trimRange[0], parseFloat(e.target.value)])}
+                                    className="flex-1 h-1 bg-gray-600 rounded-lg appearance-none cursor-pointer accent-indigo-500"
+                                />
+                                <span className="text-xs font-mono text-indigo-400">{formatTime(trimRange[1] || duration)}</span>
+                            </div>
+                        )}
 
-                        {/* Right: Audio Controls */}
-                        <div className="flex items-center gap-2">
-                            {/* Hidden Input for Manual Voice */}
-                            <input
-                                type="file"
-                                ref={voiceInputRef}
-                                className="hidden"
-                                accept="audio/*"
-                                onChange={handleVoiceUpload}
-                            />
+                        <div className="h-16 flex items-center justify-between px-6">
+
+                            {/* Left: Media Controls */}
                             <div className="flex items-center gap-2">
-                                <button
+                                <ToolbarBtn
+                                    label="Upload Screen"
+                                    icon="📤"
+                                    onClick={handleUpload}
+                                    disabled={!recordedChunks.length}
+                                    active={status === "SCREEN_UPLOADED"}
+                                />
+                            </div>
+
+                            {/* Center: Editing Tools */}
+                            <div className="flex items-center gap-1 bg-[#1e1e1e] p-1 rounded-lg border border-[#3e3e42]">
+                                <ToolbarBtn
+                                    label="Trim Video"
+                                    icon="✂️"
                                     onClick={() => {
-                                        if (!tutorialId) return alert("Please upload screen recording first.");
-                                        voiceInputRef.current?.click();
+                                        if (selectedTool !== 'TRIM') {
+                                            setTrimRange([0, duration]);
+                                            setSelectedTool('TRIM');
+                                        } else {
+                                            setSelectedTool(null);
+                                        }
                                     }}
-                                    disabled={loading}
-                                    className="flex items-center gap-2 px-3 py-1.5 bg-blue-600/10 hover:bg-blue-600/20 text-blue-400 text-xs font-medium rounded border border-blue-600/30 transition-all"
-                                >
-                                    <span>🎤 Upload Voice</span>
-                                </button>
-                                <button
-                                    onClick={handleAIVoiceGenerate}
-                                    disabled={!scriptLines.length || loading}
-                                    className="flex items-center gap-2 px-3 py-1.5 bg-purple-600/10 hover:bg-purple-600/20 text-purple-400 text-xs font-medium rounded border border-purple-600/30 transition-all"
-                                >
-                                    <span>✨ Generate AI Voice</span>
-                                </button>
+                                    active={selectedTool === 'TRIM'}
+                                    disabled={!videoUrl}
+                                />
+                                <div className="w-px h-6 bg-gray-700 mx-1" />
+                                <input
+                                    type="file"
+                                    ref={fileInputRef}
+                                    className="hidden"
+                                    accept="image/*"
+                                    onChange={handleImageUpload}
+                                />
+                                <ToolbarBtn
+                                    label="Add Image"
+                                    icon="🖼️"
+                                    onClick={() => fileInputRef.current?.click()}
+                                    disabled={!videoUrl}
+                                />
+                                <ToolbarBtn
+                                    label="Add PDF"
+                                    icon="📄"
+                                    onClick={() => pdfInputRef.current?.click()}
+                                    disabled={!videoUrl}
+                                />
+                                <input
+                                    type="file"
+                                    ref={pdfInputRef}
+                                    className="hidden"
+                                    accept="application/pdf"
+                                    onChange={handlePdfUpload}
+                                />
+                            </div>
+
+                            {/* Right: Audio Controls */}
+                            <div className="flex items-center gap-2">
+                                {/* Hidden Input for Manual Voice */}
+                                <input
+                                    type="file"
+                                    ref={voiceInputRef}
+                                    className="hidden"
+                                    accept="audio/*"
+                                    onChange={handleVoiceUpload}
+                                />
+                                <div className="flex items-center gap-2">
+                                    <button
+                                        onClick={() => {
+                                            if (!tutorialId) return alert("Please upload screen recording first.");
+                                            voiceInputRef.current?.click();
+                                        }}
+                                        disabled={loading}
+                                        className="flex items-center gap-2 px-3 py-1.5 bg-blue-600/10 hover:bg-blue-600/20 text-blue-400 text-xs font-medium rounded border border-blue-600/30 transition-all"
+                                    >
+                                        <span>🎤 Upload Voice</span>
+                                    </button>
+                                    <button
+                                        onClick={handleAIVoiceGenerate}
+                                        disabled={!scriptLines.length || loading}
+                                        className="flex items-center gap-2 px-3 py-1.5 bg-purple-600/10 hover:bg-purple-600/20 text-purple-400 text-xs font-medium rounded border border-purple-600/30 transition-all"
+                                    >
+                                        <span>✨ Generate AI Voice</span>
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>

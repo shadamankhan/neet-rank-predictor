@@ -27,7 +27,8 @@ const getPaths = (id) => ({
     voice: path.join(UPLOAD_DIR, id, 'voice.mp3'),
     final: path.join(UPLOAD_DIR, id, 'final.mp4'),
     script: path.join(UPLOAD_DIR, id, 'script.json'),
-    meta: path.join(UPLOAD_DIR, id, 'meta.json')
+    meta: path.join(UPLOAD_DIR, id, 'meta.json'),
+    overlayDir: path.join(UPLOAD_DIR, id, 'overlays')
 });
 
 // 1. Upload Screen Recording
@@ -219,35 +220,36 @@ exports.generateVoice = async (req, res) => {
     }
 };
 
-// 4. Manual Voice Upload
-exports.uploadVoice = async (req, res) => {
+// 5. Upload Overlay Image
+exports.uploadOverlay = async (req, res) => {
     try {
         const { id } = req.body;
-        const { voice, meta } = getPaths(id);
+        // Basic check
+        if (!id || !req.file) return res.status(400).json({ success: false, message: "Missing ID or file" });
 
-        if (!req.file) return res.status(400).json({ success: false, message: "No voice file uploaded (check field name)" });
+        const { overlayDir } = getPaths(id);
+        await fs.ensureDir(overlayDir);
 
-        if (!fs.existsSync(meta)) return res.status(404).json({ success: false, message: "Tutorial not found" });
+        const ext = path.extname(req.file.originalname) || '.png';
+        const fileName = `${Date.now()}_${uuidv4()}${ext}`;
+        const filePath = path.join(overlayDir, fileName);
 
-        await fs.move(req.file.path, voice, { overwrite: true });
+        await fs.move(req.file.path, filePath);
 
-        const metadata = await fs.readJson(meta);
-        metadata.status = "VOICE_READY";
-        metadata.voiceMode = "OWN";
-        await fs.writeJson(meta, metadata);
-
-        res.json({ success: true, message: "Voice uploaded successfully" });
+        // Return relative path so frontend can use it if needed, or just status
+        // Frontend will likely track these locally and send metadata to /sync
+        res.json({ success: true, url: `/data/tutorials/${id}/overlays/${fileName}`, fileName });
     } catch (err) {
-        console.error(err);
+        console.error("Overlay Upload Error:", err);
         res.status(500).json({ success: false, message: err.message });
     }
 };
 
-// 5. Sync Video & Audio (FFmpeg)
+// 6. Sync Video & Audio (FFmpeg) with Overlays
 exports.syncTutorial = async (req, res) => {
     try {
-        const { id } = req.body;
-        const { screen, voice, final, meta } = getPaths(id);
+        const { id, overlays: overlayData = [] } = req.body; // overlayData = [{ fileName, time, type... }]
+        const { screen, voice, final, meta, overlayDir } = getPaths(id);
 
         if (!fs.existsSync(screen) || !fs.existsSync(voice)) {
             return res.status(400).json({ success: false, message: "Missing screen or voice file" });
@@ -261,19 +263,112 @@ exports.syncTutorial = async (req, res) => {
             });
         });
 
-        // FFmpeg Logic: Trim video to audio length (shortest)
+        // 1. Calculate durations to ensure we don't hang
+        // Use ffprobe to get exact duration of voice to limit loop or trim
+        const getDuration = (file) => new Promise((resolve) => {
+            ffmpeg.ffprobe(file, (err, metadata) => {
+                if (err) resolve(0);
+                else resolve(metadata.format.duration);
+            });
+        });
+
+        // const voiceDuration = await getDuration(voice);
+        // const screenDuration = await getDuration(screen);
+
+        // FFmpeg Logic: Overlay + Trim
         await new Promise((resolve, reject) => {
-            ffmpeg()
-                .input(screen)
-                .input(voice)
-                .outputOptions([
-                    '-map 0:v',
-                    '-map 1:a',
-                    '-shortest',
-                    '-c:v libx264',
-                    '-c:a aac',
-                    '-preset fast'
-                ])
+            let command = ffmpeg().input(screen);
+
+            // Apply start trim to visual track only (seek input)
+            const start = parseFloat(req.body.trimStart) || 0;
+            const end = parseFloat(req.body.trimEnd) || 0;
+
+            if (start > 0) {
+                command.seekInput(start);
+            }
+
+            command.input(voice);
+
+            // Add Overlay Inputs
+            // Overlay inputs start from index 2
+            let complexFilter = [];
+            let inputCount = 2;
+
+            // Add each overlay image as an input
+            const validOverlays = overlayData.filter(o => o.fileName && o.time !== undefined);
+
+            validOverlays.forEach(ov => {
+                const ovPath = path.join(overlayDir, ov.fileName);
+                if (fs.existsSync(ovPath)) {
+                    command.input(ovPath);
+                    // Create filter for this overlay
+                    // [0:v][2:v] overlay=10:10:enable='between(t,5,10)' [tmp]; [tmp][3:v]...
+                    // Simpler approach: chain them
+                    // Note: overlay inputs need to be mapped correctly
+                }
+            });
+
+            // Build Complex Filter Chain
+            if (validOverlays.length > 0) {
+                let lastStream = '0:v'; // Start with video
+                validOverlays.forEach((ov, idx) => {
+                    const ovPath = path.join(overlayDir, ov.fileName);
+                    if (!fs.existsSync(ovPath)) return;
+
+                    const nextStream = (idx === validOverlays.length - 1) ? 'outv' : `tmp${idx}`;
+                    const overlayInputIdx = inputCount++;
+                    // Display for 5 seconds by default
+                    const startTime = Math.max(0, parseFloat(ov.time) - start); // Adjust for trim
+                    const endTime = startTime + 5;
+
+                    // Resize overlay to fit if needed (optional, keeping simple for now: scale=300:-1)
+                    // We assume overlays are already reasonable or we standardise
+                    // overlay=x=(W-w)/2:y=(H-h)/2 : Center it
+                    complexFilter.push({
+                        filter: 'overlay',
+                        options: {
+                            x: '(W-w)/2',
+                            y: '(H-h)/2',
+                            enable: `between(t,${startTime},${endTime})`
+                        },
+                        inputs: [lastStream, `${overlayInputIdx}:v`],
+                        outputs: [nextStream]
+                    });
+                    lastStream = nextStream;
+                });
+            }
+
+            const outputOptions = [
+                '-c:a aac',
+                '-preset fast',
+                '-y' // Overwrite
+            ];
+
+            // Map streams
+            if (validOverlays.length > 0) {
+                outputOptions.push('-map', '[outv]'); // Map the final video stream from filter
+                outputOptions.push('-map', '1:a'); // Map audio from input 1
+            } else {
+                outputOptions.push('-map', '0:v');
+                outputOptions.push('-map', '1:a');
+            }
+            // Ensure libx264 is used for video output, even when using filter_complex
+            outputOptions.push('-c:v', 'libx264');
+
+            // Duration handling
+            if (end > start) {
+                const duration = end - start;
+                command.duration(duration);
+            } else {
+                outputOptions.push('-shortest');
+            }
+
+            if (validOverlays.length > 0) {
+                command.complexFilter(complexFilter);
+            }
+
+            command
+                .outputOptions(outputOptions)
                 .save(final)
                 .on('end', resolve)
                 .on('error', (err) => {
@@ -284,7 +379,7 @@ exports.syncTutorial = async (req, res) => {
 
         const metadata = await fs.readJson(meta);
         metadata.status = "SYNCED";
-        metadata.finalUrl = `/data/tutorials/${id}/final.mp4`; // Static serve path
+        metadata.finalUrl = `/data/tutorials/${id}/final.mp4`;
         await fs.writeJson(meta, metadata);
 
         res.json({ success: true, url: metadata.finalUrl });

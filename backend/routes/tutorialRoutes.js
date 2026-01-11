@@ -16,5 +16,6 @@ router.post('/generate-script', tutorialController.generateScript);
 router.post('/generate-voice', tutorialController.generateVoice); // Unified for AI
 router.post('/upload-voice', upload.single('voiceAudio'), tutorialController.uploadVoice);
 router.post('/sync', tutorialController.syncTutorial);
+router.post('/upload-overlay', upload.single('overlayImage'), tutorialController.uploadOverlay);
 
 module.exports = router;
