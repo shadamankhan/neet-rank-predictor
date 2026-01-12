@@ -38,6 +38,18 @@ router.get('/dashboard', async (req, res) => {
             'free': 'free'
         };
 
+        // Helper for safe date formatting
+        const safeDate = (d) => {
+            try {
+                if (!d) return 'TBA';
+                const dateObj = new Date(d);
+                if (isNaN(dateObj.getTime())) return 'TBA'; // Invalid Date check
+                return dateObj.toLocaleDateString();
+            } catch (e) {
+                return 'TBA';
+            }
+        };
+
         tests.forEach(t => {
             try {
                 const catId = typeMap[t.type] || t.type || 'free';
@@ -49,28 +61,36 @@ router.get('/dashboard', async (req, res) => {
                     questions: t.totalQuestions,
                     time: t.duration,
                     price: t.price > 0 ? t.price : 'Free',
-                    status: t.status === 'live' ? 'Open' : 'Locked', // Map backend status to UI
+                    status: t.status === 'live' ? 'Open' : 'Locked',
                     isPremium: t.isPremium,
-                    date: t.schedule?.startDate ? new Date(t.schedule.startDate).toLocaleDateString() : 'TBA'
+                    date: safeDate(t.schedule?.startDate)
                 });
             } catch (innerErr) {
                 console.warn(`⚠️ Skipped malformed test ${t._id}:`, innerErr.message);
             }
         });
 
-        // Find upcoming test (nearest future start date)
-        const upcoming = await Test.findOne({
-            'schedule.startDate': { $gt: new Date() }
-        }).sort({ 'schedule.startDate': 1 });
+        // Find upcoming test (safe wrapper)
+        let upcomingTest = null;
+        try {
+            const upcoming = await Test.findOne({
+                'schedule.startDate': { $gt: new Date() }
+            }).sort({ 'schedule.startDate': 1 });
 
-        const upcomingTest = (upcoming && upcoming.schedule && upcoming.schedule.startDate) ? {
-            id: upcoming._id,
-            title: upcoming.title,
-            date: new Date(upcoming.schedule.startDate).toLocaleDateString(),
-            timeLeft: 'Coming Soon', // helper needed for real diff
-            topics: upcoming.subjects?.join(', ') || 'General',
-            participants: 1200 // Mock or fetch count
-        } : null;
+            if (upcoming && upcoming.schedule && upcoming.schedule.startDate) {
+                upcomingTest = {
+                    id: upcoming._id,
+                    title: upcoming.title || 'Upcoming Test',
+                    date: safeDate(upcoming.schedule.startDate),
+                    timeLeft: 'Coming Soon',
+                    topics: upcoming.subjects?.join(', ') || 'General',
+                    participants: 1200
+                };
+            }
+        } catch (upcomingErr) {
+            console.error("Error fetching upcoming test:", upcomingErr);
+            // safe to ignore, just no upcoming section
+        }
 
         const categories = [
             { id: "free", name: "🟢 Free Tests", desc: "NCERT Line-based & PYQs" },
