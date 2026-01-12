@@ -11,6 +11,7 @@ router.get('/', async (req, res) => {
         const tests = await Test.find().sort({ createdAt: -1 });
         res.json({ ok: true, tests });
     } catch (err) {
+        console.error("❌ GET /api/test-series FAILED:", err);
         res.status(500).json({ ok: false, message: err.message });
     }
 });
