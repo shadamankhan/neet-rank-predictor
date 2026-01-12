@@ -8,6 +8,66 @@ const User = require('../src/models/User'); // Assuming User model exists
 const mongoose = require('mongoose');
 
 // GET all tests
+router.post('/migrate-legacy', async (req, res) => {
+    console.log("👉 MIGRATION ROUTE HIT!");
+    try {
+        let testsToRestore = [];
+
+        if (req.body.tests && Array.isArray(req.body.tests)) {
+            testsToRestore = req.body.tests;
+            console.log("Using provided request body for migration");
+        } else {
+            const LEGACY_DB_PATH = path.join(__dirname, '../data/test_series_db.json');
+            if (fs.existsSync(LEGACY_DB_PATH)) {
+                const data = JSON.parse(fs.readFileSync(LEGACY_DB_PATH, 'utf8'));
+                testsToRestore = data.tests || [];
+            } else {
+                return res.status(404).json({ ok: false, message: 'Legacy DB file not found and no body provided' });
+            }
+        }
+        let restoredCount = 0;
+
+        for (const testData of testsToRestore) {
+            const existing = await Test.findOne({ title: testData.title });
+            if (existing) continue;
+
+            const finalQuestionIds = [];
+            if (testData.questions) {
+                for (const q of testData.questions) {
+                    const newQ = new Question({
+                        statement: q.question,
+                        type: 'mcq',
+                        options: q.options.map((optText, idx) => ({ id: idx + 1, text: optText, isCorrect: parseInt(q.answer) === idx })),
+                        explanation: q.explanation,
+                        tags: { subject: q.subject || 'General' }
+                    });
+                    const savedQ = await newQ.save();
+                    finalQuestionIds.push(savedQ._id);
+                }
+            }
+
+            const newTest = new Test({
+                title: testData.title,
+                type: testData.type || 'free',
+                duration: parseInt(testData.duration) || 180,
+                totalMarks: parseInt(testData.totalMarks) || 720,
+                instructions: testData.instructions,
+                questionIds: finalQuestionIds,
+                schedule: { startDate: new Date(), endDate: new Date(new Date().setFullYear(new Date().getFullYear() + 1)) },
+                status: 'live',
+                contentSource: 'question_bank'
+            });
+
+            await newTest.save();
+            restoredCount++;
+        }
+        res.json({ ok: true, message: `Restored ${restoredCount} tests.` });
+    } catch (e) {
+        console.error("Migration error:", e);
+        res.status(500).json({ ok: false, message: e.message });
+    }
+});
+
 router.get('/', async (req, res) => {
     try {
         const tests = await Test.find().sort({ createdAt: -1 });
@@ -334,89 +394,6 @@ router.put('/:id', async (req, res) => {
         res.json({ ok: true, message: 'Test updated successfully' });
     } catch (err) {
         res.status(500).json({ ok: false, message: 'Failed to update test' });
-    }
-});
-
-// POST /migrate-legacy - Restore tests from JSON to MongoDB (Moved from adminData for access)
-router.post('/migrate-legacy', async (req, res) => {
-    try {
-        let testsToRestore = [];
-
-        if (req.body.tests && Array.isArray(req.body.tests)) {
-            testsToRestore = req.body.tests;
-            console.log("Using provided request body for migration");
-        } else {
-            const LEGACY_DB_PATH = path.join(__dirname, '../data/test_series_db.json');
-            if (fs.existsSync(LEGACY_DB_PATH)) {
-                const data = JSON.parse(fs.readFileSync(LEGACY_DB_PATH, 'utf8'));
-                testsToRestore = data.tests || [];
-            } else {
-                return res.status(404).json({ ok: false, message: 'Legacy DB file not found and no body provided' });
-            }
-        }
-        let restoredCount = 0;
-
-        for (const testData of testsToRestore) {
-            // Check if test already exists (by title) to avoid duplicates
-            const existing = await Test.findOne({ title: testData.title });
-            if (existing) {
-                console.log(`Skipping existing test: ${testData.title}`);
-                continue;
-            }
-
-            // 1. Process Questions
-            const finalQuestionIds = [];
-            if (testData.questions && Array.isArray(testData.questions)) {
-                for (const q of testData.questions) {
-                    // Create Question in DB
-                    const newQ = new Question({
-                        statement: q.question,
-                        type: 'mcq',
-                        options: q.options.map((optText, idx) => ({
-                            id: idx + 1,
-                            text: optText,
-                            isCorrect: parseInt(q.answer) === idx
-                        })),
-                        explanation: q.explanation,
-                        tags: {
-                            subject: q.subject || 'General',
-                            difficulty: 'medium',
-                            source: 'Legacy Migration'
-                        }
-                    });
-                    const savedQ = await newQ.save();
-                    finalQuestionIds.push(savedQ._id);
-                }
-            }
-
-            // 2. Create Test
-            const newTest = new Test({
-                title: testData.title,
-                type: testData.type || 'free',
-                duration: parseInt(testData.duration) || 180,
-                totalMarks: parseInt(testData.totalMarks) || 720,
-                instructions: testData.instructions,
-                questionIds: finalQuestionIds,
-                schedule: {
-                    startDate: new Date(), // Set to now as it's a restore
-                    endDate: new Date(new Date().setFullYear(new Date().getFullYear() + 1))
-                },
-                price: 0, // Legacy was free
-                isPremium: false,
-                status: 'live', // Make it live immediately
-                contentSource: 'question_bank',
-                subjects: testData.questions?.[0]?.subject ? [testData.questions[0].subject] : ['General']
-            });
-
-            await newTest.save();
-            restoredCount++;
-        }
-
-        res.json({ ok: true, message: `Migration complete. Restored ${restoredCount} tests.` });
-
-    } catch (e) {
-        console.error("Migration error:", e);
-        res.status(500).json({ ok: false, message: e.message });
     }
 });
 
