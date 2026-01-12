@@ -172,7 +172,7 @@ router.post('/', async (req, res) => {
             },
             price: price || 0,
             isPremium: isPremium || false,
-            status: status || 'draft',
+            status: (status || 'draft').toLowerCase(),
             contentSource: 'question_bank'
         });
 
@@ -326,7 +326,7 @@ router.put('/:id', async (req, res) => {
         if (endDate) updateData.schedule = { ...updateData.schedule, endDate };
         if (price !== undefined) updateData.price = price;
         if (isPremium !== undefined) updateData.isPremium = isPremium;
-        if (status) updateData.status = status;
+        if (status) updateData.status = status.toLowerCase();
 
         const updated = await Test.findByIdAndUpdate(req.params.id, updateData, { new: true });
         if (!updated) return res.status(404).json({ ok: false, message: 'Test not found' });

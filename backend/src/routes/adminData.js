@@ -128,4 +128,85 @@ router.post('/delete', verifyAdmin, express.json(), (req, res) => {
     }
 });
 
+// POST /migrate-legacy - Restore tests from JSON to MongoDB
+router.post('/migrate-legacy', verifyAdmin, async (req, res) => {
+    try {
+        const Test = require('../models/Test');
+        const Question = require('../models/Question');
+        const mongoose = require('mongoose');
+
+        const LEGACY_DB_PATH = path.join(__dirname, '../../data/test_series_db.json');
+
+        if (!fs.existsSync(LEGACY_DB_PATH)) {
+            return res.status(404).json({ ok: false, message: 'Legacy DB file not found' });
+        }
+
+        const data = JSON.parse(fs.readFileSync(LEGACY_DB_PATH, 'utf8'));
+        const testsToRestore = data.tests || [];
+        let restoredCount = 0;
+
+        for (const testData of testsToRestore) {
+            // Check if test already exists (by title) to avoid duplicates
+            const existing = await Test.findOne({ title: testData.title });
+            if (existing) {
+                console.log(`Skipping existing test: ${testData.title}`);
+                continue;
+            }
+
+            // 1. Process Questions
+            const finalQuestionIds = [];
+            if (testData.questions && Array.isArray(testData.questions)) {
+                for (const q of testData.questions) {
+                    // Create Question in DB
+                    const newQ = new Question({
+                        statement: q.question,
+                        type: 'mcq',
+                        options: q.options.map((optText, idx) => ({
+                            id: idx + 1,
+                            text: optText,
+                            isCorrect: parseInt(q.answer) === idx
+                        })),
+                        explanation: q.explanation,
+                        tags: {
+                            subject: q.subject || 'General',
+                            difficulty: 'medium',
+                            source: 'Legacy Migration'
+                        }
+                    });
+                    const savedQ = await newQ.save();
+                    finalQuestionIds.push(savedQ._id);
+                }
+            }
+
+            // 2. Create Test
+            const newTest = new Test({
+                title: testData.title,
+                type: testData.type || 'free',
+                duration: parseInt(testData.duration) || 180,
+                totalMarks: parseInt(testData.totalMarks) || 720,
+                instructions: testData.instructions,
+                questionIds: finalQuestionIds,
+                schedule: {
+                    startDate: new Date(), // Set to now as it's a restore
+                    endDate: new Date(new Date().setFullYear(new Date().getFullYear() + 1))
+                },
+                price: 0, // Legacy was free
+                isPremium: false,
+                status: 'live', // Make it live immediately
+                contentSource: 'question_bank',
+                subjects: testData.questions?.[0]?.subject ? [testData.questions[0].subject] : ['General']
+            });
+
+            await newTest.save();
+            restoredCount++;
+        }
+
+        res.json({ ok: true, message: `Migration complete. Restored ${restoredCount} tests.` });
+
+    } catch (e) {
+        console.error("Migration error:", e);
+        res.status(500).json({ ok: false, message: e.message });
+    }
+});
+
 module.exports = router;
