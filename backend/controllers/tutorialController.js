@@ -31,6 +31,23 @@ const getPaths = (id) => ({
     overlayDir: path.join(UPLOAD_DIR, id, 'overlays')
 });
 
+// Helper: Get Font Path (Cross-Platform)
+const getFontPath = () => {
+    if (process.platform === 'win32') return 'C:/Windows/Fonts/arial.ttf';
+
+    // Linux (Render/Docker)
+    const candidates = [
+        '/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf',
+        '/usr/share/fonts/truetype/liberation/LiberationSans-Regular.ttf',
+        '/usr/share/fonts/truetype/freefont/FreeSans.ttf'
+    ];
+
+    for (const c of candidates) {
+        if (fs.existsSync(c)) return c;
+    }
+    return null; // Let FFmpeg try default or fail gracefully
+};
+
 // 1. Upload Screen Recording
 exports.uploadScreen = async (req, res) => {
     try {
@@ -220,6 +237,34 @@ exports.generateVoice = async (req, res) => {
     }
 };
 
+// 4. Upload Voice (Manual)
+exports.uploadVoice = async (req, res) => {
+    try {
+        const { id } = req.body;
+        // Basic check
+        if (!id) return res.status(400).json({ success: false, message: "Missing Tutorial ID" });
+
+        const { meta, voice } = getPaths(id);
+
+        if (!req.file) return res.status(400).json({ success: false, message: "No audio file uploaded" });
+
+        // Move uploaded file
+        await fs.move(req.file.path, voice, { overwrite: true });
+
+        // Update Metadata
+        const metadata = await fs.readJson(meta).catch(() => ({}));
+        metadata.status = "VOICE_READY";
+        metadata.voiceMode = "MANUAL";
+        await fs.writeJson(meta, metadata);
+
+        res.json({ success: true, message: "Voice uploaded successfully" });
+
+    } catch (err) {
+        console.error("Voice Upload Error:", err);
+        res.status(500).json({ success: false, message: err.message });
+    }
+};
+
 // 5. Upload Overlay Image
 exports.uploadOverlay = async (req, res) => {
     try {
@@ -245,125 +290,155 @@ exports.uploadOverlay = async (req, res) => {
     }
 };
 
-// 6. Sync Video & Audio (FFmpeg) with Overlays
+// 6. Sync Video & Audio (FFmpeg) with Overlays (Scaled & Positioned)
 exports.syncTutorial = async (req, res) => {
     try {
-        const { id, overlays: overlayData = [] } = req.body; // overlayData = [{ fileName, time, type... }]
+        const { id, overlays: overlayData = [], trimStart, trimEnd, previewWidth, previewHeight } = req.body;
         const { screen, voice, final, meta, overlayDir } = getPaths(id);
 
         if (!fs.existsSync(screen) || !fs.existsSync(voice)) {
             return res.status(400).json({ success: false, message: "Missing screen or voice file" });
         }
 
-        // Check if FFmpeg is available
-        await new Promise((resolve, reject) => {
-            ffmpeg.getAvailableFormats((err) => {
-                if (err) reject(new Error("FFmpeg is not installed or not available in system PATH"));
-                else resolve();
+        // 1. Get Video Metadata for Scaling
+        const videoMeta = await new Promise((resolve, reject) => {
+            ffmpeg.ffprobe(screen, (err, metadata) => {
+                if (err) reject(err);
+                else resolve(metadata);
             });
         });
+        const videoStream = videoMeta.streams.find(s => s.codec_type === 'video');
+        const videoW = videoStream ? videoStream.width : 1280;
+        const videoH = videoStream ? videoStream.height : 720;
 
-        // 1. Calculate durations to ensure we don't hang
-        // Use ffprobe to get exact duration of voice to limit loop or trim
-        const getDuration = (file) => new Promise((resolve) => {
-            ffmpeg.ffprobe(file, (err, metadata) => {
-                if (err) resolve(0);
-                else resolve(metadata.format.duration);
-            });
-        });
+        // Calculate Scale Factors (Video / Preview)
+        const pW = parseFloat(previewWidth) || 1280;
+        const pH = parseFloat(previewHeight) || 720;
+        const scaleX = videoW / pW;
+        const scaleY = videoH / pH;
 
-        // const voiceDuration = await getDuration(voice);
-        // const screenDuration = await getDuration(screen);
-
-        // FFmpeg Logic: Overlay + Trim
+        // 2. Build FFmpeg Command
         await new Promise((resolve, reject) => {
             let command = ffmpeg().input(screen);
 
-            // Apply start trim to visual track only (seek input)
-            const start = parseFloat(req.body.trimStart) || 0;
-            const end = parseFloat(req.body.trimEnd) || 0;
-
-            if (start > 0) {
-                command.seekInput(start);
-            }
+            // Trim Logic
+            const start = parseFloat(trimStart) || 0;
+            const end = parseFloat(trimEnd) || 0;
+            if (start > 0) command.seekInput(start);
 
             command.input(voice);
 
-            // Add Overlay Inputs
-            // Overlay inputs start from index 2
             let complexFilter = [];
-            let inputCount = 2;
+            let lastStream = '0:v'; // Start with video
+            let inputCount = 2; // 0=screen, 1=voice, 2+=overlays
 
-            // Add each overlay image as an input
-            const validOverlays = overlayData.filter(o => o.fileName && o.time !== undefined);
+            // Filter Valid Overlays
+            const validOverlays = overlayData.filter(o => (o.type === 'text' && o.text) || (o.type === 'image' && o.fileName));
 
+            // Prepare Inputs for Images
             validOverlays.forEach(ov => {
-                const ovPath = path.join(overlayDir, ov.fileName);
-                if (fs.existsSync(ovPath)) {
-                    command.input(ovPath);
-                    // Create filter for this overlay
-                    // [0:v][2:v] overlay=10:10:enable='between(t,5,10)' [tmp]; [tmp][3:v]...
-                    // Simpler approach: chain them
-                    // Note: overlay inputs need to be mapped correctly
+                if (ov.type === 'image') {
+                    const ovPath = path.join(overlayDir, ov.fileName);
+                    if (fs.existsSync(ovPath)) {
+                        command.input(ovPath);
+                        ov.inputIdx = inputCount++;
+                    } else {
+                        ov.inputIdx = -1; // Skip missing files
+                    }
                 }
             });
 
-            // Build Complex Filter Chain
-            if (validOverlays.length > 0) {
-                let lastStream = '0:v'; // Start with video
-                validOverlays.forEach((ov, idx) => {
-                    const ovPath = path.join(overlayDir, ov.fileName);
-                    if (!fs.existsSync(ovPath)) return;
+            // Build Filter Chain
+            validOverlays.forEach((ov, idx) => {
+                if (ov.type === 'image' && ov.inputIdx === -1) return;
 
-                    const nextStream = (idx === validOverlays.length - 1) ? 'outv' : `tmp${idx}`;
-                    const overlayInputIdx = inputCount++;
-                    // Display for 5 seconds by default
-                    const startTime = Math.max(0, parseFloat(ov.time) - start); // Adjust for trim
-                    const endTime = startTime + 5;
+                const nextStream = (idx === validOverlays.length - 1) ? 'outv' : `tmp${idx}`;
 
-                    // Resize overlay to fit if needed (optional, keeping simple for now: scale=300:-1)
-                    // We assume overlays are already reasonable or we standardise
-                    // overlay=x=(W-w)/2:y=(H-h)/2 : Center it
+                // Calculate Scaled Coordinates & Size
+                // Ensure w/h are even to prevent encoding errors (optional but good practice)
+                const w = Math.floor((ov.width || 200) * scaleX);
+                const h = Math.floor((ov.height || 150) * scaleY);
+                const x = Math.floor((ov.x || 0) * scaleX);
+                const y = Math.floor((ov.y || 0) * scaleY);
+
+                const startTime = Math.max(0, parseFloat(ov.time) - start);
+                const endTime = startTime + 5; // Default 5s duration
+
+                if (ov.type === 'image') {
+                    // 1. Scale Image Input
+                    // 2. Overlay
+                    const scaledStream = `scaled${idx}`;
+                    complexFilter.push({
+                        filter: 'scale',
+                        options: `${w}:${h}`,
+                        inputs: [`${ov.inputIdx}:v`],
+                        outputs: [scaledStream]
+                    });
+
                     complexFilter.push({
                         filter: 'overlay',
                         options: {
-                            x: '(W-w)/2',
-                            y: '(H-h)/2',
+                            x: x,
+                            y: y,
                             enable: `between(t,${startTime},${endTime})`
                         },
-                        inputs: [lastStream, `${overlayInputIdx}:v`],
+                        inputs: [lastStream, scaledStream],
                         outputs: [nextStream]
                     });
-                    lastStream = nextStream;
-                });
-            }
+                } else if (ov.type === 'text') {
+                    // Drawtext
+                    // Note: 'fontsize' and 'x','y' need scaling
+                    // Font file needed for Windows usually. Try standard Arial.
+                    const fontSize = Math.floor((parseInt(ov.style?.fontSize) || 24) * scaleY);
 
+                    // Simple text sanitation
+                    const safeText = ov.text.replace(/:/g, '\\:').replace(/'/g, '');
+
+                    complexFilter.push({
+                        filter: 'drawtext',
+                        options: {
+                            text: safeText,
+                            fontfile: getFontPath() || 'Arial', // Fallback
+                            fontsize: fontSize,
+                            fontcolor: 'white',
+                            x: x,
+                            y: y,
+                            box: 1, // Add background box
+                            boxcolor: 'black@0.5',
+                            boxborderw: 5,
+                            enable: `between(t,${startTime},${endTime})`
+                        },
+                        inputs: [lastStream],
+                        outputs: [nextStream]
+                    });
+                }
+
+                lastStream = nextStream;
+            });
+
+            // Final Output Options
             const outputOptions = [
                 '-c:a aac',
                 '-preset fast',
-                '-y' // Overwrite
+                '-y'
             ];
 
-            // Map streams
             if (validOverlays.length > 0) {
-                outputOptions.push('-map', '[outv]'); // Map the final video stream from filter
-                outputOptions.push('-map', '1:a'); // Map audio from input 1
+                outputOptions.push('-map', '[outv]');
+                outputOptions.push('-map', '1:a');
             } else {
                 outputOptions.push('-map', '0:v');
                 outputOptions.push('-map', '1:a');
             }
-            // Ensure libx264 is used for video output, even when using filter_complex
             outputOptions.push('-c:v', 'libx264');
 
-            // Duration handling
             if (end > start) {
-                const duration = end - start;
-                command.duration(duration);
+                command.duration(end - start);
             } else {
                 outputOptions.push('-shortest');
             }
 
-            if (validOverlays.length > 0) {
+            if (complexFilter.length > 0) {
                 command.complexFilter(complexFilter);
             }
 
@@ -377,6 +452,7 @@ exports.syncTutorial = async (req, res) => {
                 });
         });
 
+        // Update Metadata
         const metadata = await fs.readJson(meta);
         metadata.status = "SYNCED";
         metadata.finalUrl = `/data/tutorials/${id}/final.mp4`;
