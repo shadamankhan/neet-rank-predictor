@@ -97,7 +97,9 @@ router.get('/dashboard', async (req, res) => {
             'chapter': 'chapter',
             'part': 'part',
             'pyq': 'pyq',
-            'free': 'free'
+            'pyq': 'pyq',
+            'free': 'free',
+            'generated': 'full'
         };
 
         // Helper for safe date formatting

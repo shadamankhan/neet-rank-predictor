@@ -5,7 +5,7 @@ const TestSchema = new mongoose.Schema({
     moduleId: { type: mongoose.Schema.Types.ObjectId, ref: 'Module' },
 
     // Test Configuration
-    type: { type: String, enum: ['full', 'part', 'chapter', 'pyq', 'free', 'mock'], required: true },
+    type: { type: String, enum: ['full', 'part', 'chapter', 'pyq', 'free', 'mock', 'generated'], required: true },
     subjects: [String], // ["Physics", "Chemistry"]
     duration: { type: Number, default: 180 }, // in minutes
     totalMarks: { type: Number, default: 720 },
