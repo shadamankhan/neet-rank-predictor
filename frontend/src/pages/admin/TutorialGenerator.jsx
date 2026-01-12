@@ -4,6 +4,7 @@ import { getApiBase } from '../../apiConfig'; // Import API helper
 import { useAuth } from '../../useAuth'; // Import Auth Hook
 
 const API_BASE = getApiBase();
+import { Rnd } from 'react-rnd';
 import * as pdfjsLib from 'pdfjs-dist/build/pdf.mjs';
 import 'pdfjs-dist/build/pdf.worker.mjs'; // Ensure worker is bundled or available
 
@@ -73,8 +74,11 @@ const TutorialGenerator = () => {
                         type: 'image',
                         url: `${API_BASE}${data.url}`, // Backend returns relative path
                         fileName: data.fileName,
-                        time: currentTime, // Default to current head position
-                        id: Date.now()
+                        fileName: data.fileName,
+                        time: currentTime,
+                        id: Date.now(),
+                        x: 50, y: 50, width: 200, height: 150, // Default Geometry
+                        type: 'image'
                     }
                 ]);
                 alert("✅ Image Added! Drag functionality coming soon.");
@@ -131,8 +135,11 @@ const TutorialGenerator = () => {
                         type: 'image',
                         url: `${API_BASE}${data.url}`,
                         fileName: data.fileName,
-                        time: currentTime + (i - 1) * 5, // Stagger every 5 seconds
-                        id: Date.now() + i
+                        fileName: data.fileName,
+                        time: currentTime + (i - 1) * 5,
+                        id: Date.now() + i,
+                        x: 50 + (i * 20), y: 50 + (i * 20), width: 200, height: 150, // Staggered
+                        type: 'image'
                     });
                 }
             }
@@ -149,6 +156,22 @@ const TutorialGenerator = () => {
         }
     };
 
+
+
+    const handleTextAdd = () => {
+        if (!tutorialId) return alert("Upload screen first.");
+        const text = prompt("Enter text for overlay:", "Sample Text");
+        if (!text) return;
+
+        setOverlays(prev => [...prev, {
+            type: 'text',
+            text: text,
+            time: currentTime,
+            id: Date.now(),
+            x: 100, y: 100, width: 300, height: 50,
+            style: { color: 'white', fontSize: '24px', fontWeight: 'bold', background: 'rgba(0,0,0,0.5)', padding: '5px' }
+        }]);
+    };
 
     // State: Timeline & Playback
     const [currentTime, setCurrentTime] = useState(0);
@@ -415,7 +438,9 @@ const TutorialGenerator = () => {
                     id: tutorialId,
                     trimStart: trimRange[0],
                     trimEnd: trimRange[1],
-                    overlays: overlays // Send overlay config
+                    overlays: overlays, // Send overlay config
+                    previewWidth: videoRef.current ? videoRef.current.clientWidth : 1280, // capture preview dimensions
+                    previewHeight: videoRef.current ? videoRef.current.clientHeight : 720
                 })
             });
             clearTimeout(timeoutId);
@@ -620,12 +645,66 @@ const TutorialGenerator = () => {
                                 className={`w-full h-full object-cover ${isRecording ? 'block' : 'hidden'}`}
                             />
 
-                            {/* Overlays Layer */}
-                            {!isRecording && overlays.map(ov => (
-                                <div key={ov.id} className="absolute inset-0 pointer-events-none flex items-center justify-center z-10">
-                                    <img src={ov.url} className="max-w-[50%] max-h-[50%] border-2 border-indigo-500 shadow-xl" alt="Overlay" />
-                                </div>
-                            ))}
+                            {/* Overlays Layer (Now Interactive with Rnd) */}
+                            {!isRecording && overlays.map(ov => {
+                                // Only show if within time range (simple visibility for now, detailed timeline later)
+                                // For now, we show all or maybe just "current" ones? 
+                                // Let's show all but use Opacity to indicate "active" vs "inactive" if we assume they exist for 5s default?
+                                // Better: Show ALL so user can arrange them spatialy. 
+                                // Actually user wants to see what is ON SCREEN at currentTime.
+                                // But for editing, we might want to see placeholders. 
+                                // Let's stick to "Show if current time matches" OR "Show all" for layouting?
+                                // "Blind edits" problem: User needs to know WHEN.
+                                // Let's show ALL for now so they can drag them, but maybe lower opacity if not at current time?
+                                // No, standard video editors show only what's at playhead.
+                                // Let's stick to: Always visible for "editing layout" but maybe add a toggle "Show All Assets"?
+                                // Let's go with: Show visible based on a default duration of 5s if not set.
+                                // We didn't set duration in upload. Let's fix that later.
+                                // For now, let's just SHOW ALL to allow layouting, it's easier.
+
+                                return (
+                                    <Rnd
+                                        key={ov.id}
+                                        size={{ width: ov.width, height: ov.height }}
+                                        position={{ x: ov.x, y: ov.y }}
+                                        onDragStop={(e, d) => {
+                                            setOverlays(prev => prev.map(o => o.id === ov.id ? { ...o, x: d.x, y: d.y } : o));
+                                        }}
+                                        onResizeStop={(e, direction, ref, delta, position) => {
+                                            setOverlays(prev => prev.map(o => o.id === ov.id ? {
+                                                ...o,
+                                                width: parseInt(ref.style.width, 10),
+                                                height: parseInt(ref.style.height, 10),
+                                                ...position
+                                            } : o));
+                                        }}
+                                        bounds="parent"
+                                        className={`z-20 ${selectedTool === 'OVERLAY' ? 'border-2 border-indigo-500' : ''}`}
+                                        onClick={() => setSelectedTool('OVERLAY')}
+                                    >
+                                        {ov.type === 'image' ? (
+                                            <img src={ov.url} className="w-full h-full object-contain pointer-events-none" alt="Overlay" />
+                                        ) : (
+                                            <div
+                                                className="w-full h-full flex items-center justify-center pointer-events-none text-center"
+                                                style={ov.style || { color: 'white', fontSize: '20px' }}
+                                            >
+                                                {ov.text}
+                                            </div>
+                                        )}
+                                        {/* Delete Handle (Top Right) */}
+                                        <button
+                                            className="absolute -top-2 -right-2 bg-red-500 text-white rounded-full w-5 h-5 flex items-center justify-center text-xs opacity-0 hover:opacity-100 transition-opacity"
+                                            onClick={(e) => {
+                                                e.stopPropagation();
+                                                setOverlays(prev => prev.filter(o => o.id !== ov.id));
+                                            }}
+                                        >
+                                            ×
+                                        </button>
+                                    </Rnd>
+                                );
+                            })}
 
                             {/* PLAYBACK (Edited) */}
                             <video
@@ -772,6 +851,12 @@ const TutorialGenerator = () => {
                                     label="Add PDF"
                                     icon="📄"
                                     onClick={() => pdfInputRef.current?.click()}
+                                    disabled={!videoUrl}
+                                />
+                                <ToolbarBtn
+                                    label="Add Text"
+                                    icon="T"
+                                    onClick={handleTextAdd}
                                     disabled={!videoUrl}
                                 />
                                 <input

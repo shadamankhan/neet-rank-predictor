@@ -13,14 +13,19 @@ const TestDashboard = () => {
 
     useEffect(() => {
         fetch(`${getApiBase()}/api/test-series/dashboard`)
-            .then(res => res.json())
+            .then(res => {
+                if (!res.ok) throw new Error(`Server returned ${res.status}`);
+                return res.json();
+            })
             .then(data => {
+                if (data.ok === false) throw new Error(data.message || 'API Error');
                 setData(data);
                 setLoading(false);
             })
             .catch(err => {
                 console.error("Failed to load dashboard:", err);
                 setLoading(false);
+                // Optionally set an error state here to show UI feedback
             });
     }, []);
 
@@ -32,7 +37,14 @@ const TestDashboard = () => {
     if (loading) return <div className="test-dashboard-container" style={{ padding: '100px', textAlign: 'center' }}>Loading Test Series...</div>;
     if (!data) return <div className="test-dashboard-container">Failed to load data.</div>;
 
-    const { upcomingTest, categories, testBundles } = data;
+    const { upcomingTest, categories = [], testBundles = {} } = data || {};
+
+    // Safety check: if backend returned error or data is malformed
+    if (!testBundles || !categories.length) {
+        // Fallback or specific error handling if needed, but safe destructuring above prevents crash
+        // We can continue, or show a 'Maintenance' message if critical data is missing
+        // For now, let's just ensure we don't crash in rendering
+    }
 
     return (
         <div className="test-dashboard-container">
