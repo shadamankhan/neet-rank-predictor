@@ -38,19 +38,23 @@ router.get('/dashboard', async (req, res) => {
         };
 
         tests.forEach(t => {
-            const catId = typeMap[t.type] || t.type || 'free';
-            if (!testBundles[catId]) testBundles[catId] = [];
+            try {
+                const catId = typeMap[t.type] || t.type || 'free';
+                if (!testBundles[catId]) testBundles[catId] = [];
 
-            testBundles[catId].push({
-                id: t._id,
-                title: t.title,
-                questions: t.totalQuestions,
-                time: t.duration,
-                price: t.price > 0 ? t.price : 'Free',
-                status: t.status === 'live' ? 'Open' : 'Locked', // Map backend status to UI
-                isPremium: t.isPremium,
-                date: t.schedule?.startDate ? new Date(t.schedule.startDate).toLocaleDateString() : 'TBA'
-            });
+                testBundles[catId].push({
+                    id: t._id,
+                    title: t.title,
+                    questions: t.totalQuestions,
+                    time: t.duration,
+                    price: t.price > 0 ? t.price : 'Free',
+                    status: t.status === 'live' ? 'Open' : 'Locked', // Map backend status to UI
+                    isPremium: t.isPremium,
+                    date: t.schedule?.startDate ? new Date(t.schedule.startDate).toLocaleDateString() : 'TBA'
+                });
+            } catch (innerErr) {
+                console.warn(`⚠️ Skipped malformed test ${t._id}:`, innerErr.message);
+            }
         });
 
         // Find upcoming test (nearest future start date)
@@ -58,7 +62,7 @@ router.get('/dashboard', async (req, res) => {
             'schedule.startDate': { $gt: new Date() }
         }).sort({ 'schedule.startDate': 1 });
 
-        const upcomingTest = upcoming ? {
+        const upcomingTest = (upcoming && upcoming.schedule && upcoming.schedule.startDate) ? {
             id: upcoming._id,
             title: upcoming.title,
             date: new Date(upcoming.schedule.startDate).toLocaleDateString(),
