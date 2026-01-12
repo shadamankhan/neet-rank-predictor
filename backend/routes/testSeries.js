@@ -116,9 +116,48 @@ router.get('/dashboard', async (req, res) => {
 
 // CREATE new test
 // CREATE new test (Admin)
+// CREATE new test
 router.post('/', async (req, res) => {
     try {
         const { title, type, duration, totalMarks, instructions, questions = [], startDate, endDate, price, isPremium, status } = req.body;
+
+        // Process questions (Strings are IDs, Objects are new questions)
+        const finalQuestionIds = [];
+
+        for (const q of questions) {
+            if (typeof q === 'string') {
+                // It's an existing ID from Question Bank
+                if (mongoose.Types.ObjectId.isValid(q)) {
+                    finalQuestionIds.push(q);
+                }
+            } else if (typeof q === 'object' && q.question) {
+                // It's a new Manual Question - Save it first!
+                try {
+                    const newQ = new Question({
+                        statement: q.question,
+                        type: 'mcq',
+                        options: q.options.map((optText, idx) => ({
+                            id: idx + 1,
+                            text: optText,
+                            isCorrect: parseInt(q.answer) === idx
+                        })),
+                        explanation: q.explanation,
+                        tags: {
+                            subject: q.subject,
+                            difficulty: 'medium', // Default
+                            source: 'Manual Entry'
+                        }
+                    });
+                    const savedQ = await newQ.save();
+                    finalQuestionIds.push(savedQ._id);
+                    console.log(`✅ Auto-created question: ${savedQ._id}`);
+                } catch (qErr) {
+                    console.error("Failed to save manual question:", qErr);
+                    // Continue without this question or fail? 
+                    // Better to continue to verify rest of validation
+                }
+            }
+        }
 
         const newTest = new Test({
             title,
@@ -126,7 +165,7 @@ router.post('/', async (req, res) => {
             duration: parseInt(duration) || 180,
             totalMarks: parseInt(totalMarks) || 720,
             instructions,
-            questionIds: questions, // direct IDs
+            questionIds: finalQuestionIds, // mapped IDs
             schedule: {
                 startDate: startDate || new Date(),
                 endDate: endDate || new Date(new Date().setFullYear(new Date().getFullYear() + 1))
@@ -141,7 +180,7 @@ router.post('/', async (req, res) => {
         res.json({ ok: true, message: 'Test created successfully', testId: newTest._id });
     } catch (err) {
         console.error('Create test error:', err);
-        res.status(500).json({ ok: false, message: 'Internal server error' });
+        res.status(500).json({ ok: false, message: 'Internal server error: ' + err.message });
     }
 });
 // GET single test
