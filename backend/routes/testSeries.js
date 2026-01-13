@@ -371,7 +371,7 @@ router.post('/submit', async (req, res) => {
 router.get('/result/:resultId', async (req, res) => {
     try {
         const attempt = await Attempt.findById(req.params.resultId)
-            .populate('testId')
+            // .populate('testId') // Don't populate, frontend needs ID string
             .populate({
                 path: 'responses.questionId',
                 select: 'statement question options explanation tags' // Populate question details
@@ -389,20 +389,21 @@ router.get('/result/:resultId', async (req, res) => {
 });
 
 // GET all results for a specific test (Leaderboard)
-router.get('/test/:testId/results', (req, res) => {
+router.get('/test/:testId/results', async (req, res) => {
     try {
-        const MOCK_TESTS_FILE = path.join(__dirname, '../data/user_mock_tests.json');
-        if (!fs.existsSync(MOCK_TESTS_FILE)) return res.json({ ok: true, results: [] });
+        const attempts = await Attempt.find({ testId: req.params.testId }).sort({ score: -1 });
 
-        const userTests = JSON.parse(fs.readFileSync(MOCK_TESTS_FILE, 'utf8'));
+        const results = attempts.map(a => ({
+            id: a._id,
+            uid: a.userId || 'Guest',
+            score: a.score,
+            totalMarks: 720, // We could fetch test to get real max, but standard is 720
+            accuracy: Math.round(a.accuracy || 0),
+            attempted: a.responses ? a.responses.length : 0, // Approx count
+            date: a.submitTime
+        }));
 
-        // Filter by testId
-        const testResults = userTests.filter(r => r.testId === req.params.testId);
-
-        // Sort by score desc (Leaderboard)
-        testResults.sort((a, b) => b.score - a.score);
-
-        res.json({ ok: true, results: testResults });
+        res.json({ ok: true, results });
 
     } catch (err) {
         console.error("Leaderboard error:", err);
