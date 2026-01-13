@@ -36,7 +36,7 @@ export default function TestManager() {
         try {
             const res = await axios.delete(`${getApiBase()}/api/test-series/${id}`);
             if (res.data.ok) {
-                setTests(tests.filter(t => t.id !== id));
+                setTests(tests.filter(t => t._id !== id));
             } else {
                 alert("Failed to delete test");
             }
@@ -75,7 +75,7 @@ export default function TestManager() {
             ) : (
                 <div className="grid gap-4">
                     {tests.map(test => (
-                        <div key={test.id} className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition flex justify-between items-center">
+                        <div key={test._id} className="bg-white p-6 rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition flex justify-between items-center">
                             <div>
                                 <h3 className="text-lg font-bold text-gray-900">{test.title}</h3>
                                 <div className="flex gap-4 mt-2 text-sm text-gray-500">
@@ -95,19 +95,19 @@ export default function TestManager() {
                             </div>
                             <div className="flex gap-3">
                                 <button
-                                    onClick={() => navigate(`/admin/tests/${test.id}/results`)}
+                                    onClick={() => navigate(`/admin/tests/${test._id}/results`)}
                                     className="text-green-600 hover:text-green-800 font-medium text-sm border border-green-200 px-3 py-1 rounded bg-green-50 hover:bg-green-100 transition"
                                 >
                                     View Results
                                 </button>
                                 <button
-                                    onClick={() => navigate(`/admin/tests/edit/${test.id}`)}
+                                    onClick={() => navigate(`/admin/tests/edit/${test._id}`)}
                                     className="text-blue-600 hover:text-blue-800 font-medium text-sm border border-blue-200 px-3 py-1 rounded hover:bg-blue-50 transition"
                                 >
                                     Edit
                                 </button>
                                 <button
-                                    onClick={() => handleDelete(test.id)}
+                                    onClick={() => handleDelete(test._id)}
                                     className="text-red-500 hover:text-red-700 font-medium text-sm border border-red-200 px-3 py-1 rounded hover:bg-red-50 transition"
                                 >
                                     Delete
