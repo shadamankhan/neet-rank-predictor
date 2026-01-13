@@ -62,6 +62,27 @@ const ExamEngine = ({ mode }) => {
                 const exam = testData.test;
 
                 // Adapter: Normalize Questions
+                const normalizeQ = (q) => ({
+                    ...q,
+                    // Handle 'statement' from backend being the question text
+                    question: q.question || q.statement || "Question Text Missing",
+                    // Handle options being objects { text: "...", ... } instead of strings
+                    options: Array.isArray(q.options)
+                        ? q.options.map(opt => (typeof opt === 'object' && opt.text) ? opt.text : opt)
+                        : []
+                });
+
+                // Apply normalization to flat array or sectioned object
+                if (Array.isArray(exam.questions)) {
+                    exam.questions = exam.questions.map(normalizeQ);
+                } else if (exam.questions && typeof exam.questions === 'object') {
+                    Object.keys(exam.questions).forEach(sec => {
+                        if (Array.isArray(exam.questions[sec])) {
+                            exam.questions[sec] = exam.questions[sec].map(normalizeQ);
+                        }
+                    });
+                }
+
                 if (Array.isArray(exam.questions) && !exam.sections) {
                     const qs = exam.questions;
                     let newSections = [];
