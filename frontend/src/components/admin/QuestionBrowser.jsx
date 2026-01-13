@@ -115,6 +115,14 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
             }
         });
 
+        // Fallback: If no sources detected from questions, use currently selected files
+        if (sources.size === 0 && selectedFiles.size > 0) {
+            selectedFiles.forEach(f => {
+                const name = f.split('/').pop().replace('.json', '').replace(/\.json$/i, '');
+                sources.add(name);
+            });
+        }
+
         onAddQuestions(selectedQs, Array.from(sources));
         setSelectedFiles(new Set()); // Optional: clear file selection? No, keep it.
         // But clear question selection
