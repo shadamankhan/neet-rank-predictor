@@ -335,6 +335,10 @@ const ExamEngine = ({ mode }) => {
         // Ensure text is a string to prevent .replace errors
         let processed = String(text);
 
+        // Strategy: Protect existing math tokens first, then process plain text, then restore.
+        const tokens = [];
+        const generateToken = (idx) => `__MATH_TOKEN_${idx}__`;
+
         // 1. Extract existing LaTeX delimiters \( ... \) and $ ... $
         processed = processed.replace(/(\\\(.*?\\\)|\\\[.*?\\\]|\$.*?\$)/g, (match) => {
             const token = generateToken(tokens.length);
