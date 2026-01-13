@@ -330,13 +330,10 @@ const ExamEngine = ({ mode }) => {
 
     // Math Preprocessor
     const preprocessContent = (text) => {
-        if (!text) return "";
+        if (text === null || text === undefined) return "";
 
-        // Strategy: Protect existing math tokens first, then process plain text, then restore.
-        const tokens = [];
-        const generateToken = (idx) => `__MATH_TOKEN_${idx}__`;
-
-        let processed = text;
+        // Ensure text is a string to prevent .replace errors
+        let processed = String(text);
 
         // 1. Extract existing LaTeX delimiters \( ... \) and $ ... $
         processed = processed.replace(/(\\\(.*?\\\)|\\\[.*?\\\]|\$.*?\$)/g, (match) => {
