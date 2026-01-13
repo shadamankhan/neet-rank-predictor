@@ -650,12 +650,6 @@ export default function CreateTestWizard() {
                                 >
                                     <span>⚡</span> Quick Generate
                                 </button>
-                                <button
-                                    onClick={() => setShowSmartGen(true)}
-                                    className="bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white px-4 py-2 rounded-lg font-bold flex items-center gap-2 transition shadow-lg shadow-purple-200"
-                                >
-                                    <span>⚡</span> Quick Generate
-                                </button>
                             </div>
                         </div>
 
