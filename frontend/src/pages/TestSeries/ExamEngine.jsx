@@ -62,15 +62,26 @@ const ExamEngine = ({ mode }) => {
                 const exam = testData.test;
 
                 // Adapter: Normalize Questions
-                const normalizeQ = (q) => ({
-                    ...q,
-                    // Handle 'statement' from backend being the question text
-                    question: q.question || q.statement || "Question Text Missing",
-                    // Handle options being objects { text: "...", ... } instead of strings
-                    options: Array.isArray(q.options)
-                        ? q.options.map(opt => (typeof opt === 'object' && opt.text) ? opt.text : opt)
-                        : []
-                });
+                // Adapter: Normalize Questions
+                const normalizeQ = (q) => {
+                    // Derive correct answer index if options are objects with isCorrect
+                    let derivedAnswer = q.answer;
+                    if (Array.isArray(q.options) && q.options.length > 0 && typeof q.options[0] === 'object') {
+                        const correctIdx = q.options.findIndex(o => o.isCorrect);
+                        if (correctIdx !== -1) derivedAnswer = correctIdx;
+                    }
+
+                    return {
+                        ...q,
+                        // Handle 'statement' from backend being the question text
+                        question: q.question || q.statement || "Question Text Missing",
+                        answer: derivedAnswer,
+                        // Handle options being objects { text: "...", ... } instead of strings
+                        options: Array.isArray(q.options)
+                            ? q.options.map(opt => (typeof opt === 'object' && opt.text) ? opt.text : opt)
+                            : []
+                    };
+                };
 
                 // Apply normalization to flat array or sectioned object
                 if (Array.isArray(exam.questions)) {
