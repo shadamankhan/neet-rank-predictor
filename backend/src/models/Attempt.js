@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const AttemptSchema = new mongoose.Schema({
-    userId: { type: mongoose.Schema.Types.ObjectId, ref: 'User' },
+    userId: { type: String, index: true }, // Changed from ObjectId to String to store Firebase UID
     testId: { type: mongoose.Schema.Types.ObjectId, ref: 'Test' },
 
     startTime: Date,
