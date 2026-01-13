@@ -3,6 +3,7 @@ import { useNavigate, useParams } from 'react-router-dom';
 import { getAuth } from 'firebase/auth'; // Ensure you have this import
 import axios from 'axios'; // Or use your api instance
 import QuestionBrowser from '../../components/admin/QuestionBrowser';
+import SmartGeneratorModal from '../../components/admin/SmartGeneratorModal';
 import { COACHING_PRESETS } from '../../data/CoachingPresets';
 import { getApiBase } from '../../apiConfig';
 
@@ -636,230 +637,231 @@ export default function CreateTestWizard() {
                                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"></path></svg>
                                     Manual Entry
                                 </button>
-                                <button
-                                    onClick={() => setShowBrowser(true)}
-                                    className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg font-medium flex items-center gap-2 transition"
-                                >
-                                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"></path></svg>
-                                    Browse Bank
-                                </button>
-                            </div>
+                                Browse Bank
+                            </button>
+                            <button
+                                onClick={() => setShowSmartGen(true)}
+                                className="bg-gradient-to-r from-purple-600 to-indigo-600 hover:from-purple-700 hover:to-indigo-700 text-white px-4 py-2 rounded-lg font-bold flex items-center gap-2 transition shadow-lg shadow-purple-200"
+                            >
+                                <span>⚡</span> Quick Generate
+                            </button>
                         </div>
+                    </div>
 
                         {formData.questions.length === 0 ? (
-                            <div className="text-center py-12 border-2 border-dashed border-gray-200 rounded-xl">
-                                <p className="text-gray-400">No questions added yet. Click "Add Questions" to browse the bank.</p>
-                            </div>
-                        ) : (
-                            <div className="space-y-3">
-                                {formData.questions.map((q, idx) => (
-                                    <div key={idx} className="bg-white border border-gray-200 p-4 rounded-lg flex gap-4 group hover:border-blue-300 transition">
-                                        <div className="flex flex-col gap-1">
-                                            <div className="bg-gray-100 text-gray-600 text-xs font-bold px-2 py-1 rounded h-fit w-fit">Q{idx + 1}</div>
-                                            {q.subject && (
-                                                <div className={`text-[10px] px-1.5 py-0.5 rounded font-bold uppercase w-fit ${q.subject === 'Physics' ? 'bg-purple-100 text-purple-700' :
-                                                    q.subject === 'Chemistry' ? 'bg-yellow-100 text-yellow-700' :
-                                                        'bg-green-100 text-green-700'
-                                                    }`}>
-                                                    {q.subject.substring(0, 3)}
-                                                </div>
-                                            )}
-                                        </div>
-                                        <div className="flex-1">
-                                            <p className="text-gray-800 font-medium line-clamp-2">{q.question}</p>
-                                            <div className="flex gap-2 mt-2">
-                                                {q.options?.map((opt, oIdx) => (
-                                                    <span key={oIdx} className={`text-xs px-2 py-0.5 rounded border ${q.answer === oIdx ? 'bg-green-50 text-green-700 border-green-200' : 'bg-gray-50 text-gray-500 border-gray-100'}`}>
-                                                        {opt}
-                                                    </span>
-                                                ))}
-                                            </div>
-                                        </div>
-                                        <button
-                                            onClick={() => removeQuestion(idx)}
-                                            className="text-red-400 hover:text-red-600 opacity-0 group-hover:opacity-100 transition p-2"
-                                        >
-                                            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
-                                        </button>
-                                    </div>
-                                ))}
-                            </div>
-                        )}
+                    <div className="text-center py-12 border-2 border-dashed border-gray-200 rounded-xl">
+                        <p className="text-gray-400">No questions added yet. Click "Add Questions" to browse the bank.</p>
                     </div>
-                )}
-
-                {currentStep === 4 && (
-                    <div className="space-y-6 animate-fade-in">
-                        <h2 className="text-lg font-bold text-gray-800 border-b border-gray-100 pb-2">Review & Publish</h2>
-                        <div className="bg-gray-50 p-6 rounded-xl space-y-3">
-                            <div className="flex justify-between border-b border-gray-200 pb-2">
-                                <span className="text-gray-500">Title</span>
-                                <span className="font-bold text-gray-900">{formData.title || 'Untitled Test'}</span>
-                            </div>
-                            <div className="flex justify-between border-b border-gray-200 pb-2">
-                                <span className="text-gray-500">Type</span>
-                                <span className="font-medium text-gray-900 capitalize">{formData.type}</span>
-                            </div>
-                            <div className="flex justify-between border-b border-gray-200 pb-2">
-                                <span className="text-gray-500">Duration</span>
-                                <span className="font-medium text-gray-900">{formData.duration} mins</span>
-                            </div>
-                        </div>
-                    </div>
-                )}
-
-            </div>
-
-            {/* Footer / Actions */}
-            <div className="mt-8 flex justify-between">
-                <button
-                    onClick={handleBack}
-                    disabled={currentStep === 1}
-                    className={`px-6 py-2.5 rounded-lg font-medium transition ${currentStep === 1 ? 'bg-gray-100 text-gray-400 cursor-not-allowed' : 'bg-white border border-gray-300 text-gray-700 hover:bg-gray-50'}`}
-                >
-                    Previous
-                </button>
-
-                {currentStep < 4 ? (
-                    <button
-                        onClick={handleNext}
-                        className="px-6 py-2.5 rounded-lg font-medium bg-blue-600 text-white hover:bg-blue-700 shadow-sm transition"
-                    >
-                        Next Step
-                    </button>
                 ) : (
-                    <button
-                        onClick={handlePublish}
-                        disabled={submitting}
-                        className="px-6 py-2.5 rounded-lg font-bold bg-green-600 text-white hover:bg-green-700 shadow-sm transition flex items-center gap-2"
-                    >
-                        {submitting ? 'Publishing...' : (
-                            <>
-                                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
-                                {isEditMode ? 'Update Test' : 'Publish Test'}
-                            </>
-                        )}
-                    </button>
+                    <div className="space-y-3">
+                        {formData.questions.map((q, idx) => (
+                            <div key={idx} className="bg-white border border-gray-200 p-4 rounded-lg flex gap-4 group hover:border-blue-300 transition">
+                                <div className="flex flex-col gap-1">
+                                    <div className="bg-gray-100 text-gray-600 text-xs font-bold px-2 py-1 rounded h-fit w-fit">Q{idx + 1}</div>
+                                    {q.subject && (
+                                        <div className={`text-[10px] px-1.5 py-0.5 rounded font-bold uppercase w-fit ${q.subject === 'Physics' ? 'bg-purple-100 text-purple-700' :
+                                            q.subject === 'Chemistry' ? 'bg-yellow-100 text-yellow-700' :
+                                                'bg-green-100 text-green-700'
+                                            }`}>
+                                            {q.subject.substring(0, 3)}
+                                        </div>
+                                    )}
+                                </div>
+                                <div className="flex-1">
+                                    <p className="text-gray-800 font-medium line-clamp-2">{q.question}</p>
+                                    <div className="flex gap-2 mt-2">
+                                        {q.options?.map((opt, oIdx) => (
+                                            <span key={oIdx} className={`text-xs px-2 py-0.5 rounded border ${q.answer === oIdx ? 'bg-green-50 text-green-700 border-green-200' : 'bg-gray-50 text-gray-500 border-gray-100'}`}>
+                                                {opt}
+                                            </span>
+                                        ))}
+                                    </div>
+                                </div>
+                                <button
+                                    onClick={() => removeQuestion(idx)}
+                                    className="text-red-400 hover:text-red-600 opacity-0 group-hover:opacity-100 transition p-2"
+                                >
+                                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"></path></svg>
+                                </button>
+                            </div>
+                        ))}
+                    </div>
+                )}
+            </div>
                 )}
 
+            {currentStep === 4 && (
+                <div className="space-y-6 animate-fade-in">
+                    <h2 className="text-lg font-bold text-gray-800 border-b border-gray-100 pb-2">Review & Publish</h2>
+                    <div className="bg-gray-50 p-6 rounded-xl space-y-3">
+                        <div className="flex justify-between border-b border-gray-200 pb-2">
+                            <span className="text-gray-500">Title</span>
+                            <span className="font-bold text-gray-900">{formData.title || 'Untitled Test'}</span>
+                        </div>
+                        <div className="flex justify-between border-b border-gray-200 pb-2">
+                            <span className="text-gray-500">Type</span>
+                            <span className="font-medium text-gray-900 capitalize">{formData.type}</span>
+                        </div>
+                        <div className="flex justify-between border-b border-gray-200 pb-2">
+                            <span className="text-gray-500">Duration</span>
+                            <span className="font-medium text-gray-900">{formData.duration} mins</span>
+                        </div>
+                    </div>
+                </div>
+            )}
+
+        </div>
+
+            {/* Footer / Actions */ }
+    <div className="mt-8 flex justify-between">
+        <button
+            onClick={handleBack}
+            disabled={currentStep === 1}
+            className={`px-6 py-2.5 rounded-lg font-medium transition ${currentStep === 1 ? 'bg-gray-100 text-gray-400 cursor-not-allowed' : 'bg-white border border-gray-300 text-gray-700 hover:bg-gray-50'}`}
+        >
+            Previous
+        </button>
+
+        {currentStep < 4 ? (
+            <button
+                onClick={handleNext}
+                className="px-6 py-2.5 rounded-lg font-medium bg-blue-600 text-white hover:bg-blue-700 shadow-sm transition"
+            >
+                Next Step
+            </button>
+        ) : (
+            <button
+                onClick={handlePublish}
+                disabled={submitting}
+                className="px-6 py-2.5 rounded-lg font-bold bg-green-600 text-white hover:bg-green-700 shadow-sm transition flex items-center gap-2"
+            >
+                {submitting ? 'Publishing...' : (
+                    <>
+                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7"></path></svg>
+                        {isEditMode ? 'Update Test' : 'Publish Test'}
+                    </>
+                )}
+            </button>
+        )}
+
+    </div>
+    {/* Modal for Question Browser */ }
+    {
+        showBrowser && (
+            <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4 backdrop-blur-sm animate-fade-in">
+                <div className="bg-white w-full max-w-5xl h-[80vh] rounded-xl shadow-2xl overflow-hidden flex flex-col animate-scale-up">
+                    <div className="flex justify-between items-center p-4 border-b border-gray-100">
+                        <h3 className="font-bold text-lg text-gray-800">Select Questions from Bank</h3>
+                        <button onClick={() => setShowBrowser(false)} className="text-gray-400 hover:text-gray-600">
+                            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                        </button>
+                    </div>
+                    <div className="flex-1 overflow-hidden p-4 bg-gray-50">
+                        <QuestionBrowser
+                            mode="select"
+                            onAddQuestions={handleAddQuestions}
+                            preSelectedSubject={titleConfig.subject}
+                            preSelectedChapters={selectedPreset ? selectedPreset.searchTags : []}
+                        />
+                    </div>
+                </div>
             </div>
-            {/* Modal for Question Browser */}
-            {
-                showBrowser && (
-                    <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4 backdrop-blur-sm animate-fade-in">
-                        <div className="bg-white w-full max-w-5xl h-[80vh] rounded-xl shadow-2xl overflow-hidden flex flex-col animate-scale-up">
-                            <div className="flex justify-between items-center p-4 border-b border-gray-100">
-                                <h3 className="font-bold text-lg text-gray-800">Select Questions from Bank</h3>
-                                <button onClick={() => setShowBrowser(false)} className="text-gray-400 hover:text-gray-600">
-                                    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
-                                </button>
-                            </div>
-                            <div className="flex-1 overflow-hidden p-4 bg-gray-50">
-                                <QuestionBrowser
-                                    mode="select"
-                                    onAddQuestions={handleAddQuestions}
-                                    preSelectedSubject={titleConfig.subject}
-                                    preSelectedChapters={selectedPreset ? selectedPreset.searchTags : []}
-                                />
-                            </div>
+        )
+    }
+
+    {/* Modal for Manual Question Entry */ }
+    {
+        showManualEntry && (
+            <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4 backdrop-blur-sm animate-fade-in">
+                <div className="bg-white w-full max-w-3xl rounded-xl shadow-2xl flex flex-col animate-scale-up max-h-[90vh] overflow-y-auto">
+                    <div className="flex justify-between items-center p-6 border-b border-gray-100 sticky top-0 bg-white z-10">
+                        <h3 className="font-bold text-lg text-gray-800">Add Manual Question</h3>
+                        <button onClick={() => setShowManualEntry(false)} className="text-gray-400 hover:text-gray-600">
+                            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                        </button>
+                    </div>
+                    <div className="p-6 space-y-4">
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-1">Question Text</label>
+                            <textarea
+                                className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+                                rows="3"
+                                placeholder="Type your question here..."
+                                value={manualQ.question}
+                                onChange={e => setManualQ({ ...manualQ, question: e.target.value })}
+                            ></textarea>
+                        </div>
+
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-1">Subject</label>
+                            <select
+                                className="w-full p-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+                                value={manualQ.subject}
+                                onChange={e => setManualQ({ ...manualQ, subject: e.target.value })}
+                            >
+                                <option value="Physics">Physics</option>
+                                <option value="Chemistry">Chemistry</option>
+                                <option value="Botany">Botany</option>
+                                <option value="Zoology">Zoology</option>
+                            </select>
+                        </div>
+
+                        <div className="space-y-3">
+                            <label className="block text-sm font-medium text-gray-700">Options</label>
+                            {manualQ.options.map((opt, idx) => (
+                                <div key={idx} className="flex items-center gap-3">
+                                    <input
+                                        type="radio"
+                                        name="correctAnswer"
+                                        checked={manualQ.answer === idx}
+                                        onChange={() => setManualQ({ ...manualQ, answer: idx })}
+                                        className="w-4 h-4 text-blue-600 focus:ring-blue-500 cursor-pointer"
+                                    />
+                                    <input
+                                        type="text"
+                                        className={`flex-1 p-2 border rounded-lg outline-none focus:ring-2 focus:ring-blue-500 ${manualQ.answer === idx ? 'border-blue-500 bg-blue-50' : 'border-gray-300'}`}
+                                        placeholder={`Option ${idx + 1}`}
+                                        value={opt}
+                                        onChange={e => {
+                                            const newOpts = [...manualQ.options];
+                                            newOpts[idx] = e.target.value;
+                                            setManualQ({ ...manualQ, options: newOpts });
+                                        }}
+                                    />
+                                </div>
+                            ))}
+                        </div>
+
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-1">Explanation (Optional)</label>
+                            <textarea
+                                className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
+                                rows="2"
+                                placeholder="Explain the answer..."
+                                value={manualQ.explanation}
+                                onChange={e => setManualQ({ ...manualQ, explanation: e.target.value })}
+                            ></textarea>
+                        </div>
+
+                        <div className="pt-4 flex justify-end gap-3">
+                            <button
+                                onClick={() => setShowManualEntry(false)}
+                                className="px-5 py-2.5 rounded-lg border border-gray-300 text-gray-700 font-medium hover:bg-gray-50"
+                            >
+                                Cancel
+                            </button>
+                            <button
+                                onClick={saveManualQuestion}
+                                className="px-5 py-2.5 rounded-lg bg-blue-600 text-white font-medium hover:bg-blue-700 shadow-sm"
+                            >
+                                Add Question
+                            </button>
                         </div>
                     </div>
-                )
-            }
-
-            {/* Modal for Manual Question Entry */}
-            {
-                showManualEntry && (
-                    <div className="fixed inset-0 bg-black/50 z-50 flex items-center justify-center p-4 backdrop-blur-sm animate-fade-in">
-                        <div className="bg-white w-full max-w-3xl rounded-xl shadow-2xl flex flex-col animate-scale-up max-h-[90vh] overflow-y-auto">
-                            <div className="flex justify-between items-center p-6 border-b border-gray-100 sticky top-0 bg-white z-10">
-                                <h3 className="font-bold text-lg text-gray-800">Add Manual Question</h3>
-                                <button onClick={() => setShowManualEntry(false)} className="text-gray-400 hover:text-gray-600">
-                                    <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M6 18L18 6M6 6l12 12"></path></svg>
-                                </button>
-                            </div>
-                            <div className="p-6 space-y-4">
-                                <div>
-                                    <label className="block text-sm font-medium text-gray-700 mb-1">Question Text</label>
-                                    <textarea
-                                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                                        rows="3"
-                                        placeholder="Type your question here..."
-                                        value={manualQ.question}
-                                        onChange={e => setManualQ({ ...manualQ, question: e.target.value })}
-                                    ></textarea>
-                                </div>
-
-                                <div>
-                                    <label className="block text-sm font-medium text-gray-700 mb-1">Subject</label>
-                                    <select
-                                        className="w-full p-2.5 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                                        value={manualQ.subject}
-                                        onChange={e => setManualQ({ ...manualQ, subject: e.target.value })}
-                                    >
-                                        <option value="Physics">Physics</option>
-                                        <option value="Chemistry">Chemistry</option>
-                                        <option value="Botany">Botany</option>
-                                        <option value="Zoology">Zoology</option>
-                                    </select>
-                                </div>
-
-                                <div className="space-y-3">
-                                    <label className="block text-sm font-medium text-gray-700">Options</label>
-                                    {manualQ.options.map((opt, idx) => (
-                                        <div key={idx} className="flex items-center gap-3">
-                                            <input
-                                                type="radio"
-                                                name="correctAnswer"
-                                                checked={manualQ.answer === idx}
-                                                onChange={() => setManualQ({ ...manualQ, answer: idx })}
-                                                className="w-4 h-4 text-blue-600 focus:ring-blue-500 cursor-pointer"
-                                            />
-                                            <input
-                                                type="text"
-                                                className={`flex-1 p-2 border rounded-lg outline-none focus:ring-2 focus:ring-blue-500 ${manualQ.answer === idx ? 'border-blue-500 bg-blue-50' : 'border-gray-300'}`}
-                                                placeholder={`Option ${idx + 1}`}
-                                                value={opt}
-                                                onChange={e => {
-                                                    const newOpts = [...manualQ.options];
-                                                    newOpts[idx] = e.target.value;
-                                                    setManualQ({ ...manualQ, options: newOpts });
-                                                }}
-                                            />
-                                        </div>
-                                    ))}
-                                </div>
-
-                                <div>
-                                    <label className="block text-sm font-medium text-gray-700 mb-1">Explanation (Optional)</label>
-                                    <textarea
-                                        className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                                        rows="2"
-                                        placeholder="Explain the answer..."
-                                        value={manualQ.explanation}
-                                        onChange={e => setManualQ({ ...manualQ, explanation: e.target.value })}
-                                    ></textarea>
-                                </div>
-
-                                <div className="pt-4 flex justify-end gap-3">
-                                    <button
-                                        onClick={() => setShowManualEntry(false)}
-                                        className="px-5 py-2.5 rounded-lg border border-gray-300 text-gray-700 font-medium hover:bg-gray-50"
-                                    >
-                                        Cancel
-                                    </button>
-                                    <button
-                                        onClick={saveManualQuestion}
-                                        className="px-5 py-2.5 rounded-lg bg-blue-600 text-white font-medium hover:bg-blue-700 shadow-sm"
-                                    >
-                                        Add Question
-                                    </button>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                )
-            }
+                </div>
+            </div>
+        )
+    }
         </div >
     );
 }
