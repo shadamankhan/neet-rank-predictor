@@ -104,7 +104,18 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
                 // Infer subject from file if possible, else use selectedSubject
                 // Logic: if q._source has 'physics', override? For now stick to manual override
             }));
-        onAddQuestions(selectedQs);
+
+        // Extract unique chapters (files) from selected questions
+        const sources = new Set();
+        selectedQs.forEach(q => {
+            if (q._source) {
+                // Clean up filename: remove extension and path
+                const name = q._source.split('/').pop().replace('.json', '').replace(/\.json$/i, ''); // Handle varied extensions if any
+                sources.add(name);
+            }
+        });
+
+        onAddQuestions(selectedQs, Array.from(sources));
         setSelectedFiles(new Set()); // Optional: clear file selection? No, keep it.
         // But clear question selection
         setSelectedQuestionIndices(new Set());

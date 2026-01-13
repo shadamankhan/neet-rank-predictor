@@ -146,12 +146,27 @@ export default function CreateTestWizard() {
     };
     const handleBack = () => setCurrentStep(prev => Math.max(prev - 1, 1));
 
-    const handleAddQuestions = (newQuestions) => {
+    const handleAddQuestions = (newQuestions, sourceChapters = []) => {
         setFormData(prev => ({
             ...prev,
             questions: [...prev.questions, ...newQuestions],
             totalMarks: (prev.questions.length + newQuestions.length) * 4
         }));
+
+        // Auto-fill Topic if it's a Chapter Test or similar, and we have source info
+        if (sourceChapters.length > 0) {
+            setTitleConfig(prev => {
+                const currentTopics = prev.topic ? prev.topic.split(', ').map(t => t.trim()) : [];
+                const newTopics = sourceChapters.filter(c => !currentTopics.includes(c)); // Avoid duplicates
+
+                if (newTopics.length > 0) {
+                    const updatedTopic = currentTopics.concat(newTopics).join(', ');
+                    return { ...prev, topic: updatedTopic };
+                }
+                return prev;
+            });
+        }
+
         setShowBrowser(false);
     };
 
