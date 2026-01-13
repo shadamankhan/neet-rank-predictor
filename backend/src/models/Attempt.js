@@ -35,7 +35,17 @@ const AttemptSchema = new mongoose.Schema({
             attempted: { type: Number, default: 0 },
             correct: { type: Number, default: 0 }
         },
-        Biology: {
+        Botany: {
+            score: { type: Number, default: 0 },
+            attempted: { type: Number, default: 0 },
+            correct: { type: Number, default: 0 }
+        },
+        Zoology: {
+            score: { type: Number, default: 0 },
+            attempted: { type: Number, default: 0 },
+            correct: { type: Number, default: 0 }
+        },
+        General: { // Fallback
             score: { type: Number, default: 0 },
             attempted: { type: Number, default: 0 },
             correct: { type: Number, default: 0 }

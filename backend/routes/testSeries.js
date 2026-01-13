@@ -3,6 +3,7 @@ const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 const Test = require('../src/models/Test');
+const Attempt = require('../src/models/Attempt');
 const Question = require('../src/models/Question');
 const User = require('../src/models/User'); // Assuming User model exists
 const mongoose = require('mongoose');
@@ -262,9 +263,10 @@ router.get('/:id', async (req, res) => {
 });
 
 // POST /submit - Submit Test & Calculate Result
+// POST /submit - Submit Test & Calculate Result
 router.post('/submit', async (req, res) => {
     try {
-        const { testId, uid, answers = {} } = req.body;
+        const { testId, uid, answers = {}, timeTaken } = req.body;
         // answers: { questionIdx: selectedOption }
 
         const test = await Test.findById(testId).populate('questionIds');
@@ -274,48 +276,90 @@ router.post('/submit', async (req, res) => {
         let correctCount = 0;
         let incorrectCount = 0;
         let attemptedCount = 0;
-        const subjectWise = {};
+
+        const sectionAnalysis = {
+            Physics: { score: 0, attempted: 0, correct: 0 },
+            Chemistry: { score: 0, attempted: 0, correct: 0 },
+            Botany: { score: 0, attempted: 0, correct: 0 },
+            Zoology: { score: 0, attempted: 0, correct: 0 },
+            General: { score: 0, attempted: 0, correct: 0 }
+        };
+
+        const responses = [];
 
         test.questionIds.forEach((q, idx) => {
             // Safe checks
             if (!q) return;
 
             const subject = q.tags?.subject || 'General';
-            if (!subjectWise[subject]) subjectWise[subject] = { score: 0, total: 0, correct: 0, wrong: 0, attempted: 0, totalQs: 0 };
+            // Ensure subject key exists in analysis
+            if (!sectionAnalysis[subject]) sectionAnalysis[subject] = { score: 0, attempted: 0, correct: 0 };
 
-            subjectWise[subject].totalQs++;
-            subjectWise[subject].total += 4;
+            const userOpt = answers[idx]; // userOpt is 0-based index from frontend
+            let status = 'unattempted';
+            let isCorrect = false;
 
-            const userOpt = answers[idx];
             if (userOpt !== undefined && userOpt !== null) {
                 attemptedCount++;
-                subjectWise[subject].attempted++;
+                sectionAnalysis[subject].attempted++;
+                status = 'incorrect'; // Default to incorrect if answered
 
                 // Q.options should have isCorrect
                 const correctOption = q.options.find(o => o.isCorrect);
-                const correctIdx = correctOption ? correctOption.id : -1;
+                const correctIdx = correctOption ? correctOption.id - 1 : -1; // Option IDs are 1-based usually, need to check Schema. In migration we set id: idx+1.
 
-                if (parseInt(userOpt) === correctIdx) {
+                // Wait, in migration: options: q.options.map((optText, idx) => ({ id: idx + 1 ... }))
+                // Frontend Logic: selectedOption is index (0, 1, 2, 3).
+                // If backend Option ID is 1-based (1, 2, 3, 4).
+                // We need to match safely.
+                // Migration Route: `parseInt(q.answer) === idx` determines `isCorrect`.
+                // `q.answer` in JSON was likely 0-based index? Or Option A/B/C/D?
+                // Let's assume standard 0-based index from frontend matches 0-based index of options array.
+                // The `id` field in Option Schema is just a label or identifier. `isCorrect` bool is source of truth.
+
+                // Find the index of the correct option in the options array
+                const correctOptIndex = q.options.findIndex(o => o.isCorrect);
+
+                if (parseInt(userOpt) === correctOptIndex) {
                     totalScore += 4;
                     correctCount++;
-                    subjectWise[subject].score += 4;
-                    subjectWise[subject].correct++;
+                    sectionAnalysis[subject].score += 4;
+                    sectionAnalysis[subject].correct++;
+                    status = 'correct';
+                    isCorrect = true;
                 } else {
                     totalScore -= 1;
                     incorrectCount++;
-                    subjectWise[subject].score -= 1;
-                    subjectWise[subject].wrong++;
+                    sectionAnalysis[subject].score -= 1;
+                    status = 'incorrect';
                 }
             }
+
+            responses.push({
+                questionId: q._id,
+                selectedOption: userOpt,
+                isCorrect: isCorrect,
+                status: status
+            });
         });
 
-        // Save Result (Using Mongoose Attempt Model or just JSON for now)
-        // Since we are migrating, let's use a simple Schema or just return stats
-        // To keep it simple for now as User Tests logic might be separate
+        // Save Attempt
+        const newAttempt = new Attempt({
+            userId: uid !== 'guest_user' ? uid : null, // Store usage for guests? Or just null.
+            testId: test._id,
+            startTime: new Date(Date.now() - (timeTaken * 1000) || Date.now()), // Estimate start
+            submitTime: new Date(),
+            status: 'completed',
+            score: totalScore,
+            accuracy: attemptedCount > 0 ? (correctCount / attemptedCount) * 100 : 0,
+            responses: responses,
+            sectionAnalysis: sectionAnalysis
+        });
 
-        // TODO: Save to Attempt collection
+        const savedAttempt = await newAttempt.save();
+        console.log(`✅ Test Submitted. Score: ${totalScore}, ID: ${savedAttempt._id}`);
 
-        res.json({ ok: true, resultId: 'temp-id', score: totalScore });
+        res.json({ ok: true, resultId: savedAttempt._id, score: totalScore });
 
     } catch (err) {
         console.error("Submit error:", err);
@@ -324,18 +368,23 @@ router.post('/submit', async (req, res) => {
 });
 
 // GET Result
-router.get('/result/:resultId', (req, res) => {
+router.get('/result/:resultId', async (req, res) => {
     try {
-        const MOCK_TESTS_FILE = path.join(__dirname, '../data/user_mock_tests.json');
-        if (!fs.existsSync(MOCK_TESTS_FILE)) return res.status(404).json({ ok: false });
+        const attempt = await Attempt.findById(req.params.resultId)
+            .populate('testId')
+            .populate({
+                path: 'responses.questionId',
+                select: 'statement question options explanation tags' // Populate question details
+            });
 
-        const userTests = JSON.parse(fs.readFileSync(MOCK_TESTS_FILE, 'utf8'));
-        const result = userTests.find(r => r.id === req.params.resultId);
+        if (!attempt) return res.status(404).json({ ok: false, message: 'Result not found' });
 
-        if (!result) return res.status(404).json({ ok: false });
-        res.json({ ok: true, result });
+        // Transform for frontend if needed, or send as is
+        // Frontend expects "result" object
+        res.json({ ok: true, result: attempt });
     } catch (err) {
-        res.status(500).json({ ok: false });
+        console.error("Fetch result error:", err);
+        res.status(500).json({ ok: false, message: 'Failed to load result' });
     }
 });
 
