@@ -5,6 +5,7 @@ const path = require('path');
 const { v4: uuidv4 } = require('uuid');
 const firebaseAdmin = require('../../firebaseAdmin');
 const admin = firebaseAdmin.admin;
+const Attempt = require('../models/Attempt');
 
 const DATA_FILE = path.join(__dirname, '../../data/user_mock_tests.json');
 
@@ -43,12 +44,36 @@ async function verifyUser(req, res, next) {
 }
 
 // GET /api/user/mock-tests
-router.get('/mock-tests', verifyUser, (req, res) => {
-    const allTests = readData();
-    const userTests = allTests.filter(t => t.uid === req.user.uid);
-    // Sort by date desc
-    userTests.sort((a, b) => new Date(b.date) - new Date(a.date));
-    res.json({ ok: true, tests: userTests });
+router.get('/mock-tests', verifyUser, async (req, res) => {
+    try {
+        const allTests = readData();
+        const manualTests = allTests.filter(t => t.uid === req.user.uid);
+
+        // Fetch actual test attempts from MongoDB
+        const attempts = await Attempt.find({ userId: req.user.uid }).populate('testId');
+        
+        const dbTests = attempts.map(a => ({
+            id: a._id, // Use _id as unique ID
+            uid: a.userId,
+            testName: a.testId ? a.testId.title : 'Unknown Test',
+            score: a.score,
+            totalMarks: a.testId ? a.testId.totalMarks : 720,
+            date: a.submitTime || a.createdAt,
+            testId: a.testId ? a.testId._id : null,
+            predictedRank: a.rank, // If we saved rank
+            isRealAttempt: true
+        }));
+
+        const combinedTests = [...manualTests, ...dbTests];
+
+        // Sort by date desc
+        combinedTests.sort((a, b) => new Date(b.date) - new Date(a.date));
+        
+        res.json({ ok: true, tests: combinedTests });
+    } catch (err) {
+        console.error("Failed to fetch mock tests:", err);
+        res.status(500).json({ ok: false, message: "Failed to load tests" });
+    }
 });
 
 // POST /api/user/mock-tests
