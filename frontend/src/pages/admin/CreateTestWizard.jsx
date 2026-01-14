@@ -37,6 +37,7 @@ export default function CreateTestWizard() {
         questions: [] // Array of selected question objects
     });
     const [showBrowser, setShowBrowser] = useState(false);
+    const [showSmartGen, setShowSmartGen] = useState(false);
 
     // Manual Question State
     const [showManualEntry, setShowManualEntry] = useState(false);
