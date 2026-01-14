@@ -11,10 +11,14 @@ const TestDashboard = () => {
     const [data, setData] = useState(null);
     const [loading, setLoading] = useState(true);
 
-    useEffect(() => {
+    const [error, setError] = useState(null);
+
+    const loadDashboard = () => {
+        setLoading(true);
+        setError(null);
         fetch(`${getApiBase()}/api/test-series/dashboard`)
             .then(res => {
-                if (!res.ok) throw new Error(`Server returned ${res.status}`);
+                if (!res.ok) throw new Error(res.status === 503 ? 'Server is waking up, please retry...' : `Server returned ${res.status}`);
                 return res.json();
             })
             .then(data => {
@@ -24,9 +28,13 @@ const TestDashboard = () => {
             })
             .catch(err => {
                 console.error("Failed to load dashboard:", err);
+                setError(err.message);
                 setLoading(false);
-                // Optionally set an error state here to show UI feedback
             });
+    };
+
+    useEffect(() => {
+        loadDashboard();
     }, []);
 
     // Helper to render star rating or difficulty
@@ -34,8 +42,37 @@ const TestDashboard = () => {
         return <span className={`difficulty-badge ${level.toLowerCase()}`}>{level}</span>;
     };
 
-    if (loading) return <div className="test-dashboard-container" style={{ padding: '100px', textAlign: 'center' }}>Loading Test Series...</div>;
-    if (!data) return <div className="test-dashboard-container">Failed to load data.</div>;
+    if (loading) return (
+        <div className="test-dashboard-container" style={{ padding: '100px', textAlign: 'center' }}>
+            <h2>Loading Test Series...</h2>
+            <p>This may take up to 60 seconds if the free server is waking up.</p>
+        </div>
+    );
+
+    if (error) return (
+        <div className="test-dashboard-container" style={{ padding: '100px', textAlign: 'center', color: 'red' }}>
+            <h2>❌ Connection Failed</h2>
+            <p>{error}</p>
+            <p>If this persists, check if the Backend URL is blocked or down.</p>
+            <button
+                onClick={loadDashboard}
+                style={{
+                    padding: '10px 20px',
+                    fontSize: '16px',
+                    cursor: 'pointer',
+                    marginTop: '20px',
+                    background: '#2563eb',
+                    color: '#fff',
+                    border: 'none',
+                    borderRadius: '5px'
+                }}
+            >
+                Retry Request
+            </button>
+        </div>
+    );
+
+    if (!data) return <div className="test-dashboard-container">No data available.</div>;
 
     const { upcomingTest, categories = [], testBundles = {} } = data || {};
 

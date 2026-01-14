@@ -9,11 +9,15 @@ export default function TestManager() {
     const [tests, setTests] = useState([]);
     const [loading, setLoading] = useState(true);
 
+    const [error, setError] = useState(null);
+
     useEffect(() => {
         fetchTests();
     }, []);
 
     const fetchTests = async () => {
+        setLoading(true);
+        setError(null);
         try {
             // In a real app, use the auth token if your API is protected
             // const auth = getAuth();
@@ -25,6 +29,7 @@ export default function TestManager() {
             }
         } catch (err) {
             console.error("Failed to fetch tests", err);
+            setError(err.response?.status === 503 ? 'Server is sleeping (Free Tier). Please retry in a moment.' : err.message);
         } finally {
             setLoading(false);
         }
@@ -63,7 +68,21 @@ export default function TestManager() {
             </div>
 
             {loading ? (
-                <div className="text-center py-12">Loading tests...</div>
+                <div className="text-center py-12">
+                    <p className="text-gray-600 font-medium">Loading tests...</p>
+                    <p className="text-xs text-gray-400 mt-2">Connecting to backend...</p>
+                </div>
+            ) : error ? (
+                <div className="bg-red-50 border border-red-200 rounded-xl p-8 text-center">
+                    <h3 className="text-red-800 font-bold text-lg">Failed to Load Tests</h3>
+                    <p className="text-red-600 mt-2">{error}</p>
+                    <button
+                        onClick={fetchTests}
+                        className="mt-4 bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-lg font-medium transition"
+                    >
+                        Retry Now
+                    </button>
+                </div>
             ) : tests.length === 0 ? (
                 <div className="bg-white rounded-xl shadow-sm border border-gray-100 p-12 text-center">
                     <div className="w-16 h-16 bg-blue-50 text-blue-500 rounded-full flex items-center justify-center mx-auto mb-4">

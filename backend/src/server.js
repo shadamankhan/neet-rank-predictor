@@ -22,17 +22,22 @@ app.get('/', (req, res) => {
   res.send('Backend is Running');
 });
 
-// Enable CORS for frontend (Debugging Mode - Permissive)
+// Enable CORS for frontend
 const corsOptions = {
-  origin: true, // Allow all origins explicitly
+  origin: [
+    "https://shadamankhan.vercel.app", 
+    "http://localhost:5173", 
+    "http://localhost:3000"
+  ],
   credentials: true,
   methods: ["GET", "POST", "DELETE", "OPTIONS", "PUT", "PATCH"],
   allowedHeaders: ["Content-Type", "Authorization", "X-Requested-With", "Accept", "Origin"]
 };
 
-app.use(cors(corsOptions));
+// Fallback for others (like Postman or random tools) if needed, or stick to strict list
+// const corsMiddleware = cors(corsOptions);
 
-// Explicit OPTIONS handling for preflight requests with SAME options
+app.use(cors(corsOptions));
 app.options('*', cors(corsOptions));
 
 app.use(express.json({ limit: '50mb' })); // Increased limit for larger uploads
@@ -50,7 +55,7 @@ app.use((req, res, next) => {
   next(); // Important
 });
 
-console.log("✅ CORS enabled for http://localhost:5173");
+console.log("✅ CORS enabled for:", corsOptions.origin);
 
 // Serve Quizzes Static Directory (PDFs)
 const path = require('path');
@@ -60,8 +65,15 @@ app.use('/data/tutorials', express.static(tutorialPath));
 console.log("📂 Serving Static PDFs at /data/quizzes");
 console.log(`📂 Serving Static Tutorials at ${tutorialPath}`);
 
-// Public API (example)
-app.get('/api/ping', (req, res) => res.json({ ok: true, now: new Date().toISOString() }));
+// Enhanced Health/Ping API
+app.get('/api/ping', (req, res) => {
+    res.json({ 
+        ok: true, 
+        status: 'UP',
+        timestamp: new Date().toISOString(),
+        mongoState: mongoose.connection.readyState // 0=disconnected, 1=connected, 2=connecting, 3=disconnecting
+    });
+});
 
 const predictRouter = require('./routes/predict');
 const savePredictionRouter = require('./routes/savePrediction');
