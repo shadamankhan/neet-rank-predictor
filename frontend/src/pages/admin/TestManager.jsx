@@ -109,7 +109,7 @@ export default function TestManager() {
                                     </span>
                                     <span>{test.duration} mins</span>
                                     <span>{test.totalMarks} marks</span>
-                                    <span>{test.questions?.length || 0} Questions</span>
+                                    <span>{test.questionIds?.length || test.questions?.length || 0} Questions</span>
                                 </div>
                             </div>
                             <div className="flex gap-3">
