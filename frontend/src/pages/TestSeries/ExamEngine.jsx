@@ -61,6 +61,34 @@ const ExamEngine = ({ mode }) => {
 
                 const exam = testData.test;
 
+                // Helper to preprocess LaTeX (math) content
+                const preprocessContent = (content) => {
+                    if (!content) return "";
+                    // If content has [ ] or ( ) delimiters for math, ensure they are formatted for remark-math (usually $...$ or $$...$$)
+                    // Basic normalizers:
+                    let processed = content
+                        .replace(/\\\[/g, '$$$') // Replace \[ with $$
+                        .replace(/\\\]/g, '$$$') // Replace \] with $$
+                        .replace(/\\\(/g, '$')   // Replace \( with $
+                        .replace(/\\\)/g, '$');  // Replace \) with $
+
+                    // Fix: If there are literal $ that are NOT part of math (rare in this context, but possible)
+                    // ideally we assume $ is math.
+
+                    // Specific fix for "there are $ appearing":
+                    // This implies $ is being treated as text. remark-math needs $ to be spaced or distinct? 
+                    // Or maybe escaping issue. 
+                    // If the user says "there are $ appearing", it means they see "$E=mc^2$" instead of the formula.
+                    // This happens if remark-math is NOT transforming it.
+                    // CAUSE: remark-math requires specific spacing or configuration, 
+                    // OR the $ are escaped like \$ in the source.
+
+                    // Unescape string keys if they were double escaped
+                    processed = processed.replace(/\\\$/g, '$');
+
+                    return processed;
+                };
+
                 // Adapter: Normalize Questions
                 // Adapter: Normalize Questions
                 const normalizeQ = (q) => {
@@ -99,18 +127,35 @@ const ExamEngine = ({ mode }) => {
                     let newSections = [];
                     let newQs = {};
 
-                    // Strategy 1: Group by 'subject' key if present in data
-                    const hasSubject = qs.some(q => q.subject);
+
+                    // Strategy 1: Group by 'tags.subject' or 'subject' key if present in data
+                    // Check if *any* question has a subject defined
+                    const hasSubject = qs.some(q => q.subject || (q.tags && q.tags.subject));
 
                     if (hasSubject) {
                         qs.forEach(q => {
-                            const sub = q.subject || 'General';
-                            if (!newQs[sub]) {
-                                newQs[sub] = [];
-                                newSections.indexOf(sub) === -1 && newSections.push(sub);
+                            // Normalize subject source
+                            const sub = q.subject || (q.tags && q.tags.subject) || 'General';
+
+                            // Capitalize first letter for consistency
+                            const safeSub = sub.charAt(0).toUpperCase() + sub.slice(1);
+
+                            if (!newQs[safeSub]) {
+                                newQs[safeSub] = [];
                             }
-                            newQs[sub].push(q);
+                            // Add to section list if new
+                            if (newSections.indexOf(safeSub) === -1) {
+                                newSections.push(safeSub);
+                            }
+
+                            newQs[safeSub].push(q);
                         });
+
+                        // Force update active section to first available if current default 'Physics' doesn't exist
+                        if (newSections.length > 0 && newSections.indexOf('Physics') === -1) {
+                            // This side-effect needs to be handled in useEffect, but we'll set default state logic later
+                            // For now, let the component render cycle handle it or default to first section
+                        }
                     }
                     // Strategy 2: Standard NEET Split (180 Qs -> 45 each)
                     else if (qs.length === 180) {
@@ -134,49 +179,59 @@ const ExamEngine = ({ mode }) => {
                         newQs['General'] = qs;
                     }
 
+
                     exam.sections = newSections;
                     exam.questions = newQs;
-                }
 
-                setExamData(exam);
-                if (!isReviewMode) setTimeLeft((exam.duration || 180) * 60);
+                    // Set active section to first available if not default
+                    if (newSections.length > 0 && newSections.indexOf('Physics') === -1) {
+                        // We need to update the state, but we are in logic processing.
+                        // Ideally checking if activeSection is valid, else switch.
+                        // Since this runs in useEffect, we can force a state update if needed, but activeSection is state.
+                        // Better approach: Derived state or effect later?
+                        // Let's just mutate the logic here to match activeSection if possible? No.
+                        // We will add a check in render or another useEffect to reset activeSection if invalid.
+                    }
 
-                // Initialize / Restore Responses
-                const initialResponse = {};
-                if (exam.sections) {
-                    let globalIndex = 0;
-                    exam.sections.forEach(sec => {
-                        initialResponse[sec] = {};
-                        // Map back flat answers to section-based structure
-                        exam.questions[sec].forEach((q, idx) => {
-                            if (isReviewMode) {
-                                const ans = fetchedAnswers[globalIndex];
-                                if (ans !== undefined) {
-                                    initialResponse[sec][idx] = {
-                                        selectedOption: ans,
-                                        status: 'answered'
-                                    };
+                    setExamData(exam);
+                    if (!isReviewMode) setTimeLeft((exam.duration || 180) * 60);
+
+                    // Initialize / Restore Responses
+                    const initialResponse = {};
+                    if (exam.sections) {
+                        let globalIndex = 0;
+                        exam.sections.forEach(sec => {
+                            initialResponse[sec] = {};
+                            // Map back flat answers to section-based structure
+                            exam.questions[sec].forEach((q, idx) => {
+                                if (isReviewMode) {
+                                    const ans = fetchedAnswers[globalIndex];
+                                    if (ans !== undefined) {
+                                        initialResponse[sec][idx] = {
+                                            selectedOption: ans,
+                                            status: 'answered'
+                                        };
+                                    }
                                 }
-                            }
-                            globalIndex++;
+                                globalIndex++;
+                            });
                         });
-                    });
-                    setUserResponse(initialResponse);
-                    setActiveSection(exam.sections[0]);
-                } else {
-                    setActiveSection('General');
+                        setUserResponse(initialResponse);
+                        setActiveSection(exam.sections[0]);
+                    } else {
+                        setActiveSection('General');
+                    }
+                    setLoading(false);
+
+                } catch (err) {
+                    console.error("Engine Load Error:", err);
+                    alert(err.message);
+                    setLoading(false);
                 }
-                setLoading(false);
+            };
 
-            } catch (err) {
-                console.error("Engine Load Error:", err);
-                alert(err.message);
-                setLoading(false);
-            }
-        };
-
-        loadEngine();
-    }, [id, resultId, isReviewMode]);
+            loadEngine();
+        }, [id, resultId, isReviewMode]);
 
     // Initial visit marking
     useEffect(() => {

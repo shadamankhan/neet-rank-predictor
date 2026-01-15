@@ -123,7 +123,7 @@ router.get('/dashboard', async (req, res) => {
                 testBundles[catId].push({
                     id: t._id,
                     title: t.title,
-                    questions: t.totalQuestions,
+                    questions: t.questionIds ? t.questionIds.length : (t.totalQuestions || 0),
                     time: t.duration,
                     price: t.price > 0 ? t.price : 'Free',
                     status: t.status === 'live' ? 'Open' : 'Locked',
@@ -227,6 +227,7 @@ router.post('/', async (req, res) => {
             type,
             duration: parseInt(duration) || 180,
             totalMarks: parseInt(totalMarks) || 720,
+            totalQuestions: finalQuestionIds.length,
             instructions,
             questionIds: finalQuestionIds, // mapped IDs
             schedule: {
@@ -433,7 +434,10 @@ router.put('/:id', async (req, res) => {
         if (duration) updateData.duration = parseInt(duration);
         if (totalMarks) updateData.totalMarks = parseInt(totalMarks);
         if (instructions) updateData.instructions = instructions;
-        if (questions) updateData.questionIds = questions;
+        if (questions) {
+            updateData.questionIds = questions;
+            updateData.totalQuestions = questions.length;
+        }
         if (startDate) updateData.schedule = { ...updateData.schedule, startDate };
         if (endDate) updateData.schedule = { ...updateData.schedule, endDate };
         if (price !== undefined) updateData.price = price;
