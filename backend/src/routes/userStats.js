@@ -51,7 +51,7 @@ router.get('/mock-tests', verifyUser, async (req, res) => {
 
         // Fetch actual test attempts from MongoDB
         const attempts = await Attempt.find({ userId: req.user.uid }).populate('testId');
-        
+
         const dbTests = attempts.map(a => ({
             id: a._id, // Use _id as unique ID
             uid: a.userId,
@@ -68,7 +68,7 @@ router.get('/mock-tests', verifyUser, async (req, res) => {
 
         // Sort by date desc
         combinedTests.sort((a, b) => new Date(b.date) - new Date(a.date));
-        
+
         res.json({ ok: true, tests: combinedTests });
     } catch (err) {
         console.error("Failed to fetch mock tests:", err);
@@ -102,19 +102,31 @@ router.post('/mock-tests', verifyUser, (req, res) => {
 });
 
 // DELETE /api/user/mock-tests/:id
-router.delete('/mock-tests/:id', verifyUser, (req, res) => {
+router.delete('/mock-tests/:id', verifyUser, async (req, res) => {
     const { id } = req.params;
     let allTests = readData();
 
+    // 1. Try deleting from Manual JSON File
     const testIndex = allTests.findIndex(t => t.id === id && t.uid === req.user.uid);
-    if (testIndex === -1) {
-        return res.status(404).json({ ok: false, message: 'Test not found or unauthorized' });
+    if (testIndex !== -1) {
+        allTests.splice(testIndex, 1);
+        writeData(allTests);
+        return res.json({ ok: true, id, source: 'manual' });
     }
 
-    allTests.splice(testIndex, 1);
-    writeData(allTests);
+    // 2. If not found in JSON, try deleting from MongoDB (Real Attempts)
+    try {
+        const deletedAttempt = await Attempt.findOneAndDelete({ _id: id, userId: req.user.uid });
 
-    res.json({ ok: true, id });
+        if (deletedAttempt) {
+            return res.json({ ok: true, id, source: 'database' });
+        } else {
+            return res.status(404).json({ ok: false, message: 'Test attempt not found or unauthorized' });
+        }
+    } catch (err) {
+        console.error("Delete attempt error:", err);
+        return res.status(500).json({ ok: false, message: 'Server error during deletion' });
+    }
 });
 
 module.exports = router;
