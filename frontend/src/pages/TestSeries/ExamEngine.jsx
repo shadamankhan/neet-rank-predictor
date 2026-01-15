@@ -193,45 +193,47 @@ const ExamEngine = ({ mode }) => {
                         // We will add a check in render or another useEffect to reset activeSection if invalid.
                     }
 
-                    setExamData(exam);
-                    if (!isReviewMode) setTimeLeft((exam.duration || 180) * 60);
-
-                    // Initialize / Restore Responses
-                    const initialResponse = {};
-                    if (exam.sections) {
-                        let globalIndex = 0;
-                        exam.sections.forEach(sec => {
-                            initialResponse[sec] = {};
-                            // Map back flat answers to section-based structure
-                            exam.questions[sec].forEach((q, idx) => {
-                                if (isReviewMode) {
-                                    const ans = fetchedAnswers[globalIndex];
-                                    if (ans !== undefined) {
-                                        initialResponse[sec][idx] = {
-                                            selectedOption: ans,
-                                            status: 'answered'
-                                        };
-                                    }
-                                }
-                                globalIndex++;
-                            });
-                        });
-                        setUserResponse(initialResponse);
-                        setActiveSection(exam.sections[0]);
-                    } else {
-                        setActiveSection('General');
-                    }
-                    setLoading(false);
-
-                } catch (err) {
-                    console.error("Engine Load Error:", err);
-                    alert(err.message);
-                    setLoading(false);
                 }
-            };
 
-            loadEngine();
-        }, [id, resultId, isReviewMode]);
+                setExamData(exam);
+                if (!isReviewMode) setTimeLeft((exam.duration || 180) * 60);
+
+                // Initialize / Restore Responses
+                const initialResponse = {};
+                if (exam.sections) {
+                    let globalIndex = 0;
+                    exam.sections.forEach(sec => {
+                        initialResponse[sec] = {};
+                        // Map back flat answers to section-based structure
+                        exam.questions[sec].forEach((q, idx) => {
+                            if (isReviewMode) {
+                                const ans = fetchedAnswers[globalIndex];
+                                if (ans !== undefined) {
+                                    initialResponse[sec][idx] = {
+                                        selectedOption: ans,
+                                        status: 'answered'
+                                    };
+                                }
+                            }
+                            globalIndex++;
+                        });
+                    });
+                    setUserResponse(initialResponse);
+                    setActiveSection(exam.sections[0]);
+                } else {
+                    setActiveSection('General');
+                }
+                setLoading(false);
+
+            } catch (err) {
+                console.error("Engine Load Error:", err);
+                alert(err.message);
+                setLoading(false);
+            }
+        };
+
+        loadEngine();
+    }, [id, resultId, isReviewMode]);
 
     // Initial visit marking
     useEffect(() => {
