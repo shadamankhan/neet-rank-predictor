@@ -500,7 +500,7 @@ const ExamEngine = ({ mode }) => {
         // If we see `$\word$` where word is greek, force it.
         processed = processed.replace(/\$\s*\\?(\w+)\s*\$/g, (match, word) => {
             const lower = word.toLowerCase();
-            if (greekMap.includes(lower)) return ` \\\\(\\${lower}\\\\) `;
+            if (greekMap.includes(lower)) return `$${lower}$`;
             return match;
         });
 
