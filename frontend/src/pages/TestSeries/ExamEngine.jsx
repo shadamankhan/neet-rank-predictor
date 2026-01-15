@@ -439,47 +439,44 @@ const ExamEngine = ({ mode }) => {
 
         // 2. Handle Greek Letters written as text (e.g. "lambda", "pi")
         // Only if they are not part of another word. 
-        // Force spacing around $ signs: " $lambda$ "
+        // Use \\( ... \\) for safer inline math parsing
         const greekMap = ['alpha', 'beta', 'gamma', 'delta', 'theta', 'lambda', 'pi', 'sigma', 'omega', 'mu', 'nu', 'rho', 'tau', 'epsilon'];
         // Use a broader regex that handles potential backend formatting quirks
         const greekRegex = new RegExp(`\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
         processed = processed.replace(greekRegex, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
-            return ` $\\${match.toLowerCase()}$ `;
+            return ` \\\\(\\${match.toLowerCase()}\\\\) `;
         });
 
-        // SPECIAL FIX: Unescape literal `$\omega$` if it came in escaped as `\$omega` or similar
-        // Sometimes backend sends "\$omega" which renders as "$omega" text.
-        // We want to force any sequence that looks like "$...$" to be treated as math if it isn't already tokenized.
-        // But `remark-math` handles `$`.
-        // If the user sees `$\omega$`, it implies the `$ ` was rendered as text.
-        // This happens if it is escaped: `\$`.
-        // Let's brute-force unescape ANY `\$` that remains.
+        // SPECIAL FIX: Unescape literal `$\omega$` or `\$omega`
+        // Convert explicitly broken `$\omega$` patterns to `\(\omega\)`
+        // If we see `$\word$` where word is greek, force it.
+        processed = processed.replace(/\$\s*\\?(\w+)\s*\$/g, (match, word) => {
+            const lower = word.toLowerCase();
+            if (greekMap.includes(lower)) return ` \\\\(\\${lower}\\\\) `;
+            return match;
+        });
+
+        // Genric Unescape: Convert `\$` to `$` (just in case)
         processed = processed.replace(/\\\$/g, '$');
 
         // 3. Handle Integrals and Sums appearing as raw text "\int" or "\sum"
-        // If we see \int or \sum and it's NOT in a token, wrap it reasonably.
-        // Heuristic: capture until a logical break (newline or end of sentence)
-        // But simpler: just convert "\int" to "$\int" and rely on latex end? No that matches poorly.
-        // Better: Wrap common patterns.
         processed = processed.replace(/(\\int.*?dx|\\int[^=]+=[^$]+|s\s*=\s*\\int.*)/gi, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
-            return `$${match}$`;
+            return `\\\\(${match}\\\\)`;
         });
 
 
         // 3.5. Detect Full Equations: "P = V0 I0", "v = 3t^2", "v = u + at"
-        // Run this BEFORE chemical rules to capture full equations first.
         processed = processed.replace(/\b([a-zA-Z])\s*=\s*([0-9a-zA-Z\s\+\-\^._\\{}]+(?:\s?\(.*?\))?)/g, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
-            if (match.includes('$')) return match; // Already has math delimiters
+            if (match.includes('$') || match.includes('\\(')) return match; // Already has math delimiters
 
             // Verify it looks like math (has =, +, -, ^, or variable assignment)
             if (!/[=+\-^]/.test(match)) return match;
 
-            // PROTECT: Tokenize this equation so subsequent rules don't mess up its internals (like V0 -> V_{0})
             const token = generateToken(tokens.length);
-            tokens.push(`$${match}$`);
+            tokens.push(`\\\\(${match}\\\\)`);
             return token;
         });
 
