@@ -436,13 +436,24 @@ const ExamEngine = ({ mode }) => {
         });
 
         // 2. Handle Greek Letters written as text (e.g. "lambda", "pi")
-        // Only if they are not part of another word
+        // Only if they are not part of another word. 
+        // Force spacing around $ signs: " $lambda$ "
         const greekMap = ['alpha', 'beta', 'gamma', 'delta', 'theta', 'lambda', 'pi', 'sigma', 'omega', 'mu', 'nu', 'rho', 'tau', 'epsilon'];
-        const greekRegex = new RegExp(`\\b(${greekMap.join('|')})\\b`, 'gi');
+        // Use a broader regex that handles potential backend formatting quirks
+        const greekRegex = new RegExp(`\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
         processed = processed.replace(greekRegex, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
-            return `$\\${match.toLowerCase()}$`;
+            return ` $\\${match.toLowerCase()}$ `;
         });
+
+        // SPECIAL FIX: Unescape literal `$\omega$` if it came in escaped as `\$omega` or similar
+        // Sometimes backend sends "\$omega" which renders as "$omega" text.
+        // We want to force any sequence that looks like "$...$" to be treated as math if it isn't already tokenized.
+        // But `remark-math` handles `$`.
+        // If the user sees `$\omega$`, it implies the `$ ` was rendered as text.
+        // This happens if it is escaped: `\$`.
+        // Let's brute-force unescape ANY `\$` that remains.
+        processed = processed.replace(/\\\$/g, '$');
 
         // 3. Handle Integrals and Sums appearing as raw text "\int" or "\sum"
         // If we see \int or \sum and it's NOT in a token, wrap it reasonably.
@@ -583,20 +594,23 @@ const ExamEngine = ({ mode }) => {
             <div className="exam-body">
                 {/* Left Panel: Question Area */}
                 <div className="question-area">
-                    {/* Subject Tabs */}
+                    {/* Subject Tabs - FILTER EMPTY SECTIONS */}
                     <div className="subject-tabs">
-                        {examData.sections && examData.sections.map(sec => (
-                            <button
-                                key={sec}
-                                className={`tab-btn ${activeSection === sec ? 'active' : ''}`}
-                                onClick={() => { setActiveSection(sec); setCurrentQIndex(0); }}
-                            >
-                                {sec}
-                                <span style={{ marginLeft: '8px', fontSize: '0.8em', opacity: 0.8 }}>
-                                    ⓘ
-                                </span>
-                            </button>
-                        ))}
+                        {examData.sections && examData.sections.map(sec => {
+                            // Only render tab if section has questions
+                            if (!examData.questions[sec] || examData.questions[sec].length === 0) return null;
+
+                            return (
+                                <button
+                                    key={sec}
+                                    className={`tab-btn ${activeSection === sec ? 'active' : ''}`}
+                                    onClick={() => { setActiveSection(sec); setCurrentQIndex(0); }}
+                                >
+                                    {sec}
+                                    {/* Removed 'i' icon */}
+                                </button>
+                            );
+                        })}
                     </div>
 
                     {/* Question Header */}

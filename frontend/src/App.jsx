@@ -60,7 +60,7 @@ import TutorialGenerator from "./pages/admin/TutorialGenerator";
 
 export default function App() {
   const location = useLocation();
-  const isAdminRoute = location.pathname.startsWith('/admin');
+  const isAdminRoute = location.pathname.startsWith('/admin') || location.pathname.startsWith('/exam-engine') || location.pathname.startsWith('/test-solution');
 
   return (
     <>
