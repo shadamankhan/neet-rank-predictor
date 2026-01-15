@@ -14,12 +14,21 @@ const LatexRenderer = ({ children }) => {
     // If children is not a string, render as is
     if (typeof children !== 'string') return <>{children}</>;
 
+    // DEBUG: Log the input to see what we are actually getting
+    // console.log("LatexRenderer Input:", children);
+
+    // Normalize: Ensure all $ are standard and unescape harmless \$
+    // Also handle potential accidental double escapes \\$ 
+    const normalized = children
+        .replace(/\\\$/g, '$')   // Unescape \$ -> $
+        .replace(/\\\\\$/g, '$'); // Unescape \\$ -> $ (Double backslash case)
+
     // Split by $ delimiter. 
     // Even indices (0, 2, 4...) are TEXT. Odd indices (1, 3, 5...) are MATH.
-    const parts = children.split('$');
+    const parts = normalized.split('$');
 
     return (
-        <span>
+        <span className="latex-renderer-debug">
             {parts.map((part, index) => {
                 // Determine if this segment is math
                 // A segment is math if it's odd-indexed AND not empty
@@ -33,11 +42,10 @@ const LatexRenderer = ({ children }) => {
                         });
                         return <span key={index} dangerouslySetInnerHTML={{ __html: html }} />;
                     } catch (e) {
-                        return <span key={index} className="katex-error">{part}</span>;
+                        return <span key={index} className="katex-error" style={{ color: 'red' }}>{part}</span>;
                     }
                 } else {
                     // Render generic Markdown-like features for text parts (Bold only for now)
-                    // We can use a simple split for bold (**text**)
                     const textParts = part.split(/(\*\*.*?\*\*)/g);
                     return (
                         <span key={index}>
