@@ -142,6 +142,9 @@ const PdfTestInterface = () => {
                                             const isCorrect = isSubmitted && q.answer === optIdx;
                                             const isWrong = isSubmitted && isSelected && q.answer !== optIdx;
 
+                                            // Handle object options
+                                            const optContent = (typeof opt === 'object' && opt.text) ? opt.text : opt;
+
                                             let bg = '#f8fafc';
                                             let border = '1px solid #f1f5f9';
                                             let color = '#64748b';
@@ -186,7 +189,7 @@ const PdfTestInterface = () => {
                                                     <div style={{ fontWeight: '600', color: color, minWidth: '24px' }}>{String.fromCharCode(65 + optIdx)}.</div>
                                                     <div className="opt-content">
                                                         <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                                                            {opt}
+                                                            {optContent}
                                                         </ReactMarkdown>
                                                     </div>
                                                 </div>

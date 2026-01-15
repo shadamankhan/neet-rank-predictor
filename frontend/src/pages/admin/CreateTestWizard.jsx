@@ -14,6 +14,13 @@ const getAuthToken = async () => {
     return null;
 };
 
+
+// Helper to safely render option content
+const renderOptionText = (text) => {
+    if (typeof text === 'string' || typeof text === 'number') return text;
+    return "Complex Content"; // Fallback for other types
+};
+
 export default function CreateTestWizard() {
     const navigate = useNavigate();
     const { testId } = useParams();
@@ -676,11 +683,14 @@ export default function CreateTestWizard() {
                                         <div className="flex-1">
                                             <p className="text-gray-800 font-medium line-clamp-2">{q.question}</p>
                                             <div className="flex gap-2 mt-2">
-                                                {q.options?.map((opt, oIdx) => (
-                                                    <span key={oIdx} className={`text-xs px-2 py-0.5 rounded border ${q.answer === oIdx ? 'bg-green-50 text-green-700 border-green-200' : 'bg-gray-50 text-gray-500 border-gray-100'}`}>
-                                                        {opt}
-                                                    </span>
-                                                ))}
+                                                {q.options?.map((opt, oIdx) => {
+                                                    const optText = (typeof opt === 'object' && opt.text) ? opt.text : opt;
+                                                    return (
+                                                        <span key={oIdx} className={`text-xs px-2 py-0.5 rounded border ${q.answer === oIdx ? 'bg-green-50 text-green-700 border-green-200' : 'bg-gray-50 text-gray-500 border-gray-100'}`}>
+                                                            {renderOptionText(optText)}
+                                                        </span>
+                                                    );
+                                                })}
                                             </div>
                                         </div>
                                         <button

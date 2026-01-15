@@ -292,9 +292,16 @@ export default function QuestionBrowser({ onAddQuestions, mode = 'browse', preSe
                                         </div>
                                         <p className="text-gray-900 font-medium text-sm leading-relaxed">{q.question}</p>
                                         <div className="mt-2 flex gap-2 overflow-x-auto pb-1">
-                                            {q.options?.map((opt, oid) => (
-                                                <span key={oid} className="text-xs text-gray-500 bg-gray-50 px-2 py-1 rounded border border-gray-100 whitespace-nowrap">{opt.substring(0, 30)}...</span>
-                                            ))}
+                                            {q.options?.map((opt, oid) => {
+                                                const optText = (typeof opt === 'object' && opt.text) ? opt.text : opt;
+                                                // Ensure optText is a string
+                                                const safeText = (typeof optText === 'string') ? optText : String(optText);
+                                                return (
+                                                    <span key={oid} className="text-xs text-gray-500 bg-gray-50 px-2 py-1 rounded border border-gray-100 whitespace-nowrap">
+                                                        {safeText.substring(0, 30)}...
+                                                    </span>
+                                                );
+                                            })}
                                         </div>
                                     </div>
                                 </div>
