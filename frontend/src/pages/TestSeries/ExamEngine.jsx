@@ -5,8 +5,55 @@ import ReactMarkdown from 'react-markdown';
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import 'katex/dist/katex.min.css';
+import katex from 'katex';
 import { getApiBase } from '../../apiConfig';
 import './ExamEngine.css';
+
+// Manual LaTeX Renderer Component to bypass plugin issues
+const LatexRenderer = ({ children }) => {
+    // If children is not a string, render as is
+    if (typeof children !== 'string') return <>{children}</>;
+
+    // Split by $ delimiter. 
+    // Even indices (0, 2, 4...) are TEXT. Odd indices (1, 3, 5...) are MATH.
+    const parts = children.split('$');
+
+    return (
+        <span>
+            {parts.map((part, index) => {
+                // Determine if this segment is math
+                // A segment is math if it's odd-indexed AND not empty
+                const isMath = index % 2 === 1;
+
+                if (isMath) {
+                    try {
+                        const html = katex.renderToString(part, {
+                            throwOnError: false,
+                            displayMode: false
+                        });
+                        return <span key={index} dangerouslySetInnerHTML={{ __html: html }} />;
+                    } catch (e) {
+                        return <span key={index} className="katex-error">{part}</span>;
+                    }
+                } else {
+                    // Render generic Markdown-like features for text parts (Bold only for now)
+                    // We can use a simple split for bold (**text**)
+                    const textParts = part.split(/(\*\*.*?\*\*)/g);
+                    return (
+                        <span key={index}>
+                            {textParts.map((t, i) => {
+                                if (t.startsWith('**') && t.endsWith('**')) {
+                                    return <strong key={i}>{t.slice(2, -2)}</strong>;
+                                }
+                                return t;
+                            })}
+                        </span>
+                    );
+                }
+            })}
+        </span>
+    );
+};
 
 const ExamEngine = ({ mode }) => {
     const navigate = useNavigate();
@@ -429,23 +476,23 @@ const ExamEngine = ({ mode }) => {
         const generateToken = (idx) => `__MATH_TOKEN_${idx}__`;
 
         // 1. Extract existing LaTeX delimiters \( ... \) and $ ... $
+        // Normalize everything to $...$ for our manual renderer
         processed = processed.replace(/(\\\(.*?\\\)|\\\[.*?\\\]|\$.*?\$)/g, (match) => {
             const token = generateToken(tokens.length);
             let normalized = match;
-            if (match.startsWith('\\(')) normalized = '$' + match.slice(2, -2) + '$';
+            if (match.startsWith('\\(') && match.endsWith('\\)')) normalized = '$' + match.slice(2, -2) + '$';
+            if (match.startsWith('\\[') && match.endsWith('\\]')) normalized = '$' + match.slice(2, -2) + '$';
             tokens.push(normalized);
             return token;
         });
 
         // 2. Handle Greek Letters written as text (e.g. "lambda", "pi")
-        // Only if they are not part of another word. 
-        // Use \\( ... \\) for safer inline math parsing
+        // Use $ ... $ for manual renderer
         const greekMap = ['alpha', 'beta', 'gamma', 'delta', 'theta', 'lambda', 'pi', 'sigma', 'omega', 'mu', 'nu', 'rho', 'tau', 'epsilon'];
-        // Use a broader regex that handles potential backend formatting quirks
         const greekRegex = new RegExp(`\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
         processed = processed.replace(greekRegex, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
-            return ` \\\\(\\${match.toLowerCase()}\\\\) `;
+            return `$${match.toLowerCase()}$`;
         });
 
         // SPECIAL FIX: Unescape literal `$\omega$` or `\$omega`
@@ -463,7 +510,7 @@ const ExamEngine = ({ mode }) => {
         // 3. Handle Integrals and Sums appearing as raw text "\int" or "\sum"
         processed = processed.replace(/(\\int.*?dx|\\int[^=]+=[^$]+|s\s*=\s*\\int.*)/gi, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
-            return `\\\\(${match}\\\\)`;
+            return `$${match}$`;
         });
 
 
@@ -476,7 +523,7 @@ const ExamEngine = ({ mode }) => {
             if (!/[=+\-^]/.test(match)) return match;
 
             const token = generateToken(tokens.length);
-            tokens.push(`\\\\(${match}\\\\)`);
+            tokens.push(`$${match}$`);
             return token;
         });
 
@@ -487,9 +534,6 @@ const ExamEngine = ({ mode }) => {
             const fmtFormula = formula.replace(/(\d+)/g, '_{$1}');
             return `$${fmtFormula}^{${charge}}$`;
         });
-
-        // 5. (Moved up to 3.5)
-
 
         // 6. Detect Chemical Species with Coefficients and States: 3H2(g)
         processed = processed.replace(/\b(\d*)([A-Z][a-zA-Z0-9]*)(\((?:g|l|s|aq)\))?/g, (match, coeff, formula, state) => {
@@ -504,25 +548,15 @@ const ExamEngine = ({ mode }) => {
             return `$${part1}${fmtFormula}${part3}$`;
         });
 
-        // 7. Handle Simple Chemical Formulas (fallback): KMnO4, H2O2, V0, I0
-        // This rule is dangerous because it catches "V0" and wraps it in $.
-        // If we have "P = V0 I0", this turns it into "P = $V_{0}$ $I_{0}$".
-        // Mixed text and math.
-        // If we want "P = V0 I0" to be ONE equation, we should probably run the Equation Detector (Rule 5) BEFORE this.
-        // Let's Move Rule 5 UP before Rule 7.
-        // Actually, step 1 is to make this rule check if it's hitting something that should be an equation.
+        // 7. Handle Simple Chemical Formulas (fallback)
         processed = processed.replace(/\b(?=[A-Za-z]*\d)[A-Z][A-Za-z0-9]*\b/g, (match) => {
             if (match.includes('__MATH_TOKEN_') || match.includes('$')) return match;
-            // SKIP if preceded by " = " or similar, assuming Equation Detector will catch it?
-            // Or just format it but don't add $ if we are in a larger context? Impossible to know context in replace.
-
             if (match.length > 10) return match;
             const formatted = match.replace(/(\d+)/g, '_{$1}');
             return `$${formatted}$`;
         });
 
         // 8. Handle implicit math with carets (e.g., m/s^2, 10^5, h/lambda^2)
-        // Improved Regex to catch chars before caret
         processed = processed.replace(/([a-zA-Z0-9/]+\^[a-zA-Z0-9-]+)/g, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
             return `$${match}$`;
@@ -624,9 +658,7 @@ const ExamEngine = ({ mode }) => {
                     {/* Scrollable Content */}
                     <div className="question-content-scroll">
                         <div className="q-text">
-                            <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                                {preprocessContent(currentQuestion.question)}
-                            </ReactMarkdown>
+                            <LatexRenderer>{preprocessContent(currentQuestion.question)}</LatexRenderer>
                         </div>
                         <div className="options-grid">
                             {currentQuestion.options.map((opt, idx) => {
@@ -653,9 +685,7 @@ const ExamEngine = ({ mode }) => {
                                             {isReviewMode && isSelected && !isCorrect && '✗'}
                                         </div>
                                         <span className="opt-text">
-                                            <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                                                {preprocessContent(opt)}
-                                            </ReactMarkdown>
+                                            <LatexRenderer>{preprocessContent(opt)}</LatexRenderer>
                                         </span>
                                     </div>
                                 );
@@ -667,9 +697,7 @@ const ExamEngine = ({ mode }) => {
                             <div className="explanation-box" style={{ marginTop: '20px', padding: '15px', background: '#f0f9ff', borderLeft: '4px solid #0ea5e9', borderRadius: '4px' }}>
                                 <h4 style={{ margin: '0 0 10px 0', color: '#0369a1' }}>Explanation:</h4>
                                 <div style={{ color: '#334155' }}>
-                                    <ReactMarkdown remarkPlugins={[remarkMath]} rehypePlugins={[rehypeKatex]}>
-                                        {preprocessContent(currentQuestion.explanation || "No explanation provided.")}
-                                    </ReactMarkdown>
+                                    <LatexRenderer>{preprocessContent(currentQuestion.explanation || "No explanation provided.")}</LatexRenderer>
                                 </div>
                             </div>
                         )}
