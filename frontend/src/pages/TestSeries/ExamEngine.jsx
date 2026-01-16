@@ -183,34 +183,14 @@ const ExamEngine = ({ mode }) => {
                     let newQs = {};
 
 
-                    // Strategy 1: Group by 'tags.subject' or 'subject' key if present in data
-                    // Check if *any* question has a subject defined
-                    const hasSubject = qs.some(q => q.subject || (q.tags && q.tags.subject));
-
-                    if (hasSubject) {
-                        qs.forEach(q => {
-                            // Normalize subject source
-                            const sub = q.subject || (q.tags && q.tags.subject) || 'General';
-
-                            // Capitalize first letter for consistency
-                            const safeSub = sub.charAt(0).toUpperCase() + sub.slice(1);
-
-                            if (!newQs[safeSub]) {
-                                newQs[safeSub] = [];
-                            }
-                            // Add to section list if new
-                            if (newSections.indexOf(safeSub) === -1) {
-                                newSections.push(safeSub);
-                            }
-
-                            newQs[safeSub].push(q);
-                        });
-
-                        // Force update active section to first available if current default 'Physics' doesn't exist
-                        if (newSections.length > 0 && newSections.indexOf('Physics') === -1) {
-                            // This side-effect needs to be handled in useEffect, but we'll set default state logic later
-                            // For now, let the component render cycle handle it or default to first section
-                        }
+                    // Strategy 1: Standard NEET New Pattern (200 Qs -> 50 each)
+                    // Prioritize specific lengths to ensure correct P-C-B-Z structure even if tags are messy
+                    if (qs.length === 200) {
+                        newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
+                        newQs['Physics'] = qs.slice(0, 50);
+                        newQs['Chemistry'] = qs.slice(50, 100);
+                        newQs['Botany'] = qs.slice(100, 150);
+                        newQs['Zoology'] = qs.slice(150, 200);
                     }
                     // Strategy 2: Standard NEET Split (180 Qs -> 45 each)
                     else if (qs.length === 180) {
@@ -220,18 +200,57 @@ const ExamEngine = ({ mode }) => {
                         newQs['Botany'] = qs.slice(90, 135);
                         newQs['Zoology'] = qs.slice(135, 180);
                     }
-                    // Strategy 3: Standard NEET New Pattern (200 Qs -> 50 each)
-                    else if (qs.length === 200) {
+                    // Strategy 2.5: Handle User Defined Mixed Sets (20, 25, 30 each)
+                    // 80 Qs -> 20 each
+                    else if (qs.length === 80) {
                         newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
-                        newQs['Physics'] = qs.slice(0, 50);
-                        newQs['Chemistry'] = qs.slice(50, 100);
-                        newQs['Botany'] = qs.slice(100, 150);
-                        newQs['Zoology'] = qs.slice(150, 200);
+                        newQs['Physics'] = qs.slice(0, 20);
+                        newQs['Chemistry'] = qs.slice(20, 40);
+                        newQs['Botany'] = qs.slice(40, 60);
+                        newQs['Zoology'] = qs.slice(60, 80);
                     }
-                    // Strategy 4: Fallback
+                    // 100 Qs -> 25 each
+                    else if (qs.length === 100) {
+                        newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
+                        newQs['Physics'] = qs.slice(0, 25);
+                        newQs['Chemistry'] = qs.slice(25, 50);
+                        newQs['Botany'] = qs.slice(50, 75);
+                        newQs['Zoology'] = qs.slice(75, 100);
+                    }
+                    // 120 Qs -> 30 each
+                    else if (qs.length === 120) {
+                        newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
+                        newQs['Physics'] = qs.slice(0, 30);
+                        newQs['Chemistry'] = qs.slice(30, 60);
+                        newQs['Botany'] = qs.slice(60, 90);
+                        newQs['Zoology'] = qs.slice(90, 120);
+                    }
                     else {
-                        newSections = ['General'];
-                        newQs['General'] = qs;
+                        // Strategy 3: Group by 'tags.subject' or 'subject' key if present
+                        const hasSubject = qs.some(q => q.subject || (q.tags && q.tags.subject));
+
+                        if (hasSubject) {
+                            qs.forEach(q => {
+                                // Normalize subject source
+                                const sub = q.subject || (q.tags && q.tags.subject) || 'General';
+                                // Capitalize first letter for consistency
+                                const safeSub = sub.charAt(0).toUpperCase() + sub.slice(1);
+
+                                if (!newQs[safeSub]) {
+                                    newQs[safeSub] = [];
+                                }
+                                // Add to section list if new
+                                if (newSections.indexOf(safeSub) === -1) {
+                                    newSections.push(safeSub);
+                                }
+                                newQs[safeSub].push(q);
+                            });
+                        }
+                        // Strategy 4: Fallback
+                        else {
+                            newSections = ['General'];
+                            newQs['General'] = qs;
+                        }
                     }
 
 
@@ -515,12 +534,85 @@ const ExamEngine = ({ mode }) => {
         // Genric Unescape: Convert `\$` to `$` (just in case)
         processed = processed.replace(/\\\$/g, '$');
 
+        // 3a. Handle stripped "vec" commands: vecr -> \vec{r}, vecF -> \vec{F}
+        processed = processed.replace(/\bvec([a-zA-Z])\b/g, (match, varName) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\vec{${varName}}$`;
+        });
+
+        // 3b. Handle stripped "sqrt" commands: sqrtgR -> \sqrt{gR}, sqrtl/g -> \sqrt{l/g}
+        processed = processed.replace(/\bsqrt([a-zA-Z0-9]+(?:\/[a-zA-Z0-9]+)?)\b/g, (match, arg) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\sqrt{${arg}}$`;
+        });
+
+        // 3c. Handle "Delta" as text or merged: DeltaV -> \Delta V
+        // Case 1: Merged DeltaV
+        processed = processed.replace(/\bDelta([a-zA-Z])\b/g, (match, varName) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\Delta ${varName}$`;
+        });
+        // Case 2: Isolated Delta (if not in greekMap or upper case missed)
+        processed = processed.replace(/\bDelta\b/g, (match) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\Delta$`;
+        });
+
+        // 3d. Scientific Notation: 4.0x10^14 -> 4.0 \times 10^{14}
+        processed = processed.replace(/\b(\d+(?:\.\d+)?)\s*[xX]\s*10\^?([+-]?\d+)\b/g, (match, base, exp) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$${base} \\times 10^{${exp}}$`;
+        });
+
+        // 3e. Complex Ions: CO3^2-, PO4^3-
+        processed = processed.replace(/\b((?:[A-Z][a-z]?\d*)+)\^([0-9]*[+-])\b/g, (match, formula, charge) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            const fmtFormula = formula.replace(/(\d+)/g, '_{$1}');
+            return `$${fmtFormula}^{${charge}}$`;
+        });
+
+        // 3f. Reaction Arrows: xrightarrow (often merged)
+        processed = processed.replace(/xrightarrow/g, '$\\rightarrow$');
+
+        // 3g. Units: mol L-1 s-1. Heuristic: specific units followed by negative number
+        processed = processed.replace(/\b(mol|L|s|m|kg|g|K)\s?(-[1-3])\b/g, (match, unit, power) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\text{${unit}}^{${power}}$`;
+        });
+
+        // 3h. Chemical Bonds (Simple)
+        processed = processed.replace(/\bC=C\b/g, '$\\text{C}=\\text{C}$');
+        processed = processed.replace(/\bC-C\b/g, '$\\text{C}-\\text{C}$');
+
         // 3. Handle Integrals and Sums appearing as raw text "\int" or "\sum"
         processed = processed.replace(/(\\int.*?dx|\\int[^=]+=[^$]+|s\s*=\s*\\int.*)/gi, (match) => {
             if (match.includes('__MATH_TOKEN_')) return match;
             return `$${match}$`;
         });
 
+
+        // 3.5 Generic Restore of Common LaTeX commands if starting as words
+        // Trigonometry and Functions
+        processed = processed.replace(/\b(sin|cos|tan|cot|sec|cosec|ln|log|exp|lim)\b/g, (match) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\${match}$`;
+        });
+
+        // Vectors and Hats (hat i, hat j, hat k)
+        processed = processed.replace(/\bhat\s*([ijk])\b/g, (match, unit) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            return `$\\hat{${unit}}$`;
+        });
+
+        // Arrows and Relations
+        processed = processed.replace(/\b(rightarrow|leftarrow|leftrightarrow|implies|to)\b/g, (match) => {
+            if (match.includes('__MATH_TOKEN_')) return match;
+            if (match === 'to') return match; // 'to' is too common in English
+            return `$\\${match}$`;
+        });
+
+        // Degrees: 45^o or 45deg -> 45^{\circ}
+        processed = processed.replace(/(\^o|\bdeg\b)/g, '^{\\circ}');
 
         // 3.5. Detect Full Equations: "P = V0 I0", "v = 3t^2", "v = u + at"
         processed = processed.replace(/\b([a-zA-Z])\s*=\s*([0-9a-zA-Z\s\+\-\^._\\{}]+(?:\s?\(.*?\))?)/g, (match) => {
