@@ -25,14 +25,13 @@ export const preprocessContent = (text) => {
     });
 
     // 2. Handle Greek Letters written as text (e.g. "lambda", "pi")
-    // Use $\lambda$ for manual renderer, avoiding double-escaping
+    // Normalize: pi, \pi, \\pi -> $\pi$
     const greekMap = ['alpha', 'beta', 'gamma', 'delta', 'theta', 'lambda', 'pi', 'sigma', 'omega', 'mu', 'nu', 'rho', 'tau', 'epsilon'];
-    // Match optional backslash, then boundary, then word.
-    const greekRegex = new RegExp(`(\\\\)?\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
-    processed = processed.replace(greekRegex, (match, backslash, word) => {
-        // If it already has a backslash, leave it alone (unless it's inside a math token, but those are hidden)
-        if (backslash) return match;
+    // Match any number of backslashes (captured in group 1), then boundary, then word.
+    const greekRegex = new RegExp(`(\\\\*)\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
+    processed = processed.replace(greekRegex, (match, backslashes, word) => {
         if (match.includes('__MATH_TOKEN_')) return match;
+        // Always return canonical form with single backslash
         return `$\\${word.toLowerCase()}$`;
     });
 

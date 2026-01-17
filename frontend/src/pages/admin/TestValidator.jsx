@@ -136,15 +136,23 @@ const AdminTestValidator = () => {
 
     const autoFormatOptions = () => {
         const newOptions = editForm.options.map(opt => {
-            // Simple heuristic updates
-            let formatted = opt;
-            // Add backslash to common math without it, avoiding double backslash
-            formatted = formatted.replace(/(\\)?\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, (match, backslash, word) => {
-                if (backslash) return match;
-                return '\\' + word;
-            });
-            // Wrap in delimiters if looks like math but has none
-            if (/[\\^]/.test(formatted) && !formatted.includes('$') && !formatted.includes('\\(')) {
+            let formatted = opt || "";
+
+            // 1. Clean Double Escaped Delimiters: \\( -> \(, \\) -> \)
+            // This happens if data was saved improperly
+            formatted = formatted.replace(/\\\\([()[\]])/g, '\\$1');
+
+            // 2. Standardize Math Keywords: 0 or more backslashes -> exactly 1 backslash
+            // Matches: pi, \pi, \\pi, \\\pi -> \pi
+            formatted = formatted.replace(/\\*\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, '\\$1');
+
+            // 3. Wrap in delimiters if it looks like math but has none
+            // Checks for backslash `\` or caret `^` or `_`
+            const isMathLike = /[\\^_]/.test(formatted);
+            // Check if it already has $...$ or \(...\) or \[...\]
+            const hasDelimiters = /\$.*\$|\\\(.*\\\)|\\\[.*\\\]/.test(formatted);
+
+            if (isMathLike && !hasDelimiters) {
                 formatted = `\\(${formatted}\\)`;
             }
             return formatted;
