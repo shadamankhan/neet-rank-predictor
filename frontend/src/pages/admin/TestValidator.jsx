@@ -138,8 +138,11 @@ const AdminTestValidator = () => {
         const newOptions = editForm.options.map(opt => {
             // Simple heuristic updates
             let formatted = opt;
-            // Add backslash to common math without it
-            formatted = formatted.replace(/\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, '\\$1');
+            // Add backslash to common math without it, avoiding double backslash
+            formatted = formatted.replace(/(\\)?\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, (match, backslash, word) => {
+                if (backslash) return match;
+                return '\\' + word;
+            });
             // Wrap in delimiters if looks like math but has none
             if (/[\\^]/.test(formatted) && !formatted.includes('$') && !formatted.includes('\\(')) {
                 formatted = `\\(${formatted}\\)`;

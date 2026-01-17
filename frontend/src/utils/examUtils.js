@@ -25,12 +25,15 @@ export const preprocessContent = (text) => {
     });
 
     // 2. Handle Greek Letters written as text (e.g. "lambda", "pi")
-    // Use $ ... $ for manual renderer
+    // Use $\lambda$ for manual renderer, avoiding double-escaping
     const greekMap = ['alpha', 'beta', 'gamma', 'delta', 'theta', 'lambda', 'pi', 'sigma', 'omega', 'mu', 'nu', 'rho', 'tau', 'epsilon'];
-    const greekRegex = new RegExp(`\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
-    processed = processed.replace(greekRegex, (match) => {
+    // Match optional backslash, then boundary, then word.
+    const greekRegex = new RegExp(`(\\\\)?\\\\b(${greekMap.join('|')})\\\\b`, 'gi');
+    processed = processed.replace(greekRegex, (match, backslash, word) => {
+        // If it already has a backslash, leave it alone (unless it's inside a math token, but those are hidden)
+        if (backslash) return match;
         if (match.includes('__MATH_TOKEN_')) return match;
-        return `$${match.toLowerCase()}$`;
+        return `$\\${word.toLowerCase()}$`;
     });
 
     // SPECIAL FIX: Unescape literal `$\omega$` or `\$omega`
@@ -38,28 +41,28 @@ export const preprocessContent = (text) => {
     // If we see `$\word$` where word is greek, force it.
     processed = processed.replace(/\$\s*\\?(\w+)\s*\$/g, (match, word) => {
         const lower = word.toLowerCase();
-        if (greekMap.includes(lower)) return `$${lower}$`;
+        if (greekMap.includes(lower)) return `$\\${lower}$`;
         return match;
     });
 
     // Generic Unescape: Convert `\$` to `$` (just in case)
     processed = processed.replace(/\\\$/g, '$');
 
-    // 3a. Handle stripped "vec" commands: vecr -> \vec{r}, vecF -> \vec{F}
-    processed = processed.replace(/\bvec([a-zA-Z])\b/g, (match, varName) => {
+    // 3a. Handle stripped "vec" commands: vecr -> \vec{r}, vec F -> \vec{F}
+    processed = processed.replace(/\bvec\s*([a-zA-Z])\b/g, (match, varName) => {
         if (match.includes('__MATH_TOKEN_')) return match;
         return `$\\vec{${varName}}$`;
     });
 
-    // 3b. Handle stripped "sqrt" commands: sqrtgR -> \sqrt{gR}, sqrtl/g -> \sqrt{l/g}
-    processed = processed.replace(/\bsqrt([a-zA-Z0-9]+(?:\/[a-zA-Z0-9]+)?)\b/g, (match, arg) => {
+    // 3b. Handle stripped "sqrt" commands: sqrtgR -> \sqrt{gR}, sqrt m/k -> \sqrt{m/k}
+    processed = processed.replace(/\bsqrt\s*([a-zA-Z0-9]+(?:\/[a-zA-Z0-9]+)?)\b/g, (match, arg) => {
         if (match.includes('__MATH_TOKEN_')) return match;
         return `$\\sqrt{${arg}}$`;
     });
 
-    // 3c. Handle "Delta" as text or merged: DeltaV -> \Delta V
+    // 3c. Handle "Delta" as text or merged: DeltaV -> \Delta V, Delta t -> \Delta t
     // Case 1: Merged DeltaV
-    processed = processed.replace(/\bDelta([a-zA-Z])\b/g, (match, varName) => {
+    processed = processed.replace(/\bDelta\s*([a-zA-Z])\b/g, (match, varName) => {
         if (match.includes('__MATH_TOKEN_')) return match;
         return `$\\Delta ${varName}$`;
     });
@@ -104,23 +107,23 @@ export const preprocessContent = (text) => {
     // 3.5 Generic Restore of Common LaTeX commands if starting as words
     // Trigonometry and Functions
     processed = processed.replace(/\b(sin|cos|tan|cot|sec|cosec|ln|log|exp|lim)\b/g, (match) => {
-         if (match.includes('__MATH_TOKEN_')) return match;
-         return `$\\${match}$`;
+        if (match.includes('__MATH_TOKEN_')) return match;
+        return `$\\${match}$`;
     });
-    
+
     // Vectors and Hats (hat i, hat j, hat k)
     processed = processed.replace(/\bhat\s*([ijk])\b/g, (match, unit) => {
-         if (match.includes('__MATH_TOKEN_')) return match;
-         return `$\\hat{${unit}}$`;
+        if (match.includes('__MATH_TOKEN_')) return match;
+        return `$\\hat{${unit}}$`;
     });
 
     // Arrows and Relations
     processed = processed.replace(/\b(rightarrow|leftarrow|leftrightarrow|implies|to)\b/g, (match) => {
-         if (match.includes('__MATH_TOKEN_')) return match;
-         if (match === 'to') return match; // 'to' is too common in English
-         return `$\\${match}$`;
+        if (match.includes('__MATH_TOKEN_')) return match;
+        if (match === 'to') return match; // 'to' is too common in English
+        return `$\\${match}$`;
     });
-    
+
     // Degrees: 45^o or 45deg -> 45^{\circ}
     processed = processed.replace(/(\^o|\bdeg\b)/g, '^{\\circ}');
 
@@ -218,19 +221,19 @@ export const groupQuestionsIntoSections = (qs) => {
     }
     // 100 Qs -> 25 each
     else if (qs.length === 100) {
-         newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
-         newQs['Physics'] = qs.slice(0, 25);
-         newQs['Chemistry'] = qs.slice(25, 50);
-         newQs['Botany'] = qs.slice(50, 75);
-         newQs['Zoology'] = qs.slice(75, 100);
+        newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
+        newQs['Physics'] = qs.slice(0, 25);
+        newQs['Chemistry'] = qs.slice(25, 50);
+        newQs['Botany'] = qs.slice(50, 75);
+        newQs['Zoology'] = qs.slice(75, 100);
     }
     // 120 Qs -> 30 each
     else if (qs.length === 120) {
-         newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
-         newQs['Physics'] = qs.slice(0, 30);
-         newQs['Chemistry'] = qs.slice(30, 60);
-         newQs['Botany'] = qs.slice(60, 90);
-         newQs['Zoology'] = qs.slice(90, 120);
+        newSections = ['Physics', 'Chemistry', 'Botany', 'Zoology'];
+        newQs['Physics'] = qs.slice(0, 30);
+        newQs['Chemistry'] = qs.slice(30, 60);
+        newQs['Botany'] = qs.slice(60, 90);
+        newQs['Zoology'] = qs.slice(90, 120);
     }
     else {
         // Strategy 3: Group by 'tags.subject' or 'subject' key if present
