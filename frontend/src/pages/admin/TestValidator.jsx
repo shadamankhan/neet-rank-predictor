@@ -89,10 +89,26 @@ const AdminTestValidator = () => {
 
     const handleEditClick = (q) => {
         setEditingQuestion(q);
+<<<<<<< SEARCH
         setEditForm({
-            statement: q.question,
+            statement: q.statement || q.question || "",
             options: q.options.map(opt => (typeof opt === 'object' ? opt.text : opt))
         });
+=======
+        setEditForm({
+            statement: q.statement || q.question || "",
+            options: q.options.map(opt => (typeof opt === 'object' ? opt.text : opt))
+        });
+>>>>>>> REPLACE
+<<<<<<< SEARCH
+        <div style={{ marginBottom: '15px', fontSize: '16px' }}>
+            <LatexRenderer>{preprocessContent(q.question)}</LatexRenderer>
+        </div>
+=======
+                                            <div style={{ marginBottom: '15px', fontSize: '16px' }}>
+                                                <LatexRenderer>{preprocessContent(q.statement || q.question)}</LatexRenderer>
+                                            </div>
+>>>>>>> REPLACE
     };
 
     const handleSaveQuestion = async () => {
@@ -271,7 +287,7 @@ const AdminTestValidator = () => {
                                             </button>
                                             <div style={{ fontWeight: 'bold', marginBottom: '10px', color: '#555' }}>Q{idx + 1}:</div>
                                             <div style={{ marginBottom: '15px', fontSize: '16px' }}>
-                                                <LatexRenderer>{preprocessContent(q.question)}</LatexRenderer>
+                                                <LatexRenderer>{preprocessContent(q.statement || q.question)}</LatexRenderer>
                                             </div>
                                             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '15px' }}>
                                                 {q.options.map((opt, oIdx) => (
