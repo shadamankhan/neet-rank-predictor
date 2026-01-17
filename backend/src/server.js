@@ -25,8 +25,8 @@ app.get('/', (req, res) => {
 // Enable CORS for frontend
 const corsOptions = {
   origin: [
-    "https://shadamankhan.vercel.app", 
-    "http://localhost:5173", 
+    "https://shadamankhan.vercel.app",
+    "http://localhost:5173",
     "http://localhost:3000"
   ],
   credentials: true,
@@ -67,12 +67,12 @@ console.log(`📂 Serving Static Tutorials at ${tutorialPath}`);
 
 // Enhanced Health/Ping API
 app.get('/api/ping', (req, res) => {
-    res.json({ 
-        ok: true, 
-        status: 'UP',
-        timestamp: new Date().toISOString(),
-        mongoState: mongoose.connection.readyState // 0=disconnected, 1=connected, 2=connecting, 3=disconnecting
-    });
+  res.json({
+    ok: true,
+    status: 'UP',
+    timestamp: new Date().toISOString(),
+    mongoState: mongoose.connection.readyState // 0=disconnected, 1=connected, 2=connecting, 3=disconnecting
+  });
 });
 
 const predictRouter = require('./routes/predict');
@@ -141,6 +141,9 @@ app.use('/api/test-series', testSeriesRouter);
 
 const questionBankRouter = require('../routes/questionBank');
 app.use('/api/question-bank', questionBankRouter);
+
+const questionsRouter = require('../routes/questions');
+app.use('/api/questions', questionsRouter);
 
 const studentsRouter = require('../routes/students');
 app.use('/api/students', studentsRouter);

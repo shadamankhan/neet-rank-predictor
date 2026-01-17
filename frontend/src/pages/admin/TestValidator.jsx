@@ -83,8 +83,59 @@ const AdminTestValidator = () => {
         handleLoadTest(test._id);
     };
 
+    const [editingQuestion, setEditingQuestion] = useState(null);
+    const [editForm, setEditForm] = useState({ statement: "", options: [] });
+    const [saving, setSaving] = useState(false);
+
+    const handleEditClick = (q) => {
+        setEditingQuestion(q);
+        setEditForm({
+            statement: q.question,
+            options: q.options.map(opt => (typeof opt === 'object' ? opt.text : opt))
+        });
+    };
+
+    const handleSaveQuestion = async () => {
+        if (!editingQuestion) return;
+        setSaving(true);
+        try {
+            // Reconstruct options array preserving other fields if necessary, or just text for now
+            // Assuming backend expects options as objects with {text: "..."} or just update text
+            // The questions.js route updates 'options' field directly. 
+            // We need to be careful not to lose 'isCorrect' or 'id'.
+            // For safety, let's map back to original structure updating only text.
+
+            const updatedOptions = editingQuestion.options.map((opt, idx) => ({
+                ...opt,
+                text: editForm.options[idx]
+            }));
+
+            const res = await fetch(`${getApiBase()}/api/questions/${editingQuestion._id}`, {
+                method: 'PUT',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    statement: editForm.statement,
+                    options: updatedOptions
+                })
+            });
+
+            const data = await res.json();
+            if (data.ok) {
+                // Refresh test data
+                await handleLoadTest(testId);
+                setEditingQuestion(null);
+            } else {
+                alert("Failed to save: " + data.message);
+            }
+        } catch (err) {
+            alert("Error saving: " + err.message);
+        } finally {
+            setSaving(false);
+        }
+    };
+
     return (
-        <div style={{ padding: '20px', fontFamily: 'sans-serif' }}>
+        <div style={{ padding: '20px', fontFamily: 'sans-serif', paddingBottom: '100px' }}>
             <h1>Admin Test Validator</h1>
             <p>Use this tool to verify how "Subject Logic" and "Math Rendering" will appear to students.</p>
 
@@ -185,7 +236,13 @@ const AdminTestValidator = () => {
                                 <div key={sec}>
                                     <h4 style={{ background: '#eee', padding: '10px', borderLeft: '5px solid #007bff' }}>Section: {sec}</h4>
                                     {examData.questions[sec].map((q, idx) => (
-                                        <div key={idx} style={{ border: '1px solid #ddd', padding: '15px', borderRadius: '8px', boxShadow: '0 1px 3px rgba(0,0,0,0.05)' }}>
+                                        <div key={idx} style={{ border: '1px solid #ddd', padding: '15px', borderRadius: '8px', boxShadow: '0 1px 3px rgba(0,0,0,0.05)', position: 'relative' }}>
+                                            <button
+                                                onClick={() => handleEditClick(q)}
+                                                style={{ position: 'absolute', top: '10px', right: '10px', padding: '5px 10px', background: '#9333ea', color: 'white', border: 'none', borderRadius: '4px', cursor: 'pointer', fontSize: '12px' }}
+                                            >
+                                                ✎ Quick Edit
+                                            </button>
                                             <div style={{ fontWeight: 'bold', marginBottom: '10px', color: '#555' }}>Q{idx + 1}:</div>
                                             <div style={{ marginBottom: '15px', fontSize: '16px' }}>
                                                 <LatexRenderer>{preprocessContent(q.question)}</LatexRenderer>
@@ -208,6 +265,70 @@ const AdminTestValidator = () => {
                     </div>
                 )}
             </div>
+
+            {/* Editing Modal */}
+            {editingQuestion && (
+                <div style={{
+                    position: 'fixed', top: 0, left: 0, width: '100%', height: '100%',
+                    background: 'rgba(0,0,0,0.5)', display: 'flex', justifyContent: 'center', alignItems: 'center', zIndex: 1000
+                }}>
+                    <div style={{ background: 'white', padding: '30px', borderRadius: '12px', width: '800px', maxHeight: '90vh', overflowY: 'auto' }}>
+                        <h2 style={{ marginTop: 0 }}>Quick Edit Question</h2>
+
+                        <div style={{ marginBottom: '15px' }}>
+                            <label style={{ display: 'block', fontWeight: 'bold', marginBottom: '5px' }}>Question Statement (LaTeX Supported):</label>
+                            <textarea
+                                value={editForm.statement}
+                                onChange={e => setEditForm({ ...editForm, statement: e.target.value })}
+                                style={{ width: '100%', padding: '10px', minHeight: '100px', fontFamily: 'monospace' }}
+                            />
+                            <div style={{ marginTop: '5px', padding: '10px', background: '#f0f9ff', border: '1px dashed #0ea5e9' }}>
+                                <span style={{ fontSize: '12px', color: '#0284c7', fontWeight: 'bold' }}>Preview:</span>
+                                <LatexRenderer>{preprocessContent(editForm.statement)}</LatexRenderer>
+                            </div>
+                        </div>
+
+                        <div style={{ marginBottom: '15px' }}>
+                            <label style={{ display: 'block', fontWeight: 'bold', marginBottom: '5px' }}>Options:</label>
+                            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
+                                {editForm.options.map((opt, idx) => (
+                                    <div key={idx}>
+                                        <input
+                                            type="text"
+                                            value={opt}
+                                            onChange={e => {
+                                                const newOpts = [...editForm.options];
+                                                newOpts[idx] = e.target.value;
+                                                setEditForm({ ...editForm, options: newOpts });
+                                            }}
+                                            style={{ width: '100%', padding: '8px', fontFamily: 'monospace' }}
+                                        />
+                                        <div style={{ marginTop: '2px', fontSize: '12px', color: '#666' }}>
+                                            <LatexRenderer>{preprocessContent(opt)}</LatexRenderer>
+                                        </div>
+                                    </div>
+                                ))}
+                            </div>
+                        </div>
+
+                        <div style={{ display: 'flex', justifyContent: 'flex-end', gap: '10px', marginTop: '20px' }}>
+                            <button
+                                onClick={() => setEditingQuestion(null)}
+                                style={{ padding: '10px 20px', background: '#ccc', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
+                            >
+                                Cancel
+                            </button>
+                            <button
+                                onClick={handleSaveQuestion}
+                                disabled={saving}
+                                style={{ padding: '10px 20px', background: saving ? '#93c5fd' : '#2563eb', color: 'white', border: 'none', borderRadius: '6px', cursor: 'pointer' }}
+                            >
+                                {saving ? "Saving..." : "Save Changes"}
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            )}
         </div>
     );
 };
