@@ -120,6 +120,12 @@ export default function TestManager() {
                                     View Results
                                 </button>
                                 <button
+                                    onClick={() => navigate(`/admin/validator?testId=${test._id}`)}
+                                    className="text-purple-600 hover:text-purple-800 font-medium text-sm border border-purple-200 px-3 py-1 rounded bg-purple-50 hover:bg-purple-100 transition"
+                                >
+                                    Validate
+                                </button>
+                                <button
                                     onClick={() => navigate(`/admin/tests/edit/${test._id}`)}
                                     className="text-blue-600 hover:text-blue-800 font-medium text-sm border border-blue-200 px-3 py-1 rounded hover:bg-blue-50 transition"
                                 >
