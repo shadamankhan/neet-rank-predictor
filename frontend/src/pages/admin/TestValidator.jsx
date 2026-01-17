@@ -134,6 +134,21 @@ const AdminTestValidator = () => {
         }
     };
 
+    const autoFormatOptions = () => {
+        const newOptions = editForm.options.map(opt => {
+            // Simple heuristic updates
+            let formatted = opt;
+            // Add backslash to common math without it
+            formatted = formatted.replace(/\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, '\\$1');
+            // Wrap in delimiters if looks like math but has none
+            if (/[\\^]/.test(formatted) && !formatted.includes('$') && !formatted.includes('\\(')) {
+                formatted = `\\(${formatted}\\)`;
+            }
+            return formatted;
+        });
+        setEditForm({ ...editForm, options: newOptions });
+    };
+
     return (
         <div style={{ padding: '20px', fontFamily: 'sans-serif', paddingBottom: '100px' }}>
             <h1>Admin Test Validator</h1>
@@ -289,7 +304,15 @@ const AdminTestValidator = () => {
                         </div>
 
                         <div style={{ marginBottom: '15px' }}>
-                            <label style={{ display: 'block', fontWeight: 'bold', marginBottom: '5px' }}>Options:</label>
+                            <div style={{ display: 'flex', justifySelf: 'between', alignItems: 'center', marginBottom: '5px' }}>
+                                <label style={{ display: 'block', fontWeight: 'bold' }}>Options:</label>
+                                <button
+                                    onClick={autoFormatOptions}
+                                    style={{ fontSize: '12px', padding: '4px 8px', background: '#e0e7ff', color: '#4338ca', border: '1px solid #c7d2fe', borderRadius: '4px', cursor: 'pointer', marginLeft: 'auto' }}
+                                >
+                                    ✨ Auto-Format Options
+                                </button>
+                            </div>
                             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
                                 {editForm.options.map((opt, idx) => (
                                     <div key={idx}>
