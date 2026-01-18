@@ -135,30 +135,40 @@ const AdminTestValidator = () => {
         }
     };
 
-    const autoFormatOptions = () => {
-        const newOptions = editForm.options.map(opt => {
-            let formatted = opt || "";
+    const autoFormatText = (text) => {
+        if (!text) return "";
+        let formatted = text;
 
-            // 1. Clean Double Escaped Delimiters: \\( -> \(, \\) -> \)
-            // This happens if data was saved improperly
-            formatted = formatted.replace(/\\\\([()[\]])/g, '\\$1');
+        // 1. Clean Double Escaped Delimiters: \\( -> \(, \\) -> \)
+        formatted = formatted.replace(/\\\\([()[\]])/g, '\\$1');
 
-            // 2. Standardize Math Keywords: 0 or more backslashes -> exactly 1 backslash
-            // Matches: pi, \pi, \\pi, \\\pi -> \pi
-            formatted = formatted.replace(/\\*\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, '\\$1');
+        // 2. Standardize Math Keywords: 0 or more backslashes -> exactly 1 backslash
+        formatted = formatted.replace(/\\*\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, '\\$1');
 
-            // 3. Wrap in delimiters if it looks like math but has none
-            // Checks for backslash `\` or caret `^` or `_`
-            const isMathLike = /[\\^_]/.test(formatted);
-            // Check if it already has $...$ or \(...\) or \[...\]
-            const hasDelimiters = /\$.*\$|\\\(.*\\\)|\\\[.*\\\]/.test(formatted);
+        // 3. Fix Multi-digit Exponents: 10^20 -> 10^{20}
+        // Captures ^ followed by 2 or more digits
+        formatted = formatted.replace(/\^(\d{2,})/g, '^{$1}');
 
-            if (isMathLike && !hasDelimiters) {
-                formatted = `\\(${formatted}\\)`;
-            }
-            return formatted;
+        // 4. Fix Scientific Notation 'x': 2.5 x 10 -> 2.5 \times 10
+        // Looks for digit, optional space, x, optional space, 10
+        formatted = formatted.replace(/(\d)\s*x\s*10/gi, '$1 \\times 10');
+
+        // 5. Wrap in delimiters if it looks like math but has none
+        const isMathLike = /[\\^_]/.test(formatted);
+        const hasDelimiters = /\$.*\$|\\\(.*\\\)|\\\[.*\\\]/.test(formatted);
+
+        if (isMathLike && !hasDelimiters) {
+            formatted = `\\(${formatted}\\)`;
+        }
+        return formatted;
+    };
+
+    const handleAutoFormat = () => {
+        setEditForm({
+            ...editForm,
+            statement: autoFormatText(editForm.statement),
+            options: editForm.options.map(opt => autoFormatText(opt))
         });
-        setEditForm({ ...editForm, options: newOptions });
     };
 
     return (
@@ -319,10 +329,10 @@ const AdminTestValidator = () => {
                             <div style={{ display: 'flex', justifySelf: 'between', alignItems: 'center', marginBottom: '5px' }}>
                                 <label style={{ display: 'block', fontWeight: 'bold' }}>Options:</label>
                                 <button
-                                    onClick={autoFormatOptions}
+                                    onClick={handleAutoFormat}
                                     style={{ fontSize: '12px', padding: '4px 8px', background: '#e0e7ff', color: '#4338ca', border: '1px solid #c7d2fe', borderRadius: '4px', cursor: 'pointer', marginLeft: 'auto' }}
                                 >
-                                    ✨ Auto-Format Options
+                                    ✨ Auto-Format All
                                 </button>
                             </div>
                             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '10px' }}>
