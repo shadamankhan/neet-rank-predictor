@@ -89,27 +89,12 @@ const AdminTestValidator = () => {
 
     const handleEditClick = (q) => {
         setEditingQuestion(q);
-<<<<<<< SEARCH
         setEditForm({
             statement: q.statement || q.question || "",
             options: q.options.map(opt => (typeof opt === 'object' ? opt.text : opt))
         });
-=======
-        setEditForm({
-            statement: q.statement || q.question || "",
-            options: q.options.map(opt => (typeof opt === 'object' ? opt.text : opt))
-        });
->>>>>>> REPLACE
-<<<<<<< SEARCH
-        <div style={{ marginBottom: '15px', fontSize: '16px' }}>
-            <LatexRenderer>{preprocessContent(q.question)}</LatexRenderer>
-        </div>
-=======
-                                            <div style={{ marginBottom: '15px', fontSize: '16px' }}>
-                                                <LatexRenderer>{preprocessContent(q.statement || q.question)}</LatexRenderer>
-                                            </div>
->>>>>>> REPLACE
     };
+
 
     const handleSaveQuestion = async () => {
         if (!editingQuestion) return;
