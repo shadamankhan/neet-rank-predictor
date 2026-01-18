@@ -94,9 +94,24 @@ export const preprocessContent = (text) => {
     processed = processed.replace(/xrightarrow/g, '$\\rightarrow$');
 
     // 3g. Units: mol L-1 s-1. Heuristic: specific units followed by negative number
-    processed = processed.replace(/\b(mol|L|s|m|kg|g|K)\s?(-[1-3])\b/g, (match, unit, power) => {
+    // Expanded list of units and better handling
+    const unitPattern = /\b(m|cm|mm|nm|pm|s|ms|mol|kg|g|L|K|S|C|V|A|J|kJ|N|W|Hz|Pa|Omega|Ohm|ohm|Ω)\s?(-?\d+)\b/g;
+    processed = processed.replace(unitPattern, (match, unit, power) => {
         if (match.includes('__MATH_TOKEN_')) return match;
-        return `$\\text{${unit}}^{${power}}$`;
+
+        let safeUnit = unit;
+        if (['Omega', 'Ohm', 'ohm', 'Ω'].includes(unit)) safeUnit = '\\Omega';
+
+        // If it's a standard text unit (like mol), wrap in \text{}? 
+        // Actually, for consistency with Validator, let's keep it simple: unit^{power}
+        // But standard LaTeX usually recommends \text{mol}. 
+        // However, the requested output was S m-1 -> S m^{-1}. 
+        // Let's use \text for multi-letter units to identify them clearly, and plain math for single letters.
+
+        const isMultiChar = safeUnit.length > 1 && !safeUnit.startsWith('\\');
+        const finalUnit = isMultiChar ? `\\text{${safeUnit}}` : safeUnit;
+
+        return `$${finalUnit}^{${power}}$`;
     });
 
     // 3h. Chemical Bonds (Simple)

@@ -149,7 +149,7 @@ const AdminTestValidator = () => {
         // 2b. Specific Physics Constants: mu0 -> \mu_0, epsilon0 -> \epsilon_0
         formatted = formatted.replace(/\\*\bmu_?0\b/g, '\\mu_0');
         formatted = formatted.replace(/\\*\bepsilon_?0\b/g, '\\epsilon_0');
-        
+
         // 3. Fix Multi-digit Exponents AND Negative Exponents: 10^20 -> 10^{20}, 10^-3 -> 10^{-3}
         // Captures ^ followed by optional minus and 2+ digits OR minus and 1+ digit
         // Regex logic:
@@ -162,6 +162,17 @@ const AdminTestValidator = () => {
         // 4. Fix Scientific Notation 'x': 2.5 x 10 -> 2.5 \times 10
         // Looks for digit, optional space, x, optional space, 10
         formatted = formatted.replace(/(\d)\s*x\s*10/gi, '$1 \\times 10');
+
+        // 4b. Fix Common Units: S m-1 -> S m^{-1}, mol-1 -> mol^{-1}, Omega-1 -> \Omega^{-1}
+        // First convert Omega/ohm to \Omega
+        formatted = formatted.replace(/\b(Omega|Ohm|ohm)\b/g, '\\Omega');
+        // Handle single letter Omega if user pastes symbol "Ω"
+        formatted = formatted.replace(/Ω/g, '\\Omega');
+
+        // Regex for units followed by integer (positive or negative)
+        // We match space-separated or start-of-line units to avoid matching inside words
+        const unitRegex = /\b(m|cm|mm|nm|pm|s|ms|mol|kg|g|L|K|S|C|V|A|J|kJ|N|W|Hz|Pa|\\Omega)\s?(-?\d+)\b/g;
+        formatted = formatted.replace(unitRegex, '$1^{$2}');
 
         // 5. Wrap in delimiters if it looks like math but has none
         const isMathLike = /[\\^_]/.test(formatted);
