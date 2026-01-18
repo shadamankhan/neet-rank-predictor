@@ -44,6 +44,12 @@ export const preprocessContent = (text) => {
         return match;
     });
 
+    // 2b. Handle common physics constants "glued" to 0 or plain text: mu0, epsilon0
+    processed = processed.replace(/\b(mu|epsilon)_?0\b/gi, (match, Greek) => {
+        if (match.includes('__MATH_TOKEN_')) return match;
+        return `$\\${Greek.toLowerCase()}_0$`;
+    });
+
     // Generic Unescape: Convert `\$` to `$` (just in case)
     processed = processed.replace(/\\\$/g, '$');
 

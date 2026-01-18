@@ -143,11 +143,21 @@ const AdminTestValidator = () => {
         formatted = formatted.replace(/\\\\([()[\]])/g, '\\$1');
 
         // 2. Standardize Math Keywords: 0 or more backslashes -> exactly 1 backslash
-        formatted = formatted.replace(/\\*\b(sqrt|sin|cos|tan|theta|alpha|beta|gamma|pi|rho|Delta)\b/g, '\\$1');
+        // Added: omega, mu, nu, rho, tau, sigma, phi, psi, chi, eta, epsilon
+        formatted = formatted.replace(/\\*\b(sqrt|sin|cos|tan|cot|ln|log|exp|theta|alpha|beta|gamma|delta|pi|rho|Delta|lambda|omega|mu|nu|tau|sigma|phi|psi|chi|eta|epsilon)\b/g, '\\$1');
 
-        // 3. Fix Multi-digit Exponents: 10^20 -> 10^{20}
-        // Captures ^ followed by 2 or more digits
-        formatted = formatted.replace(/\^(\d{2,})/g, '^{$1}');
+        // 2b. Specific Physics Constants: mu0 -> \mu_0, epsilon0 -> \epsilon_0
+        formatted = formatted.replace(/\\*\bmu_?0\b/g, '\\mu_0');
+        formatted = formatted.replace(/\\*\bepsilon_?0\b/g, '\\epsilon_0');
+        
+        // 3. Fix Multi-digit Exponents AND Negative Exponents: 10^20 -> 10^{20}, 10^-3 -> 10^{-3}
+        // Captures ^ followed by optional minus and 2+ digits OR minus and 1+ digit
+        // Regex logic:
+        // - \^(-?\d{2,}) : Matches ^20, ^-20
+        // - \^(-?\d+)    : Matches ^3, ^-3 (We want to be careful not to bracket single positive digits unless user wants consistency, but standard LaTeX doesn't strictly require it. 
+        //   However, user asked for 10^{-3}. 
+        //   Let's target specifically: ^ then (minus sign followed by any digits) OR (two or more digits)
+        formatted = formatted.replace(/\^(-\d+|\d{2,})/g, '^{$1}');
 
         // 4. Fix Scientific Notation 'x': 2.5 x 10 -> 2.5 \times 10
         // Looks for digit, optional space, x, optional space, 10
