@@ -109,7 +109,7 @@ const KarnatakaExplorer = () => {
                                             <span className="dot dot-purple"></span>
                                             Others (Q) Quota
                                         </div>
-                                        <div className="cutoff-item"><span>R1 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.other.r1.rank)}</span></div>
+                                        <div className="cutoff-item"><span>Fee:</span> <span className="cutoff-val">{formatMoney(college.fees.other)}</span></div>
                                         <div className="cutoff-item"><span>R2 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.other.r2.rank)}</span></div>
 
                                     </div>
