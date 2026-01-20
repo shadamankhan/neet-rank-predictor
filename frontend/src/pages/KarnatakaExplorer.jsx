@@ -65,7 +65,6 @@ const KarnatakaExplorer = () => {
                         <div key={college.code} className="explorer-card">
                             <div className="card-content">
                                 <div className="card-header-row">
-                                    <span className="college-code">{college.code}</span>
                                     <span className="college-type-badge">{college.type}</span>
                                 </div>
 
@@ -101,7 +100,7 @@ const KarnatakaExplorer = () => {
                                         </div>
                                         <div className="cutoff-item"><span>R1 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.open.r1.rank)}</span></div>
                                         <div className="cutoff-item"><span>R2 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.open.r2.rank)}</span></div>
-                                        <div className="cutoff-item"><span>R3 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.open.r3.rank)}</span></div>
+
                                     </div>
 
                                     {/* Other Quota */}
@@ -112,20 +111,11 @@ const KarnatakaExplorer = () => {
                                         </div>
                                         <div className="cutoff-item"><span>R1 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.other.r1.rank)}</span></div>
                                         <div className="cutoff-item"><span>R2 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.other.r2.rank)}</span></div>
-                                        <div className="cutoff-item"><span>R3 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.other.r3.rank)}</span></div>
+
                                     </div>
 
                                     {/* NRI Quota */}
-                                    {college.fees.nri && (
-                                        <div className="detail-group">
-                                            <div className="detail-title">
-                                                <span className="dot dot-orange"></span>
-                                                NRI Quota
-                                            </div>
-                                            <div className="cutoff-item"><span>Fee:</span> <span className="cutoff-val">{formatMoney(college.fees.nri)}</span></div>
-                                            <div className="cutoff-item"><span>R1 Rank:</span> <span className="cutoff-val">{formatRank(college.cutoffs.nri.r1.rank)}</span></div>
-                                        </div>
-                                    )}
+
                                 </div>
                             )}
                         </div>
