@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
+import shadAman from '../assets/shad_aman_khan.png';
 import SEO from '../components/SEO';
 
 const Home = () => {
@@ -174,15 +175,26 @@ const Home = () => {
                             </Link>
                         </div>
                     </div>
-                    <div className="bg-white p-10 rounded-3xl shadow-xl border border-slate-100 relative overflow-hidden">
-                        <div className="absolute top-0 right-0 w-32 h-32 bg-yellow-100 rounded-bl-full -mr-10 -mt-10 opacity-50"></div>
-                        <h3 className="text-2xl font-bold mb-2 text-slate-900 relative z-10">Hi, I’m Shad Aman Khan 👋</h3>
-                        <p className="text-blue-600 font-bold mb-6 text-sm relative z-10">Educator & NEET Mentor</p>
-                        <p className="text-slate-600 leading-relaxed mb-6 relative z-10">
+                    <div className="bg-white p-8 rounded-3xl shadow-xl border border-slate-100 relative overflow-hidden flex flex-col items-center text-center">
+                        <div className="absolute top-0 right-0 w-32 h-32 bg-blue-50 rounded-bl-full -mr-10 -mt-10 opacity-50"></div>
+
+                        <div className="relative z-10 w-32 h-32 mb-4 rounded-full p-1 bg-gradient-to-tr from-blue-500 to-purple-500 shadow-lg">
+                            <img
+                                src={shadAman}
+                                alt="Shad Aman Khan"
+                                className="w-full h-full object-cover rounded-full border-4 border-white"
+                            />
+                        </div>
+
+                        <h3 className="text-2xl font-bold mb-1 text-slate-900 relative z-10">Shad Aman Khan <span className="text-blue-500">✓</span></h3>
+                        <p className="text-blue-600 font-bold mb-4 text-sm relative z-10 tracking-wide uppercase">Educator & NEET Mentor</p>
+
+                        <p className="text-slate-600 leading-relaxed mb-6 relative z-10 italic">
                             "I created this platform to ensure students don't fall for fake promises.
                             My data is raw, real, and directly from official sources."
                         </p>
-                        <a href="https://youtube.com/@ShadAmanKhan" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 text-red-500 font-bold hover:text-red-600 relative z-10">
+
+                        <a href="https://youtube.com/@ShadAmanKhan" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 bg-red-50 text-red-600 px-4 py-2 rounded-full font-bold hover:bg-red-100 transition-colors relative z-10">
                             <span>📺</span> Watch on YouTube
                         </a>
                     </div>

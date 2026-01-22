@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
+import shadAman from '../assets/shad_aman_khan.png';
 import { fetchCollegeStats } from '../api';
 
 const CounsellingGuidance = () => {
@@ -80,6 +81,33 @@ const CounsellingGuidance = () => {
             </section>
 
             <div className="max-w-5xl mx-auto px-5">
+
+                {/* Trust Card */}
+                <div className="bg-white rounded-3xl p-6 md:p-8 shadow-sm border border-slate-200 mb-12 flex flex-col md:flex-row items-center gap-6 md:gap-10">
+                    <div className="shrink-0 relative">
+                        <div className="w-28 h-28 md:w-32 md:h-32 rounded-full p-1 bg-gradient-to-br from-blue-500 to-indigo-500 shadow-lg">
+                            <img
+                                src={shadAman}
+                                alt="Shad Aman Khan"
+                                className="w-full h-full object-cover rounded-full border-4 border-white"
+                            />
+                        </div>
+                        <div className="absolute -bottom-2 -right-2 bg-blue-600 text-white text-[10px] font-bold px-2 py-1 rounded-full border-2 border-white">
+                            MENTOR
+                        </div>
+                    </div>
+                    <div className="text-center md:text-left flex-1">
+                        <div className="flex items-center justify-center md:justify-start gap-2 mb-2">
+                            <h3 className="text-xl md:text-2xl font-bold text-slate-900">Trust Card</h3>
+                            <span className="text-blue-500 text-xl">✓</span>
+                        </div>
+                        <p className="text-blue-600 font-bold text-sm mb-3 uppercase tracking-wide">Shad Aman Khan • Educator & NEET Mentor</p>
+                        <p className="text-slate-600 italic leading-relaxed">
+                            "I created this platform to ensure students don't fall for fake promises.
+                            My data is real, raw, and directly from official counselling sources."
+                        </p>
+                    </div>
+                </div>
 
                 {/* 1. Rank Zone Checker */}
                 <div className="bg-white rounded-3xl shadow-lg border border-slate-100 p-8 md:p-10 mb-12 relative overflow-hidden">
