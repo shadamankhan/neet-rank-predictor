@@ -74,7 +74,7 @@ const CounsellingGuidance = () => {
 
     return (
         <div className="min-h-screen bg-gray-50 pb-12 font-sans">
-            <section className="text-center pt-12 pb-10 px-4">
+            <section className="text-center pt-28 pb-10 px-4">
                 <h1 className="text-3xl md:text-4xl font-bold text-slate-800 mb-2">Counselling Guidance</h1>
                 <p className="text-slate-600 text-lg">Know your reality. Plan your future.</p>
             </section>
