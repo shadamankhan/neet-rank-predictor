@@ -3,7 +3,8 @@ const router = express.Router();
 const fs = require('fs');
 const path = require('path');
 const Attempt = require('../src/models/Attempt');
-const Test = require('../src/models/Test');
+// const Test = require('../src/models/Test');
+const firebaseAdminWrapper = require('../firebaseAdmin');
 
 const QUERIES_FILE = path.join(__dirname, '../data/user_queries.json');
 const MOCK_TESTS_FILE = path.join(__dirname, '../data/user_mock_tests.json');
@@ -27,34 +28,79 @@ router.get('/', async (req, res) => {
         const legacyTests = readJSON(MOCK_TESTS_FILE);
         const students = {};
 
-        // 1. Extract users from Queries (Source of Name/Email/Phone)
+        // 0. Fetch Firebase Users (Base Source)
+        if (firebaseAdminWrapper.isInitialized && firebaseAdminWrapper.admin) {
+             try {
+                // List batch of users, 1000 max. For production with >1000, pagination is needed.
+                const listUsersResult = await firebaseAdminWrapper.admin.auth().listUsers(1000);
+                listUsersResult.users.forEach((userRecord) => {
+                    const uid = userRecord.uid;
+                    students[uid] = {
+                        uid: uid,
+                        name: userRecord.displayName || 'Firebase User',
+                        email: userRecord.email || 'N/A',
+                        phone: userRecord.phoneNumber || 'N/A',
+                        joinedAt: userRecord.metadata.creationTime,
+                        testsTaken: 0,
+                        avgScore: 0,
+                        totalScore: 0, // Temp for calc
+                        lastActive: userRecord.metadata.lastSignInTime || userRecord.metadata.creationTime,
+                        source: 'firebase'
+                    };
+                });
+             } catch (firebaseErr) {
+                 console.error("Error fetching Firebase users:", firebaseErr);
+                 // Continue without crashing
+             }
+        }
+
+        // 1. Extract/Merge from Queries
         queries.forEach(q => {
-            if (!q.uid) return;
-            if (!students[q.uid]) {
-                students[q.uid] = {
-                    uid: q.uid,
-                    name: q.name || 'Unknown',
+            let uid = q.uid;
+            let isGuest = false;
+
+            // If no UID, try to identify by phone or email
+            if (!uid) {
+                if (q.phone) {
+                    uid = `guest_phone_${q.phone}`;
+                    isGuest = true;
+                } else if (q.email) {
+                    uid = `guest_email_${q.email}`;
+                    isGuest = true;
+                }
+            }
+
+            if (!uid) return; // Skip if absolutely no identifier
+
+            if (!students[uid]) {
+                students[uid] = {
+                    uid: uid,
+                    name: q.name || 'Unknown Guest',
                     email: q.email || 'N/A',
                     phone: q.phone || 'N/A',
                     joinedAt: q.createdAt,
                     testsTaken: 0,
                     avgScore: 0,
+                    totalScore: 0,
                     lastActive: q.createdAt,
-                    source: 'legacy'
+                    source: isGuest ? 'guest_query' : 'legacy'
                 };
             } else {
-                if (q.name && students[q.uid].name === 'Unknown') students[q.uid].name = q.name;
-                if (q.email && students[q.uid].email === 'N/A') students[q.uid].email = q.email;
-                if (q.phone && students[q.uid].phone === 'N/A') students[q.uid].phone = q.phone;
-                if (new Date(q.createdAt) > new Date(students[q.uid].lastActive)) {
-                    students[q.uid].lastActive = q.createdAt;
+                // Enrich existing record (Firebase or previous)
+                if (q.name && (students[uid].name === 'Unknown' || students[uid].name === 'Firebase User')) students[uid].name = q.name;
+                if (q.email && students[uid].email === 'N/A') students[uid].email = q.email;
+                if (q.phone && students[uid].phone === 'N/A') students[uid].phone = q.phone;
+                
+                 if (new Date(q.createdAt) > new Date(students[uid].lastActive)) {
+                    students[uid].lastActive = q.createdAt;
                 }
             }
         });
 
         // 2. Extract/Update from Legacy Mock Tests
         legacyTests.forEach(t => {
-            if (!t.uid) return;
+            if (!t.uid) return; // Legacy tests usually have UIDs.
+            
             if (!students[t.uid]) {
                 students[t.uid] = {
                     uid: t.uid,
@@ -82,12 +128,12 @@ router.get('/', async (req, res) => {
 
         for (const attempt of mongoAttempts) {
             const uid = attempt.userId;
-            if (!uid || uid === 'guest_user') continue; // Skip guests or nulls
+            if (!uid || uid === 'guest_user') continue; 
 
             if (!students[uid]) {
                 students[uid] = {
                     uid: uid,
-                    name: 'Student (App User)', // We don't have user profile easily accessible if they didn't send query
+                    name: 'App User', 
                     email: 'N/A',
                     phone: 'N/A',
                     joinedAt: attempt.submitTime,
@@ -101,7 +147,7 @@ router.get('/', async (req, res) => {
             const s = students[uid];
             s.testsTaken++;
             s.totalScore = (s.totalScore || 0) + (attempt.score || 0);
-            if (new Date(attempt.submitTime) > new Date(s.lastActive)) {
+             if (new Date(attempt.submitTime) > new Date(s.lastActive)) {
                 s.lastActive = attempt.submitTime;
             }
         }
@@ -132,19 +178,45 @@ router.get('/:uid', async (req, res) => {
         const queries = readJSON(QUERIES_FILE);
         const legacyTests = readJSON(MOCK_TESTS_FILE);
 
-        const studentQueries = queries.filter(q => q.uid === uid);
-        const studentLegacyTests = legacyTests.filter(t => t.uid === uid);
+        let studentQueries = [];
+        let studentLegacyTests = [];
+        
+        // Handle Guest/Synthetic UIDs
+        if (uid.startsWith('guest_phone_')) {
+            const phone = uid.replace('guest_phone_', '');
+            studentQueries = queries.filter(q => q.phone === phone);
+        } else if (uid.startsWith('guest_email_')) {
+            const email = uid.replace('guest_email_', '');
+            studentQueries = queries.filter(q => q.email === email);
+        } else {
+            // Standard UID
+            studentQueries = queries.filter(q => q.uid === uid);
+            studentLegacyTests = legacyTests.filter(t => t.uid === uid);
+        }
 
-        // Fetch MongoDB attempts
-        const mongoAttempts = await Attempt.find({ userId: uid })
+        // Fetch MongoDB attempts (Only if not a guest)
+        let mongoAttempts = [];
+        if (!uid.startsWith('guest_')) {
+             mongoAttempts = await Attempt.find({ userId: uid })
             .populate('testId', 'title totalMarks')
             .sort({ submitTime: -1 });
+        }
 
-        if (studentQueries.length === 0 && studentLegacyTests.length === 0 && mongoAttempts.length === 0) {
+        // Try checking Firebase for profile info if standard UID
+        let firebaseUser = null;
+        if (!uid.startsWith('guest_') && firebaseAdminWrapper.isInitialized && firebaseAdminWrapper.admin) {
+             try {
+                 firebaseUser = await firebaseAdminWrapper.admin.auth().getUser(uid);
+             } catch(e) {
+                 // ignore if not found
+             }
+        }
+
+        if (studentQueries.length === 0 && studentLegacyTests.length === 0 && mongoAttempts.length === 0 && !firebaseUser) {
             return res.status(404).json({ ok: false, message: 'Student not found' });
         }
 
-        // Basic Info
+        // Basic Info Construction
         let profile = {
             uid,
             name: 'Unknown',
@@ -153,23 +225,28 @@ router.get('/:uid', async (req, res) => {
             joinedAt: ''
         };
 
+        if (firebaseUser) {
+            profile.name = firebaseUser.displayName || 'Firebase User';
+            profile.email = firebaseUser.email || 'N/A';
+            profile.phone = firebaseUser.phoneNumber || 'N/A';
+            profile.joinedAt = firebaseUser.metadata.creationTime;
+        }
+
+        // Override/Enrich with query data if available
         if (studentQueries.length > 0) {
             const q = studentQueries[0];
-            profile.name = q.name || profile.name;
-            profile.email = q.email || profile.email;
-            profile.phone = q.phone || profile.phone;
-            profile.joinedAt = q.createdAt;
+            if (!profile.name || profile.name === 'Unknown' || profile.name === 'Firebase User') profile.name = q.name || profile.name;
+            if (profile.email === 'N/A') profile.email = q.email || profile.email;
+             if (profile.phone === 'N/A') profile.phone = q.phone || profile.phone;
+            if (!profile.joinedAt) profile.joinedAt = q.createdAt;
         } else if (studentLegacyTests.length > 0) {
-            profile.joinedAt = studentLegacyTests[0].createdAt;
+             if (!profile.joinedAt) profile.joinedAt = studentLegacyTests[0].createdAt;
         } else if (mongoAttempts.length > 0) {
-            profile.name = 'App User'; // Fallback
-            profile.joinedAt = mongoAttempts[mongoAttempts.length - 1].submitTime;
+             if (profile.name === 'Unknown') profile.name = 'App User';
+             if (!profile.joinedAt) profile.joinedAt = mongoAttempts[mongoAttempts.length - 1].submitTime;
         }
 
         // Combine Tests for History
-        // Legacy Format: { id, testName, score, date, ... }
-        // Mongo Format: { _id, testId: { title }, score, submitTime, ... } -> Convert to common
-
         const normalizedHistory = [];
 
         studentLegacyTests.forEach(t => {
