@@ -8,6 +8,11 @@ const UserSchema = new mongoose.Schema({
         enum: ['student', 'admin', 'sub-admin'],
         default: 'student'
     },
+    examProfile: {
+        examType: { type: String, enum: ['NEET', 'AMU_11'], default: 'NEET' },
+        targetYear: Number,
+        currentClass: String // '9', '10', '11', '12'
+    },
     subscription: {
         isPaid: { type: Boolean, default: false },
         activeModules: [{ type: mongoose.Schema.Types.ObjectId, ref: 'Module' }], // List of purchased modules

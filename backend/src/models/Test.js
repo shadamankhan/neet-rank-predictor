@@ -5,6 +5,7 @@ const TestSchema = new mongoose.Schema({
     moduleId: { type: mongoose.Schema.Types.ObjectId, ref: 'Module' },
 
     // Test Configuration
+    category: { type: String, enum: ['NEET', 'AMU_11'], default: 'NEET', index: true },
     type: { type: String, enum: ['full', 'part', 'chapter', 'pyq', 'free', 'mock', 'generated'], required: true },
     subjects: [String], // ["Physics", "Chemistry"]
     duration: { type: Number, default: 180 }, // in minutes

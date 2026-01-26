@@ -1,0 +1,445 @@
+{
+    "test": {
+        "_id": "dummy_amu_test_01",
+        "title": "AMU Class 11 Science Mock Test 1",
+        "duration": 120,
+        "totalMarks": 100,
+        "questions": [
+            {
+                "_id": "q1",
+                "statement": "The dimension of Planck's constant is same as that of:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Energy",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Momentum",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "Angular Momentum",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "text": "Power",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Physics"
+                }
+            },
+            {
+                "_id": "q2",
+                "statement": "A ball is thrown vertically upwards. At the highest point, its velocity and acceleration are:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "v = 0, a = 0",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "v = 0, a = g (downwards)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "v = g, a = 0",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "v = g, a = g",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Physics"
+                }
+            },
+            {
+                "_id": "q3",
+                "statement": "The number of moles of solute present in 1 kg of solvent is called:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Molarity",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Molality",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "Normality",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Mole Fraction",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Chemistry"
+                }
+            },
+            {
+                "_id": "q4",
+                "statement": "Which of the following is an ore of Aluminium?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Haematite",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Bauxite",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "Magnetite",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Siderite",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Chemistry"
+                }
+            },
+            {
+                "_id": "q5",
+                "statement": "If log x + log 4 = log 20, then the value of x is:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "10",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "5",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "80",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "16",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Mathematics"
+                }
+            },
+            {
+                "_id": "q6",
+                "statement": "The sum of the first n odd natural numbers is:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "2n - 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "n²",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "n² - 1",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "n(n+1)",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Mathematics"
+                }
+            },
+            {
+                "_id": "q7",
+                "statement": "Who was the founder of the Mohammedan Anglo-Oriental (MAO) College?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Maulana Abul Kalam Azad",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Sir Syed Ahmad Khan",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "Allama Iqbal",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Liaquat Ali Khan",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Indo-Islamic Culture"
+                }
+            },
+            {
+                "_id": "q8",
+                "statement": "The year in which MAO College became Aligarh Muslim University was:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "1875",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "1920",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "1947",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "1905",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Indo-Islamic Culture"
+                }
+            },
+            {
+                "_id": "q9",
+                "statement": "Who wrote 'Asar-us-Sanadid'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Altaf Hussain Hali",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Shibli Nomani",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "Sir Syed Ahmad Khan",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "text": "Nazeer Ahmad",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Indo-Islamic Culture"
+                }
+            },
+            {
+                "_id": "q10",
+                "statement": "Which cell organelle is known as the 'Powerhouse of the cell'?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Ribosome",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Mitochondria",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "Lysosome",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Golgi Apparatus",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Biology"
+                }
+            },
+            {
+                "_id": "q11",
+                "statement": "The SI unit of electric current is:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Volt",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Ampere",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "Ohm",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Coulomb",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Physics"
+                }
+            },
+            {
+                "_id": "q12",
+                "statement": "Identify the functional group in aldehydes.",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "-OH",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "-COOH",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "-CHO",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "text": ">C=O",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Chemistry"
+                }
+            },
+            {
+                "_id": "q13",
+                "statement": "The value of sin 30° + cos 60° is:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "1",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 2,
+                        "text": "0",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "1/2",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "√3/2",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Mathematics"
+                }
+            },
+            {
+                "_id": "q14",
+                "statement": "The holy book Revealed to Prophet Musa (AS) is:",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Injil",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Zabur",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 3,
+                        "text": "Torah (Tawrat)",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 4,
+                        "text": "Quran",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Indo-Islamic Culture"
+                }
+            },
+            {
+                "_id": "q15",
+                "statement": "Which gas is evolved when zinc granules react with dilute sulphuric acid?",
+                "options": [
+                    {
+                        "id": 1,
+                        "text": "Oxygen",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 2,
+                        "text": "Hydrogen",
+                        "isCorrect": true
+                    },
+                    {
+                        "id": 3,
+                        "text": "Nitrogen",
+                        "isCorrect": false
+                    },
+                    {
+                        "id": 4,
+                        "text": "Carbon Dioxide",
+                        "isCorrect": false
+                    }
+                ],
+                "tags": {
+                    "subject": "Chemistry"
+                }
+            }
+        ]
+    }
+}
