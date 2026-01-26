@@ -42,7 +42,7 @@ export default function Dashboard() {
                     <p style={{ fontSize: '0.9rem', color: '#666' }}>Physics, Chemistry, Biology</p>
                     <div style={{ marginTop: '1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                         <span style={{ background: '#e0f2f1', padding: '0.25rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', color: 'var(--amu-primary)' }}>Moderate</span>
-                        <button className="btn-primary" style={{ padding: '0.25rem 1rem', fontSize: '0.9rem' }}>Attempt</button>
+                        <button className="btn-primary" style={{ padding: '0.25rem 1rem', fontSize: '0.9rem' }} onClick={() => navigate('/test/demo')}>Attempt</button>
                     </div>
                 </div>
 
@@ -51,7 +51,7 @@ export default function Dashboard() {
                     <p style={{ fontSize: '0.9rem', color: '#666' }}>Class 10 Syllabus</p>
                     <div style={{ marginTop: '1rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                         <span style={{ background: '#ffebee', padding: '0.25rem 0.5rem', borderRadius: '4px', fontSize: '0.8rem', color: 'var(--amu-secondary)' }}>Hard</span>
-                        <button className="btn-primary" style={{ padding: '0.25rem 1rem', fontSize: '0.9rem' }}>Attempt</button>
+                        <button className="btn-primary" style={{ padding: '0.25rem 1rem', fontSize: '0.9rem' }} onClick={() => navigate('/test/demo2')}>Attempt</button>
                     </div>
                 </div>
 
